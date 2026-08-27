@@ -22,33 +22,26 @@ EXCLUDED_CATEGORIES = {"Popular News"}
 NEP_TO_ENG_DIGITS = str.maketrans('०१२३४५६७८९', '0123456789')
 
 NEP_STOP_WORDS = {
-    "नेपाल", "नेपालका", "सरकार", "काठमाडौं", "काठमाडौँ", "पोखरा", "प्रहरी", "भने", 
+    "नेपाल", "नेपालका", "सरकार", "काठमाडौं", "प्रविधि", "भने", 
     "भएका", "भइरहेको", "अनुसार", "बारे", "गरिएको", "गरेको", "गर्न", "भएको", "लागि",
-    "nepal", "kathmandu", "news", "today", "update"
+    "tech", "technology", "news", "today", "update", "mobile", "app"
 }
 
 RSS_FEEDS = [
-    {"name": "Onlinekhabar", "url": "https://www.onlinekhabar.com/feed"},
-    {"name": "Sidhakura", "url": "https://www.sidhakura.com/feed"},
-    {"name": "Artha Sarokar", "url": "https://arthasarokar.com/feed"},
+    # Nepali Tech Feeds
     {"name": "TechPana", "url": "https://techpana.com/feed"},
-    {"name": "Nagarik News", "url": "https://nagariknews.nagariknetwork.com/feed"},
-    {"name": "Setopati", "url": "https://www.setopati.com/feed"},
-    {"name": "BBC Nepali", "url": "https://feeds.bbci.co.uk/nepali/rss.xml"},
-    {"name": "Shilapatra", "url": "https://shilapatra.com/feed"},
-    {"name": "Ratopati", "url": "https://www.ratopati.com/feed"},
-    {"name": "Swasthya Khabar", "url": "https://swasthyakhabar.com/feed"},
-    {"name": "Baahrakhari", "url": "https://baahrakhari.com/feed"},
-    {"name": "Gorkhapatra", "url": "https://gorkhapatraonline.com/rss"},
-    {"name": "News of Nepal", "url": "https://newsofnepal.com/feed/"},
-    {"name": "Rajdhani Daily", "url": "https://rajdhanidaily.com/feed/"},
-    {"name": "Lokpath", "url": "https://www.lokpath.com/feed/"},
-    {"name": "Pahilopost", "url": "https://pahilopost.com/feed"},
-    {"name": "Image Khabar", "url": "https://www.imagekhabar.com/feed/"},
-    {"name": "Bizmandu", "url": "https://bizmandu.com/feed"},
-    {"name": "Clickmandu", "url": "https://clickmandu.com/feed"},
-    {"name": "Arthasansar", "url": "https://arthasansar.com/feed"},
-    {"name": "DC Nepal", "url": "https://www.dcnepal.com/feed/"},
+    {"name": "GadgetByte Nepal", "url": "https://www.gadgetbytenepal.com/feed"},
+    
+    # Global Tech Feeds
+    {"name": "TechCrunch", "url": "https://techcrunch.com/feed/"},
+    {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml"},
+    {"name": "Wired", "url": "https://www.wired.com/feed/rss"},
+    {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index"},
+    {"name": "Engadget", "url": "https://www.engadget.com/rss.xml"},
+    {"name": "VentureBeat", "url": "https://venturebeat.com/feed/"},
+    {"name": "9to5Mac", "url": "https://9to5mac.com/feed/"},
+    {"name": "Android Central", "url": "https://www.androidcentral.com/rss.xml"},
+    {"name": "Gizmodo", "url": "https://gizmodo.com/rss"}
 ]
 
 def normalize_digits(text):
@@ -295,65 +288,43 @@ def get_explicit_categories(entry, link, source_name):
 
     url_path = urlparse(link).path.lower()
 
-    if "swasthyakhabar" in source_name.lower():
-        categories.add("Health News")
-    if "techpana" in source_name.lower():
-        categories.add("Technology News")
-
+    # Tech-focused categories mapping
     mappings = [
-        ("Share Market News", [
-            "/share/", "/stock/", "/nepse/", "/market/",
-            "share", "stock", "nepse", "ipo", "trading", "sebon", "share market",
-            "quarter report", "market movements", "पुँजी बजार", "शेयर", "सेयर", "नेप्से", "आइपिओ"
+        ("AI & Machine Learning", [
+            "/ai/", "/artificial-intelligence/", "/machine-learning/",
+            "ai", "artificial intelligence", "chatgpt", "openai", "llm", "machine learning", "claude", "gemini", "एआई"
         ]),
-        ("Sports News", [
-            "/sports/", "/khelkud/", "/khel/",
-            "sport", "sports", "cricket", "football", "khel", "khelkud", "खेल", "क्रिकेट", "फुटबल"
+        ("Cybersecurity", [
+            "/security/", "/cybersecurity/", "/privacy/",
+            "security", "cybersecurity", "privacy", "hack", "hacker", "malware", "vulnerability", "ransomware", "साइबर"
         ]),
-        ("Entertainment News", [
-            "/entertainment/", "/manoranjan/", "/cinema/",
-            "entertainment", "manoranjan", "movie", "film", "cinema", "music", "bollywood", "hollywood",
-            "मनोरञ्जन", "चलचित्र", "फिल्म", "सिनेमा", "संगीत", "बलिउड", "हलिउड", "बलिउड/हलिउड", "कला/मनोरञ्जन"
+        ("Gadgets & Hardware", [
+            "/gadgets/", "/hardware/", "/reviews/", "/smartphones/", "/laptops/",
+            "gadget", "gadgets", "hardware", "smartphone", "laptop", "iphone", "android", "macbook", "samsung", "apple", "ग्याजेट"
         ]),
-        ("Health News", [
-            "/health/", "/swasthya/",
-            "health", "swasthya", "hospital", "doctor", "स्वास्थ्य", "हेल्थ", "अस्पताल", "डाक्टर","हेल्थ फिचर", "हेल्थ मेन स्टोरी", "प्रसूति","शल्यक्रिया",
+        ("Software & Apps", [
+            "/software/", "/apps/", "/mobile-apps/",
+            "software", "app", "apps", "windows", "ios", "linux", "developer", "programming", "एप"
         ]),
-        ("Technology News", [
-            "/technology/", "/tech/", "/prabidhi/",
-            "technology", "tech", "prabidhi", "ai", "app", "mobile", "startup", "social media",
-            "प्रविधि", "एप्लिकेसन", "एप", "एआई", "स्टार्टअप", "सोसल मिडिया"
+        ("Mobile & Telecom", [
+            "/mobile/", "/telecom/", "/5g/",
+            "mobile", "telecom", "5g", "network", "ncell", "ntc", "स्मार्टफोन", "टेलिकम"
         ]),
-        ("Political News", [
-            "/politics/", "/rajniti/", "/rajneeti/",
-            "politics", "political", "rajniti", "rajneeti", "minister", "policy",
-            "राजनीति", "मन्त्री", "नीति"
+        ("Tech Business & Startups", [
+            "/startups/", "/business/", "/tech-business/",
+            "startup", "startups", "business", "big tech", "funding", "vc", "silicon valley", "स्टार्टअप"
         ]),
-        ("Economic News", [
-            "/economy/", "/economic/", "/arthik/", "/energy/",
-            "economy", "economic", "arthik", "budget", "energy",
-            "अर्थतन्त्र", "बजेट", "अर्थ", "आर्थिक", "उर्जा"
+        ("Gaming", [
+            "/gaming/", "/games/", "/esports/",
+            "gaming", "games", "esports", "playstation", "xbox", "nintendo", "pc gaming", "गेमिङ"
         ]),
-        ("Business News", [
-            "/business/", "/wyapar/", "/bazar/", "/banking/", "/kinmel/",
-            "business", "wyapar", "bazar", "bank", "banking", "banks", "corporate", "insurance",
-            "laghubitta", "sahakari", "auto", "tourism", "kinmel",
-            "व्यापार", "बैंक", "बजार", "कर्पोरेट", "लघुवित्त", "बीमा", "सहकारी", "अटो", "पर्यटन",
-            "उद्योग", "बैंक – वित्त", "वित्त", "सुन चाँदी"
+        ("Science & Innovation", [
+            "/science/", "/space/", "/robotics/",
+            "science", "space", "robotics", "innovation", "biotech", "विज्ञान"
         ]),
-        ("Crime & Investigation", [
-            "/crime/", "/investigation/",
-            "crime", "investigation", "अपराध", "अनुसन्धान"
-        ]),
-        ("International News", [
-            "/world/", "/international/", "/bidesh/", "/videsh/",
-            "world", "international", "bidesh", "videsh",
-            "विश्व", "अन्तर्राष्ट्रिय", "अन्तराष्ट्रिय", "विदेश"
-        ]),
-        ("National News", [
-            "/national/", "/pradesh/", "/desh/", "/social-affairs/", "/social/", "/opinion/", "/education/",
-            "national", "pradesh", "desh", "country", "social", "opinion", "education",
-            "राष्ट्रिय", "प्रदेश", "राष्ट्रिय समाचार", "देश", "देश/प्रदेश", "समाज"
+        ("Crypto & Web3", [
+            "/crypto/", "/blockchain/", "/web3/",
+            "crypto", "bitcoin", "ethereum", "blockchain", "web3", "nft"
         ])
     ]
 
@@ -380,6 +351,9 @@ def determine_categories(entry, title, link, clean_desc, source_name, pub_date=N
 
     if explicit_cats:
         categories.update(explicit_cats)
+    else:
+        # Default category for tech news if no specific tag matched
+        categories.add("Tech News")
 
     is_recent = False
     if pub_date:
@@ -391,7 +365,7 @@ def determine_categories(entry, title, link, clean_desc, source_name, pub_date=N
                 is_recent = True
 
     breaking_kw = [
-        "breaking", "urgent", "update", "live", "alert", "flash", "latest",
+        "breaking", "urgent", "update", "live", "alert", "flash", "latest", "leaked", "launched",
         "ब्रेकिङ", "अपडेट", "लाइभ", "तत्काल", "ताजा खबर", "भर्खरै", "विशेष"
     ]
 
@@ -548,7 +522,7 @@ def fetch_and_store_news():
                 item_xml = item_match.group(1)
                 link_match = re.search(r'<link[^>]*>(.*?)</link>', item_xml, re.IGNORECASE | re.DOTALL)
                 img_match = re.search(r'<image[^>]*>(.*?)</image>', item_xml, re.IGNORECASE | re.DOTALL)
-                
+
                 if link_match and img_match:
                     l_val = link_match.group(1).strip()
                     i_val = img_match.group(1).strip()
