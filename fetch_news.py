@@ -35,7 +35,15 @@ RSS_FEEDS = [
     {"name": "VentureBeat", "url": "https://venturebeat.com/feed/"},
     {"name": "9to5Mac", "url": "https://9to5mac.com/feed/"},
     {"name": "Android Central", "url": "https://www.androidcentral.com/rss.xml"},
-    {"name": "Gizmodo", "url": "https://gizmodo.com/rss"}
+    {"name": "Gizmodo", "url": "https://gizmodo.com/rss"},
+    {"name": "Techmeme", "url": "https://www.techmeme.com/feed.xml"},
+    {"name": "CNET", "url": "https://www.cnet.com/rss/news/"},
+    {"name": "ZDNet", "url": "https://www.zdnet.com/news/rss.xml"},
+    {"name": "TechRadar", "url": "https://www.techradar.com/rss"},
+    {"name": "Digital Trends", "url": "https://www.digitaltrends.com/feed/"},
+    {"name": "Mashable", "url": "https://mashable.com/feeds/rss/all"},
+    {"name": "The Next Web", "url": "https://thenextweb.com/feed"},
+    {"name": "TechSpot", "url": "https://www.techspot.com/backend/rss.xml"}
 ]
 
 def extract_domain_name(url):
