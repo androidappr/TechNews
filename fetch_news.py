@@ -15,24 +15,18 @@ OUTPUT_DIR = "public"
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "news.json")
 MAX_NEWS_ITEMS = 200
 
-NEPAL_TZ = timezone(timedelta(hours=5, minutes=45))
+LOCAL_TZ = timezone.utc
 
 EXCLUDED_CATEGORIES = {"Popular News"}
 
-NEP_TO_ENG_DIGITS = str.maketrans('०१२३४५६७८९', '0123456789')
-
-NEP_STOP_WORDS = {
-    "नेपाल", "नेपालका", "सरकार", "काठमाडौं", "प्रविधि", "भने", 
-    "भएका", "भइरहेको", "अनुसार", "बारे", "गरिएको", "गरेको", "गर्न", "भएको", "लागि",
+ENG_STOP_WORDS = {
+    "the", "a", "an", "and", "or", "in", "on", "at", "to", "for", "of", "with", "by",
+    "is", "are", "was", "were", "be", "been", "being", "have", "has", "had", "do",
+    "does", "did", "but", "if", "from", "its", "it", "this", "that", "these", "those",
     "tech", "technology", "news", "today", "update", "mobile", "app"
 }
 
 RSS_FEEDS = [
-    # Nepali Tech Feeds
-    {"name": "TechPana", "url": "https://techpana.com/feed"},
-    {"name": "GadgetByte Nepal", "url": "https://www.gadgetbytenepal.com/feed"},
-    
-    # Global Tech Feeds
     {"name": "TechCrunch", "url": "https://techcrunch.com/feed/"},
     {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml"},
     {"name": "Wired", "url": "https://www.wired.com/feed/rss"},
@@ -43,11 +37,6 @@ RSS_FEEDS = [
     {"name": "Android Central", "url": "https://www.androidcentral.com/rss.xml"},
     {"name": "Gizmodo", "url": "https://gizmodo.com/rss"}
 ]
-
-def normalize_digits(text):
-    if not text:
-        return text
-    return str(text).translate(NEP_TO_ENG_DIGITS)
 
 def extract_domain_name(url):
     if not url:
@@ -71,7 +60,7 @@ def get_resilient_session():
     scraper.headers.update({
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-        "Accept-Language": "en-US,en;q=0.9,ne;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
         "Referer": "https://www.google.com/",
         "Cache-Control": "max-age=0",
     })
@@ -81,12 +70,11 @@ def parse_date(date_string):
     if not date_string:
         return None
     try:
-        clean_str = normalize_digits(str(date_string))
-        dt = parser.parse(clean_str)
+        dt = parser.parse(str(date_string))
         if dt.tzinfo is None:
-            dt = dt.replace(tzinfo=NEPAL_TZ)
+            dt = dt.replace(tzinfo=LOCAL_TZ)
         else:
-            dt = dt.astimezone(NEPAL_TZ)
+            dt = dt.astimezone(LOCAL_TZ)
         return dt.isoformat()
     except Exception:
         return None
@@ -103,7 +91,7 @@ def extract_entry_date(entry):
         tp = entry.get(parsed_field)
         if tp:
             try:
-                dt = datetime(*tp[:6], tzinfo=timezone.utc).astimezone(NEPAL_TZ)
+                dt = datetime(*tp[:6], tzinfo=timezone.utc).astimezone(LOCAL_TZ)
                 return dt.isoformat()
             except Exception:
                 pass
@@ -244,21 +232,21 @@ def extract_image_from_entry(entry, base_url):
 
 def safe_parse_dt(iso_str):
     if not iso_str:
-        return datetime.min.replace(tzinfo=NEPAL_TZ)
+        return datetime.min.replace(tzinfo=LOCAL_TZ)
     try:
         dt = parser.parse(iso_str)
         if dt.tzinfo is None:
-            return dt.replace(tzinfo=NEPAL_TZ)
-        return dt.astimezone(NEPAL_TZ)
+            return dt.replace(tzinfo=LOCAL_TZ)
+        return dt.astimezone(LOCAL_TZ)
     except Exception:
-        return datetime.min.replace(tzinfo=NEPAL_TZ)
+        return datetime.min.replace(tzinfo=LOCAL_TZ)
 
 def check_keywords(full_text, keywords):
     if not full_text or not keywords:
         return False
 
     full_text_lower = full_text.lower()
-    words = set(re.findall(r'[\u0900-\u097F\w]+', full_text_lower))
+    words = set(re.findall(r'\w+', full_text_lower))
 
     for k in keywords:
         k_clean = k.strip().lower()
@@ -288,39 +276,38 @@ def get_explicit_categories(entry, link, source_name):
 
     url_path = urlparse(link).path.lower()
 
-    # Tech-focused categories mapping
     mappings = [
         ("AI & Machine Learning", [
             "/ai/", "/artificial-intelligence/", "/machine-learning/",
-            "ai", "artificial intelligence", "chatgpt", "openai", "llm", "machine learning", "claude", "gemini", "एआई"
+            "ai", "artificial intelligence", "chatgpt", "openai", "llm", "machine learning", "claude", "gemini"
         ]),
         ("Cybersecurity", [
             "/security/", "/cybersecurity/", "/privacy/",
-            "security", "cybersecurity", "privacy", "hack", "hacker", "malware", "vulnerability", "ransomware", "साइबर"
+            "security", "cybersecurity", "privacy", "hack", "hacker", "malware", "vulnerability", "ransomware"
         ]),
         ("Gadgets & Hardware", [
             "/gadgets/", "/hardware/", "/reviews/", "/smartphones/", "/laptops/",
-            "gadget", "gadgets", "hardware", "smartphone", "laptop", "iphone", "android", "macbook", "samsung", "apple", "ग्याजेट"
+            "gadget", "gadgets", "hardware", "smartphone", "laptop", "iphone", "android", "macbook", "samsung", "apple"
         ]),
         ("Software & Apps", [
             "/software/", "/apps/", "/mobile-apps/",
-            "software", "app", "apps", "windows", "ios", "linux", "developer", "programming", "एप"
+            "software", "app", "apps", "windows", "ios", "linux", "developer", "programming"
         ]),
         ("Mobile & Telecom", [
             "/mobile/", "/telecom/", "/5g/",
-            "mobile", "telecom", "5g", "network", "ncell", "ntc", "स्मार्टफोन", "टेलिकम"
+            "mobile", "telecom", "5g", "network"
         ]),
         ("Tech Business & Startups", [
             "/startups/", "/business/", "/tech-business/",
-            "startup", "startups", "business", "big tech", "funding", "vc", "silicon valley", "स्टार्टअप"
+            "startup", "startups", "business", "big tech", "funding", "vc", "silicon valley"
         ]),
         ("Gaming", [
             "/gaming/", "/games/", "/esports/",
-            "gaming", "games", "esports", "playstation", "xbox", "nintendo", "pc gaming", "गेमिङ"
+            "gaming", "games", "esports", "playstation", "xbox", "nintendo", "pc gaming"
         ]),
         ("Science & Innovation", [
             "/science/", "/space/", "/robotics/",
-            "science", "space", "robotics", "innovation", "biotech", "विज्ञान"
+            "science", "space", "robotics", "innovation", "biotech"
         ]),
         ("Crypto & Web3", [
             "/crypto/", "/blockchain/", "/web3/",
@@ -352,21 +339,19 @@ def determine_categories(entry, title, link, clean_desc, source_name, pub_date=N
     if explicit_cats:
         categories.update(explicit_cats)
     else:
-        # Default category for tech news if no specific tag matched
         categories.add("Tech News")
 
     is_recent = False
     if pub_date:
         parsed_dt = safe_parse_dt(pub_date)
-        now_dt = datetime.now(NEPAL_TZ)
-        if parsed_dt != datetime.min.replace(tzinfo=NEPAL_TZ):
+        now_dt = datetime.now(LOCAL_TZ)
+        if parsed_dt != datetime.min.replace(tzinfo=LOCAL_TZ):
             diff = now_dt - parsed_dt
             if timedelta(hours=-1) <= diff <= timedelta(hours=4):
                 is_recent = True
 
     breaking_kw = [
-        "breaking", "urgent", "update", "live", "alert", "flash", "latest", "leaked", "launched",
-        "ब्रेकिङ", "अपडेट", "लाइभ", "तत्काल", "ताजा खबर", "भर्खरै", "विशेष"
+        "breaking", "urgent", "update", "live", "alert", "flash", "latest", "leaked", "launched"
     ]
 
     link_lower = link.lower()
@@ -394,21 +379,21 @@ def determine_categories(entry, title, link, clean_desc, source_name, pub_date=N
     return sorted(list(categories))
 
 def detect_multi_source_breaking_news(items):
-    now_dt = datetime.now(NEPAL_TZ)
+    now_dt = datetime.now(LOCAL_TZ)
     recent_items = []
 
     for item in items:
         pdate = item.get("pub_date")
         if pdate:
             dt = safe_parse_dt(pdate)
-            if dt != datetime.min.replace(tzinfo=NEPAL_TZ):
+            if dt != datetime.min.replace(tzinfo=LOCAL_TZ):
                 diff = now_dt - dt
                 if timedelta(hours=-1) <= diff <= timedelta(hours=6):
                     recent_items.append(item)
 
     def get_tokens(text):
-        tokens = set(re.findall(r'[\u0900-\u097F\w]{3,}', text.lower()))
-        return tokens - NEP_STOP_WORDS
+        tokens = set(re.findall(r'\b\w{3,}\b', text.lower()))
+        return tokens - ENG_STOP_WORDS
 
     source_matches = {id(item): {item.get("source_name")} for item in recent_items}
 
@@ -449,13 +434,13 @@ def titles_are_duplicate(title1, title2):
     if not title1 or not title2:
         return False
 
-    norm1 = re.sub(r'[^\u0900-\u097F\w]', '', title1.lower())
-    norm2 = re.sub(r'[^\u0900-\u097F\w]', '', title2.lower())
+    norm1 = re.sub(r'[^\w]', '', title1.lower())
+    norm2 = re.sub(r'[^\w]', '', title2.lower())
     if norm1 == norm2:
         return True
 
-    tokens1 = set(re.findall(r'[\u0900-\u097F\w]{2,}', title1.lower())) - NEP_STOP_WORDS
-    tokens2 = set(re.findall(r'[\u0900-\u097F\w]{2,}', title2.lower())) - NEP_STOP_WORDS
+    tokens1 = set(re.findall(r'\b\w{2,}\b', title1.lower())) - ENG_STOP_WORDS
+    tokens2 = set(re.findall(r'\b\w{2,}\b', title2.lower())) - ENG_STOP_WORDS
 
     if not tokens1 or not tokens2:
         return False
@@ -476,7 +461,7 @@ def deduplicate_cross_source(items):
         for u_item in unique_items:
             dt_u = safe_parse_dt(u_item.get("pub_date"))
 
-            if dt_item != datetime.min.replace(tzinfo=NEPAL_TZ) and dt_u != datetime.min.replace(tzinfo=NEPAL_TZ):
+            if dt_item != datetime.min.replace(tzinfo=LOCAL_TZ) and dt_u != datetime.min.replace(tzinfo=LOCAL_TZ):
                 if abs((dt_item - dt_u).total_seconds()) > 172800:
                     continue
 
