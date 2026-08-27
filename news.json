@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://venturebeat.com/security/visa-agentic-security-harness-autonomous-fix",
+    "title": "Visa ships a security AI that patches production code before any human reviews it",
+    "description": "Visa's open-source security harness now finds the vulnerability, writes the fix, and turns an adversarial panel on its own patch before any human reviews it. The whole loop ships on by default. A plain scan of the Visa Vulnerability Agentic Harness runs all 11 stages and edits source files in the target repo unless the operator caps it at detection.The announcement Thursday pairs the release with an expansion of the Visa Consulting & Analytics advisory practice. Visa is shipping that default 18 days after Tenet Security demonstrated GhostJacking on the DEF CON 34 main stage, an attack chain in which an agent read an attacker's payload out of a log file and rewrote DNS with a valid credential. Two days earlier, Steve Wilson, Chief AI and Product Officer at Exabeam and project co-lead for the OWASP Top 10 for LLM Applications, made the case in VentureBeat for the opposite default. \"The first thing I'd do is put an authorization gate outside the model,\" Wilson said in written responses. \"The agent can propose the exact DNS change, but it cannot grant itself the authority to make it.\"The bottleneck moved, so Visa moved the pipelineRajat Taneja, Visa's president of technology, rejects the premise that the default is a risk decision and calls it the product. \"The bottleneck has moved,\" Taneja told VentureBeat in an exclusive interview. \"AI is finding vulnerabilities faster than humans can in the history of our technology industry. The new bottleneck is fixing and proving we have fixed things.\"VVAH grew out of Visa's participation in Anthropic's Project Glasswing, where the company aimed Claude Mythos at the network behind billions of daily transactions and watched the model chain minor weaknesses into working exploits, a hunt VentureBeat covered in July. \"VVAH initially was completely only using Mythos, and that's when all of us, as part of Project Glasswing, realized the power of this new class of models that does semantic reasoning,\" Taneja said.The harness went to GitHub in June and has climbed from 595 stars and 97 forks on July 20 to more than 2,300 stars and 300 forks as of August 25, with a clone-to-visitor ratio Taneja put near 9%. \"We have got some very high-profile companies that have started using this harness,\" he said.Why give it away? Taneja's answer starts with Visa's technology DNA and a harness built \"to protect Visa and our ecosystem.\" The reason he leaned on hardest was obligation, \"to do good by doing right\" for \"companies who may not have the same level of investments or knowledge in cybersecurity.\"Contribution runs one way. The repo states it is not currently accepting external code contributions, so the harness that edits adopters' source takes no code into its own.Thursday's release extends the pipeline past the report. \"We're going from discover, verify, and report, and then fix it, to discover it, verify it, remediate it, validate it, and iterate it,\" Taneja said. \"If a fix doesn't negate the exploit, then there should be a structured, automated feedback that preserves the learnings from the first run and then enhances it.\" Underneath that loop, the release refactors scanning around an abstract syntax tree call graph that maps subroutine calls and the traversal paths an attacker could reach. Taneja argued the change cuts token counts while delivering \"better reasoning, context, and better exploitability analysis.\" On top sits MTTA observability across the stages, what he called a window pane, plus real-time progress views. \"A pretty good step function,\" he said of the release.One metric, three definitionsMean Time to Adapt, the metric Visa invented alongside the harness, gets a shorter definition in this release. The short form is the time between discovery and resolution of attack paths, with some resolutions, Visa claims, shrinking from weeks to hours. Visa published a wider construction in June, and the Project Glasswing white paper tracks MTTA along three dimensions that include inventory freshness, exploitable paths per release, and validation cycle time. The repo carries a third, elapsed time from AI-discovered exploitability to a validated fix in production. Board slides will quote the shortest interval. Ask for all three, because a resolution count that skips validation is what MTTA was invented to replace.Taneja ranks MTTA as \"the most strategically important metric\" because it shifts the focus from scanning to how fast an enterprise adapts. His shorthand is blunter. \"It's not the finding. It's the fixing that matters,\" he said.The default and the gateWilson's argument went past naming the gate. \"We have to remember that security rules written inside prompts may shape the model's behavior, but they are still suggestions to the model, not enforceable security controls,\" he wrote. He also priced the control honestly. \"The tradeoff is that the agent loses the ability to improvise arbitrary, high-impact infrastructure changes on its own, while retaining autonomous investigation and routine, bounded remediation,\" Wilson said.The harness ships no approval step between patch and edited file. Where the human sits was the first question VentureBeat put to Visa in writing.The company's own June white paper sets the bar. \"AI agents are identities\" sits among its 12 non-negotiable practices, requiring scoped permissions, least privilege, audit trails, and IAM governance for every agent that modifies a system. VVAH's shipped default is that agent.\"A lot of the traditional systems that are used today are basically signal providers,\" Taneja told VentureBeat. \"They are telemetry, and then it's a lot of human analysis, and your SOC and your security and incident response teams doing a lot of the heavy lifting when they respond,\" and that, he said, cannot work at this scale. He pointed to the Hugging Face incident and \"other frontier models escaping sandboxes to do things more autonomously\" as the preview. \"We have seen the trailer of this movie,\" Taneja said, and \"every company in the world should prepare and rethink their architecture.\"What the harness automates is the adversarial step. Before a fix counts as validated, the panel scores whether the patch negates the exploit, Taneja's test for done, with failed fixes feeding the next attempt, the iterate step Taneja described. Stage 11 itself runs read-only, per the README, and VVAH does not compile, build, or run tests against the patched tree. Taneja calls that wrapper \"the governance architecture on top of that,\" and chaining findings into working exploits takes threat modeling and business context, which is why he argued \"the harness with a model is far more effective than somebody using the model by itself.\"Visa answers the gate questionVentureBeat put its questions to Visa in writing after the interview, and the answers arrived before publication. On why remediation ships on, the response repeated the bottleneck argument, then narrowed the scope. \"VVAH is meant for authorized operators running against code they own, and in a controlled environment,\" the company said in written responses.The approval question drew the most specific answer. \"VVAH is a harness, not a merge tool,\" Visa wrote. \"Stage 10 writes candidate fixes to a working copy of the repo. Stage 11 then runs an adversarial validation panel that scores each fix and returns one of three verdicts: validated, validation failed or needs review. None of these bypasses your normal build, test, and code review flow.\" Humans, the company wrote, are \"the gate in three places. Before running the tool. When reviewing the patches. And before anything gets merged.\" \"The final call on any fix stays with the security and engineering teams. In an enterprise, trust and auditability are not optional. The default flow is built around that.\"Set beside Wilson's standard, the architecture lands close to his line and the sequence does not. Wilson's gate clears an action before it happens. The default's human gates open before the run and after the write. The attack is the automated part, and the three human gates sit outside the model, the boundary Wilson drew. \"Our goal is to help security teams work at AI speed, not to replace them,\" Visa wrote. \"VVAH does the repetitive parts. It finds issues, tests whether they are real, and proposes fixes. Before a fix gets to a human, an adversarial validation panel at stage eleven tries to break it. That way the human is spending time on decisions that need judgment, not on triaging noise.\"Client zero got direct confirmation. \"VVAH runs against Visa code today,\" Visa wrote, and Taneja had volunteered the posture on the call. \"We designed this and we were using it for ourselves, and we were client zero,\" he said, adding \"only when we saw the impact and the positive effect of what we were finding, we said every company would need this.\" What adopters value, Visa says, is context. VVAH pulls in CMDB data, threat models, and business risk, and where \"most tools stop at findings,\" it \"tries to answer, 'which of these should you fix first, given how your business runs.'\"Model choice becomes a per-stage decisionMulti-model orchestration is the other substantive change. \"Mythos has a very high recall, but the Opus model has very high precision,\" Taneja said. \"On stage one I want to use this model. On stage two I want to use this model,\" is how Taneja framed the per-stage setup, with newer GPT releases in the ensemble and open-weight models where pricing stings, all through configuration rather than code changes. \"The whole is greater than the sum of the parts,\" as he put it. The harness was model-agnostic from day one, he added, and the evolution moved that choice into configuration, with prompt tuning and caching shared underneath. One boundary moved. In June, applying a fix required Anthropic backends, and OpenAI-compatible backends ran report-only. The current README extends remediation and validation to OpenAI-compatible and open-weight models through a shared model-agnostic runtime, with no single provider as a hard dependency, and the default routing for both stages stays Anthropic.That flexibility lands on a market already churning. VentureBeat's Q2 2026 Pulse research found 59% of enterprises plan to adopt or switch agent security tooling within the year, and 82% still rely on provider-native controls as the primary layer. Visa said Thursday it is contributing VVAH to Nvidia's Open Secure AI Alliance as a model-agnostic framework and collaborating in Project Lightwell, the $5 billion IBM and Red Hat effort to harden open-source components.Before turning fix mode onDecisionWhat to establish firstRun postureStart with --stop-after s9 and read the SARIF output before any run that can write to source files.Approval gateMap Visa's three human gates onto the pipeline, at run, at patch review, and at merge, and name who holds each.Validation scopeStage 11 verdicts score the fix. Build, test, and code review stay in the team's own flow, per Visa, so keep an exploit re-test before merge.Repository scopeThe tool runs with elevated privilege, per its own README. Fence which repos the harness can reach, and run scans in an ephemeral environment with scoped credentials, no production secrets, and network limited to the target repo and model endpoint. Write access to production code is the GhostJacking exposure class, an agent acting on data it read. Per the README's egress warning, any role routed through the SDK, OpenAI, or DeepAgents backends sends prompt data to that provider's endpoint.Model rolesAssign models per stage deliberately. Recall and precision differ by model, per Taneja, the fix stages carry the highest blast radius, and the README states precision and recall figures are not yet published, so measure your own.Consulting is the other half of Thursday's announcement. Visa Consulting & Analytics is adding executive workshops, a VVAH-informed maturity assessment scored on a NIST one-to-five scale, and a cyber risk prioritization roadmap. \"We were getting a lot of calls. Hey, can you help?\" Taneja said, and the practice \"became very important to handhold and help those who are using it.\" Carl Rutstein, global head of Visa Consulting & Analytics, framed it the same way. \"Finding vulnerabilities is no longer the hardest part. Speed to remediation is the new battleground.\"",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-08-27T12:30:00+00:00",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2Qd3YPdmbB6m2oc9gxJFIi/48e956112cccfef51a45907ba39c2840/VISA_VVAH_HERO.png?w=300&q=30",
+    "source_name": "VENTUREBEAT.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260827/p25#a260827p25",
+    "title": "OpenAI launches ads on its ChatGPT Free and Go subscription tiers in India, where it has 100M+ weekly active users, and plans to launch an ad manager next month (Ivan Mehta/TechCrunch)",
+    "description": "Ivan Mehta / TechCrunch:\nOpenAI launches ads on its ChatGPT Free and Go subscription tiers in India, where it has 100M+ weekly active users, and plans to launch an ad manager next month  —  It seems there is no escaping the ad industry.  —  OpenAI said on Thursday that it will start showing ads on its ChatGPT Free and Go subscription tiers in India.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-27T12:25:01+00:00",
+    "image_url": "http://www.techmeme.com/260827/i25.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260827/p24#a260827p24",
     "title": "Samsung unveils the Galaxy S26 FE, offering a MediaTek, not Qualcomm, chipset, 12GB of RAM, a dialed-back camera system from the S26, for $700+, a $50 jump (Chris Welch/Bloomberg)",
     "description": "Chris Welch / Bloomberg:\nSamsung unveils the Galaxy S26 FE, offering a MediaTek, not Qualcomm, chipset, 12GB of RAM, a dialed-back camera system from the S26, for $700+, a $50 jump  —  Samsung Electronics Co. introduced the Galaxy S26 FE, its latest smartphone aimed at consumers who want a device that's priced …",
@@ -80,6 +103,41 @@
     "pub_date": "2026-08-27T12:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/what-is-android-system-intelligence-and-what-happens-if-you-turn-it-off/l-intro-1787597779.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.cnet.com/home/stop-turning-off-your-ac-when-you-go-on-vacation-an-hvac-expert-explains-why/",
+    "title": "Stop Turning Off Your AC When You Go on Vacation. An HVAC Expert Explains Why",
+    "description": "Leaving for a trip? Here’s what an expert recommends doing with your air conditioner beforehand.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-27T12:00:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-1426586489.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.cnet.com/home/internet/trumps-fcc-just-scrapped-its-most-ambitious-broadband-goal/",
+    "title": "Trump’s FCC Just Scrapped Its Most Ambitious Broadband Goal",
+    "description": "The new Federal Communications Commission report signals a major retreat from the former administration’s goal of connecting every American to gigabit-speed broadband.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-27T12:00:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/c96d7d62-5b89-47f1-8b40-f077ce772e2f.png",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/mobile/samsungs-700-galaxy-s26-fe-is-better-but-its-getting-harder-to-call-it-a-bargain/",
+    "title": "Samsung’s $700 Galaxy S26 FE Is Better, but It’s Getting Harder to Call It a Bargain",
+    "description": "Samsung’s best software features from 2026 are coming to the lower-cost S26 FE — but at $700, it’s certainly not cheap.",
+    "categories": [
+      "Breaking News",
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-08-27T12:00:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Samsung-S26-FE-24.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://www.zdnet.com/article/meta-settlement-will-change-facebook-and-instagram-where-money-is-going/",
@@ -203,7 +261,8 @@
     "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
     "description": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
     "categories": [
-      "AI & Machine Learning"
+      "AI & Machine Learning",
+      "Breaking News"
     ],
     "pub_date": "2026-08-27T11:35:59+00:00",
     "image_url": null,
@@ -2206,62 +2265,5 @@
     "pub_date": "2026-08-26T19:39:24+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-178446892-1152x648.jpg",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-    "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-    "description": "Consumer AI apps need to stop making users learn their product architecture.",
-    "categories": [
-      "AI & Machine Learning",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-08-26T19:37:34+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/08/26/apples-surprise-and-shine-hashmoji-is-already-live-on-x/",
-    "title": "Apple’s ‘Surprise and shine’ hashmoji is already live on X",
-    "description": "As is tradition, users who post on X with the #AppleEvent hashtag over the next few days will get a custom Apple logo hashmoji attached to their posts. See it in detail below.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-26T19:36:54+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-surprise-hashmoji.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/grand-theft-auto-6-cyberleek-leaks-everything-posted-so-far",
-    "title": "GTA 6 Cyberleek update: Everything leaked so far, what might be next",
-    "description": "An anonymous leaker calling themselves Cyberleek has been posting daily gameplay videos of the unreleased 'Grand Theft Auto VI.'",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-26T19:34:46+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03r92U1Znb6WpQSInMKIVdy/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/openai-says-it-took-down-a-malicious-russian-plan-to-spread-misinformation-on-chatgpt",
-    "title": "OpenAI says it took down a malicious Russian plan to spread misinformation on ChatGPT",
-    "description": "The International Burke Institute was central to the social influence campaign, designed to paint Russia in a better light than its Western counterparts.",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity"
-    ],
-    "pub_date": "2026-08-26T19:30:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/MXqmsVRQzx9hefCvT8TupP-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/cyberleek-leaks-gta-6-spoilers-lucia-caminos-prologue",
-    "title": "Cyberleek posts first major GTA 6 spoilers in Lucia prologue leak",
-    "description": "Cyberleek, the mystery 'Grand Theft Auto VI' leaker, posted major story spoilers for the first time with a clip of the character Lucia.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-26T19:24:51+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04I2lfYY0bE0uXlHtbK0rN8/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
