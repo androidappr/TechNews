@@ -286,15 +286,15 @@ def get_explicit_categories(entry, link, source_name):
     mappings = [
         ("AI & Machine Learning", [
             "/ai/", "/artificial-intelligence/", "/machine-learning/",
-            "ai", "artificial intelligence", "chatgpt", "openai", "llm", "machine learning", "claude", "gemini"
+            "ai", "artificial intelligence", "chatgpt", "openai", "llm", "machine learning", "claude", "gemini", "ai apps", "google gemini", "anthropic", "hugging face", "instinct", "perceptron"
         ]),
-        ("Cybersecurity", [
+        ("Cybersecurity & Privacy", [
             "/security/", "/cybersecurity/", "/privacy/",
-            "security", "cybersecurity", "privacy", "hack", "hacker", "malware", "vulnerability", "ransomware"
+            "security", "cybersecurity", "privacy", "hack", "hacker", "malware", "vulnerability", "ransomware", "botnets", "encryption", "cisa", "cyberattacks"
         ]),
         ("Gadgets & Hardware", [
             "/gadgets/", "/hardware/", "/reviews/", "/smartphones/", "/laptops/",
-            "gadget", "gadgets", "hardware", "smartphone", "laptop", "iphone", "android", "macbook", "samsung", "apple"
+            "gadget", "gadgets", "hardware", "smartphone", "laptop", "iphone", "android", "macbook", "samsung", "apple", "nvidia", "ring cameras", "medical device"
         ]),
         ("Software & Apps", [
             "/software/", "/apps/", "/mobile-apps/",
@@ -305,16 +305,24 @@ def get_explicit_categories(entry, link, source_name):
             "mobile", "telecom", "5g", "network"
         ]),
         ("Business & Startups", [
-            "/startups/", "/business/", "/tech-business/",
-            "startup", "startups", "business", "big tech", "funding", "vc", "silicon valley"
+            "/startups/", "/business/", "/tech-business/", "/venture/",
+            "startup", "startups", "business", "big tech", "funding", "vc", "silicon valley", "venture", "tc", "enterprise", "nscale", "spacex", "lovable", "legora", "neko health", "european market", "nordic market"
         ]),
         ("Gaming", [
             "/gaming/", "/games/", "/esports/",
             "gaming", "games", "esports", "playstation", "xbox", "nintendo", "pc gaming"
         ]),
-        ("Science & Innovation", [
-            "/science/", "/space/", "/robotics/",
-            "science", "space", "robotics", "innovation", "biotech"
+        ("Science & Environment", [
+            "/science/", "/space/", "/robotics/", "/climate/", "/environment/",
+            "science", "space", "robotics", "innovation", "biotech", "biotech & health", "climate", "environment", "water"
+        ]),
+        ("Social & Media", [
+            "/social/", "/media/",
+            "social", "social media", "facebook", "instagram", "meta", "bluesky", "flipboard", "open web", "media & entertainment", "podcasts", "particle"
+        ]),
+        ("Government & Policy", [
+            "/policy/", "/politics/", "/government/",
+            "government & policy", "policy", "politics", "us government", "china", "iran", "social media child safety", "critical infrastructure"
         ]),
         ("Crypto & Web3", [
             "/crypto/", "/blockchain/", "/web3/",
