@@ -42,8 +42,7 @@ RSS_FEEDS = [
     {"name": "TechRadar", "url": "https://www.techradar.com/rss"},
     {"name": "Digital Trends", "url": "https://www.digitaltrends.com/feed/"},
     {"name": "Mashable", "url": "https://mashable.com/feeds/rss/all"},
-    {"name": "The Next Web", "url": "https://thenextweb.com/feed"},
-    {"name": "TechSpot", "url": "https://www.techspot.com/backend/rss.xml"}
+    {"name": "The Next Web", "url": "https://thenextweb.com/feed"}
 ]
 
 def extract_domain_name(url):
