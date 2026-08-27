@@ -1,5 +1,39 @@
 [
   {
+    "link": "https://www.engadget.com/2245776/meta-closing-loophole-that-allowed-people-to-record-with-smart-glasses-light-covered/",
+    "title": "Meta is closing a loophole that allowed people to record with their smart glasses' light covered",
+    "description": "It's the second update in less than two months to address privacy concerns.",
+    "categories": [
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-08-27T18:48:05+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/meta-is-closing-a-loophole-that-allowed-people-to-record-with-their-smart-glasses-light-covered/l-intro-1787856330.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/anthropic-claude-cowork-built-in-browser-dma-choice-screen",
+    "title": "Claude now has its own browser and no longer needs the Chrome extension",
+    "description": "Anthropic has built a browser directly into Claude Cowork, opening it in a side panel when a prompt needs the web instead of using its Chrome extension. It is on by default for Enterprise, Pro, Max and Team users, who can switch back in settings. Anthropic has put a browser inside Claude. Cowork now detects",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-08-27T18:48:00+00:00",
+    "image_url": "https://media.thenextweb.com/2026/06/anthropic-claude-tag-slack-always-on-ai-teammate.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/article/best-camera-settings-galaxy-z-fold-8-camera/",
+    "title": "Galaxy Z Fold 8 camera trouble? 4 settings I recommend changing now",
+    "description": "The cameras on the Galaxy Z Fold 8 work best when they're pushed to their limits. Here are the settings I changed to get the best results.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-27T18:46:00+00:00",
+    "image_url": null,
+    "source_name": "ZDNET.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/985679/google-play-android-17-memory-limit",
     "title": "Google tells Android app developers to cool it on memory use, or else",
     "description": "Google will start policing memory-hungry Android apps as a direct response to the RAM crisis. Spotted by TechCrunch, the company yesterday published a memo addressing the Play Store's role in enforcing new memory-usage restrictions. The post emphasizes the importance of meeting new memory usage limits for apps, in order \"to help developers navigate industry-wide hardware",
@@ -296,7 +330,6 @@
     "title": "Will plug-in solar panels affect your home insurance? An expert explains what you should know before fitting them",
     "description": "Plug-in solar panels are now legal in the UK, but make sure you have all the facts before fitting them.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-27T17:29:25+00:00",
@@ -1799,8 +1832,7 @@
     "title": "Personal chats with ChatGPT are increasingly appearing in courts. You should be wary",
     "description": "Chatbot conversations can contain years of intimate thoughts, intentions, and questions, but they currently lack the legal privilege protecting conversations with lawyers",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-08-27T13:04:43+00:00",
     "image_url": "https://www.digitaltrends.com/tachyon/2026/08/DT-2026-08-26T235411.717.jpg?resize=440%2C292",
@@ -1841,18 +1873,6 @@
     "pub_date": "2026-08-27T13:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6a8fae4843f0eb43b71996fc/master/pass/Review--Alienware-5K-OLED-Ultrawide-Gaming-Monitor.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2244839/plaud-made-earbuds-for-people-who-want-to-record-every-meeting-and-call/",
-    "title": "Plaud made earbuds for people who want to record every meeting and call",
-    "description": "The Plaud One is a different take on AI wearables.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-08-27T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/plaud-made-earbuds-for-people-who-want-to-record-every-meeting-and-video-call/l-intro-1787766887.jpg",
-    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://9to5mac.com/2026/08/27/adobe-photoshop-adds-optional-ai-assisted-editor-mode-for-fully-prompt-based-image-editing/",
@@ -1900,6 +1920,18 @@
     "pub_date": "2026-08-27T13:00:00+00:00",
     "image_url": "https://www.digitaltrends.com/tachyon/2026/08/AI-Assisted-Editor_Static.jpg?resize=440%2C292",
     "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2244839/plaud-made-earbuds-for-people-who-want-to-record-every-meeting-and-call/",
+    "title": "Plaud made earbuds for people who want to record every meeting and call",
+    "description": "The Plaud One is a different take on AI wearables.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-08-27T13:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/plaud-made-earbuds-for-people-who-want-to-record-every-meeting-and-video-call/l-intro-1787766887.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.engadget.com/2245294/alienware-39-5k-review/",
@@ -1988,7 +2020,6 @@
     "title": "The Galaxy S27 and S27 Pro just leaked, and one of them looks seriously lazy",
     "description": "Samsung is saving its best design work for the S27 Pro and Ultra.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-27T12:49:52+00:00",
@@ -2022,7 +2053,6 @@
     "title": "ChatGPT can log into your web accounts without you now - but should you let it?",
     "description": "OpenAI's agentic ChatGPT Work can sign in to your online accounts without any interaction on your part. Is that a privacy risk?",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-27T12:43:31+00:00",
@@ -2279,39 +2309,5 @@
     "pub_date": "2026-08-27T11:51:51+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Unprecedented-teen-protections-on-Instagram-see-18B-lawsuit-settled.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.zdnet.com/article/the-5-best-linux-alternatives-to-windows-in-2026-that-arent-mint/",
-    "title": "The 5 best Linux alternatives to Windows in 2026 (that aren't Mint)",
-    "description": "Looking to leave Windows? I've used Linux for years and there's never better a better time to make the leap.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T11:45:03+00:00",
-    "image_url": null,
-    "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/monitors/samsung-just-blew-me-away-at-gamescom-with-its-ridiculously-fast-1100hz-oled-monitor",
-    "title": "Samsung just blew me away at Gamescom with its ridiculously-fast 1100Hz OLED monitor",
-    "description": "Samsung has announced its latest gaming monitors at Gamescom 2026, but are some of the specs overkill?",
-    "categories": [
-      "Breaking News",
-      "Gaming"
-    ],
-    "pub_date": "2026-08-27T11:44:30+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/AS7DFf4RfCDKSXZEX4AjdC-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/gpu/time-for-gamers-to-upgrade-to-windows-11-nvidia-gpu-driver-support-for-windows-10-ends-in-two-months-heres-what-you-need-to-know",
-    "title": "Time for gamers to upgrade to Windows 11? Nvidia GPU driver support for Windows 10 ends in two months — here's what you need to know",
-    "description": "Nvidia GPU driver support is coming to an end for Windows 10 — here's what that means for security and your favorite PC games.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T11:42:53+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/gYocvkPAnx8FcKQz6eTGsa-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
