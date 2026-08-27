@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.digitaltrends.com/computing/google-ai-mode-can-now-tell-you-when-flights-get-cheaper-and-book-your-hotel/",
+    "title": "Google AI Mode can now tell you when flights get cheaper and book your hotel",
+    "description": "Google added three new travel features to AI Mode, letting you track flight prices, compare rewards points, and book hotels all in one chat.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-27T21:42:26+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/08/google-ai-mode-track-flights.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2246005/gta-6-demo-malware-infostealer/",
+    "title": "GTA 6 'demo' delivers malware directly to your PC",
+    "description": "Despite what some scam sites may try to tell you, Rockstar has not made any of GTA 6 available to play in advance.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-08-27T21:38:42+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/gta-6-demo-delivers-malware-directly-to-your-pc/l-intro-1787866704.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign",
     "title": "Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign",
     "description": "Meta is updating its AI-powered smart glasses to close a loophole that allowed wearers to keep recording after covering the front-facing LED. Alex Himel, Meta's vice president of augmented reality, writes in a post on Threads that \"the camera will now stop working if the light is covered during a recording.\" The company's line of",
@@ -512,6 +535,7 @@
     "description": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Notebook, which means you can ask questions about the material, as well as generate plans, infographics, AI podcasts, and more based on their",
     "categories": [
       "AI & Machine Learning",
+      "Breaking News",
       "Software & Apps"
     ],
     "pub_date": "2026-08-27T19:30:00+00:00",
@@ -1408,6 +1432,7 @@
     "description": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
     "categories": [
       "AI & Machine Learning",
+      "Breaking News",
       "Software & Apps"
     ],
     "pub_date": "2026-08-27T16:00:00+00:00",
@@ -2270,27 +2295,5 @@
     "pub_date": "2026-08-27T13:35:01+00:00",
     "image_url": "http://www.techmeme.com/260827/i30.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/life/hypershell-halo-full-leg-exoskeleton",
-    "title": "First look: Hypershell is launching the worlds first full-leg exoskeleton at IFA 2026",
-    "description": "Hypershell is unveiling Halo, its new full-leg exoskeleton, at IFA 2026 in Berlin on Sept. 3. The device uses four powered joints to support movement across the hips and knees at once.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T13:29:56+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03rmwG8gbTN2t96PPjl2T6L/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.zdnet.com/article/is-old-iphone-still-worth-anything-or-just-e-waste-how-to-tell/",
-    "title": "Is your really old iPhone still worth anything or just e-waste? How to tell",
-    "description": "I found my old iPhone 4 in a drawer and wondered: Does it work? Is it worth anything? What should I do with it? I went looking for answers.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T13:28:37+00:00",
-    "image_url": null,
-    "source_name": "ZDNET.COM"
   }
 ]
