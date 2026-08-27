@@ -1,5 +1,42 @@
 [
   {
+    "link": "https://thenextweb.com/news/nvidia-hugging-face-13bn-acquisition-talks",
+    "title": "Nvidia is reportedly in talks to buy Hugging Face for $12.9bn",
+    "description": "Nvidia has been in talks to acquire Hugging Face at a valuation above $13bn, according to Business Insider, days after reports that the open-model hub was exploring a sale at roughly that figure. The Information puts the process further along than that, reporting an agreed deal at $12.9bn, and Nvidia did not respond to a request",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-08-27T13:44:18+00:00",
+    "image_url": "https://media.thenextweb.com/2026/03/NVIDIA-invests-2-billion-in-Nebius.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
+    "title": "Hugging Face’s new robot is an adorable rollerskating duck",
+    "description": "Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall. It's available to preorder now for $399 in cream, graphite, lavender, and sky blue, and Pollen Robotics says it plans to start shipping the little robot \"before Christmas 2026.\" Video demos of the",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-08-27T13:44:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/microduck-kickabout.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/phones/samsung-galaxy/t-mobile-wants-to-give-you-4-free-galaxy-s26-phones-and-4-lines-for-just-usd25-month-per-line-how-to-claim-the-offer",
+    "title": "T-Mobile wants to give you 4 free Galaxy S26 phones and 4 lines for just $25/month per line — how to claim the offer",
+    "description": "Bring four lines to T-Mobile on the Essentials plan and you'll get four free Galaxy S26 phones and the wireless for just $25/month per line.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-27T13:40:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/CjYFrEYc8dbthj73bxGMtD-1280-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/how-to-self-host-docker-apps",
     "title": "How to self-host Docker apps",
     "description": "Learn to self-host Docker apps using any Linux-based server. We’ll cover server configuration, Docker Engine installation, writing a compose.yaml file, and launching your containers using SSH.",
@@ -831,6 +868,7 @@
     "title": "Hugging Face unveils Microduck, a $400, 1.7lb, 10-inch-tall bipedal robot developed in part by Pollen Robotics and manufactured by Shenzhen-based Seeed Studio (Bloomberg)",
     "description": "Bloomberg:\nHugging Face unveils Microduck, a $400, 1.7lb, 10-inch-tall bipedal robot developed in part by Pollen Robotics and manufactured by Shenzhen-based Seeed Studio  —  Artificial intelligence platform Hugging Face Inc. unveiled a singing $400 bipedal robot that can be taught tricks …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-27T11:25:01+00:00",
@@ -1270,6 +1308,7 @@
     "title": "Chipotle is giving away free entrées every time Taylor Fritz wins at the U.S. Open — how to claim",
     "description": "Chipotle is teaming up with tennis star Taylor Fritz to give fans BOGO entrée codes after every U.S. Open win.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-27T09:37:18+00:00",
@@ -1393,6 +1432,7 @@
     "title": "Nvidia wants to buy Hugging Face in $13 billion blockbuster AI deal",
     "description": "Reports are circulating that Nvidia could be set to acquire Hugging Face in a $12.9 billion takeover.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-27T09:12:20+00:00",
@@ -2249,38 +2289,5 @@
     "pub_date": "2026-08-26T23:47:18+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/08/26/psa-proton-mail-and-other-proton-platforms-facing-widespread-outage/",
-    "title": "PSA: Proton Mail and other Proton platforms facing widespread outage [U: Fixed]",
-    "description": "Update, 8:45 p.m. ET: Proton’s latest update says: “This outage has now been largely resolved, and services are back online. We are still clearing a few lingering issues, however, meaning some users will experience delays in email delivery and reception, and receiving notifications. No data has been lost as a result of this outage.” The original story follows below.\nProton has confirmed a major outage affecting Proton Mail, Proton VPN, Lumo, and other platforms and services. Here are the details.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-26T23:45:19+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2022/12/biggest-internet-outages.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/could-helicopter-drones-be-the-next-big-military-breakthrough-this-us-firm-says-its-new-unit-can-fly-up-to-five-times-longer-than-traditional-battery-powered-quadcopters",
-    "title": "Could helicopter drones be the next big military breakthrough? This US firm says its new unit can fly up to five times longer than traditional battery-powered quadcopters",
-    "description": "Iveda’s GX10-F100 combines gasoline propulsion, extended endurance, cargo capacity, autonomy software, and government-focused applications for demanding operations.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-26T23:25:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/mmC46SwpMPqUcFVUpYRQva-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.cnet.com/science/space/engineers-built-traffic-control-system-for-the-moon/",
-    "title": "Rules of the Road: Engineers Have Built a Traffic Control System for the Moon",
-    "description": "The saying “cleared for takeoff” has a whole different meaning in space.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-08-26T23:09:50+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/NRHO.jpg",
-    "source_name": "CNET.COM"
   }
 ]
