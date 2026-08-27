@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.techmeme.com/260827/p31#a260827p31",
+    "title": "Sources: Meta internally projected that it could spend as much as $10B annually on Anthropic's AI models, even as Zuckerberg publicly criticized Anthropic (New York Times)",
+    "description": "New York Times:\nSources: Meta internally projected that it could spend as much as $10B annually on Anthropic's AI models, even as Zuckerberg publicly criticized Anthropic  —  The social networking giant projected it could spend $10 billion annually on Anthropic's tools, illustrating the friend-foe relationships underlying the A.I. race.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-27T14:20:02+00:00",
+    "image_url": "http://www.techmeme.com/260827/i31.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/news/live/gta-6-extended-look",
+    "title": "Grand Theft Auto 6: An Extended Look on Netflix — follow live updates on everything we know so far, and what to expect from the big gameplay reveal",
+    "description": "Follow our live reactions to the Grand Theft Auto 6: An Extended Look video on Netflix.",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-08-27T14:13:25+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/KzYzvrTuVLgApAaJEhjrmg-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/phones/android-17-will-finally-stop-isps-from-seeing-which-websites-and-apps-you-visit/",
     "title": "Android 17 will finally stop ISPs from seeing which websites and apps you visit",
     "description": "Android 17 rolls out Encrypted Client Hello, the first major mobile OS to broadly block ISP tracking of your browsing, alongside protections for home Wi-Fi privacy, fake certificates, and 2G scam attacks.",
@@ -328,6 +351,7 @@
     "title": "GTA 6 Netflix extended look: What time it releases today",
     "description": "Rockstar Games confirmed that our next big look at 'Grand Theft Auto VI' will happen on Netflix, of all places.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-27T13:10:34+00:00",
@@ -2267,27 +2291,5 @@
     "pub_date": "2026-08-27T02:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/02D7V0Jt0I905y3GwWflIXS/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/how-to-view-august-2026-lunar-eclipse/",
-    "title": "How to See the Partial Lunar Eclipse and Blood Moon on August 27",
-    "description": "The eclipse will obscure about 93 percent of the moon’s surface. Here are the peak times and tips for the best viewing experience.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-08-27T00:44:35+00:00",
-    "image_url": "https://media.wired.com/photos/6a8f4ac850ea70630c0696a8/master/pass/2263984352",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://venturebeat.com/orchestration/glm-5-3-flash-will-likely-handle-45-of-your-ai-workloads",
-    "title": "GLM-5.3-Flash will likely handle 45% of your AI workloads",
-    "description": "A week ago, a mystery model called Ox Alpha showed up on OpenRouter — one more entrant among more than 400 models, with roughly 10 new ones launching every week. What made it stand out wasn't just the free price tag; it was quietly good. Hobbyists and indie developers noticed fast, pushing several trillion tokens through it daily, with community estimates for the week ranging from single digits to over 20 trillion.AI enthusiasts spent the next six days doing forensics and speculating who could have built it, and who could have the infrastructure to serve that many tokens for free. First the guess was a U.S. lab: the long-awaited Gemini, or Anthropic shipping a good-enough middle tier, or Elon sitting on so much capacity he dropped Ox Alpha (note the naming). People ran tokenizer traces and networking analysis. A real Sherlock Holmes mystery week.On August 26, Z.ai put its name on it. Ox Alpha was GLM-5.3-Flash. They'd been running it on public traffic on purpose, but the real surprise was not how good the model was (it's really good). It was served entirely on Chinese chips and infrastructure. List price is 15 cents / 50 cents per million tokens. OpenRouter's launch promo is 50% off that, 7.5 cents / 25 cents, through September 9. The weights are open (MIT), and inference is hosted by Z.ai as well as GMI Cloud, Cloudflare, and other US-based inference providers.Artificial Analysis put the model on their intelligence-versus-cost chart the same day. GLM-5.3-Flash lands at 57 on the index for about nine cents a task. A US mid-tier like GPT-5.6 Sol (max) sits around 59 at 67 cents, meaning for two points of intelligence you are paying about 7.4x more. Take it further and Grok 4.6 is at 61 at 94 cents a task, or about 10x for a four-point gain. At this point the token economics heavily influences the consumption calculus. At the top end the curve has flattened. If we take this open-weight bait, what happens to the heavy infrastructure circular investments we made that never accounted for a strong Chinese inference contender?American enterprises are already feeling the cost pressure. Take Uber. CTO Praveen Neppalli Naga told The Information in April he was going \"back to the drawing board because the budget I thought I would need is blown away already\": the company's full-year 2026 coding budget gone in four months, with Naga personally burning $1,200 in a single two-hour demo. By June, Uber had put a $1,500-per-person-per-tool cap in place. The tools were useful — but usefulness and value aren't the same thing. Uber's COO, Andrew Macdonald, still couldn't draw a line from those dashboards to \"25% more useful consumer features.\"McKinsey's 2026 State of AI survey says 80% of people say they're faster, 37% of companies see some EBIT, and 32% skipped at least one software purchase because they could build that feature in-house with coding agents. Organizations want to cut the bill. They cannot afford to abandon AI. The task now is to optimize usage across the org.We cannot avoid Chinese model makers like Zhipu, Qwen, DeepSeek, and the rest. Time and again they have brought their own ingenuity to challenge SOTA labs and cut costs. On OpenRouter, Chinese models passed US token share in early June, and the top of that board is still mostly Chinese labs. The indie developer world already looks like GLM Flash, DeepSeek Flash, MiniMax, Kimi, and sometimes Grok or Claude if they already paid for a heavy subscription. If you are already subscribed to Grok or OpenAI through your company, that is now a sunk cost. Finance will start asking whether those seats still make sense if pay-as-you-go gets this cheap.So what choices remain? Consider your coding and agentic work in three buckets, split by share of tasks and tokens run through each tier — not dollars, since GLM-5.3-Flash's much lower per-token price means an even dollar split would already send most of your volume there. At the very top you have Fable and Opus. If you need to analyze a complex strategy or write a detailed execution plan, the extra points of intelligence matter and you should spend top dollar, but only for those rare tasks you cannot skimp on — probably 5% of the task volume. The mid tier is Kimi K3, Gemini 3.7 Flash, GPT-5.6 Sol, and Grok 4.6, all sitting around 60 on the intelligence index. Kimi is a heavy hitter for coding and a fan favorite; then Grok 4.6 is a close second, though its smaller context window holds it back. Put about 50% of the volume here. For the last 45%, strongly consider GLM-5.3-Flash as the volume workhorse. Your harness, your mix (coding vs content vs marketing), and your evals will draw your own frontier. Chinese open-weight models will save you money — and they need to be in your cost calculus.September is shaping up to be a deluge of new models — Google, xAI, Anthropic, OpenAI, and DeepSeek all have releases expected. The Pareto frontier might move again. But the direction is set: more intelligence for less money. Labs that can't get their serving costs down will lose the volume — and with it, the audience that volume creates.Before September, some homework:Count your tokens. Can you attribute spend to a top-line metric like customer or revenue growth? If not, at least development velocity or productivity? Without clear goals, it is going to be hard to defend the spend.Build your AI budget again. Org by org, what is planned AI spend? Can those leaders come up with a proposal and defend it?Define your model strategy by team. Write the three tiers. High for irreversible decisions and strategies. Mid for the paid seat and everyday coding. Low (GLM-5.3-Flash) for volume.Next month the models get cheaper again. Your teams get hungrier. The companies that come out of this will place their bets intentionally, and they won't let those agents think on Opus or Fable unless the task is really worth it.Parvez Syed Mohamed is a product executive who has built API integration and agent platforms at Salesforce (MuleSoft), Oracle and at AgentPaaS.ai. He works on production agentic systems. Some of his thoughts on building software with Agents is here: https://github.com/parvezsyedWelcome to the VentureBeat community!Our guest posting program is where technical experts share insights and provide neutral, non-vested deep dives on AI, data infrastructure, cybersecurity and other cutting-edge technologies shaping the future of enterprise.Read more from our guest post program — and check out our guidelines if you’re interested in contributing an article of your own!",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T00:42:20+00:00",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4032PIHdBJBW2kqNHAOME0/53c12ae6fbb334fab937a4dcc1065c33/Gemini_Generated_Image_3lw7jd3lw7jd3lw7.jpeg?w=300&q=30",
-    "source_name": "VENTUREBEAT.COM"
   }
 ]
