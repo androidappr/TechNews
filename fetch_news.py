@@ -304,7 +304,7 @@ def get_explicit_categories(entry, link, source_name):
             "/mobile/", "/telecom/", "/5g/",
             "mobile", "telecom", "5g", "network"
         ]),
-        ("Tech Business & Startups", [
+        ("Business & Startups", [
             "/startups/", "/business/", "/tech-business/",
             "startup", "startups", "business", "big tech", "funding", "vc", "silicon valley"
         ]),
