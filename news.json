@@ -1,5 +1,52 @@
 [
   {
+    "link": "https://www.techmeme.com/260827/p47#a260827p47",
+    "title": "Salesforce stock closed up 22.6% on Thursday, its second-best day ever, after the company reported a beat on Q2 earnings and expanded its Anthropic partnership (CJ Haddad/CNBC)",
+    "description": "CJ Haddad / CNBC:\nSalesforce stock closed up 22.6% on Thursday, its second-best day ever, after the company reported a beat on Q2 earnings and expanded its Anthropic partnership  —  Shares of Salesforce jumped 22% Thursday after the company reported a beat on second-quarter earnings and announced …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-27T20:20:01+00:00",
+    "image_url": "http://www.techmeme.com/260827/i47.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/anthropic-model-hardware-standard-mhs-eu-machinery-regulation-2027",
+    "title": "Anthropic tests a new standard for Claude to work with factory and lab hardware",
+    "description": "Anthropic has released the Model Hardware Standard in research preview, a specification that stores how a piece of hardware works and how an AI may safely operate it, such as limiting a robot arm’s speed and angles. Europe’s Machinery Regulation starts covering AI-based safety functions on 20 January 2027. Anthropic has written a standard for",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-08-27T20:15:51+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/claude-cowork-sandbox-escape-mac-files-sharedroot.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/",
+    "title": "Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral",
+    "description": "Sometimes people just want to post to their followers, Bluesky says.",
+    "categories": [
+      "Social & Media",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-08-27T20:15:26+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/movies/sony-just-launched-this-model-its-affordable-for-oleds-and-has-four-hdmi-ports/",
+    "title": "Sony just launched this model. It’s affordable for OLEDs and has four HDMI ports",
+    "description": "Sony's newest OLED packs four HDMI ports, 4K/120Hz gaming, and Gemini into a relatively affordable 48-inch package.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-27T20:11:52+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/08/Sony-Bravia-OLED-6-2.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/08/27/apple-cleared-for-the-second-time-to-pursue-documents-from-federal-agencies-in-antitrust-case/",
     "title": "Apple cleared for the second time to pursue documents from federal agencies in antitrust case",
     "description": "Special Master Jose Linares has rejected the DOJ’s request to reconsider his decision allowing Apple to seek documents from 14 separate government agencies in the antitrust case against the company. Here are the details.",
@@ -26,7 +73,7 @@
   {
     "link": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
     "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
-    "description": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release date twice, first to May 26th, 2026, then again to November 19th, 2026, a full year after",
+    "description": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release date twice, eventually shifting to November 19th, 2026, a full year after its originally planned fall 2025",
     "categories": [
       "Breaking News",
       "Gaming"
@@ -34,6 +81,18 @@
     "pub_date": "2026-08-27T20:01:56+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VINTAGE_VICE_CITY_PACK_02.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/home-entertainment/sonys-new-bravia-6-tvs-take-on-entry-level-oleds/",
+    "title": "Sony’s New Bravia 6 TVs Take On Entry-Level OLEDs",
+    "description": "The new OLEDs feature budget-friendlier pricing and start at 48 inches.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-27T19:58:21+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/260618-BRAVIA-6-Lifestyle-4D-WM-1.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://mashable.com/entertainment/gta-grand-theft-auto-6-netflix-extended-look-not-seen-cyberleek",
@@ -906,7 +965,6 @@
     "title": "Lenovo is reportedly working on a Mac Mini rival and the slimmest ThinkBook ever",
     "description": "Leaked images reveal Lenovo's upcoming ThinkCentre X Ultra mini PC and ThinkBook Aeroblade laptop, both expected to debut at Lenovo Innovation World 2026.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-27T16:17:44+00:00",
@@ -986,6 +1044,7 @@
     "title": "Sony's new Bravia 6 OLED TV aims to bring flagship visuals to the $1,300 price point",
     "description": "The Bravia 6 OLED TV is a new entry-level option in a variety of screen sizes.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-27T16:00:42+00:00",
@@ -2245,60 +2304,5 @@
     "pub_date": "2026-08-27T12:58:59+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/phones/samsung-galaxy/leaks-look-at-the-galaxy-s27-and-s27-pro",
-    "title": "The Galaxy S27 and S27 Pro just leaked, and one of them looks seriously lazy",
-    "description": "Samsung is saving its best design work for the S27 Pro and Ultra.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T12:49:52+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/tZxBXnAjYrSgQ4VdFxb9ME-1280-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260827/p27#a260827p27",
-    "title": "Japan's Kioxia and Sandisk plan to spend $31B+ in Japan through 2032 to drive chip tech and expand production capacity, including an $11.3B Kitakami plant (Reuters)",
-    "description": "Reuters:\nJapan's Kioxia and Sandisk plan to spend $31B+ in Japan through 2032 to drive chip tech and expand production capacity, including an $11.3B Kitakami plant  —  Japan's Kioxia (285A.T) and U.S.-based Sandisk (SNDK.O) said on Thursday they planned to invest more than $31 billion in Japan through 2032 …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T12:45:04+00:00",
-    "image_url": "http://www.techmeme.com/260827/i27.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/laptops/this-acer-aspire-go-15-laptop-deal-has-an-absurd-48gb-ram-and-a-massive-usd325-discount",
-    "title": "This Acer Aspire Go 15 laptop deal has an absurd 48GB RAM — and a massive $325 discount",
-    "description": "Calling it a 'snappy performer' in our review, this laptop features an absurd 48GB of DDR4 memory despite the on-going memory crisis.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-08-27T12:43:48+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/nvMJVjnLYnboqjxKz6zXhB-1280-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.zdnet.com/article/chatgpt-can-log-into-your-web-accounts-without-you-now-but-should-you-let-it/",
-    "title": "ChatGPT can log into your web accounts without you now - but should you let it?",
-    "description": "OpenAI's agentic ChatGPT Work can sign in to your online accounts without any interaction on your part. Is that a privacy risk?",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T12:43:31+00:00",
-    "image_url": null,
-    "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/08/27/apple-expands-educational-program-for-its-supply-chain-workers-in-vietnam/",
-    "title": "Apple expands educational program for its supply-chain workers in Vietnam",
-    "description": "Apple has announced an expansion of its Supplier Employee Development Fund, a $50 million educational program for workers in its supply chain, in the form of a new Apple Education Center in Vietnam.\nThe country is becoming an increasingly important manufacturing center as Apple diversifies beyond China, and the center operates in partnership with Hanoi University of Science and Technology (HUST) …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T12:42:50+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-expands-educational-program-for-its-supply-chain-workers-in-Vietnam.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
