@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+    "description": "Standardized driver interface  aims to let devices talk to AI and each other.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-08-27T22:15:43+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mhsdemo-1152x648.png",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260827/p53#a260827p53",
+    "title": "Sources: Anthropic discussed buying AI chip startup MatX for ~$7B, but talks are no longer active; MatX is now seeking to raise new capital at a ~$4B valuation (Reuters)",
+    "description": "Reuters:\nSources: Anthropic discussed buying AI chip startup MatX for ~$7B, but talks are no longer active; MatX is now seeking to raise new capital at a ~$4B valuation  —  Anthropic discussed buying artificial intelligence chip startup MatX for roughly $7 billion, seeking to accelerate efforts …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-27T22:15:01+00:00",
+    "image_url": "http://www.techmeme.com/260827/i53.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/whats-next-ai-how-to-get-there",
     "title": "What’s next for AI and how to get there",
     "description": "In 2026, the way we talk about AI is beginning to change. Two years ago, every boardroom argument circled the same question: which model do we bet on? Today, that question barely registers. Frontier systems have converged so tightly that, according to Stanford’s 2026 AI Index, leading models gained roughly 30 percentage points in a",
@@ -329,6 +352,19 @@
     "pub_date": "2026-08-27T20:56:08+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/00tH2eAp159yjPaIDtBQRYc/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+    "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+    "description": "xAI accused of training Grok on real and AI-generated child pornography.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-08-27T20:52:31+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2280412936-1024x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://www.engadget.com/2245942/guns-cars-and-chihuahuas-breaking-down-the-gta-6-extended-look/",
@@ -1302,6 +1338,7 @@
     "title": "Elon Musks SpacexAI faces another lawsuit from child sexual abuse survivor",
     "description": "The lawsuit claims child sexual abuse material depicting real people was used to train the chatbot.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-27T16:47:03+00:00",
@@ -1459,7 +1496,6 @@
     "title": "New GTA 6 details reveal a 'Bonnie and Clyde-type' narrative, life sim systems, and the ability to seamlessly swap between Jason and Lucia during gameplay",
     "description": "New Grand Theft Auto 6 details have been revealed, giving fans a fresh idea of what to expect from the game's narrative and interactive gameplay systems.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-08-27T16:13:16+00:00",
@@ -2251,38 +2287,5 @@
     "pub_date": "2026-08-27T14:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_082726_site.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2245189/google-deploys-support-encrypted-client-hello-on-android-17/",
-    "title": "Google deploys support for Encrypted Client Hello on Android 17",
-    "description": "Encrypted Client Hello rolls out on Android 17 to make the web more secure.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-08-27T14:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/google-deploys-support-for-encrypted-client-hello-on-android-17/l-intro-1787796269.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/xbox-25th-anniversary-collection-console-controller-preorder",
-    "title": "How to preorder Microsofts translucent green anniversary Xbox console and controller",
-    "description": "Microsoft has finally opened preorders for its Xbox 25th Anniversary Collection console and controller bundle. It costs $899.99.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T14:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01WPdiI0aj2f607bekPVmeu/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
-    "title": "How much of a problem is AI’s water use?",
-    "description": "AI’s water footprint is growing, but location and cooling technology make a difference.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-08-27T13:57:08+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
