@@ -1,5 +1,75 @@
 [
   {
+    "link": "https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/",
+    "title": "This former PG&E engineer is building a ‘Google Maps for the underground’",
+    "description": "The startup just raised a $26 million Series A to grow its customer base and help reduce red tape for utility and construction work.",
+    "categories": [
+      "Business & Startups"
+    ],
+    "pub_date": "2026-08-27T15:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2245449/the-uk-has-legalized-plug-in-solar-but-dont-rush-to-buy-a-kit/",
+    "title": "The UK has legalized plug-in solar (but don't rush to buy a kit)",
+    "description": "The UK has legalized plug-in solar, but experts warn you shouldn't just set it up without getting your home checked first.",
+    "categories": [
+      "Business & Startups"
+    ],
+    "pub_date": "2026-08-27T15:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/the-uk-has-legalized-plug-in-solar-but-dont-rush-to-buy-a-kit/l-intro-1787842298.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/streaming/netflix/stuart-fails-to-save-the-universe-haters-need-to-stream-heartfelt-chuck-lorre-sitcom-leanne-season-2-instead-new-episodes-are-waiting-for-you-on-netflix",
+    "title": "Stuart Fails to Save the Universe haters need to stream 'heartfelt' Chuck Lorre sitcom Leanne season 2 instead — new episodes are waiting for you on Netflix",
+    "description": "Not everyone is enjoying Stuart Fails to Save the Universe on HBO Max — and that's the perfect excuse to give fellow Chuck Lorre-produced comedy Leanne season 2 some attention.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-27T15:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/deZFpkYoLH2D7ve2LjV8EL-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/985584/google-fitbit-air-pokemon-sleep",
+    "title": "Google launches Pokémon Sleep special-edition Fitbit Air",
+    "description": "The latest special-edition of Google's Fitbit Air is inspired by the Pokémon Sleep game, with a \"Sleepy Blue\" band emblazoned with a snoozing Pikachu. It's not exactly Snorlax blue, but matches the classic blue and gold of a Pokémon card pretty closely. The special-edition is available to preorder now for $129 and starts shipping September",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Gaming"
+    ],
+    "pub_date": "2026-08-27T14:58:33+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/pokemon-sleep-fitbit-air-hero.webp?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+    "title": "Hugging Face is selling a cute $399 open-source duck robot, Microduck",
+    "description": "Hugging Face is taking orders for the Microduck, a $399 tiny open-source duck robot that developers can train at home out of the box.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-08-27T14:56:52+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/985503/waymo-tesla-lidar-camera-robotaxi-cybercab-musk",
+    "title": "In a swipe at Tesla, Waymo says ‘cameras… aren’t enough’",
+    "description": "As Tesla gears up for the official launch of its steering wheel and pedal-less Cybercabs, Waymo is issuing a stark warning about Elon Musk's approach autonomous driving. Srikanth Thirumalai, Waymo's VP of Onboard Software, doesn't specifically call out Musk or Tesla in a blog post, published Wednesday, entitled \"10 AI Lessons from Driving 200+ Million",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-27T14:55:20+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-2231033749.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260827/p33#a260827p33",
     "title": "Google announces new performance thresholds for Android apps including memory-use limits, citing the AI-induced memory crunch (Sarah Perez/TechCrunch)",
     "description": "Sarah Perez / TechCrunch:\nGoogle announces new performance thresholds for Android apps including memory-use limits, citing the AI-induced memory crunch  —  Google is making changes to its requirements for Android apps as developers face industry-wide memory chip shortages driven by the AI data center boom.",
@@ -72,8 +142,9 @@
   {
     "link": "https://techcrunch.com/2026/08/27/hold-up-theres-a-new-twitter-in-the-town/",
     "title": "Hold up, there’s a new Twitter in the town",
-    "description": "You read that right. There is a new social network called “Twitter.now” on the block, and it’s being operated by a startup called Operation Bluebird, whose founding team includes former Twitter trademark counsel Stephen Coates. As ArsTechnica reported, X sued the company last year and asked a Delaware judge to issue an injunction to stop",
+    "description": "Coates said in a LinkedIn post that the company is not trying to recreate Twitter.",
     "categories": [
+      "Social & Media",
       "Software & Apps"
     ],
     "pub_date": "2026-08-27T14:40:22+00:00",
@@ -484,7 +555,6 @@
     "title": "How to watch The Traitors Australia season 3 online and from anywhere – Ep. 8 out now",
     "description": "Here's how to watch The Traitors Australia season 3 online from anywhere in the world as the hit game show delivers more deception and dastardly tactics",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-27T13:25:11+00:00",
@@ -703,18 +773,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.engadget.com/2245218/google-special-edition-pokemon-sleep-fitbit/",
-    "title": "Google is releasing a special edition Pokémon Sleep Fitbit Air in September",
-    "description": "You can get a special Fitbit Air with a sleeping Pikachu design next month.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/google-is-releasing-a-special-edition-pokmon-sleep-fitbit-air-in-september/l-intro-1787809123.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
     "link": "https://www.engadget.com/2245221/photoshop-markup-feature-lets-you-draw-on-images-to-show-what-you-want/",
     "title": "Photoshop's new 'Markup' feature lets you draw on images to show what you want",
     "description": "Photoshop is getting new image-generation features and Lightroom-like controls that users have wanted for a long time.",
@@ -762,18 +820,6 @@
     "source_name": "CNET.COM"
   },
   {
-    "link": "https://www.techradar.com/ai-platforms-assistants/exclusive-the-point-isnt-that-it-never-misunderstands-its-that-the-user-stays-in-control-plaud-tells-us-why-its-new-ai-earbuds-want-to-do-more-than-record-your-meetings",
-    "title": "Exclusive: ‘The point isn't that it never misunderstands; it's that the user stays in control’ — Plaud tells us why its new AI earbuds want to do more than record your meetings",
-    "description": "Plaud's new AI earbuds record your conversations, but that's only the beginning.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T13:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/tqXiLu8s3qxn9dqa3yyVMW-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/how-to-watch/golf/tour-championship-2026-free",
     "title": "How to watch Tour Championship 2026 for FREE: TV Channels & Preview",
     "description": "All the ways to watch Tour Championship 2026 live streams for free from anywhere, as the FedExCup Champion is crowned at East Lake.",
@@ -786,14 +832,15 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techradar.com/gaming/gaming-accessories/forget-the-ikea-x-xbox-collection-youre-all-sleeping-on-ikeas-existing-cheap-gaming-range",
-    "title": "Forget the IKEA x Xbox collection — you're all sleeping on IKEA's existing cheap gaming range",
-    "description": "Looking for affordable, practical, quirky gaming kit? Get yourself to IKEA.",
+    "link": "https://www.techradar.com/ai-platforms-assistants/exclusive-the-point-isnt-that-it-never-misunderstands-its-that-the-user-stays-in-control-plaud-tells-us-why-its-new-ai-earbuds-want-to-do-more-than-record-your-meetings",
+    "title": "Exclusive: ‘The point isn't that it never misunderstands; it's that the user stays in control’ — Plaud tells us why its new AI earbuds want to do more than record your meetings",
+    "description": "Plaud's new AI earbuds record your conversations, but that's only the beginning.",
     "categories": [
-      "Gaming"
+      "Breaking News",
+      "Tech News"
     ],
     "pub_date": "2026-08-27T13:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/oD9yx4PGupMntFJ9xfyu9E-1280-80.jpg",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/tqXiLu8s3qxn9dqa3yyVMW-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -807,6 +854,17 @@
     "pub_date": "2026-08-27T13:00:00+00:00",
     "image_url": "https://www.digitaltrends.com/tachyon/2026/08/AI-Assisted-Editor_Static.jpg?resize=440%2C292",
     "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/gaming-accessories/forget-the-ikea-x-xbox-collection-youre-all-sleeping-on-ikeas-existing-cheap-gaming-range",
+    "title": "Forget the IKEA x Xbox collection — you're all sleeping on IKEA's existing cheap gaming range",
+    "description": "Looking for affordable, practical, quirky gaming kit? Get yourself to IKEA.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-08-27T13:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/oD9yx4PGupMntFJ9xfyu9E-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://www.androidcentral.com/phones/samsung-galaxy/leaks-look-at-the-galaxy-s27-and-s27-pro",
@@ -1301,18 +1359,6 @@
     "source_name": "THENEXTWEB.COM"
   },
   {
-    "link": "https://www.theverge.com/gadgets/984927/xiaomi-redmi-note-17-pro-max-9210mah-battery",
-    "title": "Xiaomi’s new Redmi phone lasts for three days on a single charge",
-    "description": "The 9,210mAh dual-cell battery in the new Redmi Note 17 Pro Max is the biggest that Xiaomi has fit in any phone it's sold in Europe - and remarkably, in some other markets the phone comes with an even larger 10,000mAh single-cell design. As you can probably guess, this is a silicon-carbon battery either way,",
-    "categories": [
-      "Gadgets & Hardware",
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-08-27T11:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/redmi-note-17-pro-max-4.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.wired.com/story/livestream-the-great-data-center-backlash/",
     "title": "Submit Your Questions: The Great Data Center Backlash",
     "description": "You have questions about data centers, and WIRED has answers. Join our livestream on September 10 and our panel of experts will tell you everything you need to know.",
@@ -1325,6 +1371,18 @@
     "pub_date": "2026-08-27T11:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6a8f77afa84e455f12fd9a48/master/pass/livestream_ama_data_centers.jpg",
     "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/984927/xiaomi-redmi-note-17-pro-max-9210mah-battery",
+    "title": "Xiaomi’s new Redmi phone lasts for three days on a single charge",
+    "description": "The 9,210mAh dual-cell battery in the new Redmi Note 17 Pro Max is the biggest that Xiaomi has fit in any phone it's sold in Europe - and remarkably, in some other markets the phone comes with an even larger 10,000mAh single-cell design. As you can probably guess, this is a silicon-carbon battery either way,",
+    "categories": [
+      "Gadgets & Hardware",
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-08-27T11:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/redmi-note-17-pro-max-4.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.techradar.com/audio/multi-room/yamahas-new-compact-hi-fi-streamers-have-all-the-wired-and-wireless-hi-res-connections-you-could-want-for-a-smart-small-stereo-system-and-one-doubles-as-an-amp-too",
@@ -2251,60 +2309,5 @@
     "pub_date": "2026-08-27T05:05:01+00:00",
     "image_url": "http://www.techmeme.com/260827/i1.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/therabody-promo-code/",
-    "title": "Therabody Promo Codes: 15% Off September 2026",
-    "description": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/birdfy-discount-code/",
-    "title": "Birdfy Discount Codes: 15% Off Sitewide",
-    "description": "Use these verified Birdfy discount codes to score up to 40% off smart feeders, camera kits, and accessories.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/the-motley-fool-promo-code/",
-    "title": "Motley Fool Promo Code: $200 Off on Stock Advisor September 2026",
-    "description": "Scale your portfolio for less with these verified The Motley Fool membership discounts, stock advisor promo codes, and Epic Bundle deals.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/alo-yoga-discount-code/",
-    "title": "Alo Discount Code: 20% Off September 2026",
-    "description": "Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/starz-promo-code/",
-    "title": "Starz Promo Codes: $5 Off for September 2026",
-    "description": "Ready to stream award-winning series, hit movies, and exclusive originals? Our comprehensive guide helps you find every active Starz coupon, free trial, and discount code to save big on your subscription this 2026.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png",
-    "source_name": "WIRED.COM"
   }
 ]
