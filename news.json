@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+    "title": "OpenAI&#8217;s executive exodus has one big winner",
+    "description": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to consolidate power under cofounder Greg Brockman, the company’s president. While Sam Altman is the CEO and still OpenAI’s most public face, Brockman has amassed",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups",
+      "Social & Media"
+    ],
+    "pub_date": "2026-08-27T14:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_082726_site.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2245189/google-deploys-support-encrypted-client-hello-on-android-17/",
+    "title": "Google deploys support for Encrypted Client Hello on Android 17",
+    "description": "Encrypted Client Hello rolls out on Android 17 to make the web more secure.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-08-27T14:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/google-deploys-support-for-encrypted-client-hello-on-android-17/l-intro-1787796269.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/ai-revolution-optimizing-wrong-things",
+    "title": "The AI revolution is optimizing for the wrong things",
+    "description": "Every large language model existing today is getting worse at writing, and almost nobody is measuring it. The industry keeps asking which model is smartest, but the bigger question is: smartest at what? As tech giants chase lucrative enterprise contracts, they are optimizing frontier models for coding, logic, and autonomous agent workflows. In the process,",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-08-27T13:49:15+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/ai-revolution-optimizing-wrong-things.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/nvidia-hugging-face-13bn-acquisition-talks",
     "title": "Nvidia is reportedly in talks to buy Hugging Face for $12.9bn",
     "description": "Nvidia has been in talks to acquire Hugging Face at a valuation above $13bn, according to Business Insider, days after reports that the open-model hub was exploring a sale at roughly that figure. The Information puts the process further along than that, reporting an agreed deal at $12.9bn, and Nvidia did not respond to a request",
@@ -49,7 +84,7 @@
   },
   {
     "link": "https://www.techradar.com/phones/iphone/7-things-to-expect-at-the-surprise-and-shine-apple-event",
-    "title": "7 things to expect at the 'Surprise and shine' Apple event",
+    "title": "7 things to expect at the 'Surprise and shine' Apple event, from the iPhone Ultra to new AirPods",
     "description": "Apple's next big event is on September 9, and we're expecting to see loads of announcements — including the first foldable iPhone.",
     "categories": [
       "Breaking News",
@@ -326,18 +361,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.engadget.com/2245221/photoshop-markup-feature-lets-you-draw-on-images-to-show-what-you-want/",
-    "title": "Photoshop's new 'Markup' feature lets you draw on images to show what you want",
-    "description": "Photoshop is getting new image-generation features and Lightroom-like controls that users have wanted for a long time.",
-    "categories": [
-      "Breaking News",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-08-27T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/photoshops-new-markup-feature-lets-you-draw-on-images-to-show-what-you-want/l-intro-1787809606.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
     "link": "https://www.engadget.com/2244839/plaud-made-earbuds-for-people-who-want-to-record-every-meeting-and-call/",
     "title": "Plaud made earbuds for people who want to record every meeting and call",
     "description": "The Plaud One is a different take on AI wearables.",
@@ -371,6 +394,18 @@
     ],
     "pub_date": "2026-08-27T13:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/google-is-releasing-a-special-edition-pokmon-sleep-fitbit-air-in-september/l-intro-1787809123.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2245221/photoshop-markup-feature-lets-you-draw-on-images-to-show-what-you-want/",
+    "title": "Photoshop's new 'Markup' feature lets you draw on images to show what you want",
+    "description": "Photoshop is getting new image-generation features and Lightroom-like controls that users have wanted for a long time.",
+    "categories": [
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-08-27T13:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/photoshops-new-markup-feature-lets-you-draw-on-images-to-show-what-you-want/l-intro-1787809606.jpg",
     "source_name": "ENGADGET.COM"
   },
   {
@@ -1037,7 +1072,7 @@
       "Tech News"
     ],
     "pub_date": "2026-08-27T10:46:23+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/samsung-galaxy-unpacked-s26-fe-live-blog/l-intro-1787831781.jpg",
+    "image_url": "https://www.engadget.com/img/gallery/samsung-galaxy-unpacked-s26-fe-live-blog/l-intro-1787839182.jpg",
     "source_name": "ENGADGET.COM"
   },
   {
@@ -2254,40 +2289,5 @@
     "pub_date": "2026-08-27T00:15:48+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/unnamed.webp",
     "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/08/26/lm-studio-adds-glm-5-3-flash-to-bionic-with-image-support-and-1m-token-context/",
-    "title": "LM Studio adds GLM-5.3-Flash to Bionic, with image support and 1M-token context",
-    "description": "LM Studio has added Z.ai’s new GLM-5.3-Flash model to Bionic, its AI agent platform, bringing multimodal input, a 1 million-token context window, and significantly lower pricing than GLM-5.2. Here are the details.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T00:10:19+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/lm-studio-bionic.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/home/energy-saving/china-sets-new-airborne-wind-turbine-record-at-4-000m-this-747-sized-helium-blimp-generates-megawatt-power-from-high-altitude-winds",
-    "title": "China sets new airborne wind turbine record at 4,000m — this 747-sized helium blimp generates megawatt power from high-altitude winds",
-    "description": "China’s S4000 airship channels the wind to generate electricity at 4,000 meters above the ground.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T00:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/DQz7EZ2ZfH2FfJgAEAW2kW-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-    "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-    "description": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-08-26T23:47:18+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
