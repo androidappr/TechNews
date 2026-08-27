@@ -1,5 +1,27 @@
 [
   {
+    "link": "https://www.techradar.com/pro/ukraine-warns-russia-has-built-metal-cutting-drones-to-topple-its-power-grid",
+    "title": "Ukraine warns Russia has built metal-cutting drones to topple its power grid",
+    "description": "Ukraine says Russia built a drone with cutting charges in its wings to drop power pylons.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-27T22:25:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/sz6gFYTwfpR5a6TbDhtViJ-1280-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/08/27/tim-cook-and-john-ternus-host-pikachu-and-the-pokemon-company-ceo-at-apple-park/",
+    "title": "Tim Cook and John Ternus host Pikachu and The Pokémon Company CEO at Apple Park",
+    "description": "In a tongue-in-cheek post on X, Apple CEO Tim Cook shared a video showing Pikachu running around Apple Park during a visit from the Pokémon team. Watch it below.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-27T22:24:41+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/cook-ternus-pokemon.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
     "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
     "title": "Anthropic's new hardware standard lets AI agents control the physical world",
     "description": "Standardized driver interface  aims to let devices talk to AI and each other.",
@@ -32,6 +54,17 @@
     "pub_date": "2026-08-27T22:09:36+00:00",
     "image_url": "https://media.thenextweb.com/2026/08/whats-next-ai-how-to-get-there.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/human-beware-the-secrets-we-tell-ai-chatbots-arent-private/",
+    "title": "Human, Beware: The Secrets We Tell AI Chatbots Aren’t Private",
+    "description": "A recent DuckDuckGo survey finds that people are sharing intimate details with chatbots without knowing all the privacy risks.",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-08-27T22:08:19+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/DDG-survey-16x9-1.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://www.engadget.com/2246021/you-wont-be-able-to-hot-wire-every-car-in-gta-6/",
@@ -880,7 +913,6 @@
     "title": "How to adjust the custom EQ settings for your AirPods in iOS 27",
     "description": "Everything you need to know about Apple's latest audio tool.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-08-27T18:30:00+00:00",
@@ -926,7 +958,6 @@
     "title": "New Mac mini and more now available from Amazon for launch day pre-order [Updated]",
     "description": "Update August 27, 2026: The new Mac Studio is also now available for pre-order on Amazon. \n\nApple surprised us with some big Mac news today, including a new lineup of Mac Studio and Mac mini models.\nIf you’re in the market for some of today’s new Apple gear, you now have the choice to pre-order from Amazon as well.\n\nBuy Mac mini from Amazon\nBuy Mac Studio from Amazon",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-27T18:23:29+00:00",
@@ -2251,41 +2282,5 @@
     "pub_date": "2026-08-27T14:01:42+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-    "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-    "description": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don't deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications that were never built with a machine decision-maker in mind. That's the failure mode that should keep you up at night: a windy, complicated system nobody can see clearly enough to govern. But why do things get so opaque so quickly?Add a second agent to a system, and you've added one connection. Add a tenth, and you haven't added ten connections, you've potentially added dozens, because now any agent might call any other, and each of those calls can trigger a call somewhere else. Complexity doesn't creep up with agent headcount. It compounds with the number of paths between agents, and nobody's job is to draw that graph. A support ticket that used to touch one system might now pass through four agents before a human ever lays eyes on it, and every one of those handoffs is a decision point nobody approved.Most enterprise AI programs stall when the humans responsible for their agents lose the thread. Ask a security team a simple question: which agents can reach which systems, and watch the silence. Ask which agent triggered which downstream action three hops ago. More silence.The instinct is to treat this like a checklist. Approve the agent. Log the agent. Move on. I'd argue this is the wrong instinct. A checklist checks a single point in time. Complexity runs across a chain, and you can't govern a chain with a stack of one-time approvals any more than you can call a diet successful because you had a vegetable once.So where does it actually break down?Permissions creep first. Somebody builds an agent to summarize support tickets, grants it broad API access because scoping it properly would've taken another sprint, and forgets about it. Six months later, that same agent has a path into the payments system. Nobody remembers signing off on that. Nobody did.And ownership thins out the further the chain runs. Five agents touch one workflow, something breaks at step four, and now you're asking who's responsible for a link nobody was ever assigned to own, because the org chart stopped at \"deploy the agent\" and never got to \"name the human who answers for it.\"This is a story about governance infrastructure that hasn't caught up with how agents actually behave: interconnected, cascading, multiplying faster than the processes built to track them.Fixing the cluster starts with identity. Every agent needs to exist as its own entity, not a shadow permission borrowed from whoever deployed it. Its own name in the register. Its own scoped authority. A named human sponsor who answers for what it does. That part is necessary.But it is nowhere near sufficient.The harder piece is the oversight that holds across the entire chain, not just at each individual link in it. You need to see what an agent did, what it set off downstream, and where that trail ends in real time, not in a report someone pulls together once a quarter. Get agent-level identity right and stop there, and you end up with a filing cabinet full of perfectly documented agents operating inside a system nobody can actually explain.And oversight by itself only tells you what already happened. Watching a chain isn't the same as controlling it. Enforcement is the piece most programs skip: the ability to stop an out-of-policy call before it executes, not just log it for someone to find in a review three weeks later. A dashboard that shows you an agent breached its scope five minutes ago is a monitoring tool. A system that stops the breach from happening in the first place is governance. Enterprises serious about agent accountability need both, and most have only built the first.We're all running at blazing speed to ensure we're not the ones left behind in the race we've found ourselves in, and we're all too aware that there's a cost to slowing down. Every enterprise serious about agentic AI hits the complexity wall eventually. The ones that get past it are the ones who built enough visibility and accountability, so their fleet can keep growing without anyone losing the ability to answer one question: what is this system doing right now, and who's responsible for it.But don't miss the point. Complexity isn't a reason to pump the brakes. The enterprises getting this right aren't slowing down. They're building toward Human-Agent Harmony, where scale and accountability grow together instead of trading off against each other.The real risk was never a single agent doing exactly what it was built to do. It's a hundred of them doing exactly that, all at once, interacting in combinations nobody designed for. That kind of multiplication is what keeps enterprise AI stuck running pilots forever instead of running production.Solve for complexity and autonomy stops being the villain. It starts being the whole point.Rory Blundell is CEO at Gravitee. Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-08-27T14:01:00+00:00",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5ScHW6mZ2rQr3EvsxrwooK/43df8725b6e12cd4bcf550bb7b3b1cb4/Gravitee_hero.jpg?w=300&q=30",
-    "source_name": "VENTUREBEAT.COM"
-  },
-  {
-    "link": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
-    "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
-    "description": "227 install commands were found in corporate docs pointing at code nobody owns.",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-08-27T14:00:13+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
-    "title": "OpenAI&#8217;s executive exodus has one big winner",
-    "description": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to consolidate power under cofounder Greg Brockman, the company’s president. While Sam Altman is the CEO and still OpenAI’s most public face, Brockman has amassed",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Social & Media"
-    ],
-    "pub_date": "2026-08-27T14:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_082726_site.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
