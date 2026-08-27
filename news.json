@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.techradar.com/pro/security/boston-scientific-says-cyberattack-is-causing-a-global-disruption-to-medical-device-operations",
+    "title": "Boston Scientific says cyberattack is causing a ‘global disruption’ to medical device operations",
+    "description": "The company did not say what kind of attack it suffered, or when it might complete the restoration process.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-08-27T12:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/wV66hEbpJdAc4iPB7RwtkK-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.theverge.com/gadgets/984728/sleep-score-court-is-in-session-pixel-watch",
     "title": "Sleep score court is in session",
     "description": "Your honor, We all know that the woman who sits before you is tired. Just look at the circles under her eyes. The novelty Pride and Prejudice T-shirt and Muji sweatpants that pass for pajamas. The unkempt, banana clip hairstyle that says \"I really did wake up like this.\" But she's doing her best. And",
@@ -57,6 +68,18 @@
     "pub_date": "2026-08-27T12:00:00+00:00",
     "image_url": null,
     "source_name": "ZDNET.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/samsung-galaxy-s26-fe-announced",
+    "title": "Samsung announces a mid-range Galaxy S26 FE for $699",
+    "description": "Samsung's new Galaxy S26 FE pairs flagship-level AI features with mid-range specs and price.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-27T12:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/06YOaHjV6WG7Uq8GtJvrxto/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.digitaltrends.com/home-theater/samsung-built-a-1100hz-gaming-monitor-because-apparently-600hz-wasnt-fast-enough/",
@@ -2237,29 +2260,5 @@
     "pub_date": "2026-08-26T19:18:23+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Hibiscus-roundup.png?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.zdnet.com/article/what-to-expect-from-apples-confirmed-sept-9-launch-event/",
-    "title": "Apple sets its iPhone 18 event for September: A new foldable and CEO could steal the show",
-    "description": "Is a foldable iPhone finally in our future? We'll be on the ground on Sept. 9 to find out.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-26T19:18:00+00:00",
-    "image_url": null,
-    "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
-    "title": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
-    "description": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming.",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity",
-      "Tech Business & Startups"
-    ],
-    "pub_date": "2026-08-27T01:01:42+05:45",
-    "image_url": "https://media.wired.com/photos/6a8ec12c77fbaae8f5a47365/master/pass/OpenAIFaceHug.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
