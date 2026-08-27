@@ -1,5 +1,62 @@
 [
   {
+    "link": "https://www.techradar.com/pro/how-to-self-host-docker-apps",
+    "title": "How to self-host Docker apps",
+    "description": "Learn to self-host Docker apps using any Linux-based server. We’ll cover server configuration, Docker Engine installation, writing a compose.yaml file, and launching your containers using SSH.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-27T13:38:36+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/xYCHJYF6osxKvsgCfkwmRo-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/phones/iphone/7-things-to-expect-at-the-surprise-and-shine-apple-event",
+    "title": "7 things to expect at the 'Surprise and shine' Apple event",
+    "description": "Apple's next big event is on September 9, and we're expecting to see loads of announcements — including the first foldable iPhone.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-08-27T13:37:06+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/uECAzrbUEVAyPyyBsSAC54-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/audio/earbuds-airpods/ever-wished-your-airpods-could-have-their-own-tiny-rugged-pelican-case-well-dbrand-known-for-controversy-over-its-ps5-covers-and-unlicensed-steam-machine-companion-cube-has-made-one",
+    "title": "Ever wished your AirPods could have their own tiny rugged Pelican case? Well, Dbrand — known for controversy over its PS5 covers and unlicensed Steam Machine Companion Cube — has made one",
+    "description": "Users didn't like Dbrand's Tank Case for phones, but that didn't stop it from making one for the AirPods Pro 3.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-27T13:35:07+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/qfKzgZbTpnxgPYkZVUpYiA-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260827/p30#a260827p30",
+    "title": "Nevada-based identity verification and fraud prevention startup Socure raised $156M at a $5.2B valuation and acquires Austin-based agentic AI startup Fravity (Mary Ann Azevedo/Crunchbase News)",
+    "description": "Mary Ann Azevedo / Crunchbase News:\nNevada-based identity verification and fraud prevention startup Socure raised $156M at a $5.2B valuation and acquires Austin-based agentic AI startup Fravity  —  Identity verification and fraud prevention company Socure announced Thursday that it raised $156 million in a strategic growth investment valuing it at $5.2 billion.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-27T13:35:01+00:00",
+    "image_url": "http://www.techmeme.com/260827/i30.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://mashable.com/life/hypershell-halo-full-leg-exoskeleton",
+    "title": "First look: Hypershell is launching the worlds first full-leg exoskeleton at IFA 2026",
+    "description": "Hypershell is unveiling Halo, its new full-leg exoskeleton, at IFA 2026 in Berlin on Sept. 3. The device uses four powered joints to support movement across the hips and knees at once.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-27T13:29:56+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/03rmwG8gbTN2t96PPjl2T6L/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.zdnet.com/article/is-old-iphone-still-worth-anything-or-just-e-waste-how-to-tell/",
     "title": "Is your really old iPhone still worth anything or just e-waste? How to tell",
     "description": "I found my old iPhone 4 in a drawer and wondered: Does it work? Is it worth anything? What should I do with it? I went looking for answers.",
@@ -23,7 +80,7 @@
   },
   {
     "link": "https://www.digitaltrends.com/home-theater/plaud-one-ai-earbuds-can-remember-conversations-and-help-get-the-work-done-afterwards/",
-    "title": "Plaud One AI earbuds can remember conversations and help get the work done afterwards",
+    "title": "Plaud One AI earbuds can remember conversations and help get the work done afterwards.",
     "description": "Plaud One Explorer Edition combines AI earbuds, 4G connectivity and Plaud Agent to capture conversations, understand context and create follow-ups across work apps.",
     "categories": [
       "AI & Machine Learning",
@@ -56,6 +113,18 @@
     "pub_date": "2026-08-27T13:24:17+00:00",
     "image_url": "http://www.techmeme.com/260827/i29.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/samsung-galaxy-s26-fe-value",
+    "title": "Is Samsungs Galaxy S26 FE still a good value at $700?",
+    "description": "The $700 Galaxy S26 FE gets advanced camera features, including My FanCam and Super Steady video. Is it still a good value?",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-27T13:24:04+00:00",
+    "image_url": "https://cdn.ex.co/transformations-account/production/a0be6317-e085-43f9-8cb5-7b125d25af4b/99153389-12e1-416e-a00c-a23b4a0f84f5/master.m3u8",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techradar.com/pro/16gb-g-skill-flare-x5-ddr5-6000-ram-gets-a-usd43-discount-as-the-memory-crisis-continues-to-punish-pc-builders",
@@ -135,6 +204,17 @@
     "pub_date": "2026-08-27T13:11:19+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/DSC00345.jpeg",
     "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/gta-6-netflix-extended-look-time-details",
+    "title": "GTA 6 Netflix extended look: What time it releases today",
+    "description": "Rockstar Games confirmed that our next big look at 'Grand Theft Auto VI' will happen on Netflix, of all places.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-27T13:10:34+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01X60hPxIpKj7Gz2kMawN5J/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techmeme.com/260827/p28#a260827p28",
@@ -304,17 +384,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techradar.com/gaming/gaming-accessories/forget-the-ikea-x-xbox-collection-youre-all-sleeping-on-ikeas-existing-cheap-gaming-range",
-    "title": "Forget the IKEA x Xbox collection — you're all sleeping on IKEA's existing cheap gaming range",
-    "description": "Looking for affordable, practical, quirky gaming kit? Get yourself to IKEA.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-08-27T13:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/oD9yx4PGupMntFJ9xfyu9E-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/ai-platforms-assistants/exclusive-the-point-isnt-that-it-never-misunderstands-its-that-the-user-stays-in-control-plaud-tells-us-why-its-new-ai-earbuds-want-to-do-more-than-record-your-meetings",
     "title": "Exclusive: ‘The point isn't that it never misunderstands; it's that the user stays in control’ — Plaud tells us why its new AI earbuds want to do more than record your meetings",
     "description": "Plaud's new AI earbuds record your conversations, but that's only the beginning.",
@@ -324,6 +393,17 @@
     ],
     "pub_date": "2026-08-27T13:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/tqXiLu8s3qxn9dqa3yyVMW-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/gaming-accessories/forget-the-ikea-x-xbox-collection-youre-all-sleeping-on-ikeas-existing-cheap-gaming-range",
+    "title": "Forget the IKEA x Xbox collection — you're all sleeping on IKEA's existing cheap gaming range",
+    "description": "Looking for affordable, practical, quirky gaming kit? Get yourself to IKEA.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-08-27T13:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/oD9yx4PGupMntFJ9xfyu9E-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -1132,6 +1212,7 @@
     "title": "Apple confirms its ‘Surprise and shine’ event for 9 September",
     "description": "Apple has confirmed that its autumn event will take place on 9 September at 10am Pacific time at Apple Park, under the tagline “Surprise and shine” and an invitation showing a sun rising behind the company logo. The expectation is that it will finally show a foldable iPhone, a device IDC thinks could ship 10 million",
     "categories": [
+      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-08-27T09:51:35+00:00",
@@ -2201,83 +2282,5 @@
     "pub_date": "2026-08-26T23:09:50+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/NRHO.jpg",
     "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2245151/australia-s-recording-association-bans-ai-made-music-from-charts/",
-    "title": "Australia's recording association bans AI-made music from charts",
-    "description": "Songs using gen-AI as a support tool will still be allowed, so long as they're \"substantially human made.\"",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-08-26T23:00:49+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/australias-recording-association-bans-ai-made-music-from-charts/l-intro-1787785022.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
-    "title": "Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well",
-    "description": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.",
-    "categories": [
-      "Government & Policy",
-      "Social & Media"
-    ],
-    "pub_date": "2026-08-26T22:47:58+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/gaming/playstation-plus-september-2026-mlb-the-show-26/",
-    "title": "MLB The Show 26 Headlines a Surprisingly Underwhelming PlayStation Plus Month",
-    "description": "Sniper Elite: Resistance, Wobbly Life and Chained Echoes round out a lineup that offers something for different kinds of players.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-08-26T22:40:47+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-08-26-at-4.10.13-PM.png",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/claude-cowork-gets-its-own-browser-that-doesnt-touch-your-tabs-bookmarks-or-saved-passwords/",
-    "title": "Claude Cowork gets its own browser that doesn’t touch your tabs, bookmarks, or saved passwords",
-    "description": "Claude Cowork now has its own built-in browser, separate from your personal Chrome tabs, bookmarks, and passwords. The new built-in browser never touches your logins unless you deliberately choose to share them.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-08-26T22:37:48+00:00",
-    "image_url": "https://www.digitaltrends.com/tachyon/2026/08/claude-cowork-dedicated-browser.jpg?resize=440%2C292",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://mashable.com/life/callaway-good-good-golf-ad-backlash",
-    "title": "Callaway’s Good Good generationally stupid golf ad has left the internet horrified",
-    "description": "Callaway apologized after approving a Good Good commercial that depicted a male golfer shoving and threatening a woman. The internet reacts.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-26T22:34:26+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07mGbYkfX6W6C4lawOtpQrI/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/rising-temperatures-contributed-nepals-deadly-flood/",
-    "title": "How Rising Temperatures Likely Contributed to Nepal’s Deadly Flood",
-    "description": "Climate change is causing glaciers to retreat and become less stable, upping the odds of catastrophic collapses.",
-    "categories": [
-      "Science & Innovation"
-    ],
-    "pub_date": "2026-08-26T22:19:44+00:00",
-    "image_url": "https://media.wired.com/photos/6a8f161ecb47509e08d69504/master/pass/GettyImages-2291557015.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/",
-    "title": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
-    "description": "A dashing pirate, a butler, a shapeshifting killer clown, an alien mad scientist in drag—the man had range.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-26T22:13:15+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/horrorTOP-1152x648-1754745307.jpg",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
