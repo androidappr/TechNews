@@ -1,5 +1,27 @@
 [
   {
+    "link": "https://www.techmeme.com/260828/p23#a260828p23",
+    "title": "An appeals court rules states can regulate prediction markets, finding Kalshi's sports event contracts are bets, not swaps, and subject to state gambling laws (Lauren McCarthy/New York Times)",
+    "description": "Lauren McCarthy / New York Times:\nAn appeals court rules states can regulate prediction markets, finding Kalshi's sports event contracts are bets, not swaps, and subject to state gambling laws  —  The outcome contradicted an earlier appeals court decision.  Federal regulators said the split rulings called for resolution by the Supreme Court.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T22:50:01+00:00",
+    "image_url": "http://www.techmeme.com/260828/i23.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+    "title": "Is the best way to watch a movie on a pair of sunglasses?",
+    "description": "Are XREAL's smart glasses the way of the future for home entertainment?",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-08-28T22:42:48+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260828/p22#a260828p22",
     "title": "A deep dive into Grok Bot, including its architecture, use cases, and alternatives, as xAI adds shareable bot templates and online purchases through Stripe Link (Flavio Copes)",
     "description": "Flavio Copes:\nA deep dive into Grok Bot, including its architecture, use cases, and alternatives, as xAI adds shareable bot templates and online purchases through Stripe Link  —  A detailed Grok Bot guide covering setup, persistent computers, skills, routines, templates, approvals, real use cases, limits, pricing, and alternatives.",
@@ -9,6 +31,17 @@
     "pub_date": "2026-08-28T22:40:03+00:00",
     "image_url": "http://www.techmeme.com/img/pml.png",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/data-center-boom-safety-workforce-development",
+    "title": "The data center boom will fail its promise if safety and workforce development continue to lag behind",
+    "description": "The data center boom will be judged not only by how much infrastructure we build, but by whether the people building it return home safely. Major opportunities bring a rush for capital, market share, and industry leadership. Schedules tighten, hiring accelerates, and safety can be treated as an obstacle. From what I have seen in",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T22:36:35+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/data-center-boom-safety-workforce-development.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://mashable.com/science/how-to-watch-roman-space-telescope-launch",
@@ -467,7 +500,6 @@
     "title": "HomeKit Weekly: Linkind’s Smart Light Stick brings flame effects with Matter support",
     "description": "“Flame effects” is not something I’d used before in a smart bulb, so this was a super interesting concept to me. Linkind’s Smart Light Stick aims to bring the idea of a “live flame” to a smart bulb, and it works with Apple Home out of the box thanks to Matter.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-28T18:49:00+00:00",
@@ -744,7 +776,6 @@
     "title": "Here's what we know about the \"space academy\" Trump just announced",
     "description": "\"It's called the US Space Academy. That's a big deal.\"",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-08-28T17:36:30+00:00",
@@ -911,7 +942,6 @@
     "title": "How does Sony's new Bravia 6 OLED TV compare to the LG C6 and Samsung S90H? Here's what we know",
     "description": "Sony's new Bravia 6 TV is a mid-range OLED priced similarly to the LG C6 and Samsung S90H, but its panel is believed to be OLED SE like the LG B6.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-28T16:50:49+00:00",
@@ -2225,39 +2255,5 @@
     "pub_date": "2026-08-28T10:45:00+00:00",
     "image_url": "https://media.wired.com/photos/6a904a3b36f6c0403d01480b/master/pass/AndroidIOS.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/netflix-mousetrap-review",
-    "title": "Need a new Netflix mystery? Korean thriller Mousetrap will ensnare you.",
-    "description": "Need a new mystery series? South Korean thriller 'Mousetrap' has just landed on Netflix.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T10:43:55+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02PFlwrD8f6bMetWS0A8R9V/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/openai-reveals-group-calling-for-greater-cybersecurity-protection-against-ai-signs-up-microsoft-google-and-many-more",
-    "title": "OpenAI reveals group calling for greater cybersecurity protection against AI, signs up Microsoft, Google and many more",
-    "description": "If you give everyone AI defenses, you level the playing field against attackers, OpenAI says.",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-08-28T10:43:49+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/o3oWm83C3SiBUpR2cySX2S-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/phones/android/i-am-so-done-with-this-google-messages-bug-thats-driving-users-crazy-is-finally-acknowledged-by-google",
-    "title": "'I am so done with this': Google Messages bug that's driving users crazy is finally acknowledged by Google",
-    "description": "A significant number of users are having trouble getting their group chats to behave in Google Messages.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-08-28T10:43:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/PXTh8bHDXfS59UARHwbQWa-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
