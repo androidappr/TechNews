@@ -1,5 +1,72 @@
 [
   {
+    "link": "https://www.zdnet.com/article/stillos-best-onboarding-experience-linux-distro/",
+    "title": "stillOS offers one of the best Linux onboarding experiences I've ever seen",
+    "description": "I've experienced first steps with countless Linux distributions over the years, but this one nails every step of the way for users of all types.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T18:00:49+00:00",
+    "image_url": null,
+    "source_name": "ZDNET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/analysts-say-getting-gta-6-to-run-at-60fps-is-extremely-unlikely-on-console-hardware-as-rockstar-confirms-30fps-limit",
+    "title": "Analysts say getting GTA 6 to run at 60fps is 'extremely unlikely on console hardware,' as Rockstar confirms 30fps limit",
+    "description": "Tech analysts have suggested that getting Grand Theft Auto 6 to run smoothly at 60 frames per second would be a massive challenge on console.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-08-28T18:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/jFQzvJH5A6XmDviwDeJPoa-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/phones/xiaomi/this-is-how-xiaomis-smart-privacy-display-could-work-on-its-next-gen-phones",
+    "title": "This is how Xiaomi's 'smart privacy display' could work on its next-gen phones",
+    "description": "Xiaomi's version of a Privacy Display has been rumored since February, and now leaks are surfacing to show us exactly how this could work.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T17:59:15+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/jKULHXDogDmRyJHZPcM4ML-1280-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2246550/theres-a-new-twitter-in-town-even-though-a-judge-has-yet-to-rule-on-a-trademark-injunction/",
+    "title": "There's a new Twitter in town, even though a judge has yet to rule on a trademark injunction",
+    "description": "\"The public square is open again, and definitely not affiliated with X in any way.\"",
+    "categories": [
+      "Social & Media"
+    ],
+    "pub_date": "2026-08-28T17:54:50+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/theres-a-new-twitter-in-town-even-though-a-judge-has-yet-to-rule-on-a-trademark-injunction/l-intro-1787939643.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents",
+    "title": "The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents",
+    "description": "Presented by Nutanix Autonomous systems that can reason, make their own decisions, and execute actions across an environment introduce a category of risk that application-level controls were never built to contain. Treating that risk as a single problem produces incomplete architectures, says Oscar Wahlberg, senior director of product management at Nutanix.\"The guardrails to catch a malicious prompt won't stop an agent from hallucinating and doing something it never should have done, like accidentally deleting databases or leaking sensitive data with a credential it was granted but then uses for something entirely different,\" Wahlberg says. \"That's the central problem as enterprises move autonomous agents out of experimentation and into production.\"Once an agentic system is granted execution privileges across the data center, the security posture has to scale into a defense-in-depth architecture spanning infrastructure, storage, compute, networking, and a governing control plane. Each layer addresses a distinct category of risk, rather than duplicating the same controls across the stack. No single security control or vendor can provide that protection on its own. Defense-in-depth depends on those layers working together.By dividing the responsibilities across the stack and adhering to zero trust segmentation, organizations can create a secure framework that improves their overall posture. Understanding which risks belong in each layer is what turns the principle of defense-in-depth into a practical security framework, with three layers that each have a distinct responsibility.Infrastructure layer: Establishing trust where AI agents runThe infrastructure layer’s foundational responsibility is establishing a root of trust that answers a simple question: who is operating in the environment? That trusted identity becomes the prerequisite for every security control above it. Before an organization can trust what an agent does, it first has to trust the integrity of the environment where the agent runs. When an agent requests permission to execute an operation, the system must be able to verify that the request came from the legitimate agent — not something impersonating it.Delivering that kind of assurance depends on technologies that root trust in the hardware itself, including platform attestation, confidential computing, and secure boot, alongside controls that prevent unauthorized access both within a server and beyond it. For regulated industries such as financial services, this layer provides the ability to isolate AI production workloads so that neither the agent nor the environment can operate outside its assigned scope. That mitigates risks including model and runtime tampering, supply chain compromise, and unauthorized access to sensitive AI workloads.Network layer: Governing how AI agents communicateOnce agents begin communicating with other agents, APIs, applications, and enterprise systems, they generate a level of concurrency and dynamic communication that traditional static network configurations were never designed to handle. An agent configured to call APIs, query data sources, and spin up additional agents without constraint creates a sprawling web of east-west traffic that becomes very difficult to reason about, and that complexity can easily mask lateral movement or data exfiltration when the right network security layers are not in place.\"We should treat AI agents as a new class of network identity, and make sure that an agent can only talk to other agents or data sources where it's explicitly allowed to do so,\" Wahlberg says. \"That means moving away from rigid static rules toward dynamic policy enforcement.\" Nutanix's solution is Agent Gateway, part of the Nutanix Agentic AI solution. It's a unified, governed layer that is designed to provide cost control and governance capabilities to help manage autonomous agent users. Coupled with agents grounded in zero trust segmentation and using capabilities like Nutanix Flow for micro segmentation and integrating with networking vendors, including its integration into the Cisco Secure AI Factory, Agent Gateway helps enterprises govern interactions across agents, models, data sources, and enterprise applications.The network layer governs lateral movement, data exfiltration, and gates the agent's network interactions. A zero trust framework with access blocked by default and scalable interaction monitoring is important for agents since they can exhibit unreliable behavior. The Nutanix software integration with Cisco UCS servers and Cisco AI PODs delivers the turnkey physical infrastructure (compute, storage, and networking) that the AI factory runs on. Control plane layer: Governing what AI agents are permitted to doThe control plane is the brains of the operation, providing a central point for managing agent permissions, tool access, resource consumption, and runtime visibility. What matters most is having a single place where policies can be enforced consistently rather than reinvented for every agent, Wahlberg says.\"Agent Gateway acts as a universal endpoint for different models and tools, so an IT team can configure their agents to talk to this single control point,\" he explains. The centralized AI gateway enables the admin to observe, audit, and control access to models as well as MCP tools protecting data and gating privileged access. This layer is designed to help mitigate risks such as privilege misuse, runaway agents, unauthorized tool usage, data leakage, and the excessive model consumption that can lead to increased token consumption when agents get stuck in runtime loops. And it depends on treating governance as a runtime control system rather than a compliance afterthought.Why one-size-fits-all security fails agentic AI environmentsThe biggest architectural mistake enterprises make is assuming a single security model can be stretched across every layer of an AI stack. When an organization tries to solve for hardware-level trust with application-level software, or leans on static legacy network rules to manage dynamic agents, it builds an architecture that either blocks the agentic system from doing its job or leaves critical doors wide open. One-size-fits-all thinking tends to produce significant performance penalties and operational friction.\"By failing to assign specific responsibilities to the appropriate layers, enterprises end up with blind spots in governance,\" Wahlberg says. \"They might secure the model output but miss that there's data leakage between agents, or they might secure the network but lack the control plane visibility to understand that they're wildly burning tokens because the agents are stuck in some kind of runtime loop.\" Focusing exclusively on the model leaves the largest gaps of all, because a guardrail that catches a malicious prompt does nothing to stop a hallucinating agent from misusing a legitimate credential. Embedding security across the full stack helps ensure that even when a model level threat slips past the initial filters, the agent remains constrained by hardware rooted trust, network isolation, and access controls at the agent layer.How Intel, Cisco, and Nutanix build defense-in-depth togetherThe three-way partnership from the three companies demonstrates how the layered architecture comes together in practice as a well-governed, enterprise-grade AI Cloud. Intel supplies the computer to run agentic workloads and secures the execution environment through hardware-rooted trust and confidential computing, while also driving costs down through their accelerators. Intel Xeon 6 processors with built-in AMX accelerate AI inference efficiently without relying exclusively on expensive GPUs. Cisco wraps the environment in a secure fabric that governs communication between agents and enterprise tools, while Nutanix provides the software platform, minimizing architectural silos, and the central control plane that enforces permissions, delivers visibility and cost governance, and ties the architecture together into a defense-in-depth solution that lets enterprises scale agentic AI.Of the three layers, enterprises currently underestimate the control plane the most, Wahlberg says. A true control plane extends far beyond initial deployment to simplify Day 2 operations, he explains, giving IT teams the continuous observability, and strict token governance required to keep autonomous agents secure and cost-effective in production.\"Apart from model and tool selection, governing the agent deployments and their access to models and business tools in a tightly integrated full stack platform will be important for the success of AI projects,\" he says, pointing to a near future in which organizations move from a handful of AI use cases to thousands of agents working autonomously to drive the business. Technology leaders should prioritize building a centralized governance layer today that can manage agent identities, tool permissions, and token budgets in real time, because that control point is what builds the operational muscle to scale safely. \"You can't build an AI system without getting into a lot of complex decisions,\" he explains. \"And you need a control plane that talks across multiple vendors and infrastructures to help you solve for those defense-in-depth strategies.\"Learn more about the Nutanix Agentic AI solution here.Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-08-28T17:52:50+00:00",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4rxwoj8uimKN2C4ILufEfb/66acf62e05aa0c55d3dddda68bc7efca/Nutanix_layers.png?w=300&q=30",
+    "source_name": "VENTUREBEAT.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/lambda-1bn-private-debt-microsoft-lease-nebius-european-neocloud",
+    "title": "Lambda inks $1B private debt for Nvidia chip deal",
+    "description": "Lambda has raised about $1B of private short-dated debt arranged by JPMorgan to buy Nvidia GPUs that Microsoft will lease, according to Bloomberg. The same structure funds Nebius, which borrowed $775M against its own chips and holds a five-year Microsoft contract worth $19.4B. Lambda has raised about $1B of private debt to buy Nvidia chips",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-08-28T17:43:30+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/lambda-1bn-private-debt-microsoft-lease-nebius-european-neocloud.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://mashable.com/tech/apple-tv-streaming-price-hike-2026",
     "title": "The latest Apple price hike: Apple TV streaming service",
     "description": "The price of an Apple TV subscription just went up again.",
@@ -355,7 +422,7 @@
   },
   {
     "link": "https://www.techradar.com/how-to-watch/football/crystal-palace-vs-man-city-premier-league-2026-27",
-    "title": "How to watch Crystal Palace vs Man City: Live streams and TV channels for the Premier League 2026/27 game",
+    "title": "How to watch Crystal Palace vs Man City: Live streams, team news and TV channels for the Premier League 2026/27 game",
     "description": "All the ways to watch Crystal Palace vs Man City live streams, as the Premier League title contenders take on Pierre Sage's side under the floodlights at Selhurst Park",
     "categories": [
       "Breaking News",
@@ -411,17 +478,6 @@
     "source_name": "9TO5MAC.COM"
   },
   {
-    "link": "https://www.techradar.com/streaming/hbo-max/what-is-the-release-date-and-launch-time-for-lanterns-episode-3-on-hbo-max",
-    "title": "What is the release date and launch time for Lanterns episode 3 on HBO Max?",
-    "description": "Lanterns' third episode will be here before you know it — this is when and where you'll be able to stream it.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T16:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/bgV4BHGGiLdWwZJHs5VaSS-1280-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/how-to-watch/tv-shows/miss-teen-usa-2026",
     "title": "How to watch Miss Teen USA 2026 online and from anywhere",
     "description": "Watch the long-running beauty contest in Miami from wherever you are. Here's how to watch Miss Teen USA 2026 online and potentially for FREE",
@@ -431,6 +487,17 @@
     ],
     "pub_date": "2026-08-28T16:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/NdPVrGZq3CWyARbUDjGNyL-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/streaming/hbo-max/what-is-the-release-date-and-launch-time-for-lanterns-episode-3-on-hbo-max",
+    "title": "What is the release date and launch time for Lanterns episode 3 on HBO Max?",
+    "description": "Lanterns' third episode will be here before you know it — this is when and where you'll be able to stream it.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T16:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/bgV4BHGGiLdWwZJHs5VaSS-1280-80.png",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -1288,7 +1355,6 @@
     "title": "The 31 Best Deals From the REI Labor Day Sale",
     "description": "Labor Day already? Say it ain’t so. You can still chase summer a while longer with these great deals on outdoor gear at the REI Labor Day Sale.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-28T12:00:00+00:00",
@@ -1345,7 +1411,6 @@
     "title": "Want a free Apple Watch? Play ZDNET's 'Guessing Game' to win one - only 4 days left",
     "description": "It's the third and final round of ZDNET's Big Guessing Game. What do you think Apple will announce?",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-28T11:57:00+00:00",
@@ -2226,71 +2291,5 @@
     "pub_date": "2026-08-28T06:21:43+00:00",
     "image_url": "https://www.engadget.com/img/gallery/x-claims-it-found-a-chinese-bot-farm-posting-anti-ai-data-center-sentiments/l-intro-1787897914.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260828/p1#a260828p1",
-    "title": "Sources: some tech companies are courting Democrats and hiring advisers to prepare for potential investigations if Republicans lose control of the House (Wall Street Journal)",
-    "description": "Wall Street Journal:\nSources: some tech companies are courting Democrats and hiring advisers to prepare for potential investigations if Republicans lose control of the House  —  Tech firms are courting Democrats and hiring advisers to prepare for potential investigations if Republicans lose control of the House",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T06:00:46+00:00",
-    "image_url": "http://www.techmeme.com/260828/i1.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/ai-is-making-people-less-confident-in-professionals-such-as-doctors-and-teachers",
-    "title": "AI is making people less confident in professionals such as doctors and teachers",
-    "description": "By checking facts using AI, patients and students have found a response to automatic deference, and a tool that explains subjects in a more digestible format.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T06:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/DroFFmiArXg2SARc9KPh44-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/uber-eats-promo-code/",
-    "title": "Uber Eats Promo Codes: $15 Off │September 2026",
-    "description": "Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/hotels-com-coupon/",
-    "title": "Hotels.com Coupon Codes for September 2026",
-    "description": "Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/gametime-promo-code/",
-    "title": "Gametime Promo Code: Save on Tickets in September 2026",
-    "description": "Grab last-minute seats for less with a verified Gametime discount code for up to 10% off, first-purchase coupons, and lowest price guarantee credits.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/reebok-discount-code/",
-    "title": "Reebok Discount Code: Save 15%+ in September 2026",
-    "description": "Score deep discounts on running shoes, athletic apparel, and classics with the latest verified Reebok promo codes, student discounts, and member-only savings.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
-    "source_name": "WIRED.COM"
   }
 ]
