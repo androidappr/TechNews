@@ -1,5 +1,18 @@
 [
   {
+    "link": "https://thenextweb.com/news/nvidia-h200-china-zero-revenue-guidance-europe-gigafactories",
+    "title": "Nvidia ships first H200 chips to China, but expects no data-centre revenue from them",
+    "description": "Nvidia shipped its first H200 processors to China under a new US licensing scheme, and they accounted for less than 1% of $89B in quarterly data centre revenue. Its $108B forecast for the current quarter assumes no data centre computing revenue from China at all. Nvidia has started shipping H200 processors to China and told",
+    "categories": [
+      "Business & Startups",
+      "Gadgets & Hardware",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-08-28T08:19:39+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/nvidia-naver-sk-group-korea-ai-investment.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/kevin-durant-hugging-face-250k-european-startup-employee-equity",
     "title": "Kevin Durant’s $250,000 Hugging Face bet is reportedly worth $60M",
     "description": "Kevin Durant and his business partner invested $250,000 in Hugging Face’s early rounds and his payout is reported at around $60M if Nvidia’s $12.9B acquisition completes. Employees at late-stage European startups own roughly 10% of their companies against 20% in the United States. Kevin Durant put $250,000 into Hugging Face and may be about to",
@@ -93,7 +106,6 @@
     "title": "Stripe-led group is reportedly abandoning its PayPal acquisition",
     "description": "Stripe and buyout firm Advent are no longer pursuing their acquisition of PayPal as was reported earlier this month.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-28T06:34:44+00:00",
@@ -353,7 +365,6 @@
     "title": "Sources: Advent and Stripe are no longer pursuing a deal to acquire PayPal; the group offered to pay $60.50/share in July, valuing PayPal at $53B (Bloomberg)",
     "description": "Bloomberg:\nSources: Advent and Stripe are no longer pursuing a deal to acquire PayPal; the group offered to pay $60.50/share in July, valuing PayPal at $53B  —  A consortium of buyout firm Advent and payment processor Stripe has decided to abandon its pursuit of fintech pioneer PayPal Holdings Inc. …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-28T02:30:01+00:00",
@@ -2222,16 +2233,5 @@
     "pub_date": "2026-08-27T16:10:14+00:00",
     "image_url": "http://www.techmeme.com/260827/i37.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2245553/google-brings-trip-planning-features-to-search-ai-mode/",
-    "title": "Google brings trip-planning features to Search's AI Mode",
-    "description": "Google AI Mode is getting a flight price tracker, hotel booking and a way to view the cost in miles or points.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-08-27T16:04:10+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/google-brings-trip-planning-features-to-searchs-ai-mode/l-intro-1787846533.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
