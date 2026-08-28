@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.wired.com/story/milo-yiannopoulos-detained-by-ice-in-louisiana/",
+    "title": "Milo Yiannopoulos Detained by ICE in Louisiana",
+    "description": "The longtime far-right operator and troll, a UK citizen, is being held in a detention center about 200 miles from New Orleans.",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-08-28T19:44:11+00:00",
+    "image_url": "https://media.wired.com/photos/6a91cfbdbb3a85e785f50a77/master/pass/IMG_5395.jpeg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
     "title": "An Anthropic researcher just gave us a peek at self-improving AI",
     "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
@@ -10,6 +21,17 @@
     "pub_date": "2026-08-28T19:30:38+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.cnet.com/science/space/stargazers-what-to-see-in-september-night-skies/",
+    "title": "Eyes Up, Stargazers! Here’s What You Can See in September Night Skies",
+    "description": "September brings dazzling planets, a harvest moon and the official shift to autumn.",
+    "categories": [
+      "Science & Environment"
+    ],
+    "pub_date": "2026-08-28T19:30:07+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/September-Night-Sky.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://9to5mac.com/2026/08/28/apple-photos-in-ios-27-upgrades-one-of-my-favorite-features-in-a-big-way/",
@@ -935,7 +957,6 @@
     "title": "a16z creates a $1.1B Machine Age fund focusing on hardware to \"open the throttle and accelerate the physical buildout of AI\" (Sean O'Kane/TechCrunch)",
     "description": "Sean O'Kane / TechCrunch:\na16z creates a $1.1B Machine Age fund focusing on hardware to “open the throttle and accelerate the physical buildout of AI”  —  Andreessen Horowitz has launched a new “Machine Age” fund with $1.1 billion raised.  The firm's aim with the new fund is to “open the throttle and accelerate the physical buildout of AI.”",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-28T15:46:19+00:00",
@@ -958,7 +979,6 @@
     "title": "Meta Keeps Trying to Fix Glasses Privacy Concerns With New Update",
     "description": "Another update for Meta glasses aims to shut down recording when the light’s off, and an ad campaign is trying to address the pervert concerns.",
     "categories": [
-      "Breaking News",
       "Mobile & Telecom"
     ],
     "pub_date": "2026-08-28T15:44:54+00:00",
@@ -1366,7 +1386,6 @@
     "title": "Apple TV now costs $14.99 a month after its fourth price hike in four years",
     "description": "Apple raised the price of its streaming service for new and current subscribers on Friday, bumping it up from $12.99 per month to $14.99, Deadline and Variety are reporting. An annual subscription now costs $119, up from $99. Apple also increased the cost of its individual Apple One subscription, which includes Apple TV and Apple's",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-08-28T13:47:36+00:00",
@@ -2267,28 +2286,5 @@
     "pub_date": "2026-08-28T09:33:00+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/there-are-so-many-conspiracy-theories-about-dolly-parton-and-vaccines/",
-    "title": "There Are So Many Conspiracy Theories About Dolly Parton and Vaccines",
-    "description": "Influential right-wing conspiracy theorists and MAGA-aligned pundits are falsely claiming that the Covid vaccine killed Dolly Parton, the vaccination advocate and philanthropist.",
-    "categories": [
-      "Government & Policy",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-08-28T09:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6a90c233c9ef4da778ca0aa1/master/pass/Dolly-Parton-Vaccine-Conspiracy-Politics-156123505.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/why-print-and-scanning-remain-an-unmitigated-risk",
-    "title": "Why print and scanning remain an unmitigated risk",
-    "description": "How an unsecured printer can become the backdoor that undoes your entire security stack.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T09:09:55+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
