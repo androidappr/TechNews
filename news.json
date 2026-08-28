@@ -1,5 +1,27 @@
 [
   {
+    "link": "https://www.digitaltrends.com/cars/volkswagens-new-20000-electric-suv-shows-what-us-buyers-are-missing/",
+    "title": "Volkswagen’s new $20,000 electric SUV shows what US buyers are missing",
+    "description": "Volkswagen’s new ID. Aura T6 starts at around $20,000 in China, highlighting the growing gap between affordable EV options there and in the US.",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-08-28T14:24:14+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/08/DT-2026-08-28T195024.184.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/a16z-machine-age-fund-1-1bn-hardware",
+    "title": "a16z has raised $1.1bn to invest in the physical layer of AI",
+    "description": "Andreessen Horowitz has closed a $1.1bn fund that will invest exclusively in hardware. The Machine Age Fund, announced on Friday, covers the physical layer artificial intelligence runs on, from chips to the buildings that house them. The mandate takes in chips, memory, networking and storage, and then keeps going. Complete systems qualify too, defined broadly",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-08-28T14:19:29+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/The-Machine-Age-Fund.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/08/28/apple-will-launch-15-new-products-this-fall-heres-whats-coming/",
     "title": "Apple will launch 15+ new products this fall, here’s what’s coming",
     "description": "Apple has a packed lineup of products launching this fall, including new iPhones, Macs, iPads, and more. Here’s every new Apple product rumored to arrive starting September 9.",
@@ -2234,31 +2256,5 @@
     "pub_date": "2026-08-27T21:11:39+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/00VPNyX1D26SSSXhL1Afnf4/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
-    "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
-    "description": "This week on “Uncanny Valley,” senior writer Will Knight talks his recent visit to China and the future of AI collaboration.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Gadgets & Hardware",
-      "Government & Policy",
-      "Social & Media"
-    ],
-    "pub_date": "2026-08-27T21:08:34+00:00",
-    "image_url": "https://media.wired.com/photos/6a8f6fdecc498c3752a8bb2c/master/pass/Uncanny-Valley-China-US-AI-Race-Business-2286901730.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/mobile/nokias-300-charge-retro-phone-not-available-us/",
-    "title": "Nokia’s 300 Charge Is the Cool Retro Phone You Won’t Be Using in the US",
-    "description": "The unavailability of the phone due to its 2G networking may drive fans of retro-styled phones to look at other options.",
-    "categories": [
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-08-27T21:07:21+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/nokia-charge-300.jpg",
-    "source_name": "CNET.COM"
   }
 ]
