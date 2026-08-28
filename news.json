@@ -1,5 +1,62 @@
 [
   {
+    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-08-28T19:30:38+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/08/28/apple-photos-in-ios-27-upgrades-one-of-my-favorite-features-in-a-big-way/",
+    "title": "Apple Photos in iOS 27 upgrades one of my favorite features in a big way",
+    "description": "Apple Photos is full of exciting updates in iOS 27, including for one of my favorite features in the app: iCloud Shared Albums.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T19:26:40+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ios-27-photos-app-icon-fi-purple.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2246658/early-leak-of-nvidia-dlss5-has-an-uncanny-valley-problem/",
+    "title": "Early leak of NVIDIA's DLSS 5 has an uncanny valley problem",
+    "description": "People are grafting a pre-release version of DLSS 5 onto their favorite games with unspectacular results.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-08-28T19:20:33+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/nvidias-dlss-5-has-an-uncanny-valley-problem/l-intro-1787944651.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/social-media/bluesky-now-has-a-feature-to-save-you-from-accidentally-going-viral-i-want-it-everywhere/",
+    "title": "Bluesky now has a feature to save you from accidentally going viral. I want it everywhere.",
+    "description": "Bluesky launched a feature letting users opt out of its algorithmic Discover feed, stopping posts from being pushed to non-followers.",
+    "categories": [
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-08-28T19:20:13+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2025/03/Bluesky-profile.jpeg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/tech-companies-call-for-improved-cyber-defenses-after-ai-enabled-attacks/",
+    "title": "Tech Companies Call for Improved Cyber Defenses After AI-Enabled Attacks",
+    "description": "More than 100 companies signed onto an open letter calling for more urgency in fixing bugs and shoring up cybersecurity.",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-08-28T19:06:32+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/681275a2-0e99-48a5-888f-6141ce14cfa4.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/cars/the-resistance-against-flock-surveillance-cameras-has-birthed-a-vigilante-movement-in-the-us/",
     "title": "The resistance against Flock surveillance cameras has birthed a vigilante movement in the US",
     "description": "Across the US, growing privacy concerns over Flock’s AI-powered license plate readers have triggered a wave of pushback, with residents and city councils fighting back against roadside surveillance.",
@@ -774,6 +831,7 @@
     "title": "Bluesky will let you opt-out of going viral",
     "description": "Bluesky is letting users opt-out of being included in the algorithmic recommendations feed.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-28T16:00:34+00:00",
@@ -793,17 +851,6 @@
     "source_name": "9TO5MAC.COM"
   },
   {
-    "link": "https://www.techradar.com/streaming/hbo-max/what-is-the-release-date-and-launch-time-for-lanterns-episode-3-on-hbo-max",
-    "title": "What is the release date and launch time for Lanterns episode 3 on HBO Max?",
-    "description": "Lanterns' third episode will be here before you know it — this is when and where you'll be able to stream it.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T16:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/bgV4BHGGiLdWwZJHs5VaSS-1280-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/how-to-watch/tv-shows/miss-teen-usa-2026",
     "title": "How to watch Miss Teen USA 2026 online and from anywhere",
     "description": "Watch the long-running beauty contest in Miami from wherever you are. Here's how to watch Miss Teen USA 2026 online and potentially for FREE",
@@ -813,6 +860,17 @@
     ],
     "pub_date": "2026-08-28T16:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/NdPVrGZq3CWyARbUDjGNyL-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/streaming/hbo-max/what-is-the-release-date-and-launch-time-for-lanterns-episode-3-on-hbo-max",
+    "title": "What is the release date and launch time for Lanterns episode 3 on HBO Max?",
+    "description": "Lanterns' third episode will be here before you know it — this is when and where you'll be able to stream it.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T16:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/bgV4BHGGiLdWwZJHs5VaSS-1280-80.png",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -940,7 +998,6 @@
     "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
     "description": "Enterprises trying to feed PDFs, slides and scanned documents into AI pipelines keep running into the same wall: the tools either miss the structure — tables, charts, layout — or cost too much to run at scale.Cohere released Parse 5 on Thursday, positioning it on price-to-performance, not raw accuracy — the right cost-capability mix for enterprise scale. Parse 5 is a 2.3-billion-parameter vision language model built to convert PDFs, slides and images into structured Markdown at enterprise scale. Cohere's own published benchmark comparison puts Parse 5 behind three larger, general-purpose frontier models on accuracy. GPT-5.5, Opus 4.8 and Gemini 3.5 Flash all score higher than Parse on the three ParseBench dimensions Cohere reports. Cohere is not claiming the top score. It is claiming the best price for a score close to the top.The company priced the model at $1.50 per 1,000 pages through its API, with Model Vault, Cohere's secure, single-tenant platform for managed inference, available for higher-volume deployment.\"Document parsing isn't solved because the hard part isn't reading text, it's preserving structure and meaning,\" Nils Reimers, VP of AI Search at Cohere, told VentureBeat. \"Enterprise documents mix tables, diagrams, charts, and formatting that change the interpretation of the data. Most tools still drop structure or hallucinate content, and even frontier models break on layout‑heavy pages.\"Inside the single-pass architectureParse 5 takes a page as an image, runs it through a single vision-language model pass and returns structured Markdown, collapsing the OCR-plus-model pipeline most tools run as separate steps.Architecture. It is a 2.3-billion-parameter vision language model built on Cohere Labs' North-Micro-Vision-Instruct architecture, with an 8,192-token context window and roughly a 4.6-gigabyte footprint. It accepts a PDF, PowerPoint or JPEG page as a base64-encoded image and returns Markdown in reading order, with tables rendered as HTML, image descriptions and bounding box coordinates for tables and images.Language coverage. Arabic, English, French, German, Italian, Japanese, Korean, Portuguese and Spanish get stable accuracy, with lower-accuracy zero-shot support elsewhere.Output modes. The default output returns a Markdown string per page. A blocks mode returns typed elements, where each table carries its own HTML, bounding box and description, the format Cohere positions as what makes citation-level traceability possible for agents.Availability. Parse 5 is generally available now through the Cohere API, Model Vault, Microsoft Foundry and AWS SageMaker.The benchmark shows a trade-off, not a winParseBench is a benchmark that scores document-parsing tools against human-verified enterprise pages. Cohere reports Parse 5 scoring 79.2 across three dimensions: tables, content faithfulness and semantic formatting. That puts Parse 5 behind GPT-5.5 (84.4), Opus 4.8 (84.3) and Gemini 3.5 Flash (81.8), and ahead of LlamaParse's Cost Effective tier (78.3), Mistral OCR 4 (74.5), Databricks AI Parse (72.4) and Azure Document Intelligence (69.3).Cohere's table notes two excluded dimensions, Layout and Chart, and attributes both to product scope rather than a performance gap. Parse 5 returns reading-order Markdown instead of per-element bounding boxes for text, and describes charts rather than extracting their underlying data, with chart-data extraction planned for a future version.Reimers said that design choice reflects where agentic workflows actually break.\"For charts, for example, we provide a general description of the chart together with an indicator, how Agentic AI can visually inspect the chart,\" Reimers explained. \"Other solutions try to extract the data from the chart, but then miss out critical information (for example, the color or the pattern of a line) that leads to hallucinations in Chat and Agentic AI applications.\"Cost is where Cohere makes its real case. Reimers pointed to a workflow the company modeled for a large financial services firm.\"We ran the numbers for a large financial services workflow that processes 750 million documents a year and showed that choosing Parse 5 over a large general‑purpose model like GPT‑5.5 would reduce costs by more than 98 percent.\"That figure is Cohere's own estimate for a single modeled workflow, not an audited deployment.Where Parse 5 sits against the fieldThere is no shortage of options for enterprises looking at parsing solutions.General-purpose frontier models, GPT-5.5, Opus 4.8 and Gemini 3.5 Flash, top the accuracy comparison but carry the cost and latency of a large model on every page. Then there are specialized parsers, including Mistral OCR 4, LlamaParse and open-weight options like Chandra OCR 2 and RedNote's dots.mocr.Hyperscaler document intelligence services, AWS Textract, Google Document AI, Azure Document Intelligence and Databricks AI Parse, compete more on ecosystem convenience than on raw parsing quality, and score lowest in Cohere's own comparison.Kevin Petrie, VP of Research at BARC US, said document parsing sits at the center of enterprise AI adoption right now.\"We're completing a survey now that shows document analysis is by far the #1 use case for AI, with 62% adoption rates among organizations we polled,\" Petrie told VentureBeat. \"Documents and other unstructured objects, including images and so on, hold the proprietary context that organizations need to differentiate their agentic AI initiatives.\"Petrie added that only time will tell how Cohere's cost-performance stacks up against frontier models, but strategically his view is that Cohere has the right focus. Stephanie Walter, Practice Leader for AI Stack at HyperFRAME Research, sees Cohere Parse 5 as sitting in a good spot between legacy OCR and using an expensive frontier model on every page. \"Its potential advantage is delivering structure, spatial provenance and private deployment at a price suitable for high-volume ingestion,\" Walter told VentureBeat. \"It does not need to win every benchmark. It needs to make reliable enterprise-scale parsing economical.\"The real test is downstream, not on the benchmark\"Parsing is the first quality gate in the enterprise AI stack,\" Walter said. \"If tables, headings, images, or reading order are lost during ingestion, better embeddings and larger models cannot recover that missing structure.\"A benchmark score isn't the only input that matters here. \"Enterprises should test parsers against their own most difficult documents and measure downstream retrieval and task accuracy, not how clean the extracted text looks,\" Walter said. \"The right question is not 'Did it read the PDF?' but 'Can the agent now use the information correctly?'\"",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-28T15:30:05+00:00",
@@ -1357,7 +1414,6 @@
     "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
     "description": "The firm, known for its focus on software, is going to start throwing more money at the hardware behind AI.",
     "categories": [
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-08-28T13:24:43+00:00",
@@ -2236,63 +2292,6 @@
     ],
     "pub_date": "2026-08-28T09:03:41+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/0269PYr7O3bImb8BD2wqrSq/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/google-eu-spam-policy-demotions-dma",
-    "title": "Google stops demoting EU publishers under its spam policy from Sunday",
-    "description": "From Sunday, a European news publisher that runs sponsored content on its site will no longer be at risk of a manual demotion in Google Search. Google confirmed the change on Friday, and Reuters reported that it is designed to settle a European Commission investigation that could otherwise have ended in a fine. The company said",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T09:02:55+00:00",
-    "image_url": "https://media.thenextweb.com/2026/06/Google-mockup.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/roundup/best-sleep-trackers-2026",
-    "title": "Best sleep trackers 2026: We tested the best from Whoop to Oura",
-    "description": "We rounded up the best sleep trackers, now including the Whoop MG and Oura Ring 5.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T09:00:47+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/roundups/05inF2xQLhhqudqFIrUBoLY/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/gaming/gta-6-looks-like-rockstars-greatest-hits-mixtape-and-im-here-for-all-of-it/",
-    "title": "GTA 6 looks like Rockstar’s greatest-hits mixtape, and I’m all for it",
-    "description": "GTA 6’s extended gameplay reveal finally shows Jason and Lucia working together, Rockstar’s enormous new Vice City, and missions carrying DNA from some of its best games.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-08-28T09:00:40+00:00",
-    "image_url": "https://www.digitaltrends.com/tachyon/2026/08/GTA-6-Heist-Prep.jpg?resize=440%2C292",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/how-an-atlanta-suburb-ended-up-sharing-flock-data-with-more-than-2000-organizations/",
-    "title": "How an Atlanta Suburb Ended Up Sharing Flock Data With More Than 2,000 Organizations",
-    "description": "Alpharetta, Georgia, cops share data with thousands of Flock users, ranging from federal agencies to a fish and wildlife commission. The reasons why show how vast—and invasive—the network has become.",
-    "categories": [
-      "Cybersecurity & Privacy",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-08-28T09:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6a7f8e790de212bebbf00f21/master/pass/Mid-Size-Town-Sharing-Flock-Data-Business.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/life/home-depot-labor-day-sale-2026",
-    "title": "Home Depots huge Labor Day sale is now live: Shop the best deals on grills, power tools, and outdoor gear",
-    "description": "The Home Depot Labor Day sale runs from Aug. 27 through Sept. 9. Here are the best deals on power tools, outdoor gear, grills, and more.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T09:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06DNOAPeGLLCKM8gUMVdchk/hero-image.jpg",
     "source_name": "MASHABLE.COM"
   }
 ]
