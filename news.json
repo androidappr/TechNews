@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.engadget.com/2246140/x-chinese-bot-farm-anti-ai-data-center-sentiments/",
+    "title": "X claims it found a Chinese bot farm posting anti-AI data center sentiments",
+    "description": "X found a bot farm in its investigation of inauthentic Chinese accounts. Out of 200,000 bots, 200 allegedly focused on posting against AI data centers.",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-08-28T06:21:43+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/x-claims-it-found-a-chinese-bot-farm-posting-anti-ai-data-center-sentiments/l-intro-1787897914.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260828/p1#a260828p1",
     "title": "Sources: some tech companies are courting Democrats and hiring advisers to prepare for potential investigations if Republicans lose control of the House (Wall Street Journal)",
     "description": "Wall Street Journal:\nSources: some tech companies are courting Democrats and hiring advisers to prepare for potential investigations if Republicans lose control of the House  —  Tech firms are courting Democrats and hiring advisers to prepare for potential investigations if Republicans lose control of the House",
@@ -2222,16 +2233,5 @@
     "pub_date": "2026-08-27T15:57:00+00:00",
     "image_url": null,
     "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260827/p36#a260827p36",
-    "title": "Google launches a pilot of double-blind AI evaluations, keeping external evaluations in a cryptographic \"box\" to stop benchmark contamination and protect IP (Google DeepMind)",
-    "description": "Google DeepMind:\nGoogle launches a pilot of double-blind AI evaluations, keeping external evaluations in a cryptographic “box” to stop benchmark contamination and protect IP  —  Building trust in proprietary model benchmarks using cryptographically secure environments  —  Imagine a student is set to take a high-stakes exam.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T15:55:43+00:00",
-    "image_url": "http://www.techmeme.com/260827/i36.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
