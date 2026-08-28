@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.techradar.com/seasonal-sales/best-buys-labor-day-appliance-sale-is-live-and-the-retailer-says-we-wont-be-beat-on-appliance-pricing-45-percent-off-samsung-lg-ge-and-more",
+    "title": "Best Buy's Labor Day appliance sale is live, and the retailer says 'we won’t be beat on appliance pricing' — 45% off Samsung, LG, GE and more",
+    "description": "Best Buy promises unbeatable appliance prices this Labor Day, including up to $1,500 off brands like Samsung, LG, GE and more.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T15:37:13+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/U48KFBkfM3JwgtqZ8rmxjH-1280-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/",
+    "title": "Friend-focused photo sharing app Retro snags $21M",
+    "description": "Retro, a friend-focused photo-sharing app built by former Instagram employees, has raised more than $21 million in Series A funding.",
+    "categories": [
+      "Social & Media",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-08-28T15:35:03+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page",
     "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
     "description": "Enterprises trying to feed PDFs, slides and scanned documents into AI pipelines keep running into the same wall: the tools either miss the structure — tables, charts, layout — or cost too much to run at scale.Cohere released Parse 5 on Thursday, positioning it on price-to-performance, not raw accuracy — the right cost-capability mix for enterprise scale. Parse 5 is a 2.3-billion-parameter vision language model built to convert PDFs, slides and images into structured Markdown at enterprise scale. Cohere's own published benchmark comparison puts Parse 5 behind three larger, general-purpose frontier models on accuracy. GPT-5.5, Opus 4.8 and Gemini 3.5 Flash all score higher than Parse on the three ParseBench dimensions Cohere reports. Cohere is not claiming the top score. It is claiming the best price for a score close to the top.The company priced the model at $1.50 per 1,000 pages through its API, with Model Vault, Cohere's secure, single-tenant platform for managed inference, available for higher-volume deployment.\"Document parsing isn't solved because the hard part isn't reading text, it's preserving structure and meaning,\" Nils Reimers, VP of AI Search at Cohere, told VentureBeat. \"Enterprise documents mix tables, diagrams, charts, and formatting that change the interpretation of the data. Most tools still drop structure or hallucinate content, and even frontier models break on layout‑heavy pages.\"Inside the single-pass architectureParse 5 takes a page as an image, runs it through a single vision-language model pass and returns structured Markdown, collapsing the OCR-plus-model pipeline most tools run as separate steps.Architecture. It is a 2.3-billion-parameter vision language model built on Cohere Labs' North-Micro-Vision-Instruct architecture, with an 8,192-token context window and roughly a 4.6-gigabyte footprint. It accepts a PDF, PowerPoint or JPEG page as a base64-encoded image and returns Markdown in reading order, with tables rendered as HTML, image descriptions and bounding box coordinates for tables and images.Language coverage. Arabic, English, French, German, Italian, Japanese, Korean, Portuguese and Spanish get stable accuracy, with lower-accuracy zero-shot support elsewhere.Output modes. The default output returns a Markdown string per page. A blocks mode returns typed elements, where each table carries its own HTML, bounding box and description, the format Cohere positions as what makes citation-level traceability possible for agents.Availability. Parse 5 is generally available now through the Cohere API, Model Vault, Microsoft Foundry and AWS SageMaker.The benchmark shows a trade-off, not a winParseBench is a benchmark that scores document-parsing tools against human-verified enterprise pages. Cohere reports Parse 5 scoring 79.2 across three dimensions: tables, content faithfulness and semantic formatting. That puts Parse 5 behind GPT-5.5 (84.4), Opus 4.8 (84.3) and Gemini 3.5 Flash (81.8), and ahead of LlamaParse's Cost Effective tier (78.3), Mistral OCR 4 (74.5), Databricks AI Parse (72.4) and Azure Document Intelligence (69.3).Cohere's table notes two excluded dimensions, Layout and Chart, and attributes both to product scope rather than a performance gap. Parse 5 returns reading-order Markdown instead of per-element bounding boxes for text, and describes charts rather than extracting their underlying data, with chart-data extraction planned for a future version.Reimers said that design choice reflects where agentic workflows actually break.\"For charts, for example, we provide a general description of the chart together with an indicator, how Agentic AI can visually inspect the chart,\" Reimers explained. \"Other solutions try to extract the data from the chart, but then miss out critical information (for example, the color or the pattern of a line) that leads to hallucinations in Chat and Agentic AI applications.\"Cost is where Cohere makes its real case. Reimers pointed to a workflow the company modeled for a large financial services firm.\"We ran the numbers for a large financial services workflow that processes 750 million documents a year and showed that choosing Parse 5 over a large general‑purpose model like GPT‑5.5 would reduce costs by more than 98 percent.\"That figure is Cohere's own estimate for a single modeled workflow, not an audited deployment.Where Parse 5 sits against the fieldThere is no shortage of options for enterprises looking at parsing solutions.General-purpose frontier models, GPT-5.5, Opus 4.8 and Gemini 3.5 Flash, top the accuracy comparison but carry the cost and latency of a large model on every page. Then there are specialized parsers, including Mistral OCR 4, LlamaParse and open-weight options like Chandra OCR 2 and RedNote's dots.mocr.Hyperscaler document intelligence services, AWS Textract, Google Document AI, Azure Document Intelligence and Databricks AI Parse, compete more on ecosystem convenience than on raw parsing quality, and score lowest in Cohere's own comparison.Kevin Petrie, VP of Research at BARC US, said document parsing sits at the center of enterprise AI adoption right now.\"We're completing a survey now that shows document analysis is by far the #1 use case for AI, with 62% adoption rates among organizations we polled,\" Petrie told VentureBeat. \"Documents and other unstructured objects, including images and so on, hold the proprietary context that organizations need to differentiate their agentic AI initiatives.\"Petrie added that only time will tell how Cohere's cost-performance stacks up against frontier models, but strategically his view is that Cohere has the right focus. Stephanie Walter, Practice Leader for AI Stack at HyperFRAME Research, sees Cohere Parse 5 as sitting in a good spot between legacy OCR and using an expensive frontier model on every page. \"Its potential advantage is delivering structure, spatial provenance and private deployment at a price suitable for high-volume ingestion,\" Walter told VentureBeat. \"It does not need to win every benchmark. It needs to make reliable enterprise-scale parsing economical.\"The real test is downstream, not on the benchmark\"Parsing is the first quality gate in the enterprise AI stack,\" Walter said. \"If tables, headings, images, or reading order are lost during ingestion, better embeddings and larger models cannot recover that missing structure.\"A benchmark score isn't the only input that matters here. \"Enterprises should test parsers against their own most difficult documents and measure downstream retrieval and task accuracy, not how clean the extracted text looks,\" Walter said. \"The right question is not 'Did it read the PDF?' but 'Can the agent now use the information correctly?'\"",
@@ -10,6 +34,28 @@
     "pub_date": "2026-08-28T15:30:05+00:00",
     "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4TjUlY3MRMwpmf1ws6gLXB/37ddd10b337d50ad97e92ba8900cd831/ai-parsing-smk1.jpeg?w=300&q=30",
     "source_name": "VENTUREBEAT.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2242569/how-to-make-android-alarm-ring-full-volume-while-calls-muted/",
+    "title": "How to make your Android alarm ring at full volume even when your calls are muted",
+    "description": "Your phone should be able to still sound your morning alarm when it's in silent mode. If it's not, here are some settings to check.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-08-28T15:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-to-make-your-android-alarm-ring-at-full-volume-even-when-your-calls-are-muted/l-intro-1787578282.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/helen-mirren-patricia-highsmith-talent-for-murder-trailer",
+    "title": "Helen Mirren plays iconic author Patricia Highsmith in A Talent for Murder trailer",
+    "description": "Helen Mirren stars as legendary novelist Patricia Highsmith in \"A Talent for Murder,\" and we're dangerously seduced by the trailer out today.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T15:30:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/videos/000thVRBc1eIU53369mrjAH/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://9to5mac.com/2026/08/28/deals-amazon-labor-day-sale-airpods-pro-3-m6-mac-mini/",
@@ -35,6 +81,30 @@
     "source_name": "THEVERGE.COM"
   },
   {
+    "link": "https://mashable.com/tech/aug-28-new-apple-2026-mac-mini-m6-deal",
+    "title": "Apple’s brand-new Mac mini M6 just got its first discount — save $20 at Amazon",
+    "description": "The best deal on the new Apple Mac mini M6. Score the first discount at Amazon — buy for now $879.99 (reg. $899.99).",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T15:23:14+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/07IHzCe0ZmPZyZlwCgdkdCg/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/apple-mac-mini-m6-m5-pro-where-to-preorder",
+    "title": "How to preorder Apples new supercharged Mac Mini with M6 and M5 Pro chips (and save $19)",
+    "description": "Apple's new Mac Mini with M6 and M5 Pro chips are here. Here's how to pre-order yours, starting at $879.99.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T15:20:17+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00JO77WF8lF6wY9sbTCDpfz/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.zdnet.com/article/best-early-labor-day-costco-deals-2026/",
     "title": "The best early Labor Day Costco deals 2026: TVs, smartwatches, Apple devices, and more",
     "description": "Summer may be ending, but Costco deals are heating up in time for Labor Day: Save big on electronics, home essentials, and more now.",
@@ -45,6 +115,18 @@
     "pub_date": "2026-08-28T15:15:05+00:00",
     "image_url": null,
     "source_name": "ZDNET.COM"
+  },
+  {
+    "link": "https://mashable.com/life/aug-28-roborock-saros-z70-deal",
+    "title": "The Roborock Saros Z70 robot vacuum and mop with a grabby arm is finally back under $1,000",
+    "description": "The infamous Roborock Saros Z70 robot vacuum and mop with a grabby arm is on sale for under $1,000 at Amazon.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T15:10:30+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/028WGbMxmV5AeKWXrYQstqH/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techradar.com/pro/security/us-government-alcohol-and-firearms-agency-atf-declares-major-incident-after-ransomware-gang-claims-cyberattack",
@@ -2188,82 +2270,5 @@
     "pub_date": "2026-08-27T22:15:43+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mhsdemo-1152x648.png",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260827/p53#a260827p53",
-    "title": "Sources: Anthropic discussed buying AI chip startup MatX for ~$7B, but talks are no longer active; MatX is now seeking to raise new capital at a ~$4B valuation (Reuters)",
-    "description": "Reuters:\nSources: Anthropic discussed buying AI chip startup MatX for ~$7B, but talks are no longer active; MatX is now seeking to raise new capital at a ~$4B valuation  —  Anthropic discussed buying artificial intelligence chip startup MatX for roughly $7 billion, seeking to accelerate efforts …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T22:15:01+00:00",
-    "image_url": "http://www.techmeme.com/260827/i53.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/whats-next-ai-how-to-get-there",
-    "title": "What’s next for AI and how to get there",
-    "description": "In 2026, the way we talk about AI is beginning to change. Two years ago, every boardroom argument circled the same question: which model do we bet on? Today, that question barely registers. Frontier systems have converged so tightly that, according to Stanford’s 2026 AI Index, leading models gained roughly 30 percentage points in a",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T22:09:36+00:00",
-    "image_url": "https://media.thenextweb.com/2026/08/whats-next-ai-how-to-get-there.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/services-and-software/human-beware-the-secrets-we-tell-ai-chatbots-arent-private/",
-    "title": "Human, Beware: The Secrets We Tell AI Chatbots Aren’t Private",
-    "description": "A recent DuckDuckGo survey finds that people are sharing intimate details with chatbots without knowing all the privacy risks.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-08-27T22:08:19+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/DDG-survey-16x9-1.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2246021/you-wont-be-able-to-hot-wire-every-car-in-gta-6/",
-    "title": "You won't be able to hot-wire every car in GTA 6",
-    "description": "Stealing cars in GTA 6 will require different approaches depending on their make and model.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-08-27T22:01:02+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/you-wont-be-able-to-hot-wire-every-car-in-gta-6/l-intro-1787867908.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260827/p52#a260827p52",
-    "title": "Sources: Town, which develops enterprise personal AI assistants, is in talks to raise at a $1B valuation in a round led by Index Ventures (Newcomer)",
-    "description": "Newcomer:\nSources: Town, which develops enterprise personal AI assistants, is in talks to raise at a $1B valuation in a round led by Index Ventures  —  Town, the buzzy enterprise personal agent, is raising at $1 billion, sources tell us  —  Two startup personal assistants have venture capitalists in a tizzy right now:",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T22:00:46+00:00",
-    "image_url": "http://www.techmeme.com/260827/i52.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2245473/most-popular-android-phone-brands-rarely-sold-usa/",
-    "title": "The most popular Android phone brands rarely sold in the US",
-    "description": "People in the US don't have much choice beyond Apple, Google, and Samsung phones. But there are so many more choices that aren't sold in the region.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T22:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/the-most-popular-android-phone-brands-rarely-sold-in-the-us/l-intro-1786730608.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/aug-27-curiosity-stream-standard-plan-lifetime-subscription",
-    "title": "This documentary-only streaming service is $149.99 for life, its lowest-ever price",
-    "description": "Curiosity Stream's lifetime subscription is on sale for $149.99, down from $399.99.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T22:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02fZykvDT3drKiZPOENerRk/hero-image.png",
-    "source_name": "MASHABLE.COM"
   }
 ]
