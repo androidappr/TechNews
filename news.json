@@ -1,5 +1,51 @@
 [
   {
+    "link": "https://www.techmeme.com/260828/p3#a260828p3",
+    "title": "Tencent releases Hy4 Preview, a 770B-parameter foundational model with a 1M context window that it says outperforms Z.AI and Moonshot models in internal tests (Bloomberg)",
+    "description": "Bloomberg:\nTencent releases Hy4 Preview, a 770B-parameter foundational model with a 1M context window that it says outperforms Z.AI and Moonshot models in internal tests  —  Tencent Holdings Ltd. released a foundation model it says outperforms rivals Z.AI Co. and Moonshot AI in internal tests …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T09:40:07+00:00",
+    "image_url": "http://www.techmeme.com/260828/i3.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260828/p2#a260828p2",
+    "title": "The UK Treasury gives the Bank of England a new legal objective to support payment systems and digital money innovation, seeking to keep London competitive (Financial Times)",
+    "description": "Financial Times:\nThe UK Treasury gives the Bank of England a new legal objective to support payment systems and digital money innovation, seeking to keep London competitive  —  Treasury gives central bank a new legal objective as part of effort to promote UK as hub for stablecoins",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T09:35:32+00:00",
+    "image_url": "http://www.techmeme.com/260828/i2.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
+    "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
+    "description": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-08-28T09:33:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/there-are-so-many-conspiracy-theories-about-dolly-parton-and-vaccines/",
+    "title": "There Are So Many Conspiracy Theories About Dolly Parton and Vaccines",
+    "description": "Influential right-wing conspiracy theorists and MAGA-aligned pundits are falsely claiming that the Covid vaccine killed Dolly Parton, the vaccination advocate and philanthropist.",
+    "categories": [
+      "Government & Policy",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-08-28T09:30:00+00:00",
+    "image_url": "https://media.wired.com/photos/6a90c233c9ef4da778ca0aa1/master/pass/Dolly-Parton-Vaccine-Conspiracy-Politics-156123505.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/why-print-and-scanning-remain-an-unmitigated-risk",
     "title": "Why print and scanning remain an unmitigated risk",
     "description": "How an unsecured printer can become the backdoor that undoes your entire security stack.",
@@ -9,6 +55,17 @@
     "pub_date": "2026-08-28T09:09:55+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/aug-28-ecovacs-goat-o1000-robot-lawn-mower-deal",
+    "title": "The EcoVacs Goat O1000 robot lawn mower is $501 off at Amazon — buy now for $998.99",
+    "description": "Find the best robot lawn mower deal. Save 33% on the EcoVacs Goat O1000 at Amazon.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T09:03:41+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/0269PYr7O3bImb8BD2wqrSq/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://thenextweb.com/news/google-eu-spam-policy-demotions-dma",
@@ -2175,62 +2232,5 @@
     "pub_date": "2026-08-27T17:19:56+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2259634870.jpg",
     "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/can-you-turn-off-apple-maps-ads",
-    "title": "Looking for an off switch? Apple offers no way to remove ads from Maps",
-    "description": "Apple Maps now shows sponsored listings on Maps, and neither changing your ad settings nor paying for Apple One will remove them.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T17:15:27+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06iQv7o9t4BO0nFakwhQHiU/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/hugging-face-microduck-open-source-robot-duck",
-    "title": "Hugging Face launches Microduck, a $399 open-source robot duck",
-    "description": "Meet Microduck, Hugging Face’s $399 programmable robot duck that can waddle, roller-skate, carry objects, and learn new tricks.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T17:11:13+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03fx44k8w63p9SyMLWCsOMp/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260827/p40#a260827p40",
-    "title": "OpenAI is testing a \"Persistent mode\" in Codex, designed to let AI agents \"continue working until put to sleep\" and proactively generate follow-up tasks (Maxwell Zeff/Wired)",
-    "description": "Maxwell Zeff / Wired:\nOpenAI is testing a “Persistent mode” in Codex, designed to let AI agents “continue working until put to sleep” and proactively generate follow-up tasks  —  Code reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is “put to sleep.”",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T17:10:02+00:00",
-    "image_url": "http://www.techmeme.com/260827/i40.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/cool-tech/why-thinking-like-an-engineer-is-essential-for-kids-in-the-age-of-ai/",
-    "title": "Why Thinking Like an Engineer Is Essential for Kids in the Age of AI",
-    "description": "As AI changes the skills and jobs of tomorrow, children may need more than technical knowledge. CrunchLabs’ Rachele Harmuth explains why learning to think like an engineer can help kids build curiosity, confidence and resilience.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-08-27T17:09:58+00:00",
-    "image_url": "https://www.digitaltrends.com/tachyon/2026/08/DT-Trending-Forward-Episode-6-On-Site.jpg?resize=440%2C292",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/",
-    "title": "Google’s new Fitbit Air brings Pokémon Sleep to your wrist",
-    "description": "Google teamed up with the Pokémon Company to introduce a special-edition Fitbit Air that works with the Pokémon Sleep app.",
-    "categories": [
-      "Gadgets & Hardware",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-08-27T17:05:45+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
