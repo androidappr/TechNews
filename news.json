@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page",
+    "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
+    "description": "Enterprises trying to feed PDFs, slides and scanned documents into AI pipelines keep running into the same wall: the tools either miss the structure — tables, charts, layout — or cost too much to run at scale.Cohere released Parse 5 on Thursday, positioning it on price-to-performance, not raw accuracy — the right cost-capability mix for enterprise scale. Parse 5 is a 2.3-billion-parameter vision language model built to convert PDFs, slides and images into structured Markdown at enterprise scale. Cohere's own published benchmark comparison puts Parse 5 behind three larger, general-purpose frontier models on accuracy. GPT-5.5, Opus 4.8 and Gemini 3.5 Flash all score higher than Parse on the three ParseBench dimensions Cohere reports. Cohere is not claiming the top score. It is claiming the best price for a score close to the top.The company priced the model at $1.50 per 1,000 pages through its API, with Model Vault, Cohere's secure, single-tenant platform for managed inference, available for higher-volume deployment.\"Document parsing isn't solved because the hard part isn't reading text, it's preserving structure and meaning,\" Nils Reimers, VP of AI Search at Cohere, told VentureBeat. \"Enterprise documents mix tables, diagrams, charts, and formatting that change the interpretation of the data. Most tools still drop structure or hallucinate content, and even frontier models break on layout‑heavy pages.\"Inside the single-pass architectureParse 5 takes a page as an image, runs it through a single vision-language model pass and returns structured Markdown, collapsing the OCR-plus-model pipeline most tools run as separate steps.Architecture. It is a 2.3-billion-parameter vision language model built on Cohere Labs' North-Micro-Vision-Instruct architecture, with an 8,192-token context window and roughly a 4.6-gigabyte footprint. It accepts a PDF, PowerPoint or JPEG page as a base64-encoded image and returns Markdown in reading order, with tables rendered as HTML, image descriptions and bounding box coordinates for tables and images.Language coverage. Arabic, English, French, German, Italian, Japanese, Korean, Portuguese and Spanish get stable accuracy, with lower-accuracy zero-shot support elsewhere.Output modes. The default output returns a Markdown string per page. A blocks mode returns typed elements, where each table carries its own HTML, bounding box and description, the format Cohere positions as what makes citation-level traceability possible for agents.Availability. Parse 5 is generally available now through the Cohere API, Model Vault, Microsoft Foundry and AWS SageMaker.The benchmark shows a trade-off, not a winParseBench is a benchmark that scores document-parsing tools against human-verified enterprise pages. Cohere reports Parse 5 scoring 79.2 across three dimensions: tables, content faithfulness and semantic formatting. That puts Parse 5 behind GPT-5.5 (84.4), Opus 4.8 (84.3) and Gemini 3.5 Flash (81.8), and ahead of LlamaParse's Cost Effective tier (78.3), Mistral OCR 4 (74.5), Databricks AI Parse (72.4) and Azure Document Intelligence (69.3).Cohere's table notes two excluded dimensions, Layout and Chart, and attributes both to product scope rather than a performance gap. Parse 5 returns reading-order Markdown instead of per-element bounding boxes for text, and describes charts rather than extracting their underlying data, with chart-data extraction planned for a future version.Reimers said that design choice reflects where agentic workflows actually break.\"For charts, for example, we provide a general description of the chart together with an indicator, how Agentic AI can visually inspect the chart,\" Reimers explained. \"Other solutions try to extract the data from the chart, but then miss out critical information (for example, the color or the pattern of a line) that leads to hallucinations in Chat and Agentic AI applications.\"Cost is where Cohere makes its real case. Reimers pointed to a workflow the company modeled for a large financial services firm.\"We ran the numbers for a large financial services workflow that processes 750 million documents a year and showed that choosing Parse 5 over a large general‑purpose model like GPT‑5.5 would reduce costs by more than 98 percent.\"That figure is Cohere's own estimate for a single modeled workflow, not an audited deployment.Where Parse 5 sits against the fieldThere is no shortage of options for enterprises looking at parsing solutions.General-purpose frontier models, GPT-5.5, Opus 4.8 and Gemini 3.5 Flash, top the accuracy comparison but carry the cost and latency of a large model on every page. Then there are specialized parsers, including Mistral OCR 4, LlamaParse and open-weight options like Chandra OCR 2 and RedNote's dots.mocr.Hyperscaler document intelligence services, AWS Textract, Google Document AI, Azure Document Intelligence and Databricks AI Parse, compete more on ecosystem convenience than on raw parsing quality, and score lowest in Cohere's own comparison.Kevin Petrie, VP of Research at BARC US, said document parsing sits at the center of enterprise AI adoption right now.\"We're completing a survey now that shows document analysis is by far the #1 use case for AI, with 62% adoption rates among organizations we polled,\" Petrie told VentureBeat. \"Documents and other unstructured objects, including images and so on, hold the proprietary context that organizations need to differentiate their agentic AI initiatives.\"Petrie added that only time will tell how Cohere's cost-performance stacks up against frontier models, but strategically his view is that Cohere has the right focus. Stephanie Walter, Practice Leader for AI Stack at HyperFRAME Research, sees Cohere Parse 5 as sitting in a good spot between legacy OCR and using an expensive frontier model on every page. \"Its potential advantage is delivering structure, spatial provenance and private deployment at a price suitable for high-volume ingestion,\" Walter told VentureBeat. \"It does not need to win every benchmark. It needs to make reliable enterprise-scale parsing economical.\"The real test is downstream, not on the benchmark\"Parsing is the first quality gate in the enterprise AI stack,\" Walter said. \"If tables, headings, images, or reading order are lost during ingestion, better embeddings and larger models cannot recover that missing structure.\"A benchmark score isn't the only input that matters here. \"Enterprises should test parsers against their own most difficult documents and measure downstream retrieval and task accuracy, not how clean the extracted text looks,\" Walter said. \"The right question is not 'Did it read the PDF?' but 'Can the agent now use the information correctly?'\"",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T15:30:05+00:00",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4TjUlY3MRMwpmf1ws6gLXB/37ddd10b337d50ad97e92ba8900cd831/ai-parsing-smk1.jpeg?w=300&q=30",
+    "source_name": "VENTUREBEAT.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/08/28/deals-amazon-labor-day-sale-airpods-pro-3-m6-mac-mini/",
+    "title": "Deals: Amazon Labor Day sale, AirPods Pro 3, M6 Mac mini, Apple Watch $200, AirTag 2, more",
+    "description": "The massive 2026 Amazon Labor Day sale is now live with $50 off AirPods Pro 3 and the ongoing all-time low on AirTag 2 from just $20 each. However, today’s 9to5Toys Lunch Break is headlined by Amazon now offering the first cash discounts on the brand new M6 Mac mini and M5 Pro Mac mini as well as this wild deal on the Apple iPhone Air MagSafe Battery from $39 and the best price ever on the 44mm Apple Watch SE 3 at $200. We also have the Anker Labor Day sale now live at up to 42% off, the Bose 2026 Labor Day deals now live at up to $320 off, and make sure you score yourself the new Apple Polishing Cloth for $9 Prime shipped before it sells out. Everything awaits below.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T15:29:34+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-M6-Mac-mini-AirPods-AirTag-2.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast",
+    "title": "The iPhone Fold could make concerts even worse",
+    "description": "You know the person blocking your view of the concert because their phone is swaying in the air, recording the entire thing? Get ready for the unfolded version of it. This week on The Vergecast, we dive right into the big week of Apple news. First, it's the refreshed Mac Mini and Mac Studio, as",
+    "categories": [
+      "Social & Media"
+    ],
+    "pub_date": "2026-08-28T15:26:19+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST_0828_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.zdnet.com/article/best-early-labor-day-costco-deals-2026/",
     "title": "The best early Labor Day Costco deals 2026: TVs, smartwatches, Apple devices, and more",
     "description": "Summer may be ending, but Costco deals are heating up in time for Labor Day: Save big on electronics, home essentials, and more now.",
@@ -2229,39 +2264,6 @@
     ],
     "pub_date": "2026-08-27T22:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/02fZykvDT3drKiZPOENerRk/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/life/aug-27-google-fitbit-charge-6-fitness-tracker",
-    "title": "Get the Fitbit that shares heart rate info with gym equipment while it’s just $135",
-    "description": "Get the Fitbit Charge 6 with built-in GPS, real-time heart-rate sharing, sleep and stress tracking, Google apps, and seven-day battery life for $134.99.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T22:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04TQUTP2NGxYbOorBLnjYdR/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260827/p51#a260827p51",
-    "title": "Alphabet agrees to pay £260M to settle a UK class action lawsuit claiming it levied \"unfair\" charges on software downloaded from the Google Play app store (Alistair Gray/Financial Times)",
-    "description": "Alistair Gray / Financial Times:\nAlphabet agrees to pay £260M to settle a UK class action lawsuit claiming it levied “unfair” charges on software downloaded from the Google Play app store  —  Group's Google business was accused of overcharging developers who made software for the Google Play app store",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T21:55:01+00:00",
-    "image_url": "http://www.techmeme.com/260827/i51.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/gta-grand-theft-auto-6-extended-look-netflix-fan-reactions",
-    "title": "Did GTA 6 Extended Look live up to the hype? Fans react after years of waiting",
-    "description": "'Grand Theft Auto' fans finally saw official gameplay of 'GTA 6' and they seemed pretty pleased.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T21:49:25+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03XWllRildqwvakj2mmLkNZ/hero-image.jpg",
     "source_name": "MASHABLE.COM"
   }
 ]
