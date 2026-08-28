@@ -1,5 +1,27 @@
 [
   {
+    "link": "https://9to5mac.com/2026/08/28/heres-how-apple-watch-ultra-4-will-differentiate-itself-from-prior-models/",
+    "title": "Here’s how Apple Watch Ultra 4 will differentiate itself from prior models",
+    "description": "Apple Watch Ultra 4 is coming on September 9, here are the key ways it’s rumored to differentiate itself from prior models.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T18:09:24+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ultra-3-watchos-27-3.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/08/28/chatgpt-and-codex-now-support-multiple-gmail-and-google-calendar-accounts/",
+    "title": "ChatGPT and Codex now support multiple Gmail and Google Calendar accounts",
+    "description": "OpenAI confirmed today that ChatGPT and Codex users can now add multiple Gmail and Google Cal accounts. Here are the details.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T18:01:41+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-teal.webp?w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
     "link": "https://www.zdnet.com/article/stillos-best-onboarding-experience-linux-distro/",
     "title": "stillOS offers one of the best Linux onboarding experiences I've ever seen",
     "description": "I've experienced first steps with countless Linux distributions over the years, but this one nails every step of the way for users of all types.",
@@ -9,6 +31,18 @@
     "pub_date": "2026-08-28T18:00:49+00:00",
     "image_url": null,
     "source_name": "ZDNET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2244161/dolby-atmos-and-lossless-audio-differences/",
+    "title": "What's the difference between Dolby Atmos and lossless audio?",
+    "description": "If you're seeing these labels in your music apps and wondering what they do, let this article walk you through how they work.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T18:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/whats-the-difference-between-dolby-atmos-and-lossless-audio/l-intro-1787247166.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.techradar.com/gaming/analysts-say-getting-gta-6-to-run-at-60fps-is-extremely-unlikely-on-console-hardware-as-rockstar-confirms-30fps-limit",
@@ -44,6 +78,17 @@
     "source_name": "ENGADGET.COM"
   },
   {
+    "link": "https://mashable.com/tech/trump-anthropic-ban-illegal-judge-rules",
+    "title": "Trump administration acted illegally in fight against Anthropic, judge rules",
+    "description": "A ruling in the first of two lawsuits filed against the government by Anthropic found the Trump administration acted outside the law.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T17:53:31+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/07CdVm7euM5x7JaUMsog5tS/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents",
     "title": "The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents",
     "description": "Presented by Nutanix Autonomous systems that can reason, make their own decisions, and execute actions across an environment introduce a category of risk that application-level controls were never built to contain. Treating that risk as a single problem produces incomplete architectures, says Oscar Wahlberg, senior director of product management at Nutanix.\"The guardrails to catch a malicious prompt won't stop an agent from hallucinating and doing something it never should have done, like accidentally deleting databases or leaking sensitive data with a credential it was granted but then uses for something entirely different,\" Wahlberg says. \"That's the central problem as enterprises move autonomous agents out of experimentation and into production.\"Once an agentic system is granted execution privileges across the data center, the security posture has to scale into a defense-in-depth architecture spanning infrastructure, storage, compute, networking, and a governing control plane. Each layer addresses a distinct category of risk, rather than duplicating the same controls across the stack. No single security control or vendor can provide that protection on its own. Defense-in-depth depends on those layers working together.By dividing the responsibilities across the stack and adhering to zero trust segmentation, organizations can create a secure framework that improves their overall posture. Understanding which risks belong in each layer is what turns the principle of defense-in-depth into a practical security framework, with three layers that each have a distinct responsibility.Infrastructure layer: Establishing trust where AI agents runThe infrastructure layer’s foundational responsibility is establishing a root of trust that answers a simple question: who is operating in the environment? That trusted identity becomes the prerequisite for every security control above it. Before an organization can trust what an agent does, it first has to trust the integrity of the environment where the agent runs. When an agent requests permission to execute an operation, the system must be able to verify that the request came from the legitimate agent — not something impersonating it.Delivering that kind of assurance depends on technologies that root trust in the hardware itself, including platform attestation, confidential computing, and secure boot, alongside controls that prevent unauthorized access both within a server and beyond it. For regulated industries such as financial services, this layer provides the ability to isolate AI production workloads so that neither the agent nor the environment can operate outside its assigned scope. That mitigates risks including model and runtime tampering, supply chain compromise, and unauthorized access to sensitive AI workloads.Network layer: Governing how AI agents communicateOnce agents begin communicating with other agents, APIs, applications, and enterprise systems, they generate a level of concurrency and dynamic communication that traditional static network configurations were never designed to handle. An agent configured to call APIs, query data sources, and spin up additional agents without constraint creates a sprawling web of east-west traffic that becomes very difficult to reason about, and that complexity can easily mask lateral movement or data exfiltration when the right network security layers are not in place.\"We should treat AI agents as a new class of network identity, and make sure that an agent can only talk to other agents or data sources where it's explicitly allowed to do so,\" Wahlberg says. \"That means moving away from rigid static rules toward dynamic policy enforcement.\" Nutanix's solution is Agent Gateway, part of the Nutanix Agentic AI solution. It's a unified, governed layer that is designed to provide cost control and governance capabilities to help manage autonomous agent users. Coupled with agents grounded in zero trust segmentation and using capabilities like Nutanix Flow for micro segmentation and integrating with networking vendors, including its integration into the Cisco Secure AI Factory, Agent Gateway helps enterprises govern interactions across agents, models, data sources, and enterprise applications.The network layer governs lateral movement, data exfiltration, and gates the agent's network interactions. A zero trust framework with access blocked by default and scalable interaction monitoring is important for agents since they can exhibit unreliable behavior. The Nutanix software integration with Cisco UCS servers and Cisco AI PODs delivers the turnkey physical infrastructure (compute, storage, and networking) that the AI factory runs on. Control plane layer: Governing what AI agents are permitted to doThe control plane is the brains of the operation, providing a central point for managing agent permissions, tool access, resource consumption, and runtime visibility. What matters most is having a single place where policies can be enforced consistently rather than reinvented for every agent, Wahlberg says.\"Agent Gateway acts as a universal endpoint for different models and tools, so an IT team can configure their agents to talk to this single control point,\" he explains. The centralized AI gateway enables the admin to observe, audit, and control access to models as well as MCP tools protecting data and gating privileged access. This layer is designed to help mitigate risks such as privilege misuse, runaway agents, unauthorized tool usage, data leakage, and the excessive model consumption that can lead to increased token consumption when agents get stuck in runtime loops. And it depends on treating governance as a runtime control system rather than a compliance afterthought.Why one-size-fits-all security fails agentic AI environmentsThe biggest architectural mistake enterprises make is assuming a single security model can be stretched across every layer of an AI stack. When an organization tries to solve for hardware-level trust with application-level software, or leans on static legacy network rules to manage dynamic agents, it builds an architecture that either blocks the agentic system from doing its job or leaves critical doors wide open. One-size-fits-all thinking tends to produce significant performance penalties and operational friction.\"By failing to assign specific responsibilities to the appropriate layers, enterprises end up with blind spots in governance,\" Wahlberg says. \"They might secure the model output but miss that there's data leakage between agents, or they might secure the network but lack the control plane visibility to understand that they're wildly burning tokens because the agents are stuck in some kind of runtime loop.\" Focusing exclusively on the model leaves the largest gaps of all, because a guardrail that catches a malicious prompt does nothing to stop a hallucinating agent from misusing a legitimate credential. Embedding security across the full stack helps ensure that even when a model level threat slips past the initial filters, the agent remains constrained by hardware rooted trust, network isolation, and access controls at the agent layer.How Intel, Cisco, and Nutanix build defense-in-depth togetherThe three-way partnership from the three companies demonstrates how the layered architecture comes together in practice as a well-governed, enterprise-grade AI Cloud. Intel supplies the computer to run agentic workloads and secures the execution environment through hardware-rooted trust and confidential computing, while also driving costs down through their accelerators. Intel Xeon 6 processors with built-in AMX accelerate AI inference efficiently without relying exclusively on expensive GPUs. Cisco wraps the environment in a secure fabric that governs communication between agents and enterprise tools, while Nutanix provides the software platform, minimizing architectural silos, and the central control plane that enforces permissions, delivers visibility and cost governance, and ties the architecture together into a defense-in-depth solution that lets enterprises scale agentic AI.Of the three layers, enterprises currently underestimate the control plane the most, Wahlberg says. A true control plane extends far beyond initial deployment to simplify Day 2 operations, he explains, giving IT teams the continuous observability, and strict token governance required to keep autonomous agents secure and cost-effective in production.\"Apart from model and tool selection, governing the agent deployments and their access to models and business tools in a tightly integrated full stack platform will be important for the success of AI projects,\" he says, pointing to a near future in which organizations move from a handful of AI use cases to thousands of agents working autonomously to drive the business. Technology leaders should prioritize building a centralized governance layer today that can manage agent identities, tool permissions, and token budgets in real time, because that control point is what builds the operational muscle to scale safely. \"You can't build an AI system without getting into a lot of complex decisions,\" he explains. \"And you need a control plane that talks across multiple vendors and infrastructures to help you solve for those defense-in-depth strategies.\"Learn more about the Nutanix Agentic AI solution here.Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
@@ -65,6 +110,18 @@
     "pub_date": "2026-08-28T17:43:30+00:00",
     "image_url": "https://media.thenextweb.com/2026/08/lambda-1bn-private-debt-microsoft-lease-nebius-european-neocloud.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/grand-theft-auto-vi-cyberleek-leaks-everything-posted-so-far",
+    "title": "GTA 6 Cyberleek update: Everything leaked so far, what might be coming next",
+    "description": "An anonymous leaker calling themselves Cyberleek has been posting daily gameplay videos of the unreleased 'Grand Theft Auto VI.'",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T17:36:36+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/07MYoLy1hwdaZMFPoSJ9yWX/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://mashable.com/tech/apple-tv-streaming-price-hike-2026",
@@ -195,6 +252,7 @@
     "title": "I tested the new Hard Boiled 4K Blu-ray, and this long-awaited classic is a new reference showcase for what Ultra HD and Dolby Atmos is capable of",
     "description": "Hard Boiled has been on my most-anticipated 4K discs for a while, and I've finally had the chance to test it — and it's been worth the wait.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-28T17:00:00+00:00",
@@ -2236,60 +2294,5 @@
     "pub_date": "2026-08-28T07:39:49+00:00",
     "image_url": "https://www.digitaltrends.com/tachyon/2026/08/Anthropic-MHS-featured.jpg?resize=440%2C292",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/rivian-cfo-claire-mcdonough-exit-volkswagen-milestone-payments",
-    "title": "Rivian’s CFO is leaving after six years",
-    "description": "Rivian’s chief financial officer Claire McDonough is leaving at the end of October after nearly six years, to take the same role at energy equipment maker GE Vernova. Volkswagen, now Rivian’s largest shareholder, has committed up to $5.8B to their joint venture with much of it still tied to technical milestones. Rivian is losing its",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-08-28T07:14:46+00:00",
-    "image_url": "https://media.thenextweb.com/2026/05/volkswagen-rivian-top-shareholder-amazon-software.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/silo-season-3-episode-9-graham-yost-interview",
-    "title": "Silo showrunner Graham Yost breaks down episode 9s bombshell ending and surprise musical guest",
-    "description": "\"Silo\" Season 3, episode 9 ends with a nuclear explosion and a surprise Peter Gabriel concert. Showrunner Graham Yost breaks it down.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T07:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06u72LTTXbII91yvGRoJ3Mv/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/silo-season-3-episode-9-ending-explained",
-    "title": "Silo Season 3, episode 9s shocking ending, explained",
-    "description": "\"Silo\" Season 3, episode 9 ends with a shocking sequence showing the end of the world outside the silos. What happens, and what does it mean?",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T07:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07Is6B0oU8adiH4NZBRxlju/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2246144/stripe-led-group-is-reportedly-abandoning-paypal-acquisition/",
-    "title": "Stripe-led group is reportedly abandoning its PayPal acquisition",
-    "description": "Stripe and buyout firm Advent are no longer pursuing their acquisition of PayPal as was reported earlier this month.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T06:34:44+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/stripe-led-group-is-reportedly-abandoning-its-paypal-acquisition/l-intro-1787898749.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2246140/x-chinese-bot-farm-anti-ai-data-center-sentiments/",
-    "title": "X claims it found a Chinese bot farm posting anti-AI data center sentiments",
-    "description": "X found a bot farm in its investigation of inauthentic Chinese accounts. Out of 200,000 bots, 200 allegedly focused on posting against AI data centers.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-08-28T06:21:43+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/x-claims-it-found-a-chinese-bot-farm-posting-anti-ai-data-center-sentiments/l-intro-1787897914.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
