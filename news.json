@@ -12,6 +12,17 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
+    "link": "https://mashable.com/tech/kalshi-court-ruling-appeals-9th-circuit",
+    "title": "Court ruling deals Kashi major setback",
+    "description": "Prediction markets like Kalshi violate sports betting laws, ruling says.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T23:23:37+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01c5BO3bCgiWiToN3hAMyig/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260828/p25#a260828p25",
     "title": "Z.ai releases GLM-5.3's weights under a new license requiring companies with $10B+ in revenue over 12 months to pass Z.ai's security review to host the model (Frederic Lardinois/The New Stack)",
     "description": "Frederic Lardinois / The New Stack:\nZ.ai releases GLM-5.3's weights under a new license requiring companies with $10B+ in revenue over 12 months to pass Z.ai's security review to host the model  —  Z.ai put the GLM-5.3 weights on Hugging Face, but dropped the MIT license.  Providers above $10 billion in revenue now need a security review.",
@@ -2236,17 +2247,5 @@
     "pub_date": "2026-08-28T11:39:00+00:00",
     "image_url": "https://media.wired.com/photos/69be039cf062c9cdcba42e33/master/pass/macbook-air-m5-03.JPG",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/softbank-another-10bn-loan-openai-stake",
-    "title": "SoftBank seeks a second $10bn loan against its OpenAI stake",
-    "description": "SoftBank is seeking a further $10bn loan to fund its OpenAI stake, Bloomberg reported on Friday. It closed a loan of exactly that size, secured against the same asset, 22 days earlier. TNW has not independently verified the report and could not review its full terms, so what follows sets the reported request against the",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-08-28T11:30:37+00:00",
-    "image_url": "https://media.thenextweb.com/2026/04/softbank-battery-factory-sharp-sakai-ai-data-centres-1.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
