@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.cnet.com/tech/services-and-software/will-map-apps-rename-lake-ontario-after-trumps-order-its-too-soon-to-say/",
+    "title": "Will Map Apps Rename Lake Ontario After Trump’s Order? It’s Too Soon to Say",
+    "description": "The Great Lake’s name could change on your map app depending on what side of the US-Canada border you’re on.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T16:35:23+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/lake-ontario-googlemaps.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag",
+    "title": "Meta researchers taught an 8B AI model to match Claude Opus 4.5 — without the frontier price tag",
+    "description": "Consider an AI agent tasked with a complex enterprise workflow like migrating massive batches of customer records from a legacy CRM to a cloud database. The agent cannot rely solely on its internal context window for a job spanning hours and depends on the runtime layer, aka the harness.This harness provides execution feedback, like server logs, to help the agent maintain an accurate understanding of dynamic API connections. It also provides state trackers and control-flow mechanisms to manage completed and pending subgoals, ensuring the agent doesn't skip or duplicate data batches. When unexpected errors occur, such as a database rejecting a batch due to strict API rate limits, the harness provides tools and instructions to help the agent recover.The main way to tell an agent how and when to use its tools is to have a human developer write a set of rules and instructions telling it what to do step-by-step. For example, a developer might instruct the agent to always search the company wiki before writing an email. Because the agent is just following a rigid script, it lacks true autonomy. It hasn't been trained to independently weigh the costs and benefits of its actions.To solve this, researchers at Meta AI and University of Illinois Urbana–Champaign introduce EvoHarness-RL, a framework that adds a layer of abstraction to the agent's harness and teaches the underlying model when to read, update, or consolidate the information it obtains from its environment.In long-horizon tasks, how AI agents read and process the information they obtain from their environment is pivotal to their success. The agent must update its understanding of its environment, track completed and pending subgoals, recover from failed actions, and reuse procedures from previous experience. This execution depends on the harness.A series of self-evolving agentic frameworks like Harness-1 solve part of the problem by accumulating past trajectories and distilling them into structured procedural memory, like reusable skills, workflows, or code libraries for future tasks. However, they generally separate this long-term skill curation from real-time, within-episode state tracking. They aren't actively training the agent on how to manage its immediate environmental reality or track its active task steps while working.Xuying Ning, co-author of the EvoHarness-RL paper, told VentureBeat that manual logic and rigid memory structures are primary culprits draining engineering resources.\"The optimal harness often changes with the model,\" Ning explained. \"Different models may need different prompts, memory designs, permissions, or sandbox configurations. If all of this logic is manually coded, every model upgrade can lead to another long cycle of tuning and debugging.\"Furthermore, existing memory systems that simply accumulate experience can actively degrade an agent's reasoning. \"Append-only memory assumes that more context is always helpful, which is not necessarily true,\" Ning said. \"Over a long task, the memory may contain outdated conclusions, failed attempts, or information that is no longer relevant.\" As a result, long-horizon agents need a dynamic memory capable of updating, compressing, and replacing information to avoid repeating past mistakes.EvoHarness-RL: A unified belief, progress, and experience workspaceTo overcome the limitations of rigid, manual prompts, the researchers introduce EvoHarness-RL, a training technique that teaches the agent to make optimal use of its harness. Instead of blindly following hardcoded instructions, the agent learns how to construct a structured workspace from messy execution data and decide when and how to consult that external state during complex workflows.To simplify the management of different components of the harness, EvoHarness-RL consolidates the agent’s support systems into a single, unified interface. This interface, known as the Belief, Progress, and Experience (BPE), categorizes the agent's external needs into three functional areas:Belief: Maintain an accurate read on the current environment.Progress: Manage completed and pending subgoals.Experience: Reuse historical knowledge across tasks.Instead of using complex, domain-specific APIs, the AI interacts with this clean dashboard using four compact meta-actions: track, commit, recall, and note. It issues commands to track the live environment, commit to workflow updates, recall past strategies before acting, and write notes to save newly discovered insights for future runs.These states map directly to high-value enterprise verticals. \"In software engineering, Belief can represent the agent’s current understanding of the repository,\" Ning said, detailing how the agent monitors component interactions and workspace changes. \"Progress tracks what has already been completed, what still needs to be done, and which steps depend on others.\" Meanwhile, Experience captures lessons, like user feedback on a mistake, to guide future actions.The same idea applies to finance, Ning said. During a compliance audit, Belief might describe the applicable rules and available evidence. Progress tracks which checks have been completed and which exceptions remain open. Experience helps the agent recognize recurring discrepancies or know when an issue should be escalated.\"Together, these states help prevent the agent from losing track of its work or repeating the same failed approach,\" Ning said.To teach the agent both the mechanics and the strategy of managing its external workspace, the researchers designed a two-stage training recipe. In the first stage, supervised harness fine-tuning, the base model learns how to extract and structure useful facts from messy interaction logs into the BPE framework.However, querying memory or updating trackers consumes time and compute tokens, meaning the agent cannot afford to blindly check its tools at every step. To solve this, the second stage uses “cost-aware” reinforcement learning to teach the agent efficiency. This phase trains the agent to calculate when accessing its external state is worth the budget cost. This two-step process transforms tool-use from a rigid, hardcoded prompt into a learned runtime behavior.EvoHarness-RL in actionTo validate EvoHarness-RL, the researchers evaluated the system using the ALFWorld benchmark, a text-based environment featuring multi-step tasks that test sequential logic and state tracking.They used Qwen3-8B as the base model to train. The team pitted the trained 8B model against three large frontier models (Claude Opus 4.5, GPT-4.1, and GPT-5), frozen agent frameworks with static tools (such as ReAct, ExpeL, and ReasoningBank), and advanced trainable methods (e.g., standard GRPO, SkillOS, and SkillRL).The results show a significant jump in performance for smaller, cost-effective models. With EvoHarness-RL, the Qwen3-8B model achieved a 96.9% average success rate, a 49.0 percentage point improvement over its baseline ReAct counterpart.Furthermore, the trained model outperformed advanced trainable frameworks like SkillRL (89.9%) and SkillOS (80.2%). Most impressively for enterprise developers looking to optimize compute costs, the 8B model effectively matched the performance ceiling of expensive closed models like Claude Opus 4.5, which scored 96.4% out-of-the-box.Beyond empowering smaller models, the experiments show that the BPE framework has universal benefits across all model scales, even without the extensive reinforcement learning phase. When researchers equipped frozen, out-of-the-box frontier models with the BPE prompt-time harness, their execution improved significantly. GPT-4.1's success rate improved by 22.1 points and GPT-5 by 25.7 points.Aside from the results, the researchers recorded effects during the experiments that demonstrate the dynamic behavior the LLMs acquire as they go through the EvoHarness-RL training. During the reinforcement learning phase, they observed a behavioral shift as the agent internalized knowledge over time, which they called \"harness annealing\". Early in training, the AI relied heavily on querying its Experience and Progress trackers for almost every step. However, as it mastered routine actions, it actively reduced its reliance on external tools, embedding the successful patterns directly into its parameters. In a real-world enterprise setting, this translates directly to lower latency and reduced compute costs. By annealing its tool usage, the AI stops wasting tokens and time querying databases for standard workflows it has already mastered.Simultaneously, the agent demonstrated \"harness evolution,\" where it dynamically adapted its strategy based on the complexity of the situation at hand. While it bypassed its tools for simple, familiar tasks, it actively chose to scale up its use of the Belief and Experience modules the moment it encountered novel environments or unexpected roadblocks. For example, if an AI agent is migrating standard database records, it moves fast. When it encounters a strange legacy API endpoint or a complex validation error, it slows down, pulls up the live server logs, and queries its historical tickets to safely resolve the edge case rather than hallucinating a guess.Bringing EvoHarness-RL into existing systemsDespite these massive gains, adopting a new framework often introduces friction for enterprise engineering teams. However, EvoHarness-RL utilizes an environment adapter that allows internal implementations to remain domain-specific to an organization's existing tools while sharing the trainable layer.\"I think there is significant potential to integrate BPE into existing orchestration systems,\" Ning said. \"It does not necessarily require teams to replace their current tools or agent frameworks. BPE can work as an additional state-management layer that continuously organizes what the agent currently believes, how far it has progressed, and what it has learned.\"For enterprise builders worried about inference costs, the framework addresses the hidden engineering cost of consolidation. Because consolidation requires strong reasoning, teams can adopt a hybrid, asynchronous architecture to optimize budgets.\"One possible compromise is to use a frontier model to generate high-quality consolidation data, then fine-tune a capable open-weight model to handle routine state management,\" Ning said. Furthermore, \"because consolidation can happen asynchronously, it does not always need to slow down the agent’s main execution loop.\"Teams must also carefully evaluate when a trainable BPE harness is necessary versus when it is overkill.\"For a short and stable task, ReAct or standard RAG may already be sufficient,\" Ning said. \"BPE becomes much more valuable when an agent works for many hours, days, or even weeks.\" In those complex scenarios, an agent needs a compressed understanding of its decisions to avoid getting lost, relying on Experience to iteratively improve from previous failures and human feedback.Ultimately, this approach signals a shift for AI orchestration engineers. \"It is not a complete replacement of workflow engineering,\" Ning said, \"but a transition from directly scripting agent behavior to creating systems in which better behavior can be learned.\"",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T16:33:16+00:00",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/74qlOTYyXbU8te5ugdb5DX/f6696a755ed1db9f3a43cdb5ec9219c8/AI_harness.jpg?w=300&q=30",
+    "source_name": "VENTUREBEAT.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/08/28/whatsapp-rolls-out-new-chat-themes-on-ios-including-animated-wallpapers/",
     "title": "WhatsApp rolls out new chat themes on iOS, including animated wallpapers",
     "description": "Following the recent discovery that WhatsApp was working on new chat themes, the feature is now rolling out to iPhone users. Here are the details.",
@@ -9,6 +32,17 @@
     "pub_date": "2026-08-28T16:30:09+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2246463/panasonic-lumix-l10-review/",
+    "title": "Panasonic Lumix L10 review: A stylish and capable compact camera",
+    "description": "The LX100 II successor offers good speed and image quality at a fairly high price.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T16:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/panasonic-lumix-l10-review-a-stylish-and-capable-compact-camera/l-intro-1787933427.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
@@ -21,6 +55,17 @@
     "pub_date": "2026-08-28T16:28:40+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/samsung-odyssey-2027-gaming-monitors-announcement",
+    "title": "Samsung just announced a 1,100Hz gaming monitor (yes, Im serious)",
+    "description": "The 2027 Samsung Odyssey lineup includes the 49-inch OLED G9, the 42-inch curved OLED G7, the 32-inch OLED G8, and the 1,100Hz Odyssey G6.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T16:28:18+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/07KSwHVtCXjwGMtbC9PN9Oa/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techradar.com/pro/the-writing-tablet-of-my-dreams-i-love-my-remarkable-devices-more-than-my-moleskine-collection-and-amazon-just-cut-up-to-gbp100-off-all-of-them",
@@ -93,6 +138,18 @@
     "source_name": "DIGITALTRENDS.COM"
   },
   {
+    "link": "https://mashable.com/tech/aug-28-apple-2026-mac-mini-m5-pro-deal",
+    "title": "Mac mini deal alert: The new Apple Mac mini M5 Pro is $30 off at Amazon",
+    "description": "The best deal on the new Apple Mac mini M5 Pro is live. Preorder the 2026 Apple Mac mini M5 Pro for $1,669.99 at Amazon.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T16:10:31+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/03OlXqr01pedX98UZ5NomZh/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.techradar.com/how-to-watch/football/crystal-palace-vs-man-city-premier-league-2026-27",
     "title": "How to watch Crystal Palace vs Man City: Live streams and TV channels for the Premier League 2026/27 game",
     "description": "All the ways to watch Crystal Palace vs Man City live streams, as the Premier League title contenders take on Pierre Sage's side under the floodlights at Selhurst Park",
@@ -109,8 +166,7 @@
     "title": "South Korea is funding free AI to help citizens book appointments, file taxes, and everyday tasks",
     "description": "South Korea is handing out free AI subscriptions to boost homegrown AI services and reduce dependency on US and China based services.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-08-28T16:07:00+00:00",
     "image_url": "https://www.digitaltrends.com/tachyon/2026/08/people-using-phones.jpg?resize=440%2C292",
@@ -1294,7 +1350,6 @@
     "title": "South Korea unveils a project with KT, SK Telecom, and Kakao to provide premium AI tools to the public for free, a move that treats AI like a public utility (Jiyoung Sohn/Wall Street Journal)",
     "description": "Jiyoung Sohn / Wall Street Journal:\nSouth Korea unveils a project with KT, SK Telecom, and Kakao to provide premium AI tools to the public for free, a move that treats AI like a public utility  —  Seoul wants to direct use of homegrown AI chatbots to reduce reliance on U.S. or Chinese options, footing the bill and offering unlimited tokens",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-28T10:40:01+00:00",
@@ -1317,7 +1372,6 @@
     "title": "Grand Theft Auto VI could take you more than 80 hours to finish",
     "description": "PSA to friends and family of GTA fans: You'll probably rarely see them from November 19 onwards.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-28T10:38:19+00:00",
@@ -2236,60 +2290,5 @@
     "pub_date": "2026-08-28T02:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/00IPiBMAUcU28Up5B1REOdk/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/hurdle-hints-answers-august-28-2026",
-    "title": "Hurdle hints and answers for August 28, 2026",
-    "description": "Hints and answers to today's Hurdle all in one place.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T02:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01MllXsYE5WQNSxHYVkc2xJ/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260827/p59#a260827p59",
-    "title": "CISA says that cyberattacks on critical US infrastructure targeted 100+ internet-exposed water and wastewater systems in July, largely attacking PLCs (Zack Whittaker/TechCrunch)",
-    "description": "Zack Whittaker / TechCrunch:\nCISA says that cyberattacks on critical US infrastructure targeted 100+ internet-exposed water and wastewater systems in July, largely attacking PLCs  —  U.S. cybersecurity agency CISA said it has observed cyberattacks targeting over 100 internet-exposed systems across the U.S. water and wastewater sector …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T01:30:01+00:00",
-    "image_url": "http://www.techmeme.com/260827/i59.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/us-says-chinese-hackers-broke-into-justice-department-nasa-federal-reserve-senate-and-more",
-    "title": "US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate, and more",
-    "description": "Chinese state-sponsored hackers breached multiple US agencies and departments using a botnet to obscure their traffic.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-08-28T01:15:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/EEXAxCUDKAq3frELz3rVYY-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
-    "title": "The GTA VI ‘extended look’ is now streaming on YouTube",
-    "description": "Rockstar has officially published its \"extended look\" at Grand Theft Auto VI on YouTube and on its website, as promised. The in-depth preview, which \"entirely\" features footage captured from the PS5 version of the game, initially premiered on Netflix at 3PM ET. But because Rockstar allowed creators to post reaction videos, you've technically been able",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-08-28T01:05:18+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/08/27/daily-august-27-2026/",
-    "title": "9to5Mac Daily: August 27, 2026 – AirPods 5 rumors, Apple Maps ads",
-    "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T01:04:16+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
