@@ -11,6 +11,17 @@
     "source_name": "TECHMEME.COM"
   },
   {
+    "link": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+    "title": "Google further buries search results under AI mode",
+    "description": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much farther down Google's results page; instead of seeing part of an AI Overview with",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T22:48:11+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
     "title": "Is the best way to watch a movie on a pair of sunglasses?",
     "description": "Are XREAL's smart glasses the way of the future for home entertainment?",
@@ -454,7 +465,6 @@
     "title": "The Garmin Enduro 4 was a no-show at the Fenix 9 launch — but a fresh leak suggests the mega-battery smartwatch could be imminent",
     "description": "Leaked filings hint at an upcoming Garmin launch, and it could be the rumored Enduro 4.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-28T19:00:00+00:00",
@@ -683,7 +693,6 @@
     "title": "What's the difference between Dolby Atmos and lossless audio?",
     "description": "If you're seeing these labels in your music apps and wondering what they do, let this article walk you through how they work.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-28T18:00:00+00:00",
@@ -908,7 +917,6 @@
     "title": "I tested the new Hard Boiled 4K Blu-ray, and this long-awaited classic is a new reference showcase for what Ultra HD and Dolby Atmos is capable of",
     "description": "Hard Boiled has been on my most-anticipated 4K discs for a while, and I've finally had the chance to test it — and it's been worth the wait.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-28T17:00:00+00:00",
@@ -2242,18 +2250,6 @@
     ],
     "pub_date": "2026-08-28T10:56:22+00:00",
     "image_url": "https://media.wired.com/photos/6a8778d3964ec62bf0f4c98f/master/pass/Inside-Meta-Experiments-with-Data-Center-Robots-Business.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/how-to-share-anything-between-android-and-ios/",
-    "title": "The Easiest Ways to Share Anything Between Android and iOS",
-    "description": "Transferring files and data across platforms is more straightforward than ever.",
-    "categories": [
-      "Gadgets & Hardware",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-08-28T10:45:00+00:00",
-    "image_url": "https://media.wired.com/photos/6a904a3b36f6c0403d01480b/master/pass/AndroidIOS.jpg",
     "source_name": "WIRED.COM"
   }
 ]
