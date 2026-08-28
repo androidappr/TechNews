@@ -1,5 +1,27 @@
 [
   {
+    "link": "https://thenextweb.com/news/byd-yangwang-u7-350-flash-charges-battery-degradation-euro-7",
+    "title": "BYD charged one car 350 times in nine days",
+    "description": "BYD says it drove a randomly selected Yangwang U7 for 30,000 kilometres over nine days with 350 ultra-fast charging stops, and the battery retained 98.7% of its capacity. Euro 7 will require new car types to keep 80% of original capacity after five years from 29 November. BYD has answered the question everyone asks about",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-08-28T07:40:08+00:00",
+    "image_url": "https://media.thenextweb.com/2026/06/byd-rejects-hungary-environmental-violations-szeged-factory.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/anthropic-previews-new-standard-to-streamline-ai-to-machine-connections/",
+    "title": "Anthropic previews new standard to streamline AI-to-machine connections",
+    "description": "Connecting AI agents to physical hardware has traditionally taken months of custom coding. Anthropic's new Model Hardware Standard wants to cut that down to minutes.",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-08-28T07:39:49+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/08/Anthropic-MHS-featured.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/rivian-cfo-claire-mcdonough-exit-volkswagen-milestone-payments",
     "title": "Rivian’s CFO is leaving after six years",
     "description": "Rivian’s chief financial officer Claire McDonough is leaving at the end of October after nearly six years, to take the same role at energy equipment maker GE Vernova. Volkswagen, now Rivian’s largest shareholder, has committed up to $5.8B to their joint venture with much of it still tied to technical milestones. Rivian is losing its",
@@ -2212,28 +2234,5 @@
     "pub_date": "2026-08-27T16:00:31+00:00",
     "image_url": "https://media.thenextweb.com/2026/08/voltpost-ceiling-surface-mount-chargers-europe-right-to-plug.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-    "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-    "description": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
-    "categories": [
-      "AI & Machine Learning",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-08-27T16:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/985363/sony-releases-cheaper-bravia-6-oled-tv",
-    "title": "Sony finally has a cheaper OLED to compete with midrange Samsung and LG TVs",
-    "description": "After unexpectedly showing up on a wall-mounting compatibility chart on Sony's site back in June, the company has announced the Sony Bravia 6 OLED TV. The TV sits below its other OLED TVs - the Bravia 8 and Bravia 8 II - as well as its Bravia 9 II and Bravia 7 II RGB LED",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-08-27T16:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Sony-Bravia-6-lifestyle.jpg?quality=90&strip=all&crop=22.8,23.10036094314,54.8,50.799231237988",
-    "source_name": "THEVERGE.COM"
   }
 ]
