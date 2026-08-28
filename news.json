@@ -1,5 +1,27 @@
 [
   {
+    "link": "https://www.zdnet.com/article/big-guessing-game-apple-edition-round-3/",
+    "title": "Want a free Apple Watch? Play ZDNET's 'Guessing Game' to win one - only 4 days left",
+    "description": "It's the third and final round of ZDNET's Big Guessing Game. We want to know what you think.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T11:57:00+00:00",
+    "image_url": null,
+    "source_name": "ZDNET.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/article/even-an-ai-cost-management-vendor-can-lose-control-of-its-agent-spending/",
+    "title": "Even an AI cost-management vendor can lose control of its agent spending",
+    "description": "In one instance, an AI agent stayed open for four days and ran 4,819 calls for almost $4,000. No one had budgeted for this cost.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T11:51:00+00:00",
+    "image_url": null,
+    "source_name": "ZDNET.COM"
+  },
+  {
     "link": "https://www.techradar.com/streaming/hbo-max/stuart-fails-to-save-the-universe-cast-are-4-inept-doctor-whos-in-their-own-words-but-the-hbo-max-series-could-save-the-classic-sci-fi-ip-after-disney-and-bbc-fallout",
     "title": "Stuart Fails to Save the Universe cast are '4 inept Doctor Who's' in their own words — but the HBO Max series could save the classic sci-fi IP after Disney+ and BBC fallout",
     "description": "With Doctor Who out to tender, its future feels uncertain. But could Stuart Fails to Save the Universe save the day?",
@@ -80,6 +102,17 @@
     "source_name": "THENEXTWEB.COM"
   },
   {
+    "link": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
+    "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
+    "description": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-08-28T11:15:05+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/teampcp-member-arrest-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/cios-must-rethink-identity-now-people-are-being-outnumbered-by-nonhuman-entities",
     "title": "CIOs must rethink identity now people are being outnumbered by nonhuman entities",
     "description": "AI-driven nonhuman identities are growing, forcing CIOs to rethink security, access and identity management.",
@@ -89,6 +122,17 @@
     "pub_date": "2026-08-28T11:01:57+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://arstechnica.com/space/2026/08/rocket-report-europe-splashes-some-cash-on-launch-startups-pallas-1-nears-debut/",
+    "title": "Rocket Report: Europe splashes some cash on launch startups; Pallas-1 nears debut",
+    "description": "\"From here on, Starlink missions out of Florida will fly on Starship.\"",
+    "categories": [
+      "Science & Environment"
+    ],
+    "pub_date": "2026-08-28T11:00:39+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/European_Launcher_Challenge_launch_service_providers_initial_capacity_pillars-1152x648.png",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
@@ -2199,50 +2243,5 @@
     "pub_date": "2026-08-27T19:12:39+00:00",
     "image_url": "https://media.wired.com/photos/6a90604fbb921c55bb13b116/master/pass/GettyImages-2285310885.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/life/gta-6-netflix-extended-look-songs-grand-theft-auto",
-    "title": "GTA 6 Netflix extended look: Every song we heard during gameplay",
-    "description": "Rockstar's new epic game has some equally epic music. Here are all the tracks we heard during Netflix's 'GTA 6' extended gameplay.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T19:12:29+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05PI2zJYMnq6LIiM5rXJxaN/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2245816/ubisoft-apologizes-for-selling-heroes-of-might-and-magic-3-without-game-files/",
-    "title": "Ubisoft apologizes for accidentally selling Heroes of Might and Magic 3 without the actual game files",
-    "description": "The Steam release was supposed to get fans excited for an upcoming remake.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-08-27T19:10:08+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/ubisoft-apologizes-for-accidentally-selling-heroes-of-might-and-magic-3-without-the-actual-game-files/l-intro-1787857634.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/openai-reveals-more-on-hugging-face-ai-hack-incident-and-its-pretty-disturbing-stuff-ai-agents-organized-into-a-swarm-considered-the-risks-of-attack-and-did-whatever-it-took-to-achieve-its-goal",
-    "title": "OpenAI reveals more on Hugging Face AI hack incident, and it's pretty disturbing stuff — AI agents organized into a ‘swarm’, considered the risks of attack, and did whatever it took to achieve its goal",
-    "description": "Further details of the Hugging Face attack reveal how resourceful OpenAI's agents became in attempting to solve an impossible task.",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-08-27T19:05:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/gN6Qsf7QSmrmYwtYPr47HY-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/aug-27-irobot-roomba-plus-deal",
-    "title": "Skip $1,000 flagship markups: iRobot’s AI-powered Roomba Plus 575 gets a $100 price cut",
-    "description": "As of Aug. 27, save $100 on the iRobot Roomba Plus 575 Robot Vacuum & Mop Combo at Amazon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T19:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/042Df3RJWe8cVWpGVJ8NTHE/hero-image.png",
-    "source_name": "MASHABLE.COM"
   }
 ]
