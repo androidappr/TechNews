@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.wired.com/story/how-to-share-anything-between-android-and-ios/",
+    "title": "The Easiest Ways to Share Anything Between Android and iOS",
+    "description": "Transferring files and data across platforms is more straightforward than ever.",
+    "categories": [
+      "Gadgets & Hardware",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-08-28T10:45:00+00:00",
+    "image_url": "https://media.wired.com/photos/6a904a3b36f6c0403d01480b/master/pass/AndroidIOS.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/openai-reveals-group-calling-for-greater-cybersecurity-protection-against-ai-signs-up-microsoft-google-and-many-more",
+    "title": "OpenAI reveals group calling for greater cybersecurity protection against AI, signs up Microsoft, Google and many more",
+    "description": "If you give everyone AI defenses, you level the playing field against attackers, OpenAI says.",
+    "categories": [
+      "AI & Machine Learning",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-08-28T10:43:49+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/o3oWm83C3SiBUpR2cySX2S-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/phones/android/i-am-so-done-with-this-google-messages-bug-thats-driving-users-crazy-is-finally-acknowledged-by-google",
+    "title": "'I am so done with this': Google Messages bug that's driving users crazy is finally acknowledged by Google",
+    "description": "A significant number of users are having trouble getting their group chats to behave in Google Messages.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-08-28T10:43:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/PXTh8bHDXfS59UARHwbQWa-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260828/p6#a260828p6",
     "title": "South Korea unveils a project with KT, SK Telecom, and Kakao to provide premium AI tools to the public for free, a move that treats AI like a public utility (Jiyoung Sohn/Wall Street Journal)",
     "description": "Jiyoung Sohn / Wall Street Journal:\nSouth Korea unveils a project with KT, SK Telecom, and Kakao to provide premium AI tools to the public for free, a move that treats AI like a public utility  —  Seoul wants to direct use of homegrown AI chatbots to reduce reliance on U.S. or Chinese options, footing the bill and offering unlimited tokens",
@@ -587,8 +622,7 @@
     "title": "US judge strikes down Pentagon blacklist of Anthropic as illegal retaliation",
     "description": "A federal judge has voided the Pentagon’s designation of Anthropic as a national security supply-chain risk, finding that the label was punishment for the company’s public criticism of the Trump administration rather than a security assessment. US District Judge Rita Lin, of the Northern District of California, issued the decision on Thursday in a 59-page",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-08-28T07:47:38+00:00",
     "image_url": "https://media.thenextweb.com/2026/04/Annthopic-Pentagon.avif",
@@ -798,8 +832,7 @@
     "title": "Judge rules that the Pentagon's Anthropic ban was 'illegal and baseless'",
     "description": "'The empty invocation of national security is not a blank check to punish and retaliate against government critics.'",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-08-28T04:43:23+00:00",
     "image_url": "https://www.engadget.com/img/gallery/judge-rules-that-the-pentagons-anthropic-ban-was-illegal-and-baseless/l-intro-1787892094.jpg",
@@ -2205,39 +2238,5 @@
     "pub_date": "2026-08-27T18:20:18+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-mini-top-down-m6.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/home-theater/audio-technicas-new-99-headset-focuses-on-the-two-things-gamers-actually-need/",
-    "title": "Audio-Technica’s new $99 headset focuses on the two things gamers actually need",
-    "description": "Audio-Technica’s new $99 ATH-M20xSTS gaming headset keeps things simple with M20x-derived headphones, a condenser boom mic, and wired connectivity.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-08-27T18:13:50+00:00",
-    "image_url": "https://www.digitaltrends.com/tachyon/2026/08/Audio-Technica-ATH-M20xSTS_2.jpg?resize=440%2C292",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/",
-    "title": "A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend",
-    "description": "After an affair with a fellow police officer ended, a Georgia cop used Flock to track her movements—and those of a man whose vehicle often showed up near hers, internal investigation records show.",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-08-27T18:12:17+00:00",
-    "image_url": "https://media.wired.com/photos/6a8d9086ba467cf540f2c239/master/pass/082526_Flock-Camera-Stalking-Police.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260827/p43#a260827p43",
-    "title": "Internal memo: Meta's AI agent Hatch \"has its own computer\" to perform tasks, works when the app is closed, can connect to email, Instagram, OpenTable, and more (Hugh Langley/Business Insider)",
-    "description": "Hugh Langley / Business Insider:\nInternal memo: Meta's AI agent Hatch “has its own computer” to perform tasks, works when the app is closed, can connect to email, Instagram, OpenTable, and more  —  It can DJ.  It can order food.  It can book you a table at a restaurant.  And of course, it can access your Instagram.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-27T18:10:01+00:00",
-    "image_url": "http://www.techmeme.com/260827/i43.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
