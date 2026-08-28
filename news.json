@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.techradar.com/computing/internet/laser-internet-breakthrough-sees-scientists-hit-98-percent-fidelity-over-hundreds-of-meters-magnetic-skyrmions-shield-data-from-distortion-in-alternative-to-fiber-optic-cables",
+    "title": "Laser internet breakthrough sees scientists hit 98% fidelity over hundreds of meters —magnetic 'skyrmions' shield data from distortion in alternative to fiber-optic cables",
+    "description": "New research shows how data can be sent using beams of light with almost zero distortion.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-28T00:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/eDYT3mJ9gXqagKzKHb5C2c-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.cnet.com/tech/services-and-software/proton-vpn-report-location-tracking-privacy/",
     "title": "1 in 6 VPNs Track Your Location, According to New Report From Proton",
     "description": "According to the report, 64 VPN apps on Apple’s App Store and Google Play contain trackers that collect your sensitive data; the exact opposite of what a VPN is supposed to do.",
@@ -490,8 +501,7 @@
     "title": "OpenAI, Google and dozens of other companies publish open letter calling for collective action on cyber defense",
     "description": "Dozens of companies came together to publish an open letter titled \"A call for collective action on cyber defense.\"",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-08-27T21:06:30+00:00",
     "image_url": "https://www.engadget.com/img/gallery/openai-google-and-dozens-of-other-companies-publish-open-letter-calling-for-collective-action-on-cyber-defense/l-intro-1787864684.jpg",
@@ -753,7 +763,6 @@
     "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
     "description": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release date twice, eventually shifting to November 19th, 2026, a full year after its originally planned fall 2025",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-08-27T20:01:56+00:00",
@@ -1178,8 +1187,7 @@
     "title": "OpenAI, Anthropic, Google and Microsoft want cyber defence treated as a leadership priority",
     "description": "More than 100 organisations including OpenAI, Anthropic, Google and Microsoft have signed an open letter urging businesses and governments to make cyber defence an immediate leadership priority and fix weaknesses in their own software. The EU’s Cyber Resilience Act makes much of that mandatory from 11 September. More than 100 organisations have signed a letter",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-08-27T18:08:06+00:00",
     "image_url": "https://media.thenextweb.com/2026/08/openai-anthropic-cyber-defence-open-letter-cra-nis2-europe.avif",
@@ -1202,7 +1210,6 @@
     "description": "The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-08-27T18:06:52+00:00",
@@ -1214,7 +1221,6 @@
     "title": "Grand Theft Auto 6's 'Extended Look' on Netflix is now live — follow all the big GTA gameplay reveals live as they happen",
     "description": "Our first official look at what's going down in Vice City — featuring confirmed PS5 gameplay capture.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-08-27T18:04:13+00:00",
@@ -2254,16 +2260,5 @@
     "pub_date": "2026-08-27T14:36:37+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/cool-tech/pollen-robotics-microduck-aims-to-make-training-physical-ai-far-less-fragile-and-cheaper/",
-    "title": "Pollen Robotics’ Microduck aims to make training physical AI far less fragile and cheaper",
-    "description": "Pollen Robotics’ Microduck is a tiny $399 biped designed to make physical AI training more accessible, letting developers experiment with new robotic behaviors on hardware that can survive the occasional tumble.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-08-27T14:30:26+00:00",
-    "image_url": "https://www.digitaltrends.com/tachyon/2026/08/Pollen-Robotics-Microduck-featured.jpg?resize=440%2C292",
-    "source_name": "DIGITALTRENDS.COM"
   }
 ]
