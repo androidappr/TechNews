@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://thenextweb.com/news/openai-ends-cursor-contract-spacex-acquisition-eu-switching-rules",
+    "title": "OpenAI to stop supplying models to Cursor after SpaceX acquisition",
+    "description": "OpenAI is ending its contract to supply models to Cursor following SpaceX’s $60B acquisition, with access shutting off on 12 November and its forthcoming Astra model withheld. Cursor and SpaceXAI shipped Grok 4.5 together in July, which is available in Cursor on every plan. OpenAI is ending its contract to supply models to Cursor. The",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-08-29T10:15:44+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/altman-white-house-openai-model-preview-agents.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
     "title": "How to Run a Chatbot on Your Own Computer",
     "description": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
@@ -2215,17 +2227,5 @@
     "pub_date": "2026-08-28T15:00:41+00:00",
     "image_url": "http://www.techmeme.com/260828/i13.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
-    "title": "AI Has Human Doctors Asking: What’s Left for Us?",
-    "description": "A recent paper argues that AI is often better at doctoring than doctors. Guess who isn't thrilled.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-08-28T15:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6a909d466b1fcc4b68700cd4/master/pass/Backchannel-AI-Doctors-Business-1267508918.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
