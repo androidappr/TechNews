@@ -1,5 +1,18 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+    "title": "Sony Music and Warner Chappell are suing Anthropic",
+    "description": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-08-29T18:19:53+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260829/p13#a260829p13",
     "title": "Anthropic will \"permanently\" raise weekly Claude Code limits by 25% on Sept. 14 for most plans, which will work out a 17% reduction, given the current 50% boost (@claudedevs)",
     "description": "@claudedevs:\nAnthropic will “permanently” raise weekly Claude Code limits by 25% on Sept. 14 for most plans, which will work out a 17% reduction, given the current 50% boost  —  Starting September 14, we're permanently raising standard weekly limits in Claude Code by 25% for Pro, Max, Team, and seat-based Enterprise plans. Until then, the current 50% increase will be in place.",
@@ -314,6 +327,7 @@
     "title": "Sony Music and Warner Chappell sue Anthropic, Dario Amodei, and Benjamin Mann, alleging tens of thousands of copyrighted songs were used to train Claude's LLMs (Tim Ingham/Music Business Worldwide)",
     "description": "Tim Ingham / Music Business Worldwide:\nSony Music and Warner Chappell sue Anthropic, Dario Amodei, and Benjamin Mann, alleging tens of thousands of copyrighted songs were used to train Claude's LLMs  —  Sony Music Publishing and Warner Chappell Music have joined forces to sue Anthropic, home of Claude, over what the publishers call …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-29T15:30:01+00:00",
@@ -2220,16 +2234,5 @@
     "pub_date": "2026-08-28T18:00:49+00:00",
     "image_url": null,
     "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2244161/dolby-atmos-and-lossless-audio-differences/",
-    "title": "What's the difference between Dolby Atmos and lossless audio?",
-    "description": "If you're seeing these labels in your music apps and wondering what they do, let this article walk you through how they work.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T18:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/whats-the-difference-between-dolby-atmos-and-lossless-audio/l-intro-1787247166.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
