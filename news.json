@@ -59,6 +59,18 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
+    "link": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
+    "title": "The Galaxy Z Flip 8 is at its best when there’s friction",
+    "description": "What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for the Flip form factor? For years, Samsung has insisted on the former, even as some fans - and Razr rival Motorola",
+    "categories": [
+      "Gadgets & Hardware",
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-08-29T13:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/samsung-galaxy-z-flip-8-review-13.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.engadget.com/2242748/how-to-use-the-new-siri-app-in-ios-27/",
     "title": "How to use the new Siri app in iOS 27",
     "description": "How to use the new Siri app in iOS 27.",
@@ -90,18 +102,6 @@
     "pub_date": "2026-08-29T13:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/kMhY77mSogaASd6FFy4wgK-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
-    "title": "The Galaxy Z Flip 8 is at its best when there’s friction",
-    "description": "What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for the Flip form factor? For years, Samsung has insisted on the former, even as some fans - and Razr rival Motorola",
-    "categories": [
-      "Gadgets & Hardware",
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-08-29T13:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/samsung-galaxy-z-flip-8-review-13.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://mashable.com/entertainment/south-africa-new-zealand-test-2-2026-live-stream-for-free",
@@ -1031,7 +1031,7 @@
   {
     "link": "https://www.techmeme.com/260828/p25#a260828p25",
     "title": "Z.ai releases GLM-5.3's weights under a new license requiring companies with $10B+ in revenue over 12 months to pass Z.ai's security review to host the model (Frederic Lardinois/The New Stack)",
-    "description": "Frederic Lardinois / The New Stack:\nZ.ai releases GLM-5.3's weights under a new license requiring companies with $10B+ in revenue over 12 months to pass Z.ai's security review to host the model  —  Z.ai put the GLM-5.3 weights on Hugging Face, but dropped the MIT license.  Providers above $10 billion in revenue now need a security review.",
+    "description": "Frederic Lardinois / The New Stack:\nZ.ai releases GLM-5.3's weights under a new license requiring companies with $10B+ in revenue over 12 months to pass Z.ai's security review to host the model  —  Earlier in August, Z.ai, the Chinese AI lab behind the viral ox-alpha model that turned out to be GLM-5.3-Flash, launched its flagship GLM-5.3 model.",
     "categories": [
       "Tech News"
     ],
