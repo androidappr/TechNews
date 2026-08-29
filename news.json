@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.zdnet.com/article/comulytic-note-pro-ai-voice-recorder-review/",
+    "title": "This pocket AI voice recorder took me back to the good old days of dictation (and shorthand)",
+    "description": "The Comulytic Note Pro AI voice recorder packs a lot of power into a credit card-sized device. But its usefulness is up to you.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-29T10:30:48+00:00",
+    "image_url": null,
+    "source_name": "ZDNET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260829/p9#a260829p9",
     "title": "New AI-powered video tools have accelerated the surge in AI dramas in China; DataEye: 89 of the top 100 animated dramas on Douyin in May were AI productions (Financial Times)",
     "description": "Financial Times:\nNew AI-powered video tools have accelerated the surge in AI dramas in China; DataEye: 89 of the top 100 animated dramas on Douyin in May were AI productions  —  Online performers left jobless as new video-generation programmes sweep industry  —  Chinese actors and online influencers have a new rival …",
@@ -9,6 +20,29 @@
     "pub_date": "2026-08-29T10:30:01+00:00",
     "image_url": "http://www.techmeme.com/260829/i9.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/nasas-nancy-grace-roman-space-telescope-coronagraph-leap/",
+    "title": "NASA’s Nancy Grace Roman Space Telescope Has a Hidden Technological Leap",
+    "description": "Astronomers will test equipment that, if it’s successful, will one day be crucial for discovering Earthlike planets.",
+    "categories": [
+      "Science & Environment"
+    ],
+    "pub_date": "2026-08-29T10:30:00+00:00",
+    "image_url": "https://media.wired.com/photos/6a90143f13ea49f13acf54b5/master/pass/Nasa.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+    "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+    "description": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
+    "categories": [
+      "AI & Machine Learning",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-08-29T10:30:00+00:00",
+    "image_url": "https://media.wired.com/photos/6a921e363b3f20c2f80986f3/master/pass/Security-News-This-Week-The-AI-Cybersecurity-Apocalypse-Is-Coming.jpg",
+    "source_name": "WIRED.COM"
   },
   {
     "link": "https://thenextweb.com/news/openai-ends-cursor-contract-spacex-acquisition-eu-switching-rules",
@@ -2193,39 +2227,5 @@
     "pub_date": "2026-08-28T15:15:05+00:00",
     "image_url": null,
     "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://mashable.com/life/aug-28-roborock-saros-z70-deal",
-    "title": "The Roborock Saros Z70 robot vacuum and mop with a grabby arm is finally back under $1,000",
-    "description": "The infamous Roborock Saros Z70 robot vacuum and mop with a grabby arm is on sale for under $1,000 at Amazon.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T15:10:30+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/028WGbMxmV5AeKWXrYQstqH/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/us-government-alcohol-and-firearms-agency-atf-declares-major-incident-after-ransomware-gang-claims-cyberattack",
-    "title": "US government alcohol and firearms agency ATF declares ‘major incident’ after ransomware gang claims cyberattack",
-    "description": "Hackers break into a standalone system with information on targets of ATF investigations.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-08-28T15:10:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/BsnMKVyyNGEZMWVUsFD6vn-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/08/28/apples-new-m6-adds-feature-previously-exclusive-to-high-end-chips/",
-    "title": "Apple’s new M6 adds feature previously exclusive to high-end chips",
-    "description": "Apple’s next-generation M6 chip is here, debuting first in the new Mac mini. And among its powerful upgrades, M6 gets a new feature previously exclusive to higher-end chips like M5 Pro and Max.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T15:07:28+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/m6-lg-01.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
