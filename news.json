@@ -1,5 +1,27 @@
 [
   {
+    "link": "https://www.engadget.com/2242747/how-to-speed-up-macbook/",
+    "title": "Want to speed up your MacBook? Do these things first",
+    "description": "Any Mac will become slower over time, but slowdowns don't have to mean a new machine. Try these tricks to get your computer running faster again.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-08-29T12:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/want-to-speed-up-your-macbook-do-these-things-first/l-intro-1787582736.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/streaming/apple-tv-plus/ted-lasso-reruns-arent-worth-it-apple-tv-prices-are-going-up-again-and-a-lot-of-viewers-say-theyve-had-enough",
+    "title": "'Ted Lasso reruns aren't worth it': Apple TV prices are going up again, and a lot of viewers say they've had enough",
+    "description": "Apple has pushed up the prices for Apple TV in the US and selected other countries, the fourth increase in four years.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-29T12:30:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Rkct88Ntq9BGeYRf3U4Rcm-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.engadget.com/2246956/xbox-project-helix-family-of-devices/",
     "title": "Xbox Project Helix is a 'family of devices,' CEO reveals",
     "description": "Asha Sharma said Xbox is developing a 'great family of devices' for Helix.",
@@ -77,6 +99,17 @@
     "pub_date": "2026-08-29T12:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/can-all-android-phone-use-android-auto/l-intro-1785768918.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/08/29/parallels-desktop-27/",
+    "title": "Apple @ Work: Parallels Desktop 27 brings OpenGL 4.3 and AI acceleration to Apple Silicon",
+    "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\nVirtualization on macOS has become rock-solid in the Apple Silicon era. Parallels Desktop 27 pushes that further with a new Metal-based graphics driver, OpenGL 4.3 support for Windows virtual machines on Apple silicon, faster local AI workloads, and a host of enterprise features aimed at IT teams, helping them manage and deploy Windows on macOS. Here’s my look at what’s new after spending some time with it.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-29T12:00:00+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Parallels-27-2.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
   },
   {
     "link": "https://www.cnet.com/tech/mobile/apple-might-skip-the-iphone-18-this-year-is-the-iphone-17-still-worth-it/",
@@ -2192,38 +2225,5 @@
     "pub_date": "2026-08-28T15:57:58+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/movies/apple-tv-just-got-more-expensive-again/",
-    "title": "Apple TV just got more expensive, again",
-    "description": "Apple is raising the price of Apple TV in the U.S. to $14.99 per month, while the annual plan is increasing to $119.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-08-28T15:51:39+00:00",
-    "image_url": "https://www.digitaltrends.com/tachyon/2026/08/Apple-TV-logo.jpg?resize=440%2C292",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260828/p14#a260828p14",
-    "title": "a16z creates a $1.1B Machine Age fund focusing on hardware to \"open the throttle and accelerate the physical buildout of AI\" (Sean O'Kane/TechCrunch)",
-    "description": "Sean O'Kane / TechCrunch:\na16z creates a $1.1B Machine Age fund focusing on hardware to “open the throttle and accelerate the physical buildout of AI”  —  Andreessen Horowitz has launched a new “Machine Age” fund with $1.1 billion raised.  The firm's aim with the new fund is to “open the throttle and accelerate the physical buildout of AI.”",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T15:46:19+00:00",
-    "image_url": "http://www.techmeme.com/260828/i14.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/life/hello-nancy-tennis-collection-sex-toys-vibrators",
-    "title": "Game, set, orgasm: Hello Nancy just dropped a tennis-themed collection (and its already on sale)",
-    "description": "Hello Nancy's limited-edition Center Court Collection features the Ace air-suction massager and Smash wand vibrator.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T15:45:46+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04pyGUu4LkIXLscc3tRax42/hero-image.png",
-    "source_name": "MASHABLE.COM"
   }
 ]
