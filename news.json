@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.digitaltrends.com/computing/proton-found-trackers-inside-most-vpn-apps-downloaded-in-the-us/",
+    "title": "Proton found trackers inside most VPN apps downloaded in the US",
+    "description": "Proton says 85% of the VPN apps in its US analysis contain trackers, while dozens can also access users’ physical location.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-29T14:19:44+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/05/VPN-Graphic-design.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260829/p10#a260829p10",
     "title": "Cursor co-founder Michael Truell says OpenAI represents just 5% of Cursor's traffic and Cursor trusted OpenAI to be \"neutral\"; Musk says he \"couldn't care less\" (Amir Efrati/The Information)",
     "description": "Amir Efrati / The Information:\nCursor co-founder Michael Truell says OpenAI represents just 5% of Cursor's traffic and Cursor trusted OpenAI to be “neutral”; Musk says he “couldn't care less”  —  OpenAI said Friday night that it will terminate its contract to provide its AI models …",
@@ -637,7 +648,6 @@
     "title": "Premier League Soccer: Watch Liverpool vs. Nottingham Forest Live from Anywhere",
     "description": "New Reds boss Andoni Iraola takes charge of his first EPL game at Anfield.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-29T08:30:00+00:00",
@@ -2216,16 +2226,5 @@
     "pub_date": "2026-08-28T16:16:12+00:00",
     "image_url": "https://media.thenextweb.com/2026/08/bmw-two-million-electric-cars-europe-seven-in-ten.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260828/p15#a260828p15",
-    "title": "Sources: the US is drafting a rule to close an export controls loophole that lets Chinese companies access AI chips via data centers in countries like Thailand (The Information)",
-    "description": "The Information:\nSources: the US is drafting a rule to close an export controls loophole that lets Chinese companies access AI chips via data centers in countries like Thailand  —  Soon after President Donald Trump began his second term in office in 2025, the White House announced it would undo export controls …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T16:15:18+00:00",
-    "image_url": "http://www.techmeme.com/260828/i15.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
