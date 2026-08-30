@@ -438,17 +438,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.engadget.com/2242769/android-auto-not-working-check-first/",
-    "title": "Android Auto not working? Here's what to check first",
-    "description": "Chances are there's a connection issue between your phone and car if Android auto isn't working.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-29T23:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/android-auto-not-working-heres-what-to-check-first/l-intro-1787158524.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
     "link": "https://www.techmeme.com/260829/p16#a260829p16",
     "title": "California's legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope (Luke James/Tom's Hardware)",
     "description": "Luke James / Tom's Hardware:\nCalifornia's legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope  —  AB 1856 excludes open-source operating systems from the upcoming Digital Age Assurance Act.",
@@ -458,6 +447,17 @@
     "pub_date": "2026-08-29T23:30:00+00:00",
     "image_url": "http://www.techmeme.com/260829/i16.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2242769/android-auto-not-working-check-first/",
+    "title": "Android Auto not working? Here's what to check first",
+    "description": "Chances are there's a connection issue between your phone and car if Android auto isn't working.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-29T23:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/android-auto-not-working-heres-what-to-check-first/l-intro-1787158524.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://9to5mac.com/2026/08/29/apple-card-keeps-getting-better-heres-everything-new/",
@@ -659,7 +659,7 @@
   },
   {
     "link": "https://thenextweb.com/news/hugging-face-nvidia-acquisition-thomas-wolf-interview",
-    "title": "Hugging Face built a $4.5 billion empire on free AI models. Now Nvidia is buying it for $12.9 billion",
+    "title": "Nvidia pays $12.9B for Hugging Face. Thomas Wolf is betting on Microduck, a $399 robot?",
     "description": "Thomas Wolf has spent a decade convincing the world that open-source AI is not a charity project. On August 27, 2026, the market settled the argument. Nvidia agreed to buy Hugging Face, the company famous for hosting the open-source AI ecosystem with more than 3 million open-source LLMs, for $12.9 billion, according to The Information,",
     "categories": [
       "Tech News"
