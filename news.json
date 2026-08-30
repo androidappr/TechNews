@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.techradar.com/streaming/entertainment/which-member-of-the-beatles-are-you-tell-us-your-tech-choices-in-this-personality-quiz-and-find-out",
+    "title": "Which member of The Beatles are you? Tell us your tech choices in this personality quiz and find out",
+    "description": "A big fan of The Beatles? This 30-question tech personality quiz will determine which band member you're most like.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-30T11:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/jf8yreF9aidjNLx2knUaqm-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/uk-mobile-networks-ai-planning-reform-eu-gigabit-infrastructure-act",
     "title": "UK networks are not ready for AI traffic, say mobile operators",
     "description": "VodafoneThree’s networks director says UK mobile quality is not ready for AI traffic and that planning rules, not money, are the obstacle, with more than half of its upgrades to existing masts requiring permission. The EU’s Gigabit Infrastructure Act has since November given authorities four months to decide a permit, after which it is deemed",
@@ -288,7 +299,6 @@
     "title": "How to watch Vigil season 3 online from anywhere – it's *FREE*",
     "description": "Here's how to watch Vigil season 3 online for free from anywhere in the world.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-30T05:00:00+00:00",
@@ -300,7 +310,6 @@
     "title": "How to watch Napoli vs. Como online for free",
     "description": "How to watch Serie A for free. Live stream Napoli vs. Como in Serie A for free from anywhere in the world.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-30T05:00:00+00:00",
@@ -418,17 +427,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techmeme.com/260829/p16#a260829p16",
-    "title": "California's legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope (Luke James/Tom's Hardware)",
-    "description": "Luke James / Tom's Hardware:\nCalifornia's legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope  —  AB 1856 excludes open-source operating systems from the upcoming Digital Age Assurance Act.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-29T23:30:00+00:00",
-    "image_url": "http://www.techmeme.com/260829/i16.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
     "link": "https://www.engadget.com/2242769/android-auto-not-working-check-first/",
     "title": "Android Auto not working? Here's what to check first",
     "description": "Chances are there's a connection issue between your phone and car if Android auto isn't working.",
@@ -438,6 +436,17 @@
     "pub_date": "2026-08-29T23:30:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/android-auto-not-working-heres-what-to-check-first/l-intro-1787158524.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260829/p16#a260829p16",
+    "title": "California's legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope (Luke James/Tom's Hardware)",
+    "description": "Luke James / Tom's Hardware:\nCalifornia's legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope  —  AB 1856 excludes open-source operating systems from the upcoming Digital Age Assurance Act.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-29T23:30:00+00:00",
+    "image_url": "http://www.techmeme.com/260829/i16.jpg",
+    "source_name": "TECHMEME.COM"
   },
   {
     "link": "https://9to5mac.com/2026/08/29/apple-card-keeps-getting-better-heres-everything-new/",
@@ -2214,16 +2223,5 @@
     "pub_date": "2026-08-28T22:40:03+00:00",
     "image_url": "http://www.techmeme.com/260828/i22.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/data-center-boom-safety-workforce-development",
-    "title": "The data center boom will fail its promise if safety and workforce development continue to lag behind",
-    "description": "The data center boom will be judged not only by how much infrastructure we build, but by whether the people building it return home safely. Major opportunities bring a rush for capital, market share, and industry leadership. Schedules tighten, hiring accelerates, and safety can be treated as an obstacle. From what I have seen in",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T22:36:35+00:00",
-    "image_url": "https://media.thenextweb.com/2026/08/data-center-boom-safety-workforce-development.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
