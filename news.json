@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://thenextweb.com/news/sony-warner-chappell-anthropic-lyrics-lawsuit-gema-munich-tdm",
+    "title": "Sony Music and Warner Chappell sue Anthropic over song lyrics in Claude’s training data",
+    "description": "Sony Music Publishing and Warner Chappell have sued Anthropic in California over song lyrics allegedly taken from pirate archives, naming Dario Amodei and Benjamin Mann personally and seeking up to $150,000 per composition. A Munich court ruled in November 2025 that memorising lyrics inside a model is reproduction and that the text and data mining",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-08-30T09:33:23+00:00",
+    "image_url": "https://media.thenextweb.com/2026/06/anthropic-mythos-eu-enisa-cybersecurity-access.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://mashable.com/article/favorite-lego-sets-2026",
     "title": "Our 17 favorite Lego sets, sourced from actual Lego fans",
     "description": "Looking for a new Lego set for adults, kids, or adults who still feel like kids? Let our favorite building kits from actual Lego enthusiasts guide the way.",
@@ -305,17 +317,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.engadget.com/2242769/android-auto-not-working-check-first/",
-    "title": "Android Auto not working? Here's what to check first",
-    "description": "Chances are there's a connection issue between your phone and car if Android auto isn't working.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-29T23:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/android-auto-not-working-heres-what-to-check-first/l-intro-1787158524.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
     "link": "https://www.techmeme.com/260829/p16#a260829p16",
     "title": "California's legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope (Luke James/Tom's Hardware)",
     "description": "Luke James / Tom's Hardware:\nCalifornia's legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope  —  AB 1856 excludes open-source operating systems from the upcoming Digital Age Assurance Act.",
@@ -325,6 +326,17 @@
     "pub_date": "2026-08-29T23:30:00+00:00",
     "image_url": "http://www.techmeme.com/260829/i16.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2242769/android-auto-not-working-check-first/",
+    "title": "Android Auto not working? Here's what to check first",
+    "description": "Chances are there's a connection issue between your phone and car if Android auto isn't working.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-29T23:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/android-auto-not-working-heres-what-to-check-first/l-intro-1787158524.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://9to5mac.com/2026/08/29/apple-card-keeps-getting-better-heres-everything-new/",
@@ -2212,16 +2224,5 @@
     "pub_date": "2026-08-28T22:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/XmG86X5KoPAZt8AD5YL5iU-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/08/28/steve-jobs-1968-science-fair-project-fetches-34375-at-auction/",
-    "title": "Steve Jobs’ 1968 science fair project fetches $34,375 at auction",
-    "description": "RR Auction’s bidding for Steve Jobs’ 1968 science fair project has now closed, with the hand-built exhibit selling for $34,375. Here are the details.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T21:35:19+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Steve-Jobs-8th-grade-science-fair-project-goes-up-for-auction.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
