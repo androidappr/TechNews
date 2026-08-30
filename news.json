@@ -1,5 +1,27 @@
 [
   {
+    "link": "https://www.techradar.com/pro/amazon-is-buying-2-million-nvidia-gpus-for-aws-data-center-expansion",
+    "title": "Amazon is buying 2 million Nvidia GPUs for AWS data center expansion",
+    "description": "AWS plans to deploy two million additional Nvidia GPUs by 2028, expanding AI infrastructure across cloud, government, analytics, and robotics workloads.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-30T22:10:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/THrQgcJizbtksGzNr9f3qb-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/cool-tech/a-new-watchdog-is-tracking-when-ai-goes-rogue-and-more-than-300-incidents-were-reported-in-july/",
+    "title": "A new watchdog is tracking when AI goes rogue, and more than 300 incidents were reported in July",
+    "description": "AI models lying, scheming, and bypassing safeguards nearly doubled in July, according to new research, including a real hacking campaign by Anthropic and OpenAI models.",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-08-30T22:00:00+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/06/fable.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260830/p10#a260830p10",
     "title": "Anthropic signs out some Claude users, removes saved payment methods, and issues refunds after infostealer malware on their PCs hijacked sessions to drain usage (Mayank Parmar/BleepingComputer)",
     "description": "Mayank Parmar / BleepingComputer:\nAnthropic signs out some Claude users, removes saved payment methods, and issues refunds after infostealer malware on their PCs hijacked sessions to drain usage  —  Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions …",
@@ -563,17 +585,6 @@
     "source_name": "9TO5MAC.COM"
   },
   {
-    "link": "https://www.techradar.com/computing/windows-laptops/laptop-bloatware-is-still-a-big-problem-and-windows-11-needs-to-step-up-and-sort-it-out",
-    "title": "Laptop bloatware is still a big problem – and Windows 11 needs to step up and sort it out",
-    "description": "Preinstalled bloatware on our laptops is getting out of hand, but Windows 11 isn't helping.",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-08-30T14:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/dSSb9s3nydFSpsbC2cT2tX-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/audio/spotify/spotify-i-owe-you-an-apology-my-smart-tv-finally-got-spotify-after-years-of-waiting-and-now-i-suddenly-love-its-roster-of-music-videos",
     "title": "Spotify, I owe you an apology — my smart TV finally got Spotify after years of waiting, and now I love its roster of music videos",
     "description": "I haven't stopped watching music videos on Spotify since the app came to my smart TV.",
@@ -582,6 +593,17 @@
     ],
     "pub_date": "2026-08-30T14:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/Bwf5mSRVFSGpdvzxwoyWEn-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/windows-laptops/laptop-bloatware-is-still-a-big-problem-and-windows-11-needs-to-step-up-and-sort-it-out",
+    "title": "Laptop bloatware is still a big problem – and Windows 11 needs to step up and sort it out",
+    "description": "Preinstalled bloatware on our laptops is getting out of hand, but Windows 11 isn't helping.",
+    "categories": [
+      "Software & Apps"
+    ],
+    "pub_date": "2026-08-30T14:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/dSSb9s3nydFSpsbC2cT2tX-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2204,27 +2226,5 @@
     "pub_date": "2026-08-29T12:00:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/IMG_20260828_112456.jpg",
     "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-    "title": "Musicians-turned-detectives are hunting for AI grifters",
-    "description": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-08-29T12:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&strip=all&crop=0,0,85.33125,89.314310632479",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/mice/razer-naga-v3-pro",
-    "title": "The Razer Naga V3 Pro is a jack-of-all-trades mouse — but is it a master of none?",
-    "description": "The Razer Naga V3 Pro is built for almost any game you want to play, but you pay the price for that privilege.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-29T12:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/5eqeVd8tWdg67YsguPTnKT-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
