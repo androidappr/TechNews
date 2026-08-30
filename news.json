@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+    "description": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-08-30T15:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/phones/apple-apparently-tested-a-stylus-for-the-foldable-iphone-then-nixed-the-idea/",
+    "title": "Apple apparently tested a stylus for the foldable iPhone, then nixed the idea",
+    "description": "Apple tested a shorter, magnetic Apple Pencil built for the foldable iPhone, but Bloomberg's Mark Gurman doubts it'll actually ship next month.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-30T14:50:07+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/06/iPhone-Ultra-new-featured-image-edited.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260830/p7#a260830p7",
     "title": "A look at the management changes John Ternus could make as many key Apple execs prepare to leave in the next few years; Apple tested a Pencil for folding iPhone (Mark Gurman/Bloomberg)",
     "description": "Mark Gurman / Bloomberg:\nA look at the management changes John Ternus could make as many key Apple execs prepare to leave in the next few years; Apple tested a Pencil for folding iPhone  —  Also: Apple experimented with a Pencil for the coming foldable iPhone.  —  When John Ternus becomes Apple's CEO this week …",
@@ -69,17 +93,6 @@
     "source_name": "9TO5MAC.COM"
   },
   {
-    "link": "https://www.techradar.com/audio/spotify/spotify-i-owe-you-an-apology-my-smart-tv-finally-got-spotify-after-years-of-waiting-and-now-i-suddenly-love-its-roster-of-music-videos",
-    "title": "Spotify, I owe you an apology — my smart TV finally got Spotify after years of waiting, and now I love its roster of music videos",
-    "description": "I haven't stopped watching music videos on Spotify since the app came to my smart TV.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-30T14:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Bwf5mSRVFSGpdvzxwoyWEn-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/computing/windows-laptops/laptop-bloatware-is-still-a-big-problem-and-windows-11-needs-to-step-up-and-sort-it-out",
     "title": "Laptop bloatware is still a big problem – and Windows 11 needs to step up and sort it out",
     "description": "Preinstalled bloatware on our laptops is getting out of hand, but Windows 11 isn't helping.",
@@ -88,6 +101,17 @@
     ],
     "pub_date": "2026-08-30T14:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/dSSb9s3nydFSpsbC2cT2tX-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/audio/spotify/spotify-i-owe-you-an-apology-my-smart-tv-finally-got-spotify-after-years-of-waiting-and-now-i-suddenly-love-its-roster-of-music-videos",
+    "title": "Spotify, I owe you an apology — my smart TV finally got Spotify after years of waiting, and now I love its roster of music videos",
+    "description": "I haven't stopped watching music videos on Spotify since the app came to my smart TV.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-30T14:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Bwf5mSRVFSGpdvzxwoyWEn-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2206,27 +2230,5 @@
     "pub_date": "2026-08-29T06:01:56+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/07gvoVdKxGLG99GUqN2pIAX/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/how-did-the-manchester-airports-group-cyberattack-take-place-and-what-data-was-exposed-in-the-8-7-million-customer-records-the-experts-weigh-in",
-    "title": "How did the Manchester Airports Group cyberattack take place, and what data was exposed in the 8.7 million customer records? The experts weigh in",
-    "description": "Email addresses, phone numbers, vehicle registrations and postcodes of up to 8.7 million customers were stolen",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-08-29T06:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/yLTkpXkRjzyqfh2RQyFi2F-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/vpn/vpn-privacy-security/the-sound-of-the-silenced-inside-the-ten-year-global-fight-to-keep-the-internet-on",
-    "title": "The Sound of the Silenced: Inside the ten-year global fight to keep the internet on",
-    "description": "This year marks 10 years of Access Now's #KeepItOn campaign fighting against internet shutdowns. We talked to the campaign lead about what's been done so far and what the next decade has in store.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-29T06:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/YFudZPq8gUgWQjZPDDcKfR-1280-80.png",
-    "source_name": "TECHRADAR.COM"
   }
 ]
