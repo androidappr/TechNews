@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://mashable.com/science/nasa-roman-space-telescope-launches",
+    "title": "NASAs Nancy Grace Roman Space Telescope launches in historic moment",
+    "description": "NASA has launched the Nancy Grace Roman Space Telescope to map dark matter, probe dark energy, and hunt for distant exoplanets.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-08-30T11:31:50+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/07akqbzTDH20fNAJQsPJjqg/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
     "title": "Inside Meta’s push to put robots to work in data centers",
     "description": "The company is testing robots on tasks that can performed by technicians.",
@@ -449,17 +461,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techmeme.com/260829/p16#a260829p16",
-    "title": "California's legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope (Luke James/Tom's Hardware)",
-    "description": "Luke James / Tom's Hardware:\nCalifornia's legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope  —  AB 1856 excludes open-source operating systems from the upcoming Digital Age Assurance Act.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-29T23:30:00+00:00",
-    "image_url": "http://www.techmeme.com/260829/i16.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
     "link": "https://www.engadget.com/2242769/android-auto-not-working-check-first/",
     "title": "Android Auto not working? Here's what to check first",
     "description": "Chances are there's a connection issue between your phone and car if Android auto isn't working.",
@@ -469,6 +470,17 @@
     "pub_date": "2026-08-29T23:30:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/android-auto-not-working-heres-what-to-check-first/l-intro-1787158524.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260829/p16#a260829p16",
+    "title": "California's legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope (Luke James/Tom's Hardware)",
+    "description": "Luke James / Tom's Hardware:\nCalifornia's legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope  —  AB 1856 excludes open-source operating systems from the upcoming Digital Age Assurance Act.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-29T23:30:00+00:00",
+    "image_url": "http://www.techmeme.com/260829/i16.jpg",
+    "source_name": "TECHMEME.COM"
   },
   {
     "link": "https://9to5mac.com/2026/08/29/apple-card-keeps-getting-better-heres-everything-new/",
@@ -2212,16 +2224,5 @@
     "pub_date": "2026-08-28T22:50:01+00:00",
     "image_url": "http://www.techmeme.com/260828/i23.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
-    "title": "Google further buries search results under AI mode",
-    "description": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much farther down Google's results page; instead of seeing part of an AI Overview with",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T22:48:11+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
