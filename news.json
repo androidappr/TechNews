@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
+    "title": "Why the Hottest New Wearables Want to Be Ignored",
+    "description": "Burnt out on wrist buzzes and notification overload? A new crop of minimalist wearables promises to collect your health data without demanding your attention.",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-08-30T10:30:00+00:00",
+    "image_url": "https://media.wired.com/photos/6a8f1c5ba84e455f12fd962b/master/pass/NoScreenWearable.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/bill-gates-robot-tax-again-european-parliament-2017-vote",
     "title": "How Bill Gates uses AI, and why he thinks nobody is preparing for it",
     "description": "Bill Gates has published a memo proposing a tax on AI, a category of jobs reserved for humans and new institutions to manage the transition, and told GeekWire that industry leaders are worried privately while staying quiet publicly. He proposed a robot tax in February 2017, the same month the European Parliament adopted robotics rules",
@@ -395,17 +406,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techmeme.com/260829/p16#a260829p16",
-    "title": "California's legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope (Luke James/Tom's Hardware)",
-    "description": "Luke James / Tom's Hardware:\nCalifornia's legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope  —  AB 1856 excludes open-source operating systems from the upcoming Digital Age Assurance Act.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-29T23:30:00+00:00",
-    "image_url": "http://www.techmeme.com/260829/i16.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
     "link": "https://www.engadget.com/2242769/android-auto-not-working-check-first/",
     "title": "Android Auto not working? Here's what to check first",
     "description": "Chances are there's a connection issue between your phone and car if Android auto isn't working.",
@@ -415,6 +415,17 @@
     "pub_date": "2026-08-29T23:30:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/android-auto-not-working-heres-what-to-check-first/l-intro-1787158524.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260829/p16#a260829p16",
+    "title": "California's legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope (Luke James/Tom's Hardware)",
+    "description": "Luke James / Tom's Hardware:\nCalifornia's legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope  —  AB 1856 excludes open-source operating systems from the upcoming Digital Age Assurance Act.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-29T23:30:00+00:00",
+    "image_url": "http://www.techmeme.com/260829/i16.jpg",
+    "source_name": "TECHMEME.COM"
   },
   {
     "link": "https://9to5mac.com/2026/08/29/apple-card-keeps-getting-better-heres-everything-new/",
@@ -2213,16 +2224,5 @@
     "pub_date": "2026-08-28T22:33:36+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/07pbY5cY122TErj9vWx2Irj/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/08/28/most-people-overpay-phone-plan-tello-mobile-maxes-out-at-25-month/",
-    "title": "Most people overpay for their phone plan – Tello Mobile maxes out at $25/month",
-    "description": "The US has some of the most expensive mobile phone plans in the world, and many people are paying $60 to $100 per month or more without questioning it.\nSwitching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, and even the unlimited plan is just $25 a month – all while using America’s largest 5G network …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-28T22:30:00+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Banner-2-1920-x-1080.png?w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
