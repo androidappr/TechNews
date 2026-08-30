@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.androidcentral.com/wearables/google-pixel-watch/google-pixel-watch-5-review",
+    "title": "The Google Pixel Watch 5 is a good smartwatch that really doesn't want me to touch it, but I'm still waiting for its best new features",
+    "description": "The Pixel Watch 5 is probably the best Android smartwatch you can buy right now, but it's still missing a few features that would make it worth buying over its predecessor.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-30T15:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/iBDkaY2eqdxEt2FZgkjeND-1280-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
     "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
     "description": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
@@ -10,6 +21,18 @@
     "pub_date": "2026-08-30T15:00:00+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/anthropic-sued-by-sony-music-warner-ai-copyright-infringement",
+    "title": "Sony Music, Warner sue Anthropic, alleging copyright infringement",
+    "description": "Sony Music and Warner just filed a lawsuit alleging that Anthropic developed Claude models using stolen music.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-30T14:51:33+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/02GMZpGilyHV6xMdwn2FDcN/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.digitaltrends.com/phones/apple-apparently-tested-a-stylus-for-the-foldable-iphone-then-nixed-the-idea/",
@@ -482,6 +505,7 @@
     "description": "Sony Music Publishing and Warner Chappell have sued Anthropic in California over song lyrics allegedly taken from pirate archives, naming Dario Amodei and Benjamin Mann personally and seeking up to $150,000 per composition. A Munich court ruled in November 2025 that memorising lyrics inside a model is reproduction and that the text and data mining",
     "categories": [
       "AI & Machine Learning",
+      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-08-30T09:33:23+00:00",
@@ -2207,28 +2231,5 @@
     "pub_date": "2026-08-29T06:30:01+00:00",
     "image_url": "http://www.techmeme.com/260829/i8.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260829/p7#a260829p7",
-    "title": "An analysis of the 50 largest bitcoin treasury companies by BTC holdings finds their combined market cap has plunged from $150B in July 2025 to just $67B now (Financial Times)",
-    "description": "Financial Times:\nAn analysis of the 50 largest bitcoin treasury companies by BTC holdings finds their combined market cap has plunged from $150B in July 2025 to just $67B now  —  Crypto hoarders have been selling tokens and reverting to former activities  —  More than $80bn has been wiped off the value …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-29T06:20:01+00:00",
-    "image_url": "http://www.techmeme.com/260829/i7.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/liverpool-nottingham-forest-premier-league-2026-live-stream-for-free",
-    "title": "How to watch Liverpool vs. Nottingham Forest online for free",
-    "description": "How to watch Premier League for free. Live stream Liverpool vs. Nottingham Forest in the Premier League for free from anywhere in the world.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-08-29T06:01:56+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07gvoVdKxGLG99GUqN2pIAX/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
