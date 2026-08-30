@@ -220,7 +220,6 @@
     "title": "I tested Sony's affordable RGB mini-LED TV, and it's the TV that finally convinced me the next-gen tech could beat OLED",
     "description": "Sony's entry-level RGB TV, the Bravia 7 II, is a strong overall performer that might not beat the best OLEDs, but gives them a good run for the money.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-30T17:00:00+00:00",
@@ -278,7 +277,6 @@
     "title": "Apple prototyped a stylus for the foldable iPhone that we may never see",
     "description": "On the bright side, Apple is more certainly working on an Apple Watch overhaul.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-08-30T16:23:10+00:00",
@@ -448,7 +446,6 @@
     "title": "Apple apparently tested a stylus for the foldable iPhone, then nixed the idea",
     "description": "Apple tested a shorter, magnetic Apple Pencil built for the foldable iPhone, but Bloomberg's Mark Gurman doubts it'll actually ship next month.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-30T14:50:07+00:00",
@@ -460,7 +457,6 @@
     "title": "A look at the management changes John Ternus could make as many key Apple execs prepare to leave in the next few years; Apple tested a Pencil for folding iPhone (Mark Gurman/Bloomberg)",
     "description": "Mark Gurman / Bloomberg:\nA look at the management changes John Ternus could make as many key Apple execs prepare to leave in the next few years; Apple tested a Pencil for folding iPhone  —  Also: Apple experimented with a Pencil for the coming foldable iPhone.  —  When John Ternus becomes Apple's CEO this week …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-30T14:50:00+00:00",
@@ -483,7 +479,6 @@
     "title": "Google Maps relabels Lake Ontario as Lake America for US users",
     "description": "Google Maps now labels Lake Ontario as Lake America for users in the United States, following an update to the US Geographic Names Information System, while Canadian users see the old name and everyone else sees both. Google Maps has been a designated very large online platform in the EU since April 2023, with duties",
     "categories": [
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-08-30T14:49:09+00:00",
@@ -524,17 +519,6 @@
     "source_name": "9TO5MAC.COM"
   },
   {
-    "link": "https://www.techradar.com/computing/windows-laptops/laptop-bloatware-is-still-a-big-problem-and-windows-11-needs-to-step-up-and-sort-it-out",
-    "title": "Laptop bloatware is still a big problem – and Windows 11 needs to step up and sort it out",
-    "description": "Preinstalled bloatware on our laptops is getting out of hand, but Windows 11 isn't helping.",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-08-30T14:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/dSSb9s3nydFSpsbC2cT2tX-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/audio/spotify/spotify-i-owe-you-an-apology-my-smart-tv-finally-got-spotify-after-years-of-waiting-and-now-i-suddenly-love-its-roster-of-music-videos",
     "title": "Spotify, I owe you an apology — my smart TV finally got Spotify after years of waiting, and now I love its roster of music videos",
     "description": "I haven't stopped watching music videos on Spotify since the app came to my smart TV.",
@@ -543,6 +527,17 @@
     ],
     "pub_date": "2026-08-30T14:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/Bwf5mSRVFSGpdvzxwoyWEn-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/windows-laptops/laptop-bloatware-is-still-a-big-problem-and-windows-11-needs-to-step-up-and-sort-it-out",
+    "title": "Laptop bloatware is still a big problem – and Windows 11 needs to step up and sort it out",
+    "description": "Preinstalled bloatware on our laptops is getting out of hand, but Windows 11 isn't helping.",
+    "categories": [
+      "Software & Apps"
+    ],
+    "pub_date": "2026-08-30T14:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/dSSb9s3nydFSpsbC2cT2tX-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
