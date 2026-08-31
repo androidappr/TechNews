@@ -1,5 +1,76 @@
 [
   {
+    "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+    "title": "Instagram cracks down on AI accounts pretending to be human",
+    "description": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it clear when a profile features an AI-generated person that's not a real human being. \"We've heard that people don't like seeing a profile",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-08-31T13:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/vege-ai-influencer.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/its-35-years-since-linus-torvalds-first-revealed-linux-calling-it-just-a-hobby-how-wrong-he-was",
+    "title": "It's 35 years since Linus Torvalds first revealed Linux, calling it 'just a hobby' — how wrong he was",
+    "description": "Linus Torvalds introduced Linux as a hobby project in 1991, starting development that eventually produced a 40 million-line kernel.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T13:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/MRcAF4wnJU8Qb7Bv7Lb9yd-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/gaming-laptops/how-nvidia-rtx-spark-will-change-laptops-forever-for-better-and-worse",
+    "title": "How Nvidia RTX Spark will change laptops forever... for better and worse",
+    "description": "Nvidia's recently announced RTX Spark laptop chip could fundamentally change the way that portable computers are used. More consumer choice and healthy competition are never a bad thing, but what if it's coming from one of the biggest companies in the world?",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T13:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/AbzSvUYd65RRkJWnMhHL3L-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/televisions/samsungs-best-oled-tv-is-getting-a-dramatic-special-version-that-hides-its-worst-feature-under-a-neat-scandi-design-and-adds-a-giant-audiophile-sound-system-at-the-same-time",
+    "title": "Samsung's best OLED TV is getting a dramatic special version that hides its worst feature under a neat Scandi design — and adds a giant audiophile sound system at the same time",
+    "description": "Samsung has teamed up with audiophile firm Canvas to create the HiFi S99H, a flagship OLED with an integrated Hi-Fi sound system.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T13:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/PSY96ASEoKFkb6vGqz48NC-1280-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+    "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
+    "description": "Circleback is also introducing new pricing plans starting from $14 per month",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-08-31T12:56:46+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260831/p15#a260831p15",
+    "title": "Nvidia plans to invest $3.5B into MediaTek through convertible bonds; MediaTek forecasts AI chip revenue of about $2B this year (Bloomberg)",
+    "description": "Bloomberg:\nNvidia plans to invest $3.5B into MediaTek through convertible bonds; MediaTek forecasts AI chip revenue of about $2B this year  —  Nvidia Corp. is investing $3.5 billion into MediaTek Inc., deepening collaboration with the Taiwanese chipmaker at a time when it's working to persuade …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T12:47:42+00:00",
+    "image_url": "http://www.techmeme.com/260831/i15.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://mashable.com/entertainment/safiullin-alcaraz-us-open-2026-live-stream-for-free",
     "title": "How to watch Safiullin vs. Alcaraz online for free",
     "description": "How to watch the US Open for free. Live stream Safiullin vs. Alcaraz in the 2026 US Open online for free.",
@@ -70,6 +141,18 @@
     "pub_date": "2026-08-31T12:20:27+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-Maps-still-shows-Lake-Ontario-as-Google-Maps-changes-name.jpeg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/",
+    "title": "Roman Commissioning",
+    "description": "Where is Roman? Roman is making its three-month journey from Earth to Sun-Earth Lagrange Point 2, or L2. Along the way, Roman is undergoing a process called commissioning, where systems are turned on, adjusted, calibrated, and prepared for science operations. Commissioning is the time for scientists and engineers to make sure that Roman is performing",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T12:16:53+00:00",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/rst/spacecraft-illustrations/RST_Beauty_S2_4K_60_ProRes.00422_print.jpg?w=1024&h=576&fit=clip&crop=faces%2Cfocalpoint",
+    "source_name": "SCIENCE.NASA.GOV"
   },
   {
     "link": "https://mashable.com/science/china-humanoid-robot-games-highlights-2026",
@@ -191,7 +274,7 @@
   {
     "link": "https://www.techmeme.com/260831/p11#a260831p11",
     "title": "Z.ai reports H1 2026 revenue up 400% to ~$142M, below its $200M projection; Z.ai's market value surged 800% since its January listing, peaking at $137B (Bloomberg)",
-    "description": "Bloomberg:\nZ.ai reports H1 2026 revenue up 400% to ~$142M, below its $200M projection; Z.ai's market value surged 800% since its January listing, peaking at $137B  —  Z.AI Co.'s revenue missed estimates, underscoring the challenge it faces shipping near-frontier artificial intelligence models and competing …",
+    "description": "Bloomberg:\nZ.ai reports H1 2026 revenue up 400% to ~$142M, below its $200M projection; Z.ai's market value surged 800% since its January listing, peaking at $137B  —  Z.AI Co. grew revenue far less than anticipated while its losses persisted, highlighting the mounting cost of fighting the likes of Moonshot …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -531,7 +614,6 @@
     "title": "NASAs Roman telescope is cruising. Heres a look at the next 100 days.",
     "description": "NASA's Nancy Grace Roman Space Telescope launched on Aug. 30, 2026. Here's what will happen on the spaceflight to get ready for science.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-08-31T09:00:00+00:00",
@@ -566,8 +648,7 @@
     "title": "OpenAI has started letting some customers pay only when the AI works",
     "description": "OpenAI has begun letting some of its largest customers pay only when its AI actually completes the job. Kevin McLaughlin and Amir Efrati reported the change to The Information, giving the example of a customer support interaction handled end-to-end. The arrangement is limited to select major accounts rather than offered generally, and OpenAI has not announced",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-08-31T08:55:58+00:00",
     "image_url": "https://media.thenextweb.com/2026/07/openai-models-escaped-hacked-hugging-face.avif",
@@ -769,17 +850,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.techradar.com/pro/teachers-are-getting-more-comfortable-using-ai-but-it-isnt-helping-lower-their-workload",
-    "title": "Teachers are getting more comfortable using AI – but it isn't helping lower their workload",
-    "description": "Although most teachers use artificial intelligence, only one in three say they're able to work fewer hours amid intense workloads.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-31T06:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/DroFFmiArXg2SARc9KPh44-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://mashable.com/entertainment/lecce-roma-serie-a-2026-live-stream-for-free",
     "title": "How to watch Lecce vs. Roma online for free",
     "description": "How to watch Serie A for free. Live stream Lecce vs. Roma in Serie A for free from anywhere in the world.",
@@ -789,6 +859,17 @@
     "pub_date": "2026-08-31T06:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/05gftsQlWb1gY0EkJ33cR2v/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/teachers-are-getting-more-comfortable-using-ai-but-it-isnt-helping-lower-their-workload",
+    "title": "Teachers are getting more comfortable using AI – but it isn't helping lower their workload",
+    "description": "Although most teachers use artificial intelligence, only one in three say they're able to work fewer hours amid intense workloads.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T06:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/DroFFmiArXg2SARc9KPh44-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://www.techmeme.com/260831/p4#a260831p4",
@@ -1563,7 +1644,7 @@
       "Government & Policy"
     ],
     "pub_date": "2026-08-30T15:35:10+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2291175333.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
   },
   {
@@ -2175,82 +2256,5 @@
     "pub_date": "2026-08-30T09:00:02+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/roundups/03fSqNFBQAWadaomQAoJJvF/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/scientists-create-littlest-big-bang-to-study-universe-origins/",
-    "title": "Scientists Create the Littlest Big Bang to Study the Universe's Origins",
-    "description": "The discovery redefines how large atoms need to be to produce the extreme state of matter found in the early universe.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-08-30T09:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6a91cdabbb3a85e785f50a72/master/pass/2191305242",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/life/hookup-apps-without-ai-features",
-    "title": "Hookup apps without AI features",
-    "description": "A guide to hookups apps with no AI features. Want a break from endless AI? These are the hookup apps for you.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-30T09:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00EfI5MRn1l99VEfAdSTf85/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/science/nasa-roman-space-telescope-launch-time-livestream-details",
-    "title": "Roman Space Telescope launch today: Livestream details, when to watch",
-    "description": "NASA's Nancy Grace Roman Space Telescope will launch on a SpaceX Falcon Heavy rocket. Here are ways to follow the liftoff live.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-08-30T08:24:48+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01wxcwyKBpK4oLqpmDeATAX/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/life/rei-labor-day-sale-2026",
-    "title": "Shop the REI Labor Day sale: We found late summer outdoor and camping deals",
-    "description": "The REI Labor Day sale takes 25% off outdoor and camping gear from Osprey, REI, Hoka, Big Agnes, Thule, and more.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-30T08:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05YSVgh5iTFH1hNM4AcR4Lf/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/home/smart-home/how-much-can-you-really-save-with-plug-in-solar-ive-crunched-the-numbers-next-to-my-ecoflow-stream-ultra-x-and-its-not-as-sunny-it-sounds",
-    "title": "How much can you really save with plug-in solar? I've crunched the numbers next to my EcoFlow Stream Ultra X — and it's not as sunny as it sounds",
-    "description": "With the era of Plug-in solar coming to the UK, what does this mean for those with increasing electricity bills?",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-30T08:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/UBmBPCF7Db4mL959ePtUM-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/marseille-monaco-ligue-1-2026-live-stream-for-free",
-    "title": "How to watch Marseille vs. Monaco online for free",
-    "description": "How to watch Ligue 1 for free. Live steam Marseille vs. Monaco in Ligue 1 for free from anywhere in the world.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-30T07:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00AEFnpdEqRH4BUOcGmFs83/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/how-to-watch/tv-shows/the-traitors-ireland-season-2-free",
-    "title": "How to watch The Traitors Ireland season 2 – free streams from anywhere",
-    "description": "Here's how to watch The Traitors Ireland season 2 online – and for FREE – Siobhán McSweeney hosts another set of Faithfuls and Traitors at Slane Castle.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-30T07:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/y4ep6pzXWaCLk6kMf78uud-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
