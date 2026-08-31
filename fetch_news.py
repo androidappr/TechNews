@@ -367,7 +367,7 @@ def determine_categories(entry, title, link, clean_desc, source_name, pub_date=N
                 is_recent = True
 
     breaking_kw = [
-        "breaking", "urgent", "update", "live", "alert", "flash", "latest", "leaked", "launched", "TC", "Tech", "Science", "Space", "NASA", 
+        "breaking", "urgent", "update", "live", "alert", "flash", "latest", "leaked", "launched", "TC", "Tech", "Science", "Space", "NASA", "AI"
     ]
 
     link_lower = link.lower()
