@@ -42,7 +42,8 @@ RSS_FEEDS = [
     {"name": "TechRadar", "url": "https://www.techradar.com/rss"},
     {"name": "Digital Trends", "url": "https://www.digitaltrends.com/feed/"},
     {"name": "Mashable", "url": "https://mashable.com/feeds/rss/all"},
-    {"name": "The Next Web", "url": "https://thenextweb.com/feed"}
+    {"name": "The Next Web", "url": "https://thenextweb.com/feed"},
+    {"name": "NASA", "url": "https://www.nasa.gov/news-release/feed/"}
 ]
 
 def extract_domain_name(url):
@@ -366,7 +367,7 @@ def determine_categories(entry, title, link, clean_desc, source_name, pub_date=N
                 is_recent = True
 
     breaking_kw = [
-        "breaking", "urgent", "update", "live", "alert", "flash", "latest", "leaked", "launched"
+        "breaking", "urgent", "update", "live", "alert", "flash", "latest", "leaked", "launched", "TC", "Tech", "Science", "Space", "NASA", 
     ]
 
     link_lower = link.lower()
