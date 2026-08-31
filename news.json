@@ -66,6 +66,17 @@
     "source_name": "TECHRADAR.COM"
   },
   {
+    "link": "https://www.engadget.com/2242789/why-gamecube-controller-loved-by-gamers/",
+    "title": "Why is the GameCube controller so loved by gamers?",
+    "description": "People still swear by this quirky controller, leading to Nintendo supporting it for 25 years and counting.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-08-30T23:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/why-is-the-gamecube-controller-so-loved-by-gamers/l-intro-1785440390.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.engadget.com/2246402/improve-audio-quality-apple-carplay/",
     "title": "How to improve your audio quality on Apple CarPlay",
     "description": "Apple CarPlay can sound great, but you have to make sure you're sending it high-quality audio. A few quick checks can boost your audio enjoyment on the road.",
@@ -169,7 +180,6 @@
     "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
     "description": "Cut content from Portal 2, hints of Half Life 2: Episode 3, and so much more.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-08-30T21:40:56+00:00",
@@ -259,7 +269,6 @@
     "title": "A decade's worth of Steam files totaling more than 12TB has leaked",
     "description": "The leak contains beta builds and finished games from Valve and third-party developers.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-08-30T19:16:13+00:00",
@@ -2205,18 +2214,5 @@
     "pub_date": "2026-08-29T13:00:44+00:00",
     "image_url": null,
     "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-    "title": "Nvidia’s AI advantage is moving beyond the GPU",
-    "description": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-08-29T13:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
