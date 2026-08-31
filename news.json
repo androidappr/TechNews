@@ -1,5 +1,75 @@
 [
   {
+    "link": "https://www.zdnet.com/article/gemini-ai-notebook-google-play-books-feature/",
+    "title": "Gemini Notebook can analyze your Google Play books now: 3 ways I use this feature",
+    "description": "Import a supported Google Play book, and Gemini Notebook will use it as a source of information to generate reports, quizzes, podcasts, and more.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T17:58:01+00:00",
+    "image_url": null,
+    "source_name": "ZDNET.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260831/p31#a260831p31",
+    "title": "Trump says communities that reject data centers will end up \"backwards and poor\" and that \"China could not be happier with this anti Data Center movement\" (Cheyanne M. Daniels/Politico)",
+    "description": "Cheyanne M. Daniels / Politico:\nTrump says communities that reject data centers will end up “backwards and poor” and that “China could not be happier with this anti Data Center movement”  —  President Donald Trump on Monday again championed the spread of data centers despite growing bipartisan backlash ahead of the midterms in November.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T17:55:00+00:00",
+    "image_url": "http://www.techmeme.com/260831/i31.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/social-media/instagram-will-limit-reach-for-ai-influencers-who-skip-ai-generated-label-on-their-profile/",
+    "title": "Instagram will limit reach for AI influencers who skip AI-generated label on their profile",
+    "description": "Instagram is renaming its AI creator label to AI-generated profile, and unlabeled accounts featuring fake humans will now see their reach cut.",
+    "categories": [
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-08-31T17:54:03+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/08/instagram-ai-generated-profiles.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/chatgpt-ads-1bn-run-rate-self-service-europe-dsa-vlose-designation",
+    "title": "ChatGPT Ads hits $1B annualised as the EU brings it under the Digital Services Act",
+    "description": "OpenAI says ChatGPT Ads has reached $1B in annualised revenue run rate in under 200 days and has opened self-service buying across Europe, India, the Middle East and North Africa. On the same day the European Commission designated ChatGPT a Very Large Online Search Engine under the Digital Services Act, on 159.1 million declared monthly",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-08-31T17:52:29+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/openai-kalshi-chatgpt-world-cup-prediction-markets.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/article/openai-warns-malicious-agents-coming-recommended-action/",
+    "title": "'Sophisticated' AI swarm attacks are months away, OpenAI warns: What experts say businesses must do",
+    "description": "OpenAI sounds a solemn and dire alarm, but we're woefully unprepared for what's coming.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T17:48:05+00:00",
+    "image_url": null,
+    "source_name": "ZDNET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2247806/sony-is-adding-free-tv-channels-to-ps5/",
+    "title": "Sony is adding free TV channels to PS5",
+    "description": "Ad-supported streaming channels are hitting Sony's console in the US today.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-08-31T17:47:59+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/sony-is-adding-free-tv-channels-to-ps5/l-intro-1788198290.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260831/p30#a260831p30",
     "title": "Reframe, which uses AI and industrial robot arms to make modular homes in a factory, raised a $40M Series A extension round led by Energy Impact Partners (Rocket Drew/The Information)",
     "description": "Rocket Drew / The Information:\nReframe, which uses AI and industrial robot arms to make modular homes in a factory, raised a $40M Series A extension round led by Energy Impact Partners  —  For all the talk of robots that look like humans, the next robots to move into people's houses could look more like ducks.",
@@ -1027,7 +1097,6 @@
     "description": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every major tech issue there is. For example, Meta just reached",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Government & Policy",
       "Social & Media"
     ],
@@ -1040,7 +1109,6 @@
     "title": "Garmin Cirqa review: A fine but utterly inessential smart band",
     "description": "Garmin's Cirqa band lacks the software and AI insights to make it a true Whoop rival.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-31T14:00:00+00:00",
@@ -1052,7 +1120,6 @@
     "title": "Identity and permissions aren’t enough to govern AI agent behavior",
     "description": "Presented by BoxIdentity and permissions are no longer enough to secure enterprise AI agents. They govern what an agent can reach, not how it behaves once it starts working on its own, and an autonomous agent can turn legitimate access of enterprise data into unintended action in seconds. That gap is pushing enterprise AI security from just governing access toward a layered approach that includes governing execution, says Heather Ceylan, chief information security officer at Box.\"Access controls and permissions are the foundation, but the challenge is they were designed for humans,\" Ceylan says. \"Permissions are still the foundation, but you have to think about how the agents get their permissions scoped as well.\"Access controls were built for a slower, more forgiving world, where a human employee with lingering permissions to a decade-old folder will rarely go looking for any data inside it, or even remember they have access at all. But an agent will explore all of its permissions, operating at a scale no person can match and surfacing forgotten misconfigurations and stale permissions far faster than a human ever could. Identity and scoped permissions remain the first layer of any credible defense, however, because agents raise the stakes, clean access hygiene is more valuable than ever.A steady drip of incidents in recent months underlines the potential for major damage, where models have slipped the sandboxes they were supposed to stay contained within, reached systems they weren't scoped to touch, or read content they were not permitted to access. While the specifics vary, the overarching threat remains the same: an agent found a path through the data that it could reach, and took it.Access controls alone can't secure autonomous AI agentsComplications crop up when agents are handed broad standing permissions to match broad workflows. An agent might legitimately need to call fifty tools across twenty different actions over the life of a task, reading and writing folders that span every department in the company. But granting all of that access at once inflates the blast radius of possible damage to data and content if a single step goes wrong. A stronger permissions model provides access only in the moments that it's needed, Ceylan says. \"You need permissions that change based on what the agent has been asked to do, when it needs to take that action,\" she explains. \"If it's taking one step and only needs two tools, it should be scoped to only those two. When you narrow permissions to the task in front of the agent, the number of ways any given step can misfire shrinks with it.\"From governing access to governing executionTight security is also no longer tied to whether an agent has access to specific data, but whether it should take a specific action on a specific step, which is the difference between a standing access grant and a bounded one. In other words, an agent may hold legitimate rights to a finance folder but still have no business writing four thousand of those files to a new location, even if it's told to do so. \"An employee with access to payroll data they were never meant to keep could be instructed to pull the payroll records and write them to a public shared folder, publishing the entire company's compensation in a single move,\" she says. \"Every access check passed, but the behavior still has catastrophic consequences.\"Prompts alone can’t reliably govern agent behavior because instructions can change, agents can absorb injected instructions, or they can be steered by files they read along the way. Durable controls need to live one level down, with the tool calls themselves, as well as the content those calls act on. Deciding in advance what an agent is permitted to execute, regardless of how its prompt is manipulated, keeps behavior inside fixed bounds that no clever input can talk it out of.Legacy content platforms weren't built for AI agentsMost of what an agent touches inside a company is unstructured content, including contract, policies, customer records — the accumulated files that make up the overwhelming majority of corporate data. Much of it still sits in systems that were designed for human filing habits: network drives, aging ECM platforms, and many SaaS tools. Those systems were built to ask the question, does this person have permission? and they answer it with folder-level access that hasn't been audited for years. The legacy platforms don't have metadata for an agent to reason over or classification for an enforcement layer to act on, and their logs aren't detailed enough to show what an agent read. Bolting an AI connector onto that stack doesn't fix any of it, it just hands agents the same blind spots, only at machine speeds, Ceylan says. \"Every agent action eventually resolves to content,\" Ceylan says. \"If the content layer can't tell you what it's holding, who it belongs to, and what should never leave it, there's nothing underneath your controls.\"How to decide which AI actions need human approvalTwo years ago, everyone assumed security would always mean including humans in the loop. Building and living with agents has changed that assumption, Ceylan says, and Box now sorts actions into three tiers: fully autonomous actions, monitored actions and high-risk actions that require human approval.Fully autonomous, reserved for actions that are reversible, bounded, logged, and free of untrusted input, and where a mistake doesn't cost too much. Monitored actions, once a team has built enough confidence in an agent and paired it with alerting and rollback that can catch and undo a problem in flight. Irreversible, high-risk actions that are always routed through a person — for instance, when an agent that wants to delete a large number of files or wipe the primary folder in a structure. Each team must calibrate the lines between these layers to match its own risk tolerance. Box’s approach is to put controls in the platform rather than the workflow, enforcing protections such as data classification, labeling and expiration without requiring a human checkpoint for every action.\"The right configuration should be enforced at the outset, instead of blocking an action at the end,\" Ceylan says.Building trust in AI agents through behavior over timeAn organization can make an access decision once, but trusting an agent's behavior should only happen over time, observing how the agent runs, collaborates, and builds on the outputs of other agents. Published frameworks tend to lag the technology, or are too abstract to implement; instead Box works from a smaller set of principles: tightly scoped agent identities and actions, clear expectations about what can be rolled back, three approval tiers, and a way for teams to test and iterate quickly. \"The sanctioned path has to be the fast path, because when teams aren't given a safe way to experiment, they tend to route around the controls entirely,\" Ceylan says. \"A security leader's job is to offer a way to move quickly without stepping outside the guardrails.\"Sustaining trust in an agent depends on being able to see how it actually behaves. But traditional monitoring tools weren’t built for the job; the behavioral baselines that underpin user and entity behavior analytics were calibrated to human activity, and suspicious agent behavior doesn’t necessarily look like human activity.And while establishing a useful agent baseline begins with logging, many agents start out as experiments, so their actions never make it into logging infrastructure. Plus, important signals are rarely individual easily flagged actions, but chains of activities across systems, as one agent's output becomes another's input, while the detections for that pattern are still being designed. Governing agents, then, requires visibility not just into what they can access, but what they actually do, and that visibility has to live where the content does.Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-08-31T14:00:00+00:00",
@@ -1226,6 +1293,7 @@
     "description": "Google will start policing how much memory Android apps use, and it says the reason is the global shortage of RAM. From February 2027, an app that exceeds the new limits risks two penalties. Android can slow it down or shut it. The Play Store can bury it. The company published the requirements this week",
     "categories": [
       "AI & Machine Learning",
+      "Breaking News",
       "Gadgets & Hardware",
       "Mobile & Telecom",
       "Software & Apps"
@@ -2241,73 +2309,5 @@
     "pub_date": "2026-08-31T04:05:00+00:00",
     "image_url": "https://commons.wikimedia.org/wiki/File:Map_of_Florida_Regions_with_Cities.svg",
     "source_name": "SCIENCE.NASA.GOV"
-  },
-  {
-    "link": "https://mashable.com/entertainment/hurdle-hints-answers-august-31-2026",
-    "title": "Hurdle hints and answers for August 31, 2026",
-    "description": "Hints and answers to today's Hurdle all in one place.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-31T04:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/011TmfEC8XWNbn3bwzZ96io/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/science/moon-phase-today-aug-31-2026",
-    "title": "Moon phase today: What the Moon will look like on August 31",
-    "description": "See the Moon phase expected for August 31, 2026 as well as when the next Full Moon is expected.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-08-31T04:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05ZspWPlu3O458pMQTt0QEO/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260830/p15#a260830p15",
-    "title": "Taiwanese authorities raided the office of PCB maker Unimicron, an Nvidia and Intel supplier, alleging it illegally labeled China-made parts as made in Taiwan (Cheng Ting-Fang/Nikkei Asia)",
-    "description": "Cheng Ting-Fang / Nikkei Asia:\nTaiwanese authorities raided the office of PCB maker Unimicron, an Nvidia and Intel supplier, alleging it illegally labeled China-made parts as made in Taiwan  —  TAIPEI — Taiwanese prosecutors said they are investigating Unimicron, a key supplier to Nvidia and Intel, over allegations …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-31T03:35:05+00:00",
-    "image_url": "http://www.techmeme.com/260830/i15.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/cars/a-solar-ambulance-has-successfully-tackled-500-miles-of-difficult-terrain/",
-    "title": "A solar ambulance has successfully tackled 500 miles of difficult terrain",
-    "description": "A solar-powered ambulance developed by Solar Team Eindhoven has completed an 800-kilometer Kenya test, proving it can travel to remote clinics and power medical equipment.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-31T03:00:00+00:00",
-    "image_url": "https://www.digitaltrends.com/tachyon/2026/08/DT-2026-08-31T021210.377.jpg?resize=440%2C292",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-    "title": "The US is building barriers around drones and robots, but China has scale to get around them",
-    "description": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
-    "categories": [
-      "AI & Machine Learning",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-08-31T02:34:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
-    "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
-    "description": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and long-distance matchmaking are turning Grindr into the \"gayborhood in your pocket\" he's been promising since 2022.",
-    "categories": [
-      "Business & Startups",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-08-31T02:18:57+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
