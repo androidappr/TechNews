@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.digitaltrends.com/phones/huaweis-new-galaxy-z-trifold-rival-folds-twice-packs-2tb-and-looks-stunning-in-purple/",
+    "title": "Huawei’s new Galaxy Z TriFold rival folds twice, packs 2TB, and looks stunning in purple",
+    "description": "Huawei’s next tri-fold protects its huge flexible display with a new inward-folding design while adding 2TB storage, stylus support, privacy-screen options, and three lavish finishes",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T08:53:49+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/08/Huawei-Mate-XT-2-Ultimate-Design.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/nhs-ai-scribes-errors-healthwatch-mhra",
+    "title": "AI scribes are getting drug names and diagnoses wrong in NHS records",
+    "description": "A patient in England was told they had demyelination, the nerve damage that underlies conditions including multiple sclerosis. The test result had actually read “null demyelination”, and an AI scribe had dropped the word that reversed the meaning. That case appears in a warning from Healthwatch England, the statutory patient watchdog, reported by the Guardian today.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-08-31T08:43:48+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/NHS-logo.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/meta-anthropic-10bn-spending-projection",
     "title": "Meta projected spending up to $10bn a year on Anthropic’s AI models",
     "description": "Meta has become one of Anthropic’s largest customers, at the same time as Mark Zuckerberg has been attacking the company in public. At one point this year Meta internally projected that it could spend as much as $10bn a year on Anthropic’s models, The New York Times reported, citing two people who declined to be",
@@ -1238,7 +1261,7 @@
   },
   {
     "link": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit",
-    "title": "Chess.com launched a poker site and is planning even more classic games",
+    "title": "Chess.com launched a poker site, and it’s planning even more classic games",
     "description": "Chess.com has done one thing, and one thing very well, for almost 20 years, but now it's going beyond its domain name. The biggest name in online chess quietly launched its first companion site in beta back in May: Gambit, a free online poker website where players can learn the game without risking any real",
     "categories": [
       "Gaming"
@@ -2211,27 +2234,5 @@
     "pub_date": "2026-08-29T17:30:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/whats-the-difference-between-tpu-vs-gpu/l-intro-1787582646.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/nvidia-wants-to-set-up-an-employee-funded-political-action-committee-to-shape-us-policy-in-its-favor",
-    "title": "Nvidia looks to set up an employee-funded political action committee to try and shape US policy in its favor",
-    "description": "Nvidia believes NVPAC could help it shape US policy - but to what ends?",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-29T17:25:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/rR3zuBMSKgRpoWgXYsh5U-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/phones/hisense-made-a-phone-with-a-second-screen-you-can-literally-take-off/",
-    "title": "Hisense made a phone with a second screen you can literally take off",
-    "description": "Hisense’s A10 Ultra combines a conventional color display with a removable E Ink screen, giving users a phone and dedicated reading display in one unusual device.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-08-29T17:17:45+00:00",
-    "image_url": "https://www.digitaltrends.com/tachyon/2026/08/DT-2026-08-29T224056.022.jpg?resize=440%2C292",
-    "source_name": "DIGITALTRENDS.COM"
   }
 ]
