@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://www.zdnet.com/article/android-17-web-browsing-security-privacy-features-update/",
+    "title": "How Android 17 stops network snoops and SMS blasters now - with ECH and a 2G kill switch",
+    "description": "The latest Android 17 update adds broad support for Encrypted Client Hello, among other changes. Here's how they work.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T13:13:52+00:00",
+    "image_url": null,
+    "source_name": "ZDNET.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260831/p16#a260831p16",
+    "title": "OpenAI says its advertising business has hit $1B in annualized revenue run rate, touting its \"diversified business model\" ahead of an expected IPO (Ashley Capoot/CNBC)",
+    "description": "Ashley Capoot / CNBC:\nOpenAI says its advertising business has hit $1B in annualized revenue run rate, touting its “diversified business model” ahead of an expected IPO  —  OpenAI on Monday announced that its advertising business has hit $1 billion in annualized revenue run rate …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T13:12:08+00:00",
+    "image_url": "http://www.techmeme.com/260831/i16.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/meta-project-ot-ai-native-layoffs-cancelled",
+    "title": "Meta planned to cut some teams by 60% and replace the work with AI",
+    "description": "Meta spent the first half of this year planning to replace much of the work its employees do with AI agents, then abandoned the most aggressive part of the plan when the technology did not deliver. Meta code-named the scheme Project OT, short for Organization Transformation. It explored cutting the size of many teams by",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Social & Media"
+    ],
+    "pub_date": "2026-08-31T13:07:05+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/meta-stock-best-week-ai-cloud-compute.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/the-goal-here-is-to-give-fans-more-of-what-they-want-quickly-globant-tells-us-how-it-is-helping-fifa-keep-fans-around-the-world-glued-to-the-beautiful-game",
+    "title": "'The goal here is to give fans more of what they want, quickly': Globant tells us how it is helping FIFA keep fans around the world glued to the beautiful game",
+    "description": "FIFA aims to launch a \"joined-up experience \" for fans everywhere",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T13:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/QnGsBLoE5AuxmbpJLJ5xT7-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/apple-september-event-iphone-18",
+    "title": "The surprises we expect and want from Apple’s surprise and shine event",
+    "description": "Here's what to expect from Apple's September 9 event, including new iPhones, a possible foldable, smartwatches and more.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T13:02:20+00:00",
+    "image_url": "https://cdn.ex.co/transformations-account/production/a0be6317-e085-43f9-8cb5-7b125d25af4b/cd1a5fe6-f674-56e3-a966-28886dde4ccb/master.m3u8",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
     "title": "Instagram cracks down on AI accounts pretending to be human",
     "description": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it clear when a profile features an AI-generated person that's not a real human being. \"We've heard that people don't like seeing a profile",
@@ -11,6 +71,32 @@
     "pub_date": "2026-08-31T13:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/vege-ai-influencer.png?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2243532/how-to-turn-iphone-into-bluetooth-controller/",
+    "title": "How to turn your iPhone into a Bluetooth controller",
+    "description": "If your PC gaming controller is broken or you need an extra for a friend, there's a simple solution for iPhone users.",
+    "categories": [
+      "Gadgets & Hardware",
+      "Gaming",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-08-31T13:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-to-turn-your-iphone-into-a-bluetooth-controller/l-intro-1787662234.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2246914/instagram-will-demote-ai-generated-influencers-if-they-dont-clearly-label-their-account/",
+    "title": "Instagram will demote AI-generated influencers if they don't clearly label their account",
+    "description": "The app isn't cracking down on other kinds of AI slop, though.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-08-31T13:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/instagram-will-demote-ai-generated-influencers-if-they-dont-clearly-label-their-account/l-intro-1787977858.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.techradar.com/pro/its-35-years-since-linus-torvalds-first-revealed-linux-calling-it-just-a-hobby-how-wrong-he-was",
@@ -117,6 +203,17 @@
     "pub_date": "2026-08-31T12:30:58+00:00",
     "image_url": "https://cdn.ex.co/transformations-account/production/a0be6317-e085-43f9-8cb5-7b125d25af4b/dbcd7137-67cf-5254-940d-eccc0cbdb303/master.m3u8",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2240359/how-to-use-call-screening-feature-while-using-android-auto/",
+    "title": "This feature keeps distracting spam calls away while using Android Auto",
+    "description": "If you use Android Auto, you might be interested to know that there's a feature available on some phones that helps keep phone calls minimal while you drive.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-08-31T12:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/this-feature-keeps-distracting-spam-calls-away-while-using-android-auto/l-intro-1787169565.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.techmeme.com/260831/p14#a260831p14",
@@ -590,7 +687,6 @@
     "title": "The AI layoff narrative is missing the real story",
     "description": "Fintech blames AI for layoffs, but the real story is cost-cutting, weak returns, and unproven innovation.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-31T09:12:19+00:00",
@@ -602,8 +698,7 @@
     "title": "Europe has ordered a €388M AI supercomputer from its own state-owned champion",
     "description": "Europe is buying another AI supercomputer, and this one is headed to Kajaani in northern Finland. LUMI-AI is a €387.8 million system, roughly $449 million, that will be built by Bull, the French supercomputer maker that the French state bought outright five months ago. The order is the sixth AI Factory procurement contract signed by",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-08-31T09:12:18+00:00",
     "image_url": "https://media.thenextweb.com/2026/08/LUMI-AI-data-center.avif",
@@ -771,17 +866,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techradar.com/health-fitness/oral-health/suri-core-10-review",
-    "title": "Suri Core 1.0 review: Finally, an affordable toothbrush with some sustainable credentials",
-    "description": "The Suri Core 1.0 is a great no-frills sonic option, with free recycling of used heads.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-31T08:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Mt6YoaQuAkBtgkU3syUiGZ-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://mashable.com/entertainment/atalanta-bologna-serie-a-2026-live-stream-for-free",
     "title": "How to watch Atalanta vs. Bologna online for free",
     "description": "How to watch Serie A for free. Live stream Atalanta vs. Bologna in Serie A for free from anywhere in the world.",
@@ -792,6 +876,17 @@
     "pub_date": "2026-08-31T08:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/021070bcQxUUrbtARAz7etg/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/health-fitness/oral-health/suri-core-10-review",
+    "title": "Suri Core 1.0 review: Finally, an affordable toothbrush with some sustainable credentials",
+    "description": "The Suri Core 1.0 is a great no-frills sonic option, with free recycling of used heads.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T08:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Mt6YoaQuAkBtgkU3syUiGZ-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://www.digitaltrends.com/cool-tech/uk-health-advocates-warn-ai-transcription-tools-could-put-patients-at-risk/",
@@ -809,7 +904,6 @@
     "title": "Google Maps has another “America” on the map, and Canadians aren’t amused",
     "description": "Google Maps now calls Lake Ontario “Lake America” for U.S. users, repeating the regional naming approach it used for the Gulf of Mexico last year.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-31T07:15:21+00:00",
@@ -2167,94 +2261,5 @@
     "pub_date": "2026-08-30T10:25:00+00:00",
     "image_url": "http://www.techmeme.com/260830/i5.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.wired.com/gallery/the-best-label-makers-for-an-organized-home/",
-    "title": "The Best Label Makers (2026): Brother, Niimbot, Dymo",
-    "description": "Experience the oddly satisfying joy of labeling bins, drawers, and more with the best Bluetooth and traditional label makers.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-30T10:03:00+00:00",
-    "image_url": "https://media.wired.com/photos/6a92449dd4d21b6cfa34c3e7/master/pass/The-Best-Label-Makers-for-an-Organized-Home.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/how-to-escape-from-group-chat-hell/",
-    "title": "How to Escape Group Chat Hell",
-    "description": "Young adults are in more group chats than ever—sometimes more than 20 at a time. Here’s how to tame the chat madness.",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-08-30T10:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6a921f44cd8b286be7911fec/master/pass/How-to-Escape-from-Group-Chat-Hell-Gear.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techradar.com/cameras/mirrorless-cameras/why-the-first-chinese-mirrorless-camera-will-completely-disrupt-the-market-and-why-thats-a-good-thing",
-    "title": "Why the first Chinese mirrorless cameras will massively disrupt the market — and why that's a good thing",
-    "description": "Want one of the best mirrorless cameras? Chances are it'll come from Japan. But a new superpower is rising up in the camera industry.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-30T10:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/iUwzMGgbSoKtqBVknakHqd-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/home/small-appliances/terra-kaffe-aero-review",
-    "title": "The Terra Kaffe Aero froths any milk, hot or cold, and makes matcha at the touch of a button",
-    "description": "The Terra Kaffe Aero froths dairy milk, plant-based milk, matcha, and more with the touch of a button. Four options include hot froth, hot milk, cold foam, and a dedicated matcha setting.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-30T10:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/YMwstaZDz47dpkpbcShcPT-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/how-to-watch/tennis/us-open-2026-free-live-streams-flushing-meadows",
-    "title": "How to watch US Open 2026 for FREE: Live Streams, TV Channels & Schedule for final Grand Slam",
-    "description": "All the ways to watch US Open 2026 live streams – including for FREE – with Berrettini vs Wawrinka headlining the Round 1 action at Flushing Meadows.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-30T10:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/BRSg2naNovcURuUxPKq7g7-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/sony-warner-chappell-anthropic-lyrics-lawsuit-gema-munich-tdm",
-    "title": "Sony Music and Warner Chappell sue Anthropic over song lyrics in Claude’s training data",
-    "description": "Sony Music Publishing and Warner Chappell have sued Anthropic in California over song lyrics allegedly taken from pirate archives, naming Dario Amodei and Benjamin Mann personally and seeking up to $150,000 per composition. A Munich court ruled in November 2025 that memorising lyrics inside a model is reproduction and that the text and data mining",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-08-30T09:33:23+00:00",
-    "image_url": "https://media.thenextweb.com/2026/06/anthropic-mythos-eu-enisa-cybersecurity-access.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/article/favorite-lego-sets-2026",
-    "title": "Our 17 favorite Lego sets, sourced from actual Lego fans",
-    "description": "Looking for a new Lego set for adults, kids, or adults who still feel like kids? Let our favorite building kits from actual Lego enthusiasts guide the way.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-30T09:00:25+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01dt0sm5QYnm0Bda4P5ECWj/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/roundup/best-camping-portable-power-stations",
-    "title": "The 6 best power stations for camping keep you both online and off-grid",
-    "description": "The best power stations for camping come from Jackery, Anker, Goal Zero, and EcoFlow.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-30T09:00:02+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/roundups/03fSqNFBQAWadaomQAoJJvF/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
