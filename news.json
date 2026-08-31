@@ -1,5 +1,34 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+    "title": "ChatGPT to face tougher regulation in the EU",
+    "description": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws regulating major online services and",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-08-31T13:27:36+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/google-android-app-memory-limits-play-store",
+    "title": "Google will limit how much memory Android apps can use from February 2027",
+    "description": "Google will start policing how much memory Android apps use, and it says the reason is the global shortage of RAM. From February 2027, an app that exceeds the new limits risks two penalties. Android can slow it down or shut it. The Play Store can bury it. The company published the requirements this week",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Mobile & Telecom",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-08-31T13:18:36+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/google-assistant-shutdown-september-4-gemini-replacement.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.zdnet.com/article/android-17-web-browsing-security-privacy-features-update/",
     "title": "How Android 17 stops network snoops and SMS blasters now - with ECH and a 2G kill switch",
     "description": "The latest Android 17 update adds broad support for Encrypted Client Hello, among other changes. Here's how they work.",
@@ -13,8 +42,8 @@
   },
   {
     "link": "https://www.techmeme.com/260831/p16#a260831p16",
-    "title": "OpenAI says its advertising business has hit $1B in annualized revenue run rate, touting its \"diversified business model\" ahead of an expected IPO (Ashley Capoot/CNBC)",
-    "description": "Ashley Capoot / CNBC:\nOpenAI says its advertising business has hit $1B in annualized revenue run rate, touting its “diversified business model” ahead of an expected IPO  —  OpenAI on Monday announced that its advertising business has hit $1 billion in annualized revenue run rate …",
+    "title": "OpenAI says its ad business has hit $1B in annualized revenue run rate and is expanding globally, as it touts its \"diversified business model\" ahead of an IPO (Ashley Capoot/CNBC)",
+    "description": "Ashley Capoot / CNBC:\nOpenAI says its ad business has hit $1B in annualized revenue run rate and is expanding globally, as it touts its “diversified business model” ahead of an IPO  —  OpenAI on Monday announced that its advertising business has hit $1 billion in annualized revenue run rate …",
     "categories": [
       "Tech News"
     ],
@@ -2238,28 +2267,5 @@
     "pub_date": "2026-08-30T10:30:00+00:00",
     "image_url": "https://media.wired.com/photos/6a8f1c5ba84e455f12fd962b/master/pass/NoScreenWearable.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/bill-gates-robot-tax-again-european-parliament-2017-vote",
-    "title": "How Bill Gates uses AI, and why he thinks nobody is preparing for it",
-    "description": "Bill Gates has published a memo proposing a tax on AI, a category of jobs reserved for humans and new institutions to manage the transition, and told GeekWire that industry leaders are worried privately while staying quiet publicly. He proposed a robot tax in February 2017, the same month the European Parliament adopted robotics rules",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-08-30T10:25:17+00:00",
-    "image_url": "https://media.thenextweb.com/2026/08/bill-gates-robot-tax-again-european-parliament-2017-vote.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260830/p5#a260830p5",
-    "title": "The OpenAI/Hugging Face incident feels like we are halfway to losing control of AI entirely, and as AI advances rapidly we may not get another warning shot (Ajeya Cotra/Planned Obsolescence)",
-    "description": "Ajeya Cotra / Planned Obsolescence:\nThe OpenAI/Hugging Face incident feels like we are halfway to losing control of AI entirely, and as AI advances rapidly we may not get another warning shot  —  It's a major warning shot, and might be the last one we get  —  All opinions are my personal view, and don't represent my employer or fellow investigators.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-30T10:25:00+00:00",
-    "image_url": "http://www.techmeme.com/260830/i5.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
