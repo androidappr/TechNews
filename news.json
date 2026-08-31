@@ -1,5 +1,27 @@
 [
   {
+    "link": "https://www.engadget.com/2246412/starlink-mini-x-comes-with-extra-router-do-you-need-it/",
+    "title": "The Starlink Mini X kit comes with an extra router, but do you really need it?",
+    "description": "Starlink's extra router can be useful, but getting your main satellite dish positioned properly is more important.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T23:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/the-starlink-mini-x-kit-comes-with-an-extra-router-but-do-you-really-need-it/l-intro-1787581748.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/home-theater/researchers-built-an-ultrasound-based-speaker-that-can-direct-music-and-speech-at-one-listener/",
+    "title": "Next-gen speaker technology beams music and speech to one listener without bothering anyone nearby",
+    "description": "POSTECH researchers developed an ultrasound-based speaker that directs music and speech toward one listener while keeping sound from spreading widely around them.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T22:42:29+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/08/MiPAL-Personal-audio-delivery.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.engadget.com/2248199/apple-adds-more-allegations-to-its-trade-secrets-lawsuit-against-openai/",
     "title": "Apple adds more allegations to its trade secrets lawsuit against OpenAI",
     "description": "It claims a laptop proves that a former employee accessed and used proprietary files for the AI company.",
@@ -442,7 +464,7 @@
       "Breaking News"
     ],
     "pub_date": "2026-08-31T20:07:27+00:00",
-    "image_url": "https://www.digitaltrends.com/tachyon/2025/12/ai-apps.jpg?resize=440%2C292",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/08/ai-chatbots.jpg?resize=440%2C292",
     "source_name": "DIGITALTRENDS.COM"
   },
   {
@@ -665,7 +687,6 @@
     "title": "The 10 most popular products ZDNET readers bought this month (including lots of phone cases)",
     "description": "From phone cases to antivirus software, these are the top tech gadgets and useful items our readers actually purchased in August.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-31T18:59:19+00:00",
@@ -735,7 +756,6 @@
     "title": "iPhone Ultra release timing: Here’s what the latest reporting says",
     "description": "Apple will unveil its foldable iPhone Ultra next week at the September event, but it’s unclear exactly when the new model will ship to users. Here’s what to expect per the latest reporting.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-31T18:55:25+00:00",
@@ -758,7 +778,6 @@
     "title": "Software engineers' new job isn't writing code — it's designing the boundaries AI agents can't break",
     "description": "If you look at the commit histories of modern data platforms, something profound has shifted over the last two years. The friction of writing syntax has collapsed. With Cursor, Claude Code, and agentic workflows now living inside our Docker containers and IDEs, generating the first implementation of a distributed streaming pipeline or a complex API integration is no longer the central bottleneck.Agents can navigate repositories, write test coverage, inspect stack traces, and propose refactors. Describe a Kafka-to-Iceberg sink mapping in plain English, and an agent can produce a credible starting point before the engineer has opened every relevant file.That changes the question for software engineers.If the agent is becoming the primary author of local system logic, what exactly is left for the engineer to do? Are we headed toward an industry of reviewers rubber-stamping an endless stream of plausible pull requests? Or has the work shifted away from constructing logic and toward something more abstract?To answer that, it helps to borrow a lens from thermodynamics, which gives us a language for directed work, feedback, loss, and the boundaries that keep a complex system coherent.The agent as a heat engineWhen we strip away the anthropomorphic illusion of AI, what remains is a computational engine. It takes direction and turns it into action.An LLM sitting in a data center has immense capacity, but it does no useful work until it is given intent. A prompt, a business requirement, a system instruction, or a failing test gives the agent a direction. It turns that direction into code, tool calls, queries, tests, and changes to a running system.Every engine has losses. Every agent loop does, too.Anyone who has left an agent running against a difficult repository has seen this. It starts with a clear task. Then it follows a stale assumption, fixes a symptom rather than a cause, treats an old migration as current behavior, and begins to accumulate its own history. A few tool calls later, the context contains enough plausible but conflicting detail that the next step is less certain than the first.Call this operational entropy: the buildup of stale assumptions, branching context, and unresolved dependencies inside a loop that is still trying to move forward.A human interruption helps because it introduces new information. So does a failing test, a precise data contract, a deterministic tool, or an evaluation that tells the agent exactly what it got wrong. Without that signal, an agent can keep generating output while drifting further from a correct outcome.Agents clearly generate motion. The real question is whether the system around them turns that motion into useful work.The infinite monkey and the accelerating search spaceThe infinite monkey theorem gives us a useful picture of what follows: repeated attempts, finite constraints, and feedback.The theorem says that a monkey hitting keys at random for an infinite amount of time will almost surely type the complete works of Shakespeare. Modern agents are much smarter monkeys. They have compilers, tools, repositories, test suites, and feedback loops. Their work is not random — the feedback steers the next attempt — but the dynamic is familiar: propose, execute, observe, correct, and try again.In a bounded task, that loop is remarkably effective.Give an agent a known input schema, a known target schema, a small codebase, and tests that catch the relevant failures. It can inspect the code, make a change, run the tests, absorb the result, and try again. The definition of done is visible. The search space is narrow. The loop has a chance to converge.But enterprise systems rarely offer that kind of stillness. A real-time pricing engine may depend on mutable operational state, third-party APIs, late-arriving events, regional policy, and business rules that exist partly in code and partly in someone’s head. A data lakehouse can be physically consistent and semantically wrong. A pipeline can pass its tests and still produce numbers that finance does not recognize.The environment is changing while the monkey is typing.The three-body problem of enterprise logicThis is why the three-body problem is such a useful image for enterprise software.With two bodies — a planet and a star — you can predict the motion with a clean mathematical description. Add a third body and the problem becomes much harder to solve. There is no general closed-form solution, and some configurations exhibit chaotic behavior. Small changes in one place can produce very different trajectories elsewhere.Modern data platforms have the same shape. Clickstream data changes with product behavior. Operational databases mutate under customer activity. APIs impose rate limits and change versions. Schemas evolve. Security policies shift. Legacy systems carry rules that no one has written down because they have been buried in exception handling for years.Each system exerts pressure on the others. A change in one place alters the meaning or behavior of another. What begins as a local feature request starts to pull on the entire system.Consider a hypothetical: an agent is asked to add a customer_tier field to a revenue model. It finds a field called status in the operational database, maps it into the transformation, and passes the existing type and nullability tests. The code is clean. The pipeline is green. The answer is still wrong.A semantic data contract says that customer_tier is derived from trailing twelve-month spend, has an assigned business owner, and cannot be populated from account status. The contract rejects the change before it reaches the dashboard. The engineer's contribution wasn't the transformation — it was the boundary that made the agent's mistake visible, specific, and recoverable.The new mandate: Designing equilibriumThe software engineer’s job is no longer to write every piece of micro-logic. Agents will increasingly do that work, often faster. The new mandate — designing equilibrium — is to create the conditions in which generated logic can be trusted.When a business requirement changes faster than an agent can absorb feedback, the engineer has to build containment fields. Strict semantic layers, immutable event logs, data contracts, idempotent APIs, and deterministic state machines are not just good platform hygiene. They reduce the number of assumptions an agent has to make at once.They turn a coupled problem into a bounded domain with clear inputs, explicit rules, and reliable feedback.Once that domain exists, the agent becomes genuinely powerful. It can write the transformation, execute the tests, repair the failures, and ship the change without needing to infer the unwritten history behind every table and service.The value of software engineering doesn't disappear as code generation gets cheaper — it becomes more visible, which is the shift that actually matters.Autonomous systems will increasingly generate software. But the contracts, feedback loops, and boundaries that determine whether that software succeeds or spirals into chaos will still be designed by software engineers.Ananth Packkildurai is a data engineering leader, writer, and author of Data Engineering Weekly, sharing insights on modern data platforms, large-scale pipelines, and AI-driven architectures.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-31T18:52:19+00:00",
@@ -1308,7 +1327,6 @@
     "title": "Phil Schiller is leaving his biggest jobs at Apple",
     "description": "Longtime Apple executive Phil Schiller is stepping down from his role as the head of the App Store and Apple events, according to a report from Bloomberg. Following the change, Schiller will keep his Apple Fellow title and continue \"working on unspecified initiatives,\" Bloomberg reports. Schiller initially joined Apple in 1987 and became the company's",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware",
       "Software & Apps"
     ],
@@ -1321,7 +1339,6 @@
     "title": "Phil Schiller steps down from leading the App Store and Apple events",
     "description": "Phil Schiller is stepping down from his role leading the App Store and Apple events, according to a new Bloomberg report. The move is the latest progression of Schiller’s tenure at Apple, which spans multiple decades.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-31T16:54:07+00:00",
@@ -1355,7 +1372,6 @@
     "title": "The best early Labor Day Costco deals 2026: TVs, smartwatches, Apple devices, and more",
     "description": "Summer may be ending, but Costco deals are heating up in time for Labor Day: Save big on electronics, home essentials, and more now.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-31T16:48:00+00:00",
@@ -1367,7 +1383,6 @@
     "title": "Live Labor Day deals: We found the best discounts on TVs, robot lawn mowers, and Apple iPads to shop before the long weekend",
     "description": "Labor Day deals from top brands like Apple, Ninja, TCL, Ruggable, Bose, and more are already live",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-31T16:46:51+00:00",
@@ -1379,7 +1394,6 @@
     "title": "The best early Labor Day deals to shop now: Save on TVs, Apple devices, and more",
     "description": "Labor Day is just around the corner, and there are already some great deals available at Amazon, Best Buy, Walmart, and more.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-31T16:46:03+00:00",
@@ -2270,33 +2284,6 @@
     ],
     "pub_date": "2026-08-31T13:28:08+00:00",
     "image_url": "https://media.thenextweb.com/2026/08/Alphabet-company.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-    "title": "ChatGPT to face tougher regulation in the EU",
-    "description": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws regulating major online services and",
-    "categories": [
-      "AI & Machine Learning",
-      "Government & Policy",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-08-31T13:27:36+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/google-android-app-memory-limits-play-store",
-    "title": "Google will limit how much memory Android apps can use from February 2027",
-    "description": "Google will start policing how much memory Android apps use, and it says the reason is the global shortage of RAM. From February 2027, an app that exceeds the new limits risks two penalties. Android can slow it down or shut it. The Play Store can bury it. The company published the requirements this week",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware",
-      "Mobile & Telecom",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-08-31T13:18:36+00:00",
-    "image_url": "https://media.thenextweb.com/2026/08/google-assistant-shutdown-september-4-gemini-replacement.avif",
     "source_name": "THENEXTWEB.COM"
   }
 ]
