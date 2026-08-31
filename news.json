@@ -1,5 +1,18 @@
 [
   {
+    "link": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
+    "title": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
+    "description": "The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-08-31T19:02:06+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://www.zdnet.com/article/most-popular-products-zdnet-readers-bought-last-month-2026/",
     "title": "The 10 most popular products ZDNET readers bought this month (including lots of phone cases)",
     "description": "From phone cases to antivirus software, these are the top tech gadgets and useful items our readers actually purchased in August.",
@@ -33,6 +46,18 @@
     "pub_date": "2026-08-31T18:57:39+00:00",
     "image_url": null,
     "source_name": "ZDNET.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/trump-ai-data-centers-epa",
+    "title": "Trump blasts data center critics: Backwards and poor",
+    "description": "Trump is still gunning for mass data center advancement despite backlash from politicians and citizens.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T18:57:25+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01VU4epeK2ZxlNF1xpAkMs7/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.zdnet.com/article/garmin-forerunner-170-vs-coros-pace-4/",
@@ -156,8 +181,8 @@
   },
   {
     "link": "https://www.techmeme.com/260831/p33#a260831p33",
-    "title": "Sources: the FTC and 20+ state AGs plan to sue Amazon for allegedly making tens of billions over seven years by manipulating ad prices on its retail platform (Dave Michaels/Wall Street Journal)",
-    "description": "Dave Michaels / Wall Street Journal:\nSources: the FTC and 20+ state AGs plan to sue Amazon for allegedly making tens of billions over seven years by manipulating ad prices on its retail platform  —  Commission and more than 20 states to allege e-commerce giant reaped billions by manipulating ad prices on its retail platform",
+    "title": "The FTC and 20+ state AGs plan to sue Amazon for allegedly making tens of billions over seven years by manipulating ad prices on its retail platform (Dave Michaels/Wall Street Journal)",
+    "description": "Dave Michaels / Wall Street Journal:\nThe FTC and 20+ state AGs plan to sue Amazon for allegedly making tens of billions over seven years by manipulating ad prices on its retail platform  —  Commission and more than 20 states to allege e-commerce giant reaped billions by manipulating ad prices on its retail platform",
     "categories": [
       "Tech News"
     ],
@@ -319,6 +344,7 @@
     "title": "Trump says communities that reject data centers will end up \"backwards and poor\" and that \"China could not be happier with this anti Data Center movement\" (Cheyanne M. Daniels/Politico)",
     "description": "Cheyanne M. Daniels / Politico:\nTrump says communities that reject data centers will end up “backwards and poor” and that “China could not be happier with this anti Data Center movement”  —  President Donald Trump on Monday again championed the spread of data centers despite growing bipartisan backlash ahead of the midterms in November.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-31T17:55:00+00:00",
@@ -1152,7 +1178,6 @@
     "description": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware"
     ],
@@ -1177,7 +1202,6 @@
     "title": "Together AI, which serves open models, announces a deal to use compute from Humain in Saudi Arabia, where it can bypass US backlash over data centers (Niko Gallogly/New York Times)",
     "description": "Niko Gallogly / New York Times:\nTogether AI, which serves open models, announces a deal to use compute from Humain in Saudi Arabia, where it can bypass US backlash over data centers  —  Together AI, which serves open-source artificial intelligence models, announced a deal to use compute from Humain in Saudi Arabia, where it can bypass U.S. backlash over data centers.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-31T15:10:01+00:00",
@@ -2294,28 +2318,6 @@
     ],
     "pub_date": "2026-08-31T09:26:12+00:00",
     "image_url": "https://media.thenextweb.com/2026/08/Julia-Brau-Donnelly-CFO-Pinterest.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/the-ai-layoff-narrative-is-missing-the-real-story",
-    "title": "The AI layoff narrative is missing the real story",
-    "description": "Fintech blames AI for layoffs, but the real story is cost-cutting, weak returns, and unproven innovation.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-31T09:12:19+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/lumi-ai-supercomputer-bull-finland-eurohpc",
-    "title": "Europe has ordered a €388M AI supercomputer from its own state-owned champion",
-    "description": "Europe is buying another AI supercomputer, and this one is headed to Kajaani in northern Finland. LUMI-AI is a €387.8 million system, roughly $449 million, that will be built by Bull, the French supercomputer maker that the French state bought outright five months ago. The order is the sixth AI Factory procurement contract signed by",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-08-31T09:12:18+00:00",
-    "image_url": "https://media.thenextweb.com/2026/08/LUMI-AI-data-center.avif",
     "source_name": "THENEXTWEB.COM"
   }
 ]
