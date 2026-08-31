@@ -1,5 +1,98 @@
 [
   {
+    "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+    "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+    "description": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every major tech issue there is. For example, Meta just reached",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy",
+      "Social & Media"
+    ],
+    "pub_date": "2026-08-31T14:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_Hochul.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://venturebeat.com/security/identity-and-permissions-arent-enough-to-govern-ai-agent-behavior",
+    "title": "Identity and permissions aren’t enough to govern AI agent behavior",
+    "description": "Presented by BoxIdentity and permissions are no longer enough to secure enterprise AI agents. They govern what an agent can reach, not how it behaves once it starts working on its own, and an autonomous agent can turn legitimate access of enterprise data into unintended action in seconds. That gap is pushing enterprise AI security from just governing access toward a layered approach that includes governing execution, says Heather Ceylan, chief information security officer at Box.\"Access controls and permissions are the foundation, but the challenge is they were designed for humans,\" Ceylan says. \"Permissions are still the foundation, but you have to think about how the agents get their permissions scoped as well.\"Access controls were built for a slower, more forgiving world, where a human employee with lingering permissions to a decade-old folder will rarely go looking for any data inside it, or even remember they have access at all. But an agent will explore all of its permissions, operating at a scale no person can match and surfacing forgotten misconfigurations and stale permissions far faster than a human ever could. Identity and scoped permissions remain the first layer of any credible defense, however, because agents raise the stakes, clean access hygiene is more valuable than ever.A steady drip of incidents in recent months underlines the potential for major damage, where models have slipped the sandboxes they were supposed to stay contained within, reached systems they weren't scoped to touch, or read content they were not permitted to access. While the specifics vary, the overarching threat remains the same: an agent found a path through the data that it could reach, and took it.Access controls alone can't secure autonomous AI agentsComplications crop up when agents are handed broad standing permissions to match broad workflows. An agent might legitimately need to call fifty tools across twenty different actions over the life of a task, reading and writing folders that span every department in the company. But granting all of that access at once inflates the blast radius of possible damage to data and content if a single step goes wrong. A stronger permissions model provides access only in the moments that it's needed, Ceylan says. \"You need permissions that change based on what the agent has been asked to do, when it needs to take that action,\" she explains. \"If it's taking one step and only needs two tools, it should be scoped to only those two. When you narrow permissions to the task in front of the agent, the number of ways any given step can misfire shrinks with it.\"From governing access to governing executionTight security is also no longer tied to whether an agent has access to specific data, but whether it should take a specific action on a specific step, which is the difference between a standing access grant and a bounded one. In other words, an agent may hold legitimate rights to a finance folder but still have no business writing four thousand of those files to a new location, even if it's told to do so. \"An employee with access to payroll data they were never meant to keep could be instructed to pull the payroll records and write them to a public shared folder, publishing the entire company's compensation in a single move,\" she says. \"Every access check passed, but the behavior still has catastrophic consequences.\"Prompts alone can’t reliably govern agent behavior because instructions can change, agents can absorb injected instructions, or they can be steered by files they read along the way. Durable controls need to live one level down, with the tool calls themselves, as well as the content those calls act on. Deciding in advance what an agent is permitted to execute, regardless of how its prompt is manipulated, keeps behavior inside fixed bounds that no clever input can talk it out of.Legacy content platforms weren't built for AI agentsMost of what an agent touches inside a company is unstructured content, including contract, policies, customer records — the accumulated files that make up the overwhelming majority of corporate data. Much of it still sits in systems that were designed for human filing habits: network drives, aging ECM platforms, and many SaaS tools. Those systems were built to ask the question, does this person have permission? and they answer it with folder-level access that hasn't been audited for years. The legacy platforms don't have metadata for an agent to reason over or classification for an enforcement layer to act on, and their logs aren't detailed enough to show what an agent read. Bolting an AI connector onto that stack doesn't fix any of it, it just hands agents the same blind spots, only at machine speeds, Ceylan says. \"Every agent action eventually resolves to content,\" Ceylan says. \"If the content layer can't tell you what it's holding, who it belongs to, and what should never leave it, there's nothing underneath your controls.\"How to decide which AI actions need human approvalTwo years ago, everyone assumed security would always mean including humans in the loop. Building and living with agents has changed that assumption, Ceylan says, and Box now sorts actions into three tiers: fully autonomous actions, monitored actions and high-risk actions that require human approval.Fully autonomous, reserved for actions that are reversible, bounded, logged, and free of untrusted input, and where a mistake doesn't cost too much. Monitored actions, once a team has built enough confidence in an agent and paired it with alerting and rollback that can catch and undo a problem in flight. Irreversible, high-risk actions that are always routed through a person — for instance, when an agent that wants to delete a large number of files or wipe the primary folder in a structure. Each team must calibrate the lines between these layers to match its own risk tolerance. Box’s approach is to put controls in the platform rather than the workflow, enforcing protections such as data classification, labeling and expiration without requiring a human checkpoint for every action.\"The right configuration should be enforced at the outset, instead of blocking an action at the end,\" Ceylan says.Building trust in AI agents through behavior over timeAn organization can make an access decision once, but trusting an agent's behavior should only happen over time, observing how the agent runs, collaborates, and builds on the outputs of other agents. Published frameworks tend to lag the technology, or are too abstract to implement; instead Box works from a smaller set of principles: tightly scoped agent identities and actions, clear expectations about what can be rolled back, three approval tiers, and a way for teams to test and iterate quickly. \"The sanctioned path has to be the fast path, because when teams aren't given a safe way to experiment, they tend to route around the controls entirely,\" Ceylan says. \"A security leader's job is to offer a way to move quickly without stepping outside the guardrails.\"Sustaining trust in an agent depends on being able to see how it actually behaves. But traditional monitoring tools weren’t built for the job; the behavioral baselines that underpin user and entity behavior analytics were calibrated to human activity, and suspicious agent behavior doesn’t necessarily look like human activity.And while establishing a useful agent baseline begins with logging, many agents start out as experiments, so their actions never make it into logging infrastructure. Plus, important signals are rarely individual easily flagged actions, but chains of activities across systems, as one agent's output becomes another's input, while the detections for that pattern are still being designed. Governing agents, then, requires visibility not just into what they can access, but what they actually do, and that visibility has to live where the content does.Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-08-31T14:00:00+00:00",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3an0Y29mAJpfiIPyJJXyqG/265bd4d5971684970c8bab15738689de/AdobeStock_1563218204.jpeg?w=300&q=30",
+    "source_name": "VENTUREBEAT.COM"
+  },
+  {
+    "link": "https://www.techradar.com/streaming/7-new-horror-movies-on-netflix-hbo-max-shudder-and-more-in-september-2026",
+    "title": "7 new horror movies on Netflix, HBO Max, Shudder, and more in September 2026",
+    "description": "September is packed full of great horror movies — here are seven recommendations to keep you entertained this month.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T14:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/tkSFZpsyV3q4LCnSZuMAvF-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2247424/a-playstation-state-of-play-double-bill-is-set-for-september-3/",
+    "title": "A PlayStation State of Play double bill is set for September 3",
+    "description": "A PlayStation State of Play double bill is set for September 3.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-08-31T13:56:12+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/a-playstation-state-of-play-double-bill-is-set-for-september-3/l-intro-1788184522.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260831/p17#a260831p17",
+    "title": "Instagram says it will reduce the reach of accounts featuring AI-generated personas if they don't use a new \"AI-generated profile\" label (Karissa Bell/Engadget)",
+    "description": "Karissa Bell / Engadget:\nInstagram says it will reduce the reach of accounts featuring AI-generated personas if they don't use a new “AI-generated profile” label  —  The app isn't cracking down on other kinds of AI slop, though.  —  Instagram is changing its rules for profiles that feature AI-generated personas.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T13:55:01+00:00",
+    "image_url": "http://www.techmeme.com/260831/i17.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/08/31/tim-cook-last-day-john-ternus-apple-ceo/",
+    "title": "Today is Tim Cook’s last day as Apple CEO, John Ternus takes over tomorrow",
+    "description": "After 15 years at the helm, today is officially Tim Cook’s last day as Apple CEO. In April, Apple announced that Cook would step down as CEO on September 1, with John Ternus set to take the reins.\n\n\n\nCook, of course, isn’t going away completely. Instead, he’s set to become executive chairman of Apple’s board of directors.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T13:52:39+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/john-ternus-tim-cook-ceo-apple.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/08/31/apple-pundits-say-vision-pro-is-by-far-the-best-way-to-watch-baseball/",
+    "title": "Apple pundits say Vision Pro is by far the best way to watch baseball",
+    "description": "Both Apple pundits and most of the internet seem to agree that Vision Pro is the best way to watch baseball, following the immersive experience offered by Apple’s Friday Night Baseball.\n\n\n\nNotably, there also seemed to be a consensus view that less is more when it comes to the various immersive camera angles …\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T13:51:07+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-pundits-say-Vision-Pro-is-the-best-way-to-watch-baseball.jpg?quality=82&strip=all&w=1500",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/reform-uk-scrap-gdpr-new-zealand-privacy-law",
+    "title": "Reform UK wants to scrap the UK GDPR and copy New Zealand’s privacy law",
+    "description": "Reform UK wants to abolish the UK GDPR. It would replace the regime with a lighter privacy law modelled on New Zealand’s. Nigel Farage and the party’s economy chief Robert Jenrick announced the pledge on Tuesday evening, inside a package aimed at small businesses. Mizy Clifton reported the plan for Politico. Britain wrote an amended",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-08-31T13:45:46+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/nigel-farage-reform-uk-gdpr.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/phones/samsung-galaxy-s27-ultra-could-trade-5x-zoom-for-a-much-bigger-telephoto-sensor/",
     "title": "Samsung Galaxy S27 Ultra could trade 5x zoom for a much bigger telephoto sensor",
     "description": "Samsung is reportedly testing a 50MP 4x telephoto camera with a larger 1/1.9-inch sensor for the Galaxy S27 Ultra, though the final setup is still being evaluated.",
@@ -10,6 +103,17 @@
     "pub_date": "2026-08-31T13:41:03+00:00",
     "image_url": "https://www.digitaltrends.com/tachyon/2026/02/Samsung-Galaxy-S26-Ultra-camera-bump-scaled.jpg?resize=440%2C292",
     "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/eu-employment-law-2026-compliance-deadlines",
+    "title": "EU employment law 2026 moved the burden of proof to you",
+    "description": "If your people team spent this year reading legislation rather than hiring, that is not a scheduling failure. Three pieces of European employment law took effect in 2026. A fourth arrives in December. They share a design principle most companies have not yet absorbed. The thread running through all of it: the burden of proof",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T13:37:55+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/european-parliament-strasbourg.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://www.digitaltrends.com/computing/dell-alienware-15-da15265-review/",
@@ -646,7 +750,6 @@
     "description": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gaming",
       "Social & Media"
     ],
@@ -704,7 +807,6 @@
     "title": "Shadow AI is a security problem, but the EU AI Act makes it a legal one",
     "description": "Employees at larger enterprises regularly feed corporate data into AI tools.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-31T09:46:41+00:00",
@@ -940,6 +1042,17 @@
     "source_name": "THENEXTWEB.COM"
   },
   {
+    "link": "https://mashable.com/entertainment/atalanta-bologna-serie-a-2026-live-stream-for-free",
+    "title": "How to watch Atalanta vs. Bologna online for free",
+    "description": "How to watch Serie A for free. Live stream Atalanta vs. Bologna in Serie A for free from anywhere in the world.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T08:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/021070bcQxUUrbtARAz7etg/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/worlds-second-biggest-data-center-proposed-in-scotland-meets-huge-opposition-and-its-part-of-a-wider-trend-across-the-united-kingdom",
     "title": "World’s second-biggest data center proposed in Scotland meets “huge” opposition — and it's part of a wider trend across the United Kingdom",
     "description": "Data centers are being opposed in every region of the UK, and it could cause some problems for the government's plans for AI",
@@ -949,18 +1062,6 @@
     "pub_date": "2026-08-31T08:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/owbSSGyfRyGGobNhGmqk2Q-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/atalanta-bologna-serie-a-2026-live-stream-for-free",
-    "title": "How to watch Atalanta vs. Bologna online for free",
-    "description": "How to watch Serie A for free. Live stream Atalanta vs. Bologna in Serie A for free from anywhere in the world.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-08-31T08:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/021070bcQxUUrbtARAz7etg/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techradar.com/health-fitness/oral-health/suri-core-10-review",
@@ -2168,104 +2269,5 @@
     "pub_date": "2026-08-30T12:30:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/apple-arcade-just-got-this-retro-inspired-gem/l-intro-1787341192.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/08/30/apple-weekend-deals-m6-mac-mini-airpods-airtag-2/",
-    "title": "Apple weekend deals: M6 Mac mini, AirPods Pro 3, AirTag 2, iPhone 17 Pro, more [Updated]",
-    "description": "We are ready to touch down for your 9to5Toys Lunch Break weekend edition. This time around our deals are landing alongside truck loads of price drops from the Amazon 2026 Labor Day sale, as well as the ongoing $50 discount on AirPods Pro 3 and the all-time low on AirTag 2 at $20 a pop. \n\n\n\nSome other highlights include Amazon’s best prices ever on iPhone 17 Pro at up to $290 off the new list prices and the very first discounts on Apple’s brand new M6 and M5 Pro Mac mini. Check it all out below – you’ll also find loads of deals on accessories, chargers, and smart home gear. \n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-30T12:15:00+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-weekend-deals-late-August-2026.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/top-ai-tools-including-claude-codex-and-hermes-installed-suspicious-code-inside-corporate-networks",
-    "title": "Top AI tools including Claude, Codex, and Hermes installed suspicious code inside corporate networks",
-    "description": "There is a new class of \"squatting\" risks emerging right in front of us and it involves llms.txt and llms-full.txt documentation.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-08-30T12:05:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
-    "title": "China’s robots race ahead",
-    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on falling robots and the US-China AI race, follow Robert Hart. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started I've admitted my fondness for",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-30T12:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2292163504.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera",
-    "title": "Two new small, powerful Macs",
-    "description": "Hi, friends! Welcome to Installer No. 142, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, how is it almost September already, and also you can read all the old editions at the Installer homepage.) This week, I've been remembering Dolly Parton, Tim Curry, and Peter Cullen, absorbing",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-30T12:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/installer_c1a629.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/mobile/apple-event-what-to-expect-iphone-18-ultra-fold/",
-    "title": "A Folding iPhone at Last? What to Expect From Apple’s Surprise and Shine Fall Event",
-    "description": "From the iPhone 18 lineup to the Apple Watch 12 and new AirPods, this is everything Apple could release in its anticipated September event.",
-    "categories": [
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-08-30T12:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/1dfe328c-5209-4b52-9533-a38858e67583.png",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/how-to-watch/tennis/us-open-day-1-2026-free",
-    "title": "How to watch US Open Day 1 2026: FREE live streams of Venus Williams, Novak Djokovic, Jessica Pegula and more",
-    "description": "All the ways to watch Day 1 live streams at 2026 US Open online and from anywhere – including for FREE – as the stars get things started at Flushing Meadows.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-30T12:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/LxJMZDj2Lt4sKWSVxKYcRA-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/audio/earbuds-airpods/i-tested-3-of-the-best-selling-cheap-open-earbuds-on-amazon-from-belkin-anker-and-tozo-and-theres-a-clear-winner-for-me",
-    "title": "I tested 3 of the best-selling cheap open earbuds on Amazon, from Belkin, Anker and Tozo — and there’s a clear winner for me",
-    "description": "Open earbuds are tricky to get right, so are Amazon's super bargain buds really worth your time?",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-30T12:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/fpWCwMY7qXkjUvskiAEz7U-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2245493/how-to-check-if-tv-playing-4k/",
-    "title": "How to check if your TV is playing in 4K or not",
-    "description": "There's plenty of 4K content to watch on your 4K TV, but not everything is in Ultra HD. Thankfully, you can check what you're currently seeing.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-30T12:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/how-to-check-if-your-tv-is-playing-in-4k-or-not/l-intro-1786659438.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://mashable.com/science/nasa-roman-space-telescope-launches",
-    "title": "NASAs Nancy Grace Roman Space Telescope launches in historic moment",
-    "description": "NASA has launched the Nancy Grace Roman Space Telescope to map dark matter, probe dark energy, and hunt for distant exoplanets.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-08-30T11:31:50+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07akqbzTDH20fNAJQsPJjqg/hero-image.png",
-    "source_name": "MASHABLE.COM"
   }
 ]
