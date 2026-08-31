@@ -16,6 +16,7 @@
     "description": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
     "categories": [
       "AI & Machine Learning",
+      "Breaking News",
       "Government & Policy",
       "Science & Environment"
     ],
@@ -97,6 +98,7 @@
     "title": "The US-led AI boom is offsetting the global growth squeeze from the energy crunch; ING says the boom accounts for about a third of recent US economic growth (Jason Douglas/Wall Street Journal)",
     "description": "Jason Douglas / Wall Street Journal:\nThe US-led AI boom is offsetting the global growth squeeze from the energy crunch; ING says the boom accounts for about a third of recent US economic growth  —  Growth is holding up despite renewed tensions over trade, geopolitics and bond markets, though the AI boom's outsize role is a growing concern",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-31T01:50:02+00:00",
@@ -108,7 +110,8 @@
     "title": "You worry about AI taking your job because you know too much about AI, research finds",
     "description": "Nearly 43% of highly AI-knowledgeable respondents expect AI could take over their work soon, far more than those with limited AI understanding.",
     "categories": [
-      "AI & Machine Learning"
+      "AI & Machine Learning",
+      "Breaking News"
     ],
     "pub_date": "2026-08-31T01:00:00+00:00",
     "image_url": "https://www.digitaltrends.com/tachyon/2026/08/artificial-intelligence-replacing-human.jpg?resize=440%2C292",
@@ -138,17 +141,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.techradar.com/televisions/projectors/makes-up-for-its-predecessors-fumbles-rather-than-actually-keeping-pace-with-competitors-i-like-this-epson-projectors-google-tv-os-and-boosted-hdmi-ports-but-these-quality-of-life-upgrades-are-too-little-too-late",
-    "title": "‘Makes up for its predecessor’s fumbles, rather than actually keeping pace with competitors’ — I like this Epson projector’s Google TV OS and boosted HDMI ports but these quality of life upgrades are too little too late",
-    "description": "The LifeStudio Grand is a refresh of Epson’s earlier LS650 projector, and while it has some good-to-see improvements, it’s not a major upgrade.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-31T00:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/2D2xncuMCsjincpGFnHjfC-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/computing/keyboards/mechlands-vibe99-review",
     "title": "'If you’re looking for a cheap mechanical keyboard, you can’t do much better': I tested a budget clacker that's impressive for gaming or home working — but its cutbacks are evident",
     "description": "How well does this retro-looking mechanical keyboard perform by modern standards?",
@@ -157,6 +149,17 @@
     ],
     "pub_date": "2026-08-31T00:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/HEK9rs9fXcdWpfeMHcznTf-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/televisions/projectors/makes-up-for-its-predecessors-fumbles-rather-than-actually-keeping-pace-with-competitors-i-like-this-epson-projectors-google-tv-os-and-boosted-hdmi-ports-but-these-quality-of-life-upgrades-are-too-little-too-late",
+    "title": "‘Makes up for its predecessor’s fumbles, rather than actually keeping pace with competitors’ — I like this Epson projector’s Google TV OS and boosted HDMI ports but these quality of life upgrades are too little too late",
+    "description": "The LifeStudio Grand is a refresh of Epson’s earlier LS650 projector, and while it has some good-to-see improvements, it’s not a major upgrade.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-08-31T00:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/2D2xncuMCsjincpGFnHjfC-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
