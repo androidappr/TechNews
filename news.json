@@ -1,5 +1,52 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/",
+    "title": "Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer",
+    "description": "New York's prestigious-yet-secretive venture firm Thrive Capital finally speaks out about its involvement in the messy drama upending international soccer.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-01T19:30:24+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260901/p40#a260901p40",
+    "title": "Wafer, which makes AI agents that optimize open-source models for a business's workload, raised a $40M Series A, a source says at a $200M+ valuation (Stephanie Palazzolo/The Information)",
+    "description": "Stephanie Palazzolo / The Information:\nWafer, which makes AI agents that optimize open-source models for a business's workload, raised a $40M Series A, a source says at a $200M+ valuation  —  Developers and chip designers are increasingly upbeat about the benefits of using AI to supercharge the process of designing and optimizing AI chips …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T19:30:02+00:00",
+    "image_url": "http://www.techmeme.com/260901/i40.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://venturebeat.com/orchestration/frontier-models-can-recover-up-to-65-of-facts-they-cant-directly-recall-just-by-thinking-longer",
+    "title": "Frontier models can recover up to 65% of facts they can't directly recall — just by thinking longer",
+    "description": "When large language models (LLMs) hallucinate, developers typically assume the model lacks the required facts. Engineering teams diagnose the error as missing knowledge. The standard response is to increase model size, expand training data, or build complex retrieval architectures.A new study by researchers at Google Research and Technion demonstrates that the knowledge is often not missing. The model has the information encoded parametrically but fails to surface it during generation. Their experiments show that frontier models like GPT-5 and Gemini-3 encode 95-98% of tested facts. This indicates that in many cases, recall, rather than encoding, is the primary bottleneck for factual accuracy. By understanding how to unlock existing knowledge through inference-time computation, engineering teams can build more reliable applications without necessarily relying on larger models or external databases.Knowledge profiling: measuring what models actually knowTo map this gap between storage and retrieval, the researchers propose shifting the evaluation focus from question-level accuracy to fact-level profiling. Instead of simply scoring whether an LLM answers an isolated prompt right or wrong, fact-level profiling tests a single underlying piece of information across multiple conditions, evaluating whether the fact is stored in the model's parameters at all, whether it can be queried from different directions and phrasings, and what computational effort is required to retrieve it.This framework distinguishes between whether a fact is parametrically \"encoded\" and whether it is \"known\". A model encodes a fact if it can accurately reproduce it when primed with its original training context. A model knows a fact if it can reliably answer questions about it across varied phrasings and directions.\"Encoding and recall failures are indistinguishable under accuracy metrics, yet they imply different limitations and solutions,” the researchers write. “Encoding failures call for pre-training interventions, such as scaling model size or data coverage. Recall failures suggest post-training interventions that often improve how models utilize what they already encode.\"The paper illustrates this using a sample fact: Oasis played their first gig at the Boardwalk club. Based on how models process this information, the study categorizes knowledge into five distinct profiles:Direct recall: The model encodes the fact and readily accesses it to answer direct questions without extra inference compute.Encoding failure (empty shelves): The model neither encodes nor knows the fact. It cannot complete a Wikipedia-style sentence about Oasis’s early days, nor can it answer questions about the event. This signals a need for more pre-training data or greater model capacity.Recall failure (lost keys): The model has the fact encoded but cannot access it. It can seamlessly complete the original training text about Oasis, but fails to answer \"Where did Oasis play their first show?\" even when given time to think.Recall with thinking: The fact is encoded, but inaccessible to direct generation. It is only successfully recalled when the model uses inference-time computation, such as Chain-of-Thought, to bridge the gap. The researchers refer to this mechanism as recall facilitation. The model might initially fail to answer the direct question. By generating intermediate thoughts about the band's early history in Manchester, it structurally primes itself to locate and recall the locked answer.Inference without encoding: The model never explicitly encoded the Oasis fact. Instead, it successfully answers the question by making an educated guess or reasoning across other encoded facts it does know. It might deduce the answer by chaining together separate data points, such as \"Oasis formed in Manchester,\" \"the Boardwalk was a famous 90s music club there,\" and \"the Boardwalk hosted early gigs by emerging bands.”Scaling illusions, long-tails, and tip-of-the-tongue recoveriesThe researchers evaluated 13 LLMs on over 4 million responses. They used WikiProfile, a benchmark containing 2,150 facts extracted from Wikipedia, testing each fact across formats ranging from exact context completion to multiple-choice verification.For frontier models like GPT-5 and Gemini-3, encoding is nearing saturation. These models successfully encode 95-98% of the tested facts. However, they still fail to directly recall 26-34% of those encoded facts without thinking. Inference-time thinking acts as a vital recovery mechanism. Providing models with extra computational effort successfully retrieves 40-65% of the encoded facts that models initially fail to directly recall. The researchers compare this to the human tip-of-the-tongue state, where deliberate effort, such as mentally retracing context, eventually helps remember the information. Scaling up model size does not automatically resolve this gap. For example, they found that scaling the Gemma3 model from 1 billion to 27 billion parameters decreased encoding failures from 85% to 23%. But at the same time, the share of recall failures increased, peaking at 40% without thinking. This suggests that scaling mainly solves the storage problem rather than the access problem. As the model memorizes vastly more facts, a larger pool of knowledge becomes trapped in an \"encoded but inaccessible\" state. The bulk of model errors shifts from missing data to failed recall.\"Our findings suggest that recall is tightly coupled to the conditions under which facts were learned, degrading when queries diverge from training-time patterns,\" the researchers write. How a user asks a question directly dictates whether the model can unlock the stored answer.For example, the experiments showed that rare facts are encoded at rates similar to popular facts. Yet they found a large recall gap between long-tail and highly popular facts that exceeds 25% for frontier models. Similarly, models struggle to generate answers to reverse questions (i.e., asking for the subject instead of the object). For example, a model might easily answer that Oasis played their first gig at the Boardwalk club, but fail to answer who played their first gig at that same club. At the same time, the same models show that they know the correct answer when given the same question in multiple-choice format.\"Whereas these failures are often interpreted as limitations of memorization or bidirectional encoding, our results suggest a different picture: rare facts are often encoded but inaccessible, and reverse facts can be recognized even when they cannot be generated,” the researchers write. “This reframes both phenomena as recall failures rather than 'missing knowledge.'\"The ROI of thinking and tips for developersThe high encoding rates of frontier models require a shift in how developers approach factuality and pipeline architecture.Don’t treat every factual failure as a retrieval problem: The default enterprise reaction to hallucinations is often to deploy Retrieval-Augmented Generation (RAG), scale up vector databases, or ingest more domain documents. While necessary for real-time updates or entirely absent data, this study shows up to 95-98% of standard facts are already parametrically encoded. Many failures can be recovered without external retrieval.Use inference-time reasoning selectively: Thinking recovered 40–65% of encoded facts that models failed to directly recall. However, thinking is computationally expensive. A practical architecture involves a fast first-pass model call, followed by a higher-reasoning-effort retry when confidence is low. Teams can optimize costs by dynamically routing challenging conditions, like rare entities or reverse questions, to thinking models.Test semantic access, not just benchmark accuracy: Standard accuracy metrics mask underlying model capabilities. Evaluation sets should probe the same underlying fact across different phrasings, contexts, and directions to truly understand what a model knows versus what it can reliably access.Leverage query reformulation and retries: Because recall is highly context-dependent, query framing dictates success. Changing the structure of a prompt, generating relevant intermediate context, or prompting the model to generate a reasoning chain before answering are legitimate reliability mechanisms that surface information direct prompts miss.Limitations and practical takeawaysThe WikiProfile benchmark relies on encyclopedic Wikipedia facts. These findings might not perfectly generalize to proprietary or highly specialized enterprise domains. A model's ability to store and recall a niche internal company metric may behave differently than its handling of public encyclopedic data.Fully profiling a frontier model on the WikiProfile suite costs approximately $500. Developers can significantly reduce this cost by omitting multiple-choice variants or using fewer response samples per question. Teams can access the WikiProfile benchmark on Hugging Face to evaluate their own systems and build custom knowledge profiles. Identifying whether an enterprise application suffers from empty shelves or lost keys is the first step toward fixing it.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T19:20:09+00:00",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2hiACWj4cDtrruFD5zWlbH/bf30942d847e90d079cf3c9cb02273fc/Lost_keys_and_empty_shelves.jpg?w=300&q=30",
+    "source_name": "VENTUREBEAT.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/01/apple-watch-series-12-three-new-features-coming-next-week/",
+    "title": "Apple Watch Series 12: Three new features coming next week",
+    "description": "Apple Watch Series 12 is coming next week, launching at the September event alongside Apple Watch Ultra 4. Here are three new features rumored for Apple Watch Series 12.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T19:18:04+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-watch-series-11-us.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260901/p39#a260901p39",
     "title": "Fei-Fei Li's World Labs unveils Atlas, a multimodal world model that generates image/video frames with pixel-perfect camera control and reconstructs them in 3D (World Labs)",
     "description": "World Labs:\nFei-Fei Li's World Labs unveils Atlas, a multimodal world model that generates image/video frames with pixel-perfect camera control and reconstructs them in 3D  —  World models generate, reconstruct, and simulate any possible world.  They understand how worlds appear, behave …",
@@ -134,7 +181,6 @@
     "title": "Mozilla finally adds a built-in ad blocker to Firefox on iOS",
     "description": "Firefox on iOS finally catches up to rivals like Brave and Opera with a built-in ad blocker, though it stays off by default until enabled.",
     "categories": [
-      "Breaking News",
       "Software & Apps"
     ],
     "pub_date": "2026-09-01T18:42:40+00:00",
@@ -404,18 +450,6 @@
     "source_name": "ARSTECHNICA.COM"
   },
   {
-    "link": "https://www.theverge.com/tech/987339/google-september-android-drop-motion-assist-gemini-find-hub",
-    "title": "Google Find Hub will soon help you locate things without a tracker",
-    "description": "Google announced new features coming to Android devices as part of this month's feature drop update. Among the highlights are the introduction of Motion Assist - Android's version of Apple's Motion Cues feature, which tries to reduce motion sickness by overlaying dots on your screen that move in response to a vehicle's movements - as",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-01T18:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/findhub.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.engadget.com/2244171/should-you-remove-carplay-infotainment-screen-film/",
     "title": "Should you remove the film from your CarPlay infotainment screen? It depends",
     "description": "Double-check before you accidentally remove a protective layer of your screen.",
@@ -437,6 +471,18 @@
     "pub_date": "2026-09-01T18:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/a-new-android-find-hub-feature-will-help-you-remember-where-you-put-important-things/l-intro-1788124421.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/phones/google-pixel/android-drop-google-motion-assist-and-guided-vision-on-android",
+    "title": "Android Drop: Google's Motion Assist and Guided Vision are two features I'm ready for on Android",
+    "description": "Google's September Android Drop looks to help users suffering from motion sickness in cars, and there's a \"Guided Vision\" Accessibility feature on the way.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T18:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/SHQKoFFu7jFKMsDvg7mGta-1280-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
   },
   {
     "link": "https://www.androidcentral.com/apps-software/google-adds-shared-keep-notes-and-custom-themes-to-messages",
@@ -463,18 +509,6 @@
     "source_name": "ANDROIDCENTRAL.COM"
   },
   {
-    "link": "https://www.androidcentral.com/phones/google-pixel/android-drop-google-motion-assist-and-guided-vision-on-android",
-    "title": "Android Drop: Google's Motion Assist and Guided Vision are two features I'm ready for on Android",
-    "description": "Google's September Android Drop looks to help users suffering from motion sickness in cars, and there's a \"Guided Vision\" Accessibility feature on the way.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T18:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/SHQKoFFu7jFKMsDvg7mGta-1280-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
     "link": "https://www.techradar.com/pro/amd-fpga-and-micron-memory-found-in-russias-iskander-1000-ballistic-missile-ukraine-intelligence-claims-but-stopping-illegal-trade-is-nearly-impossible",
     "title": "AMD FPGA and Micron memory found in Russia's Iskander-1000 ballistic missile, Ukraine Intelligence claims — but stopping illegal trade is nearly impossible",
     "description": "Ukrainian intelligence says 35 firms, including American manufacturers, supplied components for Russia's upgraded Iskander-1000 missile despite sanctions.",
@@ -484,6 +518,18 @@
     "pub_date": "2026-09-01T18:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/EjdBtHhpBKQF4i6kHowVYc-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/987339/google-september-android-drop-motion-assist-gemini-find-hub",
+    "title": "Google Find Hub will soon help you locate things without a tracker",
+    "description": "Google announced new features coming to Android devices as part of this month's feature drop update. Among the highlights are the introduction of Motion Assist - Android's version of Apple's Motion Cues feature, which tries to reduce motion sickness by overlaying dots on your screen that move in response to a vehicle's movements - as",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-01T18:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/findhub.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
@@ -513,7 +559,6 @@
     "title": "Roku Pro TV Now One of Cheapest OLEDs Starting at $999",
     "description": "The Roku Pro OLED TVs promise better picture quality at an affordable price.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-01T17:43:18+00:00",
@@ -1373,7 +1418,6 @@
     "description": "X said it had found a Chinese bot farm pushing Americans to turn against AI data centres. A researcher who went looking for those accounts found that almost nobody had seen them. Darren Linvill, a researcher at Clemson University, identified at least 59 of those accounts with zero engagement. X probably suspended them before they",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy",
       "Government & Policy",
       "Social & Media"
@@ -1480,7 +1524,6 @@
     "title": "Shelly’s new $50 security camera watches your home without a subscription",
     "description": "After launching a budget-friendly flood sensor last month with impressive battery life, Shelly announced a new $49.99 security camera today that can be used without any additional subscription fees - although that's still an option if you want to expand its capabilities. The Shelly Camera will be available soon from the company's online store and",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-01T15:19:17+00:00",
@@ -1992,6 +2035,18 @@
     "source_name": "MASHABLE.COM"
   },
   {
+    "link": "https://www.theverge.com/tech/987129/sonos-27-ace-ultra-beam-ultra-announcement",
+    "title": "Sonos introduces new headphones, soundbar, and software in its biggest announcement in years",
+    "description": "At an event in New York City, Sonos announced two new audio products - the Sonos Beam Ultra soundbar and Sonos Ace Ultra headphones, details of which were found in an FCC filing in early August - and a major update to its audio operating system dubbed Sonos 27. It's the biggest single Sonos announcement",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T14:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/sonos-ace-ultra-lifestyle.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://venturebeat.com/orchestration/ai-is-redefining-the-workforce-and-most-planning-models-arent-ready",
     "title": "AI is redefining the workforce — and most planning models aren’t ready",
     "description": "Presented by SAPHR tracks employees and skills. Finance owns headcount targets and cost. Procurement manages contractors and services spend. Together, they leave executives unable to answer basic questions about how workforce decisions actually translate into business outcomes.Fragmented planning creates workforce blind spotsEach function has its own systems, its own planning cadence, and its own assumptions about how work gets done. Recent SAP research found that 62% of C-suite executives are dissatisfied with their current level of integration between people and business performance data. The same research found that while 50% of organizations are planning for AI’s impact on productivity and capacity, only 21% are planning for AI’s impact on job design and organizational structure. That gap matters because the two are inseparable. You can’t make a sound decision about where to automate without understanding how it will affect the teams, roles, and skills connected to that work. Most organizations are trying to do exactly that, and discovering, usually too late, that the pieces don’t fit together.The workforce has quietly expanded — and planning hasn’t caught upThe definition of “workforce” has been expanding for years, but most planning models haven’t registered the change. Employees now work alongside contractors, specialized partners, and AI systems that handle real execution-layer tasks — not just support functions, but actual work. In some delivery models, external and digital labor has moved from supplemental to central.That shift changes the nature of every significant workforce decision. When a company chooses to automate a process, the ripple effects touch headcount, skills, services spending, and productivity assumptions simultaneously. A reskilling initiative can reduce dependency on contractors. Expanding contractor capacity can close an immediate gap while quietly deepening a long-term capability problem. None of these moves can be evaluated well in isolation, but that’s precisely how most organizations still evaluate them — separately, in sequence, by different teams working from different data.The real question isn’t “should we hire, automate, or reskill?” It’s how work should be configured across humans and intelligent systems, and at what cost. Most planning architectures weren’t designed to ask that question, let alone answer it.CFOs and CHROs are being pushed into the same roomCFOs are being asked to connect financial signals to real operational choices, particularly in workforce spending, which dominates most income statements. CHROs are being pulled beyond traditional talent management into harder questions about work design and the balance between human and digital labor. Neither can answer these questions from their current vantage point alone, and historically, they haven’t had to answer them together. That’s changing, not because of some cultural shift toward collaboration, but because the decisions genuinely require both perspectives at the same time.When that partnership works, organizations can move workforce planning from a periodic budgeting exercise to an ongoing strategic conversation. They can ask harder questions: Where does it make more sense to build critical skills internally than to buy capacity externally? When we automate a workflow, how do we know whether we’re creating capacity or just moving a problem downstream? These aren’t questions finance or HR can answer in sequence. They require shared data, shared governance, and frankly, a shared willingness to operate in territory that neither function fully owns yet.From annual budgets to continuous workforce steeringThe organizations handling this best stopped treating workforce planning as a once-a-year negotiation and started treating it as an ongoing operational discipline. That means finance, HR, and procurement seeing the same picture of workforce capacity, skills, and cost, rather than reconciling three different pictures after the fact. It means modeling scenarios that combine hiring, reskilling, automation, and external labor as connected levers rather than separate conversations.The metrics are evolving too. Headcount, labor cost, and utilization still matter, but they describe only part of what’s happening. As AI becomes embedded in operations, leaders need visibility into skills and readiness relative to strategic priorities, how work is actually distributed across employees and intelligent systems, and whether automation is unlocking new capacity or quietly eroding the engagement of the people working alongside it. Organizations that track these signals appear to be making structurally different decisions about where to invest. They are not just better-informed, but asking better questions. The hard part isn’t the technologyConnecting HR, finance, and procurement data creates the conditions for better decisions. It doesn’t make those decisions. The harder challenge is leadership alignment: CFOs and CHROs agreeing on shared metrics, committing to a planning cadence that keeps workforce choices connected to business strategy, and building a working relationship where neither function is simply ratifying what the other has already decided. That’s a governance problem, and it doesn’t come bundled with any platform.The organizations that move first on this won’t just have better data. They’ll have a fundamentally clearer picture of how work creates value across employees, contractors, and intelligent systems together. The ones that don’t will keep making workforce decisions in the dark. The difference is that those decisions are coming faster now, and the consequences of getting them wrong are larger.For additional perspectives on workforce planning, continuous planning, and leadership in the age of AI, explore SAP Workforce Planning and the latest SAP SuccessFactors innovations. David Imbert is Chief Marketing Officer, SAP Financial Management; Lara Albert is Chief Marketing Officer, SAP SuccessFactors.Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
@@ -2013,18 +2068,6 @@
     "pub_date": "2026-09-01T14:00:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/image-2-copy-2.png",
     "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/987129/sonos-27-ace-ultra-beam-ultra-announcement",
-    "title": "Sonos introduces new headphones, soundbar, and software in its biggest announcement in years",
-    "description": "At an event in New York City, Sonos announced two new audio products - the Sonos Beam Ultra soundbar and Sonos Ace Ultra headphones, details of which were found in an FCC filing in early August - and a major update to its audio operating system dubbed Sonos 27. It's the biggest single Sonos announcement",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T14:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/sonos-ace-ultra-lifestyle.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.engadget.com/2248372/atlas-wearable-eeg/",
@@ -2191,7 +2234,6 @@
     "title": "John Ternus takes over as Apple&#8217;s new CEO",
     "description": "The multitrillion-dollar home of the iPhone, Mac, and so many other tech gadgets has a new leaader, as Tim Cook has been replaced as CEO as of September 1st by former hardware boss John Ternus. How will we look back on Cook’s legacy, and what will Apple look like under the leadership of Ternus and",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware"
     ],
@@ -2321,53 +2363,5 @@
     "pub_date": "2026-09-01T13:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/nvidias-dlss-5-launches-with-nba-2k27-on-september-3-but-theres-little-reason-for-excitement/l-intro-1788263990.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2246818/roku-is-expanding-its-premium-tv-lineup-with-its-first-oleds/",
-    "title": "Roku is expanding its premium TV lineup with its first OLEDs",
-    "description": "Roku has announced its first OLED TVs, available this fall from Amazon starting at $999.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/roku-is-expanding-its-premium-tv-lineup-with-its-first-oleds/l-intro-1787953247.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2244167/use-phone-as-roku-remote-free-app/",
-    "title": "You can use your phone as a Roku remote (and it's free)",
-    "description": "If you've lost your Roku remote but would still like to watch something on TV, the Roku mobile app is the answer.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/you-can-use-your-phone-as-a-roku-remote-and-its-free/l-intro-1786718485.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.theverge.com/games/986980/nvidias-dlss-5-explained",
-    "title": "Nvidia’s DLSS 5, explained",
-    "description": "Nvidia knows that DLSS 5 left a bad first impression. In March, many gamers took one look at Resident Evil Requiem protagonist Grace Ashcroft's DLSS 5-ified face and declared it AI slop. So this week, the company's re-introducing its controversial \"neural rendering\" with firm messaging about how it \"preserves artistic intent,\" \"respects the rendered frame,\"",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware",
-      "Gaming"
-    ],
-    "pub_date": "2026-09-01T13:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/dlss5-200.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/987148/roku-oled-tv-announcement",
-    "title": "Roku’s first OLED TVs undercut the midrange competition",
-    "description": "Just a few weeks ago the only midrange OLED options available were from LG and Samsung. But after Sony officially announced the Bravia 6 last week, Roku has now launched its first-ever OLED TV - the Roku Pro Series - which will be followed by the step-up Pro Series LX next month. The Roku Pro",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-01T13:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/roku-oled-tv-lifestyle.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
