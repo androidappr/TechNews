@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://www.cnet.com/tech/mobile/apples-iphone-18-pro-could-come-in-black-but-skip-silver-this-year/",
+    "title": "Apple’s iPhone 18 Pro Could Come in Black, but Skip Silver This Year",
+    "description": "The next iPhone Pro lineup might not repeat any colors from last year, with silver reportedly not in production.",
+    "categories": [
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-09-01T23:06:41+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/image-4_0e68fa.png",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/the-range-rover-electric-has-finally-arrived/",
+    "title": "The Range Rover Electric: Specs, Price, Availability",
+    "description": "After long delays, JLR’s biggest gamble with its Range Rover brand is here with huge performance, range, and off-road EV skills. It’s mighty pricey, but the US gets a cheaper model.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T23:01:00+00:00",
+    "image_url": "https://media.wired.com/photos/6a972c251a29cad3901a2042/master/pass/RANGE-ROVER-ELECTRIC-FRONT-02_09_26.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/gaming/playstation-gamers-sue-sony-over-what-buying-a-digital-game-really-means/",
+    "title": "PlayStation Gamers Sue Sony Over What ‘Buying’ a Digital Game Really Means",
+    "description": "The legal fight could force Sony to change how it presents digital game purchases to California customers.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-01T23:00:41+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/c14cbbfa-de05-4ced-948d-be4d90f0a914.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2249162/blue-origin-wins-nasa-contract-for-telecommunications-on-mars/",
+    "title": "Blue Origin wins NASA contract for telecommunications on Mars",
+    "description": "The company will create a high-performance Mars telecommunications orbiter for NASA by December 31, 2028",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-01T23:00:16+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/blue-origin-wins-nasa-contract-for-telecommunications-on-mars/l-intro-1788303541.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
     "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
     "description": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
@@ -9,6 +54,17 @@
     "pub_date": "2026-09-01T23:00:00+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2244182/how-to-turn-off-safe-mode-on-android-phone/",
+    "title": "Android stuck in Safe Mode? Here's how to turn it off",
+    "description": "You're just a few taps away from getting your Android phone out of safe mode and back to normal.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T23:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/android-stuck-in-safe-mode-heres-how-to-turn-it-off/l-intro-1785415003.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.techmeme.com/260901/p55#a260901p55",
@@ -51,7 +107,6 @@
     "title": "Razer’s New $100 Game Controller Folds Right Up for Your Pocket",
     "description": "The gaming hardware company’s new game controller folds in half to make it easier to take with you.",
     "categories": [
-      "Breaking News",
       "Mobile & Telecom"
     ],
     "pub_date": "2026-09-01T22:41:37+00:00",
@@ -853,7 +908,6 @@
     "title": "What’s Up: September 2026 Skywatching Tips from NASA",
     "description": "Brilliant Venus and a Harvest Moon Use the Moon to find Antares and the Teapot, spot brilliant Venus, welcome the equinox, and see the Harvest Moon near Saturn and Neptune. Skywatching Highlights Transcript The Moon joins a tea party… Venus cranks up the brightness… the seasons officially change… and the Harvest Moon meets up with",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-01T19:15:25+00:00",
@@ -924,7 +978,6 @@
     "description": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurity incident from a company to",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-09-01T19:02:54+00:00",
@@ -1456,7 +1509,6 @@
     "title": "Steve Jobs in 1996: ‘I still think Apple has a future’",
     "description": "Apple has a new CEO today. Meanwhile, a vintage video of Steve Jobs from 1996 has resurfaced. It adds some incredible perspective.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-01T17:24:21+00:00",
@@ -1516,7 +1568,6 @@
     "description": "John Ternus became chief executive of Apple on Tuesday. He is the eighth person to hold the job in the company’s 50 years, and the first engineer in the seat since Steve Jobs. Tim Cook spent his last day writing to staff. Chance Miller obtained the memo for 9to5Mac on Monday, and Mark Gurman reported",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware"
     ],
@@ -2276,64 +2327,5 @@
     "pub_date": "2026-09-01T15:20:46+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/RXJoEQoSUWU9QEaNY4YHyN-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260901/p22#a260901p22",
-    "title": "Perplexity launches Hybrid Compute, which splits a task between a frontier, cloud model and a local LLM to handle sensitive info, for all users of its Mac app (Igor Bonifacic/Engadget)",
-    "description": "Igor Bonifacic / Engadget:\nPerplexity launches Hybrid Compute, which splits a task between a frontier, cloud model and a local LLM to handle sensitive info, for all users of its Mac app  —  And local processing could keep costs down too.  —  Back in February, debuted Perplexity Computer.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T15:20:01+00:00",
-    "image_url": "http://www.techmeme.com/260901/i22.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/987436/shelly-smart-home-hd-security-camera-automation",
-    "title": "Shelly’s new $50 security camera watches your home without a subscription",
-    "description": "After launching a budget-friendly flood sensor last month with impressive battery life, Shelly announced a new $49.99 security camera today that can be used without any additional subscription fees - although that's still an option if you want to expand its capabilities. The Shelly Camera will be available soon from the company's online store and",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-01T15:19:17+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/shellycamera1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/samsungs-absolutely-stellar-2tb-990-pro-ssd-is-still-just-usd390-at-amazon",
-    "title": "Samsung’s 'absolutely stellar' 2TB 990 Pro SSD is still just $390 at Amazon",
-    "description": "With read/write speeds up to 7,450MB/s and 6,900MB/s, we found it \"all but maxes out what a PCIe 4.0 SSD is capable of\".",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T15:16:19+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/BP2zwv7gYUuEVgNvKZBLH5-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/phones/poco-phones/having-the-latest-chipset-will-cost-a-lot-more-poco-gets-real-about-the-pressure-of-rising-memory-costs-as-it-launches-the-f9-ultra-with-an-unchanged-chipset",
-    "title": "‘Having the latest chipset will cost a lot more’: Poco gets real about the ‘pressure’ of rising memory costs as it launches the F9 Ultra with an unchanged chipset",
-    "description": "In a briefing for the Poco F9 Ultra, Xiaomi sub-brand Poco explained why its new flagship phone doesn’t come with a chipset upgrade.",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-01T15:11:08+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/WshsojgHQVikdE4xD4L5b8-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
-    "title": "Fambot introduces an ‘AI chief of staff’ for families",
-    "description": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-01T15:10:58+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
