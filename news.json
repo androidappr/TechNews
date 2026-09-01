@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://thenextweb.com/news/imperial-ai-ecg-heart-disease-detection",
+    "title": "An AI reads an ECG in two seconds and finds what cardiologists cannot",
+    "description": "An ECG takes a few seconds to record and costs very little. Researchers at Imperial College London have trained an AI system that can read one in under two seconds and identify signs of heart failure and valve disease that clinicians cannot detect from the same trace. The results were presented at the European Society",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T08:23:21+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/Imperial-College-London.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260901/p2#a260901p2",
     "title": "Filing: OpenAI denies Apple's allegations of trade secret theft, saying \"this dispute is a mess of Apple's own making, and it is trying to blame everyone else\" (Deepa Seetharaman/Reuters)",
     "description": "Deepa Seetharaman / Reuters:\nFiling: OpenAI denies Apple's allegations of trade secret theft, saying “this dispute is a mess of Apple's own making, and it is trying to blame everyone else”  —  OpenAI denied Apple's allegations of trade secret theft on Monday, saying the iPhone maker failed to show …",
@@ -2223,16 +2235,5 @@
     "pub_date": "2026-08-31T16:07:37+00:00",
     "image_url": null,
     "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/phones/iphone/tim-cook-was-the-best-apple-ceo-for-his-time-john-ternus-tenure-will-be-defined-by-ai",
-    "title": "Tim Cook was the best Apple CEO for his time — John Ternus' tenure will be defined by AI",
-    "description": "Tim Cook took over as Apple CEO in the long shadow of his predecessor, Steve Jobs — and yet he became the best tech CEO in a generation, more than preparing the company for his successor, John Ternus.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-08-31T16:07:04+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/nCagXHBsmvxDsv7W7pTFjJ-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
