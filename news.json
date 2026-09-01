@@ -1,5 +1,52 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+    "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
+    "description": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+    "categories": [
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-01T23:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260901/p55#a260901p55",
+    "title": "Fermi Explorer Mission plans to launch a spacecraft to Alpha Centauri, the Sun's nearest star system, by 2029, using a trajectory discovered by PSI's AI system (Michelle Kim/MIT Technology Review)",
+    "description": "Michelle Kim / MIT Technology Review:\nFermi Explorer Mission plans to launch a spacecraft to Alpha Centauri, the Sun's nearest star system, by 2029, using a trajectory discovered by PSI's AI system  —  A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T22:55:00+00:00",
+    "image_url": "http://www.techmeme.com/260901/i55.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+    "title": "Google needs Hollywood more than the studios need AI",
+    "description": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the studios that would also",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-01T22:50:29+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-3.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/google-launches-a-canva-alternative-that-lets-you-create-posters-flyers-and-social-posts-with-ai/",
+    "title": "Google launches a Canva alternative that lets you create posters, flyers, and social posts with AI",
+    "description": "Google launched Pics, an AI powered design tool built into Workspace, positioning it as a direct alternative to Canva and Adobe Express.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T22:49:03+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/09/Google-pics-ai-image-generator.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.cnet.com/tech/mobile/razers-new-100-game-controller-folds-right-up-for-your-pocket/",
     "title": "Razer’s New $100 Game Controller Folds Right Up for Your Pocket",
     "description": "The gaming hardware company’s new game controller folds in half to make it easier to take with you.",
@@ -901,7 +948,6 @@
     "title": "Roland’s new digital piano is perfect for learners — it comes with Wi-Fi and connects to a beginner-friendly app to make things easy for music beginners",
     "description": "Roland's FP-40 piano is the brand's first with Wi-Fi integration, and it lands just in time for its accompanying music-learning app.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-01T19:00:00+00:00",
@@ -924,7 +970,6 @@
     "title": "Closing an Azure OpenAI assistant's retrieval gap didn't take a new identity platform. It took one filter and a narrower assistant.",
     "description": "Egiziago Cioffi is the IT and Enterprise Architect and CEO of SynSphere Italia, a Microsoft partner based in Milan. He built an agent himself. He wrote the indexing job, configured the Azure OpenAI retrieval pipeline, connected it to SharePoint, and watched it pass every evaluation his team ran.His Azure OpenAI email assistant auto-resolves about 60% of inbound customer email, Cioffi told VentureBeat in written responses to our interview questions. The evaluation scores were clean, and the unit tests passed. None of them asked the question that mattered.Cioffi ran a low-privilege account against the same questions a high-privilege account had already put to the assistant. The outputs did not match. The assistant returned SharePoint content the requesting user could not have opened in SharePoint on their own. The logs told a different story than the evaluation scores.Cioffi's retrieval logs are the evidence for this specific production failure. What follows is independent data showing the failure class is not isolated.In many production RAG deployments, the agent answers with the indexer's permissions, not the requester'sAzure AI Search has shipped native document-level ACL trimming via Entra-based tokens since preview in May 2025, and SharePoint ACL sync followed in a later preview. The capability exists; however, it does not exist everywhere it needs to.The SharePoint ACL preview can now ingest site-group metadata via the spg: prefix in the 2026-05-01-preview API. However, only Entra-backed principals are documented as reliably enforced at query time. The preview runs through the REST API and preview SDKs and does not cover all agent deployment paths. Azure OpenAI On Your Data, for example, supports document-level access via Azure AI Search security filters, but Microsoft's own documentation states that if the permitted-groups field is not mapped, document-level access is disabled. That is a fail-open default in a first-party path. Custom RAG pipelines that bypass Azure AI Search entirely still index under a broadly privileged service account with no query-time entitlement check unless the developer builds one. Cioffi's deployment took the custom-pipeline path.Across production agents at scale, 91% of successful attacks ended in silent data exfiltrationStraiker's red team ran more than 1,700 successful exploit attempts against production agents and published the results in its inaugural STAR Labs Threat Report in July. The 91% figure from their research measures all successful attacks on productivity agents that ended in data exfiltration without detection. It is a measure of what happened after an exploit succeeded, not a measure of how many deployments fail to enforce retrieval-time entitlements specifically.Across the productivity agents in scope, 91% of successful attacks ended in silent data exfiltration, with the report noting no malware had been required. There was also no lateral movement through the network. The agent returned all the data it could reach. Straiker's report does not break out which of those successes trace to entitlement failures specifically versus prompt injection, tool abuse, or other attack classes. Working independently, the U.K.'s AI Security Institute documented 19 unsanctioned agent actions from a July 25 to 28 cyber evaluation. The UKASI published its incident report on August 4 of this year. The evaluation deliberately ran with cyber classifiers disabled and internet access enabled. What the UKASI report demonstrates is agents acting outside the scope their deployers intended, in a permissive test environment, with no reliable mechanism to catch the deviation before it causes damage. It is a containment failure, not a retrieval-entitlement failure, and the overlap with the Cioffi incident is the shared absence of a runtime scope check rather than an identical mechanism.Why evaluations miss this and why the native fix did not reach Cioffi's deploymentThe evaluations Cioffi's team ran were designed to test whether the agent answers correctly. They check factual accuracy, relevance, and task completion. They do not ask whose permissions the retrieval pipeline uses when it fetches the source material, because that question is not in the evaluation framework.Azure AI Search is currently shipping the retrieval-time entitlement check at the platform level. The query-time ACL trimming validates the caller's Entra token, extracts user and group claims, and returns only documents whose synchronized permission metadata grants the caller access. For deployments that use Azure AI Search with the SharePoint indexer and Entra-backed principals, the control exists natively. Cioffi's deployment did not use this path. His custom Azure OpenAI retrieval pipeline bypassed the native trimming layer, which is how the gap survived every evaluation his team ran.From the attacker's side, this is a broken access control. Adriel Desautels, founder and CEO of Netragard, told VentureBeat in written responses that the failure reduces to a structural collapse of authorization boundaries. \"If the NHI credentials usually have broad authorization and can read high privilege data then that is then stored in their index,\" Desautels wrote. \"If an app does not enforce identity-aware retrieval, then a 'normal' user with lower permissions can query the app and access otherwise restricted data. This collapses authorization boundaries down to the lowest privilege level with search capability.\"That gap is what Cioffi's low-privilege test exposed. The assistant's context window contained SharePoint content the low-privilege account could not have retrieved through SharePoint directly. The evaluation had passed. The retrieval permission boundary had not been enforced.Desautels put the evaluation blind spot in operational terms. \"Agents tend to run a single, long-lived, non-human identity that holds a wide range of permissions that it might need for any task it is ever asked to complete,\" he wrote. \"Evaluations also don't often cover prompts, outputs, transcripts, memory, and logs where it can be read or hijacked through injected content. That mismatch is what most current evaluations get wrong.\"Cioffi's filter narrowed the assistant's retrieval scope. It still resolves roughly 60% of emailCioffi's fix did not require a new identity platform. He moved the entitlement decision into the retrieval path itself, adding a query-path filter that checks the requesting user's SharePoint permissions before the model sees a chunk. The filter runs at query time, not at index time. Content the user could not open in SharePoint does not enter the model's context window.The control narrowed what the assistant could reach. The assistant still auto-resolves roughly 60% of inbound email with the filter live, Cioffi told VentureBeat. He did not provide a before-the-filter auto-resolution figure for comparison. The qualitative tradeoff he described is that some content the assistant previously used to answer questions is now excluded because the requesting user's permissions do not reach it. That is the price of enforcing the boundary.The question of whether retrieval-time entitlement filtering is worth the narrowed retrieval scope does not have a single answer. It depends on the sensitivity of the indexed content, the permission variance across the user population, and whether the deployment can tolerate unanswered queries when the filter blocks a chunk the model needs. What Cioffi's incident demonstrates is that the gap exists in custom Azure OpenAI pipelines, that answer-quality evaluations do not catch it, and that a query-path filter closes it at a trade-off the builder can describe.Identity governance platforms address a different layer. Both controls are neededCrowdStrike announced its $740 million acquisition of SGNL on January 8, 2026, and closed the deal on February 20, 2026. Palo Alto Networks announced its $25 billion acquisition of CyberArk in July 2025 and closed the deal on February 11, 2026. Both deals closed the same month, establishing identity security as a platform pillar at two of the largest security vendors in the world.Identity governance platforms focus on which service accounts exist, what they can reach, and when their tokens expire. They govern the lifecycle of the credentials that power AI agents. That layer matters. What it does not govern is the retrieval permission boundary. That is the moment a correctly scoped service account retrieves content on behalf of a user who holds fewer permissions than the indexing job does.Every credential in the chain is legitimate. The service account is clean and properly managed. The knowledge base is correctly indexed. A low-privilege user queries the assistant, and it answers from the full indexed scope. Nothing flags the retrieval because no credential was misused.Cioffi's filter is a control at the retrieval permission boundary layer specifically. Azure AI Search's native ACL trimming addresses the same layer for deployments that use it. Neither replaces identity governance. A production deployment that wants to close both the credential lifecycle gap and the retrieval-time entitlement gap needs controls at both layers.One question and one test, any security team can run Ask whose permissions each AI retrieval system uses when it fetches content. If the deployment uses Azure AI Search with the SharePoint indexer and Entra-backed principals, verify that query-time ACL trimming is enabled and that the user population does not depend on SharePoint site groups. If the deployment uses a custom retrieval pipeline, the entitlement check may not exist at all.Start by proving the answer from a low-privilege account. Run the same question a high-privilege account has already put to the assistant. Compare the outputs against what the low-privilege account can access through the underlying system directly.Desautels confirmed that this is where a red team would start. \"The first test would likely target the gaps between data and instructions, and the gaps between the user's identity and the assistant's own credentials,\" he wrote. \"We'd attempt to plant an instruction within content that we think the assistant will ingest as data. We'd have that content direct a side-effectful, privileged action that the attacking user is not authorized to perform.\" A failing result, in Desautels' assessment, is \"the successful or even partial execution of our injected commands.\"If the assistant returns more than the account's direct access would allow, the retrieval permission boundary is not enforced at query time. That test costs two accounts and thirty minutes. It produces a result an evaluation score cannot replicate.Cioffi built the agent on a custom Azure OpenAI pipeline that bypassed the native ACL trimming layer. He ran every evaluation his team had. He found the gap in his own logs after all of them passed. The evaluation tested whether the agent answered correctly. It did not test whose permissions the agent was using. Run the two-account comparison before the next deployment goes live. Thirty minutes tells you which side of the line you are on.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-09-01T18:59:54+00:00",
@@ -936,7 +981,6 @@
     "title": "SuperPACs are funneling millions of dollars into pro-AI candidates, with Trump saying communities that reject data centers will end up ‘backwards and poor’",
     "description": "AI is being backed by millions of dollars worth of PAC funding, and the future of American data centers could be decided by the midterm elections.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-01T18:55:00+00:00",
@@ -1212,18 +1256,6 @@
     "source_name": "ARSTECHNICA.COM"
   },
   {
-    "link": "https://www.theverge.com/tech/987339/google-september-android-drop-motion-assist-gemini-find-hub",
-    "title": "Google Find Hub will soon help you locate things without a tracker",
-    "description": "Google announced new features coming to Android devices as part of this month's feature drop update. Among the highlights are the introduction of Motion Assist - Android's version of Apple's Motion Cues feature, which tries to reduce motion sickness by overlaying dots on your screen that move in response to a vehicle's movements - as",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-01T18:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/findhub.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.engadget.com/2244171/should-you-remove-carplay-infotainment-screen-film/",
     "title": "Should you remove the film from your CarPlay infotainment screen? It depends",
     "description": "Double-check before you accidentally remove a protective layer of your screen.",
@@ -1280,6 +1312,18 @@
     "pub_date": "2026-09-01T18:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/Koy2RM269QtUxsCuzgrcp4-1280-80.jpg",
     "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/987339/google-september-android-drop-motion-assist-gemini-find-hub",
+    "title": "Google Find Hub will soon help you locate things without a tracker",
+    "description": "Google announced new features coming to Android devices as part of this month's feature drop update. Among the highlights are the introduction of Motion Assist - Android's version of Apple's Motion Cues feature, which tries to reduce motion sickness by overlaying dots on your screen that move in response to a vehicle's movements - as",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-01T18:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/findhub.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.techradar.com/pro/amd-fpga-and-micron-memory-found-in-russias-iskander-1000-ballistic-missile-ukraine-intelligence-claims-but-stopping-illegal-trade-is-nearly-impossible",
@@ -1342,6 +1386,7 @@
     "description": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
     "categories": [
       "AI & Machine Learning",
+      "Breaking News",
       "Software & Apps"
     ],
     "pub_date": "2026-09-01T17:35:37+00:00",
@@ -1519,7 +1564,6 @@
     "title": "Meta launches Muse Voice Transcribe for real-time voice dictation on Mac",
     "description": "Meta is launching Muse Voice Transcribe, its first real-time audio perception model. It brings multilingual, streaming transcription to Meta AI for Mac, Muse Code, and developers through the Meta Model API.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-01T17:00:00+00:00",
@@ -1553,7 +1597,6 @@
     "title": "Razer just released a cute and teensy mobile game controller",
     "description": "It's called Prio and folds up when not in use, making it pocket-friendly.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-09-01T16:50:34+00:00",
@@ -1844,17 +1887,6 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://www.engadget.com/2246413/what-is-dolby-atmos-for-headphones-worth-it-gamers/",
-    "title": "What is Dolby Atmos for Headphones and is it worth it for gamers?",
-    "description": "A look into whether Dolby Atmos for Headphones - with its free trial on both PC and Xbox - can unlock spatial audio on a normal pair of stereo headphones.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-01T16:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/what-is-dolby-atmos-for-headphones-and-is-it-worth-it-for-gamers/l-intro-1787587641.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
     "link": "https://mashable.com/tech/sony-ult-tower-speakers-expansion-price-specs-where-to-buy",
     "title": "Sony expands its ULT line with 3 new tower speakers built for massive bass",
     "description": "On Sept. 1, Sony introduced three new additions to its ULT speaker line: The ULT Tower Max, ULT Tower 5, and ULT Tower 7.",
@@ -1864,6 +1896,17 @@
     "pub_date": "2026-09-01T16:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/04yg1Np7hpJWMtDIfbe7g87/hero-image.png",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2246413/what-is-dolby-atmos-for-headphones-worth-it-gamers/",
+    "title": "What is Dolby Atmos for Headphones and is it worth it for gamers?",
+    "description": "A look into whether Dolby Atmos for Headphones - with its free trial on both PC and Xbox - can unlock spatial audio on a normal pair of stereo headphones.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-01T16:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/what-is-dolby-atmos-for-headphones-and-is-it-worth-it-for-gamers/l-intro-1787587641.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.engadget.com/2247598/sonys-new-ult-tower-are-party-speakers-that-chain-together-with-auracast/",
@@ -2292,50 +2335,5 @@
     "pub_date": "2026-09-01T15:10:58+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techradar.com/tech/amazons-labor-day-sale-is-slashing-prices-on-its-most-popular-tech-save-up-to-64-percent-on-fire-tv-sticks-echo-speakers-ring-doorbells-and-more",
-    "title": "Amazon’s Labor Day sale is slashing prices on its most popular tech — save up to 64% on Fire TV Sticks, Echo speakers, Ring Doorbells and more",
-    "description": "Although Amazon recently raised prices on its best-selling tech gadgets, the retailer is discounting them for Labor Day, and I've rounded up the best deals, with savings of up to 64%.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T15:08:03+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/MjK9iPS4CKoCFAyNNqS5F8-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/life/oliva-miles-wnba-glasses-usa-bogo-deal",
-    "title": "Get a free pair of glasses when you shop WNBA star Olivia Miles collection at GlassesUSA.com",
-    "description": "WNBA All-Star and Minnesota Lynx rookie, Olivia Miles, has an exclusive collection with GlassesUSA.com. Shop now and get your second pair free with code 'BOGOFREE'.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T15:06:48+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03AiEtJcTZqOJkcaWRsDMfk/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/gaming/gaming-accessories/razer-prio-mobile-controller-hands-on-review",
-    "title": "I can't believe how good Razer's tiny new mobile controller is",
-    "description": "I've been using the Razer Prio for the past week, and it's changed my opinion on small controllers.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-01T15:03:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/icxHsEweMQkmjqtHQ9tLBo-1280-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/tim-cook-apple-ceo-memo-employees",
-    "title": "Tim Cook’s farewell memo to Apple employees reportedly leaks online",
-    "description": "Former Apple CEO Tim Cook shared a goodbye memo to Apple employees, and of course, it's broken containment.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T15:01:43+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/016zkua7YdGXiclc6AoZ4Z9/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
