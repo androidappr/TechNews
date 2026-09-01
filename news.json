@@ -1,5 +1,42 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+    "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+    "description": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-01T16:31:04+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2248696/waymo-robotaxi-rides-are-now-open-to-the-public-in-denver-san-diego-and-tampa/",
+    "title": "Waymo robotaxi rides are now open to the public in Denver, San Diego and Tampa",
+    "description": "Waymo robotaxi rides are now open to the public in Denver, San Diego and Tampa.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T16:24:24+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/waymo-robotaxi-rides-are-now-open-to-the-public-in-denver-san-diego-and-tampa/l-intro-1788279807.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260901/p29#a260901p29",
+    "title": "AI power infrastructure company SB Energy, which is backed by SoftBank, OpenAI, and Nvidia, files for an IPO, and says it is \"substantially dependent\" on OpenAI (CJ Haddad/CNBC)",
+    "description": "CJ Haddad / CNBC:\nAI power infrastructure company SB Energy, which is backed by SoftBank, OpenAI, and Nvidia, files for an IPO, and says it is “substantially dependent” on OpenAI  —  SB Energy, the artificial intelligence power infrastructure company backed by Softbank, OpenAI and Nvidia …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T16:20:00+00:00",
+    "image_url": "http://www.techmeme.com/260901/i29.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/startup-launches-27-inch-glasses-free-spatial-3d-display-for-under-usd1200-on-kickstarter",
     "title": "Startup launches 27-inch glasses-free spatial 3D display for under $1200 on Kickstarter",
     "description": "ViewX has launched a Kickstarter campaign for glasses-free 3D displays in 15.6-inch and 27-inch sizes, backed by Tencent's software technology.",
@@ -10,6 +47,19 @@
     "pub_date": "2026-09-01T16:15:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/2YLaCUJfLjWyBbuh4URDeX-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/claude-code-prompt-injection-summarise-website-auto-mode",
+    "title": "A researcher hijacked Claude Code by asking it to summarise a web page",
+    "description": "Ask Claude Code to summarise a web page, and it can end up running an attacker’s code on your machine. A security researcher got that result in up to 80% of his attempts. Jessica Lyons reported the finding for The Register on Friday. The work is by Johann Rehberger, who publishes as wunderwuzzi and has",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-01T16:14:01+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/laptop-code-editor-test-results-desk.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://9to5mac.com/2026/09/01/sonos-unveils-sonos-27-software-with-four-new-features/",
@@ -117,18 +167,6 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://www.engadget.com/2247619/google-brings-its-pics-image-editor-to-ai-pro-and-ultra-subscribers/",
-    "title": "Google brings its Pics image editor to AI Pro and Ultra subscribers",
-    "description": "Google brings its Pics image editor to AI Pro and Ultra subscribers.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T16:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/google-brings-its-pics-image-editor-to-ai-pro-and-ultra-subscribers/l-intro-1788192230.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
     "link": "https://www.engadget.com/2246413/what-is-dolby-atmos-for-headphones-worth-it-gamers/",
     "title": "What is Dolby Atmos for Headphones and is it worth it for gamers?",
     "description": "A look into whether Dolby Atmos for Headphones - with its free trial on both PC and Xbox - can unlock spatial audio on a normal pair of stereo headphones.",
@@ -149,6 +187,18 @@
     ],
     "pub_date": "2026-09-01T16:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/sonys-new-ult-tower-are-party-speakers-that-chain-together-with-auracast/l-intro-1788191777.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2247619/google-brings-its-pics-image-editor-to-ai-pro-and-ultra-subscribers/",
+    "title": "Google brings its Pics image editor to AI Pro and Ultra subscribers",
+    "description": "Google brings its Pics image editor to AI Pro and Ultra subscribers.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T16:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/google-brings-its-pics-image-editor-to-ai-pro-and-ultra-subscribers/l-intro-1788192230.jpg",
     "source_name": "ENGADGET.COM"
   },
   {
@@ -299,8 +349,8 @@
   },
   {
     "link": "https://www.techmeme.com/260901/p26#a260901p26",
-    "title": "A consortium of 21 banks, including Bank of America, Citigroup, and Goldman Sachs, plans to establish a company and launch its stablecoin venture in H1 2027 (Gina Heeb/Wall Street Journal)",
-    "description": "Gina Heeb / Wall Street Journal:\nA consortium of 21 banks, including Bank of America, Citigroup, and Goldman Sachs, plans to establish a company and launch its stablecoin venture in H1 2027  —  Twenty-one firms, including several megabanks, plan to establish a company that would help guard against competition from digital assets",
+    "title": "A consortium of 21 banks, including Bank of America, Citigroup, and Goldman Sachs, says it will establish a company and launch its stablecoin venture in H1 2027 (Gina Heeb/Wall Street Journal)",
+    "description": "Gina Heeb / Wall Street Journal:\nA consortium of 21 banks, including Bank of America, Citigroup, and Goldman Sachs, says it will establish a company and launch its stablecoin venture in H1 2027  —  Twenty-one firms, including several megabanks, plan to establish a company that would help guard against competition from digital assets",
     "categories": [
       "Tech News"
     ],
@@ -842,8 +892,8 @@
   },
   {
     "link": "https://www.techmeme.com/260901/p19#a260901p19",
-    "title": "Waymo starts offering driverless rides to customers in San Diego, Tampa, Florida, and Denver; Amazon's Zoox plans to start testing in Houston and San Diego (Lora Kolodny/CNBC)",
-    "description": "Lora Kolodny / CNBC:\nWaymo starts offering driverless rides to customers in San Diego, Tampa, Florida, and Denver; Amazon's Zoox plans to start testing in Houston and San Diego  —  Alphabet's Waymo is expanding its commercial service, and Amazon's Zoox said it plans to test in more U.S. cities, as the nascent robotaxi market gains momentum.",
+    "title": "Waymo starts offering driverless rides to customers in San Diego, Tampa, Florida, and Denver; Amazon's Zoox says it will start testing in Houston and San Diego (Lora Kolodny/CNBC)",
+    "description": "Lora Kolodny / CNBC:\nWaymo starts offering driverless rides to customers in San Diego, Tampa, Florida, and Denver; Amazon's Zoox says it will start testing in Houston and San Diego  —  Alphabet's Waymo is expanding its commercial service, and Amazon's Zoox said it plans to test in more U.S. cities, as the nascent robotaxi market gains momentum.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -2292,50 +2342,5 @@
     "pub_date": "2026-09-01T09:50:01+00:00",
     "image_url": "http://www.techmeme.com/260901/i5.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/sept-1-skyrover-s1-drone-dji-dupe-deal",
-    "title": "Skip the DJI markup: The lightweight Skyrover S1 Mini drone hits a record-low price at Amazon",
-    "description": "Get the best drone deal on Amazon. Save 20% on the Skyrover S1 Mini Drone Combo at Amazon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T09:43:18+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03hSL7UnML2c4BcLnLggvr0/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260901/p4#a260901p4",
-    "title": "Hong Kong-listed Z.ai reports H1 2026 revenue up 5x YoY to ~$142M, with \"open platform and API revenue\" up 28x to ~$122M, and net loss down 12% YoY to ~$308M (Juro Osawa/The Information)",
-    "description": "Juro Osawa / The Information:\nHong Kong-listed Z.ai reports H1 2026 revenue up 5x YoY to ~$142M, with “open platform and API revenue” up 28x to ~$122M, and net loss down 12% YoY to ~$308M  —  Chinese AI firm Z.ai's revenue in the first half jumped nearly fivefold from a year earlier to 954 million yuan …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T09:40:01+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/health-fitness/oral-health/dyson-camerajet-review",
-    "title": "Dyson CameraJet review: This game-changing toothbrush offers liquid flossing, precision-brushing and a camera that doubles as a dental endoscope — I tried it for a week",
-    "description": "The live-streaming Dyson CameraJet toothbrush is stuffed with gadgets and works a treat — but be prepared to pay a premium.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T09:33:39+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/tF6Dk5vQsUhHSncd9yVHya-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/dyson-camerajet-electric-toothbrush-and-flosser/",
-    "title": "Dyson’s Next Act Is an Electric Toothbrush With a Camera",
-    "description": "The company known for stick vacuums and hair dryers is coming for your teeth. The $499 Dyson CameraJet uses a tiny camera to aim streams of rinsing fluid into the gaps between your teeth.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-01T09:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6a9163be72895b5a248bbc80/master/pass/OC01_PPIDROSSVL_084-CMYK-InSitu-Sink-Tap-A2_MIX.jpeg",
-    "source_name": "WIRED.COM"
   }
 ]
