@@ -1,10 +1,33 @@
 [
   {
+    "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+    "description": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-01T00:13:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260831/p43#a260831p43",
+    "title": "Anthropic details security efforts following Claude cyber evaluation incidents, including a weeks-long pause on higher-risk RL and work to curb reward hacking (Anthropic)",
+    "description": "Anthropic:\nAnthropic details security efforts following Claude cyber evaluation incidents, including a weeks-long pause on higher-risk RL and work to curb reward hacking  —  On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T00:10:02+00:00",
+    "image_url": "http://www.techmeme.com/260831/i43.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/tablets/looking-for-a-budget-android-tablet-tcl-has-two-new-11-inch-models-starting-at-190/",
-    "title": "Looking for a budget Android tablet? TCL just launched two 11-inch models starting at $190",
+    "title": "TCL debuts two new budget friendly 11-inch Android tablets, starting at $190",
     "description": "TCL expands its TAB A1 lineup with two new budget friendly 11-inch tablets, both packing Helio G100 chip, 8,000mAh battery, and same storage options.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-31T23:51:30+00:00",
@@ -223,7 +246,7 @@
   },
   {
     "link": "https://9to5mac.com/2026/08/31/codex-report-four-months-of-building-joy-on-my-mac-with-chatgpt/",
-    "title": "Codex report: Four months of building joy on my Mac with ChatGPT",
+    "title": "How I’m using Codex and ChatGPT on my Mac",
     "description": "9to5Mac is brought to you by Memoket: The Memoket Gem is an 11g AI wearable that slots beside your Apple Watch in a co-wear band. Press once to capture a conversation, and Gem connects it to what you discussed weeks ago — surfacing the earlier thread with a source link. From $179, shipping August 2026.\n\n\n\n\n\n\n\nIn 2023, early adopters were just getting to know ChatGPT and AI chatbot tech. Three years later, OpenAI’s Codex agent, now part of the ChatGPT desktop app, has brought about a similar season of learning. Here’s how I’m using ChatGPT, Codex, and more on my Mac.\n\n\n\n more…",
     "categories": [
       "Breaking News",
@@ -567,8 +590,7 @@
     "title": "AI chatbots are safer than before, but they still have a troubling blind spot",
     "description": "Newer AI models rarely encourage suicide anymore, but a new Transluce study found they still comply with self-harm creative writing requests.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-08-31T20:07:27+00:00",
     "image_url": "https://www.digitaltrends.com/tachyon/2026/08/ai-chatbots.jpg?resize=440%2C292",
@@ -603,7 +625,6 @@
     "title": "Review: Coyote vs. Acme is an unabashed love letter to Looney Tunes",
     "description": "Director Dave Green's live action/animated hybrid captures smart, subversive weirdness of the classic cartoons.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-31T20:02:16+00:00",
@@ -787,7 +808,6 @@
     "title": "Sony Debuts Ad-Supported Live TV on PS5 with Over 100 Channels",
     "description": "Sony’s ad-supported service includes news, TV, movies, sports and anime.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-31T19:16:16+00:00",
@@ -1040,7 +1060,6 @@
     "title": "We found the best Labor Day 2026 streaming deals (including a $20 Fire Stick)",
     "description": "Labor Day deals are already making this a great time to buy a streaming device, and these prices are hard to beat.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-31T18:15:20+00:00",
@@ -1086,7 +1105,6 @@
     "title": "Sony launches Live TV on PS5 in the US, letting users stream 100+ free, ad-supported TV channels with content from Amazon MGM Studios, Crunchyroll, and more (Kris Holt/Engadget)",
     "description": "Kris Holt / Engadget:\nSony launches Live TV on PS5 in the US, letting users stream 100+ free, ad-supported TV channels with content from Amazon MGM Studios, Crunchyroll, and more  —  Ad-supported streaming channels are hitting Sony's console in the US today.  —  PlayStation 5 owners in the US will be able to stream free …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-08-31T18:05:02+00:00",
@@ -2252,29 +2270,5 @@
     "pub_date": "2026-08-31T14:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/garmin-cirqa-review-a-fine-but-utterly-inessential-smart-band/l-intro-1787917010.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
-    "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
-    "description": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every major tech issue there is. For example, Meta just reached",
-    "categories": [
-      "AI & Machine Learning",
-      "Government & Policy",
-      "Social & Media"
-    ],
-    "pub_date": "2026-08-31T14:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_Hochul.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/streaming/7-new-horror-movies-on-netflix-hbo-max-shudder-and-more-in-september-2026",
-    "title": "7 new horror movies on Netflix, HBO Max, Shudder, and more in September 2026",
-    "description": "September is packed full of great horror movies — here are seven recommendations to keep you entertained this month.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-08-31T14:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/tkSFZpsyV3q4LCnSZuMAvF-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
