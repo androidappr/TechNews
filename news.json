@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://9to5mac.com/2026/09/01/anthropic-upgrades-claude-with-new-fable-5-1-model-details-here/",
+    "title": "Anthropic upgrades Claude with new Fable 5.1 model, details here",
+    "description": "In June, Anthropic first released Fable 5, its Mythos-class AI model for Claude. Three months later, Anthropic is enhancing Claude with its new Fable 5.1 model upgrade.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T18:10:16+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260901/p33#a260901p33",
+    "title": "Félix, an AI-powered WhatsApp remittance platform focused on Latinos in the US, raised a $200M Series C co-led by a16z and GC, including $113M in debt (Mary Ann Azevedo/Crunchbase News)",
+    "description": "Mary Ann Azevedo / Crunchbase News:\nFélix, an AI-powered WhatsApp remittance platform focused on Latinos in the US, raised a $200M Series C co-led by a16z and GC, including $113M in debt  —  Félix, an AI-powered WhatsApp remittance platform for Latino immigrants, announced on Tuesday that it has secured $200 million …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T18:10:00+00:00",
+    "image_url": "http://www.techmeme.com/260901/i33.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/waymo-denver-snow-eu-operational-design-domain-type-approval-munich",
+    "title": "Waymo opens driverless rides in Denver, San Diego and Tampa",
+    "description": "Waymo opened driverless rides in Denver, San Diego and Tampa, and Denver is its first commercial deployment in a city with real snowfall. Under EU rules an automated driving system’s weather envelope is part of a type-approved operational design domain, and the vehicle must perform a minimum risk manoeuvre when it reaches the boundary. Waymo",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-01T18:06:14+00:00",
+    "image_url": "https://media.thenextweb.com/2026/06/waymo-premier-subscription-29-99-robotaxi.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/apple-tv-and-peacock-bundle-prices-have-changed-too/",
+    "title": "Apple TV and Peacock Bundle Prices Have Changed, Too",
+    "description": "Last week’s price bump also hit these Apple TV streaming bundles.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T18:03:57+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/a54fb519-0e75-44e7-8528-24d3a19b4c60.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/mobile/android-new-features-motion-sickness-chat-updates/",
+    "title": "Android’s New Features Have Me Excited, Especially This One for Motion Sickness",
+    "description": "The latest additions coming to Android include chat themes, visual assistance in Gemini Live and a motion sickness feature that I can’t wait to try.",
+    "categories": [
+      "Breaking News",
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-09-01T18:03:09+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Motion-Assist-promo-image.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/987339/google-september-android-drop-motion-assist-gemini-find-hub",
     "title": "Google Find Hub will soon help you locate things without a tracker",
     "description": "Google announced new features coming to Android devices as part of this month's feature drop update. Among the highlights are the introduction of Motion Assist - Android's version of Apple's Motion Cues feature, which tries to reduce motion sickness by overlaying dots on your screen that move in response to a vehicle's movements - as",
@@ -10,6 +70,29 @@
     "pub_date": "2026-09-01T18:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/findhub.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2244171/should-you-remove-carplay-infotainment-screen-film/",
+    "title": "Should you remove the film from your CarPlay infotainment screen? It depends",
+    "description": "Double-check before you accidentally remove a protective layer of your screen.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T18:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/should-you-remove-the-film-from-your-carplay-infotainment-screen-it-depends/l-intro-1785858518.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2247151/new-android-find-hub-feature-will-help-you-remember-where-you-put-important-things/",
+    "title": "A new Android Find Hub feature will help you remember where you put important things",
+    "description": "Google also announced a new visual assistant for Gemini Live and Keep integration with Messages.",
+    "categories": [
+      "Breaking News",
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-09-01T18:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/a-new-android-find-hub-feature-will-help-you-remember-where-you-put-important-things/l-intro-1788124421.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.androidcentral.com/apps-software/google-adds-shared-keep-notes-and-custom-themes-to-messages",
@@ -40,6 +123,7 @@
     "title": "Android Drop: Google's Motion Assist and Guided Vision are two features I'm ready for on Android",
     "description": "Google's September Android Drop looks to help users suffering from motion sickness in cars, and there's a \"Guided Vision\" Accessibility feature on the way.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-01T18:00:00+00:00",
@@ -67,6 +151,18 @@
     "pub_date": "2026-09-01T17:50:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/UgCf3tNYvSJsCa9pAqzrvL-1280-80.webp",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/home-entertainment/roku-pro-tv-now-one-of-cheapest-oleds-starting-at-999/",
+    "title": "Roku Pro TV Now One of Cheapest OLEDs Starting at $999",
+    "description": "The Roku Pro OLED TVs promise better picture quality at an affordable price.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T17:43:18+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Roku-Pro-OLED.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://www.engadget.com/2248777/reasonable-consumers-know-they-dont-own-digital-downloads-sony-says/",
@@ -132,7 +228,7 @@
   },
   {
     "link": "https://9to5mac.com/2026/09/01/read-new-apple-ceo-john-ternuss-full-memo-to-employees/",
-    "title": "Read new Apple CEO John Ternus’s full memo to employees",
+    "title": "Read John Ternus’s full memo to Apple employees on his first day as CEO",
     "description": "New Apple CEO John Ternus has just sent his first company-wide memo. In it, Ternus thanks Tim Cook and recognizes that Apple is “so lucky to have had a CEO who led with his values and with such decency and humanity.”\n\n\n\n“We have a huge launch next week that’s going to be phenomenal,” Ternus also says, in reference to Apple’s forthcoming “Surprise and shine” special event.\n\n\n\nRead the full memo, obtained by 9to5Mac, below. \n\n\n\n more…",
     "categories": [
       "Breaking News",
@@ -1284,30 +1380,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.engadget.com/2248155/sonos-unveils-new-beam-ultra-soundbar-with-true-7-1-2-dolby-atmos/",
-    "title": "Sonos unveils new Beam Ultra soundbar with 'true 7.1.2 Dolby Atmos'",
-    "description": "The refreshed model with better surround sound will cost $699.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T14:40:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/sonos-unveils-new-beam-ultra-soundbar-with-true-7-1-2-dolby-atmos/l-intro-1788210919.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2248071/sonos-ace-ultra-headphones-can-swap-audio-with-any-sonos-speaker/",
-    "title": "Sonos' Ace Ultra headphones can swap audio with any Sonos speaker",
-    "description": "The upgraded headphones also feature improved ANC and longer battery life.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T14:40:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/sonos-ace-ultra-headphones-can-swap-audio-with-any-sonos-speaker/l-intro-1788207486.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
     "link": "https://www.cnet.com/tech/mobile/sonos-ace-ultra-headphones-get-upgraded-sound-noise-canceling-and-direct-link-to-your-sonos-system/",
     "title": "Sonos Ace Ultra Headphones Get Upgraded Sound, Noise Canceling and Direct Link to Your Sonos System",
     "description": "The $449 headphones feature an all-new driver, next-generation adaptive ANC and a direct connection to your Sonos system.",
@@ -1330,6 +1402,30 @@
     "pub_date": "2026-09-01T14:40:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Beam-Ultra-6-1.jpg",
     "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2248155/sonos-unveils-new-beam-ultra-soundbar-with-true-7-1-2-dolby-atmos/",
+    "title": "Sonos unveils new Beam Ultra soundbar with 'true 7.1.2 Dolby Atmos'",
+    "description": "The refreshed model with better surround sound will cost $699.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T14:40:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/sonos-unveils-new-beam-ultra-soundbar-with-true-7-1-2-dolby-atmos/l-intro-1788210919.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2248071/sonos-ace-ultra-headphones-can-swap-audio-with-any-sonos-speaker/",
+    "title": "Sonos' Ace Ultra headphones can swap audio with any Sonos speaker",
+    "description": "The upgraded headphones also feature improved ANC and longer battery life.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T14:40:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/sonos-ace-ultra-headphones-can-swap-audio-with-any-sonos-speaker/l-intro-1788207486.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://thenextweb.com/news/us-g20-hands-off-ai-regulation",
@@ -2267,94 +2363,5 @@
     "pub_date": "2026-09-01T11:43:59+00:00",
     "image_url": "https://www.digitaltrends.com/tachyon/2026/08/samsung-galaxy-z-fold8-31.jpg?resize=440%2C292",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/nexperia-china-court-asset-freeze-wingtech",
-    "title": "A Chinese court has frozen Nexperia’s stakes in four of its own subsidiaries",
-    "description": "A court in Dongguan has frozen Nexperia’s shareholdings in four of its Chinese subsidiaries, worth about 2.14 billion yuan, with the order remaining in place until August 2029. The order took effect in the last week of August, Reuters reported. The assets include Nexperia’s stakes in semiconductor operations in Wuxi and Shanghai, as well as",
-    "categories": [
-      "Government & Policy"
-    ],
-    "pub_date": "2026-09-01T11:43:58+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/Nexperia.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/phones/the-enough-phone-aims-to-bring-the-compact-phone-back-with-a-smaller-screen-than-the-iphone-13-mini-and-a-removable-battery",
-    "title": "The Enough Phone aims to bring the compact phone back with a smaller screen than the iPhone 13 mini and a removable battery",
-    "description": "The Enough Phone should serve fans of compact handsets thanks to its 5.3-inch screen, but it still needs funding.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T11:40:41+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/5KrDDD2BDqm9bBtvMhYPaV-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/best-buys-labor-day-laptop-sale-has-5-deals-id-actually-buy/",
-    "title": "Best Buy’s Labor Day laptop sale has 5 deals I’d actually buy",
-    "description": "Best Buy’s Labor Day laptop sale has plenty of discounts, but these five are the ones I’d actually consider buying.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T11:38:08+00:00",
-    "image_url": "https://www.digitaltrends.com/tachyon/2026/09/ASUS-Chromebook-Plus-CX34.jpeg?resize=440%2C292",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techradar.com/streaming/hulu/what-is-the-release-date-for-the-shards-episode-8-on-hulu-and-disney",
-    "title": "What is the release date for The Shards episode 8 on Hulu and Disney+?",
-    "description": "This is our second double bill, and you won't want to miss it.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T11:35:22+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/bDXvjPpy65XgaBk9K4yva9-1280-80.webp",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.wired.com/gallery/best-folding-phones/",
-    "title": "5 Best Folding Phones (2026): Samsung, Google, Motorola",
-    "description": "Ready to move on from the traditional glass slab? Introduce a hinge into your life with these folding smartphones.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-01T11:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6a95dec17beacade09680cbc/master/pass/The-Best-Folding-Phones.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/life/lego-wallace-gromit-release-date-price-where-to-buy",
-    "title": "Legos new Wallace and Gromit set gives Aardmans beloved duo a brick-built makeover — where to preorder",
-    "description": "Lego has revealed a delightful new Wallace & Gromit set (21371) that's now available to preorder for $99.99 ahead of its Oct. 1 release.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T11:28:47+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01izLbQuaxuFKPY8VFheTP6/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.cnet.com/health/personal-care/dyson-blasts-dental-care-499-toothbrush-featuring-camera/",
-    "title": "Dyson Blasts Into Dental Care With a $499 Camera-Equipped Toothbrush",
-    "description": "Dyson’s entry into dental care makes your standard toothbrush look like a caveman’s toothbrush.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T11:25:37+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Dyson-CameraJet-1.jpeg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260901/p12#a260901p12",
-    "title": "A look at Tim Cook's 15-year tenure: Apple silicon, wearables, hitting a $1T market cap, privacy, Apple Vision Pro, Apple Car, AI, App Store battles, and Trump (Emma Roth/The Verge)",
-    "description": "Emma Roth / The Verge:\nA look at Tim Cook's 15-year tenure: Apple silicon, wearables, hitting a $1T market cap, privacy, Apple Vision Pro, Apple Car, AI, App Store battles, and Trump  —  Expectations for Tim Cook were almost impossibly high when he stepped in to replace Apple's visionary co-founder in 2011.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T11:25:01+00:00",
-    "image_url": "http://www.techmeme.com/260901/i12.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
