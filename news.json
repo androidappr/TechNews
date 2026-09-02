@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://thenextweb.com/news/uber-3300-job-cuts-nigeria-uganda-exit-eu-collective-redundancies-directive",
+    "title": "Uber cuts 10% of its workforce and shuts down in Nigeria and Uganda",
+    "description": "Uber is cutting about 3,300 roles, roughly 10% of its workforce, and shutting down in Nigeria and Uganda as it redirects spending towards robotaxis. Its internal memo says everyone affected has been notified except where local process applies, which in the EU means consultation with workers’ representatives and a 30-day wait after notifying the authorities.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-02T19:40:05+00:00",
+    "image_url": "https://media.thenextweb.com/2026/05/Uber.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
+    "title": "It sure looks like hackers breached a major ID card verification service",
+    "description": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-02T19:35:09+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
     "title": "Delivery Hero board backs Uber’s $15B takeover bid",
     "description": "If approved, the combined company would become one of the largest food delivery platforms in the world.",
@@ -23,8 +46,8 @@
   },
   {
     "link": "https://www.techmeme.com/260902/p36#a260902p36",
-    "title": "Meta rolls out Muse Spark 1.3 in Muse Code and Meta's API, saying it significantly improves coding and agentic performance, at the same price as its predecessor (Ina Fried/Axios)",
-    "description": "Ina Fried / Axios:\nMeta rolls out Muse Spark 1.3 in Muse Code and Meta's API, saying it significantly improves coding and agentic performance, at the same price as its predecessor  —  Meta on Wednesday released Muse Spark 1.3, an update it says significantly improves performance in coding and agentic tasks.",
+    "title": "Meta rolls out Muse Spark 1.3 in Muse Code and Meta Model API, saying it significantly improves coding and agentic performance, at the same price as Spark 1.2 (Ina Fried/Axios)",
+    "description": "Ina Fried / Axios:\nMeta rolls out Muse Spark 1.3 in Muse Code and Meta Model API, saying it significantly improves coding and agentic performance, at the same price as Spark 1.2  —  Meta on Wednesday released Muse Spark 1.3, an update it says significantly improves performance in coding and agentic tasks.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -994,7 +1017,6 @@
     "title": "Digital scans of more than 153 million driver's licenses leaked to the dark web",
     "description": "The source could be an ID verification service in Louisiana, though the FBI has opened an investigation.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-09-02T15:45:14+00:00",
@@ -1006,7 +1028,6 @@
     "title": "Google dodges another breakup attempt",
     "description": "US District Court Judge Leonie Brinkema declined the Justice Department's request to make Google sell off parts of its ad tech business, accepting milder remedies to restore competition to markets it illegally monopolized for years. Brinkema said she would adopt most of the behavioral changes proposed by the parties, with some modifications. But those won't",
     "categories": [
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-09-02T15:42:17+00:00",
@@ -1062,7 +1083,6 @@
     "title": "Google releases Gemini 3.8 Flash, three weeks after Gemini 3.7 Flash, for an introductory price of $0.75/1M input and $3.75/1M output tokens until December 31 (Abner Li/9to5Google)",
     "description": "Abner Li / 9to5Google:\nGoogle releases Gemini 3.8 Flash, three weeks after Gemini 3.7 Flash, for an introductory price of $0.75/1M input and $3.75/1M output tokens until December 31  —  After the last model release three weeks ago, Google today is rolling out Gemini 3.8 Flash.  This marks the third Flash update in three months.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-02T15:35:02+00:00",
@@ -2290,28 +2310,5 @@
     "pub_date": "2026-09-02T11:15:01+00:00",
     "image_url": "http://www.techmeme.com/260902/i13.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/when-ai-agents-go-rogue-the-law-doesnt-disappear",
-    "title": "When AI agents go rogue, the law doesn’t disappear",
-    "description": "As autonomous AI crosses digital boundaries, organizations face growing questions of control, negligence and liability.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T11:03:47+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
-    "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
-    "description": "What can we learn from a BGP hijacking that poisoned production software? Plenty.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-02T11:00:43+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-11477585601-1000x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
