@@ -1,5 +1,27 @@
 [
   {
+    "link": "https://9to5mac.com/2026/09/02/ryan-reynolds-new-apple-tv-spy-movie-is-a-winner-reviews-here/",
+    "title": "Ryan Reynolds’ new Apple TV spy movie is a winner, reviews here",
+    "description": "Apple TV kicks off its big fall lineup this week with Mayday, a new Ryan Reynolds film that’s part buddy comedy, part action spy thriller. And the first reviews say the movie’s a winner.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T19:53:35+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ryan-reynolds-mayday-jacket.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260902/p37#a260902p37",
+    "title": "Mark Zuckerberg says Meta's Watermelon model and Muse Spark open weights are \"coming soon\" (Mark Zuckerberg/@finkd)",
+    "description": "Mark Zuckerberg / @finkd:\nMark Zuckerberg says Meta's Watermelon model and Muse Spark open weights are “coming soon”  —  Muse Spark 1.3 is rolling out today with frontier performance almost too cheap to meter. This is the biggest jump we've made so far on coding and agentic work. Try it in Muse Code and our API. Next up 🍉 and Muse Spark open weights releases coming soon.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T19:45:22+00:00",
+    "image_url": "http://www.techmeme.com/img/pml.png",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/uber-3300-job-cuts-nigeria-uganda-exit-eu-collective-redundancies-directive",
     "title": "Uber cuts 10% of its workforce and shuts down in Nigeria and Uganda",
     "description": "Uber is cutting about 3,300 roles, roughly 10% of its workforce, and shutting down in Nigeria and Uganda as it redirects spending towards robotaxis. Its internal memo says everyone affected has been notified except where local process applies, which in the EU means consultation with workers’ representatives and a 30-day wait after notifying the authorities.",
@@ -10,6 +32,18 @@
     "pub_date": "2026-09-02T19:40:05+00:00",
     "image_url": "https://media.thenextweb.com/2026/05/Uber.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/gaming/the-new-york-times-just-dropped-a-brand-new-wordle-spinoff/",
+    "title": "The New York Times Just Dropped a Brand-New Wordle Spinoff",
+    "description": "Wordle in 1 is included in a group of bonus puzzles that will arrive every Wednesday.",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-09-02T19:37:31+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/wordle-in-1.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
@@ -293,6 +327,18 @@
     "source_name": "WIRED.COM"
   },
   {
+    "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+    "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+    "description": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-02T18:13:54+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-1-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/security/over-5-000-dropbox-accounts-have-been-hacked-and-the-attackers-only-needed-an-email-address",
     "title": "Over 5,000 Dropbox accounts have been hacked, and the attackers only needed an email address",
     "description": "A bug in Lenovo's ID verification system made it possible to access Dropbox accounts, but the bug has since been fixed.",
@@ -363,6 +409,20 @@
     "pub_date": "2026-09-02T17:59:09+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/circular-ring-3-ifa-berlin-ecg-fda-clearance-eu-mdr-ce-marking.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+    "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+    "description": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-02T17:58:33+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2250714805-1024x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://mashable.com/tech/openai-astra-critical-cyber-capabilities",
@@ -935,8 +995,7 @@
     "title": "Caira’s AI mirrorless camera is getting ‘Nano Banana for video editing’ — but it only works on footage you’ve actually shot",
     "description": "Caira’s new generative video tools can transform footage using natural-language instructions while keeping the original recording at the heart of every edit.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-02T16:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/b7SdxEFEuvGYUaQiyDfGBa-1280-80.jpg",
@@ -970,7 +1029,6 @@
     "description": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-09-02T15:51:46+00:00",
@@ -994,8 +1052,7 @@
     "title": "Google is sending MrBeast into the wilderness, armed with AI",
     "description": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness survival advice: First up on September 5 is a new MrBeast video following Jimmy and his crew",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-02T15:47:03+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2255012715.jpg?quality=90&strip=all&crop=0,0,100,100",
@@ -1083,6 +1140,7 @@
     "title": "Google releases Gemini 3.8 Flash, three weeks after Gemini 3.7 Flash, for an introductory price of $0.75/1M input and $3.75/1M output tokens until December 31 (Abner Li/9to5Google)",
     "description": "Abner Li / 9to5Google:\nGoogle releases Gemini 3.8 Flash, three weeks after Gemini 3.7 Flash, for an introductory price of $0.75/1M input and $3.75/1M output tokens until December 31  —  After the last model release three weeks ago, Google today is rolling out Gemini 3.8 Flash.  This marks the third Flash update in three months.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-02T15:35:02+00:00",
@@ -2255,60 +2313,5 @@
     "pub_date": "2026-09-02T11:30:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/epilogue-operator-sean-hollister-verge-331A2011.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/02/fbi-investigates-as-hackers-sell-digital-scans-of-153m-drivers-licenses/",
-    "title": "FBI investigates as hackers sell digital scans of 153M drivers licenses",
-    "description": "The Federal Bureau of Investigation (FBI) is reportedly investigating identity theft as digital scans of more than 153 million driver’s licenses went on sale on the dark web. Additional documents offered through a massive security breach include medical cards, residence cards, and more.\n\n\n\nThe licenses belong to people in the US and Canada, and appear to have been collected by hacking an identity verification service … \n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T11:28:58+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/FBI-says-cyber-fraud-cost-Americans-21B-last-year-–-heres-what-you-need-to-know.jpeg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/phones/google-messages-now-has-google-keep-integration-making-group-plans-much-easier-to-manage/",
-    "title": "Google Messages now has Google Keep integration, making group plans much easier to manage",
-    "description": "Google Messages is adding Google Keep integration, letting people create and edit shared notes and lists without leaving a conversation.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T11:28:05+00:00",
-    "image_url": "https://www.digitaltrends.com/tachyon/2026/09/Google-messages-google-keep-integration.jpg?resize=440%2C292",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techradar.com/streaming/netflix/the-whisper-man-review-robert-deniro-and-adam-scott-cant-redeem-this-predictable-and-disappointing-netflix-movie",
-    "title": "The Whisper Man review — Robert DeNiro and Adam Scott can't redeem this predictable and disappointing Netflix movie",
-    "description": "The Whisper Man is another dud for Netflix, which is a shame considering a star-studded cast was attached to the project.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T11:20:16+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/LW2EUhsGBATa5fCPATgzof-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/",
-    "title": "Is Russia's rival to Starlink failing? Here's what we know.",
-    "description": "At least three of the first 32 Rassvet satellites likely suffered outright failures, and more may be in trouble.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-02T11:15:23+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/rassvet_1-1152x648-1788302694.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260902/p13#a260902p13",
-    "title": "Acer unveils the Swift Blade 14, an ultralight laptop weighing 1.76lbs with Intel Wildcat Lake processors, and the Swift Air 16, set to launch in December (Antonio G. Di Benedetto/The Verge)",
-    "description": "Antonio G. Di Benedetto / The Verge:\nAcer unveils the Swift Blade 14, an ultralight laptop weighing 1.76lbs with Intel Wildcat Lake processors, and the Swift Air 16, set to launch in December  —  ﻿The half-inch thin laptop is joined by a new, much larger Swift Air 16 — both with Intel Wildcat Lake.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T11:15:01+00:00",
-    "image_url": "http://www.techmeme.com/260902/i13.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
