@@ -198,7 +198,6 @@
     "title": "Sources: Cognition is raising around $1B at a ~$47B valuation, up from $26B in May; Cognition received nearly $10B in investor interest (Bloomberg)",
     "description": "Bloomberg:\nSources: Cognition is raising around $1B at a ~$47B valuation, up from $26B in May; Cognition received nearly $10B in investor interest  —  Artificial intelligence coding startup Cognition AI Inc. is set to close a new round of funding that would vault its valuation to about $47 billion, according to people familiar with the efforts.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-02T00:55:01+00:00",
@@ -301,7 +300,6 @@
     "title": "Are We There Yet? Startup Wants to Launch an 80,000-Year Mission to Alpha Centauri",
     "description": "AI data centers in space apparently weren’t enough, so the company decided to give interstellar travel a try.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-09-01T23:40:43+00:00",
@@ -324,7 +322,6 @@
     "title": "India's JioHotstar launches internationally without live sports, replacing Hotstar in the UK, Canada, and Singapore; the company says it has 500M+ MAUs in India (TechCrunch)",
     "description": "TechCrunch:\nIndia's JioHotstar launches internationally without live sports, replacing Hotstar in the UK, Canada, and Singapore; the company says it has 500M+ MAUs in India  —  JioHotstar, the streaming platform controlled by Indian conglomerate Reliance Industries, is taking its brand outside India …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-01T23:30:08+00:00",
@@ -380,7 +377,6 @@
     "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
     "description": "333 miles of real-world range with uncompromised comfort and off-road ability.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-01T23:01:52+00:00",
@@ -392,7 +388,6 @@
     "title": "The Range Rover Electric: Specs, Price, Availability",
     "description": "After long delays, JLR’s biggest gamble with its Range Rover brand is here with huge performance, range, and off-road EV skills. It’s mighty pricey, but the US gets a cheaper model.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-01T23:01:00+00:00",
@@ -426,7 +421,6 @@
     "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
     "description": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
     "categories": [
-      "Breaking News",
       "Software & Apps"
     ],
     "pub_date": "2026-09-01T23:00:00+00:00",
@@ -449,7 +443,6 @@
     "title": "Fermi Explorer Mission plans to launch a spacecraft to Alpha Centauri, the Sun's nearest star system, by 2029, using a trajectory discovered by PSI's AI system (Michelle Kim/MIT Technology Review)",
     "description": "Michelle Kim / MIT Technology Review:\nFermi Explorer Mission plans to launch a spacecraft to Alpha Centauri, the Sun's nearest star system, by 2029, using a trajectory discovered by PSI's AI system  —  A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-01T22:55:00+00:00",
@@ -1653,6 +1646,17 @@
     "source_name": "ENGADGET.COM"
   },
   {
+    "link": "https://www.androidcentral.com/phones/google-pixel/android-drop-google-motion-assist-and-guided-vision-on-android",
+    "title": "Android Drop: Google's Motion Assist and Guided Vision are two features I'm ready for on Android",
+    "description": "Google's September Android Drop looks to help users suffering from motion sickness in cars, and there's a \"Guided Vision\" Accessibility feature on the way.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T18:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/SHQKoFFu7jFKMsDvg7mGta-1280-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
     "link": "https://www.androidcentral.com/apps-software/google-adds-shared-keep-notes-and-custom-themes-to-messages",
     "title": "Google adds shared Keep notes and custom themes to Messages",
     "description": "Google's September Android Drop lets you edit shared Keep notes and set custom themes right in Google Messages.",
@@ -1672,17 +1676,6 @@
     ],
     "pub_date": "2026-09-01T18:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/Koy2RM269QtUxsCuzgrcp4-1280-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/phones/google-pixel/android-drop-google-motion-assist-and-guided-vision-on-android",
-    "title": "Android Drop: Google's Motion Assist and Guided Vision are two features I'm ready for on Android",
-    "description": "Google's September Android Drop looks to help users suffering from motion sickness in cars, and there's a \"Guided Vision\" Accessibility feature on the way.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T18:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/SHQKoFFu7jFKMsDvg7mGta-1280-80.jpg",
     "source_name": "ANDROIDCENTRAL.COM"
   },
   {
