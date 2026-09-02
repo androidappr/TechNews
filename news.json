@@ -386,8 +386,7 @@
     "title": "Google needs Hollywood more than the studios need AI",
     "description": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the studios that would also",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-01T22:50:29+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-3.jpg?quality=90&strip=all&crop=0,0,100,100",
@@ -398,7 +397,6 @@
     "title": "Google launches a Canva alternative that lets you create posters, flyers, and social posts with AI",
     "description": "Google launched Pics, an AI powered design tool built into Workspace, positioning it as a direct alternative to Canva and Adobe Express.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-01T22:49:03+00:00",
@@ -548,7 +546,6 @@
     "title": "Google rolls out its September Android Drop, with remembered items in Find Hub, Guided vision in Gemini Live, Motion Assist to reduce motion sickness, and more (Ryan Whitwam/Ars Technica)",
     "description": "Ryan Whitwam / Ars Technica:\nGoogle rolls out its September Android Drop, with remembered items in Find Hub, Guided vision in Gemini Live, Motion Assist to reduce motion sickness, and more  —  Let's be frank: Some of Google's recent Android feature Drops have been duds, offering little more than an expansion of Gemini summaries and chat functions.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-01T21:55:01+00:00",
@@ -732,7 +729,6 @@
     "title": "Claude Fable 5.1 and Mythos 5.1 are Anthropic's first models to watermark text outputs; a detection API is available to eligible groups as required under EU law (Ben Patterson/PCWorld)",
     "description": "Ben Patterson / PCWorld:\nClaude Fable 5.1 and Mythos 5.1 are Anthropic's first models to watermark text outputs; a detection API is available to eligible groups as required under EU law  —  Anthropic has announced the arrival of its latest Claude models, and just as it promised last month, the new models will add invisible watermarks to all their text replies.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-01T20:55:02+00:00",
@@ -767,7 +763,6 @@
     "description": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware",
       "Software & Apps"
     ],
@@ -791,7 +786,6 @@
     "title": "Apple Maps now uses ‘Lake America’ instead of ‘Lake Ontario’ after Trump order",
     "description": "If you head to Apple Maps today, you’ll notice that Apple has started renaming Lake Ontario to “Lake America.” The move follows Trump’s order last week to change the name as part of an ongoing trade dispute with Canada.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-01T20:49:50+00:00",
@@ -1592,17 +1586,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.androidcentral.com/phones/google-pixel/android-drop-google-motion-assist-and-guided-vision-on-android",
-    "title": "Android Drop: Google's Motion Assist and Guided Vision are two features I'm ready for on Android",
-    "description": "Google's September Android Drop looks to help users suffering from motion sickness in cars, and there's a \"Guided Vision\" Accessibility feature on the way.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T18:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/SHQKoFFu7jFKMsDvg7mGta-1280-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
     "link": "https://www.androidcentral.com/apps-software/google-adds-shared-keep-notes-and-custom-themes-to-messages",
     "title": "Google adds shared Keep notes and custom themes to Messages",
     "description": "Google's September Android Drop lets you edit shared Keep notes and set custom themes right in Google Messages.",
@@ -1622,6 +1605,17 @@
     ],
     "pub_date": "2026-09-01T18:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/Koy2RM269QtUxsCuzgrcp4-1280-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/phones/google-pixel/android-drop-google-motion-assist-and-guided-vision-on-android",
+    "title": "Android Drop: Google's Motion Assist and Guided Vision are two features I'm ready for on Android",
+    "description": "Google's September Android Drop looks to help users suffering from motion sickness in cars, and there's a \"Guided Vision\" Accessibility feature on the way.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T18:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/SHQKoFFu7jFKMsDvg7mGta-1280-80.jpg",
     "source_name": "ANDROIDCENTRAL.COM"
   },
   {
