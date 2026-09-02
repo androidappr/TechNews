@@ -1,5 +1,51 @@
 [
   {
+    "link": "https://www.theverge.com/cs/features/975597/loudoun-county-virginia-data-center-backlash",
+    "title": "Is this the future of America?",
+    "description": "In 2007, the US was on the cusp of an economic recession, and Buddy Rizer was tasked with finding Loudoun County, Virginia, a new way to make money. Rizer’s earlier career as a radio DJ didn’t exactly make him an obvious candidate to find a solution, but he was looking for what he called a",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T10:00:01+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/lede-poster.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/why-zero-trust-is-the-practical-enterprise-access-and-security-model",
+    "title": "Why Zero Trust is the practical enterprise access and security model",
+    "description": "Zero Trust embeds continuous verification, least privilege and network-level controls to strengthen enterprise resilience.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T09:56:05+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/UjSNcAZ5SebctebKAMQNVF-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260902/p9#a260902p9",
+    "title": "Dell unveils the student-focused Dell 14S, with Intel Wildcat Lake chips and starting with 8GB of RAM and 256GB of storage, in a bid to rival the MacBook Neo (Antonio G. Di Benedetto/The Verge)",
+    "description": "Antonio G. Di Benedetto / The Verge:\nDell unveils the student-focused Dell 14S, with Intel Wildcat Lake chips and starting with 8GB of RAM and 256GB of storage, in a bid to rival the MacBook Neo  —  ﻿The Dell 14S promises an aluminum build, Intel Wildcat Lake chips, and lots of battery life — for a price we don't know exactly yet.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T09:45:01+00:00",
+    "image_url": "http://www.techmeme.com/260902/i9.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/dropbox-lenovo-id-breach-5000-accounts",
+    "title": "Dropbox says 5,000 accounts were breached through a Lenovo login",
+    "description": "Somebody registered a Lenovo ID using a stranger’s email address and then used it to sign into that person’s Dropbox account without needing their password. About 5,000 accounts were compromised between August 4 and 21, Dropbox said. The flaw was in a legacy integration between Lenovo ID and Dropbox that did not properly verify email",
+    "categories": [
+      "Business & Startups",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-02T09:42:35+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/Dropbox-logo.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/home/shellys-first-security-camera-avoids-one-annoying-smart-home-trend/",
     "title": "Shelly’s first security camera avoids one annoying smart home trend",
     "description": "Shelly’s first security camera keeps the monthly fees optional, and that alone could make it worth a look.",
@@ -100,6 +146,7 @@
     "title": "Acer's Vero 16 laptop is built to be easily repaired",
     "description": "The Vero 16 includes removable port covers, a detachable external hinge and a latch on the bottom that doesn't require tools to open.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-02T09:30:00+00:00",
@@ -117,6 +164,30 @@
     "pub_date": "2026-09-02T09:30:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/acers-project-dualplay-mini-is-gaming-handheld-that-becomes-a-tiny-laptop/l-intro-1788275125.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/computing/acer-recommits-to-repairability-with-new-vero-16-laptop/",
+    "title": "Acer Recommits to Repairability With New Vero 16 Laptop",
+    "description": "The company also unveils the sleekest Swift yet and a Swift Air update at IFA 2026.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T09:30:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Acer-Vero-16-V16-I71T-Lifestyle-1.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/gaming/acer-shows-off-a-transformer-ish-concept-for-a-windows-gaming-handheld/",
+    "title": "Acer Shows Off a Transformer-ish Concept for a Windows Gaming Handheld",
+    "description": "If it’s going to do double duty as a computer, it might as well have a keyboard, right?",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-09-02T09:30:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/acer-project-dualplay-mini.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://thenextweb.com/news/openai-astra-model-guardrails-cyber",
@@ -524,7 +595,6 @@
     "title": "This new Roomba seals itself to your carpet",
     "description": "iRobot has announced a new flagship robot vacuum, which it will showcase at IFA in Berlin this week, the company's first big tech trade show in years. The Roomba maker will be exhibiting under its new owner, Picea Robotics, the contract manufacturer that purchased the once-troubled American robotics company out of bankruptcy in January. The",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-02T06:00:00+00:00",
@@ -620,6 +690,17 @@
     "source_name": "WIRED.COM"
   },
   {
+    "link": "https://www.wired.com/story/verizon-promo-code/",
+    "title": "Verizon Promo Codes: $200 Verizon Gift Cards | September 2026",
+    "description": "Ready for an upgrade? Apply our latest promotional codes today and choose a select service plan to score a discount with Verizon.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/66ea076e97780c31bf362cf9/master/pass/WIRED-Coupons-14.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.wired.com/story/whoop-promo-code/",
     "title": "Whoop Promo Codes: 20% Off This September 2026",
     "description": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.",
@@ -661,17 +742,6 @@
     ],
     "pub_date": "2026-09-02T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/verizon-promo-code/",
-    "title": "Verizon Promo Codes: $200 Verizon Gift Cards | September 2026",
-    "description": "Ready for an upgrade? Apply our latest promotional codes today and choose a select service plan to score a discount with Verizon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea076e97780c31bf362cf9/master/pass/WIRED-Coupons-14.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -2184,75 +2254,5 @@
     "pub_date": "2026-09-01T18:21:16+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/05/GettyImages-1207345894-1152x648.jpg",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-    "title": "Apple accuses OpenAI of destroying evidence",
-    "description": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the center of the lawsuit, which contained discussions about \"destroying",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-09-01T18:19:26+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKS531_APPLE_V_OPEN_AI2_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/home/vacuums/tineco-puts-smarter-easier-home-cleaning-in-the-spotlight-at-ifa-2026",
-    "title": "Tineco puts smarter, easier home cleaning in the spotlight at IFA 2026",
-    "description": "Led by the Floor One Station S9 Scientist Pro, Tineco’s latest lineup shows how automation can simplify everyday cleaning",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T18:18:21+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/pHAaTSBRyZccWrrMJKTDVN-1280-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/01/anthropic-upgrades-claude-with-new-fable-5-1-model-details-here/",
-    "title": "Anthropic upgrades Claude with new Fable 5.1 model, details here",
-    "description": "In June, Anthropic first released Fable 5, its Mythos-class AI model for Claude. Three months later, Anthropic is enhancing Claude with its new Fable 5.1 model upgrade.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T18:10:16+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260901/p33#a260901p33",
-    "title": "Félix, an AI-powered WhatsApp remittance platform focused on Latinos in the US, raised a $200M Series C co-led by a16z and GC, including $113M in debt (Mary Ann Azevedo/Crunchbase News)",
-    "description": "Mary Ann Azevedo / Crunchbase News:\nFélix, an AI-powered WhatsApp remittance platform focused on Latinos in the US, raised a $200M Series C co-led by a16z and GC, including $113M in debt  —  Félix, an AI-powered WhatsApp remittance platform for Latino immigrants, announced on Tuesday that it has secured $200 million …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T18:10:00+00:00",
-    "image_url": "http://www.techmeme.com/260901/i33.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/waymo-denver-snow-eu-operational-design-domain-type-approval-munich",
-    "title": "Waymo opens driverless rides in Denver, San Diego and Tampa",
-    "description": "Waymo opened driverless rides in Denver, San Diego and Tampa, and Denver is its first commercial deployment in a city with real snowfall. Under EU rules an automated driving system’s weather envelope is part of a type-approved operational design domain, and the vehicle must perform a minimum risk manoeuvre when it reaches the boundary. Waymo",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-01T18:06:14+00:00",
-    "image_url": "https://media.thenextweb.com/2026/06/waymo-premier-subscription-29-99-robotaxi.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/services-and-software/apple-tv-and-peacock-bundle-prices-have-changed-too/",
-    "title": "Apple TV and Peacock Bundle Prices Have Changed, Too",
-    "description": "Last week’s price bump also hit these Apple TV streaming bundles.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T18:03:57+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/a54fb519-0e75-44e7-8528-24d3a19b4c60.jpg",
-    "source_name": "CNET.COM"
   }
 ]
