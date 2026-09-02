@@ -1,5 +1,51 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
+    "title": "Delivery Hero board backs Uber’s $15B takeover bid",
+    "description": "If approved, the combined company would become one of the largest food delivery platforms in the world.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T19:25:35+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/adobe-brings-image-video-and-pdf-creation-directly-into-slack/",
+    "title": "Adobe brings image, video, and PDF creation directly into Slack",
+    "description": "Adobe for Slack lets users create images, videos, and PDFs by prompting Slackbot, which routes requests to over 70 Adobe creative tools.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T19:24:57+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/09/adoble-slack-integration.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260902/p36#a260902p36",
+    "title": "Meta rolls out Muse Spark 1.3 in Muse Code and Meta's API, saying it significantly improves coding and agentic performance, at the same price as its predecessor (Ina Fried/Axios)",
+    "description": "Ina Fried / Axios:\nMeta rolls out Muse Spark 1.3 in Muse Code and Meta's API, saying it significantly improves coding and agentic performance, at the same price as its predecessor  —  Meta on Wednesday released Muse Spark 1.3, an update it says significantly improves performance in coding and agentic tasks.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T19:23:54+00:00",
+    "image_url": "http://www.techmeme.com/260902/i36.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/coder-agent-relay-cursor-cloud-agents-self-hosted-dora-article-30",
+    "title": "Coder launches Agent Relay with SpaceXAI, running Cursor’s cloud agents on customer infrastructure",
+    "description": "Coder has announced Agent Relay, a self-hosted execution environment that lets Cursor’s cloud agents run inside a customer’s own infrastructure, with SpaceXAI as launch partner and the product in private preview. Cursor continues to run inference and planning, so under the EU’s Digital Operational Resilience Act it remains an ICT third-party provider. Coder has announced",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-02T19:20:01+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/coder-agent-relay-cursor-cloud-agents-self-hosted-dora-article-30.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/09/02/anthropic-upgrades-claude-codes-computer-use-to-run-in-the-background-on-mac/",
     "title": "Anthropic upgrades Claude’s computer use to run in the background on Mac",
     "description": "While computer use isn’t new for Claude on the desktop, running it in the background is a nice upgrade.\n\n\n\n more…",
@@ -33,6 +79,18 @@
     "pub_date": "2026-09-02T19:02:50+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/z4KtH8ossmKBoHPkQ4Xxm3-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/",
+    "title": "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
+    "description": "Community college students across the U.S. now have another opportunity to discover how their education can lead to fulfilling roles at the forefront of aerospace, science, engineering, and technology. The updated NASA Community College Aerospace Scholars (NCAS) student challenge invites students to learn about the agency and its missions, engage with NASA experts, and explore",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T19:01:05+00:00",
+    "image_url": "https://images-assets.nasa.gov/image/iss072e838362/iss072e838362~large.jpg?w=1920&h=1078&fit=clip&crop=faces%2Cfocalpoint",
+    "source_name": "NASA.GOV"
   },
   {
     "link": "https://9to5mac.com/2026/09/02/ios-27-fixes-apple-mail-in-three-ways-longtime-users-will-love/",
@@ -1027,7 +1085,6 @@
     "title": "Continuous glucose monitors are about to get more complicated",
     "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. My mom was a dramatic woman prone to overreacting. When I was a snotty teen, I told her she needed",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware",
       "Science & Environment"
     ],
@@ -1063,7 +1120,6 @@
     "title": "How Can Generative AI Enhance Your Business Strategy?",
     "description": "According to Gartner, AI is expected to affect all IT work by 2030, reshaping how organizations structure roles, skills, and technology operations. By analyzing large volumes of information and generating actionable insights, it may help businesses respond more quickly to changing market conditions and identify new growth opportunities. That’s where Generative AI Services come into",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-02T15:27:44+00:00",
@@ -1098,7 +1154,6 @@
     "title": "Austin-based HiddenLayer, which makes security tools to protect AI models, agents, and workflows, raised a $100M Series B led by Delta-v Capital (Ram Iyer/TechCrunch)",
     "description": "Ram Iyer / TechCrunch:\nAustin-based HiddenLayer, which makes security tools to protect AI models, agents, and workflows, raised a $100M Series B led by Delta-v Capital  —  When AI security startup HiddenLayer raised its $50 million Series A three years ago, one of the big questions in the space was whether …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-02T15:20:01+00:00",
@@ -1579,7 +1634,6 @@
     "title": "Huawei’s new Watch D3 brings medical-grade blood pressure monitoring to your wrist",
     "description": "Most smartwatches still guess at your blood pressure, estimating it based on readings captured by an optical sensor. Huawei's newly launched Watch D3 skips the guesswork, and uses an airbag built into the strap to offer medical-grade readings.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-02T13:30:00+00:00",
@@ -1649,7 +1703,6 @@
     "title": "Huskeys Raises $27M Series A Led by Blackstone to Build a New Security Layer for the Network Edge",
     "description": "The cybersecurity industry has spent years adding new layers of protection around applications, cloud infrastructure, and internet-facing services. But as organizations adopt more cloud providers, CDNs, web application firewalls and network technologies, a different problem is emerging: managing all of those systems together. That challenge is now attracting investor attention. Huskeys has raised a $27",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-02T13:19:15+00:00",
@@ -1661,7 +1714,6 @@
     "title": "Best Buy has serious Labor Day discounts on these 6 appliances",
     "description": "I sifted through Best Buy's Labor Day appliance sale and found six major-appliance deals worth considering, including $1,200 off an LG refrigerator.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-02T13:16:22+00:00",
@@ -2261,60 +2313,5 @@
     "pub_date": "2026-09-02T11:00:43+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-11477585601-1000x648.jpg",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/sony-headphone-deals-september-2026/",
-    "title": "Best Sony Headphone Deals: WH-1000XM5 and More (2026)",
-    "description": "Our favorite Sony headphones are on sale, with discounts of up to 50 percent on top models.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T11:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6a9722800b666cfc32288461/master/pass/Our-Favorite-Sony-Headphones-Are-50-Percent-Off.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/987756/humanoid-robot-butlers-lg-cloid-smart-home-ifa",
-    "title": "The robot butler dream doesn’t have legs",
-    "description": "The idea of humanoid robots running our homes has been the stuff of science fiction for years. But unlike hoverboards and self-tying sneakers, a robot housekeeper has never felt close to rolling into our homes. Until now. This has been the year of the humanoid robot. At CES, there were dozens of human-shaped bots on",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T11:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/LG-CLOiD-Image-3.avif?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://mashable.com/life/sept-2-pokemon-tcg-ascended-heroes-elite-trainer-box-deal",
-    "title": "The Pokémon TCG Ascended Heroes Elite Trainer Box is on sale at Amazon — save close to $10",
-    "description": "The Pokémon TCG Ascended Heroes Elite Trainer Box is down to $183.41 at Amazon, with cheaper options at Walmart and TCGplayer.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T10:55:38+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00Lwh7BHdQaZUZoN8iCAGXy/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/02/leakers-battle-over-whether-third-iphone-18-pro-color-will-be-silver-or-black/",
-    "title": "Leakers battle over whether third iPhone 18 Pro color will be silver or black",
-    "description": "Based on a whole succession of leaks, there’s a clear consensus view on two of the three colors we can expect when the iPhone 18 Pro is unveiled next week.\n\n\n\nBut two prominent leakers have different expectations when it comes to whether the third colour will be silver or black … \n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T10:53:31+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-18-pro-colors-02.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/seasonal-sales/philips-hue-bulbs-are-going-cheap-at-amazon-right-now-and-im-using-these-rare-discounts-to-finally-finish-my-living-room-setup",
-    "title": "Philips Hue bulbs are going cheap at Amazon right now — and I'm using these rare discounts to finally finish my living-room setup",
-    "description": "It's the right time to stock up on Philips Hue White & Color Ambiance bulbs, and there are huge saving on outdoor lights too.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T10:52:50+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/avS5EHuw6rPEP8tMdUC255-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
