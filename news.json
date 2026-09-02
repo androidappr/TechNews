@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://thenextweb.com/news/nyc-schools-generative-ai-moratorium-norway-ban-eu-ai-act-annex-iii-italy-law-132-2025",
+    "title": "New York bans AI in primary school, three months after Norway did",
+    "description": "New York City is imposing a one-year moratorium on generative AI for pupils from 2-K through eighth grade, removing student-facing AI software and companion chatbots for around 600,000 children. Norway banned generative AI in its primary schools in June, and the EU AI Act regulates AI used on pupils rather than AI used by them.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-02T23:05:07+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/eu-ai-act-enforcement-powers-inspect-fine-models.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260902/p44#a260902p44",
+    "title": "Sources: Palo Alto Networks paid $500M in cash and stock to acquire agentic IT support startup Console; PitchBook: Console was valued at $157M before the sale (Marina Temkin/TechCrunch)",
+    "description": "Marina Temkin / TechCrunch:\nSources: Palo Alto Networks paid $500M in cash and stock to acquire agentic IT support startup Console; PitchBook: Console was valued at $157M before the sale  —  Palo Alto Networks paid $500 million in cash and stock to acquire Console, a two-year-old startup that uses AI agents to automate routine …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T23:05:00+00:00",
+    "image_url": "http://www.techmeme.com/260902/i44.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
     "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
     "description": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
@@ -40,6 +64,17 @@
     "source_name": "THEVERGE.COM"
   },
   {
+    "link": "https://www.engadget.com/2246424/what-is-cold-wallet-how-works/",
+    "title": "What is a cold wallet and how does it work?",
+    "description": "With cryptocurrency wallets becoming huge targets for hackers, using a cold wallet to protect your private keys has never been more important.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-02T23:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/what-is-a-cold-wallet-and-how-does-it-work/l-intro-1787690754.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/microsoft-azure-quarterly-revenue-disclosure-agents-and-infra-segment-dma-gatekeeper-designation",
     "title": "Microsoft finally puts a dollar figure on Azure, and narrows what Azure means",
     "description": "Microsoft will report Azure revenue in dollars each quarter for the first time, having grown it 42% to $29.42B in the June quarter under a new two-segment structure. The European Commission reached a preliminary position in June that Azure should be designated a gatekeeper, with a final decision expected by the end of the year.",
@@ -53,7 +88,7 @@
   {
     "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
     "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-    "description": "The acquisition also leaves Sequoia-backed Serval as the de-facto startup leader in AI IT service automation, industry watchers believe.",
+    "description": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -685,7 +720,6 @@
     "title": "Lockheed carries out missile launches directly from a drone boat - will the US Navy be next?",
     "description": "A crewless sailboat fired two live missiles at RIMPAC, six months after Lockheed and Saildrone started work. The boat sails itself, but a Navy-operated fire control system still makes weapon-deployment decisions.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-02T19:10:00+00:00",
@@ -2257,39 +2291,5 @@
     "pub_date": "2026-09-02T13:30:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/qgzy9vtorbfncupt5ZZ57d-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260902/p20#a260902p20",
-    "title": "OpenAI is facing new lawsuits from witnesses and victims of the February mass shooting in a Canadian town; the suspect talked gun violence with ChatGPT for days (Georgia Wells/Wall Street Journal)",
-    "description": "Georgia Wells / Wall Street Journal:\nOpenAI is facing new lawsuits from witnesses and victims of the February mass shooting in a Canadian town; the suspect talked gun violence with ChatGPT for days  —  New lawsuits add to list of cases in which the chatbot maker faces questions about the safety of its products",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T13:25:01+00:00",
-    "image_url": "http://www.techmeme.com/260902/i20.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/consoles-pc/consoles-are-here-to-stay-cd-projekt-red-boss-bets-on-sony-microsoft-and-nintendo-weathering-the-storm-despite-ram-crisis",
-    "title": "'Consoles are here to stay': CD Projekt Red boss bets on Sony, Microsoft, and Nintendo 'weathering the storm' despite RAM crisis",
-    "description": "The games industry is in a precarious situation due to the RAM crisis, but CD Projekt Red's boss has faith that all will be well.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-02T13:21:54+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ETEpHnWN47pJPF8J3Gze6V-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/02/siri-ai-wont-be-your-friend-and-heres-why-that-really-matters/",
-    "title": "Siri AI won’t be your friend, and here’s why that really matters",
-    "description": "Elon University has partnered with The Washington Post to conduct what turned out to be a worrying survey about Americans viewing AI chatbots as virtual friends or therapists.\n\n\n\nThe results very much vindicate Apple’s careful decision to ensure that Siri AI doesn’t encourage such pseudo-relationships … \n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T13:21:44+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Siri-AI-wont-act-as-your-friend-and-heres-why-that-really-matters.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
