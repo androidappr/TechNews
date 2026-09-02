@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.techmeme.com/260901/p61#a260901p61",
+    "title": "Source: OpenAI's Astra model uses \"recurrent depth\", a technique that improves cost and performance but obscures the AI's reasoning, making it harder to monitor (The Information)",
+    "description": "The Information:\nSource: OpenAI's Astra model uses “recurrent depth”, a technique that improves cost and performance but obscures the AI's reasoning, making it harder to monitor  —  OpenAI says its forthcoming AI model Astra marks a step up in capabilities such as coding and operating applications on a computer.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T01:55:00+00:00",
+    "image_url": "http://www.techmeme.com/260901/i61.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/claude-fable-5-1-and-mythos-5-1-debut-with-better-coding-and-cost-cuts-for-developers/",
+    "title": "Claude Fable 5.1 and Mythos 5.1 arrive with better coding and cost cuts for developers",
+    "description": "Anthropic launched Claude Fable 5.1 and Mythos 5.1, offering stronger coding and research performance alongside a 75% cut to cache read pricing for developers.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-02T01:52:35+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/09/claude-fable-5.1-mythos-5.1.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/8849-tank-5-pro-rugged-phone-packs-ultra-wide-thermal-predator-camera-with-a-2k-220-lumen-projector-packs-a-huge-17-600mah-battery-and-dimensity-9400e-chip",
     "title": "8849 Tank 5 Pro rugged phone packs ultra-wide thermal 'Predator' camera with a 2K 220-lumen projector — packs a huge 17,600mah battery and Dimensity 9400e chip",
     "description": "8849's TANK 5 Pro rugged phone combines a 95-degree thermal camera, 2K projector, 17,600mAh battery, and flagship Dimensity chip.",
@@ -448,7 +472,6 @@
     "description": "The latest release from Meta Superintelligence Lab is a powerful transcription model.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-09-01T21:56:29+00:00",
@@ -927,7 +950,6 @@
     "description": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Cybersecurity & Privacy"
     ],
@@ -2272,27 +2294,5 @@
     "pub_date": "2026-09-01T15:53:18+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/q7shuJqGkeho3R2BNQWrbi-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/apple-reveals-shocking-evidence-openai-trade-secrets-lawsuit",
-    "title": "Apple reveals ‘shocking evidence’ in OpenAI trade secrets lawsuit",
-    "description": "Apple claims it has evidence that a former employee stole trade secrets to benefit his new employer, OpenAI.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T15:53:04+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04k4AjLC2mRNCm2reZ3peVB/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-    "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-    "description": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-01T15:51:55+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
