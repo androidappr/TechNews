@@ -1,5 +1,52 @@
 [
   {
+    "link": "https://www.digitaltrends.com/computing/alexa-can-now-spot-fake-messages-from-scammers-pretending-to-be-amazon/",
+    "title": "Alexa can now spot fake messages from scammers pretending to be Amazon",
+    "description": "Amazon launched a new Alexa for Shopping feature that verifies whether messages, emails, texts, or calls actually came from the company.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T21:56:08+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/09/alexa-verify-amazon-messages.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/nasa-sortie-suit-axiom-artemis-gateway-cancellation-esa-astronaut-seats",
+    "title": "NASA turns to a stripped-down Sortie Suit for the first Artemis landings",
+    "description": "NASA has told Axiom Space to develop a simpler Sortie Suit for the first lunar landings, cutting mass and complexity to support a 2028 target. The same acceleration cancelled the Lunar Gateway, and ESA’s three guaranteed European astronaut flights were secured against Gateway hardware. NASA is simplifying the spacesuit for its first Moon landings. Axiom",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-02T21:52:39+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/nasa-sortie-suit-axiom-artemis-gateway-cancellation-esa-astronaut-seats.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260902/p43#a260902p43",
+    "title": "Sources: Thoma Bravo-backed Proofpoint is in talks to acquire cybersecurity company Varonis; Varonis rose 10.4% on Wednesday, giving it a market value of ~$5.4B (Ryan Gould/Bloomberg)",
+    "description": "Ryan Gould / Bloomberg:\nSources: Thoma Bravo-backed Proofpoint is in talks to acquire cybersecurity company Varonis; Varonis rose 10.4% on Wednesday, giving it a market value of ~$5.4B  —  Thoma Bravo-backed Proofpoint Inc. is in talks to acquire cybersecurity company Varonis Systems Inc., according to people familiar with the matter.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T21:50:00+00:00",
+    "image_url": "http://www.techmeme.com/260902/i43.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/mobile/addicted-to-phone-screen-time-pew-research-2/",
+    "title": "You’re Addicted to Your Phone. Admitting That Is the First Step",
+    "description": "More than of us say they overuse their smartphones, according to a Pew survey.",
+    "categories": [
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-09-02T21:48:50+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/b7bea39f-8b6b-49c8-a11f-58fdddddd2ee.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
     "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
     "description": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
@@ -21,6 +68,18 @@
     "pub_date": "2026-09-02T21:32:59+00:00",
     "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5FR94X4R98sZhZIkcHODYE/09fff33c23551f1b0b79cc55366b5d0c/ChatGPT_Image_Sep_2__2026__05_32_05_PM.png?w=300&q=30",
     "source_name": "VENTUREBEAT.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/anthropics-content-checker-tool-is-here-with-one-big-catch/",
+    "title": "Anthropic’s Content Checker Tool Is Here, With One Big Catch",
+    "description": "You can look for Claude’s watermarks in a lot of files, but not in text just yet.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-02T21:31:16+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/anthropic-claude-checker.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://thenextweb.com/news/adobe-for-slack-firefly-content-credentials-eu-ai-act-article-50-marking",
@@ -349,7 +408,7 @@
   },
   {
     "link": "https://www.cnet.com/tech/gaming/the-new-york-times-just-dropped-a-brand-new-wordle-spinoff/",
-    "title": "The New York Times Just Dropped a Brand-New Wordle Spinoff",
+    "title": "The New York Times Just Dropped a Brand-New Wordle Spin-Off",
     "description": "Wordle in 1 is included in a group of bonus puzzles that will arrive every Wednesday.",
     "categories": [
       "Breaking News",
@@ -682,7 +741,6 @@
     "title": "NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole",
     "description": "NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-02T18:00:37+00:00",
@@ -694,7 +752,6 @@
     "title": "iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym",
     "description": "GymKit has been one of Apple Watch’s smartest fitness features since it launched in 2017. Tap your watch to compatible gym equipment, and Apple Watch shares your heart rate while the machine sends back metrics like distance, incline, pace, and calories.\n\n\n\nWith iOS 27, Apple is expanding that idea beyond Apple Watch. I tested the new GymKit on iPhone and AirPods Pro 3 experience with a GymKit-compatible treadmill. It basically gives you the Apple Watch GymKit workout tracking experience, just without the watch. This could be useful in a lot of scenarios.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-02T18:00:00+00:00",
@@ -732,7 +789,6 @@
     "description": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy",
       "Government & Policy"
     ],
@@ -768,7 +824,6 @@
     "title": "Stolen Claude session cookies can reach corporate Gmail through grants no IT admin can revoke",
     "description": "Infostealers replayed stolen Claude session cookies into paid accounts without ever touching the login page two-factor authentication guards.The accounts Anthropic flagged were card-billed, self-serve accounts, which is the population no corporate identity provider governs, and no admin console can sign out. Session-cookie replay bypasses SSO as thoroughly as it bypasses 2FA. What SSO provides here is revocation and visibility, not prevention. The company disclosed the campaign in notification emails to affected users, named six stealer families, signed the accounts out, stripped the saved payment methods, and refunded the charges it found.The burned usage is the small loss. What those sessions could reach is the exposure, and none of it sat behind an identity controlled by an enterprise.Anthropic told affected users that a bad actor was using common infostealer malware to lift Claude login sessions off their computers and then replaying them to burn the accounts' usage, according to the notification an affected user posted to Reddit and BleepingComputer reported on August 30.It named Vidar, LummaC2, StealC, RedLine and Acreed on Windows and Atomic Stealer on a small number of Macs, and it described general-purpose malware that copies browser login cookies along with saved passwords. \"Your Claude session was likely one of the many things it collected,\" the email said.A session cookie is the proof that a login already happenedThe attack chain runs in one direction, from an infected machine through a stolen cookie past a checkpoint that never fires, and into everything the account can reach.Signing the accounts out worked because a replayed cookie dies with the session it copies.Two-factor authentication guards the login page. The site then hands the browser a cookie so the user stays signed in, and an attacker who copies that cookie and replays it looks to the server like the person who already passed the check. Help Net Security described the mechanism on August 31 as session theft becoming the new credential theft.Anthropic spotted the theft in the usage meter. Limits were refilled and drained while the owner was away from Claude, the company wrote.One Redditor who received the notification traced the infection to a pirated game, per BleepingComputer. That is one machine, and Anthropic has not said what the others ran.Anthropic's notification gave no count. The company had not responded by publication to VentureBeat's questions on how many accounts were affected, whether any Team or Enterprise seats behind SSO were among them, or whether the replayed sessions reached conversation history or connected apps rather than usage alone.Removing a saved card and refunding charges point to directly billed, self-serve accounts that authenticate through Anthropic's own login rather than a corporate identity provider. Those include personal subscriptions. Team and self-serve Enterprise organizations can also be card-billed, so the deduction is strong rather than closed.Bugcrowd CEO Dave Gerry told Axios in early August that his company sent employees nearly a dozen emails saying the OpenClaw agent was not allowed on corporate networks, and employees kept trying to download it anyway. A personal Claude subscription on a managed laptop is the same reflex, and it comes with a card on file. LayerX data in Akamai's enterprise AI risk report found 47% of enterprise AI conversations run through personal identities, with Claude at 61%.The pirated game is one vector. In July, attackers hosted a spoofed Claude download page on the claude.ai domain itself through a public Artifact, and a sponsored Bing ad sent employees searching for \"Claude Desktop app\" straight to it. Huntress documented the campaign, named FakeAgent, after SectopRAT compromised employees at 29 organizations in two days. The artifact collected roughly 7,100 downloads before Anthropic removed it. A separate campaign pushed a fake Claude installer through a spoofed download site earlier in the year, per Malwarebytes. The vector is not piracy. It is enterprise employees searching for the official app on their work machines.Refunds cover the usage. Nothing covers the connectorsA replayed session inherits everything the legitimate one could reach, and Anthropic has not said whether these did. On a Claude account, that means the conversation history, the files uploaded into projects, and any connectors the owner authorized. Anthropic's help center states that connectors let Claude retrieve data and take actions inside connected services and that Claude inherits each person's permissions from the connected service. Read and search operations run without approval. Write actions, including send, reply, forward, share, move, and trash, are approval-gated by default. The exfiltration path is the one that is open. Google Workspace connectors are available to individual Claude accounts, so a personal Pro subscription can hold a live authorization into a Gmail inbox or a Drive folder.If that inbox is the work inbox, the attacker holding the replayed cookie has a read path into it that the corporate identity provider evaluated once, at the moment the employee clicked allow, and rarely again. On a personal plan, the employee owns that grant. No Claude tenant administrator can sign that account out, and the Workspace or Entra administrator who can pull the underlying grant rarely knows it exists.Adam Meyers, CrowdStrike's senior vice president of counter adversary operations, put numbers to the market in an August 6 Axios interview. Criminals have been buying and reselling stolen ChatGPT, Claude and Gemini credentials since ChatGPT took off in late 2022, fed by infostealer malware. CrowdStrike's 2026 Threat Hunting Report documents one LLMjacking campaign that pushed nearly 200,000 API requests through a compromised cloud account's AI model access in two minutes.Meyers drew the line in a July briefing on the report. LLMjacking, in his framing, is stealing the credentials, and cost harvesting is what the buyer does next, manipulating AI resources that belong to the victim \"in order to conduct operations and generate massive bills as a byproduct of that,\" he said. \"So think of this as LLM coin mining.\"One architect refused to build the same exposure into his productTom Kleinpeter, co-founder and chief architect at Common Room, described in written answers to VentureBeat why he held his company's AI agent integrations back through the summer of 2025.\"We rejected local MCP servers early, full stop. That path meant storing a long-lived API key or token on someone's machine. Steal that credential, and you can impersonate the user, pull their data, or do anything else the token allows, indefinitely, until someone notices and manually revokes it. We weren't willing to ship that.\"Common Room shipped its first agent integration in October 2025 with Okta's Auth0 handling authentication, separate read and write scopes, and writes off by default, per Kleinpeter.An AI coding agent working on Common Room's own system proposed caching access tokens in plain text in Redis to cut down on repeated authentication calls, he wrote. It worked, and it would have parked live credentials in shared infrastructure had a human reviewer not caught it before it shipped.Asked what was acceptable in 2024 and a liability now, he named one thing. \"Long-lived, broadly scoped API keys. Those made sense when one human operated one trusted system and stayed in the loop. Agents now run across laptops and multiple clients, often with no human watching in real time.\"Okta gave agents governed identities the same week Claude users lost their cookiesOkta made Agent SSO generally available on August 24, registering AI agents as first-class identities in Universal Directory and issuing short-lived, identity-governed tokens in place of stored credentials, according to the company's announcement. The release names Claude as its example of an agent a security team can now govern natively.Six days later, Anthropic was signing users out because six stealer families had copied the humans' Claude cookies. The agents got governed identities. The people using Claude on their own cards did not.VentureBeat's July Pulse Research wave on agent security found 63% of 116 enterprises report credential sharing somewhere among their AI agents, and 3% run Okta for AI Agents.That 3% has a reason, Kayne McGladrey, author of the forthcoming \"Cyber Risk is a Myth\" and a senior IEEE member, told VentureBeat during a July interview. \"It's only those well-resourced companies that are above the poverty line that have met all the prerequisites,\" he said.The prerequisites he named are the same controls most enterprises still treat as hygiene, not strategic investment.\"If they don't have their defenses in order, like attack surface management or blast radius containment or basic MFA, that would not be a useful capability or a meaningful spend.\"Anthropic's position deserves its hearing. The company told users it has no reason to believe the malware is related to Claude, installed through Claude, or tied to anything they did with Claude, and it warned that signing out stops the stolen sessions while leaving the malware in place to steal the next login.Both hold, and they are the last thing a provider can do, because the infected device belongs to the customer. On a work laptop, the device belongs to the enterprise, and the control that catches Vidar or LummaC2 before it reads a cookie jar is endpoint detection, the control in this story the security team already runs.The profession's gap is rarely a missing control anymore, in McGladrey's framing. \"I think we've got technical solutions for nearly all of the things that could go wrong, what we don't have is a way of prioritizing those,\" he argued.The endpoint team owns the machine. The identity team owns an SSO the account never touched, and the AI governance lead wrote a policy the employee routed around the day the card went on file.Each of those owners is paid to close a different gap. \"Engineering is comped on getting product out the door quickly, your internal audit team is comped on checking boxes to meet your compliance goals, and security is comped and sometimes penalized on a lack of incidents,\" he argued. \"People aren't doing the wrong thing either. They're doing what pays their bills on an ongoing basis.\"What security leaders need to do nextAdd AI accounts to the infostealer response playbook. When an endpoint alert names a stealer family, treat every AI service session on that machine as compromised, revoke what the enterprise tenant lets you revoke, and have the employee sign out of personal accounts until the machine is clean.Warn users that the notification itself is now a phishing template. Help Net Security flagged copycat phishing impersonating Anthropic using this campaign as pretext. If the notification lands in a user's inbox, the next email that looks like it may not be from Anthropic.Count the personal subscriptions on managed devices. Browser telemetry, CASB logs, and expense reports surface the sessions and the payments.Stop personal AI accounts from holding OAuth grants into corporate Google Workspace or Microsoft 365. Both platforms let administrators restrict third-party app authorization. Use that gate so a work inbox can only be attached from a tenant the security team can revoke.Revoke the OAuth grants Claude already holds, not just the Claude session. Signing out of Claude invalidates the stolen session but does not revoke the Google or Microsoft grant Claude was already authorized to use. Check Google's third-party app authorizations and Microsoft's enterprise application consents for live grants the sign-out left behind.Move the heavy users onto the organization-managed tenant. On Team and Enterprise plans, an owner decides whether connectors can be enabled at all.Put session binding on the renewal agenda. Google shipped Device Bound Session Credentials in Chrome 146 on Windows in April and turned it on by default for Google accounts and Workspace Individual accounts in May, binding each session to a private key in the device's TPM so a copied cookie cannot be refreshed anywhere else. It covers Chrome on Windows only so far, so the Mac victims in this campaign sit outside it. Ask Anthropic and OpenAI for parity and Google for a coverage date before the next contract signs.Anthropic sent its notification to individuals. The laptop the cookie came from belongs to whoever manages it, and Vidar and LummaC2 will be back for the next login on the same machine.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-09-02T17:51:48+00:00",
@@ -2245,64 +2300,6 @@
     ],
     "pub_date": "2026-09-02T12:40:01+00:00",
     "image_url": "http://www.techmeme.com/img/pml.png",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/more-than-9-5-million-patients-affected-by-aesto-health-breach-names-ssns-financial-details-health-records-and-more-stolen",
-    "title": "More than 9.5 million patients affected by Aesto Health breach — names, SSNs, financial details, health records and more stolen",
-    "description": "More than two dozen of Aesto's clients affected by the December 2025 cyberincident.",
-    "categories": [
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-02T12:35:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/9DcUT2RtbvGV8dbUy5P8MA-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/life/sept-2-magic-the-gathering-tmnt-bundle-deal",
-    "title": "Buy Magic: The Gatherings Teenage Mutant Ninja Turtles Bundle for its lowest-ever Amazon price — save $20",
-    "description": "The MTG Teenage Mutant Ninja Turtles Bundle drops to a record-low $49.99 at Amazon, saving $20 off its list price.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T12:33:08+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07gATBaO2elEHqTWsRWoZN8/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/phones/skip-the-junk-these-5-labor-day-charging-deals-are-worth-a-look/",
-    "title": "Skip the junk: these 5 Labor Day charging deals are worth a look",
-    "description": "I checked the Labor Day charging sales and found five deals from UGREEN, INIU, Energizer, Anker, and Insignia worth considering.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T12:30:40+00:00",
-    "image_url": "https://www.digitaltrends.com/tachyon/2026/09/charging-phone.jpg?resize=440%2C292",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/-labor-day-home-office-deals-2026",
-    "title": "I’ve worked from home for 10 years — here’s how to build the ultimate WFH setup with my top Labor Day home office deals, from laptop upgrades to $50 steals",
-    "description": "I checked every deal from Amazon and Best Buy in the Labor Day sales to find the top upgrades from laptops and printers to those cool WFH extras under $50.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T12:29:10+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/JXH6ztxBvtGdXQLTb3YaFV-1280-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260902/p17#a260902p17",
-    "title": "Survey: 27% of Americans say they turn to AI chatbots like ChatGPT for personal, emotional, or social queries, rising to nearly 40% among adults under 50 (Washington Post)",
-    "description": "Washington Post:\nSurvey: 27% of Americans say they turn to AI chatbots like ChatGPT for personal, emotional, or social queries, rising to nearly 40% among adults under 50  —  More than a quarter of U.S. adults turn to chatbots for personal or emotional discussions, including for entertainment or social advice, a new survey found.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T12:25:02+00:00",
-    "image_url": "http://www.techmeme.com/260902/i17.jpg",
     "source_name": "TECHMEME.COM"
   }
 ]
