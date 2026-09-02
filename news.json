@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.techmeme.com/260902/p45#a260902p45",
+    "title": "Uber launches London's first commercial robotaxi service; the vehicles use Wayve's autonomous driving tech and will initially have human safety drivers (Andrew J. Hawkins/The Verge)",
+    "description": "Andrew J. Hawkins / The Verge:\nUber launches London's first commercial robotaxi service; the vehicles use Wayve's autonomous driving tech and will initially have human safety drivers  —  The cars have no lidar and no geofence, but still will have human safety drivers for the initial launch.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T23:25:01+00:00",
+    "image_url": "http://www.techmeme.com/260902/i45.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/meta-muse-spark-1-3-undecided-weights-eu-ai-act-article-53-open-source-exemption-systemic-risk",
+    "title": "Meta’s new AI model edges closer to OpenAI and Anthropic, its AI Chief says",
+    "description": "Meta has released Muse Spark 1.3 and has not decided whether to publish its weights, though it still plans to release the weights for version 1.2. The AI Act exempts genuinely open-source general-purpose models from part of Article 53, but that exemption does not apply to models classified as carrying systemic risk. Meta has released",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-02T23:19:09+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/threads-meta-ai-dm-global-rollout.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/nyc-schools-generative-ai-moratorium-norway-ban-eu-ai-act-annex-iii-italy-law-132-2025",
     "title": "New York bans AI in primary school, three months after Norway did",
     "description": "New York City is imposing a one-year moratorium on generative AI for pupils from 2-K through eighth grade, removing student-facing AI software and companion chatbots for around 600,000 children. Norway banned generative AI in its primary schools in June, and the EU AI Act regulates AI used on pupils rather than AI used by them.",
@@ -616,6 +641,7 @@
     "title": "Mark Zuckerberg says Meta's Watermelon model and Muse Spark open weights are \"coming soon\" (Mark Zuckerberg/@finkd)",
     "description": "Mark Zuckerberg / @finkd:\nMark Zuckerberg says Meta's Watermelon model and Muse Spark open weights are “coming soon”  —  Muse Spark 1.3 is rolling out today with frontier performance almost too cheap to meter. This is the biggest jump we've made so far on coding and agentic work. Try it in Muse Code and our API. Next up 🍉 and Muse Spark open weights releases coming soon.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-02T19:45:22+00:00",
@@ -685,7 +711,6 @@
     "title": "Meta rolls out Muse Spark 1.3 in Muse Code and Meta Model API, saying it significantly improves coding and agentic performance, at the same price as Spark 1.2 (Ina Fried/Axios)",
     "description": "Ina Fried / Axios:\nMeta rolls out Muse Spark 1.3 in Muse Code and Meta Model API, saying it significantly improves coding and agentic performance, at the same price as Spark 1.2  —  Meta on Wednesday released Muse Spark 1.3, an update it says significantly improves performance in coding and agentic tasks.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-02T19:23:54+00:00",
@@ -2268,28 +2293,5 @@
     "pub_date": "2026-09-02T13:30:00+00:00",
     "image_url": "https://www.digitaltrends.com/tachyon/2026/09/Huawei-Watch-6-series-black-and-gold.jpg?resize=440%2C292",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/wearables/huaweis-new-watch-d3-brings-medical-grade-blood-pressure-monitoring-to-your-wrist/",
-    "title": "Huawei’s new Watch D3 brings medical-grade blood pressure monitoring to your wrist",
-    "description": "Most smartwatches still guess at your blood pressure, estimating it based on readings captured by an optical sensor. Huawei's newly launched Watch D3 skips the guesswork, and uses an airbag built into the strap to offer medical-grade readings.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T13:30:00+00:00",
-    "image_url": "https://www.digitaltrends.com/tachyon/2026/09/Huawei-Watch-D3-launch-featured.jpg?resize=440%2C292",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techradar.com/health-fitness/smartwatches/huawei-launches-its-watch-d3-its-latest-iteration-of-its-mechanized-blood-pressure-cuff-watch-that-aims-to-outstrip-apple-and-googles-achievements-with-led-tech",
-    "title": "Huawei launches its Watch D3 — its latest iteration of its mechanized blood pressure cuff watch — that aims to outstrip Apple and Google's achievements with LED tech",
-    "description": "A slimmer, sleeker version of Huawei's once-boxy Watch D series still uses its innovative blood pressure cuff strap — eschewing LED-based measurements used by the likes of Apple and Google.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T13:30:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/qgzy9vtorbfncupt5ZZ57d-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
