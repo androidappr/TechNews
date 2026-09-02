@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.techradar.com/ai-platforms-assistants/horrifying-reddit-users-are-creating-uncanny-valley-photos-with-chatgpt-so-i-asked-it-to-make-something-creepy-and-now-i-deeply-regret-it",
+    "title": "‘Horrifying’ — Reddit users are creating uncanny valley photos with ChatGPT, so I asked it to make something creepy and now I deeply regret it",
+    "description": "Reddit users are asking ChatGPT to make unsettling images, so I had a go too, and now I wish I hadn’t tried it myself.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T14:09:24+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/rxKBKeVyJtg4W64aeDxhRF-1280-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+    "title": "Adobe acquires Indian market intelligence startup Rilo",
+    "description": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-02T14:03:57+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://venturebeat.com/orchestration/forward-deployed-engineering-is-how-enterprise-ai-learns",
     "title": "Forward-deployed engineering is how enterprise AI learns",
     "description": "Presented by ZetaEvery forward-deployed engineering (FDE) pitch sounds identical for the first ten minutes: an engineer embedded on-site, a workflow encoded within weeks, a demo that finally works on the customer's real data. What differs is what happens in the following months, and most vendors will not tell you until you ask directly.FDE has become one of enterprise AI’s most consequential operating models. Vendors are building entire go-to-market motions around engineers who embed with customers, wire products into operating environments, and make the demo real. Investors often read FDE headcount as a growth signal and buyers read it as a promise of speed. Neither tells you whether the work is becoming a product advantage or simply accumulating as delivery labor.The test is simple: after an FDE engagement, does the next customer start with more product and fewer unknowns  — or just a new services team?FDE is not one thing. At its weakest, it papers over a product that cannot yet stand on its own, translating by hand what the software should eventually understand. At its strongest, it is a disciplined product-learning function: it finds the edge cases of an AI-native architecture and turns them into reusable capability. The org chart looks the same, but the economics and trajectory do not.FDE is valuable because it creates automation that powers a system of intelligence. A system of intelligence is more than software that executes workflows. It captures enterprise context, incorporates what it learns from every deployment, and improves the quality of future decisions. Forward-deployed engineers are how that context enters the system in the first place.The engineers are the context layerModel choice still matters in some domains. But in many enterprise workflows, the bigger constraint is not the model, it is what the enterprise knows about itself including business rules, exceptions, workflow logic, and definitions that took a decade of operating history to settle. Access to data is not the same as understanding the business.In one large telecommunications deployment, an initial definition of a “high-intent” customer did not survive contact with the operating systems. The model’s signal said one thing while the retention team’s actual save-desk criteria said another. Those criteria were built from years of which offers actually worked, on which tenure bands, in which regions. No schema documented that logic; it lived in the judgment of people who’d been doing the job for a decade. An engineer had to sit with them, extract the knowledge, and encode it before the intelligence layer we were building could be trusted to trigger an action instead of just a score.Once that logic was encoded into the intelligence layer, new acquisition and retention use cases could move from idea to execution in days rather than months. Rather than rebuilding the integration each time, teams were adding decisions to a shared foundation.That kind of work produces more than an answer for one customer. Properly captured, it can become a semantic mapping, a policy module, a workflow template, a connector, or an evaluation that guards the decision in future deployments. The FDE is the context layer delivered first as a person, who then translates and delivers it as product.Sandbox, mud, and what happens to the learningThe useful question in a diligence call or renewal conversation is not whether a vendor has FDEs. It's whether an engineer touching your environment is playing in a sandbox of tools, or trying to dig you out of the mud.In the sandbox, FDEs use a general-purpose engine in specific, gnarly environments. Their job is to find where the engine needs a new part, install it, and feed the learning back so that part can ship again. In the mud, the engineer manually constructs a missing capability one customer at a time, and there is no engine underneath waiting to receive the part; instead, it’s another custom build.Do not mistake these for a clean binary, though. Most companies live somewhere in the middle: reusable playbooks and connectors for the common cases, bespoke judgment for everything else. From the outside, sandbox, mud, and the middle can all look identical: a smart engineer, on-site, writing code against your data. The tell is what happens to what they learn. Either the next deployment begins with fewer unknowns, less custom code, and better tests, or it begins from zero with a prettier deck.The strategic version of FDE treats every engagement as a disciplined learning loop. It starts with observing the exception in the field, codifying it into a reusable artifact, validating it with an evaluation and security review, releasing it into the product, then measuring whether the next deployment actually got easier. That last step is where most companies quietly fail. Not every field discovery belongs in the core product. Some customer logic is proprietary, temporary, or too idiosyncratic to generalize. Good teams know the difference between three things that get lumped together under “FDE”: product intelligence that compounds across every customer, configurable customer logic that's reusable for one account but shouldn't ship broadly, and one-off services work that is exactly what it looks like. Customization is expected. The failure lies in not labeling which bucket the work is in, or in losing the learning from the parts that can compound. This is the difference between a company that gets better at deploying and a product that gets better at understanding. The former can build a capable services business; its advantage lies in execution and relationships. The latter builds compounding product capability that persists after the engineer leaves.The best FDE organization changes shapeThe uncomfortable conclusion for teams building FDE functions is that human translation should shrink per unit of value delivered, even as absolute headcount grows. A fast-growing company may keep adding FDEs while still making each deployment materially lighter because more of the required logic already exists in the product. Each deployment should require less custom engineering than the last, with engineers spending more time extending reusable capabilities than rebuilding the same integrations, workflows, and decision logic.Track four things: engineers per live workflowengineering hours per deploymenttime-to-value by verticaland the share of implementation work that gets reused rather than rebuilt. Track one more that matters just as much and gets watched far less: the productization lag, the time between a field discovery, and a tested capability available to the next customer. Over time, that lag should fall, custom engineering should decline, and reuse should increase. If none of these are improving, the organization is delivering, without learning whatever the headcount chart says.FDE is scaffolding only when it stays outside the building. The goal isn't to eliminate the people doing the work; it's to ensure more of what they learn becomes load-bearing product capability.Three questions that get past the pitch1. How is FDE priced? Pricing is a signal rather than a verdict. A separate professional-services line may reflect honest transparency, bundled FDE may be a loss leader paid for by utilization. The more useful question is whether the contract, renewal, and margin story make clear which work is repeatable productization and which is bespoke delivery.2. Where does field learning go? Don't infer this from résumés alone. Ask who owns the handoff from FDE to product, what artifacts are produced, and how quickly they become tested, supported capabilities. The organizational interface is what reveals whether learning compounds, not the job title.3. What got faster on the last repeat deployment? Ask for a specific vertical and a specific delta such as fewer engineering hours, fewer weeks to value, fewer custom integrations, or a higher reuse rate. A credible vendor can name what changed and how it was measured. General claims about “learnings” and “playbooks” are not enough.\n\nEnterprise AI creates lasting advantage when every deployment leaves behind more than a satisfied customer. It leaves behind a deeper understanding of how enterprises operate. The goal isn’t simply to deploy AI. It’s to build a system of intelligence that captures enterprise context, converts customer learnings into reusable capability, and compounds over time.Neej Gore is Chief Data Officer at Zeta. Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
@@ -10,6 +35,17 @@
     "pub_date": "2026-09-02T14:00:00+00:00",
     "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6pM8mKg5VU5NWvb9JiO0Jt/27cfc84d289012e3880022d3caa1a8bb/AdobeStock_1990893706.jpeg?w=300&q=30",
     "source_name": "VENTUREBEAT.COM"
+  },
+  {
+    "link": "https://mashable.com/life/jeremiah-brown-creator-career-love-island",
+    "title": "Jeremiah Brown is building a post-Love Island creator career one book at a time",
+    "description": "'Love Island' alum Jeremiah Brown talks BookTok, Kai Cenat's Streamer University, building a creator career, and the \"performative male\" discourse.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T13:56:35+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01yqC66yScQRdGPPhlCbg2l/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://9to5mac.com/2026/09/02/apple-wallet-drivers-license-support-launches-in-oklahoma/",
@@ -33,6 +69,17 @@
     "pub_date": "2026-09-02T13:50:02+00:00",
     "image_url": "http://www.techmeme.com/260902/i21.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/home-theater/acer-just-made-a-1000hz-gaming-monitor-that-doesnt-sacrifice-1080p/",
+    "title": "Acer just announched a 1,000Hz gaming monitor that doesn’t sacrifice 1080p",
+    "description": "Acer has announced a 1,000Hz Full HD Predator monitor alongside new 4K OLED, 5K Mini LED, and high-refresh Nitro displays.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-02T13:39:28+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/09/Acer-PREDATOR-XB253Q-U1.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
   },
   {
     "link": "https://www.techradar.com/vpn/vpn-services/adguard-makes-its-open-source-stealth-vpn-protocol-native-to-macos-with-one-click-setup",
@@ -921,7 +968,6 @@
     "title": "Robotics and AI startup Lyte, founded by ex-Face ID engineers, raised $165M led by Maverick Silicon at a $1.6B valuation, taking its total funding to $272M (Samantha Kelly/Bloomberg)",
     "description": "Samantha Kelly / Bloomberg:\nRobotics and AI startup Lyte, founded by ex-Face ID engineers, raised $165M led by Maverick Silicon at a $1.6B valuation, taking its total funding to $272M  —  Lyte, a fast-growing robotics and artificial intelligence startup from top members of Apple Inc.'s Face ID team …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-02T10:15:15+00:00",
@@ -944,7 +990,6 @@
     "title": "Roomba’s latest robot vacuums want to do almost everything for you",
     "description": "Roomba’s newest robot vacuums bring serious suction, smarter mopping, and docks that handle much of the dirty work for you.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-02T10:09:07+00:00",
@@ -1173,18 +1218,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.cnet.com/tech/computing/acer-recommits-to-repairability-with-new-vero-16-laptop/",
-    "title": "Acer Recommits to Repairability With New Vero 16 Laptop",
-    "description": "The company also unveils the sleekest Swift yet and a Swift Air update at IFA 2026.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T09:30:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Acer-Vero-16-V16-I71T-Lifestyle-1.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
     "link": "https://www.cnet.com/tech/gaming/acer-shows-off-a-transformer-ish-concept-for-a-windows-gaming-handheld/",
     "title": "Acer Shows Off a Transformer-ish Concept for a Windows Gaming Handheld",
     "description": "If it’s going to do double duty as a computer, it might as well have a keyboard, right?",
@@ -1194,6 +1227,18 @@
     ],
     "pub_date": "2026-09-02T09:30:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/acer-project-dualplay-mini.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/computing/acer-recommits-to-repairability-with-new-vero-16-laptop/",
+    "title": "Acer Recommits to Repairability With New Vero 16 Laptop",
+    "description": "The company also unveils the sleekest Swift yet and a Swift Air update at IFA 2026.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T09:30:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Acer-Vero-16-V16-I71T-Lifestyle-1.jpg",
     "source_name": "CNET.COM"
   },
   {
@@ -1688,17 +1733,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.wired.com/story/verizon-promo-code/",
-    "title": "Verizon Promo Codes: $200 Verizon Gift Cards | September 2026",
-    "description": "Ready for an upgrade? Apply our latest promotional codes today and choose a select service plan to score a discount with Verizon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea076e97780c31bf362cf9/master/pass/WIRED-Coupons-14.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/whoop-promo-code/",
     "title": "Whoop Promo Codes: 20% Off This September 2026",
     "description": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.",
@@ -1729,6 +1763,17 @@
     ],
     "pub_date": "2026-09-02T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/verizon-promo-code/",
+    "title": "Verizon Promo Codes: $200 Verizon Gift Cards | September 2026",
+    "description": "Ready for an upgrade? Apply our latest promotional codes today and choose a select service plan to score a discount with Verizon.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/66ea076e97780c31bf362cf9/master/pass/WIRED-Coupons-14.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -2236,50 +2281,5 @@
     "pub_date": "2026-09-01T22:25:01+00:00",
     "image_url": "http://www.techmeme.com/260901/i54.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/nvidia-gb300-dgx-station-desktop-pc-goes-on-sale-for-almost-usd91-100-7x-costlier-than-a-256gb-ram-mac-studio-m5-ultra-but-with-748gb-ram",
-    "title": "Nvidia GB300 DGX station desktop PC goes on sale for almost $91,100 — 7x costlier than a 256GB RAM Mac Studio M5 Ultra but with 748GB RAM",
-    "description": "Supermicro's new $91,100 AI workstation offers 748GB of memory, dwarfing Apple's Mac Studio while targeting labs, not casual home users.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T22:20:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/fA7AKnpbEzjkvbz59bxutP-1280-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/mapquest-lake-ontario-lake-america-app-store",
-    "title": "MapQuest just found a route to No. 1 on the App Store",
-    "description": "MapQuest surged to No. 1 after refusing to call Lake Ontario 'Lake America,' unlike Google Maps and Apple Maps.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T22:18:38+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07dd1lOWk0NRo77XTf3Xnis/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/home-theater/sony-just-turned-up-the-volume-with-three-new-ult-speakers-packing-up-to-2150-watts-of-power-for-your-next-party/",
-    "title": "Sony just turned up the volume with three new ULT speakers, packing up to 2,150 watts of power for your next party",
-    "description": "Sony's new ULT Tower 5, 7, and Max speakers bring deeper bass, new sound modes, and prices ranging from $450 to $1,500 starting this month.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T22:15:09+00:00",
-    "image_url": "https://www.digitaltrends.com/tachyon/2026/09/Sony-ULT-Tower-7.jpg?resize=440%2C292",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
-    "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
-    "description": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
-    "categories": [
-      "Social & Media",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-01T22:13:34+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
