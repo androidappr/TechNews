@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.techmeme.com/260901/p63#a260901p63",
+    "title": "NYC's Department of Education adopts a policy barring public school students from using AI until high school, banning companion chatbots in all grades, and more (Matthew Haag/New York Times)",
+    "description": "Matthew Haag / New York Times:\nNYC's Department of Education adopts a policy barring public school students from using AI until high school, banning companion chatbots in all grades, and more  —  A new policy to be announced by the Department of Education bars younger students from using A.I., but stops short of a moratorium.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T03:10:02+00:00",
+    "image_url": "http://www.techmeme.com/260901/i63.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/humain-horizon-ultra-ai-pc-unveiled-with-snapdragon-x2-elite-and-on-device-ai/",
+    "title": "HUMAIN Horizon Ultra AI PC unveiled with Snapdragon X2 Elite and on-device AI",
+    "description": "Qualcomm and HUMAIN unveiled Horizon Ultra at LEAP 2026, an AI PC built on the Snapdragon X2 Elite that can run AI tasks locally and switch to the cloud only when it needs extra power.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-02T03:07:25+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/09/Snapdragon-X2-Elite.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260901/p62#a260901p62",
     "title": "A look at Snap's bet on Specs AR glasses; sources: Evan Spiegel wore them for an interview against internal advice, planned outside funding for Specs never came (Wall Street Journal)",
     "description": "Wall Street Journal:\nA look at Snap's bet on Specs AR glasses; sources: Evan Spiegel wore them for an interview against internal advice, planned outside funding for Specs never came  —  As company struggles with profitability, Snap CEO is doubling down on a hardware play that has made some investors wary",
@@ -339,7 +363,6 @@
     "title": "Blue Origin wins NASA contract for telecommunications on Mars",
     "description": "The company will create a high-performance Mars telecommunications orbiter for NASA by December 31, 2028",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-09-01T23:00:16+00:00",
@@ -660,7 +683,6 @@
     "title": "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
     "description": "NASA awarded Blue Origin a contract Tuesday to develop the agency’s Mars Telecommunications Network, a next-generation communications system that will enable reliable, high-bandwidth communications and navigation services for current and future Mars missions. The firm-fixed-price contract has a maximum potential value of approximately $700 million to deliver a high-performance Mars telecommunications orbiter to NASA no",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-01T21:08:37+00:00",
@@ -672,7 +694,6 @@
     "title": "OpenAI Astra: All about the quantum math-solving model with critical hacking skills",
     "description": "Astra is an unreleased new OpenAI model, which has already solved 10 major math problems that stood open for decades.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-01T21:08:06+00:00",
@@ -684,8 +705,7 @@
     "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
     "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-01T21:06:24+00:00",
     "image_url": null,
@@ -1586,6 +1606,17 @@
     "source_name": "ENGADGET.COM"
   },
   {
+    "link": "https://www.androidcentral.com/phones/google-pixel/android-drop-google-motion-assist-and-guided-vision-on-android",
+    "title": "Android Drop: Google's Motion Assist and Guided Vision are two features I'm ready for on Android",
+    "description": "Google's September Android Drop looks to help users suffering from motion sickness in cars, and there's a \"Guided Vision\" Accessibility feature on the way.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T18:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/SHQKoFFu7jFKMsDvg7mGta-1280-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
     "link": "https://www.androidcentral.com/apps-software/google-adds-shared-keep-notes-and-custom-themes-to-messages",
     "title": "Google adds shared Keep notes and custom themes to Messages",
     "description": "Google's September Android Drop lets you edit shared Keep notes and set custom themes right in Google Messages.",
@@ -1605,17 +1636,6 @@
     ],
     "pub_date": "2026-09-01T18:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/Koy2RM269QtUxsCuzgrcp4-1280-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/phones/google-pixel/android-drop-google-motion-assist-and-guided-vision-on-android",
-    "title": "Android Drop: Google's Motion Assist and Guided Vision are two features I'm ready for on Android",
-    "description": "Google's September Android Drop looks to help users suffering from motion sickness in cars, and there's a \"Guided Vision\" Accessibility feature on the way.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T18:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/SHQKoFFu7jFKMsDvg7mGta-1280-80.jpg",
     "source_name": "ANDROIDCENTRAL.COM"
   },
   {
@@ -2253,29 +2273,5 @@
     "pub_date": "2026-09-01T16:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/sonyspeaker1.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-    "title": "Google Pics is like Canva, but with even more AI",
-    "description": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed to give more granular control over prompt-based image making and manipulation, allowing",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-09-01T16:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Google-Pics-rollout-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/give-your-home-office-an-affordable-upgrade-with-my-top-12-amazon-labor-day-deals-on-essential-work-from-home-tech-and-accessories",
-    "title": "Give your home office an affordable upgrade with my top 12 Amazon Labor Day deals on essential work-from-home tech and accessories",
-    "description": "These are the 12 Amazon Labor Day deals I’d buy to upgrade a home office without spending a small fortune.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T15:58:59+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/wiGvXAdyymANdvoAFwdT5f-1280-80.png",
-    "source_name": "TECHRADAR.COM"
   }
 ]
