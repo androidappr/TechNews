@@ -1,5 +1,52 @@
 [
   {
+    "link": "https://www.digitaltrends.com/computing/asus-puts-a-petaflop-of-ai-ambition-into-proart-laptops/",
+    "title": "Asus puts a petaflop of AI ambition into ProArt laptops",
+    "description": "Asus is taking its ProArt lineup deeper into the AI era with the new ProArt P16 and ProArt P14, the first ProArt laptops powered by Nvidia’s RTX Spark platform. The company is showcasing the machines at IFA 2026 in Berlin, positioning them as portable workstations for creators and developers who increasingly want to run AI",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-02T18:29:29+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/09/DT-75.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/wearables/norway-mulls-ban-on-smart-glasses-before-they-become-a-bigger-privacy-problem/",
+    "title": "Norway takes aim at smart glasses with plans for tighter regulations, and I’m all for it",
+    "description": "Norway's digital minister is weighing strict rules for smart glasses, including a ban on facial recognition features that threaten to erase public anonymity.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T18:29:27+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2024/02/ray-ban-meta-wayfarer.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/02/iphone-18-pro-will-have-three-upgrades-that-have-been-rumored-for-years/",
+    "title": "iPhone 18 Pro will have three upgrades that have been rumored for years",
+    "description": "iPhone 18 Pro is launching next week, and expected to feature three upgrades that have been rumored for years. Here’s what’s coming.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T18:21:33+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-blue-camera-array.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+    "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+    "description": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-02T18:20:00+00:00",
+    "image_url": "https://media.wired.com/photos/6a973d9ebb1b14821345f01b/master/pass/AI-Lab-Russian-Mathematicians-Got-AI-Models-to-Communicate-Subconsciously-Business.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/security/over-5-000-dropbox-accounts-have-been-hacked-and-the-attackers-only-needed-an-email-address",
     "title": "Over 5,000 Dropbox accounts have been hacked, and the attackers only needed an email address",
     "description": "A bug in Lenovo's ID verification system made it possible to access Dropbox accounts, but the bug has since been fixed.",
@@ -21,6 +68,18 @@
     "pub_date": "2026-09-02T18:00:56+00:00",
     "image_url": "http://www.techmeme.com/260902/i35.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/02/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/",
+    "title": "iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym",
+    "description": "GymKit has been one of Apple Watch’s smartest fitness features since it launched in 2017. Tap your watch to compatible gym equipment, and Apple Watch shares your heart rate while the machine sends back metrics like distance, incline, pace, and calories.\n\n\n\nWith iOS 27, Apple is expanding that idea beyond Apple Watch. I tested the new GymKit on iPhone and AirPods Pro 3 experience with a GymKit-compatible treadmill. It basically gives you the Apple Watch GymKit workout tracking experience, just without the watch. This could be useful in a lot of scenarios.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T18:00:00+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-GymKit-iPhone.webp?w=1600",
+    "source_name": "9TO5MAC.COM"
   },
   {
     "link": "https://www.techradar.com/phones/android/5-new-features-coming-to-android-including-improvements-to-google-messages-gemini-live-and-find-hub",
@@ -414,8 +473,8 @@
   },
   {
     "link": "https://www.techmeme.com/260902/p33#a260902p33",
-    "title": "Thyme Care, which focuses on filling gaps in cancer treatment through a virtual navigation platform, raised a $125M Series E at a $2B+ valuation (Ian Thomas/CNBC)",
-    "description": "Ian Thomas / CNBC:\nThyme Care, which focuses on filling gaps in cancer treatment through a virtual navigation platform, raised a $125M Series E at a $2B+ valuation  —  Despite recent advancements in oncology, the branch of medicine focused on the study, prevention, diagnosis and treatment of cancer …",
+    "title": "Thyme Care, which focuses on filling cancer treatment gaps via a virtual navigation platform, raised a $125M Series E at a $2B+ valuation, up from $1B+ in 2025 (Ian Thomas/CNBC)",
+    "description": "Ian Thomas / CNBC:\nThyme Care, which focuses on filling cancer treatment gaps via a virtual navigation platform, raised a $125M Series E at a $2B+ valuation, up from $1B+ in 2025  —  Despite recent advancements in oncology, the branch of medicine focused on the study, prevention, diagnosis and treatment of cancer …",
     "categories": [
       "Tech News"
     ],
@@ -547,7 +606,6 @@
     "title": "MrBeast, whose YouTube channel hit 500M subscribers in June, will put Gemini, Google Health, and the Fitbit Air in his videos as part of a multiyear Google deal (Stevie Bonifield/The Verge)",
     "description": "Stevie Bonifield / The Verge:\nMrBeast, whose YouTube channel hit 500M subscribers in June, will put Gemini, Google Health, and the Fitbit Air in his videos as part of a multiyear Google deal  —  ﻿One of YouTube's biggest creators has a new deal to promote Gemini and Google Health.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-02T16:10:01+00:00",
@@ -1619,7 +1677,6 @@
     "title": "Skip the junk: these 5 Labor Day charging deals are worth a look",
     "description": "I checked the Labor Day charging sales and found five deals from UGREEN, INIU, Energizer, Anker, and Insignia worth considering.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-02T12:30:40+00:00",
@@ -1678,7 +1735,6 @@
     "title": "Apple Labor Day 2026 deals now live: AirPods Pro 3, M6 Mac mini, AirTag 2, iPhone, more [Updated]",
     "description": "Update 9/2: Amazon has now dropped the price on AirPods Pro 3 back down to $199 for its Labor Day sale (this is $50 off and actually $1 less than our previous mention). \n\n\n\n\n\n\n\nAmazon has now officially launched its massive 2026 Labor Day Sale and the deals are flying. We are tracking $50 off AirPods Pro 3, the best prices ever on the 2026 AirTag 2, all-time lows on iPhone 17 Pro, and much more – Apple Watch SE 3 is sitting at down at the $200 all-time low for the first time if you’re quick. \n\n\n\nThat is all just for starters, though. There are thousands upon thousands of price drops across just about every product category live on Amazon starting today – even the brand new M6 Mac mini 6 is seeing some discounts already, alongside everything from Anker charging gear to smart home products and much more. Scope out some highlights below. \n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-02T12:17:00+00:00",
@@ -2262,62 +2318,5 @@
     "pub_date": "2026-09-02T10:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6a96e7a402072373527ca410/master/pass/09012026-pangram-main.gif",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/why-zero-trust-is-the-practical-enterprise-access-and-security-model",
-    "title": "Why Zero Trust is the practical enterprise access and security model",
-    "description": "Zero Trust embeds continuous verification, least privilege and network-level controls to strengthen enterprise resilience.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T09:56:05+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/UjSNcAZ5SebctebKAMQNVF-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/life/adult-film-maman-banned-in-the-uk-is-back-online",
-    "title": "Adult film banned in the UK is back online",
-    "description": "Four Chambers and Vex Ashley have reuploaded the Maman series after removing it for not complying with the UK's new law.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T09:50:01+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05MRGaYfR2DTn0xhCGAORMY/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/life/sept-2-pokemon-tcg-pitch-black-display-box-deal",
-    "title": "The Pokémon TCGs Pitch Black Booster Display Box is under market price at Amazon — save over $25",
-    "description": "The Pokémon TCG Pitch Black Booster Display Box is $183.29 at Amazon, under TCGplayer market value and $26.66 off.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T09:46:16+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07rTvsdswARqptNbdCzT1SM/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260902/p9#a260902p9",
-    "title": "Dell unveils the student-focused Dell 14S, with Intel Wildcat Lake chips and starting with 8GB of RAM and 256GB of storage, in a bid to rival the MacBook Neo (Antonio G. Di Benedetto/The Verge)",
-    "description": "Antonio G. Di Benedetto / The Verge:\nDell unveils the student-focused Dell 14S, with Intel Wildcat Lake chips and starting with 8GB of RAM and 256GB of storage, in a bid to rival the MacBook Neo  —  ﻿The Dell 14S promises an aluminum build, Intel Wildcat Lake chips, and lots of battery life — for a price we don't know exactly yet.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T09:45:01+00:00",
-    "image_url": "http://www.techmeme.com/260902/i9.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/dropbox-lenovo-id-breach-5000-accounts",
-    "title": "Dropbox says 5,000 accounts were breached through a Lenovo login",
-    "description": "Somebody registered a Lenovo ID using a stranger’s email address and then used it to sign into that person’s Dropbox account without needing their password. About 5,000 accounts were compromised between August 4 and 21, Dropbox said. The flaw was in a legacy integration between Lenovo ID and Dropbox that did not properly verify email",
-    "categories": [
-      "Business & Startups",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-02T09:42:35+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/Dropbox-logo.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
