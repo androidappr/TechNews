@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.digitaltrends.com/cool-tech/gemini-can-now-remember-where-you-store-your-belongings-so-you-dont-have-to/",
+    "title": "Gemini can now remember where you store your belongings so you don’t have to",
+    "description": "Gemini can now remember where you told it you put things like a passport, saving the location to Find Hub, no tracker tag required.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-02T00:00:00+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/09/Gemini-September-Drop-remembering-things.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260901/p59#a260901p59",
     "title": "Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work (Zac Hall/9to5Mac)",
     "description": "Zac Hall / 9to5Mac:\nAnthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work  —  In June, Anthropic first released Fable 5, its Mythos-class AI model for Claude.  Three months later, Anthropic is enhancing Claude with its new Fable 5.1 model upgrade.",
@@ -26,7 +38,7 @@
   {
     "link": "https://www.techmeme.com/260901/p58#a260901p58",
     "title": "Anthropic prices Fable 5.1 at $10/1M input tokens and $50/1M output tokens, unchanged from Fable 5, and cuts cache read pricing by 75% to $0.25/1M tokens (Frederic Lardinois/The New Stack)",
-    "description": "Frederic Lardinois / The New Stack:\nAnthropic prices Fable 5.1 at $10/1M input tokens and $50/1M output tokens, unchanged from Fable 5, and cuts cache read pricing by 75% to $0.25/1M tokens  —  Anthropic keeps Fable's $10/$50 pricing, cuts cache reads by 75%, and tunes the safeguards that made Fable 5 punt to Opus.",
+    "description": "Frederic Lardinois / The New Stack:\nAnthropic prices Fable 5.1 at $10/1M input tokens and $50/1M output tokens, unchanged from Fable 5, and cuts cache read pricing by 75% to $0.25/1M tokens  —  On Tuesday, Anthropic launched the latest versions of its flagship Fable and Mythos models.  Anthropic promises that the updated models …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -497,7 +509,7 @@
   },
   {
     "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-    "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+    "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
     "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
     "categories": [
       "AI & Machine Learning",
@@ -750,7 +762,6 @@
     "title": "'The disguise becomes part of the answer key': Researchers find that AI is redefining what human writing means by self-correcting itself",
     "description": "An analysis of 18,989 abstracts finds AI-associated vocabulary is rising sharply, complicating efforts to distinguish machine-influenced language from human writing.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-01T20:15:00+00:00",
@@ -775,7 +786,6 @@
     "title": "Roku launches its first OLED TVs, cheaper than LG and Samsung’s entry level models",
     "description": "Roku launched its first OLED TVs, the Pro Series OLED and LX OLED, undercutting Samsung and LG's entry level OLED pricing significantly.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-01T20:10:42+00:00",
@@ -819,6 +829,17 @@
     "source_name": "TECHMEME.COM"
   },
   {
+    "link": "https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026/",
+    "title": "The Diamond Moon and Other Astronomical Events to See in September 2026",
+    "description": "September is full of opportunities to expand your knowledge of the night sky. Mark your calendars.",
+    "categories": [
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-01T20:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6a970ab972949d665b63334c/master/pass/474745466",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
     "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
     "description": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
@@ -830,17 +851,6 @@
     ],
     "pub_date": "2026-09-01T20:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6a9613c7a31f896f81e828e0/master/pass/OpenAI-AI-Safety-Business.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026/",
-    "title": "The Diamond Moon and Other Astronomical Events to See in September 2026",
-    "description": "September is full of opportunities to expand your knowledge of the night sky. Mark your calendars.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-01T20:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6a970ab972949d665b63334c/master/pass/474745466",
     "source_name": "WIRED.COM"
   },
   {
@@ -1321,7 +1331,6 @@
     "title": "Anthropic upgrades Claude with new Fable 5.1 model, details here",
     "description": "In June, Anthropic first released Fable 5, its Mythos-class AI model for Claude. Three months later, Anthropic is enhancing Claude with its new Fable 5.1 model upgrade.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-01T18:10:16+00:00",
@@ -1368,7 +1377,6 @@
     "title": "Android’s New Features Have Me Excited, Especially This One for Motion Sickness",
     "description": "The latest additions coming to Android include chat themes, visual assistance in Gemini Live and a motion sickness feature that I can’t wait to try.",
     "categories": [
-      "Breaking News",
       "Mobile & Telecom"
     ],
     "pub_date": "2026-09-01T18:03:09+00:00",
@@ -1380,7 +1388,6 @@
     "title": "Who is John Ternus, the new Apple CEO?",
     "description": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-01T18:02:00+00:00",
@@ -1421,17 +1428,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.androidcentral.com/phones/google-pixel/android-drop-google-motion-assist-and-guided-vision-on-android",
-    "title": "Android Drop: Google's Motion Assist and Guided Vision are two features I'm ready for on Android",
-    "description": "Google's September Android Drop looks to help users suffering from motion sickness in cars, and there's a \"Guided Vision\" Accessibility feature on the way.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T18:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/SHQKoFFu7jFKMsDvg7mGta-1280-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
     "link": "https://www.androidcentral.com/apps-software/google-adds-shared-keep-notes-and-custom-themes-to-messages",
     "title": "Google adds shared Keep notes and custom themes to Messages",
     "description": "Google's September Android Drop lets you edit shared Keep notes and set custom themes right in Google Messages.",
@@ -1451,6 +1447,17 @@
     ],
     "pub_date": "2026-09-01T18:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/Koy2RM269QtUxsCuzgrcp4-1280-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/phones/google-pixel/android-drop-google-motion-assist-and-guided-vision-on-android",
+    "title": "Android Drop: Google's Motion Assist and Guided Vision are two features I'm ready for on Android",
+    "description": "Google's September Android Drop looks to help users suffering from motion sickness in cars, and there's a \"Guided Vision\" Accessibility feature on the way.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T18:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/SHQKoFFu7jFKMsDvg7mGta-1280-80.jpg",
     "source_name": "ANDROIDCENTRAL.COM"
   },
   {
@@ -2307,17 +2314,5 @@
     "pub_date": "2026-09-01T15:31:57+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-iPhone-M6-Mac-mini-AirTag-2.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/cameras/former-dji-engineers-have-made-the-worlds-first-robotic-extreme-zoom-camera-it-features-a-50x-zoom-ai-tracking-and-can-identify-300-bird-species",
-    "title": "Former DJI engineers have made 'the world's first robotic extreme zoom camera' — it features a 50x zoom, AI tracking and can identify 300+ bird species",
-    "description": "Keeping your subjects in the frame and focused even at long distances. Oh, and it identifies bird species too.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T15:31:32+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/eisKX3ZnUHS8WKDTuAHEQm-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
