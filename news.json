@@ -1,5 +1,87 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+    "description": "HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-02T15:01:23+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/987687/belkin-headphones-sonos-ace-nintendo-switch-2-kirby-amazon-resale-deal-sale",
+    "title": "Belkin’s kid-friendly wireless headphones are 25 percent off",
+    "description": "Verge readers can get a discount on Belkin’s SoundForm Mini 2 wireless headphones. The kid-focused on-ear headphones feature an 85-decibel volume limit and easy controls, and a mode that lets them beam audio (wired or wirelessly) to a second pair without extra hardware. Readers can use the code VERGE25OFF to save 25 percent on up",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-02T14:58:15+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkinsoundform.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+    "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+    "description": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-02T14:56:34+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techradar.com/home/smart-thermostats/ikea-launches-its-first-smart-radiator-thermostat-with-matter-support-and-an-impressively-affordable-price",
+    "title": "IKEA launches its first smart radiator thermostat, with Matter support and an impressively affordable price",
+    "description": "There's another IKEA smart home product to check out, and this one helps you manage temperatures at home.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T14:55:32+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/AL2rrbAUhZFkwURBL9y22X-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260902/p23#a260902p23",
+    "title": "A US federal judge rules that Google does not have to sell off its ad exchange and instead must make its ad tech tools work with those operated by rivals (Leah Nylen/Bloomberg)",
+    "description": "Leah Nylen / Bloomberg:\nA US federal judge rules that Google does not have to sell off its ad exchange and instead must make its ad tech tools work with those operated by rivals  —  Alphabet Inc.'s Google doesn't have to sell off its advertising exchange and instead must make its ad tech tools work with those operated by rivals …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T14:50:00+00:00",
+    "image_url": "http://www.techmeme.com/260902/i23.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/wearables/huawei-watch-d3-hands-on-early-impressions/",
+    "title": "Huawei Watch D3 hands-on: Huawei’s strangest smartwatch might be its smartest",
+    "description": "The Huawei Watch D3 puts blood-pressure monitoring at the heart of the smartwatch experience. After a handful of days with it, here’s what stands out.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T14:48:39+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/09/Design-1-Huawei-Watch-D3-Hands-On-Early-First-Impressions.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/acers-new-vero-16-proves-repairable-laptops-dont-have-to-feel-like-a-compromise/",
+    "title": "Acer’s new Vero 16 proves repairable laptops don’t have to feel like a compromise",
+    "description": "Acer's redesigned Vero 16 combines a repairable, recycled-aluminum chassis with flagship Intel processors, proving eco-friendly laptops don't have to skimp on performance.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T14:44:06+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/09/Acer-Vero-16-featured.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260902/p22#a260902p22",
     "title": "Conveo, which uses AI to conduct customer interviews in 15 languages and analyzes transcripts for market insights, raised a $50M Series A led by DST Global (Chris Metinko/Axios)",
     "description": "Chris Metinko / Axios:\nConveo, which uses AI to conduct customer interviews in 15 languages and analyzes transcripts for market insights, raised a $50M Series A led by DST Global  —  Conveo, which helps big brands understand market trends, raised a $50 million Series A led by DST Global, Conveo CEO Dieter De Mesmaeker tells Axios Pro exclusively.",
@@ -946,7 +1028,6 @@
     "title": "The robot butler dream doesn’t have legs",
     "description": "The idea of humanoid robots running our homes has been the stuff of science fiction for years. But unlike hoverboards and self-tying sneakers, a robot housekeeper has never felt close to rolling into our homes. Until now. This has been the year of the humanoid robot. At CES, there were dozens of human-shaped bots on",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-02T11:00:00+00:00",
@@ -1284,20 +1365,6 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://www.theverge.com/games/988029/acer-project-dualplay-mini-concept-gaming-handheld-keyboard-ifa",
-    "title": "Acer’s new concept hardware is a gaming handheld with a keyboard",
-    "description": "For the last few years, PC gamers on the go have had a choice: Buy a gaming laptop, or pick up one of the many Steam Deck-inspired handhelds that are a fraction of the size but a lot less versatile. Acer's latest concept device, Project DualPlay Mini, is an attempt to upend that dichotomy by",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware",
-      "Gaming",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-02T09:30:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer-project-dualplay-mini-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.engadget.com/2249298/acer-predator-atlas-7-gaming-handheld/",
     "title": "Acer's Predator Atlas 7 is the brand's smaller handheld gaming flagship model",
     "description": "Acer is launching a 7-inch version of the Predator Atlas 8.",
@@ -1368,6 +1435,20 @@
     "pub_date": "2026-09-02T09:30:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Acer-Vero-16-V16-I71T-Lifestyle-1.jpg",
     "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.theverge.com/games/988029/acer-project-dualplay-mini-concept-gaming-handheld-keyboard-ifa",
+    "title": "Acer’s new concept hardware is a gaming handheld with a keyboard",
+    "description": "For the last few years, PC gamers on the go have had a choice: Buy a gaming laptop, or pick up one of the many Steam Deck-inspired handhelds that are a fraction of the size but a lot less versatile. Acer's latest concept device, Project DualPlay Mini, is an attempt to upend that dichotomy by",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Gaming",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-02T09:30:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer-project-dualplay-mini-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://thenextweb.com/news/openai-astra-model-guardrails-cyber",
@@ -1860,6 +1941,28 @@
     "source_name": "WIRED.COM"
   },
   {
+    "link": "https://www.wired.com/story/altra-promo-code/",
+    "title": "Altra Running Promo Codes: 10% Off September 2026",
+    "description": "Score big savings on Altra Running shoes with up to 50% off sale styles, 20% off select models, 10% off your first order when you sign up, plus free standard delivery on every purchase.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/verizon-promo-code/",
+    "title": "Verizon Promo Codes: $200 Verizon Gift Cards | September 2026",
+    "description": "Ready for an upgrade? Apply our latest promotional codes today and choose a select service plan to score a discount with Verizon.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/66ea076e97780c31bf362cf9/master/pass/WIRED-Coupons-14.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.wired.com/story/whoop-promo-code/",
     "title": "Whoop Promo Codes: 20% Off This September 2026",
     "description": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.",
@@ -1879,28 +1982,6 @@
     ],
     "pub_date": "2026-09-02T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/verizon-promo-code/",
-    "title": "Verizon Promo Codes: $200 Verizon Gift Cards | September 2026",
-    "description": "Ready for an upgrade? Apply our latest promotional codes today and choose a select service plan to score a discount with Verizon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea076e97780c31bf362cf9/master/pass/WIRED-Coupons-14.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/altra-promo-code/",
-    "title": "Altra Running Promo Codes: 10% Off September 2026",
-    "description": "Score big savings on Altra Running shoes with up to 50% off sale styles, 20% off select models, 10% off your first order when you sign up, plus free standard delivery on every purchase.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png",
     "source_name": "WIRED.COM"
   },
   {
@@ -2210,82 +2291,5 @@
     "pub_date": "2026-09-01T23:40:43+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Fermi-Explorer-1.jpg",
     "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/01/ford-explains-why-it-chose-apple-maps-over-google-for-its-new-evs/",
-    "title": "Ford explains why it chose Apple Maps over Google for its new EVs",
-    "description": "Earlier this year, Apple announced a partnership with Ford to bring native Apple Maps integration to the automaker’s upcoming Universal Electric Vehicle (UEV) Platform, including what we now know is called the Fathom.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T23:33:07+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-maps-generic-3d.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260901/p57#a260901p57",
-    "title": "India's JioHotstar launches internationally without live sports, replacing Hotstar in the UK, Canada, and Singapore; the company says it has 500M+ MAUs in India (TechCrunch)",
-    "description": "TechCrunch:\nIndia's JioHotstar launches internationally without live sports, replacing Hotstar in the UK, Canada, and Singapore; the company says it has 500M+ MAUs in India  —  JioHotstar, the streaming platform controlled by Indian conglomerate Reliance Industries, is taking its brand outside India …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T23:30:08+00:00",
-    "image_url": "http://www.techmeme.com/260901/i57.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2246417/tvs-at-risk-of-burn-in/",
-    "title": "Are all TVs at risk from burn-in? Here's how to avoid the problem altogether",
-    "description": "OLED screens run the biggest risk of burn-in, but with a little common sense you can mitigate the issue.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T23:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/are-all-tvs-at-risk-from-burn-in-heres-how-to-avoid-the-problem-altogether/l-intro-1787593136.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/anthropic-reveals-its-view-of-how-ai-agents-should-interact-with-the-physical-world",
-    "title": "Anthropic reveals its view of how AI agents should interact with the physical world",
-    "description": "Anthropic's Model Hardware Standard gives AI agents a common method for controlling laboratory equipment, robots, and other programmable physical machines.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-01T23:25:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ym4JdN8tZyMYq4wNvoyNWJ-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260901/p56#a260901p56",
-    "title": "IPO filing: SB Energy says it has 8.8GW of data center capacity contracted or under construction across Texas and Ohio and a $430B data center segment backlog (Monique Mulima/Bloomberg)",
-    "description": "Monique Mulima / Bloomberg:\nIPO filing: SB Energy says it has 8.8GW of data center capacity contracted or under construction across Texas and Ohio and a $430B data center segment backlog  —  SB Energy Inc., a data center firm backed by SoftBank Group Corp., filed for a US initial public offering to fund …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T23:20:00+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/mobile/apples-iphone-18-pro-could-come-in-black-but-skip-silver-this-year/",
-    "title": "Apple’s iPhone 18 Pro Could Come in Black, but Skip Silver This Year",
-    "description": "The next iPhone Pro lineup might not repeat any colors from last year, with silver reportedly not in production.",
-    "categories": [
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-09-01T23:06:41+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/image-4_0e68fa.png",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
-    "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
-    "description": "333 miles of real-world range with uncompromised comfort and off-road ability.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T23:01:52+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/RANGE-ROVER-ELECTRIC-AND-CLASSIC-02_09_26-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
