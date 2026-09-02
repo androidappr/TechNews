@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://thenextweb.com/news/doj-statement-of-interest-openai-copyright-fair-use-eu-ai-act-recital-106-tdm-opt-out",
+    "title": "Justice Department sides with OpenAI in publishers’ copyright fight",
+    "description": "The Justice Department filed a statement of interest backing OpenAI’s fair use defence in the consolidated publisher copyright cases, arguing that licensing costs would threaten national security. EU law has no fair use doctrine, and the AI Act applies its copyright obligations to any provider placing a model on the Union market wherever training occurred.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-02T22:10:56+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/altman-white-house-openai-model-preview-agents.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/computing/alexa-can-now-spot-fake-messages-from-scammers-pretending-to-be-amazon/",
     "title": "Alexa can now spot fake messages from scammers pretending to be Amazon",
     "description": "Amazon launched a new Alexa for Shopping feature that verifies whether messages, emails, texts, or calls actually came from the company.",
@@ -36,7 +48,7 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.cnet.com/tech/mobile/addicted-to-phone-screen-time-pew-research-2/",
+    "link": "https://www.cnet.com/tech/mobile/addicted-to-phone-screen-time-pew-research/",
     "title": "You’re Addicted to Your Phone. Admitting That Is the First Step",
     "description": "More than of us say they overuse their smartphones, according to a Pew survey.",
     "categories": [
@@ -1272,7 +1284,6 @@
     "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup \"billions of dollars\" in damages from",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-09-02T16:12:25+00:00",
@@ -2289,17 +2300,5 @@
     "pub_date": "2026-09-02T12:45:16+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/054uLkZgsS00ZHXPuEWw3uS/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260902/p18#a260902p18",
-    "title": "Valencia-based iPronics raised $125M co-led by Maverick Silicon and Light Street, with participation from Nvidia, to develop optical circuit switch tech (Stephen Nellis/Reuters)",
-    "description": "Stephen Nellis / Reuters:\nValencia-based iPronics raised $125M co-led by Maverick Silicon and Light Street, with participation from Nvidia, to develop optical circuit switch tech  —  Valencia, Spain-based startup iPronics said Tuesday that it has raised $125 million in venture capital with participation from Nvidia …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T12:40:01+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
-    "source_name": "TECHMEME.COM"
   }
 ]
