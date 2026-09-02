@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.techmeme.com/260901/p59#a260901p59",
+    "title": "Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work (Zac Hall/9to5Mac)",
+    "description": "Zac Hall / 9to5Mac:\nAnthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work  —  In June, Anthropic first released Fable 5, its Mythos-class AI model for Claude.  Three months later, Anthropic is enhancing Claude with its new Fable 5.1 model upgrade.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T23:52:37+00:00",
+    "image_url": "http://www.techmeme.com/260901/i59.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/movies/youtube-tv-now-lets-you-stream-espn-unlimited-right-inside-the-app/",
+    "title": "YouTube TV now lets you stream ESPN Unlimited right inside the app",
+    "description": "YouTube TV fully integrated ESPN Unlimited into its app, ending the need to switch to a separate ESPN app for live sports content.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T23:50:22+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2022/11/youtube-tv-clock-1.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260901/p58#a260901p58",
     "title": "Anthropic prices Fable 5.1 at $10/1M input tokens and $50/1M output tokens, unchanged from Fable 5, and cuts cache read pricing by 75% to $0.25/1M tokens (Frederic Lardinois/The New Stack)",
     "description": "Frederic Lardinois / The New Stack:\nAnthropic prices Fable 5.1 at $10/1M input tokens and $50/1M output tokens, unchanged from Fable 5, and cuts cache read pricing by 75% to $0.25/1M tokens  —  Anthropic keeps Fable's $10/$50 pricing, cuts cache reads by 75%, and tunes the safeguards that made Fable 5 punt to Opus.",
@@ -619,6 +643,7 @@
     "title": "Firefox Now Lets You Block Some Ads on iOS Devices",
     "description": "Ad Blocker is a new feature for a browser that prides itself on privacy and customization.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-01T20:41:28+00:00",
@@ -812,7 +837,6 @@
     "title": "The Diamond Moon and Other Astronomical Events to See in September 2026",
     "description": "September is full of opportunities to expand your knowledge of the night sky. Mark your calendars.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-09-01T20:00:00+00:00",
@@ -870,7 +894,6 @@
     "description": "John Deere has launched JD, an AI assistant that answers plain-language questions from a farm’s own machine and field data, alongside a ten-point voluntary Farmer Data Commitment. In the EU those commitments are largely obligations under the Data Act, which also bars a manufacturer from using the data to work out what a farm is",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-09-01T19:48:39+00:00",
@@ -1235,18 +1258,6 @@
     "source_name": "ANDROIDCENTRAL.COM"
   },
   {
-    "link": "https://www.techmeme.com/260901/p35#a260901p35",
-    "title": "Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work (Rachel Metz/Bloomberg)",
-    "description": "Rachel Metz / Bloomberg:\nAnthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work  —  Anthropic PBC is releasing a new version of its powerful Fable artificial intelligence model that it says is better at coding and science tasks …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T18:27:16+00:00",
-    "image_url": "http://www.techmeme.com/260901/i35.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
     "link": "https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo",
     "title": "John Ternus sends first memo as Apple CEO teasing a &#8216;huge launch next week&#8217;",
     "description": "New Apple CEO John Ternus sent out his first staff memo, thanking his predecessor Tim Cook, and quickly turning to what the company will do next, reports Bloomberg. \"We have a huge launch next week that's going to be phenomenal. Thanks for everything you've all done to make it possible,\" writes Ternus, referring to the",
@@ -1381,7 +1392,6 @@
     "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
     "description": "New features are rolling out across the Android ecosystem starting today.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-01T18:00:02+00:00",
@@ -1404,12 +1414,22 @@
     "title": "A new Android Find Hub feature will help you remember where you put important things",
     "description": "Google also announced a new visual assistant for Gemini Live and Keep integration with Messages.",
     "categories": [
-      "Breaking News",
       "Mobile & Telecom"
     ],
     "pub_date": "2026-09-01T18:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/a-new-android-find-hub-feature-will-help-you-remember-where-you-put-important-things/l-intro-1788124421.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/phones/google-pixel/android-drop-google-motion-assist-and-guided-vision-on-android",
+    "title": "Android Drop: Google's Motion Assist and Guided Vision are two features I'm ready for on Android",
+    "description": "Google's September Android Drop looks to help users suffering from motion sickness in cars, and there's a \"Guided Vision\" Accessibility feature on the way.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-01T18:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/SHQKoFFu7jFKMsDvg7mGta-1280-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
   },
   {
     "link": "https://www.androidcentral.com/apps-software/google-adds-shared-keep-notes-and-custom-themes-to-messages",
@@ -1427,23 +1447,10 @@
     "title": "No tracker tag? Gemini can now store item locations right in Find Hub",
     "description": "Gemini will soon be able to remember where you stashed tagless essentials like passports using quick voice notes and photo tags in Find Hub.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-01T18:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/Koy2RM269QtUxsCuzgrcp4-1280-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/phones/google-pixel/android-drop-google-motion-assist-and-guided-vision-on-android",
-    "title": "Android Drop: Google's Motion Assist and Guided Vision are two features I'm ready for on Android",
-    "description": "Google's September Android Drop looks to help users suffering from motion sickness in cars, and there's a \"Guided Vision\" Accessibility feature on the way.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-01T18:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/SHQKoFFu7jFKMsDvg7mGta-1280-80.jpg",
     "source_name": "ANDROIDCENTRAL.COM"
   },
   {
@@ -2312,19 +2319,5 @@
     "pub_date": "2026-09-01T15:31:32+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/eisKX3ZnUHS8WKDTuAHEQm-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/x-chinese-bots-data-centre-backlash-no-engagement",
-    "title": "X said Chinese bots fuelled the data centre backlash. A researcher checked",
-    "description": "X said it had found a Chinese bot farm pushing Americans to turn against AI data centres. A researcher who went looking for those accounts found that almost nobody had seen them. Darren Linvill, a researcher at Clemson University, identified at least 59 of those accounts with zero engagement. X probably suspended them before they",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy",
-      "Government & Policy",
-      "Social & Media"
-    ],
-    "pub_date": "2026-09-01T15:31:29+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/us-china-flags-capitol-temple-of-heaven.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
