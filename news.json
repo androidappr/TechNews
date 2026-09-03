@@ -1,5 +1,63 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+    "title": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers",
+    "description": "Ultrahuman is targeting a $200 million annual revenue run rate by January 2027 as it builds a new Qualcomm-powered smart ring.",
+    "categories": [
+      "Business & Startups",
+      "Gadgets & Hardware",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-03T17:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/windows-laptops/how-has-this-not-been-done-before-this-gaming-laptops-innovative-integrated-stand-helps-keep-the-cpu-cooler-and-helps-with-ergonomics-too",
+    "title": "How has this not been done before? This gaming laptop's innovative integrated stand helps keep the CPU cooler — and helps with ergonomics too",
+    "description": "New Japanese laptop boasts a clever cooling innovation that might catch on elsewhere.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T16:55:55+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/DxdHRFXtcupEi746b5FutZ-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/it-helpdesk-impersonation-hits-microsoft-teams-once-again-with-the-hackers-hiding-their-activity-within-legitimate-tools",
+    "title": "IT helpdesk impersonation hits Microsoft Teams once again, with the hackers hiding their activity within legitimate tools",
+    "description": "Microsoft is warning about an ongoing scam campaign starting in Teams.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-03T16:55:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/D4YBMfcEsNT7BhaNJJgm2A-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/brc/linkind-wins-best-smart-lighting-award/",
+    "title": "Linkind Smart Light Stick Wins Our Best Smart Lighting Award",
+    "description": "Smart lighting is at its most useful when it does more than introduce a few fun colors. It should make a space more comfortable during an ordinary evening, add energy when the occasion calls for it, and remain easy enough that everyone in the household can enjoy it. The Linkind Smart Light Stick Color+White 850lm",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T16:50:25+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/08/Scenario-scaled.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techradar.com/streaming/death-stranding-movie-update",
+    "title": "Death Stranding movie director is being given 'a lot of freedom' to tell 'standalone' story separate from Hideo Kojima video game franchise — 'I like things where it could be easy to miss the mark'",
+    "description": "A24 meets Hideo Kojima in the upcoming movie version of video game series Death Stranding — but its director is being given 'a lot of freedom'.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-03T16:45:08+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/JMtYaskPnUwwanZfdGHY99-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260903/p27#a260903p27",
     "title": "Nvidia launches Personal AI Router (PAIR), a free tool that distributes local AI inference workloads across compatible computers on a network, in beta (Antonio G. Di Benedetto/The Verge)",
     "description": "Antonio G. Di Benedetto / The Verge:\nNvidia launches Personal AI Router (PAIR), a free tool that distributes local AI inference workloads across compatible computers on a network, in beta  —  ﻿PAIR is designed to get your desktop and laptop working together on local AI tasks when not in use.",
@@ -22,6 +80,19 @@
     "pub_date": "2026-09-03T16:42:54+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
+    "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+    "description": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk’s SpaceX acquired the AI coding startup.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-03T16:42:40+00:00",
+    "image_url": "https://media.wired.com/photos/6a9996ebd275abfc723b2792/master/pass/Model-Behavior-Elon-Musk-Costs-OpenAI-Billion-Dollar-Customer-Business.jpg",
+    "source_name": "WIRED.COM"
   },
   {
     "link": "https://www.engadget.com/2250467/claude-automatic-sign-out-hackers-explained/",
@@ -675,8 +746,8 @@
   },
   {
     "link": "https://www.techmeme.com/260903/p25#a260903p25",
-    "title": "Claude, ChatGPT, and Grok are experiencing issues; Anthropic reports errors across Opus 4.8 and Opus 5, and OpenAI reports errors across ChatGPT and Codex (Ben Schoon/9to5Google)",
-    "description": "Ben Schoon / 9to5Google:\nClaude, ChatGPT, and Grok are experiencing issues; Anthropic reports errors across Opus 4.8 and Opus 5, and OpenAI reports errors across ChatGPT and Codex  —  A widespread outage has taken out popular AI platforms including ChatGPT, Claude, and Grok.  —  With a spike in reports on DownDetector …",
+    "title": "ChatGPT and Grok are experiencing issues; OpenAI says it has applied a mitigation, and Anthropic says all systems are operational after a Claude outage (Ben Schoon/9to5Google)",
+    "description": "Ben Schoon / 9to5Google:\nChatGPT and Grok are experiencing issues; OpenAI says it has applied a mitigation, and Anthropic says all systems are operational after a Claude outage  —  A widespread outage has taken out popular AI platforms including ChatGPT, Claude, and Grok.  —  Update 8:49am PT: Services appear …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -1455,7 +1526,6 @@
     "title": "Volunteer at TechCrunch Founder Summit in Boston",
     "description": "Our rebranded Boston event, TechCrunch Founder Summit (formerly All Stage), is back on November 4th! And we are looking for some incredible volunteers to help us make this event happen. If you are interested in finding out what goes into building tech events, apply to volunteer. If you are selected, not only will you get",
     "categories": [
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-09-03T13:00:00+00:00",
@@ -2068,17 +2138,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.wired.com/story/book-excerpt-alex-davies-kobuk-the-destroyer-nasa-food-testing/",
-    "title": "How NASA Testing Changed US Food Inspection Forever",
-    "description": "In the early 20th century, public outcry following Upton Sinclair’s The Jungle led to stricter food safety protocols. NASA took them a step further.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-03T11:00:00+00:00",
-    "image_url": null,
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.techmeme.com/260903/p14#a260903p14",
     "title": "The Trump administration imposes tariffs of up to 100% on foreign drones, including 100% on models over 55lbs or with thermal imaging, in a bid to thwart China (Farah Stockman/New York Times)",
     "description": "Farah Stockman / New York Times:\nThe Trump administration imposes tariffs of up to 100% on foreign drones, including 100% on models over 55lbs or with thermal imaging, in a bid to thwart China  —  In addition, the F.C.C. is weighing stiff restrictions on common drone technology such as thermal imaging and aerosol spraying.",
@@ -2099,6 +2158,17 @@
     "pub_date": "2026-09-03T11:00:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Govee-IFA-Skylight-1.jpg",
     "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/book-excerpt-alex-davies-kobuk-the-destroyer-nasa-food-testing/",
+    "title": "How NASA Testing Changed US Food Inspection Forever",
+    "description": "In the early 20th century, public outcry following Upton Sinclair’s The Jungle led to stricter food safety protocols. NASA took them a step further.",
+    "categories": [
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-03T11:00:00+00:00",
+    "image_url": null,
+    "source_name": "WIRED.COM"
   },
   {
     "link": "https://www.engadget.com/2250097/dji-osmo-360-ii-adds-a-replaceable-lens-and-improved-low-light-capability/",
@@ -2151,7 +2221,6 @@
     "title": "Belkin brings semi-solid-state batteries to a $70 power bank",
     "description": "The car industry keeps calling this battery chemistry a decade away. Belkin has just put it in a $69.99 power bank. The company announced three product lines at IFA 2026 in Berlin on Thursday. They arrived as three separate releases, covering portable power, trackers and chargers, and audio. The headline part is the UltraCharge Pro",
     "categories": [
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-09-03T10:49:22+00:00",
@@ -2279,72 +2348,5 @@
     "pub_date": "2026-09-03T10:28:07+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260903/p11#a260903p11",
-    "title": "How some parents, mostly mothers, use AI to organize their families' schedules and automate mundane household tasks via apps like Ollie, Cozi Max, Town, and Ava (Valeriya Safronova/Financial Times)",
-    "description": "Valeriya Safronova / Financial Times:\nHow some parents, mostly mothers, use AI to organize their families' schedules and automate mundane household tasks via apps like Ollie, Cozi Max, Town, and Ava  —  Parents are using AI to organise their families, from managing busy schedules to researching preschools, planning meals and grocery shopping.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T10:25:01+00:00",
-    "image_url": "http://www.techmeme.com/260903/i11.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/phones/free-mapping-app-mapquest-surges-in-popularity-after-refusing-to-rename-lake-ontario/",
-    "title": "Free mapping app MapQuest surges in popularity after refusing to rename Lake Ontario",
-    "description": "MapQuest is enjoying an unexpected comeback after refusing to rename Lake Ontario, with downloads surging as users look for an alternative to Google Maps and Apple Maps.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T10:21:37+00:00",
-    "image_url": "https://www.digitaltrends.com/tachyon/2026/09/MapQuest-screenshot-of-Lake-Ontario.jpg?resize=440%2C292",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2250160/dont-use-google-gemini-to-plan-a-mountain-climb/",
-    "title": "PSA: Don't rely on AI to plan anything that could put your life at risk... like a mountain climb",
-    "description": "Gemini reportedly told a group of climbers that it would only take them eight hours to climb Mt. Shasta. They had to be rescued more than a day later.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-03T10:20:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/psa-dont-rely-on-ai-to-plan-anything-that-could-put-your-life-at-risk-like-a-mountain-climb/l-intro-1788430706.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/acer-ifa-2026-products",
-    "title": "Every Product Acer Announced at IFA 2026 in 14 Minutes",
-    "description": "See every product Acer announced at IFA 2026, including the Project Dualplay Mini and its rotating screen.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T10:19:35+00:00",
-    "image_url": "https://cdn.ex.co/transformations-account/production/a0be6317-e085-43f9-8cb5-7b125d25af4b/97ee8d79-f17e-54f0-9a50-71f877a10f73/master.m3u8",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/google-vids-now-lets-you-turn-docs-pdfs-and-word-files-into-video-summaries/",
-    "title": "Google Vids now lets you turn Docs, PDFs, and Word files into video summaries",
-    "description": "Google Vids can now turn a PDF, Google Doc, or Word file into a narrated video summary using AI, no reading required.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-09-03T10:18:43+00:00",
-    "image_url": "https://www.digitaltrends.com/tachyon/2026/09/Final-Docs-to-Video-screenshot.jpg?resize=440%2C292",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://mashable.com/life/dating-on-a-glp-1-weight-loss",
-    "title": "I get so upset and frustrated: What dating is like on a GLP-1",
-    "description": "Singles on GLP-1s speak to Mashable about what it's like dating after weight loss.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T10:14:18+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/053tZ8oASzPc0Q4tLW6ztDu/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
