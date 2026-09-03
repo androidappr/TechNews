@@ -1,5 +1,63 @@
 [
   {
+    "link": "https://www.techradar.com/pro/security-policy-is-critical-infrastructure",
+    "title": "Security policy is critical infrastructure",
+    "description": "An essential system is one whose failure would cause intolerable harm to customers, markets, or public safety.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T10:28:07+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260903/p11#a260903p11",
+    "title": "How some parents, mostly mothers, use AI to help them organize their families' schedules and automate mundane household tasks via apps like Ollie and Cozi Max (Valeriya Safronova/Financial Times)",
+    "description": "Valeriya Safronova / Financial Times:\nHow some parents, mostly mothers, use AI to help them organize their families' schedules and automate mundane household tasks via apps like Ollie and Cozi Max  —  Parents are using AI to organise their families, from managing busy schedules to researching preschools, planning meals and grocery shopping.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T10:25:01+00:00",
+    "image_url": "http://www.techmeme.com/260903/i11.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/phones/free-mapping-app-mapquest-surges-in-popularity-after-refusing-to-rename-lake-ontario/",
+    "title": "Free mapping app MapQuest surges in popularity after refusing to rename Lake Ontario",
+    "description": "MapQuest is enjoying an unexpected comeback after refusing to rename Lake Ontario, with downloads surging as users look for an alternative to Google Maps and Apple Maps.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T10:21:37+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/09/MapQuest-screenshot-of-Lake-Ontario.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2250160/dont-use-google-gemini-to-plan-a-mountain-climb/",
+    "title": "PSA: Don't rely on AI to plan anything that could put your life at risk... like a mountain climb",
+    "description": "Gemini reportedly told a group of climbers that it would only take them eight hours to climb Mt. Shasta. They had to be rescued more than a day later.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-03T10:20:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/psa-dont-rely-on-ai-to-plan-anything-that-could-put-your-life-at-risk-like-a-mountain-climb/l-intro-1788430706.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/google-vids-now-lets-you-turn-docs-pdfs-and-word-files-into-video-summaries/",
+    "title": "Google Vids now lets you turn Docs, PDFs, and Word files into video summaries",
+    "description": "Google Vids can now turn a PDF, Google Doc, or Word file into a narrated video summary using AI, no reading required.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-03T10:18:43+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/09/Final-Docs-to-Video-screenshot.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.techradar.com/audio/earbuds-airpods/one-of-our-favorite-power-bank-makers-just-unveiled-super-cheap-anc-earbuds-and-after-an-early-listen-we-like-em",
     "title": "One of our favorite power bank makers just unveiled super-cheap ANC earbuds — and after an early listen, we like 'em",
     "description": "The new Belkin SoundForm Isolate and Dots buds offer ANC, some noteworthy features and tongue-twister names at a super-low price.",
@@ -9,6 +67,18 @@
     "pub_date": "2026-09-03T10:13:55+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/se6fTzroxacRkSU3yc5pjA-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/snowflake-q2-fy27-results-rpo-miss-stock-compensation",
+    "title": "Snowflake beat on almost everything. One number went the other way",
+    "description": "Snowflake beat expectations on revenue, on profit and on guidance, and its shares rose more than 20% after hours. One number in the release went the other way, and it is the one that looks furthest into the future. Remaining performance obligations, the contracted revenue Snowflake has booked but not yet recognised, came in at",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-03T10:13:32+00:00",
+    "image_url": "https://media.thenextweb.com/2026/05/Snowflake.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://www.techradar.com/pro/security/lords-call-for-a-kill-switch-on-powerful-ai-systems-used-in-the-united-kingdom",
@@ -843,17 +913,6 @@
     "source_name": "CNET.COM"
   },
   {
-    "link": "https://www.techradar.com/audio/earbuds-airpods/my-favorite-earbuds-of-the-year-just-got-an-open-ear-makeover-as-this-top-cheap-headphone-brand-debuts-7-new-models",
-    "title": "My favorite earbuds of the year just got an open-ear makeover, as this top cheap headphone brand debuts 7 new models",
-    "description": "At IFA 2026, Anker's Soundcore unveiled 7 new audio products, including open earbuds which take features from my favorite pair of buds so far this year.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T07:30:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/tbB5m6zJHVjPjb73cSP4sG-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/health-fitness/sleep/anker-unveils-bedside-sleeplab-pro-speaker-with-60ghz-radar-subscription-free-sidekick-tracks-your-sleep-without-a-wearable",
     "title": "Anker unveils bedside SleepLab Pro speaker with 60GHz radar — subscription-free sidekick tracks your sleep without a wearable",
     "description": "Anker has released speakers and earphones designed to help you fall asleep more easily.",
@@ -863,6 +922,17 @@
     ],
     "pub_date": "2026-09-03T07:30:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/ifBZ8HpKNR4G6D6YZ4aVCj-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/audio/earbuds-airpods/my-favorite-earbuds-of-the-year-just-got-an-open-ear-makeover-as-this-top-cheap-headphone-brand-debuts-7-new-models",
+    "title": "My favorite earbuds of the year just got an open-ear makeover, as this top cheap headphone brand debuts 7 new models",
+    "description": "At IFA 2026, Anker's Soundcore unveiled 7 new audio products, including open earbuds which take features from my favorite pair of buds so far this year.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T07:30:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/tbB5m6zJHVjPjb73cSP4sG-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -1161,17 +1231,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.wired.com/story/home-chef-promo-code/",
-    "title": "Home Chef Promo Codes for September 2026",
-    "description": "Enjoy up to 50% off deliveries, free meals, and more with the latest Home Chef coupons.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
     "title": "KitchenAid Promo Codes: Save Up to 20%",
     "description": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 20% off countertop appliances.",
@@ -1191,6 +1250,17 @@
     ],
     "pub_date": "2026-09-03T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/home-chef-promo-code/",
+    "title": "Home Chef Promo Codes for September 2026",
+    "description": "Enjoy up to 50% off deliveries, free meals, and more with the latest Home Chef coupons.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -2213,72 +2283,5 @@
     "pub_date": "2026-09-02T19:25:35+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/adobe-brings-image-video-and-pdf-creation-directly-into-slack/",
-    "title": "Adobe brings image, video, and PDF creation directly into Slack",
-    "description": "Adobe for Slack lets users create images, videos, and PDFs by prompting Slackbot, which routes requests to over 70 Adobe creative tools.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T19:24:57+00:00",
-    "image_url": "https://www.digitaltrends.com/tachyon/2026/09/adoble-slack-integration.jpg?resize=440%2C292",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260902/p36#a260902p36",
-    "title": "Meta rolls out Muse Spark 1.3 in Muse Code and Meta Model API, saying it significantly improves coding and agentic performance, at the same price as Spark 1.2 (Ina Fried/Axios)",
-    "description": "Ina Fried / Axios:\nMeta rolls out Muse Spark 1.3 in Muse Code and Meta Model API, saying it significantly improves coding and agentic performance, at the same price as Spark 1.2  —  Meta on Wednesday released Muse Spark 1.3, an update it says significantly improves performance in coding and agentic tasks.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T19:23:54+00:00",
-    "image_url": "http://www.techmeme.com/260902/i36.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/coder-agent-relay-cursor-cloud-agents-self-hosted-dora-article-30",
-    "title": "Coder launches Agent Relay with SpaceXAI, running Cursor’s cloud agents on customer infrastructure",
-    "description": "Coder has announced Agent Relay, a self-hosted execution environment that lets Cursor’s cloud agents run inside a customer’s own infrastructure, with SpaceXAI as launch partner and the product in private preview. Cursor continues to run inference and planning, so under the EU’s Digital Operational Resilience Act it remains an ICT third-party provider. Coder has announced",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-02T19:20:01+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/coder-agent-relay-cursor-cloud-agents-self-hosted-dora-article-30.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/02/anthropic-upgrades-claude-codes-computer-use-to-run-in-the-background-on-mac/",
-    "title": "Anthropic upgrades Claude’s computer use to run in the background on Mac",
-    "description": "While computer use isn’t new for Claude on the desktop, running it in the background is a nice upgrade.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T19:14:00+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/claude-code-auto-mode.webp?w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/lockheed-carries-out-missile-launches-directly-from-a-drone-boat-will-the-us-navy-be-next",
-    "title": "Lockheed carries out missile launches directly from a drone boat - will the US Navy be next?",
-    "description": "A crewless sailboat fired two live missiles at RIMPAC, six months after Lockheed and Saildrone started work. The boat sails itself, but a Navy-operated fire control system still makes weapon-deployment decisions.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T19:10:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/bFN23MznAqSXFFMSyVPdjJ-1280-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/seasonal-sales/17-best-labor-day-tv-deals-i-recommend-expert-picks-from-usd99-99-on-4k-qled-and-oled-tvs",
-    "title": "17 best Labor Day TV deals I recommend — expert picks from $99.99 on 4K, QLED and OLED TVs",
-    "description": "As TechRadar's TV experts, I've combed through Labor Day sales to hand-pick the 17 best TV deals, including record-low prices on our best-rated 4K, QLED and OLED displays.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T19:02:50+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/z4KtH8ossmKBoHPkQ4Xxm3-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
