@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+    "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
+    "description": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T22:18:30+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/deutsche-telekom-t-mobile-merger-elliott-stake-german-state-blocking-minority-ireland-holdco",
+    "title": "T-Mobile’s Gopalan turns to home internet and AI after a 25% slide",
+    "description": "T-Mobile US chief executive Srini Gopalan declined to comment on a possible merger with parent Deutsche Telekom, days after Elliott built a stake to oppose it. A full combination would put the holding company outside Germany and cut the German state and KfW’s joint holding from about 28% to roughly 17%. T-Mobile US chief executive",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-03T22:16:57+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/t-mobile-executives-oppose-deutsche-telekom-merger.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://mashable.com/life/dyson-corrale-coolshine-airsmooth-dryer-releases",
     "title": "Dyson introduces a new straightener and first-ever dedicated dryer brush",
     "description": "Dyson announced the AirSmooth dryer brush and Corrale CoolShine Straightener at its Dyson Unveiled event on Sept. 3. Here's everything you need to know about the two new beauty reelases.",
@@ -819,7 +842,6 @@
     "description": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-09-03T18:19:56+00:00",
@@ -1158,7 +1180,6 @@
     "title": "Nvidia confirms it is buying Hugging Face for $12.93bn and promises to leave it open",
     "description": "Nvidia is buying Hugging Face for $12.93bn, confirming a deal that had been reported for the past week. The chipmaker is acquiring the platform where much of the open-source AI community stores and shares its models, while promising to leave the platform itself largely unchanged. The price values the ten-year-old company at roughly 86 times",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware"
     ],
@@ -1483,7 +1504,6 @@
     "title": "Nvidia’s Hugging Face purchase confirmed at $13 billion",
     "description": "The open source AI platform Hugging Face has been acquired by Nvidia, which is in the midst of a bit of a spending spree.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-03T16:20:00+00:00",
@@ -2315,27 +2335,5 @@
     "pub_date": "2026-09-03T14:48:13+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/07B5CLC8isCJZAEVmferHxp/hero-image.png",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/clicking-allow-on-a-google-and-microsoft-permission-screens-could-give-hackers-access-to-your-entire-account-fbi-warns",
-    "title": "Clicking 'Allow' on a Google and Microsoft permission screens could give hackers access to your entire account, FBI warns",
-    "description": "OAuth consent phishing is a thing and the FBI is worried.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-03T14:45:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/vg86aqqGf8Pqp6mnfQPGGf-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.cnet.com/uncategorized/tcl-supercharges-its-stunning-nxtpaper-displays-with-the-p80-ultra/",
-    "title": "TCL Supercharges Its Stunning Nxtpaper Displays With the P80 Ultra",
-    "description": "The TCL P80 Ultra and Pro will be the company’s first phones to use its fancy paper-like displays.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T14:43:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/tcl-nxtpaper-80-ultra.jpg",
-    "source_name": "CNET.COM"
   }
 ]
