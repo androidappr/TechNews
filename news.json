@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.engadget.com/2250051/adobe-slack-over-70-tools-added/",
+    "title": "Adobe brings 70+ tools from Photoshop, Illustrator and more to Slack",
+    "description": "Adobe added dozens of tools from its creative apps like Illustrator and Premiere Pro into Slack, allowing you to ask Slackbot to do the Photoshopping for you.",
+    "categories": [
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-03T00:10:45+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/adobe-brings-70-tools-from-photoshop-illustrator-and-more-to-slack/l-intro-1788393296.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities",
+    "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
+    "description": "Google keeps cranking out Flash models: the company on Wednesday announced two versions of a new 3.8 Flash. The variants include a standard Flash, a “workhorse” model for agentic tasks, software development, and multi-step reasoning, and Flash Cyber optimized for vulnerability detection and mitigation.Google CEO Sundar Pichai said in an X post that 3.8 Flash delivers “significant leaps” from 3.7 Flash across software engineering, agentic tasks, and multi-step reasoning. For instance, it outperformed many large frontier models on the DeepSWE coding benchmark, at far lower cost. Meanwhile, Flash Cyber is the company’s “most capable” cybersecurity model, Pichai said; it also matches frontier-level performance when it comes to discovering vulnerabilities and patching them at scale. The model achieved 86.2% on the CyberGym cybersecurity benchmark and 47.2% on CWE-Bench, which evaluates AI patching abilities. In an internal Google benchmark, the model achieved a more than 70% success rate discovering vulnerabilities across 20 programming languages, Pichai said. 3.8 is Google’s third Flash release in six weeks and comes quickly on the heels of version 3.7. 3.8 working \"harder\" with \"greater diligence\"3.8 Flash is available now in Gemini Enterprise; devs can try it out in the Gemini API via Google AI Studio, Google Antigravity, Android Studio, or generate UIs in Stitch. It is priced at $0.75 per million input tokens and $3.75 per million output tokens — the same introductory pricing as Gemini 3.7 Flash — and users can customize and adjust model effort levels based on their needs around quality, cost, and latency. For instance, when compute efficiency is a priority, they can adjust to lower token overhead, or simply continue working with 3.7 Flash, which is “fully supported for efficiency-first workloads,” Google senior product director Tulsee Doshi and Gemini security lead Raluca Ada Popa wrote in a blog post. “3.8 Flash works harder,” exhibiting “greater diligence” with complex tasks like executing extra reasoning steps, although at times it may use more tokens to maximize performance, Doshi and Popa note. The model has a 1M-token input window and a 64K-token output limit, and can ingest text as well as images, audio, video, and PDF files. 3.8 Flash was evaluated across numerous benchmarks testing coding, multimodal capabilities, computer use, long-context and knowledge work, and scientific reasoning. Google says it also does well in specialized knowledge domains requiring more in-depth analysis and reporting. For instance, the model outperformed its predecessor and other frontier models on benchmarks like Vals Finance Agent V2 for finance, and Harvey's Legal Agent Benchmark for law; it also scored 54.9% on Humanity’s Last Exam (HLE)-Verified, reflecting its ability to take on multi-step reasoning tasks across subjects like math, science, and humanities. In one example shared by Google, Gemini 3.8 Flash built a game with a simple prompt using looping techniques in Google’s Antigravity platform. The game uses puzzles, storytelling that changes based on the environment, and images and textures from Nano Banana to create a 3D experience (in this case a wizard navigating a castle). In other instances, the model created a fully-functional DOS version of Google Maps featuring interactive locations, directions, and street views; a 3D visualizer that automatically decomposed devices into layers for inspection with a slider capability; and a topographic map of famous geographical sites based on real datasets from the U.S. Geological Survey, complete with real-time cross-sections, 2D projections, and scientific explanations. According to Arena.ai, 3.8 Flash landed at No. 14 in Agent Arena, ranking above DeepSeek-V4-Pro, and showed a significant jump over Gemini 3.7 Flash (which sits all the way down at No. 32). It debuted at No. 7 in Text Arena, ahead of Claude Opus 5 and Gemini 3.7 Flash. It improved over 3.7 Flash in several areas: multi-turn requests, writing, literature, and language, longer queries, hard prompts, coding, instruction following, software and IT services, and business, management and financial ops. Flash Cyber is already securing Google's codeFlash Cyber is initially being rolled out to “trusted defenders” through Google’s Fairwind Program, which prioritizes government authorities, critical-infrastructure operators, and other partners looking for advanced cyber defense capabilities. Organizations can apply for access. Google says the model version has undergone “rigorous training” in the cybersecurity domain and represents a “significant leap in prompt injection robustness.” It is particularly adept at autonomous vulnerability discovery — at least, based on internal Gemini benchmarks — and automated patching. It is also very good at coding, Popa said in a video. The goal was to equip defenders with expert-level capabilities to give them a leg up over threat actors (whether malicious, fellow AI agents, or human hackers). “We have invested in vulnerability fixing from the start, and prioritized it over offensive capabilities like exploitation,” Doshi and Popa explain. The model ships a more permissive set of mitigations for cybersecurity safeguards — which is why, for now, it is only being shared with limited partners — and safeguards against misuse in cyber offense and areas like chemical, biological, radiological, and nuclear (CBRN).Google is already using 3.8 Flash Cyber to secure its own code; it produced 2.6 times more correct patches in Chrome vulnerabilities versus much larger commercial models. Wiz — which Google acquired earlier this year at a historic $32 billion — reported that 3.8 Flash Cyber had 7.5% to 9.7% higher recall of real-world vulnerabilities on an internal penetration testing benchmark at 2.3 to 5.2 times lower cost than leading frontier models. Similarly, Google’s Cloud Vulnerability Research found a critical foundational vulnerability in less than 2 hours with 3.8 Flash Cyber. Typically, that research and discovery would take months, Google claims. AI agents are “incredibly skilled” at finding and exploiting vulnerabilities, Popa said. Scanning large codebases with big AI models is expensive, and defenders are overwhelmed. “In cybersecurity, attackers need only find one significant flaw over millions of lines of code. Defenders have to remove every one of those flaws to be able to defend against attackers.” Doug Turner, engineering director for Chrome, described a “vulnerability apocalypse” in recent months due to generative AI. “Simply overnight, we saw a hockey stick increase in the number of software vulnerabilities reported through our vulnerability research program,” he said in a video. One interesting vulnerability 3.8 Flash Cyber discovered had been in Chromium and Chrome for 13 years, he explained. It was a “very subtle bug” that dozens, if not hundreds, of engineers looked at but never flagged. “Gemini 3.8 Flash Cyber is going to allow us to create better suggested fixes so that developers’ lives can get a lot easier.”",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-03T00:02:18+00:00",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/793zCnQpOvoBw5BJi4WMEg/17ad5955da7de9e22394bccfb75c0c91/upscalemedia-transformed.png?w=300&q=30",
+    "source_name": "VENTUREBEAT.COM"
+  },
+  {
     "link": "https://www.techradar.com/cameras/action-cameras/i-love-action-cameras-but-gopros-new-merger-means-im-canceling-my-mission-1-pre-order-heres-why",
     "title": "I love action cameras, but GoPro's new merger means I'm canceling my Mission 1 pre-order —here's why",
     "description": "I'm not sure I can trust that GoPro consumer cameras will be supported in the future — it sounds like the company will have other priorities.",
@@ -9,6 +33,42 @@
     "pub_date": "2026-09-03T00:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/VBhhqo4c58MYbZXxM8fdTc-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/openai-automated-shutdown-house-democrats-logs-withheld-eu-ai-act-article-93-withdraw-recall",
+    "title": "OpenAI tells House Democrats it is building automated shutdown capability",
+    "description": "OpenAI has told two House Democrats it is building automated shutdown capabilities, without providing the logs from the July incident in which an agent breached another company. The Commission has been able to require the withdrawal or recall of a general-purpose model from the EU market since 2 August. OpenAI has told two House Democrats",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-02T23:59:43+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/openai-astra-model-ten-math-proofs-non-sofic-groups.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/googles-ai-mode-shows-the-same-products-at-higher-prices-than-regular-search-study-finds/",
+    "title": "Google’s AI Mode shows the same products at higher prices than regular Search, study finds",
+    "description": "A study tracking 2 million listings found Google's AI Mode shows identical products 21.6% pricier than traditional search, raising questions about whether AI shopping actually saves you money.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-02T23:57:21+00:00",
+    "image_url": "https://www.digitaltrends.com/tachyon/2026/01/google-ai-shopping1.jpg?resize=440%2C292",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/microsoft-fabric-gcc-high-government-cloud-eucs-certification-stalled-europe-sovereignty",
+    "title": "Microsoft Fabric reaches the US government cloud, with general availability from October",
+    "description": "Microsoft has launched its Fabric data platform in Government Community Cloud High on public preview, with general availability from 1 October, pitched at agentic AI workloads. Europe has no equivalent accredited tier, because its cloud certification scheme has been stuck since 2020 and lost its sovereignty requirement in 2024. Microsoft has launched its Fabric data",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-02T23:52:10+00:00",
+    "image_url": "https://media.thenextweb.com/2026/06/chaotic-eclipse-rogueplanet-windows-defender-zero-day.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://thenextweb.com/news/crowdstrike-agentic-soc-multi-agent-investigations-nis2-article-23-24-hour-clock-article-20-liability",
@@ -466,7 +526,7 @@
   {
     "link": "https://www.techmeme.com/260902/p41#a260902p41",
     "title": "HPE reports Q3 revenue up 34% YoY to $12.2B, vs. $11.9B est., forecasts FY 2026 and FY 2027 sales growth above est., signs a $3.5B server deal with a cloud firm (Dina Bass/Bloomberg)",
-    "description": "Dina Bass / Bloomberg:\nHPE reports Q3 revenue up 34% YoY to $12.2B, vs. $11.9B est., forecasts FY 2026 and FY 2027 sales growth above est., signs a $3.5B server deal with a cloud firm  —  Hewlett Packard Enterprise Co. boosted its sales outlook for this fiscal year and next, saying artificial intelligence workloads …",
+    "description": "Dina Bass / Bloomberg:\nHPE reports Q3 revenue up 34% YoY to $12.2B, vs. $11.9B est., forecasts FY 2026 and FY 2027 sales growth above est., signs a $3.5B server deal with a cloud firm  —  Hewlett Packard Enterprise Co. declined in late trading after the company reported increasing sales that didn't meet high expectations …",
     "categories": [
       "Tech News"
     ],
@@ -654,7 +714,6 @@
     "title": "AI is getting closer to being able to exploit OT, and that's very bad news for critical infrastructure",
     "description": "The situation is not disastrous just yet, but it's definitely time to start paying attention, Forescout hints.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-09-02T20:05:00+00:00",
@@ -1020,8 +1079,7 @@
     "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
     "description": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-02T18:13:54+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-1-1152x648.jpg",
@@ -2233,63 +2291,5 @@
     "pub_date": "2026-09-02T14:15:39+00:00",
     "image_url": "https://www.digitaltrends.com/tachyon/2026/09/DT-72.jpg?resize=440%2C292",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/987888/tado-smart-thermostat-x-2nd-gen-launch-google-nest",
-    "title": "Tado’s new thermostat is designed as a Nest killer",
-    "description": "When Google ignominiously exited the European thermostat market last year, it pointed its customers to Tado. This week, the German-based smart home company is launching its Smart Thermostat X (2nd gen), and aiming to attract European Nest users who haven't already jumped ship. Google shutting down the servers for its 1st- and 2nd-gen thermostats drove",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T14:15:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/smart_thermostat_x2_close_up_frame_lifestyle_1337_00.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/ai-platforms-assistants/horrifying-reddit-users-are-creating-uncanny-valley-photos-with-chatgpt-so-i-asked-it-to-make-something-creepy-and-now-i-deeply-regret-it",
-    "title": "‘Horrifying’ — Reddit users are creating uncanny valley photos with ChatGPT, so I asked it to make something creepy and now I deeply regret it",
-    "description": "Reddit users are asking ChatGPT to make unsettling images, so I had a go too, and now I wish I hadn’t tried it myself.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T14:09:24+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/rxKBKeVyJtg4W64aeDxhRF-1280-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-    "title": "Adobe acquires Indian market intelligence startup Rilo",
-    "description": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-02T14:03:57+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://venturebeat.com/orchestration/forward-deployed-engineering-is-how-enterprise-ai-learns",
-    "title": "Forward-deployed engineering is how enterprise AI learns",
-    "description": "Presented by ZetaEvery forward-deployed engineering (FDE) pitch sounds identical for the first ten minutes: an engineer embedded on-site, a workflow encoded within weeks, a demo that finally works on the customer's real data. What differs is what happens in the following months, and most vendors will not tell you until you ask directly.FDE has become one of enterprise AI’s most consequential operating models. Vendors are building entire go-to-market motions around engineers who embed with customers, wire products into operating environments, and make the demo real. Investors often read FDE headcount as a growth signal and buyers read it as a promise of speed. Neither tells you whether the work is becoming a product advantage or simply accumulating as delivery labor.The test is simple: after an FDE engagement, does the next customer start with more product and fewer unknowns  — or just a new services team?FDE is not one thing. At its weakest, it papers over a product that cannot yet stand on its own, translating by hand what the software should eventually understand. At its strongest, it is a disciplined product-learning function: it finds the edge cases of an AI-native architecture and turns them into reusable capability. The org chart looks the same, but the economics and trajectory do not.FDE is valuable because it creates automation that powers a system of intelligence. A system of intelligence is more than software that executes workflows. It captures enterprise context, incorporates what it learns from every deployment, and improves the quality of future decisions. Forward-deployed engineers are how that context enters the system in the first place.The engineers are the context layerModel choice still matters in some domains. But in many enterprise workflows, the bigger constraint is not the model, it is what the enterprise knows about itself including business rules, exceptions, workflow logic, and definitions that took a decade of operating history to settle. Access to data is not the same as understanding the business.In one large telecommunications deployment, an initial definition of a “high-intent” customer did not survive contact with the operating systems. The model’s signal said one thing while the retention team’s actual save-desk criteria said another. Those criteria were built from years of which offers actually worked, on which tenure bands, in which regions. No schema documented that logic; it lived in the judgment of people who’d been doing the job for a decade. An engineer had to sit with them, extract the knowledge, and encode it before the intelligence layer we were building could be trusted to trigger an action instead of just a score.Once that logic was encoded into the intelligence layer, new acquisition and retention use cases could move from idea to execution in days rather than months. Rather than rebuilding the integration each time, teams were adding decisions to a shared foundation.That kind of work produces more than an answer for one customer. Properly captured, it can become a semantic mapping, a policy module, a workflow template, a connector, or an evaluation that guards the decision in future deployments. The FDE is the context layer delivered first as a person, who then translates and delivers it as product.Sandbox, mud, and what happens to the learningThe useful question in a diligence call or renewal conversation is not whether a vendor has FDEs. It's whether an engineer touching your environment is playing in a sandbox of tools, or trying to dig you out of the mud.In the sandbox, FDEs use a general-purpose engine in specific, gnarly environments. Their job is to find where the engine needs a new part, install it, and feed the learning back so that part can ship again. In the mud, the engineer manually constructs a missing capability one customer at a time, and there is no engine underneath waiting to receive the part; instead, it’s another custom build.Do not mistake these for a clean binary, though. Most companies live somewhere in the middle: reusable playbooks and connectors for the common cases, bespoke judgment for everything else. From the outside, sandbox, mud, and the middle can all look identical: a smart engineer, on-site, writing code against your data. The tell is what happens to what they learn. Either the next deployment begins with fewer unknowns, less custom code, and better tests, or it begins from zero with a prettier deck.The strategic version of FDE treats every engagement as a disciplined learning loop. It starts with observing the exception in the field, codifying it into a reusable artifact, validating it with an evaluation and security review, releasing it into the product, then measuring whether the next deployment actually got easier. That last step is where most companies quietly fail. Not every field discovery belongs in the core product. Some customer logic is proprietary, temporary, or too idiosyncratic to generalize. Good teams know the difference between three things that get lumped together under “FDE”: product intelligence that compounds across every customer, configurable customer logic that's reusable for one account but shouldn't ship broadly, and one-off services work that is exactly what it looks like. Customization is expected. The failure lies in not labeling which bucket the work is in, or in losing the learning from the parts that can compound. This is the difference between a company that gets better at deploying and a product that gets better at understanding. The former can build a capable services business; its advantage lies in execution and relationships. The latter builds compounding product capability that persists after the engineer leaves.The best FDE organization changes shapeThe uncomfortable conclusion for teams building FDE functions is that human translation should shrink per unit of value delivered, even as absolute headcount grows. A fast-growing company may keep adding FDEs while still making each deployment materially lighter because more of the required logic already exists in the product. Each deployment should require less custom engineering than the last, with engineers spending more time extending reusable capabilities than rebuilding the same integrations, workflows, and decision logic.Track four things: engineers per live workflowengineering hours per deploymenttime-to-value by verticaland the share of implementation work that gets reused rather than rebuilt. Track one more that matters just as much and gets watched far less: the productization lag, the time between a field discovery, and a tested capability available to the next customer. Over time, that lag should fall, custom engineering should decline, and reuse should increase. If none of these are improving, the organization is delivering, without learning whatever the headcount chart says.FDE is scaffolding only when it stays outside the building. The goal isn't to eliminate the people doing the work; it's to ensure more of what they learn becomes load-bearing product capability.Three questions that get past the pitch1. How is FDE priced? Pricing is a signal rather than a verdict. A separate professional-services line may reflect honest transparency, bundled FDE may be a loss leader paid for by utilization. The more useful question is whether the contract, renewal, and margin story make clear which work is repeatable productization and which is bespoke delivery.2. Where does field learning go? Don't infer this from résumés alone. Ask who owns the handoff from FDE to product, what artifacts are produced, and how quickly they become tested, supported capabilities. The organizational interface is what reveals whether learning compounds, not the job title.3. What got faster on the last repeat deployment? Ask for a specific vertical and a specific delta such as fewer engineering hours, fewer weeks to value, fewer custom integrations, or a higher reuse rate. A credible vendor can name what changed and how it was measured. General claims about “learnings” and “playbooks” are not enough.\n\nEnterprise AI creates lasting advantage when every deployment leaves behind more than a satisfied customer. It leaves behind a deeper understanding of how enterprises operate. The goal isn’t simply to deploy AI. It’s to build a system of intelligence that captures enterprise context, converts customer learnings into reusable capability, and compounds over time.Neej Gore is Chief Data Officer at Zeta. Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T14:00:00+00:00",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6pM8mKg5VU5NWvb9JiO0Jt/27cfc84d289012e3880022d3caa1a8bb/AdobeStock_1990893706.jpeg?w=300&q=30",
-    "source_name": "VENTUREBEAT.COM"
-  },
-  {
-    "link": "https://mashable.com/life/jeremiah-brown-creator-career-love-island",
-    "title": "Jeremiah Brown is building a post-Love Island creator career one book at a time",
-    "description": "'Love Island' alum Jeremiah Brown talks BookTok, Kai Cenat's Streamer University, building a creator career, and the \"performative male\" discourse.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T13:56:35+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01yqC66yScQRdGPPhlCbg2l/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
