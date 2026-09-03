@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://www.techmeme.com/260903/p31#a260903p31",
+    "title": "Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)",
+    "description": "Bloomberg:\nHumain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models  —  Saudi Arabia's artificial intelligence company Humain has built a national AI platform based on an open model from Chinese lab MiniMax Group Inc. …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T17:30:00+00:00",
+    "image_url": "http://www.techmeme.com/260903/i31.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2250517/tiktok-introduces-voice-comments-and-simplified-polls/",
+    "title": "TikTok introduces voice comments and simplified polls",
+    "description": "It's also letting people upload multiple photos at once when reacting to a post.",
+    "categories": [
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-03T17:29:50+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/tiktok-introduces-voice-comments-and-simplified-polls/l-intro-1788455742.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260903/p30#a260903p30",
+    "title": "Microsoft will open Xbox Cloud Gaming to non-Game Pass users via a pay-as-you-go model; Ultimate subs will be limited to 15 hours per month of cloud gaming (Tom Warren/The Verge)",
+    "description": "Tom Warren / The Verge:\nMicrosoft will open Xbox Cloud Gaming to non-Game Pass users via a pay-as-you-go model; Ultimate subs will be limited to 15 hours per month of cloud gaming  —  Microsoft is trying once again to tempt people without an Xbox into its ecosystem. … Microsoft says it will let anyone access Xbox Cloud Gaming …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T17:20:02+00:00",
+    "image_url": "http://www.techmeme.com/260903/i30.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/health-fitness/fitness-trackers/oura-on-notice-circular-ring-3-series-unveiled-with-blood-pressure-monitoring-and-contactless-payment",
+    "title": "Oura on notice? Circular Ring 3 series unveiled, with blood pressure monitoring and contactless payment",
+    "description": "The series contains the Circular Ring 3 Pro and Circular Ring 3 Slim, with the Pro supporting ECG and Blood Pressure.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T17:16:18+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/63Ko2WH9CX3GSNh5q2SuxZ-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260903/p29#a260903p29",
     "title": "India-based smart ring maker Ultrahuman raised $70M, including $5M in debt, a source says at a $365M valuation, and is working with Qualcomm on a new ring (Jagmeet Singh/TechCrunch)",
     "description": "Jagmeet Singh / TechCrunch:\nIndia-based smart ring maker Ultrahuman raised $70M, including $5M in debt, a source says at a $365M valuation, and is working with Qualcomm on a new ring  —  Ultrahuman, an Indian startup best known for making smart rings, has raised $70 million in a new funding round that includes backing …",
@@ -71,6 +119,30 @@
     "pub_date": "2026-09-03T17:00:00+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes",
+    "title": "Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers",
+    "description": "Microsoft is announcing some major changes to Xbox Cloud Gaming today, less than a year after opening up cloud gaming to its Xbox Game Pass Premium and Essential tiers. While all Game Pass plans have included unlimited cloud gaming over the past year, from November this will be limited to just 15 hours on Ultimate,",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-09-03T17:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option",
+    "title": "Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option",
+    "description": "Microsoft says it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The change to a pay-as-you-go model is part of some sweeping changes to Xbox Cloud Gaming today, and is designed for people who don't use cloud access enough to warrant a monthly subscription. \"Players",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-09-03T17:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xboxmobile.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.techradar.com/gaming/persona-4-revival-plays-fantastically-but-im-still-not-convinced-its-an-essential-remake-of-golden",
@@ -519,18 +591,6 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
-    "title": "Google now lets you chat with Gmail, Docs, and Keep",
-    "description": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, Docs Live, and Keep Live, and like the Gemini Live experience for Google's chatbot, aim to make it easier to note down",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-09-03T16:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Gmail-Docs-and-Keep-Live.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/",
     "title": "Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme",
     "description": "Using Frore’s air-cooling technology, Lenovo’s Project AeroBlade Concept is an ultralightweight laptop with efficient heat management.",
@@ -651,17 +711,6 @@
     "source_name": "CNET.COM"
   },
   {
-    "link": "https://www.techradar.com/pro/lenovos-thinkcentre-x-ultra-puts-128gb-of-unified-memory-in-a-1-6-liter-box-and-you-can-cluster-four-of-them-together",
-    "title": "Lenovo's ThinkCentre X Ultra puts 128GB of unified memory in a 1.6-liter box, and you can cluster four of them together",
-    "description": "Lenovo's ThinkCentre X Ultra packs 128GB of unified memory into 1.6 liters for $3,699, and says four will cluster into a potential 512GB pool",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T16:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/R6LuaJe4a7BAAD7CBMgQUG-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/pro/lenovos-fanless-mobility-centric-project-aeroblade-weighs-under-830g-and-has-thunderbolt-which-is-more-than-the-thinkbook-it-potentially-wont-replace-yet",
     "title": "Lenovo's fanless mobility-centric Project AeroBlade weighs under 830g and has Thunderbolt, which is more than the ThinkBook it potentially won't replace yet",
     "description": "Lenovo's fanless Project AeroBlade weighs under 830g and has Thunderbolt 4. The Intel-based ThinkBook, which was announced alongside it, weighs 990g and has neither Thunderbolt nor USB4 on offer",
@@ -671,6 +720,17 @@
     ],
     "pub_date": "2026-09-03T16:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/wftnJHPVgPMNuUH8pmCH8c-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/lenovos-thinkcentre-x-ultra-puts-128gb-of-unified-memory-in-a-1-6-liter-box-and-you-can-cluster-four-of-them-together",
+    "title": "Lenovo's ThinkCentre X Ultra puts 128GB of unified memory in a 1.6-liter box, and you can cluster four of them together",
+    "description": "Lenovo's ThinkCentre X Ultra packs 128GB of unified memory into 1.6 liters for $3,699, and says four will cluster into a potential 512GB pool",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T16:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/R6LuaJe4a7BAAD7CBMgQUG-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -732,6 +792,18 @@
     "pub_date": "2026-09-03T16:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/06MxswkaeLIAQ5MrUD71LLU/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+    "title": "Google now lets you chat with Gmail, Docs, and Keep",
+    "description": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, Docs Live, and Keep Live, and like the Gemini Live experience for Google's chatbot, aim to make it easier to note down",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-03T16:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Gmail-Docs-and-Keep-Live.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/",
@@ -1357,18 +1429,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.engadget.com/2248387/hohems-eyepic-gimbal-camera-has-a-detachable-camera-ifa-2026/",
-    "title": "Hohem's Eyepic gimbal camera has a detachable camera",
-    "description": "Hohem has combined its gimbal tech with a wearable camera unit.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T14:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/hohems-eyepic-gimbal-camera-has-a-detachable-camera/l-intro-1788262086.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
     "link": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "title": "The AI visibility gap: Why great brands disappear from AI answers",
     "description": "Presented by ContentfulMost marketing teams still measure visibility the same way they always have: rankings, click-through rates, and organic traffic. But buyers have moved on. Search tools and AI engines now synthesize answers directly on the screen, creating a world of zero-click searches where your website is entirely bypassed. The “old days” are not coming back. The question for marketers is no longer, How do we rank first? It's How do we become part of the answer?The answer isn't publishing more content; it’s making your knowledge impossible for AI to ignore.Brand visibility has a new dimensionShowing up is only half the battle. Where you appear inside an AI-generated response matters just as much.Think about the experience. If your brand is mentioned after multiple answer cards, product recommendations, follow-up questions, and community discussions, most people will never see it. Ranking reports won't capture that.One way to think about this is pixel depth. Instead of measuring position on a search results page, measure how prominently your brand appears within the answer itself. Visibility increasingly depends on whether you're seen before someone feels they've learned enough to stop reading. It’s no longer enough to rank at the top of search results. Now “share of visibility” models also weigh SERP features, ads, and AI Overview presence for a more holistic view of what kind of attention your company can expect to get.AI builds answers instead of indexing pagesSearch engines were designed to index pages. Large language models work differently.Rather than evaluating a page as a single unit, they connect facts, concepts, entities, and relationships from many sources to generate an answer. AI systems don’t treat pages as single units; they extract and recombine facts across sources. Your website becomes one source of evidence rather than the destination.That changes what makes content valuable.A polished landing page still matters for people. But before someone reaches that page, an AI system has already decided whether your information is clear, credible, and consistent enough to include in its response.AEO is really an information architecture problemMany organizations approach answer engine optimization as a writing exercise. In reality, it starts much earlier.AI systems need information they can understand. That depends on consistent terminology, structured content, clear metadata, well-maintained documentation, and a single source of truth across product pages, help centers, blogs, and FAQs.When the same product is described three different ways across your website, you create uncertainty. A customer might work through those inconsistencies. An AI system is more likely to move on to a source that's easier to interpret.Kemberly Gong, VP of Marketing at Contentful, recently described what AI systems look for: structured content, clear context, authority, and validation from other trusted sources. AI doesn't automatically accept what your brand says about itself. It looks for consistency across your own content as well as supporting signals from reviews, documentation, industry publications, and community discussions.The goal isn't simply to publish more content. It's to build a body of knowledge that holds together.Readability is now key to discoverabilityClear writing has always been good for readers. Now it's also good for machines.Descriptive headings, concise paragraphs, clearly defined terms, logical structure, and scannable formatting all make it easier for AI systems to understand and reference your content. Those same qualities make life easier for human readers.Content that’s easy for answer engines to interpret shares four characteristics:Consistency: Use the same terminology across product pages, documentation, FAQs and blogs.Clarity: Define technical terms the first time they’re introduced, and keep each section focused on a single idea.Authority: Support your claims with original research, customer evidence, expert insights or other unique information.Structure: Organize content with descriptive headings, a logical hierarchy and standalone sections that answer engines can easily interpret and reference.Those principles don’t just improve readability. They also make your content easier for answer engines to interpret and include in AI-generated responses.Originality has become a competitive advantageThe web has no shortage of AI-generated summaries. What it lacks is information that exists nowhere else.Original research. Customer data. Benchmarks. First-hand expertise. Strong opinions backed by experience. Those are the assets AI systems can't easily replace because they aren't available everywhere else.That makes original thinking more valuable than ever.When ten companies publish the same advice, AI has little reason to favor one over another. When your organization contributes something genuinely new, you become the source others reference.Four questions every marketing leader should askBefore investing in another AEO checklist, step back and ask:Could an AI accurately explain what our company does?Do our product pages, documentation, and thought leadership describe the same concepts consistently?Is our expertise organized well enough to be cited?Are we contributing original knowledge or simply producing more content?The bottom lineStrong brands aren't disappearing from AI answers because they lack expertise. They're disappearing because their expertise is fragmented, inconsistent, or difficult for machines to interpret.The organizations that gain visibility over the next few years won't necessarily publish the most content. They'll make their knowledge easier to understand, easier to verify, and easier to trust. That's good for AI systems, and even better for the people reading the answers.About Contentful: Contentful helps organizations turn content into a strategic asset. Its headless CMS gives teams the tools to create structured, reusable, and consistent content across every channel, helping brands improve customer experiences while preparing for an AI-driven future. Learn more at Contentful.com. Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
@@ -1391,6 +1451,18 @@
     "pub_date": "2026-09-03T14:00:00+00:00",
     "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/74mRbyllMKSqqyJ4WTpDaO/0dc1d862811bc1ef32ba55711d89d0ab/Nuneybits_Vector_art_of_retro_desktop_glowing_Windows_CRT_trans_77211f4b-8cf5-4e28-b682-15e4f68a3525.webp?w=300&q=30",
     "source_name": "VENTUREBEAT.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2248387/hohems-eyepic-gimbal-camera-has-a-detachable-camera-ifa-2026/",
+    "title": "Hohem's Eyepic gimbal camera has a detachable camera",
+    "description": "Hohem has combined its gimbal tech with a wearable camera unit.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T14:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/hohems-eyepic-gimbal-camera-has-a-detachable-camera/l-intro-1788262086.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.theverge.com/tech/987776/hohems-tiny-steadicam-has-a-removable-action-cam",
@@ -1551,7 +1623,6 @@
     "title": "NASA’s Hubble Spies Superbubble Scene",
     "description": "This Hubble Space Telescope image features a sprawling cosmic vista called N44.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-03T13:16:02+00:00",
@@ -1621,6 +1692,7 @@
     "title": "TikTok comments are getting more interactive with voice comments, polls, and more",
     "description": "With the additions, the app is borrowing features from messaging apps as it looks to deepen engagement on its platform.",
     "categories": [
+      "Breaking News",
       "Social & Media",
       "Software & Apps"
     ],
@@ -2228,7 +2300,7 @@
       "Tech News"
     ],
     "pub_date": "2026-09-03T11:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Govee-IFA-Skylight-1.jpg",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/26413.jpeg",
     "source_name": "CNET.COM"
   },
   {
@@ -2287,72 +2359,5 @@
     "pub_date": "2026-09-03T10:59:33+00:00",
     "image_url": "https://www.digitaltrends.com/tachyon/2026/09/Cuisinart-TOA-70NAS-Air-Fryer-Toaster-Oven.jpg?resize=440%2C292",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260903/p13#a260903p13",
-    "title": "Modern venture capital has transformed into an unchecked oligarchy, or \"Cancer Capital\", where mega-firms managing $50B+ live off fees and shift risk elsewhere (Anil Dash)",
-    "description": "Anil Dash:\nModern venture capital has transformed into an unchecked oligarchy, or “Cancer Capital”, where mega-firms managing $50B+ live off fees and shift risk elsewhere  —  We really, really need to talk about venture capital.  Because it's not “venture capital” anymore.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T10:50:01+00:00",
-    "image_url": "http://www.techmeme.com/260903/i13.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/belkin-ifa-2026-semi-solid-state-power-banks-surefind-soundform",
-    "title": "Belkin brings semi-solid-state batteries to a $70 power bank",
-    "description": "The car industry keeps calling this battery chemistry a decade away. Belkin has just put it in a $69.99 power bank. The company announced three product lines at IFA 2026 in Berlin on Thursday. They arrived as three separate releases, covering portable power, trackers and chargers, and audio. The headline part is the UltraCharge Pro",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-03T10:49:22+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/belkin-ultracharge-pro-boostsolid-semi-solid-state-power-banks.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/phones/vodafone/vodafone-tv-is-a-streamer-and-cloud-gaming-console-all-in-one-and-its-launching-soon-as-a-sky-rival",
-    "title": "Vodafone TV is a streamer and cloud gaming console all in one, and it’s launching soon as a Sky rival",
-    "description": "Vodafone TV is a streaming service and set top box that combines access to loads of streaming apps with a cloud gaming platform.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T10:46:37+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/icTDJkicnHjEHzC6cRgsTA-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/the-blood-of-dawnwalker-is-a-bloody-balm-for-my-completionism/",
-    "title": "‘The Blood of Dawnwalker’ Is a Bloody Balm for My Completionism",
-    "description": "The game starts as a reheated Witcher 3, but evolves into something much more focused.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-03T10:45:00+00:00",
-    "image_url": "https://media.wired.com/photos/6a98768add3b222b1bf79e6d/master/pass/The-Blood-of-Dawnwalker.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/phones/apple-iphone/apple-iphone-ultra-vs-samsung-galaxy-z-fold",
-    "title": "Apple iPhone Ultra vs. Samsung Galaxy Z Fold 8: It could just come down to one thing",
-    "description": "The iPhone Ultra is set to debut soon, and the foldable will bring mainstream attention to this category in a way that Android phones haven't done so until now.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T10:41:18+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/h3aMh6i2nVfZ6HzrThNwTb-1280-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.techradar.com/audio/wireless-headphones/sony-wh-1000xm5-tumble-to-record-low-price-at-amazon-heres-why-our-experts-recommend-these-class-leading-headphones",
-    "title": "Sony WH-1000XM5 tumble to record-low price at Amazon — here's why our experts recommend these 'class-leading' headphones",
-    "description": "Looking for your next pair of headphones? The Sony WH-1000XM5 are easily some of the best on the market — especially at this price.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T10:40:01+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/fY7W2u2LtmsjdsAJgptT63-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
