@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.techradar.com/cameras/action-cameras/i-love-action-cameras-but-gopros-new-merger-means-im-canceling-my-mission-1-pre-order-heres-why",
+    "title": "I love action cameras, but GoPro's new merger means I'm canceling my Mission 1 pre-order —here's why",
+    "description": "I'm not sure I can trust that GoPro consumer cameras will be supported in the future — it sounds like the company will have other priorities.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T00:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/VBhhqo4c58MYbZXxM8fdTc-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/crowdstrike-agentic-soc-multi-agent-investigations-nis2-article-23-24-hour-clock-article-20-liability",
+    "title": "CrowdStrike unveils coordinated multi-agent investigations across five domains",
+    "description": "CrowdStrike has announced coordinated multi-agent investigations on a shared context layer, with customers setting autonomy from human-in-the-loop approval to fully autonomous execution. NIS2 starts its 24-hour reporting clock from becoming aware of a significant incident, and holds management bodies liable for the measures they approve. CrowdStrike says AI agents now run attacks across several systems",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-02T23:43:24+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/crowdstrike-agentic-soc-multi-agent-investigations-nis2-article-23-24-hour-clock-article-20-liability.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260902/p46#a260902p46",
     "title": "Microsoft will start disclosing Azure quarterly revenue as part of a shift in its reporting structure, under which Azure revenue grew 42% YoY to $29.42B in Q4 (Jordan Novet/CNBC)",
     "description": "Jordan Novet / CNBC:\nMicrosoft will start disclosing Azure quarterly revenue as part of a shift in its reporting structure, under which Azure revenue grew 42% YoY to $29.42B in Q4  —  Microsoft will start disclosing quarterly revenue for its Azure cloud business for the first time, providing investors …",
@@ -123,17 +147,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.engadget.com/2246424/what-is-cold-wallet-how-works/",
-    "title": "What is a cold wallet and how does it work?",
-    "description": "With cryptocurrency wallets becoming huge targets for hackers, using a cold wallet to protect your private keys has never been more important.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-02T23:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/what-is-a-cold-wallet-and-how-does-it-work/l-intro-1787690754.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
     "link": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
     "title": "Uber beats Waymo as first to launch robotaxis in London",
     "description": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel. The launch is a milestone for Uber, which has been plotting a UK launch with Wayve for several years.",
@@ -144,6 +157,17 @@
     "pub_date": "2026-09-02T23:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Photo-1.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2246424/what-is-cold-wallet-how-works/",
+    "title": "What is a cold wallet and how does it work?",
+    "description": "With cryptocurrency wallets becoming huge targets for hackers, using a cold wallet to protect your private keys has never been more important.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-02T23:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/what-is-a-cold-wallet-and-how-does-it-work/l-intro-1787690754.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://thenextweb.com/news/microsoft-azure-quarterly-revenue-disclosure-agents-and-infra-segment-dma-gatekeeper-designation",
@@ -653,7 +677,6 @@
     "title": "Hyundai just topped the world’s largest EV battery study — analysis of 500,000 tests sees it beat Tesla to the long-term battery health title",
     "description": "500,000 EV battery tests reveal the electric cars that hold onto their range best.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-02T20:00:00+00:00",
@@ -1020,7 +1043,6 @@
     "title": "Uber is shutting down services in Nigeria and Uganda from September 2 after a global review of its operations; it launched in Nigeria in 2014 and Uganda in 2016 (Bloomberg)",
     "description": "Bloomberg:\nUber is shutting down services in Nigeria and Uganda from September 2 after a global review of its operations; it launched in Nigeria in 2014 and Uganda in 2016  —  US ride-hailing giant Uber Technologies Inc. is shutting down its services in Nigeria and Uganda from September 2, following a global review of its operations.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-02T18:00:56+00:00",
@@ -1054,7 +1076,6 @@
     "title": "5 new features coming to Android — including improvements to Google Messages, Gemini Live, and Find Hub",
     "description": "Five new features are rolling out across various Android services, including Google Messages, Gemini Live, and more.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-02T18:00:00+00:00",
@@ -1102,8 +1123,7 @@
     "title": "Amazon’s AI assistant can now spot fake emails from the company",
     "description": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to compare",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-02T17:52:56+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alexa-shopping-ai-hero-lm.jpg?quality=90&strip=all&crop=0,0,100,100",
@@ -1136,7 +1156,6 @@
     "title": "15 fall essentials worth buying at Walmart’s Labor Day sale — save up to 74% on patio furniture, grills, Halloween decor and more",
     "description": "Walmart's Labor Day sale is live and packed with fall essentials, including up to 74% off patio furniture, grills, Halloween decor, home items, and more.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-02T17:50:06+00:00",
@@ -2272,28 +2291,5 @@
     "pub_date": "2026-09-02T13:56:35+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/01yqC66yScQRdGPPhlCbg2l/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/02/apple-wallet-drivers-license-support-launches-in-oklahoma/",
-    "title": "Apple Wallet driver’s license support launches in Oklahoma",
-    "description": "Apple is rolling out support for Apple Wallet driver’s license integration to a new state. Starting today, Oklahoma residents can add their license to the Wallet app on iPhone and Apple Watch for easy mobile access.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T13:52:00+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ok.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260902/p21#a260902p21",
-    "title": "Wonderful, which helps enterprises deploy AI, raised a $550M Series C led by Insight at a $5B valuation; investors also paid $170M to buy shares from employees (Yuliya Chernova/Wall Street Journal)",
-    "description": "Yuliya Chernova / Wall Street Journal:\nWonderful, which helps enterprises deploy AI, raised a $550M Series C led by Insight at a $5B valuation; investors also paid $170M to buy shares from employees  —  Founded just last year, the startup already has 650 employees and is expanding its forward-deployed engineering teams around the world",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-02T13:50:02+00:00",
-    "image_url": "http://www.techmeme.com/260902/i21.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
