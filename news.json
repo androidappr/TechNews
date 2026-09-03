@@ -34,6 +34,18 @@
     "source_name": "ENGADGET.COM"
   },
   {
+    "link": "https://mashable.com/life/tiktok-nfl-partnership-gameplan-pro-events",
+    "title": "TikTok makes a big play for NFL fans",
+    "description": "TikTok GamePlan will connect NFL videos with scores, schedules, official accounts, and links to live games.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T00:08:58+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/07thWrN7FYCMLg9WiNt7IRd/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities",
     "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
     "description": "Google keeps cranking out Flash models: the company on Wednesday announced two versions of a new 3.8 Flash. The variants include a standard Flash, a “workhorse” model for agentic tasks, software development, and multi-step reasoning, and Flash Cyber optimized for vulnerability detection and mitigation.Google CEO Sundar Pichai said in an X post that 3.8 Flash delivers “significant leaps” from 3.7 Flash across software engineering, agentic tasks, and multi-step reasoning. For instance, it outperformed many large frontier models on the DeepSWE coding benchmark, at far lower cost. Meanwhile, Flash Cyber is the company’s “most capable” cybersecurity model, Pichai said; it also matches frontier-level performance when it comes to discovering vulnerabilities and patching them at scale. The model achieved 86.2% on the CyberGym cybersecurity benchmark and 47.2% on CWE-Bench, which evaluates AI patching abilities. In an internal Google benchmark, the model achieved a more than 70% success rate discovering vulnerabilities across 20 programming languages, Pichai said. 3.8 is Google’s third Flash release in six weeks and comes quickly on the heels of version 3.7. 3.8 working \"harder\" with \"greater diligence\"3.8 Flash is available now in Gemini Enterprise; devs can try it out in the Gemini API via Google AI Studio, Google Antigravity, Android Studio, or generate UIs in Stitch. It is priced at $0.75 per million input tokens and $3.75 per million output tokens — the same introductory pricing as Gemini 3.7 Flash — and users can customize and adjust model effort levels based on their needs around quality, cost, and latency. For instance, when compute efficiency is a priority, they can adjust to lower token overhead, or simply continue working with 3.7 Flash, which is “fully supported for efficiency-first workloads,” Google senior product director Tulsee Doshi and Gemini security lead Raluca Ada Popa wrote in a blog post. “3.8 Flash works harder,” exhibiting “greater diligence” with complex tasks like executing extra reasoning steps, although at times it may use more tokens to maximize performance, Doshi and Popa note. The model has a 1M-token input window and a 64K-token output limit, and can ingest text as well as images, audio, video, and PDF files. 3.8 Flash was evaluated across numerous benchmarks testing coding, multimodal capabilities, computer use, long-context and knowledge work, and scientific reasoning. Google says it also does well in specialized knowledge domains requiring more in-depth analysis and reporting. For instance, the model outperformed its predecessor and other frontier models on benchmarks like Vals Finance Agent V2 for finance, and Harvey's Legal Agent Benchmark for law; it also scored 54.9% on Humanity’s Last Exam (HLE)-Verified, reflecting its ability to take on multi-step reasoning tasks across subjects like math, science, and humanities. In one example shared by Google, Gemini 3.8 Flash built a game with a simple prompt using looping techniques in Google’s Antigravity platform. The game uses puzzles, storytelling that changes based on the environment, and images and textures from Nano Banana to create a 3D experience (in this case a wizard navigating a castle). In other instances, the model created a fully-functional DOS version of Google Maps featuring interactive locations, directions, and street views; a 3D visualizer that automatically decomposed devices into layers for inspection with a slider capability; and a topographic map of famous geographical sites based on real datasets from the U.S. Geological Survey, complete with real-time cross-sections, 2D projections, and scientific explanations. According to Arena.ai, 3.8 Flash landed at No. 14 in Agent Arena, ranking above DeepSeek-V4-Pro, and showed a significant jump over Gemini 3.7 Flash (which sits all the way down at No. 32). It debuted at No. 7 in Text Arena, ahead of Claude Opus 5 and Gemini 3.7 Flash. It improved over 3.7 Flash in several areas: multi-turn requests, writing, literature, and language, longer queries, hard prompts, coding, instruction following, software and IT services, and business, management and financial ops. Flash Cyber is already securing Google's codeFlash Cyber is initially being rolled out to “trusted defenders” through Google’s Fairwind Program, which prioritizes government authorities, critical-infrastructure operators, and other partners looking for advanced cyber defense capabilities. Organizations can apply for access. Google says the model version has undergone “rigorous training” in the cybersecurity domain and represents a “significant leap in prompt injection robustness.” It is particularly adept at autonomous vulnerability discovery — at least, based on internal Gemini benchmarks — and automated patching. It is also very good at coding, Popa said in a video. The goal was to equip defenders with expert-level capabilities to give them a leg up over threat actors (whether malicious, fellow AI agents, or human hackers). “We have invested in vulnerability fixing from the start, and prioritized it over offensive capabilities like exploitation,” Doshi and Popa explain. The model ships a more permissive set of mitigations for cybersecurity safeguards — which is why, for now, it is only being shared with limited partners — and safeguards against misuse in cyber offense and areas like chemical, biological, radiological, and nuclear (CBRN).Google is already using 3.8 Flash Cyber to secure its own code; it produced 2.6 times more correct patches in Chrome vulnerabilities versus much larger commercial models. Wiz — which Google acquired earlier this year at a historic $32 billion — reported that 3.8 Flash Cyber had 7.5% to 9.7% higher recall of real-world vulnerabilities on an internal penetration testing benchmark at 2.3 to 5.2 times lower cost than leading frontier models. Similarly, Google’s Cloud Vulnerability Research found a critical foundational vulnerability in less than 2 hours with 3.8 Flash Cyber. Typically, that research and discovery would take months, Google claims. AI agents are “incredibly skilled” at finding and exploiting vulnerabilities, Popa said. Scanning large codebases with big AI models is expensive, and defenders are overwhelmed. “In cybersecurity, attackers need only find one significant flaw over millions of lines of code. Defenders have to remove every one of those flaws to be able to defend against attackers.” Doug Turner, engineering director for Chrome, described a “vulnerability apocalypse” in recent months due to generative AI. “Simply overnight, we saw a hockey stick increase in the number of software vulnerabilities reported through our vulnerability research program,” he said in a video. One interesting vulnerability 3.8 Flash Cyber discovered had been in Chromium and Chrome for 13 years, he explained. It was a “very subtle bug” that dozens, if not hundreds, of engineers looked at but never flagged. “Gemini 3.8 Flash Cyber is going to allow us to create better suggested fixes so that developers’ lives can get a lot easier.”",
@@ -596,7 +608,6 @@
     "title": "Broadcom reports Q3 revenue up 86% YoY to $29.59B, vs. $29.36B est., AI semiconductor revenue up 221% to $16.7B, and forecasts Q4 revenue below estimates (Jordan Novet/CNBC)",
     "description": "Jordan Novet / CNBC:\nBroadcom reports Q3 revenue up 86% YoY to $29.59B, vs. $29.36B est., AI semiconductor revenue up 221% to $16.7B, and forecasts Q4 revenue below estimates  —  Broadcom shares edged up in extended trading on Wednesday after the chipmaker issued a rosy forecast for the next fiscal year and hinted …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-02T20:45:20+00:00",
@@ -619,7 +630,6 @@
     "title": "Mario Kart 8 Deluxe’s Surprise Switch 2 Update Brings Multiplayer Mayhem",
     "description": "The surprise update adds eight-player, split-screen competition and other enhancements to Nintendo’s long-running kart racer.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-09-02T20:36:36+00:00",
@@ -812,7 +822,6 @@
     "title": "The New York Times Just Dropped a Brand-New Wordle Spin-Off",
     "description": "Wordle in 1 is included in a group of bonus puzzles that will arrive every Wednesday.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-09-02T19:37:31+00:00",
@@ -1006,7 +1015,6 @@
     "description": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-09-02T18:41:02+00:00",
@@ -1018,8 +1026,7 @@
     "title": "Trump Administration Sides With OpenAI in Publishers’ Copyright Lawsuits",
     "description": "The federal government says making AI companies pay for content used to train their models would undermine national security.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-02T18:35:54+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2288600936.jpg",
@@ -2276,16 +2283,5 @@
     "pub_date": "2026-09-02T14:26:06+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-pay-card-ios-27-checkout.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/a-botnet-running-for-23-years-with-over-15-000-endpoints-has-finally-been-shut-down-by-law-enforcement-and-crowdstrike",
-    "title": "A botnet running for 23 years with over 15,000 endpoints has finally been shut down by law enforcement and Crowdstrike",
-    "description": "Crowdstrike and friends sinkholed thousands of Sality's endpoints rendering the botnet useless.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-02T14:25:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/2FFajuvJVK8i7Her8gD4aD-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
