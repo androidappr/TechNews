@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://9to5mac.com/2026/09/03/apple-faces-yet-another-lawsuit-over-app-tracking-transparency-with-a-twist/",
+    "title": "Apple faces yet another lawsuit over App Tracking Transparency, with a twist",
+    "description": "While Apple has long used privacy as a selling point for both its hardware and services, I do wonder whether it now regrets introducing one privacy measure: App Tracking Transparency (ATT).\n\n\n\nFor something with rather limited scope, it sometimes feels like scarcely a month goes by without a new antitrust lawsuit or regulator challenging it. A third ATT lawsuit is being brought in the UK – this one with a twist … \n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T13:20:58+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-faces-yet-another-lawsuit-over-App-Tracking-Transparency.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260903/p20#a260903p20",
     "title": "HTC rolls out its $499 Vive Eagle, which let users choose between Gemini or ChatGPT as their assistant, in North America, Europe, the UK, and Australia (Chris Welch/Bloomberg)",
     "description": "Chris Welch / Bloomberg:\nHTC rolls out its $499 Vive Eagle, which let users choose between Gemini or ChatGPT as their assistant, in North America, Europe, the UK, and Australia  —  HTC Corp. is rolling out its Vive Eagle smart glasses in the US, entering a market where category leader Meta Platforms Inc …",
@@ -373,7 +385,7 @@
   {
     "link": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
     "title": "These new robot lawnmowers trim your edges",
-    "description": "Anker's new robot lawnmower might take over for your weedwacker, too. Announced at IFA 2026, the Eufy Robot Lawn Mower S2 Max comes with an extendable trimming arm to clean up the grass around your driveway and flowerbeds. The dual-blade mower offers vSLAM navigation that uses built-in cameras to build a 3D map of your",
+    "description": "Anker's new robot lawnmower might take over for your weed whacker, too. Announced at IFA 2026, the Eufy Robot Lawn Mower S2 Max comes with an extendable trimming arm to clean up the grass around your driveway and flowerbeds. The dual-blade mower offers vSLAM navigation that uses built-in cameras to build a 3D map of",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -527,7 +539,6 @@
     "title": "'Quicker, more reliable and more fun': The Munbyn RW403B is the best shipping label printer we've tested — and it just got a big price cut",
     "description": "In our tests, we found Munbyn's thermal label printer \"makes light work of labelling\", and it's our top choice for ecommerce and small business use.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-03T11:16:22+00:00",
@@ -597,7 +608,6 @@
     "title": "Anker’s new sleep speakers want to fix your nights without you wearing a thing",
     "description": "Anker Soundcore's new SleepLab and SleepLab Pro speakers use radar, sound, and light to help you sleep better while tracking your sleep at the same time.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-03T11:09:03+00:00",
@@ -632,7 +642,6 @@
     "title": "Syncing Hue lights to your TV now starts at $120; Nanoleaf integration too",
     "description": "Syncing your Philips Hue lights to your TV display used to be a rather expensive undertaking, at $385 for the company’s Sync Box 8K. A couple of new products now bring that cost down to as little as $120.\n\n\n\nAdditionally, you can now integrate Nanoleaf wall panels into your Philips Hue ecosystem thanks to a new $40 Wall Light Module … \n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-03T11:04:46+00:00",
@@ -1047,6 +1056,7 @@
     "title": "Apple faces a £2bn UK claim over App Tracking Transparency, brought by a former CMA official",
     "description": "Apple is facing a £2bn claim in London over the privacy prompt that reshaped mobile advertising. The case, filed at the Competition Appeal Tribunal on behalf of UK app developers, argues that App Tracking Transparency polices everyone except Apple. The claim was reported by Reuters, which values it at $2.7bn. Bringing it is Ann Pope, a",
     "categories": [
+      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-03T10:00:09+00:00",
@@ -1188,7 +1198,6 @@
     "title": "Smart Toilets Are Already Using AI to Analyze Your Poop",
     "description": "While companies promise they can help users monitor gut health, experts suggest that smart toilets provide little in the way of benefits to the average person.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-09-03T09:30:00+00:00",
@@ -1653,7 +1662,6 @@
     "title": "Anker’s sleep speaker uses radar and flower power to help you relax",
     "description": "Anker's SleepLab speaker promises to track and enhance sleep without a wearable. It uses millimeter-wave radar (60GHz) blasting from your nightstand to track micro-movements in your chest and body to continuously monitor your heart rate and breathing to enhance whatever sleep stage you're in. It also embeds lots of hippie shit. If I'm understanding things",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-09-03T07:30:00+00:00",
@@ -1665,11 +1673,32 @@
     "title": "Anker’s Soundcore is bringing its incredible call quality to more headphones",
     "description": "After introducing the Thus processing chip in April and releasing it with the Liberty 5 Pro series earbuds, Soundcore is bringing it to more audio products. The Thus chip is behind the best call quality I've ever heard from a pair of earbuds or headphones, virtually eliminating ambient sounds from the speaker's environment. At IFA",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-03T07:30:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/soundcore-space-2-pro-lifestyle.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/986377/ankers-first-otc-hearing-aids-ifa-2026",
+    "title": "Anker announces its first over-the-counter hearing aids",
+    "description": "In what could be fortuitous timing for hearing aid users, Anker announced its first over-the-counter (OTC) hearing aids at IFA 2026. It was only a couple months ago when LXE Hearing, the parent company for Eargo and Lexie Hearing - two major OTC manufacturers in the US - decided to end US operations and exit",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T07:30:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/anker-otc-hearing-aid-image.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/986948/anker-eufymake-personal-fabric-printer-dtg-dtf-ifa",
+    "title": "Anker’s new printer works directly on fabrics",
+    "description": "After introducing a consumer-friendly UV printer last year capable of printing designs directly on materials like wood, metal, glass, and acrylic, Anker's eufyMake brand is introducing a new machine that can print directly on fabrics. With an expected launch sometime in the spring of 2027, Anker hasn't yet revealed an official name for the new",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-03T07:30:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ankerprinter1.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
   },
   {
@@ -1688,7 +1717,6 @@
     "title": "Anker brings its AI chip to the Soundcore Space 2 Pro headphones",
     "description": "Anker has a bunch of new AI-infused headphones, earbuds and hearing aids on the way.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-03T07:30:00+00:00",
@@ -1700,7 +1728,6 @@
     "title": "Anker Eufy at IFA 2026: New security cameras, plus a robot vacuum and a robot lawnmower",
     "description": "Security was the focus of Anker Eufy at IFA this year.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-03T07:30:00+00:00",
@@ -1712,7 +1739,6 @@
     "title": "As a Pet Parent to 3 Asthmatic Cats, I’m Eyeing This New AAFA-Certified Vacuum at IFA 2026",
     "description": "Eufy’s sterilization-focused robot vacuum is the product I’m most looking forward to checking out in Berlin.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-03T07:30:00+00:00",
@@ -1724,7 +1750,6 @@
     "title": "Anker’s Eufy Strides Into IFA With a New AI Ecosystem and Devices to Match",
     "description": "Anker’s security division has big plans, and the company is prepping an even bigger AI management system for your home — without relying on cloud data or subscriptions.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-09-03T07:30:00+00:00",
@@ -1736,23 +1761,11 @@
     "title": "These Sleep Headphones Are My Best Redeye Flight Hack. They Just Got a Nifty Upgrade",
     "description": "Anker announces the Sleep Earbuds 4 Pro at IFA, along with a stylish bedside sleep speaker, a hearing aid and a bunch of headphones.",
     "categories": [
-      "Breaking News",
       "Mobile & Telecom"
     ],
     "pub_date": "2026-09-03T07:30:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/anker-sleep-earbuds.jpg",
     "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/986377/ankers-first-otc-hearing-aids-ifa-2026",
-    "title": "Anker announces its first over-the-counter hearing aids",
-    "description": "In what could be fortuitous timing for hearing aid users, Anker announced its first over-the-counter (OTC) hearing aids at IFA 2026. It was only a couple months ago when LXE Hearing, the parent company for Eargo and Lexie Hearing - two major OTC manufacturers in the US - decided to end US operations and exit",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T07:30:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/anker-otc-hearing-aid-image.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.engadget.com/2249482/anker-mindbase-is-a-smart-home-hub-nas-and-security-guard/",
@@ -1765,17 +1778,6 @@
     "pub_date": "2026-09-03T07:30:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/ankers-mindbase-is-a-smart-home-hub-nas-and-security-guard/l-intro-1788361945.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/986948/anker-eufymake-personal-fabric-printer-dtg-dtf-ifa",
-    "title": "Anker’s new printer works directly on fabrics",
-    "description": "After introducing a consumer-friendly UV printer last year capable of printing designs directly on materials like wood, metal, glass, and acrylic, Anker's eufyMake brand is introducing a new machine that can print directly on fabrics. With an expected launch sometime in the spring of 2027, Anker hasn't yet revealed an official name for the new",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-03T07:30:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ankerprinter1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
@@ -2042,17 +2044,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.wired.com/story/instacart-promo/code/",
-    "title": "Instacart Promo Code: $15 Off | September 2026",
-    "description": "Find the best Instacart promo code for massive savings in September 2026.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/expedia-coupon/",
     "title": "Expedia Coupons: 40% Off",
     "description": "Book your next getaway with Expedia and get up to 75% off your stay, with or without a promo code.",
@@ -2061,6 +2052,17 @@
     ],
     "pub_date": "2026-09-03T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/instacart-promo/code/",
+    "title": "Instacart Promo Code: $15 Off | September 2026",
+    "description": "Find the best Instacart promo code for massive savings in September 2026.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png",
     "source_name": "WIRED.COM"
   },
   {
@@ -2304,16 +2306,5 @@
     "pub_date": "2026-09-03T02:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/04uvEdZzRlxfxb8MvmvEsf6/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260902/p48#a260902p48",
-    "title": "A look at Loudoun County, Virginia, dubbed \"Data Center Alley\", which hosts ~250 data centers and offers a glimpse into data centers' impact on communities (Lauren Feiner/The Verge)",
-    "description": "Lauren Feiner / The Verge:\nA look at Loudoun County, Virginia, dubbed “Data Center Alley”, which hosts ~250 data centers and offers a glimpse into data centers' impact on communities  —  Massive AI infrastructure is being built out across the US.  But if you want to know what the data center occupation looks like …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T01:35:02+00:00",
-    "image_url": "http://www.techmeme.com/260902/i48.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
