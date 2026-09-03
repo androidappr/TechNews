@@ -1,5 +1,92 @@
 [
   {
+    "link": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
+    "title": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
+    "description": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which puts it on the really expensive end of power banks with only a 10,000mAh battery, but",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-03T22:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ugreen1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2250749/ugreen-smart-home-ecosystem-built-around-local-ai-hubs/",
+    "title": "Ugreen's new smart home ecosystem is built around local AI hubs",
+    "description": "Ugreen has three new hubs that run your smart home with local AI rather than the cloud. The top model runs on Nvidia's Jetson Thor platform and costs $20,000.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-03T22:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/ugreens-new-smart-home-ecosystem-is-built-around-local-ai-hubs/l-intro-1788468967.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+    "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+    "description": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-03T21:56:21+00:00",
+    "image_url": "https://media.wired.com/photos/6a99e16fbf4e66136bddbc74/master/pass/Security_AWaveofOutagesHitsLeadingAIChatbots_v1-ezgif.com-video-to-gif-converter%20(2).gif",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260903/p45#a260903p45",
+    "title": "Sources: PayPal has paused plans to sell its VC portfolio for $900M-$1B after bids came in lower than hoped, months after deciding to wind down PayPal Ventures (Axios)",
+    "description": "Axios:\nSources: PayPal has paused plans to sell its VC portfolio for $900M-$1B after bids came in lower than hoped, months after deciding to wind down PayPal Ventures  —  PayPal has paused plans to sell its venture capital portfolio for around $900 million to $1 billion, Axios Pro has learned from multiple sources.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T21:55:01+00:00",
+    "image_url": "http://www.techmeme.com/260903/i45.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2250789/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners/",
+    "title": "SpaceXAI apologizes for outage that affected Grok and other 'compute partners'",
+    "description": "Several AI companies experienced issues at around the same time.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-03T21:52:34+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners/l-intro-1788472233.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+    "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+    "description": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Cybersecurity & Privacy",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-03T21:48:24+00:00",
+    "image_url": "https://media.wired.com/photos/6a98be202f048bd98be06316/master/pass/Uncanny-Valley-George-Santos-Politics-2211292507.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/video-first-frontier-ai-physical-world-lumana",
+    "title": "Why video is the first frontier as AI learns to read the physical world",
+    "description": "A camera overlooking a loading dock might record twelve hours of trucks arriving, workers moving through the site, and boxes leaving the building. Most days, nobody has a reason to watch any of it. The footage only becomes useful when a package goes missing, an accident happens or somebody needs to work backwards from an",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T21:46:14+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/video-first-frontier-ai-physical-world-lumana2.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://mashable.com/tech/openai-gpt-6-astra-launch-pricing-safety-benchmarks",
     "title": "OpenAI officially launches GPT-6 Astra, a boundary-breaking new model",
     "description": "OpenAI has announced the launch of GPT-6 Astra, its most advanced model yet. The model will begin rolling out immediately.",
@@ -865,7 +952,6 @@
     "title": "US export controls actually helped China iron out tech supply chain 'chokepoints', report finds",
     "description": "While the US was busy imposing restrictions against China, Chinese startups were occupied filling gaps in the market.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-03T18:00:00+00:00",
@@ -1447,7 +1533,6 @@
     "title": "Motorola Spiffs Up the Razr With Swarovski Meteorite Finish, Adds Watch Ultra and Edge 70 Plus",
     "description": "Motorola’s given the Razr a touch of the old razzle-dazzle for IFA, and bulked out its mobile portfolio.",
     "categories": [
-      "Breaking News",
       "Mobile & Telecom"
     ],
     "pub_date": "2026-09-03T16:01:34+00:00",
@@ -1459,7 +1544,6 @@
     "title": "Nvidia RTX Spark Systems Approach the Starting Line",
     "description": "Lenovo provides details on its Yogas, and Acer’s doing a desktop.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-03T16:00:48+00:00",
@@ -1472,7 +1556,6 @@
     "description": "Users can search for emails or draft documents using the new conversational feature.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Software & Apps"
     ],
@@ -1497,7 +1580,6 @@
     "title": "Circular’s new smart rings add contactless payments and vibrating alerts",
     "description": "Circular announced its new Ring 3 Series today as a follow-up to the Ring 2 that debuted at CES 2025 with upgraded sensors and FDA-cleared atrial fibrillation detection. The new Ring 3 collection consists of both a Pro model that carries forward those same health-tracking features, and a smaller Slim option that offers more limited",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-03T16:00:00+00:00",
@@ -1509,12 +1591,77 @@
     "title": "The Moto Watch Ultra is a return to Wear OS",
     "description": "Just a few months after getting back into the smartwatch game, Motorola is targeting the premium end of the market with the first Moto Watch Ultra. It comes with some upgrades from the recent Moto Watch - most obviously the jump to Wear OS - but lacks the outdoorsy features that would make it a",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-03T16:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/moto-watch-ultra-4.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/",
+    "title": "Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme",
+    "description": "Using Frore’s air-cooling technology, Lenovo’s Project AeroBlade Concept is an ultralightweight laptop with efficient heat management.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-03T16:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6a9976cfd5c3390915dc9f8d/master/pass/comerce%20.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2250178/google-rolls-out-ai-voice-gmail-docs-keep/",
+    "title": "Google rolls out AI-powered voice capabilities for Gmail, Docs and Keep",
+    "description": "Google makes its suite of voice tools available for Gmail, Docs and Live - at least if you're a paying customer.",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-09-03T16:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/google-rolls-out-ai-powered-voice-capabilities-for-gmail-docs-and-keep/l-intro-1788434756.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/phones/motorola/treat-yourself-motorolas-brilliant-collection-expands-razr-2026-swarovski-edition",
+    "title": "Treat yourself: Motorola's Brilliant Collection expands with a sparkling Razr 2026 Swarovski Edition",
+    "description": "Motorola dazzles this midweek with a Swarovski Crystal Edition Razr 2026, and it makes the phone resemble stars in the night sky.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T16:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/fp74RTs3Zc38ZTNiEdegG8-1280-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/computing/lenovo-showcases-silent-ultraportable-and-latest-rollable-laptop-concepts-at-ifa-2026/",
+    "title": "Lenovo Showcases Silent Ultraportable and Latest Rollable Laptop Concepts at IFA 2026",
+    "description": "Project AeroBlade is an exciting new and fanless cooling system, while Project Swan builds on a motorized display concept shown off at CES.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T16:00:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Project-Swan-2.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/ifa-2026-lenovo-rtx-spark-laptops-yoga-pro-9n",
+    "title": "Lenovo takes the wraps off 2 new Nvidia RTX Spark laptops at IFA 2026",
+    "description": "At IFA 2026, Lenovo announced two new laptops with the Nvidia RTX Spark chip, which can power 1 petaflop of AI performance and up to 128GB of RAM.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T16:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/02b8S7K8heVeraYEGXV2hmC/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/ifa-2026-lenovo-ideapad-vibe-budget-laptop-price-specs",
+    "title": "Lenovos new $699 MacBook Neo rival comes in two sizes and a rainbow of colors",
+    "description": "Lenovo announced a new budget laptop called the IdeaPad Vibe at IFA 2026. It comes in seven colors and two sizes.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T16:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/06MxswkaeLIAQ5MrUD71LLU/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.theverge.com/tech/988765/lenovo-ideapad-vibe-laptop-macbook-neo-competitor-ifa-colors-price-specs",
@@ -1528,30 +1675,6 @@
     "pub_date": "2026-09-03T16:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268683_Lenovo_IdeaPad_Vibe_IFA_2026_ADiBenedetto_0002.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/",
-    "title": "Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme",
-    "description": "Using Frore’s air-cooling technology, Lenovo’s Project AeroBlade Concept is an ultralightweight laptop with efficient heat management.",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-03T16:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6a9976cfd5c3390915dc9f8d/master/pass/comerce%20.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2250178/google-rolls-out-ai-voice-gmail-docs-keep/",
-    "title": "Google rolls out AI-powered voice capabilities for Gmail, Docs and Keep",
-    "description": "Google makes its suite of voice tools available for Gmail, Docs and Live - at least if you're a paying customer.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-09-03T16:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/google-rolls-out-ai-powered-voice-capabilities-for-gmail-docs-and-keep/l-intro-1788434756.jpg",
-    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.engadget.com/2250189/nvidia-ifa-2026-pair-distributed-ai-computing-home-network/",
@@ -1576,54 +1699,6 @@
     "pub_date": "2026-09-03T16:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/circular-brings-mobile-payments-to-its-3-series-smart-ring/l-intro-1787060503.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/phones/motorola/treat-yourself-motorolas-brilliant-collection-expands-razr-2026-swarovski-edition",
-    "title": "Treat yourself: Motorola's Brilliant Collection expands with a sparkling Razr 2026 Swarovski Edition",
-    "description": "Motorola dazzles this midweek with a Swarovski Crystal Edition Razr 2026, and it makes the phone resemble stars in the night sky.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T16:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/fp74RTs3Zc38ZTNiEdegG8-1280-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/computing/lenovo-showcases-silent-ultraportable-and-latest-rollable-laptop-concepts-at-ifa-2026/",
-    "title": "Lenovo Showcases Silent Ultraportable and Latest Rollable Laptop Concepts at IFA 2026",
-    "description": "Project AeroBlade is an exciting new and fanless cooling system, while Project Swan builds on a motorized display concept shown off at CES.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T16:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Project-Swan-2.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/ifa-2026-lenovo-rtx-spark-laptops-yoga-pro-9n",
-    "title": "Lenovo takes the wraps off 2 new Nvidia RTX Spark laptops at IFA 2026",
-    "description": "At IFA 2026, Lenovo announced two new laptops with the Nvidia RTX Spark chip, which can power 1 petaflop of AI performance and up to 128GB of RAM.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T16:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02b8S7K8heVeraYEGXV2hmC/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/ifa-2026-lenovo-ideapad-vibe-budget-laptop-price-specs",
-    "title": "Lenovos new $699 MacBook Neo rival comes in two sizes and a rainbow of colors",
-    "description": "Lenovo announced a new budget laptop called the IdeaPad Vibe at IFA 2026. It comes in seven colors and two sizes.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T16:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06MxswkaeLIAQ5MrUD71LLU/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.engadget.com/2250161/lenovo-yoga-pro-9n-nvidia-rtx-spark-ifa-2026/",
@@ -1848,7 +1923,6 @@
     "title": "The first no-strings discounts on the Samsung Galaxy Z Fold 8 Ultra have arrived, thanks to these Labor Day sales",
     "description": "You can already score a straight $300 off the Galaxy Z Fold 8 Ultra by shopping during these stores' Labor Day sales.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-03T15:52:01+00:00",
@@ -2266,85 +2340,5 @@
     "pub_date": "2026-09-03T14:25:36+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2024/07/apple-park-rainbow.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.nasa.gov/image-article/igniting-romans-journey/",
-    "title": "Igniting Roman’s Journey",
-    "description": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT on Aug. 30 aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. Roman pairs a large",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T14:24:23+00:00",
-    "image_url": "https://images-assets.nasa.gov/image/NHQ202608300037/NHQ202608300037~large.jpg?w=1158&h=1919&fit=clip&crop=faces%2Cfocalpoint",
-    "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://www.techradar.com/televisions/blu-ray/surprise-someones-actually-making-a-new-4k-blu-ray-player-but-its-not-exactly-a-mainstream-option-this-reference-player-is-for-audiophiles-as-much-as-cinephiles",
-    "title": "Surprise: someone’s actually making a new 4K Blu-ray player! But it’s not exactly a mainstream option — this reference player is for audiophiles as much as cinephiles",
-    "description": "Magnetar's Ultima is a reference-grade player for UHD Blu-Ray, SACD, DVD, CD and digital sources too",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T14:22:40+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/4cgx2VddPzYai4VuQf3dhH-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/final-fantasy-resonance-hands-on-preview",
-    "title": "Final Fantasy Resonance has that old-school flavor, but it cant hide its mobile roots",
-    "description": "'Final Fantasy Resonance' brings the RPG juggernaut back to its turn-based origins, complete with mobile game cutscenes.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T14:15:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03bfYOnEmsH2CwDSTLrLfx7/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/final-fantasy-resonance-offers-the-exact-old-school-vibes-i-wanted-to-see-from-the-first-hd-2d-game-in-my-favorite-rpg-series",
-    "title": "Final Fantasy Resonance offers the exact old-school vibes I wanted to see from the first HD-2D game in my favorite RPG series",
-    "description": "Final Fantasy Resonance is the first HD-2D title in the iconic RPG series, and after an hour with the game, it has all the makings of an exciting new direction for the fans of the golden age of the franchise.",
-    "categories": [
-      "Breaking News",
-      "Gaming"
-    ],
-    "pub_date": "2026-09-03T14:15:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/uXxAN5HwxpT9BhHLA4Aot7-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2250292/lego-playstation-set-launches-on-october-1/",
-    "title": "Lego's near 1:1 PlayStation set launches on October 1",
-    "description": "The detailed Lego replica of the first PlayStation console also features two miniature dioramas of classic PlayStation games.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-03T14:10:12+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/legos-near-11-playstation-set-launches-on-october-1/l-intro-1788444273.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/thomson-reuters-hit-by-cyberattack-that-saw-court-documents-across-11-states-accessed-by-a-hacker",
-    "title": "Thomson Reuters hit by cyberattack that saw court documents across 11 states accessed by a hacker",
-    "description": "A threat actor accessed C-Track files, compromised a cloud environment, and accessed court records across 11 states.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-03T14:10:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/y7GLevUTEjLYdujEYsv668-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/this-dell-15-6-inch-2k-touchscreen-laptop-is-usd450-off-and-its-the-best-labor-day-laptop-deal-ive-seen-yet",
-    "title": "This Dell 15.6-inch 2K Touchscreen laptop is $450 off, and it's the best Labor Day laptop deal I've seen yet",
-    "description": "Best Buy just slashed $450 off this Dell Core i7 laptop, making it my favorite Labor Day laptop deal.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T14:09:42+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/6feZgBYZhqSxprMEVmTGYm-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
