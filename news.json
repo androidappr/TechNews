@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.techmeme.com/260904/p1#a260904p1",
+    "title": "A profile of Hugging Face, which started in 2016 to build a sassy chatbot for teens; CEO Clément Delangue says he approached Nvidia this summer to pursue a deal (Wall Street Journal)",
+    "description": "Wall Street Journal:\nA profile of Hugging Face, which started in 2016 to build a sassy chatbot for teens; CEO Clément Delangue says he approached Nvidia this summer to pursue a deal  —  The startup began as an emoji-named app for teens before becoming a crusader for open-source AI",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-04T04:45:01+00:00",
+    "image_url": "http://www.techmeme.com/260904/i1.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
     "title": "The sameness problem behind those unappetizing AI-generated menus",
     "description": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
@@ -10,6 +22,18 @@
     "pub_date": "2026-09-04T04:21:03+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/",
+    "title": "A Trio of Tropical Cyclones in the Pacific",
+    "description": "The Pacific was buzzing with storms while the Atlantic was notably quiet.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-04T04:01:00+00:00",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-trio-of-tropical-cyclones-in-the-pacific/pacificstorms_epic_20260901.jpg?w=1440&h=1440&fit=clip&crop=faces%2Cfocalpoint",
+    "source_name": "SCIENCE.NASA.GOV"
   },
   {
     "link": "https://mashable.com/entertainment/hurdle-hints-answers-september-4-2026",
@@ -202,7 +226,6 @@
     "title": "Wikipedia Workers Unionize for the First Time",
     "description": "More than 200 people in roles such as engineering, finance, and communications will now be represented by the Communications Workers of America.",
     "categories": [
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-09-04T00:40:06+00:00",
@@ -214,7 +237,6 @@
     "title": "AI scientist and Google researcher Ray Kurzweil joins BCI startup Subsense, which develops non-surgical BCI tech involving inhaled nanoparticles, as an advisor (Alexei Oreskovic/Fortune)",
     "description": "Alexei Oreskovic / Fortune:\nAI scientist and Google researcher Ray Kurzweil joins BCI startup Subsense, which develops non-surgical BCI tech involving inhaled nanoparticles, as an advisor  —  Ray Kurzweil, the pioneering AI scientist, Google researcher, and “AI visionary,” is joining a Silicon Valley startup developing …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-04T00:35:03+00:00",
@@ -383,8 +405,7 @@
     "title": "OpenAI rolls out GPT-6 Astra, and Greg Brockman says AGI has arrived",
     "description": "OpenAI’s president says artificial general intelligence has arrived. Greg Brockman told reporters that the company’s new Astra model qualifies, the Washington Post reported. OpenAI defines AGI as systems that are generally smarter than humans. “I do leave it up to the reader to decide for themselves if this qualifies for them“, Brockman said. “I think",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-03T22:39:56+00:00",
     "image_url": "https://media.thenextweb.com/2026/05/openai-trial-brockman-journals-nonprofit-settlement.avif",
@@ -2248,28 +2269,5 @@
     "pub_date": "2026-09-03T16:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/lenovos-700-ideapad-vibe-is-ready-to-take-on-the-macbook-neo/l-intro-1788443874.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/lenovos-fanless-mobility-centric-project-aeroblade-weighs-under-830g-and-has-thunderbolt-which-is-more-than-the-thinkbook-it-potentially-wont-replace-yet",
-    "title": "Lenovo's fanless mobility-centric Project AeroBlade weighs under 830g and has Thunderbolt, which is more than the ThinkBook it potentially won't replace yet",
-    "description": "Lenovo's fanless Project AeroBlade weighs under 830g and has Thunderbolt 4. The Intel-based ThinkBook, which was announced alongside it, weighs 990g and has neither Thunderbolt nor USB4 on offer",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T16:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/wftnJHPVgPMNuUH8pmCH8c-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/lenovos-thinkcentre-x-ultra-puts-128gb-of-unified-memory-in-a-1-6-liter-box-and-you-can-cluster-four-of-them-together",
-    "title": "Lenovo's ThinkCentre X Ultra puts 128GB of unified memory in a 1.6-liter box, and you can cluster four of them together",
-    "description": "Lenovo's ThinkCentre X Ultra packs 128GB of unified memory into 1.6 liters for $3,699, and says four will cluster into a potential 512GB pool",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T16:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/R6LuaJe4a7BAAD7CBMgQUG-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
