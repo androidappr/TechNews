@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.engadget.com/2250874/tesla-offering-cybercab-robotaxi-rides/",
+    "title": "Tesla starts offering Cybercab robotaxi rides",
+    "description": "Tesla has officially launched the Cybercab, its autonomous vehicle with no steering wheel.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-04T06:41:33+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/tesla-starts-offering-cybercab-robotaxi-rides/l-intro-1788503685.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260904/p3#a260904p3",
+    "title": "Sources: initial foldable iPhone production is limited to only a \"few hundred\" units a day due to Apple's strict quality standards as it ramps up output (Nikkei Asia)",
+    "description": "Nikkei Asia:\nSources: initial foldable iPhone production is limited to only a “few hundred” units a day due to Apple's strict quality standards as it ramps up output  —  TAIPEI — Initial production of Apple's long-awaited foldable iPhone is currently limited to only a “few hundred” units a day …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-04T06:35:01+00:00",
+    "image_url": "http://www.techmeme.com/260904/i3.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techradar.com/streaming/amazon-prime-video/the-grand-tour-review",
     "title": "I've watched The Grand Tour's return to Prime Video and although I miss Clarkson, May and Hammond, you can't deny the charm of our new trio — especially Francis Bourgeois",
     "description": "The Grand Tour returns to Prime Video on September 4 with its new cohort of presenters — but don't write them off before they've even got going.",
@@ -34,17 +57,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.wired.com/story/mattress-firm-coupon/",
-    "title": "Mattress Firm Coupons: Save up to $700",
-    "description": "Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-04T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/foreo-promo-code/",
     "title": "Foreo Discount Codes and Deals: Up to 50% Off",
     "description": "Save on Foreo favorites, including LUNA cleansing brushes, BEAR microcurrent devices, and masks and accessories to level up your daily skincare routine at home.",
@@ -75,6 +87,17 @@
     ],
     "pub_date": "2026-09-04T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/mattress-firm-coupon/",
+    "title": "Mattress Firm Coupons: Save up to $700",
+    "description": "Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-04T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
     "source_name": "WIRED.COM"
   },
   {
@@ -333,6 +356,7 @@
     "title": "Tesla says Cybercab rides are available in limited areas of Austin; the two-seater has no steering wheel or pedals, and 45 Cybercabs are registered in Texas (Reuters)",
     "description": "Reuters:\nTesla says Cybercab rides are available in limited areas of Austin; the two-seater has no steering wheel or pedals, and 45 Cybercabs are registered in Texas  —  Tesla (TSLA.O) said on Thursday it was offering rides in “limited areas of Austin, Texas” in its two-seater Cybercab …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-04T01:25:01+00:00",
@@ -2231,27 +2255,5 @@
     "pub_date": "2026-09-03T16:00:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Project-Swan-2.jpg",
     "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/",
-    "title": "Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme",
-    "description": "Using Frore’s air-cooling technology, Lenovo’s Project AeroBlade Concept is an ultralightweight laptop with efficient heat management.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-03T16:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6a9976cfd5c3390915dc9f8d/master/pass/comerce%20.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/ifa-2026-lenovo-rtx-spark-laptops-yoga-pro-9n",
-    "title": "Lenovo takes the wraps off 2 new Nvidia RTX Spark laptops at IFA 2026",
-    "description": "At IFA 2026, Lenovo announced two new laptops with the Nvidia RTX Spark chip, which can power 1 petaflop of AI performance and up to 128GB of RAM.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T16:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02b8S7K8heVeraYEGXV2hmC/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
