@@ -1,5 +1,18 @@
 [
   {
+    "link": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
+    "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
+    "description": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision. But unofficially, modders have already ported a leaked version of DLSS 5 to run on just about anything while cranking",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Gaming"
+    ],
+    "pub_date": "2026-09-04T01:49:25+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25256536/246993_Nvidia_RTX_4080_Super_TWarren_0002.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260903/p49#a260903p49",
     "title": "Tesla says Cybercab rides are available in limited areas of Austin; the two-seater has no steering wheel or pedals, and 45 Cybercabs are registered in Texas (Reuters)",
     "description": "Reuters:\nTesla says Cybercab rides are available in limited areas of Austin; the two-seater has no steering wheel or pedals, and 45 Cybercabs are registered in Texas  —  Tesla (TSLA.O) said on Thursday it was offering rides in “limited areas of Austin, Texas” in its two-seater Cybercab …",
@@ -62,7 +75,7 @@
   {
     "link": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
     "title": "The unusually muted Tesla Cybercab launch",
-    "description": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles, and humanoid robots. It was an",
+    "description": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles, and humanoid robots. It",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -334,7 +347,6 @@
     "title": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
     "description": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which puts it on the really expensive end of power banks with only a 10,000mAh battery, but",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-03T22:00:00+00:00",
@@ -416,8 +428,7 @@
     "title": "SpaceXAI apologizes for outage that affected Grok and other 'compute partners'",
     "description": "Several AI companies experienced issues at around the same time.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-03T21:52:34+00:00",
     "image_url": "https://www.engadget.com/img/gallery/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners/l-intro-1788472233.jpg",
@@ -429,7 +440,6 @@
     "description": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Cybersecurity & Privacy",
       "Social & Media"
@@ -443,7 +453,6 @@
     "title": "Why video is the first frontier as AI learns to read the physical world",
     "description": "A camera overlooking a loading dock might record twelve hours of trucks arriving, workers moving through the site, and boxes leaving the building. Most days, nobody has a reason to watch any of it. The footage only becomes useful when a package goes missing, an accident happens or somebody needs to work backwards from an",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-03T21:46:14+00:00",
@@ -748,7 +757,6 @@
     "title": "GPT-6 is here, but what if we just said 'no thanks' to Astra, a model so powerful that we may never fully understand it",
     "description": "OpenAI's next big model, Astra, a.k.a. GPT-6, is done with training and ready to launch, but CEO Sam Altman's warning and recent reports on the model's inscrutable nature have us worried.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-03T19:49:53+00:00",
@@ -1913,18 +1921,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://www.theverge.com/tech/985009/tecno-bezelless-concept-phone-ifa",
-    "title": "I held the first truly bezel-free phone",
-    "description": "Cast your mind back a decade or so, and smartphone makers were obsessed with shrinking the bezel on phones. Screens got bigger, the black bars around them got smaller, and for a while it looked like truly edge-to-edge displays were imminent. Then, progress just stopped. The bezel shrunk down until it was a millimeter or",
-    "categories": [
-      "Gadgets & Hardware",
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-09-03T16:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/tecno-bezelless-concept-01.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/",
     "title": "Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme",
     "description": "Using Frore’s air-cooling technology, Lenovo’s Project AeroBlade Concept is an ultralightweight laptop with efficient heat management.",
@@ -1978,6 +1974,18 @@
     "pub_date": "2026-09-03T16:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/06MxswkaeLIAQ5MrUD71LLU/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/985009/tecno-bezelless-concept-phone-ifa",
+    "title": "I held the first truly bezel-free phone",
+    "description": "Cast your mind back a decade or so, and smartphone makers were obsessed with shrinking the bezel on phones. Screens got bigger, the black bars around them got smaller, and for a while it looked like truly edge-to-edge displays were imminent. Then, progress just stopped. The bezel shrunk down until it was a millimeter or",
+    "categories": [
+      "Gadgets & Hardware",
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-09-03T16:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/tecno-bezelless-concept-01.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts",
@@ -2288,17 +2296,5 @@
     "pub_date": "2026-09-03T15:49:51+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/macbook-air-m4-m3.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/home/vacuums/sharks-latest-vacuum-is-three-cleaners-in-one-and-adjusts-itself-to-suit-your-home",
-    "title": "Shark's latest vacuum is three cleaners in one, and adjusts itself to suit your home",
-    "description": "The Shark PowerDetect Transformer is a three-in-one: an upright, a stick and a handheld vacuum",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T15:47:11+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/KW83KpayHsV8NkFHurgpwn-1280-80.png",
-    "source_name": "TECHRADAR.COM"
   }
 ]
