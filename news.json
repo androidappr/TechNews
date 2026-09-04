@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/",
+    "title": "Wikipedia Workers Unionize for the First Time",
+    "description": "More than 200 people in roles such as engineering, finance, and communications will now be represented by the Communication Workers of America.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-04T00:40:06+00:00",
+    "image_url": "https://media.wired.com/photos/6a9a07338aae3f350260c9af/master/pass/Wikipedia-Workers-Vote-on-Whether-to-Unionize-Business.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260903/p48#a260903p48",
+    "title": "AI scientist and Google researcher Ray Kurzweil joins BCI startup Subsense, which develops non-surgical BCI tech involving inhaled nanoparticles, as an advisor (Alexei Oreskovic/Fortune)",
+    "description": "Alexei Oreskovic / Fortune:\nAI scientist and Google researcher Ray Kurzweil joins BCI startup Subsense, which develops non-surgical BCI tech involving inhaled nanoparticles, as an advisor  —  Ray Kurzweil, the pioneering AI scientist, Google researcher, and “AI visionary,” is joining a Silicon Valley startup developing …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-04T00:35:03+00:00",
+    "image_url": "http://www.techmeme.com/260903/i48.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+    "title": "The unusually muted Tesla Cybercab launch",
+    "description": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles, and humanoid robots. It was an",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-04T00:25:06+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2265246421.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.techradar.com/audio/wireless-headphones/i-get-to-try-all-the-latest-headphones-as-a-reviewer-but-id-still-recommend-the-six-year-old-sony-wh-1000xm4-for-just-aud299",
     "title": "I get to try all the latest headphones as a reviewer — but I'd still recommend the six-year-old Sony WH-1000XM4 for just AU$299",
     "description": "It's no surprise Sony continues to sell the XM4 noise-cancelling headphones, but this 32% saving is a surprise — one that shouldn't be ignored.",
@@ -568,7 +604,6 @@
     "title": "Ultrahuman Eyes Gesture Control for Future Rings With Qualcomm Boost",
     "description": "With $70 million of investment from companies including Qualcomm, the smart ring-maker is planning its next-gen AI wearables.",
     "categories": [
-      "Breaking News",
       "Mobile & Telecom"
     ],
     "pub_date": "2026-09-03T20:38:41+00:00",
@@ -956,7 +991,6 @@
     "title": "Amazon's Labor Day running shoe sale is surprisingly good — save up to 48% on Nike, Hoka, Brooks, and Adidas",
     "description": "Amazon's Labor Day sale is better than I expected, with up to 48% off top-rated running shoes from Nike, Hoka, Brooks, Adidas, and more.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-03T18:43:45+00:00",
@@ -1003,7 +1037,6 @@
     "title": "Qualcomm invests in Ultrahuman's future of human computing for our health",
     "description": "Ultrahuman receives major $70 million investments from Qualcomm Ventures and more to facilitate the future of health-focused human computing power.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-03T18:34:14+00:00",
@@ -1864,17 +1897,6 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts",
-    "title": "Circular’s new smart rings add contactless payments and vibrating alerts",
-    "description": "Circular announced its new Ring 3 Series today as a follow-up to the Ring 2 that debuted at CES 2025 with upgraded sensors and FDA-cleared atrial fibrillation detection. The new Ring 3 collection consists of both a Pro model that carries forward those same health-tracking features, and a smaller Slim option that offers more limited",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-03T16:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/circular1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/",
     "title": "Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme",
     "description": "Using Frore’s air-cooling technology, Lenovo’s Project AeroBlade Concept is an ultralightweight laptop with efficient heat management.",
@@ -1928,6 +1950,17 @@
     "pub_date": "2026-09-03T16:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/06MxswkaeLIAQ5MrUD71LLU/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts",
+    "title": "Circular’s new smart rings add contactless payments and vibrating alerts",
+    "description": "Circular announced its new Ring 3 Series today as a follow-up to the Ring 2 that debuted at CES 2025 with upgraded sensors and FDA-cleared atrial fibrillation detection. The new Ring 3 collection consists of both a Pro model that carries forward those same health-tracking features, and a smaller Slim option that offers more limited",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-03T16:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/circular1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.theverge.com/gadgets/988734/moto-watch-ultra-release-date-price-specs-wear-os-ifa",
@@ -2274,42 +2307,6 @@
     ],
     "pub_date": "2026-09-03T15:37:59+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IFAtop.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/gta-6-is-getting-two-limited-edition-dualsense-wireless-controllers-inspired-by-vice-citys-unmistakable-style-heres-when-you-can-pre-order",
-    "title": "GTA 6 is getting two limited-edition DualSense wireless controllers inspired by 'Vice City’s unmistakable style' — here's when you can pre-order",
-    "description": "Sony is launching two limited-edition DualSense wireless controllers inspired by Grand Theft Auto 6, and you can pre-order them next week.",
-    "categories": [
-      "Breaking News",
-      "Gaming"
-    ],
-    "pub_date": "2026-09-03T15:36:56+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/kFhzqy4kquMF96MoiGda9B-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/phones/google-pixel-phones/google-pixel-11-pro-review",
-    "title": "I spent a week with the Google Pixel 11 Pro, and I think Google has perfected the Pixel formula",
-    "description": "The Google Pixel 11 Pro brings small tweaks, familiar tricks, and a bigger price tag than its predecessor.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-03T15:36:46+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/8nVizRkmNcVysYG674EjvC-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
-    "title": "ChatGPT, Grok, and Claude all went down at the same time",
-    "description": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are all experiencing issues. At around 11AM ET, ChatGPT started returning error messages for users trying to use the chatbot, with its status page saying there are currently \"elevated errors across ChatGPT and Codex.\" In addition to preventing users from having conversations with ChatGPT, the outage is also",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-03T15:35:14+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
   }
 ]
