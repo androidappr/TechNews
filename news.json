@@ -1,5 +1,54 @@
 [
   {
+    "link": "https://www.techmeme.com/260904/p23#a260904p23",
+    "title": "A profile of John Ternus, the first product engineer to lead Apple; sources: Tim Cook considered how to execute perfect succession since his early days as CEO (Michael Acton/Financial Times)",
+    "description": "Michael Acton / Financial Times:\nA profile of John Ternus, the first product engineer to lead Apple; sources: Tim Cook considered how to execute perfect succession since his early days as CEO  —  Tim Cook's successor is a product engineer who has spent 25 years at the company and belongs to the generation mentored by Steve Jobs",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-04T17:25:00+00:00",
+    "image_url": "http://www.techmeme.com/260904/i23.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "title": "What will Apple’s John Ternus era look like?",
+    "description": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-04T17:18:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
+    "title": "AGI is whatever you want it to be",
+    "description": "OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that \"the AGI era\" is here now. Today on The Vergecast, we've got an all-star panel to break down the news of the week. First, senior AI reporter Hayden Field joins us to talk about our supposed AGI era and Nvidia's acquisition",
+    "categories": [
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-04T17:16:49+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Artboard-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/mobile/the-big-questions-before-apples-big-iphone-event/",
+    "title": "The Big Questions Before Apple’s Big iPhone Event",
+    "description": "How does Apple sell fans on paying twice as much for an iPhone that folds?",
+    "categories": [
+      "Breaking News",
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-09-04T17:15:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/260903_CLEAN_OMT_Ep_187_Thumbnail_What-to-Watch-for-at-Apple-Event_v4.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/brussels-google-adtech-breakup-alone-brinkema",
     "title": "Brussels said only a breakup would fix Google’s ad tech. The judge who agreed on liability has just declined to order one.",
     "description": "Judge Leonie Brinkema declined to order Google to divest parts of its advertising business, leaving the European Commission the only regulator still arguing that a breakup is the fix. A year after its €2.95bn fine, the Commission is still assessing a compliance plan Google filed in November 2025, and the complainants who brought the case",
@@ -120,7 +169,7 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.cnet.com/tech/services-and-software/apple-is-full-of-surprises-heres-what-cnet-readers-anticipate-ahead-of-wednesdays-event/",
+    "link": "https://www.cnet.com/tech/services-and-software/apple-is-full-of-surprises-heres-what-cnet-readers-anticipate-ahead-of-wednesdays-event-2/",
     "title": "Apple Is Full of Surprises. Here’s What CNET Readers Anticipate Ahead of Wednesday’s Event",
     "description": "From three new iPhone models to a Cook-Ternus reunion, here’s what could go down.",
     "categories": [
@@ -1543,17 +1592,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://www.theverge.com/tech/986123/bluetti-pioneer-5000-solar-generator",
-    "title": "Bluetti launches ‘e-generator’ to take on noisy, stinky, polluting gas generators",
-    "description": "Bluetti doesn't want you to call the Pioneer 5000 a solar generator (SoGen), even though that's what it is. What makes it slightly different from other large power stations that can be charged off solar - aka, a SoGen - is the dolly cart and up to 18KW of instant surge power available to start",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-04T12:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/bluetti-egenerator.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.wired.com/story/japan-launching-probe-to-collect-first-ever-samples-martian-moon/",
     "title": "Japan Is Launching a Probe to Collect the First-Ever Samples From a Martian Moon",
     "description": "The mission to Phobos, Japan’s first Mars probe launch in 28 years, may reveal new information about our closest planetary neighbor.",
@@ -1597,6 +1635,17 @@
     "pub_date": "2026-09-04T12:00:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Sonoff-Smart-Radiator.jpg",
     "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/986123/bluetti-pioneer-5000-solar-generator",
+    "title": "Bluetti launches ‘e-generator’ to take on noisy, stinky, polluting gas generators",
+    "description": "Bluetti doesn't want you to call the Pioneer 5000 a solar generator (SoGen), even though that's what it is. What makes it slightly different from other large power stations that can be charged off solar - aka, a SoGen - is the dolly cart and up to 18KW of instant surge power available to start",
+    "categories": [
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-04T12:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/bluetti-egenerator.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.theverge.com/tech/989199/ifa-berlin-2026-gadgets-ask-us-anything",
@@ -2297,52 +2346,6 @@
     ],
     "pub_date": "2026-09-04T09:08:38+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/01dQ4HG0lEXAq9dNN7aesPD/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/lenovo-ifa-2026-laptops",
-    "title": "Lenovos IFA Laptops: MacBook Neo Killer! Fanless ThinkBook! And Yes, Another Rollable Screen",
-    "description": "See Lenovo's biggest IFA 2026 laptop announcements, including a fanless ThinkBook, RTX-powered 2-in-1 and rollable display.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-04T09:07:24+00:00",
-    "image_url": "https://cdn.ex.co/transformations-account/production/a0be6317-e085-43f9-8cb5-7b125d25af4b/9386a5ea-cd49-41df-aa06-467deed0d327/master.m3u8",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/why-industrial-ai-is-adopting-faster-than-its-working",
-    "title": "Why industrial AI is adopting faster than it’s working",
-    "description": "Access to industrial AI is moving faster than the ability to use it consistently. That gap is now the constraint.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-04T09:06:27+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/boox-go-6-gen-2-e-reader-tablet-review",
-    "title": "The Boox Go 6 (Gen II) is more than an e-reader — but is it doing too much?",
-    "description": "The Boox Go 6 (Gen II) is the brand's latest e-reader. It looks like a Kindle, but it's basically a pocket-sized tablet.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-04T09:05:52+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/reviews/04kZtuWJlOpVF4SfEQE9hFs/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/best-celebrity-interview-podcasts-sept-4-2026",
-    "title": "The best celeb interview podcasts of the week (Sept. 4, 2026)",
-    "description": "There's a superabundance of celeb interview podcasts and internet series out there. Here's which ones you should watch this week.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-04T09:03:53+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06og0knhygFKwIYfYhek7VJ/hero-image.png",
     "source_name": "MASHABLE.COM"
   }
 ]
