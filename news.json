@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.techradar.com/pro/nvidia-unveils-custom-high-bandwidth-memory-promising-higher-bandwidth-and-lower-power-use-but-who-will-actually-get-to-use-it",
+    "title": "Nvidia unveils custom high-bandwidth memory promising higher bandwidth and lower power use - but who will actually get to use it?",
+    "description": "Nvidia says its custom NVHBM beats HBM4E by 30% on bandwidth and 15% on power, but the standard has yet to be produced en masse.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-04T20:15:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/THrQgcJizbtksGzNr9f3qb-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.engadget.com/2251480/flock-camera-license-plate-reader-state-road-ban-florida/",
     "title": "Flock cameras are officially banned on state roads in Florida",
     "description": "Florida joins a growing list of cities and states responding to the license plate reader backlash.",
@@ -110,8 +121,8 @@
   },
   {
     "link": "https://www.techmeme.com/260904/p26#a260904p26",
-    "title": "OpenAI rolls out GPT-6 Astra to Pro customers on the $100/month or $200/month plans (Zac Hall/9to5Mac)",
-    "description": "Zac Hall / 9to5Mac:\nOpenAI rolls out GPT-6 Astra to Pro customers on the $100/month or $200/month plans  —  Update: A day later, GPT-6 Astra is rolling out to Pro customers on the $100/month or $200/month plan.  This follows other new model releases before Plus customers on the $20/month plan gain access.",
+    "title": "OpenAI rolls out GPT-6 Astra to Pro, Enterprise, and Business Premium users in ChatGPT Work and Codex and in the API (Zac Hall/9to5Mac)",
+    "description": "Zac Hall / 9to5Mac:\nOpenAI rolls out GPT-6 Astra to Pro, Enterprise, and Business Premium users in ChatGPT Work and Codex and in the API  —  Update: A day later, GPT-6 Astra is rolling out to Pro customers on the $100/month or $200/month plan.  This follows other new model releases before Plus customers on the $20/month plan gain access.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -699,7 +710,6 @@
     "title": "An interview with Sonos CEO Tom Conrad on the Sonos 27 platform, AI assistants, its Google relationship, speakers as a home computer mesh network, and more (Nilay Patel/The Verge)",
     "description": "Nilay Patel / The Verge:\nAn interview with Sonos CEO Tom Conrad on the Sonos 27 platform, AI assistants, its Google relationship, speakers as a home computer mesh network, and more  —  Today, I'm talking with Tom Conrad, the CEO of Sonos.  Tom and I have known each other for a long time — he was the chief technology officer …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-04T16:30:01+00:00",
@@ -723,7 +733,6 @@
     "title": "Second complete map of a fruit fly brain completed",
     "description": "Every neuron and connection in the brain of a fly has been mapped—twice.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-09-04T16:24:24+00:00",
@@ -735,8 +744,7 @@
     "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
     "description": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-04T16:22:18+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg",
@@ -747,8 +755,7 @@
     "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
     "description": "It's the latest failure of OpenAI's internal monitoring and security systems.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-04T16:21:11+00:00",
     "image_url": null,
@@ -1520,7 +1527,6 @@
     "title": "Nintendo&#8217;s next two Direct events are both happening next week",
     "description": "Nintendo just announced two Direct events for next week, scheduled back to back. First up is the Legend of Zelda 40th Anniversary Direct on September 8th at 10AM ET / 7AM PT. It's set to last around 30 minutes, streaming live on Nintendo's YouTube channel or the Nintendo Today app. Images recently leaked showing a",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-09-04T14:29:44+00:00",
@@ -2336,16 +2342,5 @@
     "pub_date": "2026-09-04T11:10:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/SqQArr33dWeCAKqkinsPE7-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.wired.com/gallery/best-automatic-cat-litter-boxes/",
-    "title": "The Best Automatic Litter Box of 2026: Petkit and Litter-Robot",
-    "description": "With these high-tech automatic litter boxes, gone are the days of scooping and smells. Welcome to the future.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-04T11:08:00+00:00",
-    "image_url": "https://media.wired.com/photos/69d4403d94490f13c636bd21/master/pass/The-Best-Automatic-Litter-Boxes-Tested-by-Our-Spoiled-Cats.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
