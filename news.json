@@ -1,5 +1,27 @@
 [
   {
+    "link": "https://www.techmeme.com/260903/p51#a260903p51",
+    "title": "Wikimedia Foundation staffers vote 158-14 to join the CWA, which will represent 200+ US employees across engineering, finance, and communications (Paresh Dave/Wired)",
+    "description": "Paresh Dave / Wired:\nWikimedia Foundation staffers vote 158-14 to join the CWA, which will represent 200+ US employees across engineering, finance, and communications  —  More than 200 people in roles such as engineering, finance, and communications will now be represented by the Communication Workers of America.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-04T03:00:35+00:00",
+    "image_url": "http://www.techmeme.com/260903/i51.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/tesla-cybercab-had-a-quiet-debut/",
+    "title": "Tesla’s Make-or-Break Cybercab Had a Quiet Debut",
+    "description": "An invite-only event in Austin, Texas, kept online fans in the dark for hours.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-04T02:53:44+00:00",
+    "image_url": "https://media.wired.com/photos/6a985f4fb0ecbdbb43db44df/master/pass/Tesla-CyberCab-Event-Gear-2270749481.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260903/p50#a260903p50",
     "title": "Vals analysis: open-weight models performing multi-stage tasks, like building a web app, can have an environmental impact 10K times greater than simple queries (Bloomberg)",
     "description": "Bloomberg:\nVals analysis: open-weight models performing multi-stage tasks, like building a web app, can have an environmental impact 10K times greater than simple queries  —  Benchmarker Vals AI finds that multi-stage tasks can require models to use exponentially more energy or water than simple queries do.",
@@ -320,7 +342,6 @@
     "title": "Netflix has ordered a live-action adaptation of D&D's Ravenloft",
     "description": "Alfonso Cuarón will executive produce the dark fantasy vampire story based on the popular D&D campaign setting.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-03T22:35:24+00:00",
@@ -672,7 +693,6 @@
     "title": "Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series",
     "description": "A Ravenloft series is currently in development from executive producer Alfonso Cuarón, writer and executive producer John August, and Hasbro Entertainment, Deadline reports. It could bring to life one of Dungeons & Dragons' most iconic campaign settings, which got an update earlier this year with Ravenloft: The Horrors Within. Netflix's Ravenloft series will reportedly center",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-03T20:48:05+00:00",
@@ -996,17 +1016,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.techradar.com/streaming/amazon-prime-video/the-grand-tour-throttle-house-richard-hammond-cameo",
-    "title": "The Grand Tour presenters had Amazon meeting 'days after' Richard Hammond Throttle House cameo on YouTube — 'we had no idea of any details'",
-    "description": "Throttle House fans have called the channel a 'spiritual successor' to Top Gear for years — but The Grand Tour presenters had no idea what was coming when they booked Richard Hammond.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T19:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/f82J97EsiDrRU6srcnse24-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/computing/printers-scanners/ankers-personal-fabric-printer-will-let-you-print-customs-designs-on-t-shirts-and-bags-new-direct-to-garment-printing-looks-perfect-for-your-side-hustles",
     "title": "Anker's 'personal fabric printer' will let you print customs designs on t-shirts and bags — new 'Direct-to-Garment' printing looks perfect for your side hustles",
     "description": "Anker's latest printer, which is being previewed at IFA 2026, lets you print your designs on fabric or film.",
@@ -1015,6 +1024,17 @@
     ],
     "pub_date": "2026-09-03T19:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/sPhM5MKn7bi5SyfZWWVu3o-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/streaming/amazon-prime-video/the-grand-tour-throttle-house-richard-hammond-cameo",
+    "title": "The Grand Tour presenters had Amazon meeting 'days after' Richard Hammond Throttle House cameo on YouTube — 'we had no idea of any details'",
+    "description": "Throttle House fans have called the channel a 'spiritual successor' to Top Gear for years — but The Grand Tour presenters had no idea what was coming when they booked Richard Hammond.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-03T19:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/f82J97EsiDrRU6srcnse24-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2265,28 +2285,5 @@
     "pub_date": "2026-09-03T16:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268683_Lenovo_ThinkBook_Swan_14-17_Rollable_Concept_IFA_2026_ADiBenedetto_0002.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
-    "title": "Google now lets you chat with Gmail, Docs, and Keep",
-    "description": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, Docs Live, and Keep Live, and like the Gemini Live experience for Google's chatbot, aim to make it easier to note down",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-09-03T16:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Gmail-Docs-and-Keep-Live.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog/",
-    "title": "Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog",
-    "description": "Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, Aug. 21, 2026 After Curiosity’s 14 years on the surface, Mars continues to surprise. Both of our workspaces this week contained features unlike quite anything we have seen in the past — broad, shallow pits (like the one in the image above) dotted",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T15:59:48+00:00",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_msss_04989_mhli_4989MH0001710001803430R00_DXXX.jpg?w=1584&h=1184&fit=clip&crop=faces%2Cfocalpoint",
-    "source_name": "SCIENCE.NASA.GOV"
   }
 ]
