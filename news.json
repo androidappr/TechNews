@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+    "title": "Why AI food looks like that",
+    "description": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and stringy chicken. There's also construction material masquerading as ice cream, ice cream masquerading",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-04T11:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268722_Why_does_AI_food_look_like_that_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260904/p9#a260904p9",
+    "title": "Report and sources: rogue OpenAI agents hijacked a German website in May and turned it into a forum for agents, sharing tactics to cheat on tasks and more (Reuters)",
+    "description": "Reuters:\nReport and sources: rogue OpenAI agents hijacked a German website in May and turned it into a forum for agents, sharing tactics to cheat on tasks and more  —  A swarm of rogue OpenAI agents hijacked a German website this spring and transformed it into a bulletin board for other AI agents …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-04T10:55:00+00:00",
+    "image_url": "http://www.techmeme.com/260904/i9.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260904/p10#a260904p10",
+    "title": "Letters: US military branches disabled ad trackers on government-issued devices amid reports of location data being used to target US forces in the Middle East (Raphael Satter/Reuters)",
+    "description": "Raphael Satter / Reuters:\nLetters: US military branches disabled ad trackers on government-issued devices amid reports of location data being used to target US forces in the Middle East  —  U.S. military officials say they have disabled advertising trackers on a range of phones and computers, according to letters released …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-04T10:55:00+00:00",
+    "image_url": "http://www.techmeme.com/260904/i10.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260904/p8#a260904p8",
     "title": "Bank of Korea: South Korea's monthly memory chip output is set to grow by ~600K wafers by 2028, widening its lead over China's CXMT, set to grow by ~300K wafers (Yoolim Lee/Bloomberg)",
     "description": "Yoolim Lee / Bloomberg:\nBank of Korea: South Korea's monthly memory chip output is set to grow by ~600K wafers by 2028, widening its lead over China's CXMT, set to grow by ~300K wafers  —  South Korea's lead over China in memory chip production is expected to widen further thanks to an aggressive expansion …",
@@ -861,7 +896,6 @@
     "title": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick",
     "description": "Following the lead of companies like Xteink, Lexar is the latest to sacrifice a USB-C port in the pursuit of slimming down its hardware. When the Lexar Muse Ultra-Slim Portable SSD launches later this year in 512GB and 1TB capacities it will be one of the slimmest you can buy. At its thickest point in",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-04T07:00:00+00:00",
@@ -873,7 +907,6 @@
     "title": "Aqara goes all in on smart lighting",
     "description": "After showing off several smart home firsts at CES, Aqara has returned to IFA with a major lineup of smart lighting compatible with both Zigbee and Thread. One of these new devices is the Floor Lamp T1, which trades the look of a typical lamp for an LED-equipped pole attached to a base. The lamp",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-04T07:00:00+00:00",
@@ -1017,17 +1050,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.wired.com/story/mattress-firm-coupon/",
-    "title": "Mattress Firm Coupons: Save up to $700",
-    "description": "Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-04T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/foreo-promo-code/",
     "title": "Foreo Discount Codes and Deals: Up to 50% Off",
     "description": "Save on Foreo favorites, including LUNA cleansing brushes, BEAR microcurrent devices, and masks and accessories to level up your daily skincare routine at home.",
@@ -1058,6 +1080,17 @@
     ],
     "pub_date": "2026-09-04T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/mattress-firm-coupon/",
+    "title": "Mattress Firm Coupons: Save up to $700",
+    "description": "Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-04T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
     "source_name": "WIRED.COM"
   },
   {
@@ -1615,17 +1648,6 @@
     "source_name": "THENEXTWEB.COM"
   },
   {
-    "link": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
-    "title": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
-    "description": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which puts it on the really expensive end of power banks with only a 10,000mAh battery, but",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-03T22:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ugreen1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.engadget.com/2250749/ugreen-smart-home-ecosystem-built-around-local-ai-hubs/",
     "title": "Ugreen's new smart home ecosystem is built around local AI hubs",
     "description": "Ugreen has three new hubs that run your smart home with local AI rather than the cloud. The top model runs on Nvidia's Jetson Thor platform and costs $20,000.",
@@ -1657,6 +1679,17 @@
     "pub_date": "2026-09-03T22:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/4jBGtTS5BxLGypGzQB9FK-1280-80.jpg",
     "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
+    "title": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
+    "description": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which puts it on the really expensive end of power banks with only a 10,000mAh battery, but",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-03T22:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ugreen1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.techradar.com/cameras/360-cameras/ive-reviewed-all-the-major-360-cameras-from-insta360-and-dji-but-this-usd300-gopro-max-2-labor-day-deal-is-easily-the-best-value",
@@ -2231,38 +2264,5 @@
     "pub_date": "2026-09-03T19:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/f82J97EsiDrRU6srcnse24-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
-    "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
-    "description": "Pro soccer team's CTO points to \"issues with the Broadcom takeover.\"",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T18:58:31+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Tottenham-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/services-and-software/sept-3-claude-chatgpt-grok-widespread-ai-outages/",
-    "title": "AI’s Very Bad Morning: Claude, ChatGPT and Grok Had Outages at the Same Time",
-    "description": "No official cause for the multiple outages has yet been revealed.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-03T18:55:59+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/87b4eb30-1aad-4fca-a417-3235e48fe46c.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2250621/beyerdynamics-new-aventho-y-headphones-last-up-to-90-hours-per-charge/",
-    "title": "Beyerdynamic's new Aventho Y headphones last up to 90 hours per charge",
-    "description": "This is especially noteworthy, as the cans cost just $150.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-03T18:49:59+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/beyerdynamics-new-aventho-y-headphones-last-up-to-90-hours-per-charge/l-intro-1788460691.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
