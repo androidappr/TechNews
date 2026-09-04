@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://mashable.com/tech/tesla-cybercabs-investigation",
+    "title": "Tesla launched Cybercab in Austin. Hours later, the feds launched an investigation.",
+    "description": "Tesla's Cybercabs are now operating without drivers in Austin, but the federal government is intervening.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-04T22:18:34+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01AVg4tXCDZJBK23FLeInt7/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.cnet.com/tech/mobile/iphone-fold-what-we-know-so-far-about-apples-2026-foldable-before-september-9/",
     "title": "Apple’s Foldable iPhone Ultra Launch May Be Days Away, if You Can Get One",
     "description": "The iPhone 18 Pro could be upstaged by Apple’s first foldable this year, though the iPhone Ultra might be hard to get at launch.",
@@ -136,6 +148,7 @@
     "title": "Tesla’s Cybercab Opened Up to Riders — and the Feds Opened an Investigation",
     "description": "The National Highway Traffic Safety Administration is examining whether the self-driving vehicle meets federal safety standards.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-04T20:42:01+00:00",
@@ -320,8 +333,8 @@
   },
   {
     "link": "https://www.techmeme.com/260904/p26#a260904p26",
-    "title": "OpenAI rolls out GPT-6 Astra to Pro, Enterprise, and Business Premium users in ChatGPT Work and Codex and in the API (Zac Hall/9to5Mac)",
-    "description": "Zac Hall / 9to5Mac:\nOpenAI rolls out GPT-6 Astra to Pro, Enterprise, and Business Premium users in ChatGPT Work and Codex and in the API  —  Update: A day later, GPT-6 Astra is rolling out to Pro customers on the $100/month or $200/month plan.  This follows other new model releases before Plus customers on the $20/month plan gain access.",
+    "title": "OpenAI rolls out GPT-6 Astra to Plus, Pro, Enterprise, and Business Standard and Premium users in ChatGPT Work and Codex and in the API (Zac Hall/9to5Mac)",
+    "description": "Zac Hall / 9to5Mac:\nOpenAI rolls out GPT-6 Astra to Plus, Pro, Enterprise, and Business Standard and Premium users in ChatGPT Work and Codex and in the API  —  Update: A day later, GPT-6 Astra is rolling out to Business and Pro customers on the $100/month or $200/month plan.  This follows other new model releases …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -451,7 +464,6 @@
     "title": "These hikers relied on tech and AI. They had to be rescued.",
     "description": "Three men tried to summit a 14,000-foot peak without the right preparation.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-04T18:32:46+00:00",
@@ -2298,16 +2310,5 @@
     "pub_date": "2026-09-04T12:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/how-to-edit-claudes-memory/l-intro-1787857357.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/mobile/i-took-the-pixel-11-pro-and-iphone-17-pro-around-delhi-and-i-know-which-phone-cameras-the-best-for-me/",
-    "title": "I Took the Pixel 11 Pro and iPhone 17 Pro Around Delhi, and I Know Which Phone Camera’s the Best for Me",
-    "description": "The Pixel 11 Pro debuted this summer with some new camera enhancements, and I wanted to see how it shapes up against the iPhone 17 Pro ahead of Apple’s Sept. 9 event.",
-    "categories": [
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-09-04T12:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Prakhar-Khanna-Pixel-11-Pro-iPhone-17-Pro.jpg",
-    "source_name": "CNET.COM"
   }
 ]
