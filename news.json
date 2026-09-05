@@ -1,5 +1,85 @@
 [
   {
+    "link": "https://mashable.com/tech/best-laptops-college-2026-expert-tested",
+    "title": "The 6 best laptops for college students at school this fall",
+    "description": "We reviewed the best laptops for college students going back to school this fall, including the top MacBooks and Windows PCs.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-05T13:43:08+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/roundups/03wtqtjyKfxAKmKegtl662V/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/kempower-white-paper-more-plugs-less-power-charging-utilisation-afir-kilowatt-targets-europe",
+    "title": "More plugs beat more power, a Finnish charger maker says",
+    "description": "A white paper from the Finnish charger maker Kempower argues that adding connectors raises site utilisation far more than adding power, with eight-plug sites reaching almost 10% against 2% for two-plug sites. Every AFIR target is expressed in kilowatts or kilometres rather than in numbers of connectors. A Finnish charger maker has published a white",
+    "categories": [
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-05T13:35:13+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/nyc-600-curbside-ev-chargers-plugnyc-expansion.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/phones/rugone-xnap-7-pro-hands-on",
+    "title": "This rugged Android phone does something I've never seen before",
+    "description": "The RugOne Xsnap 7 Pro sports a detachable action camera and a massive 9,300mAh battery, making it a potential must-have for outdoor enthusiasts, vloggers, and explorers.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-05T13:33:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ZCo7d3uNbDqdwEYRrrG8r4-1280-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2247782/how-to-check-hard-drive-health-macbook/",
+    "title": "How to check your MacBook's hard drive health",
+    "description": "Your MacBook's storage is vitally important. If your SSD or hard drive goes kaput without a backup, getting your files back can sometimes be impossible.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-05T13:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-to-check-your-macbooks-hard-drive-health/l-intro-1787932638.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/why-is-there-so-much-worry-about-openai-astra-and-what-issues-could-recurrent-depth-reasoning-cause-the-experts-weigh-in",
+    "title": "Why is there so much worry about OpenAI Astra, and what issues could ‘recurrent depth’ reasoning cause? The experts weigh in",
+    "description": "As OpenAI unveils GPT-6 Astra, cybersecurity experts question whether the model's 'recurrent depth' reasoning was properly tested.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-05T13:30:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/S8KxZGx6n8eh2LiPG7yz36-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/phones/iphone-18-pro-iphone-ultra-colors",
+    "title": "Forget Cosmic Orange — these are the iPhone 18 Pro and iPhone Ultra colors you can expect this week, according to leaks",
+    "description": "Colors for the iPhone 18 Pro and iPhone Ultra have appeared in new leaks —here’s what we know.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-05T13:30:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/3CbRMhRDg5cDMbT5VgAEpa-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/tech/researchers-report-on-a-solar-storm-that-caused-a-gps-glitch-serious-enough-to-crash-self-driving-cars",
+    "title": "Researchers report on a solar storm that caused a GPS glitch serious enough to crash self-driving cars",
+    "description": "The solar storm that hit Earth last November was more severe than most, and we need to be prepared for the next one.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-05T13:30:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/9Km7ky9AU7NcrTGcdP5ZTe-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/sam-altman-apple-fanboy-egregious-quote-openai-trade-secrets-lawsuit-california-non-compete-void-germany-50-percent",
     "title": "Sam Altman calls himself a mega Apple fanboy and says the lawsuit made him sad",
     "description": "Sam Altman said he was very sad about Apple’s trade-secrets lawsuit and that his first reaction was that the allegations sounded egregious, while OpenAI has moved to have the case dismissed. California voids non-compete agreements, so an employer losing engineers has to litigate afterwards rather than restrain them in advance. Sam Altman called himself “a",
@@ -684,7 +764,6 @@
     "title": "In response to the \"wiki incident\", OpenAI says it is working on a framework for reporting misalignment incidents during training, evaluation, and deployment (@openai)",
     "description": "@openai:\nIn response to the “wiki incident”, OpenAI says it is working on a framework for reporting misalignment incidents during training, evaluation, and deployment  —  How we think about the “wiki incident,” where our agents wrote to several internet sites: it's past time for us …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-05T07:35:25+00:00",
@@ -2179,86 +2258,5 @@
     "pub_date": "2026-09-04T15:48:18+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/qNLgpZ6nDjvy3692v79aRH-1280-80.png",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/04/leaked-iphone-roadmap-reveals-plans-for-larger-foldable-biggest-overhaul-more/",
-    "title": "Leaked iPhone roadmap reveals plans for larger foldable, ‘biggest overhaul,’ more",
-    "description": "Apple is launching new iPhones next week, and a Bloomberg report today details what to expect from those models as well as the roadmap for 2027 and 2028 debuts.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-04T15:48:03+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tim-cook-iphone-15-launch.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
-    "title": "Trump White House just tossed a grenade into international space relations",
-    "description": "\"Let me be clear: America is not only welcome—we want you there.\"",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-04T15:46:33+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2019/08/GettyImages-1164167940-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/ugreens-six-bay-dxp6800-pro-nas-has-10gbe-networking-but-id-spend-another-usd92-on-this-trendnet-switch-for-faster-transfers",
-    "title": "Ugreen's six-bay DXP6800 Pro NAS has 10GbE networking, but I'd spend another $92 on this TRENDnet switch for faster transfers",
-    "description": "If you're a small business buying Ugreen's DXP6800 Pro NAS, I recommend adding this TRENDnet 10GbE switch for maximum network speeds.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-04T15:44:05+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/hJbcJ86DHJ7wwqg27eae3T-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-labor-day-apple-deals-live-2026",
-    "title": "The best Labor Day Apple deals: We found AirPods starting at $99 and iPads for $399",
-    "description": "Labor Day Apple deals on iPads, iPhones, MacBooks, AirPods, and AirTags are live at Amazon and Best Buy. Here are our top finds so far.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-04T15:43:02+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/068b2G8I81tJv6DMrpIOkB7/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-    "title": "The best tech and gadgets announced at IFA so far",
-    "description": "The doors to Europe's largest consumer tech show officially opened to the public today following a week of news coming out of IFA 2026 in Berlin, Germany. If you're struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show - including a smartphone",
-    "categories": [
-      "Gadgets & Hardware",
-      "Gaming"
-    ],
-    "pub_date": "2026-09-04T15:41:17+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/besttop.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/moonshot-hong-kong-ipo-5bn-export-controls-capital",
-    "title": "Export controls went after China’s chips. They never touched the capital, and Moonshot is reportedly seeking $5bn.",
-    "description": "Moonshot AI is considering raising up to $5bn in a Hong Kong initial public offering as soon as this year, Bloomberg reported on Friday. Dong Cao, Julia Fioretti, Pei Li and Luz Ding sourced the account to people familiar with the matter, who asked not to be identified because the information is private. The Beijing lab",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Gadgets & Hardware",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-09-04T15:40:13+00:00",
-    "image_url": "https://media.thenextweb.com/2026/08/Moonshot-AI-logo.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260904/p21#a260904p21",
-    "title": "Review: GPT-6 Astra can adeptly use tools like Unreal Engine to build complex environments, such as a civilization with Unreal's autonomous MetaHuman characters (Matt Shumer/Something Big Is Happening)",
-    "description": "Matt Shumer / Something Big Is Happening:\nReview: GPT-6 Astra can adeptly use tools like Unreal Engine to build complex environments, such as a civilization with Unreal's autonomous MetaHuman characters  —  Everyday work, ambitious experiments, and the Manager Loop. … For nearly a year, OpenAI models were my unquestioned default …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-04T15:40:00+00:00",
-    "image_url": "http://www.techmeme.com/260904/i21.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
