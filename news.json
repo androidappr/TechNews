@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.techmeme.com/260904/p34#a260904p34",
+    "title": "Microsoft court filings: an expert hired by publishers found that only ~60K of 8.2M Copilot chat logs contained at least 16 words in common with news content (Lauren Feiner/The Verge)",
+    "description": "Lauren Feiner / The Verge:\nMicrosoft court filings: an expert hired by publishers found that only ~60K of 8.2M Copilot chat logs contained at least 16 words in common with news content  —  Fewer than 1 percent of more than 8 million chat logs regurgitated at least 16 words. … Microsoft's Copilot rarely reproduces …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-05T00:10:00+00:00",
+    "image_url": "http://www.techmeme.com/260904/i34.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260904/p33#a260904p33",
+    "title": "Nvidia says it plans to bring DLSS 5 to older RTX 40-series GPUs \"once RTX 50 Series performance is more fully tuned\" (Sean Hollister/The Verge)",
+    "description": "Sean Hollister / The Verge:\nNvidia says it plans to bring DLSS 5 to older RTX 40-series GPUs “once RTX 50 Series performance is more fully tuned”  —  Nvidia won't confirm that previously announced DLSS 5 games will still ship with the tech. … But unofficially, modders have already ported a leaked version …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-05T00:05:21+00:00",
+    "image_url": "http://www.techmeme.com/260904/i33.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/google-adds-voice-commands-to-gmail-docs-and-keep-for-some-users/",
+    "title": "Google Adds Voice Commands to Gmail, Docs and Keep for Some Users",
+    "description": "The new features are only available on some tiers for Google Workspace subscribers.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-04T23:46:18+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Google-AI-Voice.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
     "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
     "description": "The round is being raised just months after the robot data startup exited from stealth.",
@@ -315,7 +350,6 @@
     "title": "Flock cameras are officially banned on state roads in Florida",
     "description": "Florida joins a growing list of cities and states responding to the license plate reader backlash.",
     "categories": [
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-09-04T20:10:41+00:00",
@@ -629,7 +663,6 @@
     "description": "GPT-6 Astra was paused a month ago for triggering safety protocols and now it's being slowly rolled out.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-09-04T18:10:00+00:00",
@@ -2275,40 +2308,5 @@
     "pub_date": "2026-09-04T12:51:30+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/04F04Qcm3X4slbtQ3fDsOuQ/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/gpt-6-astra-lays-the-foundations-for-a-new-way-of-reasoning-a-great-tool-for-businesses-but-experts-have-their-concerns",
-    "title": "GPT-6 Astra lays the foundations for a new way of reasoning — a great tool for businesses but experts have their concerns",
-    "description": "OpenAI just changed how GPT-6 reasons, and it's also set to be a much better user of your computer and apps from the get-go.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-09-04T12:50:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/S8KxZGx6n8eh2LiPG7yz36-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys/",
-    "title": "Rocket Report: Engines installed for Artemis III; Long March 6C breakup in LEO",
-    "description": "Two of Europe's leading launch startups announced new fundraising this week.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-04T12:48:36+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/KSC-20260901-PH-RCR02_0049orig-1152x648-1788507222.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.techradar.com/seasonal-sales/samsungs-latest-2026-tvs-are-finally-getting-big-discounts-here-are-the-6-our-experts-would-buy-including-micro-rgb-oled-and-more",
-    "title": "Samsung's latest 2026 TVs are finally getting big discounts — here are the 6 our experts would buy, including Micro RGB, OLED, and more",
-    "description": "The brand's latest TVs haven't been this cheap before  — get up to $1,100 off the S90H, S95H, R85H, and more",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-04T12:45:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/BGXQKuHB3VH3xaaPpGzmbM-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
