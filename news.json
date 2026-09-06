@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://thenextweb.com/news/openai-slowdown-pachocki-alien-mind-research-intern-compute",
+    "title": "OpenAI’s chief scientist says no lab should keep scaling at maximum speed",
+    "description": "OpenAI published two posts on Sunday. One says its researchers now get 3.1 days of machine work for every day they put in themselves. The other says nobody should be going this fast. Both are on the company’s own site, dated 6 September, three days after it shipped GPT-6 Astra. The chief scientist wants a",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-06T22:14:05+00:00",
+    "image_url": "https://media.thenextweb.com/2026/04/OpenAI-lawsuite.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2248744/slate-truck-not-available-outside-united-states/",
+    "title": "The Slate Truck is great, but this one problem may stop a lot of folks from buying it",
+    "description": "Slate's build-a-truck model aims to keep costs low by only including features you'll use. But it won't be popular outside the U.S.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-06T22:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/the-slate-truck-is-great-but-this-one-problem-may-stop-a-lot-of-folks-from-buying-it/l-intro-1788281831.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/ascii-smuggling-phishing-microsoft-unicode-tag-characters",
+    "title": "An AI hacking trick is now being used to split the word ‘funding’ in spam",
+    "description": "For two years, invisible Unicode characters have been the neat trick of AI security research. You hide instructions inside them. A person sees nothing. A language model reads them and does as it is told. Microsoft has now found somebody using the same characters for something far less clever. They were splitting up the word",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-06T21:54:26+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/Microsoft-logo.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/anthropic-ipo-mid-october-midterms-15bn-credit-facility",
     "title": "Anthropic will reportedly list days before the US midterm elections",
     "description": "Anthropic’s stock market debut has moved, and the new date puts it days away from a national election. Reuters reported on Friday that the company expects to start marketing its offering in mid-October at the earliest. The listing would then complete shortly before the US midterms in November. Echo Wang had the story from people",
@@ -88,6 +124,7 @@
     "title": "OpenAI Chief Scientist Jakub Pachocki says no lab has solved alignment enough to keep scaling at maximum speed, and hopes voluntary slowdowns become commonplace (OpenAI)",
     "description": "OpenAI:\nOpenAI Chief Scientist Jakub Pachocki says no lab has solved alignment enough to keep scaling at maximum speed, and hopes voluntary slowdowns become commonplace  —  Author: Jakub Pachocki, Chief Scientist at OpenAI  —  In mid-2023, within the “RLSlow” research project …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-06T20:25:00+00:00",
@@ -764,6 +801,17 @@
     "source_name": "THEVERGE.COM"
   },
   {
+    "link": "https://www.techradar.com/cameras/photography/its-the-singer-not-the-song-wildlife-photographer-of-the-year-contender-sparks-huge-debate-about-whether-camera-gear-actually-matters-as-decade-old-nikon-dslr-captures-wild-shot",
+    "title": "‘It’s the singer, not the song’: Wildlife Photographer of the Year contender sparks huge debate about whether camera gear actually matters — as decade-old Nikon DSLR captures ‘wild shot’",
+    "description": "Instead of focusing on the amazing shortlisted entry for Wildlife Photographer of the Year 2026 (and the spritely age of the photographer), comments focused on the camera gear. So, we ask: How much does your camera gear really matter?",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-06T12:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/tU2y9cy7hCpY5nYJWnJLSb-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.engadget.com/2247891/claude-help-manage-emails-risks-involved/",
     "title": "Claude can help manage your email inbox, but there are some risks involved",
     "description": "AI has been known to mess up some pretty basic things, but Claude wants to help you with your emails.",
@@ -774,17 +822,6 @@
     "pub_date": "2026-09-06T12:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/claude-can-help-manage-your-email-inbox-but-there-are-some-risks-involved/l-intro-1788200929.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/cameras/photography/its-the-singer-not-the-song-wildlife-photographer-of-the-year-contender-sparks-huge-debate-about-whether-camera-gear-actually-matters-as-decade-old-nikon-dslr-captures-wild-shot",
-    "title": "‘It’s the singer, not the song’: Wildlife Photographer of the Year contender sparks huge debate about whether camera gear actually matters — as decade-old Nikon DSLR captures ‘wild shot’",
-    "description": "Instead of focusing on the amazing shortlisted entry for Wildlife Photographer of the Year 2026 (and the spritely age of the photographer), comments focused on the camera gear. So, we ask: How much does your camera gear really matter?",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-06T12:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/tU2y9cy7hCpY5nYJWnJLSb-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
@@ -2208,38 +2245,5 @@
     "pub_date": "2026-09-05T11:35:18+00:00",
     "image_url": "https://media.thenextweb.com/2026/07/big-tech-2-trillion-ai-spending-commitments-bloomberg.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2251521/remote-work-as-a-worm-colorful-platformers-and-other-new-indie-games-worth-checking-out/",
-    "title": "Remote work as a worm, colorful platformers and other new indie games worth checking out",
-    "description": "Here are the new indie games worth checking out, plus an early look at shipbuilding, I Am Your Beast DLC and a cat trying to stop an AI office takeover.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-05T11:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/remote-work-as-a-worm-colorful-platformers-and-other-new-indie-games-worth-checking-out/l-intro-1788554876.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.cnet.com/home/dyson-went-bonkers-during-ifa-2026-here-are-all-10-of-its-new-products/",
-    "title": "Dyson Went Bonkers During IFA 2026: Here Are all 10 of Its New Products",
-    "description": "Dyson popped off at a launch event in Berlin, introducing a whopping 10 new products.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-05T11:23:18+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-09-05-at-12.58.39-PM.png",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-    "title": "OpenAI admits to German wiki ‘incident’",
-    "description": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-05T11:15:55+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
