@@ -11,18 +11,28 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
-    "title": "My Brief Summer Fling With Siri AI",
-    "description": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
+    "link": "https://www.techradar.com/computing/gpu/i-was-an-nvidia-dlss-5-sceptic-but-here-are-5-reasons-why-im-now-hopeful-that-itll-revolutionize-graphics-in-pc-games",
+    "title": "I was an Nvidia DLSS 5 sceptic —but here are 5 reasons why I'm now hopeful that it'll revolutionize graphics in PC games",
+    "description": "It's been a big week for Nvidia's next instalment of DLSS, with the tech seemingly reaching a major turning point.",
     "categories": [
-      "AI & Machine Learning",
       "Breaking News",
-      "Gadgets & Hardware",
-      "Software & Apps"
+      "Gaming"
     ],
-    "pub_date": "2026-09-06T10:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6a9957d8075950c219e951f8/master/pass/GettyImages-2255802594.jpg",
-    "source_name": "WIRED.COM"
+    "pub_date": "2026-09-06T11:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/6rLn9bm594drr7izET26mG-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/how-to-watch/tv-shows/futurama-season-14",
+    "title": "How to watch Futurama season 14 online – stream latest episodes of animated sci-fi sitcom from anywhere",
+    "description": "Swaggering space pirates, lab-grown meats, sexy scams... The Planet Express crew are back for more, here's how to watch Futurama season 14 from anywhere.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-06T11:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/72NfexccWB9bbs4Y3p4Pwd-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://www.wired.com/story/cyborg-cockroaches-disaster-response/",
@@ -34,6 +44,20 @@
     ],
     "pub_date": "2026-09-06T10:30:00+00:00",
     "image_url": "https://media.wired.com/photos/6a9af4664c28b30a706b7171/master/pass/eait-mda-2026-cyborg-cockroach-16.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+    "title": "My Brief Summer Fling With Siri AI",
+    "description": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-06T10:30:00+00:00",
+    "image_url": "https://media.wired.com/photos/6a9957d8075950c219e951f8/master/pass/GettyImages-2255802594.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -2213,28 +2237,5 @@
     "pub_date": "2026-09-04T22:18:34+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/01AVg4tXCDZJBK23FLeInt7/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-    "description": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-04T22:17:36+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/mobile/iphone-fold-what-we-know-so-far-about-apples-2026-foldable-before-september-9/",
-    "title": "Apple’s Foldable iPhone Ultra Launch May Be Days Away, if You Can Get One",
-    "description": "The iPhone 18 Pro could be upstaged by Apple’s first foldable this year, though the iPhone Ultra might be hard to get at launch.",
-    "categories": [
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-09-04T22:03:08+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/bc58c3fe-086a-4d0c-ad35-c83fb9b0d8e6.png",
-    "source_name": "CNET.COM"
   }
 ]
