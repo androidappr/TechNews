@@ -1,5 +1,42 @@
 [
   {
+    "link": "https://thenextweb.com/news/cato-6m-seed-ai-italian-public-tenders",
+    "title": "Cato raises €6m to sell AI into Italy’s €309.7bn tender market",
+    "description": "The investment case for Cato is unusual. Most software sells on the promise of making a hard thing easy. Cato’s backers are betting that a hard thing stays hard. The Milan startup has raised €6m in seed funding to sell AI to companies bidding for Italian public tenders. Keen Venture Partners, the Amsterdam and London",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-07T18:06:08+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/andrea-zorzetto-matteo-bossolini-cato-founders.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/another-rowhammer-attack-has-been-detected-and-nvidia-workstation-gpus-are-firmly-in-the-firing-line",
+    "title": "Another Rowhammer attack has been detected, and Nvidia workstation GPUs are firmly in the firing line",
+    "description": "Nvidia spent a year telling people ECC was the answer to GPU Rowhammer. GPUThor might have just proved them wrong.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-07T18:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/D9pZcgdPinp5ty7pPDjKeY-1280-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+    "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+    "description": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-07T18:02:29+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://www.engadget.com/2249082/how-to-make-iphone-alarm-ring-full-volume-while-calls-muted/",
     "title": "How to make your iPhone's alarm ring at full volume even when your calls are muted",
     "description": "Apple's sound settings often meant you'd sleep through your iPhone alarm if you lowered the volume before you went to bed. With its new update, that is no more.",
@@ -921,7 +958,6 @@
     "title": "The US raises censorship concerns over the UK's proposals to force tech platforms to put \"trustworthy\" news providers at the top of social and video feeds (Charlotte Tobitt/Press Gazette)",
     "description": "Charlotte Tobitt / Press Gazette:\nThe US raises censorship concerns over the UK's proposals to force tech platforms to put “trustworthy” news providers at the top of social and video feeds  —  News Media Association warns forcing prominence for ‘trustworthy’ news could end up harming sector.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-07T14:10:20+00:00",
@@ -2280,40 +2316,5 @@
     "pub_date": "2026-09-07T09:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/8ofKa4iq2BZakkqB37tmhL-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/how-to-watch/tv-shows/colin-from-accounts-season-3-free",
-    "title": "How to watch Colin From Accounts season 3 online for FREE – stream final run of acclaimed sitcom from anywhere",
-    "description": "After the disastrous proposal, there's some soul searching to do for Gordon and Ashley. Here's how to watch Colin From Accounts season 3 online from anywhere.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-07T09:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/KXKH9VDXUafrUjG6nESLT5-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/udinese-lazio-serie-a-2026-live-stream-for-free",
-    "title": "How to watch Udinese vs. Lazio online for free",
-    "description": "How to watch Serie A for free. Live stream Udinese vs. Lazio in Serie A for free from anywhere in the world.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-07T09:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04SRP1aIq6R49oRVxkT1fqi/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/life/sept-7-roots-daily-reflections-lifetime-subscription",
-    "title": "Get lifetime access to structured philosophy lessons for $30",
-    "description": "Get a lifetime subscription to Roots Daily Reflections & Philosophy for $29.99 (reg. $59), with guided lessons on Stoicism, Buddhism, meaning and more.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-07T09:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03vQGStzvgcIWKcVKkbRtrr/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
