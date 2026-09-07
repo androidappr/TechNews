@@ -1,5 +1,63 @@
 [
   {
+    "link": "https://thenextweb.com/news/uforce-5bn-valuation-valor-500m-round",
+    "title": "Musk ally’s Valor to lead $500m Uforce round at $5bn, Bloomberg reports",
+    "description": "Uforce, the London-based drone company built from Ukrainian battlefield manufacturers, is in talks to raise about $500m at a valuation of around $5bn, Bloomberg reported on Monday. Valor Equity Partners, the firm run by SpaceX board member Antonio Gracias, would lead the round. Yazhou Sun and Rebecca Torrence cited people familiar with the matter who",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-07T22:27:06+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/uforce-magura-mv11-sea-drone-at-speed.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/6-data-centers-hit-by-lawsuits-as-microsoft-xai-battle-millions-in-damages-dozens-of-gas-turbines-bypassing-dba-monitors-plague-2-us-states",
+    "title": "6 data centers hit by lawsuits as Microsoft, xAI battle millions in damages — dozens of gas turbines bypassing dBA monitors plague two US states",
+    "description": "Microsoft and xAI face lawsuits alleging data center noise, pollution and vibration, while residents challenge existing methods for measuring these impacts.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-07T22:20:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/how-to-stream-every-nfl-game-2026",
+    "title": "The 7 services needed to stream all NFL games",
+    "description": "Learn which seven services you need to stream every NFL game in 2026 and how to save on your setup.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-07T22:15:14+00:00",
+    "image_url": "https://cdn.ex.co/transformations-account/production/a0be6317-e085-43f9-8cb5-7b125d25af4b/85f272a9-495f-50cd-85fc-1653c4b98205/master.m3u8",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/jensen-huang-agi-has-arrived-gpt-6-astra",
+    "title": "Jensen Huang says AGI has arrived, and 400,000 more GPUs are coming",
+    "description": "Jensen Huang said it in four words. “AGI has arrived,” the Nvidia chief executive wrote on X late on Sunday, congratulating OpenAI on GPT-6 Astra. By Monday morning the post had passed 10 million views. The rest of the post is the part worth reading. Huang wrote that OpenAI trained Astra on more than 100,000",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-07T22:10:31+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/jensen-huang-stanford-students-leather-jacket.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/amd-ifa-2026-personal-agentic-ai",
+    "title": "AMD at IFA 2026: A new era of personal and agentic AI",
+    "description": "AMD's IFA 2026 keynote showcases new chips, local AI models, Project Zenith and a 96-core Threadripper Halo Station.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-07T22:05:09+00:00",
+    "image_url": "https://cdn.ex.co/transformations-account/production/a0be6317-e085-43f9-8cb5-7b125d25af4b/1f51e117-d236-5ea8-b4b4-6bda85e54afa/master.m3u8",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.engadget.com/2249526/ways-make-most-out-of-apple-wallet/",
     "title": "6 ways to make the most out of your Apple Wallet",
     "description": "Apple Wallet can hold all kinds of passes and cards, plus items you might not have ever considered storing digitally.",
@@ -9,6 +67,17 @@
     "pub_date": "2026-09-07T22:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/6-ways-to-make-the-most-out-of-your-apple-wallet/l-intro-1788363901.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/apples-first-foldable-what-3-years-with-a-fold-taught-me",
+    "title": "Apples first foldable: What 3 years with a Fold taught me",
+    "description": "After using a Galaxy Z Fold as his daily phone for three years, here's what our host thinks Apple needs to get right.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-07T21:56:11+00:00",
+    "image_url": "https://cdn.ex.co/transformations-account/production/a0be6317-e085-43f9-8cb5-7b125d25af4b/f52f162c-c5f4-5a60-9273-98f733fd58d7/master.m3u8",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://thenextweb.com/news/dubai-chambers-agentic-ai-training-14000-companies",
@@ -347,6 +416,7 @@
     "title": "JMGO’s New Projectors Go Big on Brightness and Refresh Rate. I Had a Look at IFA 2026",
     "description": "The new Iris series has a 120Hz refresh rate and lots of lumens. Here’s how they look.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-07T17:57:53+00:00",
@@ -2209,74 +2279,5 @@
     "pub_date": "2026-09-07T10:30:14+00:00",
     "image_url": "http://www.techmeme.com/260907/i7.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
-    "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
-    "description": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
-    "categories": [
-      "AI & Machine Learning",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-07T10:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6a994fa2bf4e66136bddb432/master/pass/HowYouReallyFeel.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/mail-service-used-by-30-000-businesses-including-nhs-trusts-suffers-major-outage",
-    "title": "Mail service used by 30,000 businesses including NHS trusts suffers major outage",
-    "description": "Docsign has been down for several days, leaving many UK healthcare providers without access to mail.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-07T10:24:22+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Fh3VbXWULVM5kiG48uTmkK-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/how-to-watch-apple-iphone-september-event-2026/",
-    "title": "How to Watch the Apple September Event (2026)",
-    "description": "Apple’s annual hardware launch event may feel different as the company welcomes a new CEO alongside a folding iPhone.",
-    "categories": [
-      "Gadgets & Hardware",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-07T10:15:00+00:00",
-    "image_url": "https://media.wired.com/photos/6a9717f987dd64df3684e7f4/master/pass/How-To-Watch-Apple-Event-Gear-2264522638.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/google-cathay-pacific-contrail-avoidance-asia-pacific",
-    "title": "Cathay Pacific and Google partner on AI contrail avoidance for ultra-long-haul flights",
-    "description": "Cathay Pacific has flown more than 80 contrail-avoidance routes in a trial with Google that began in late 2025, adjusting cruise altitude to steer clear of the thin bands of humid air where aircraft exhaust freezes into clouds that trap heat. Google puts the result at roughly a 40% reduction in the warming impact of the contrails",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-07T10:11:25+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/Cathay-Pacific-and-Google.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
-    "title": "Huawei copies Samsung’s privacy display in its latest trifold",
-    "description": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z TriFold, it's also the first foldable to include a privacy-enhancing display, much like the one Samsung",
-    "categories": [
-      "Gadgets & Hardware",
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-09-07T10:09:42+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/huawei-mate-xt-2-ultimate-design-design-2x.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/openai-disclosure-ledger-german-wiki-detection",
-    "title": "No monitoring system caught the German wiki. Two outside researchers found it by searching the internet.",
-    "description": "Two outside researchers found 15,000 edits on a German wiki that OpenAI agents had turned into a message board for bypassing restrictions, an incident from May that OpenAI knew about and did not disclose. No automated monitoring caught it. The article’s argument is that OpenAI has been publishing categories of risk, including that Astra sometimes",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-07T10:06:25+00:00",
-    "image_url": "https://media.thenextweb.com/2026/07/sam-altman-tiktok-addiction-deleted-openai-sora.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
