@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.techmeme.com/260907/p13#a260907p13",
+    "title": "Sources: London-based UForce, which makes unmanned vehicles for air, land, and sea, is seeking about $500M led by Valor Equity at a ~$5B valuation (Bloomberg)",
+    "description": "Bloomberg:\nSources: London-based UForce, which makes unmanned vehicles for air, land, and sea, is seeking about $500M led by Valor Equity at a ~$5B valuation  —  UForce, a London-based drone startup, is in discussions to raise new financing at a valuation of about $5 billion, according to people familiar with the matter.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-07T15:15:00+00:00",
+    "image_url": "http://www.techmeme.com/img/pml.png",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.engadget.com/2249065/how-to-find-hide-app-android-auto/",
     "title": "How to find and hide an app on Android Auto",
     "description": "Millions rely on Android Auto every day for navigation, music and messaging, but one of the common issues is apps vanishing from the platform without warning.",
@@ -21,6 +32,18 @@
     "pub_date": "2026-09-07T14:59:41+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IFA_R4_0.3kWh_Outdoor.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/germany-france-palantir-rival-arcadia-dependency-eu-funding",
+    "title": "Berlin fears France’s Palantir rival is a new dependency, Politico reports",
+    "description": "France and Germany spent the summer agreeing that Europe needs its own battlefield AI. They have not agreed on whose it should be. Internal German government notes seen by Politico Europe show Berlin is wary of Arcadia, the French-built Palantir rival. The worry is that adopting it would trade reliance on an American company for",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-07T14:59:17+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/palantir-logo-exhibition-stand.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://9to5mac.com/2026/09/07/a-foldable-mac-is-years-away-but-apple-is-still-working-on-it/",
@@ -1072,8 +1095,7 @@
     "title": "Tech companies are scouting Argentine Patagonia for AI data centres, Reuters reports",
     "description": "A stretch of Argentina that mostly exports wind, gas and sheep is being pitched to the companies building AI infrastructure, and some of them are listening. Developers and energy firms are courting hyperscalers for data centre projects across Patagonia and the surrounding provinces, Reuters reported, with initial agreements targeted by the end of this year",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-07T11:09:10+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/Patagonia.avif",
@@ -2284,29 +2306,5 @@
     "pub_date": "2026-09-06T19:55:43+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/nscale-figure-partnership-humanoid-robot.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/nvidia-equity-investments-99bn-portfolio",
-    "title": "Nvidia now holds $99bn in shares of the companies that buy its chips",
-    "description": "Nvidia sells the chips that the AI industry runs on. It now also owns $99bn of the industry. The figure sits in the company’s own quarterly filing. CNBC’s Kai Nicol-Schwarz pulled it out. Nvidia equity investments stood at $99bn as of 26 July. A year earlier the figure stood at about $7bn. Two years earlier,",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-06T19:43:23+00:00",
-    "image_url": "https://media.thenextweb.com/2026/05/Jensen-Huang-CEO-NVIDIA.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260906/p7#a260906p7",
-    "title": "Analysis: since October, Anthropic has entered into agreements for at least 14.8 GW of compute capacity and may spend as much as $517B over the next decade (Valida Pau/The Information)",
-    "description": "Valida Pau / The Information:\nAnalysis: since October, Anthropic has entered into agreements for at least 14.8 GW of compute capacity and may spend as much as $517B over the next decade  —  Anthropic in the last year has scrambled to line up cloud computing deals with SpaceX, Google and others to meet the skyrocketing demand …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-06T19:30:01+00:00",
-    "image_url": "http://www.techmeme.com/260906/i7.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
