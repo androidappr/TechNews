@@ -1,5 +1,42 @@
 [
   {
+    "link": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
+    "title": "Xiaomi’s wide foldable promises more power than Samsung’s",
+    "description": "Xiaomi is the latest manufacturer to release a short, wide foldable phone, in the same week Apple is expected to do the same. I got to try the 18 Fold behind closed doors at IFA last week, and while it looks and feels similar enough to Samsung's Galaxy Z Fold 8, superior specs make it",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-09-08T07:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xiaomi-18-fold-hands-on-impressions-10.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/anthropic-walks-away-decart-6bn-acquisition",
+    "title": "Anthropic has walked away from its $6bn Decart deal, Bloomberg reports",
+    "description": "Anthropic has decided against buying Decart AI, Bloomberg reported, citing people familiar with the matter who asked not to be identified. The company had explored a deal and completed due diligence before walking away, and one of those people said the two may still find other ways to work together. Representatives for both companies declined to",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-08T06:51:06+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/Anthropic-logo.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/phones/google-pixel/5-reasons-the-pixel-11-pro-xl-is-my-daily-driver",
+    "title": "5 reasons the Pixel 11 Pro XL is my daily driver",
+    "description": "The Pixel 11 Pro XL may not be the best all-rounder, but it has meaningful upgrades over its predecessor, and is just a delight to use.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-08T06:46:45+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Nh97BTUeL8taWf3WVPrQeh-1280-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/australia-social-media-algorithm-opt-out-duty-of-care",
     "title": "Australia will make platforms prompt users to switch off algorithmic feeds",
     "description": "Australia has published draft legislation that would require social media platforms to show users recurring prompts offering to turn the algorithmic feed off. The exposure draft of the Digital Duty of Care bill went out this week, Reuters reported, and carries penalties above A$100m for breaches. Plenty of jurisdictions have established that users should be able",
@@ -153,6 +190,7 @@
     "title": "Sources: Anthropic has walked away from talks to acquire Decart for ~$6B after performing due diligence on the startup (Bloomberg)",
     "description": "Bloomberg:\nSources: Anthropic has walked away from talks to acquire Decart for ~$6B after performing due diligence on the startup  —  Anthropic PBC has decided against acquiring artificial intelligence startup Decart AI, people familiar with the matter said.  —  Anthropic had been exploring a deal …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-08T02:05:01+00:00",
@@ -2223,42 +2261,6 @@
     ],
     "pub_date": "2026-09-07T12:49:12+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/07uYxcgt4fPKLm7zlmQ5ceQ/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/life/best-home-depot-labor-day-deals-2026-updates",
-    "title": "Home Depots Labor Day sale: Shop the best deals on grills, power tools, and outdoor gear",
-    "description": "The Home Depot Labor Day sale runs through Sept. 9. Here are the best deals on power tools, outdoor gear, grills, and more.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-07T12:43:19+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03NNCYhK1P5z6CIrG8Ngt04/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-labor-day-costco-deals-2026-updates",
-    "title": "Best Labor Day Costco deals: Shop Dell laptops, Bose headphones, Apple iPads, and more",
-    "description": "The best Labor Day deals from Costco. Find deals on Samsung, Apple, Bose, LG, and more.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-07T12:42:12+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06nukwfXOEpbtOulMzAToGD/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-labor-day-tv-deals-2026-live",
-    "title": "Best Labor Day TV deals: Our favorite deals on TCL, LG, Samsung, and more",
-    "description": "The best Labor Day TV deals include the best QLED and OLED TVs of 2026. Shop deals from TCL, Samsung, LG, and more.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-07T12:37:14+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00ZoMq9uoWlGUiKZmb2qvIO/hero-image.png",
     "source_name": "MASHABLE.COM"
   }
 ]
