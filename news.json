@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.engadget.com/2251124/benefits-restarting-pc-more-often/",
+    "title": "Is there any benefit to restarting your PC regularly?",
+    "description": "Rebooting your PC regularly is old advice, but how important is this today? And how often do you really need to restart?",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-08T23:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/is-there-any-benefit-to-restarting-your-pc-regularly/l-intro-1788535351.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260908/p44#a260908p44",
     "title": "Q&A with Mark Zuckerberg on Muse, the data center backlash, Meta's recent youth-safety settlement, privacy concerns about Meta's smart glasses, and more (Alex Heath/Sources)",
     "description": "Alex Heath / Sources:\nQ&A with Mark Zuckerberg on Muse, the data center backlash, Meta's recent youth-safety settlement, privacy concerns about Meta's smart glasses, and more  —  Meta's CEO joins me for an in-depth conversation on episode two of the Sources podcast.  —  When Mark Zuckerberg laid out his …",
@@ -11,7 +22,7 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.cnet.com/tech/services-and-software/meta-muse-ai-agent-personal-computer-2026-news/",
+    "link": "https://www.cnet.com/tech/services-and-software/meta-muse-ai-agent-personal-computer-2026-news-2/",
     "title": "Meta’s New AI Agent Wants to Get Personal With You",
     "description": "The new Meta Muse agent can complete tasks and do your online shopping.",
     "categories": [
@@ -355,8 +366,7 @@
     "title": "OpenAI now supplies the image models inside Adobe’s creative studio. It is also turning prompts into things you pass around.",
     "description": "OpenAI released ChatGPT Images 2.5 with two new API models, one of which Adobe has already put into Firefly. The company says more than 3 billion images a week are created across ChatGPT and its image API. The notable additions are interface features rather than model research, including the ability to share the prompt alongside",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-08T20:47:19+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/chatgpt-images-2-5-sample-outputs.avif",
@@ -649,7 +659,6 @@
     "title": "Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change",
     "description": "Chipmaking changes could boost productivity of new ASML machines by 40 percent.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware",
       "Government & Policy"
     ],
@@ -710,7 +719,6 @@
     "title": "Don't panic, but there's a Playdate Update Showcase tomorrow",
     "description": "A new season of Playdate games is coming, to be announced tomorrow.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-09-08T19:05:00+00:00",
@@ -1137,8 +1145,7 @@
     "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
     "description": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-08T17:32:15+00:00",
     "image_url": null,
@@ -2298,16 +2305,5 @@
     "pub_date": "2026-09-08T14:10:01+00:00",
     "image_url": "http://www.techmeme.com/260908/i20.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://science.nasa.gov/learning-resources/science-activation/1000-museum-visitors-dive-into-nasa-sea-level-science-on-world-ocean-day/",
-    "title": "1,000 Museum Visitors Dive Into NASA Sea Level Science on World Ocean Day",
-    "description": "More than 1,000 visitors explored NASA sea level science firsthand during World Ocean Day at the University of Georgia Aquarium on Skidaway Island on June 6, 2026.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-08T14:06:52+00:00",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/2026/AR_sandbox.jpg?w=799&h=533&fit=clip&crop=faces%2Cfocalpoint",
-    "source_name": "SCIENCE.NASA.GOV"
   }
 ]
