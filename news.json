@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+    "title": "Meta Releases Muse, a Personal AI Agent With Privacy ‘Built Into It’",
+    "description": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-08T20:12:51+00:00",
+    "image_url": "https://media.wired.com/photos/6a9e9eca147ff8c9409f7051/master/pass/MetaSignalAi.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/openai-navier-stokes-claim-verification-credit",
+    "title": "The mathematicians published machine-checkable proofs. OpenAI announced its result on a call with reporters.",
+    "description": "OpenAI says an internal model proved that 3D Navier-Stokes can develop a singularity in finite time, using about 10,000 agents over 88 hours. It described the result on a press call and had not published the proof. Tristan Buckmaster and Levent Alpoge, working on related problems, published preprints with Lean formalisations that anyone can machine-check.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-08T20:03:57+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/altman-white-house-openai-model-preview-agents.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2251017/roku-secret-menu-how-to-unlock/",
+    "title": "What is Roku's secret menu and how do you unlock it?",
+    "description": "Roku has multiple secret menus that will allow you to make changes to how it behaves and even adjust your ad preferences.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-08T20:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/what-is-rokus-secret-menu-and-how-do-you-unlock-it/l-intro-1788528910.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/south-korea-us-agree-on-usd22-billion-deal-for-6-3-gw-texas-gas-power-plant-encinal-facility-to-feed-ai-data-centers-under-washington-and-seouls-usd350-billion-pact",
+    "title": "South Korea, US agree on $22 billion deal for 6.3 GW Texas gas power plant — Encinal facility to feed AI data centers under Washington and Seoul's $350 billion pact",
+    "description": "South Korea reportedly plans $22.3 billion for a 6.3 GW Texas gas plant, though officials say negotiations remain unresolved",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-08T20:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/tHmeSzeFHMpEMVM3KENNUQ-1280-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260908/p39#a260908p39",
     "title": "Antioch, which creates high-fidelity simulations to reduce the need for hardware validation in physical AI training, raised a $32M Series A led by Greylock (John Koetsier/Forbes)",
     "description": "John Koetsier / Forbes:\nAntioch, which creates high-fidelity simulations to reduce the need for hardware validation in physical AI training, raised a $32M Series A led by Greylock  —  Figure AI pulled the wraps off Index last week.  It's a billion-dollar bet on real-world data for robot AI training …",
@@ -182,7 +232,7 @@
   {
     "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
     "title": "Meta bets on AI agent Muse to catch up in AI race",
-    "description": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion dollar strategy overhaul designed to revitalize the company's ailing position in the AI race and help it catch",
+    "description": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to revitalize the company's ailing position in the AI race and help it catch up",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -429,7 +479,7 @@
   },
   {
     "link": "https://www.techradar.com/gaming/nintendo-switch/the-zelda-40th-anniversary-edition-switch-2-console-and-controller-pre-orders-are-now-going-live-heres-where-you-can-grab-them-along-with-the-ocarina-remake",
-    "title": "The Zelda 40th Anniversary Edition Switch 2 console and controller pre-orders are now going live — here's where you can grab them along with the Ocarina remake",
+    "title": "The Zelda 40th Anniversary Edition Switch 2 console and controller pre-orders are now live — here's where you can grab them along with the Ocarina remake",
     "description": "This gorgeous hardware is absolutely going to sell out, don't miss it!",
     "categories": [
       "Breaking News",
@@ -701,8 +751,8 @@
   },
   {
     "link": "https://www.techmeme.com/260908/p29#a260908p29",
-    "title": "OpenAI denies that its researchers or models saw Buckmaster or Alpöge's prompts, says it spent millions in compute after hearing Anthropic had a breakthrough (Wired)",
-    "description": "Wired:\nOpenAI denies that its researchers or models saw Buckmaster or Alpöge's prompts, says it spent millions in compute after hearing Anthropic had a breakthrough  —  A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
+    "title": "OpenAI denies that its researchers or models saw Buckmaster's or Alpöge's prompts, says it spent millions in compute after hearing Anthropic had a breakthrough (Wired)",
+    "description": "Wired:\nOpenAI denies that its researchers or models saw Buckmaster's or Alpöge's prompts, says it spent millions in compute after hearing Anthropic had a breakthrough  —  A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -996,7 +1046,6 @@
     "title": "Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick",
     "description": "The Tesla Cybercab is notable for what it lacks, namely a steering wheel and pedal. By design, there is no way for this vehicle to be manually controlled - or so we thought. Less than a week after the Cybercab was officially launched in Austin, Texas, some riders have discovered the Cybercab's secret manual controls",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-08T16:06:56+00:00",
@@ -1008,7 +1057,6 @@
     "title": "The combat demo for Free Stars: Children of Infinity is out, and it's free",
     "description": "Blast your opponents in 1v1 arcade space battles like it's 1992 all over again.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-09-08T16:05:32+00:00",
@@ -1088,17 +1136,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.techradar.com/how-to-watch/football/real-madrid-vs-inter-milan-champions-league-2026-27-free",
-    "title": "How to watch Real Madrid vs Inter: Free Streams & TV Channels for Champions League 2026/27",
-    "description": "All the ways to watch Real Madrid vs Inter for free online, with Jude Bellingham and Kylian Mbappe set to star in the Champions League clash at Bernabeu.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-08T16:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/FxTaiS2GZfHmAGqVJA3676-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/how-to-watch/football/porto-vs-man-city-champions-league-2026-27",
     "title": "How to watch Porto vs Man City: Live Streams & TV Channels for Champions League 2026/27",
     "description": "All the ways to watch Porto vs Man City live streams online, including free options, as Enzo Maresca's men aim to triumph on Matchday 1 of the Champions League.",
@@ -1132,6 +1169,17 @@
     "pub_date": "2026-09-08T16:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/028jB08guTakZMU1jeVHuuy/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/how-to-watch/football/real-madrid-vs-inter-milan-champions-league-2026-27-free",
+    "title": "How to watch Real Madrid vs Inter: Free Streams & TV Channels for Champions League 2026/27",
+    "description": "All the ways to watch Real Madrid vs Inter for free online, with Jude Bellingham and Kylian Mbappe set to star in the Champions League clash at Bernabeu.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-08T16:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/FxTaiS2GZfHmAGqVJA3676-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://mashable.com/tech/boox-picco-ifa-2026-rumors",
@@ -2281,51 +2329,5 @@
     "pub_date": "2026-09-08T12:29:18+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Stage2-1152x648.jpg",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260908/p14#a260908p14",
-    "title": "Fields medalist Jacob Tsimerman, set to join OpenAI later in September, launches the Mathematical AI Safety Institute to apply higher math to AI safety problems (Siobhan Roberts/New York Times)",
-    "description": "Siobhan Roberts / New York Times:\nFields medalist Jacob Tsimerman, set to join OpenAI later in September, launches the Mathematical AI Safety Institute to apply higher math to AI safety problems  —  Jacob Tsimerman, a recent recipient of the Fields Medal, believes that higher mathematics can help curb the dangers of runaway artificial intelligence.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-08T12:25:02+00:00",
-    "image_url": "http://www.techmeme.com/260908/i14.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/the-fallout-from-ai-is-being-felt-further-across-the-business-than-most-people-assume-cios-are-being-held-accountable-when-ai-goes-wrong",
-    "title": "'The fallout from AI is being felt further across the business than most people assume': CIOs are being held accountable when AI goes wrong",
-    "description": "New report reveals that CIOs are being held personally accountable for AI errors as they face increased sovereignty pressure.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-08T12:20:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/qiVqCYVeLXmRG6AAZFzUGe-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/08/apple-will-quickly-become-a-dominant-player-in-folding-phones-counterpoint/",
-    "title": "Apple will quickly become a dominant player in folding phones – Counterpoint",
-    "description": "Counterpoint Research has predicted that global foldable phone shipments will surpass 100 million units by the end of this year, with the iPhone Ultra playing a major role in this growth. The firm says it expects Apple to take 25% of the entire market this year – and it may be the biggest player by the same time next year.\n\n\n\nIn timing unlikely to be coincidental, the Xiaomi 18 Fold, leaked last month, is officially launching in China the day before Apple’s event …\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-08T12:12:58+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Will-the-iPhone-Ultra-avoid-the-issue-that-can-still-kill-Samsung-foldables.jpg?quality=82&strip=all&w=1500",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/google-eu-search-dma-remedy-degraded-quality-nick-fox",
-    "title": "Google made search worse in Europe, and said so out loud",
-    "description": "Google changed how search works in Europe on Tuesday. Then it told everyone the new version is worse. Foo Yun Chee reported the rollout for Reuters, which had the story first. The company is complying with an order from the European Commission, and it is doing so while describing the result as the biggest quality",
-    "categories": [
-      "Breaking News",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-08T12:02:08+00:00",
-    "image_url": "https://media.thenextweb.com/2026/05/google-search-ai-overhaul-publishers-traffic-open-web.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
