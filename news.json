@@ -1,5 +1,44 @@
 [
   {
+    "link": "https://thenextweb.com/news/nitter-continues-xcancel-back-online-x-cease-and-desist",
+    "title": "Nitter says it will continue despite X Corp’s cease-and-desist",
+    "description": "Two weeks after X Corp’s lawyers demanded it disappear, Nitter is coming back. The open-source project posted a two-line notice on Monday saying it will continue, following legal advice. It did not say what that advice was. The notice sits on nitter.net, struck through the old cease-and-desist banner. “Following legal advice, the Nitter project will",
+    "categories": [
+      "Cybersecurity & Privacy",
+      "Social & Media",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-08T00:25:50+00:00",
+    "image_url": "https://media.thenextweb.com/2026/04/musk-openai-testimony-charity-precedent.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/american-data-centers-in-just-seven-states-are-reportedly-using-more-water-than-all-the-cities-in-california",
+    "title": "American data centers in just seven states are reportedly using more water than all the cities in California",
+    "description": "Data centers in seven states are being linked to the consumption of 10.4 million acre-feet of water annually.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-08T00:25:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/malaysia-huawei-ai-chips-sovereign-ai-us-export-warning",
+    "title": "Malaysia weighs Huawei chips for sovereign AI, Bloomberg reports",
+    "description": "Malaysia is leaning towards Huawei silicon to run its national AI project, according to Bloomberg. No foreign government has openly chosen Chinese AI accelerators over American ones before. Washington told the world last year that buying these particular chips could break its rules. Faris Mokhtar, Mackenzie Hawkins and Niki Koswanage reported the deliberations for Bloomberg.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-08T00:12:28+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/huawei-beijing-research-institute-building-q10.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.engadget.com/2249648/chromebook-pros-and-cons-as-main-pc/",
     "title": "Pros and cons of using a Chromebook as your everyday PC",
     "description": "Chromebooks are great devices, but they might not be able to do everything a Windows or Mac device can. Consider carefully before using one daily.",
@@ -11,18 +50,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.techradar.com/ai-platforms-assistants/if-we-dont-like-it-well-kill-it-if-we-love-it-well-marry-it-we-were-dreaming-about-chatgpt-thousands-of-years-before-it-existed-heres-how-ancient-myths-shaped-the-ai-were-building-today",
-    "title": "‘If we don’t like it, we’ll kill it. If we love it, we’ll marry it’: We were dreaming about ChatGPT thousands of years before it existed — here's how ancient myths shaped the AI we’re building today",
-    "description": "The authors of Myth-Made Machines explain how ancient myths and science fiction shaped our hopes and fears about today’s AI.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-08T00:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/crwCbqY6PhFTZf8MAZtG4M-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/ai-platforms-assistants/cathay-pacific-tests-google-ai-that-dramatically-cuts-airplane-contrails-tiny-altitude-shifts-slash-environmental-impact-by-40-percent-in-early-trials",
     "title": "Cathay Pacific tests Google AI that dramatically cuts airplane contrails — tiny altitude shifts slash environmental impact by 40% in early trials",
     "description": "Google is expanding its AI-driven contrail reduction project to a new part of the world.",
@@ -32,6 +59,18 @@
     ],
     "pub_date": "2026-09-08T00:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/uVTCmyofGQbaQupjQWUttN-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/ai-platforms-assistants/if-we-dont-like-it-well-kill-it-if-we-love-it-well-marry-it-we-were-dreaming-about-chatgpt-thousands-of-years-before-it-existed-heres-how-ancient-myths-shaped-the-ai-were-building-today",
+    "title": "‘If we don’t like it, we’ll kill it. If we love it, we’ll marry it’: We were dreaming about ChatGPT thousands of years before it existed — here's how ancient myths shaped the AI we’re building today",
+    "description": "The authors of Myth-Made Machines explain how ancient myths and science fiction shaped our hopes and fears about today’s AI.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-08T00:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/crwCbqY6PhFTZf8MAZtG4M-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -415,7 +454,6 @@
     "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
     "description": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? Great, here's a range loser. Want something that goes the distance? Be ready to pay the price. Surprisingly, here comes",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-07T20:03:41+00:00",
@@ -560,7 +598,6 @@
     "title": "The A2 e-tron is Audi's most efficient EV to date",
     "description": "While it probably won't be available in the US, the Audi A2 e-tron looks like an appealing affordable EV with plenty of range.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-07T18:28:50+00:00",
@@ -2245,41 +2282,5 @@
     "pub_date": "2026-09-07T11:30:00+00:00",
     "image_url": "https://media.wired.com/photos/6a98bd433546f162bf782073/master/pass/noirlab2620a.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/32gb-kingston-fury-beast-ddr4-3200-ram-is-nearly-half-price-in-the-newegg-labor-day-sale-with-this-special-coupon-code",
-    "title": "32GB Kingston Fury Beast DDR4-3200 RAM is nearly half price in the Newegg Labor Day sale with this special coupon code",
-    "description": "With CL16 latency complements the 3200MT/s speed with relatively tight timings, this Kingston Fury Beast DDR4-3200 kit gives your PC 32GB of RAM for $180.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-07T11:25:28+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/g9yXkguzTaSNUkGZmEhMfb-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-labor-day-deals-2026-today",
-    "title": "40+ Labor Day deals: We found limited-time deals on TVs, mattresses, Apple, and more to shop today",
-    "description": "Labor Day deals from top brands like Apple, Ninja, TCL, Ruggable, Bose, and more are live",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-07T11:20:53+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02uGfN7g6b66NtMHoXNAkzm/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/taiwan-is-cracking-down-on-tech-companies-hiding-their-illegal-chinese-ownership",
-    "title": "Taiwan is cracking down on tech companies hiding their illegal Chinese ownership",
-    "description": "Taiwan has investigated 166 Chinese companies obscuring their ownership to circumvent Cross-Strait Act requirements.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-07T11:20:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ef8zeecGrS3texgTdoSkYe-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
