@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://thenextweb.com/news/deepmind-agents-cheating-whistleblowing-research-swarm",
+    "title": "100 DeepMind agents were told not to cheat. 14% did anyway",
+    "description": "Google DeepMind put 100 AI agents in a room and asked them to prove hard mathematics. One found a way to cheat. Twenty-seven minutes later the entire problem set was gone. The paper, published on arXiv last week by six DeepMind researchers, is a case study rather than a benchmark. Nobody set out to test",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-08T11:07:13+00:00",
+    "image_url": "https://media.thenextweb.com/2026/04/Google-DeepMind.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/book-excerpt-alex-davies-kobuk-the-destroyer-nasa-food-testing/",
+    "title": "How NASA Testing Changed US Food Inspection Forever",
+    "description": "In the early 20th century, public outcry following Upton Sinclair’s The Jungle led to stricter food safety protocols. NASA took them a step further.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-08T11:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6a9adfcfa78871e1efea97d6/master/pass/BookExcerpt_HowNasaChangedFoodTesting_V2.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.engadget.com/2252462/samsung-tsmc-commit-asml-fab/",
     "title": "Samsung and TSMC hope AMSL's new machines will help address the chip shortage",
     "description": "ASML, TSMC and Samsung are adopting larger chip photomasks that will boost manufacturing yields and lower costs.",
@@ -234,7 +259,7 @@
   {
     "link": "https://www.techmeme.com/260908/p6#a260908p6",
     "title": "DeepSeek says it is seeking ~150 senior engineers in an \"unprecedented\" hiring spree to overhaul its backend systems, strained by high user demand and AI agents (Minxiao Chang/South China Morning Post)",
-    "description": "Minxiao Chang / South China Morning Post:\nDeepSeek says it is seeking ~150 senior engineers in an “unprecedented” hiring spree to overhaul its backend systems, strained by high user demand and AI agents  —    Chinese artificial intelligence start-up DeepSeek is embarking on what it calls an “unprecedented” …",
+    "description": "Minxiao Chang / South China Morning Post:\nDeepSeek says it is seeking ~150 senior engineers in an “unprecedented” hiring spree to overhaul its backend systems, strained by high user demand and AI agents  —  The company cited a rapid surge in user demand for AI and increased complexity of its computing systems",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -2239,28 +2264,5 @@
     "pub_date": "2026-09-07T15:19:25+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/bqTLGsRATg4oc47RW3PJbi-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/laptops/dell-just-won-this-years-labor-day-laptop-sales-get-the-top-rated-xps-13-from-as-little-as-usd599",
-    "title": "Dell just won this year's Labor Day laptop sales — get the top-rated XPS 13 from as little as $599",
-    "description": "This Dell XPS 13 is easily the best Labor Day laptop deal I've seen this year — and it's an even better offer for students, as you can save an extra $100 off the sale price.",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-07T15:16:29+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/VwE3b6AzZTK3GGKftRtXhM-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260907/p13#a260907p13",
-    "title": "Sources: London-based UForce, which makes unmanned vehicles for air, land, and sea, is seeking about $500M led by Valor Equity at a ~$5B valuation (Bloomberg)",
-    "description": "Bloomberg:\nSources: London-based UForce, which makes unmanned vehicles for air, land, and sea, is seeking about $500M led by Valor Equity at a ~$5B valuation  —  UForce, a London-based drone startup, is in discussions to raise new financing at a valuation of about $5 billion, according to people familiar with the matter.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-07T15:15:00+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
-    "source_name": "TECHMEME.COM"
   }
 ]
