@@ -1,5 +1,76 @@
 [
   {
+    "link": "https://thenextweb.com/news/meet-enso-the-next-unicorn-in-agentic-gtm",
+    "title": "Meet enso, the next unicorn in agentic GTM",
+    "description": "Growth hacking was supposed to be dead. The term had a good run. Sean Ellis coined it in 2010, and for a decade it described the scrappy, slightly unholy tricks that built the consumer internet: Airbnb piggybacking on Craigslist, Dropbox handing out free storage for referrals, Hotmail signing every outgoing email with an ad for",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-08T18:36:42+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/enso-founder-headshot.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/reid-hoffman-mosaic-ventures",
+    "title": "Reid Hoffman joins Mosaic Ventures as an advisory partner",
+    "description": "Reid Hoffman says he is joining Mosaic Ventures, a London seed and Series A firm that now describes AI in Europe as its sole focus, as an advisory partner. His stated contribution is US connectivity from Silicon Valley, meaning talent, company connections and capital. Reid Hoffman says he is joining Mosaic Ventures as an advisory",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-08T18:36:32+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/reid-hoffman-mosaic-ventures.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/american-truckers-are-benefiting-from-ai-data-center-boom-and-thats-exactly-why-they-dont-share-the-same-opinion-of-the-majority-of-americans",
+    "title": "American truckers are benefiting from AI data center boom, and that’s exactly why they don’t share the same opinion of the majority of Americans",
+    "description": "American truckers are seeing increased demand, and that's changing the opinions of some workers",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-08T18:35:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/27iWQFpbiBQLpkTsGcrx4-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2253085/nvidias-dlss-5-adds-subtle-details-to-nba-2k27-but-demands-a-lot-more-power/",
+    "title": "NVIDIA's DLSS 5 adds subtle details to NBA 2K27, but demands a lot more power",
+    "description": "DLSS 5's juice may not be worth the squeeze for launch title NBA 2K27.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-08T18:31:54+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/nvidias-dlss-5-adds-subtle-details-to-nba-2k27-but-demands-a-lot-more-power/l-intro-1788892193.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2252075/drive-price-rise-driven-by-ai-even-hdd-affected/",
+    "title": "The rise in drive prices is being driven by AI and even HDDs can't hide",
+    "description": "SSDs are preferable for many reasons, but with storage prices skyrocketing, there are some scenarios where opting for an HDD makes more sense.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-08T18:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/the-rise-in-drive-prices-is-being-driven-by-ai-and-even-hdds-cant-hide/l-intro-1788784755.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-images-2-5-is-out-ive-been-testing-it-for-24-hours-and-these-are-the-3-new-features-youll-actually-use",
+    "title": "ChatGPT Images 2.5 is out — I’ve been testing it for 24 hours, and these are the 3 new features you’ll actually use",
+    "description": "ChatGPT has just updated its Images tool to version 2.5, and it comes with a bunch of improvements. Here are the three you really need to know about.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-08T18:30:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/cnVjXWRmXoPTjoBqcL78aJ-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/09/08/new-apple-tv-4k-will-be-more-powerful-upgrade-than-we-thought-per-leak/",
     "title": "New Apple TV 4K will be more powerful upgrade than we thought, per leak",
     "description": "Rumors about the new Apple TV 4K have long suggested it will have a more modern chip to enable Apple Intelligence support. But a new leak uncovered by Aaron Perris points to an even more powerful chip than previously expected.\n\n\n\n more…",
@@ -461,7 +532,6 @@
     "title": "What is the purpose of LiDAR on your iPhone and how do you use it?",
     "description": "Some iPhone models are equipped with a LiDAR sensor, which helps the camera better interpret information about what's around you.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-08T16:30:00+00:00",
@@ -684,15 +754,14 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.techradar.com/how-to-watch/football/porto-vs-man-city-champions-league-2026-27",
-    "title": "How to watch Porto vs Man City: Live Streams & TV Channels for Champions League 2026/27",
-    "description": "All the ways to watch Porto vs Man City live streams online, including free options, as Enzo Maresca's men aim to triumph on Matchday 1 of the Champions League.",
+    "link": "https://www.techradar.com/how-to-watch/football/real-madrid-vs-inter-milan-champions-league-2026-27-free",
+    "title": "How to watch Real Madrid vs Inter: Free Streams & TV Channels for Champions League 2026/27",
+    "description": "All the ways to watch Real Madrid vs Inter for free online, with Jude Bellingham and Kylian Mbappe set to star in the Champions League clash at Bernabeu.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-08T16:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/AmEkmeo6W6vHxABJSUgbcb-1280-80.jpg",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/FxTaiS2GZfHmAGqVJA3676-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -708,14 +777,15 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techradar.com/how-to-watch/football/real-madrid-vs-inter-milan-champions-league-2026-27-free",
-    "title": "How to watch Real Madrid vs Inter: Free Streams & TV Channels for Champions League 2026/27",
-    "description": "All the ways to watch Real Madrid vs Inter for free online, with Jude Bellingham and Kylian Mbappe set to star in the Champions League clash at Bernabeu.",
+    "link": "https://www.techradar.com/how-to-watch/football/porto-vs-man-city-champions-league-2026-27",
+    "title": "How to watch Porto vs Man City: Live Streams & TV Channels for Champions League 2026/27",
+    "description": "All the ways to watch Porto vs Man City live streams online, including free options, as Enzo Maresca's men aim to triumph on Matchday 1 of the Champions League.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-08T16:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/FxTaiS2GZfHmAGqVJA3676-1280-80.jpg",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/AmEkmeo6W6vHxABJSUgbcb-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -1216,7 +1286,6 @@
     "title": "Celero, which is developing a chip to enable long-distance connections between AI data centers, raised $275M at a $3B+ valuation (Dina Bass/Bloomberg)",
     "description": "Dina Bass / Bloomberg:\nCelero, which is developing a chip to enable long-distance connections between AI data centers, raised $275M at a $3B+ valuation  —  Celero Communications, a maker of networking chips, has raised $275 million in a funding round that values the startup at more than $3 billion …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-08T14:35:05+00:00",
@@ -1835,7 +1904,6 @@
     "title": "How Tim Cook shaped Apple’s foldable iPhone, and what it may cost",
     "description": "On the eve of Apple’s special event, Bloomberg is out with a new report detailing the decade-long foldable iPhone development. \n\n\n\nThe report highlights former Apple CEO Tim Cook’s involvement in the project. Plus, details on how much the foldable iPhone could cost. \n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-08T12:43:36+00:00",
@@ -2259,74 +2327,6 @@
     ],
     "pub_date": "2026-09-08T10:53:47+00:00",
     "image_url": "https://media.thenextweb.com/2026/03/Sam-Altman-OpenAI.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/windows/windows-11-desktop-becomes-a-full-page-harry-potter-ad-and-bing-wallpaper-users-rebel-by-uninstalling-the-app-in-droves",
-    "title": "Windows 11 desktop becomes a full-page Harry Potter ad — and Bing Wallpaper users rebel by uninstalling the app in droves",
-    "description": "'I have uninstalled Bing Wallpaper with extreme prejudice': Windows 11 desktop becoming a giant Harry Potter ad has provoked a rebellion.",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-08T10:50:51+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/7EpEu8Xo2XadaegiM5zG6U-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260908/p9#a260908p9",
-    "title": "China says its AI compute capacity rose 177% YoY to 2,185 eflops by the end of June, and is targeting 9,800 eflops by 2030 via ~$532B in IT infrastructure spend (Howard Liu/South China Morning Post)",
-    "description": "Howard Liu / South China Morning Post:\nChina says its AI compute capacity rose 177% YoY to 2,185 eflops by the end of June, and is targeting 9,800 eflops by 2030 via ~$532B in IT infrastructure spend  —  China plans to deploy artificial intelligence computing clusters containing 100,000 accelerator cards and sharply expand …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-08T10:50:04+00:00",
-    "image_url": "http://www.techmeme.com/260908/i9.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/sept-8-soundcore-sleep-a30-special-sleep-earbuds-deal",
-    "title": "Snag Soundcore Sleep A30 Special sleep earbuds for less than $170 at Amazon post-Labor Day — Save $61",
-    "description": "As of Sept. 8, the Soundcore Sleep A30 Special sleep earbuds are discounted to $168.99 at Amazon, a 27% discount off their list price of $229.99.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-08T10:49:45+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02fbGuI1ysGlNkQE252BTzT/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/macron-eu-social-media-ban-under-15s-letter",
-    "title": "Macron asks Brussels for an under-15s social media ban after France’s own was struck down",
-    "description": "Emmanuel Macron has asked the European Commission to ban children under 15 from social media across the bloc, three weeks after France’s highest constitutional authority struck down his government’s attempt to do the same thing nationally. The request came in a letter to Commission president Ursula von der Leyen dated 29 August, reported by Reuters on Tuesday.",
-    "categories": [
-      "Social & Media"
-    ],
-    "pub_date": "2026-09-08T10:44:34+00:00",
-    "image_url": "https://media.thenextweb.com/2024/05/Untitled-design-8.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/phones/iphone/iphone-18-pro-cameras-could-finally-be-worthy-of-the-pro-name-ios-27-leak-reveals-focus-peaking-waveform-and-manual-focus-upgrades",
-    "title": "iPhone 18 Pro cameras could finally be worthy of the 'Pro' name — iOS 27 leak reveals focus peaking, waveform, and manual focus upgrades",
-    "description": "iOS 27 might include tools that give you more control over the camera app, but it's unclear whether these will be exclusive to the iPhone 18 Pro series.",
-    "categories": [
-      "Gadgets & Hardware",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-08T10:38:06+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/PGjgg4XKTMx5hq5gGCPi8h-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/lenovo-call-eva-longoria-entrepreneurs-advice-line",
-    "title": "Lenovo opens a phone line to Eva Longoria for entrepreneurs",
-    "description": "Lenovo has given entrepreneurs a phone number to ring, and Eva Longoria is on the other end of it. The service is called Call Eva. It opened on Tuesday and works roughly the way a radio phone-in does. You call, you leave a voice note with a business question, and you wait. Lenovo says it",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-08T10:36:20+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/eva-longoria-thinkpad-desk-phone-call.avif",
     "source_name": "THENEXTWEB.COM"
   }
 ]
