@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://thenextweb.com/news/rising-threats-tech-executives-trust-crisis",
+    "title": "Why rising threats against tech executives may signal a deeper crisis of trust",
+    "description": "Threats against corporate leaders are becoming harder for businesses to treat as an isolated security issue. Reuters reported that 42% of security chiefs surveyed across multiple industries had seen a significant increase in threats of violence against company executives over the previous two years. The figure rose to 66% among U.S.-based security chiefs at technology companies, suggesting",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-08T20:28:33+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/Tim-Crockett.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/08/iphone-18-pro-set-to-become-apples-new-default-model/",
+    "title": "iPhone 18 Pro set to become Apple’s new default model",
+    "description": "iPhone 18 Pro is about to be unveiled, and due to a lineup overhaul this year, it’s set to become Apple’s new default model like never before.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-08T20:22:18+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+    "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+    "description": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-08T20:16:09+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
     "title": "Meta Releases Muse, a Personal AI Agent With Privacy ‘Built Into It’",
     "description": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
@@ -153,6 +188,17 @@
     "pub_date": "2026-09-08T19:12:53+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ASML_HighNA_cleanroom_Veldhoven_068-1-1152x648.jpg",
     "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/products-to-expect-at-apple-event",
+    "title": "6 products we expect at Apples event",
+    "description": "Here’s what Apple could reveal at its Sept. 9 keynote, from the iPhone 18 Pro and its first foldable iPhone to new Apple Watches and AirPods.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-08T19:10:38+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/06MGAiVdKNU6WjR9sC2wGwA/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techmeme.com/260908/p36#a260908p36",
@@ -455,8 +501,8 @@
   },
   {
     "link": "https://www.techmeme.com/260908/p32#a260908p32",
-    "title": "Sources: Ramp is in early talks to raise about $1B at a ~$60B valuation, up from $44B in June; Ramp has raised $3B to date (Bloomberg)",
-    "description": "Bloomberg:\nSources: Ramp is in early talks to raise about $1B at a ~$60B valuation, up from $44B in June; Ramp has raised $3B to date  —  Ramp is in early talks with investors for a new round of funding at a roughly $60 billion valuation, according to people familiar with the efforts …",
+    "title": "Sources: Ramp is in early talks to raise ~$1B at a ~$60B valuation, up from $750M at a $44B valuation in June; founded in 2019, Ramp has raised $3B to date (Bloomberg)",
+    "description": "Bloomberg:\nSources: Ramp is in early talks to raise ~$1B at a ~$60B valuation, up from $750M at a $44B valuation in June; founded in 2019, Ramp has raised $3B to date  —  Ramp is in early talks with investors for a new round of funding at a roughly $60 billion valuation, according to people familiar with the efforts …",
     "categories": [
       "Tech News"
     ],
@@ -751,8 +797,8 @@
   },
   {
     "link": "https://www.techmeme.com/260908/p29#a260908p29",
-    "title": "OpenAI denies that its researchers or models saw Buckmaster's or Alpöge's prompts, says it spent millions in compute after hearing Anthropic had a breakthrough (Wired)",
-    "description": "Wired:\nOpenAI denies that its researchers or models saw Buckmaster's or Alpöge's prompts, says it spent millions in compute after hearing Anthropic had a breakthrough  —  A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
+    "title": "OpenAI denies that its researchers or models saw Buckmaster and Alpöge's prompts and says it spent millions in compute after rumors of Anthropic making progress (Wired)",
+    "description": "Wired:\nOpenAI denies that its researchers or models saw Buckmaster and Alpöge's prompts and says it spent millions in compute after rumors of Anthropic making progress  —  A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -963,7 +1009,6 @@
     "title": "The secret to protecting next-gen spacecraft might be eggshells",
     "description": "3D-printed aluminum eggshell arrays filled with water proved more effective at impact resistance.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-09-08T16:20:58+00:00",
@@ -976,7 +1021,6 @@
     "description": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-09-08T16:20:31+00:00",
@@ -1205,8 +1249,8 @@
   },
   {
     "link": "https://www.techmeme.com/260908/p26#a260908p26",
-    "title": "Mathematician Tristan Buckmaster alleges OpenAI learned of his work with Anthropic's Levent Alpöge on Navier-Stokes and used an internal model to solve it (Joseph Howlett/Scientific American)",
-    "description": "Joseph Howlett / Scientific American:\nMathematician Tristan Buckmaster alleges OpenAI learned of his work with Anthropic's Levent Alpöge on Navier-Stokes and used an internal model to solve it  —  A mathematician compared the feat to the history-making chess competition in which IBM's Deep Blue computer beat Garry Kasparov in 1997",
+    "title": "Mathematician Tristan Buckmaster alleges OpenAI learned of his work with Anthropic's Levent Alpöge on Navier-Stokes and then used an internal model to solve it (Joseph Howlett/Scientific American)",
+    "description": "Joseph Howlett / Scientific American:\nMathematician Tristan Buckmaster alleges OpenAI learned of his work with Anthropic's Levent Alpöge on Navier-Stokes and then used an internal model to solve it  —  A mathematician compared the feat to the history-making chess competition in which IBM's Deep Blue computer beat Garry Kasparov in 1997",
     "categories": [
       "Tech News"
     ],
@@ -1709,7 +1753,6 @@
     "title": "Nintendo’s Ocarina of Time remake launches in November",
     "description": "Link's next adventure now has a release date. During a Legend of Zelda stream for the franchise's 40th anniversary, Nintendo announced that the upcoming Ocarina of Time remake for the Switch 2 is launching on November 5th. The release date makes Ocarina of Time one of just a few big-budget titles launching in the same",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-09-08T14:26:02+00:00",
@@ -1863,17 +1906,6 @@
     "source_name": "SCIENCE.NASA.GOV"
   },
   {
-    "link": "https://www.theverge.com/games/990263/steelseries-aeon-pro-xbox-pc-controller-price-features",
-    "title": "SteelSeries’ pro-grade, wireless Xbox controller sure is expensive",
-    "description": "SteelSeries is a household name for many gamers, but not when it comes to controllers. Instead of easing into the conversation with reasonably-priced console and PC controllers to build trust, it's kicking down the door with the $259.99 Aeon Pro wireless controller for Xbox and PC, which is now available. What does one of the",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-08T14:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/aeonpro3.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.wired.com/story/richard-kelly-donnie-darko-25th-anniversary-interview/",
     "title": "Richard Kelly on Donnie Darko at 25: ‘It’s a Miracle That Any Movie Gets Made’",
     "description": "The director discusses his debut novel, staying true to an artistic vision, and the absurd line of dialogue from Donnie Darko he believes will find its way into his obituary.",
@@ -1883,6 +1915,17 @@
     "pub_date": "2026-09-08T14:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6a9721e89f60dd202db9f3fc/master/pass/Donnie-Darko-25th-Anniversary-Culture-MCDDODA_EC041.jpg",
     "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.theverge.com/games/990263/steelseries-aeon-pro-xbox-pc-controller-price-features",
+    "title": "SteelSeries’ pro-grade, wireless Xbox controller sure is expensive",
+    "description": "SteelSeries is a household name for many gamers, but not when it comes to controllers. Instead of easing into the conversation with reasonably-priced console and PC controllers to build trust, it's kicking down the door with the $259.99 Aeon Pro wireless controller for Xbox and PC, which is now available. What does one of the",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-08T14:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/aeonpro3.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.theverge.com/tech/991178/microsoft-patch-tuesday-record-breaking-ai-notepad",
@@ -2283,51 +2326,5 @@
     "pub_date": "2026-09-08T12:43:36+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-blue.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260908/p15#a260908p15",
-    "title": "A look at Apple's path to a foldable phone, the iPhone's biggest design change yet; sources: the memory shortage led Apple to blow past its $1,999 price target (Mark Gurman/Bloomberg)",
-    "description": "Mark Gurman / Bloomberg:\nA look at Apple's path to a foldable phone, the iPhone's biggest design change yet; sources: the memory shortage led Apple to blow past its $1,999 price target  —  Around 2020, Apple Inc. Chief Executive Officer Tim Cook returned from a trip to Asia unusually energized about a new product category: foldable phones.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-08T12:40:02+00:00",
-    "image_url": "http://www.techmeme.com/260908/i15.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/noise-master-buds-open-specs-price-details",
-    "title": "Noise unveils Master Buds Open with Sound by Bose. Everything we know.",
-    "description": "Noise just unveiled the Master Buds Open at IFA 2026 in Berlin. Featuring \"Sound by Bose\" tuning and an open-ear clip-on design.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-08T12:33:15+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00riY1ZnyIfNBl5ZIkBj7AK/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2250108/how-to-update-gpu-drivers-windows-11/",
-    "title": "How to update your GPU drivers in Windows 11",
-    "description": "New game releases often require driver updates to yield the best performance on your Windows PC. But knowing where to get them can often be confusing.",
-    "categories": [
-      "Breaking News",
-      "Gaming"
-    ],
-    "pub_date": "2026-09-08T12:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/how-to-update-your-gpu-drivers-in-windows-11/l-intro-1788287753.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://arstechnica.com/space/2026/09/stoke-space-sets-debut-launch-target-reveals-plans-for-larger-rocket/",
-    "title": "With another huge infusion of cash, Stoke Space goes even bigger",
-    "description": "The space economy will grow exactly as fast as we can launch rockets.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-08T12:29:18+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Stage2-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
