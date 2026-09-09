@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.techradar.com/pro/we-wish-youd-die-of-a-slow-death-us-officials-wedged-between-data-center-giants-and-local-communities-come-under-intense-pressure-over-rural-land-markets",
+    "title": "'We wish you’d die of a slow death': US officials wedged between data center giants and local communities come under intense pressure over rural land markets",
+    "description": "Rural communities face mounting pressure as data center developers pursue farmland, offer huge sums, and fuel disputes over power, water, and development.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-09T22:45:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/993048/iphone-18-pro-black-color",
+    "title": "The black iPhone Pro returns",
+    "description": "Apple has seen reason: It has a black model in the iPhone Pro lineup again. Last year, Apple went bold with its colors for the iPhone 17 Pro, offering a flashy orange, a shiny silver, and a dark blue. Don't get me wrong, they looked nice. But there was no black (or dark gray) for",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-09T22:37:51+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_NPatel_0006.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
     "title": "OpenAI adds a prominent AI doomer to its board of directors",
     "description": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
@@ -10,6 +33,18 @@
     "pub_date": "2026-09-09T22:25:22+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices",
+    "title": "The incomplete history of Duo devices",
+    "description": "Apple announced the company's first device with a folding screen today, the iPhone Duo, but that's where the firsts end. The Duo is not only far from the first foldable on the market thanks to the efforts of Samsung and Google, but it's also not the first product to be called the Duo. Former Apple",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-09T22:23:35+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/duo6.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://mashable.com/tech/iphone-18-pro-max-vs-iphone-17-pro-max",
@@ -25,8 +60,8 @@
   },
   {
     "link": "https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence",
-    "title": "Automattic CEO Matt Mullenweg reportedly placed on leave",
-    "description": "Matt Mullenweg, the CEO of WordPress.com owner Automattic, has been placed on a paid leave of absence, according to a report from 404 Media. In an internal announcement viewed by the outlet, Mullenweg claims Automattic chief financial officer Mark Davies \"conspired\" with board members to place him on leave. \"They voted to put me on",
+    "title": "Automattic CEO Matt Mullenweg placed on leave",
+    "description": "Matt Mullenweg, the CEO of WordPress.com owner Automattic, has been placed on a paid leave of absence, as reported earlier by 404 Media. In an internal message by the outlet, Mullenweg claims Automattic chief financial officer Mark Davies \"conspired\" with board members to place him on leave. \"They voted to put me on a paid",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -177,7 +212,7 @@
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-09T21:49:36+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/iphone-duo-hands-on-apple-s-most-exciting-device-in-a-decade/l-intro-1788992704.jpg",
+    "image_url": "https://www.engadget.com/img/gallery/iphone-duo-hands-on-apple-s-most-exciting-device-in-a-decade/l-intro-1788993120.jpg",
     "source_name": "ENGADGET.COM"
   },
   {
@@ -1521,7 +1556,6 @@
     "description": "Dynamic Creatures, a Boston Dynamics spinoff, has launched to build robots for theme parks and retail, writing software and buying hardware from Unitree, AgiBot and Boston Dynamics. Europe’s Machinery Regulation covers AI safety functions from January 2027, and the French company that created this category was sold to a Shenzhen buyer last year. Dynamic Creatures,",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-09-09T18:38:44+00:00",
@@ -1606,7 +1640,6 @@
     "title": "Harvey hits $15.5B valuation, months after reaching $11B",
     "description": "The legal AI startup and VC darling has nearly doubled its valuation in nine months.",
     "categories": [
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-09-09T18:34:24+00:00",
@@ -1619,7 +1652,6 @@
     "description": "Shipt and Instacart both launched AI assistants that build a grocery cart from a prompt or a photo on 9 September. Instacart said orders placed through its assistant contain more items than a typical order and exceed its $115 average basket, while Shipt’s announcement gives no equivalent figure and frames the product as relief from",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Software & Apps"
     ],
     "pub_date": "2026-09-09T18:33:58+00:00",
@@ -2382,42 +2414,5 @@
     "pub_date": "2026-09-09T17:37:35+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/02fZseA3T3TcqophfVDD1Mp/hero-image.png",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/09/apple-announces-a20-pro-chip-with-2nm-design-and-major-performance-gains/",
-    "title": "Apple announces A20 Pro chip with 2nm design and major performance gains",
-    "description": "Apple today unveiled the A20 Pro, its first chip built on 2nm technology at its “Surprise and Shine” event, bringing major CPU, GPU, and AI upgrades to the iPhone Duo, iPhone 18 Pro, and iPhone 18 Pro Max. Here are the details.\n\n\n\n more…",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-09T17:37:32+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-13.15.01.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-    "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-    "description": "The company also argued that its on-device models offer consumers more privacy.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-09T17:36:05+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2253991/siri-ai-will-be-available-in-french-japanese-korean-portuguese-and-spanish-this-october/",
-    "title": "Siri AI will be available in French, Japanese, Korean, Portuguese and Spanish this October",
-    "description": "The company has been testing English so far and will roll that out to the general public soon.",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-09T17:35:18+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/siri-ai-will-be-available-in-french-japanese-korean-portuguese-and-spanish-this-october/l-intro-1788982320.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
