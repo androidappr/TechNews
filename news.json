@@ -1,5 +1,42 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+    "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+    "description": "Matt Mullenweg, the founder and CEO of Automattic, best known as the parent company of WordPress.com, has been put on a leave of absence by his board against his will, according to a Slack message seen by TechCrunch. Earlier Wednesday, Mullenweg posted in a Slack channel visible to all employees that the company’s Chief Financial",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-09T23:14:29+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/09/apple-launches-iphone-duo-developer-resources-ahead-of-october-release/",
+    "title": "Apple launches iPhone Duo developer resources ahead of October release",
+    "description": "Following today’s announcement of the iPhone Duo, Apple has launched a new set of resources to help developers prepare their apps for the company’s first foldable iPhone. Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-09T23:09:19+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/get-ready-iphone-duo.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techradar.com/phones/iphone/iphone-price-hikes-heres-the-full-list-of-every-price-increase-from-the-iphone-18-pro-to-a-21-percent-rise-for-one-iphone-air-model",
+    "title": "iPhone price hikes —here's the full list of every price increase from the iPhone 18 Pro to a 21% rise for one iPhone Air model",
+    "description": "Apple has quietly increased the prices of every iPhone today, from its new iPhone 18 Pro models to older ones like the iPhone 17e. Here's the full list or rises for every capacity.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-09T23:04:54+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/FksAxeopZXnFb4e233BYTn-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
     "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
     "description": "September Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone Duo, alongside the iPhone 18 Pro and Pro Max; active noise cancellation (ANC) is now on the cheapest AirPods model, the AirPods 5; and a Siri Recap feature comes to",
@@ -10,6 +47,18 @@
     "pub_date": "2026-09-09T23:00:04+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0108.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2251353/apple-pay-vs-wallet-how-different/",
+    "title": "Apple Wallet is not the same as Apple Pay: Here's how they differ",
+    "description": "Apple Wallet and Apple Pay serve different functions, but you need them both to make online payments and store your cards.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-09T23:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/apple-wallet-is-not-the-same-as-apple-pay-heres-how-they-differ/l-intro-1788545325.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
@@ -763,7 +812,7 @@
       "Tech News"
     ],
     "pub_date": "2026-09-09T20:20:01+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
+    "image_url": "http://www.techmeme.com/260909/i43.jpg",
     "source_name": "TECHMEME.COM"
   },
   {
@@ -1042,7 +1091,7 @@
       "Tech News"
     ],
     "pub_date": "2026-09-09T19:27:37+00:00",
-    "image_url": "http://www.techmeme.com/260909/i41.jpg",
+    "image_url": "http://www.techmeme.com/img/pml.png",
     "source_name": "TECHMEME.COM"
   },
   {
@@ -1272,7 +1321,7 @@
       "Tech News"
     ],
     "pub_date": "2026-09-09T19:14:22+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/the-duo-aside-apples-cameras-were-its-biggest-iphone-innovation-this-year/l-intro-1788980982.jpg",
+    "image_url": "https://www.engadget.com/img/gallery/apple-iphone-18-pro-camera-innovations-went-well-beyond-megapixels-and-ai/l-intro-1788995292.jpg",
     "source_name": "ENGADGET.COM"
   },
   {
@@ -1304,7 +1353,6 @@
     "description": "The Siri Recap feature is similar to other note-taking apps like Granola.",
     "categories": [
       "Breaking News",
-      "Business & Startups",
       "Gadgets & Hardware",
       "Software & Apps"
     ],
@@ -1318,7 +1366,6 @@
     "description": "As AI agents go rogue and fears of superintelligence grow, politicians are raising the alarm over its potential harm to human existence.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-09-09T19:07:42+00:00",
@@ -1925,6 +1972,7 @@
     "title": "Apple releases tvOS 27 RC – here’s how to install it",
     "description": "We didn’t get the new Apple TV 4K model some had predicted in today’s fast-paced ‘Surprise and shine’ event, but the developer and public Release Candidate (RC) of tvOS 27 is now rolling out …\n\n\n\n more…",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-09T18:18:32+00:00",
@@ -2362,53 +2410,5 @@
     "pub_date": "2026-09-09T17:46:15+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/finance-chart-globe-3d-render.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/09/apple-watch-series-12-and-ultra-4-unveiled-with-upgraded-health-tracking-system/",
-    "title": "Apple Watch Series 12 and Ultra 4 unveiled with upgraded health tracking system",
-    "description": "Apple Watch Series 12 and Apple Watch Ultra 4 are official. Apple has announced its two new Apple Watch models as part of its product event today. An upgraded health tracking system is key to both models.\n\n\n\n more…",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-09T17:44:50+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-13.37.43.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/apple-watch-series-12-apple-watch-ultra-4/",
-    "title": "Apple Watch Series 12 and Apple Watch Ultra 4: Ceramic, Specs, Release Date",
-    "description": "Apple’s latest smartwatches—the Apple Watch Series 12 and Ultra 4—get a faster chip, expanded health tracking, and new Siri capabilities. Plus, the ceramic finish is back.",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-09T17:43:38+00:00",
-    "image_url": "https://media.wired.com/photos/6aa19f72a20ddd7dd10b4b42/master/pass/Apple-Watch-Series-12-2up-260909.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/990290/apple-watch-ultra-4-smartwatch-wearable-availability-pricing",
-    "title": "The Apple Watch Ultra 4 is ready for the new Siri",
-    "description": "Apple announced the next version of the rugged and durable Apple Watch Ultra at today's \"Surprise and shine\" event. The Apple Watch Ultra 4 features a design that's nearly identical to last year's Apple Watch Ultra 3 but is powered by Apple's new S11 processor, which replaces the aging S10 chip first introduced with the",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-09T17:43:16+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ultra4_c7a810.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/09/visionos-27-release-date-heres-when-the-new-update-launches/",
-    "title": "visionOS 27 release date: Here’s when the new update launches",
-    "description": "Today Apple unveiled its latest hardware products during the “Surprise and shine” event, where we also learned the release date for visionOS 27, the new software update for Vision Pro.\n\n\n\n more…",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-09T17:42:40+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/visionos-27-panorama-environment-m5-vision-pro.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
