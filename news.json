@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://thenextweb.com/news/analog-devices-alif-semiconductor-edge-ai-acquisition",
+    "title": "Analog Devices will pay $1.35bn for edge AI chipmaker Alif Semiconductor",
+    "description": "Analog Devices has agreed to buy Alif Semiconductor for $1.35bn in cash, with up to $200m more contingent on performance, adding a line of microcontrollers built to run neural networks inside devices rather than send data to a data centre. The deal was announced today, and it is expected to close before the end of this",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-09T13:40:15+00:00",
+    "image_url": "https://media.thenextweb.com/2026/05/Analog-Devices.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/pc-gaming/steam-achievements-for-multiple-upcoming-and-unannounced-games-have-leaked-and-its-an-ugly-situation-for-valve",
+    "title": "Steam achievements for multiple upcoming and unannounced games have leaked — and it's an ugly situation for Valve",
+    "description": "Valve may have accidentally leaked Steam achievements for both upcoming and unannounced games, and gamers should be very wary of potential spoilers.",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-09-09T13:35:30+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/cwV49XpqGZ6QfU2zA5gCxV-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260909/p15#a260909p15",
     "title": "Analog Devices agrees to buy privately held Alif Semiconductor, which makes low-power AI processors, for $1.35B in cash, with contingent payments up to $200M (Anhata Rooprai/Reuters)",
     "description": "Anhata Rooprai / Reuters:\nAnalog Devices agrees to buy privately held Alif Semiconductor, which makes low-power AI processors, for $1.35B in cash, with contingent payments up to $200M  —  Analog Devices (ADI.O) will acquire privately held Alif Semiconductor for $1.35 billion in cash, the companies said on Wednesday …",
@@ -21,6 +45,31 @@
     "pub_date": "2026-09-09T13:30:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/drsJn87JgYmPhjanCv7S97-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/the-world-of-software-engineering-and-ai",
+    "title": "The world of software engineering and AI meets in the Bay Area this September",
+    "description": "The last two years rewired how software gets made. AI went from autocomplete to writing entire features, and autonomous agents now build and ship software with barely a human in the loop. Every engineering organization on the planet is asking the same question: what does this mean for how we build? Yet most of that",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-09T13:25:57+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/WeAreDevelopers-World-Congress.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/how-multi-agent-ai-is-redefining-enterprise-software",
+    "title": "How multi-agent AI is redefining enterprise software",
+    "description": "For decades, enterprise software has been designed primarily to record what businesses already know: customer information, financial transactions, employee activity, inventory, sales pipelines, and operational decisions. These platforms became the systems of record that organizations relied on to maintain a consistent version of the truth. Artificial intelligence is beginning to challenge that model. The emergence",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-09T13:25:19+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/ai-agents-wallets-web3-machine-economy-varun-datta.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://www.engadget.com/2253689/lyft-now-offering-waymo-rides-in-nashville/",
@@ -190,6 +239,18 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
+    "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+    "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+    "description": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the future. In its announcement, Prime Video says it",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-09T13:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/maxton-hall.jpeg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
     "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
     "description": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
@@ -259,18 +320,6 @@
     "pub_date": "2026-09-09T13:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/03tYYGQnlegqSAjbIfjT3vY/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
-    "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
-    "description": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the future. In its announcement, Prime Video says it",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-09-09T13:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/maxton-hall.jpeg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://thenextweb.com/news/haier-ifa-2026-smart-home-architecture-design",
@@ -1916,7 +1965,7 @@
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-09T01:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/how-to-watch-apple-unveil-the-new-iphones-on-september-9/l-intro-1788872448.jpg",
+    "image_url": "https://www.engadget.com/img/gallery/how-to-watch-apple-event-september-9-2026/l-intro-1788960415.jpg",
     "source_name": "ENGADGET.COM"
   },
   {
@@ -2238,51 +2287,5 @@
     "pub_date": "2026-09-08T21:18:24+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/07kD3WNccHoOEppDnucX15y/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/cockroach-milk-mosquito-printers-ig-nobels-of-2026/",
-    "title": "Cockroach Milk, How to Blow Your Nose, and Mosquito Printers: The Ig Nobels of 2026",
-    "description": "Every year, the prizes recognize the weirdest research that often raises some very serious scientific questions.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-08T21:15:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aa056924ee73bc2e37a3111/master/pass/2292854766",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-    "title": "Why this month's Microsoft patch release is a doozy",
-    "description": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-08T21:11:46+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-    "title": "Hackers are stealing Claude tokens from subscribers",
-    "description": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-08T21:10:27+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/worlds-only-6k-touchscreen-monitor-just-got-a-huge-upgrade-clarity-touch-6k-now-has-a-12-megapixel-webcam-but-no-thunderbolt-5-in-view",
-    "title": "World's only 6K touchscreen monitor just got a huge upgrade — Clarity Touch 6K now has a 12-megapixel webcam but no Thunderbolt 5 in view",
-    "description": "Alogic's new Clarity 6K monitor adds a retractable 12MP webcam but skips Thunderbolt 5, starting at over $3,000.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-08T21:10:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/4qCHPk7kJVUMBw9Z79Y7Qc-1280-80.png",
-    "source_name": "TECHRADAR.COM"
   }
 ]
