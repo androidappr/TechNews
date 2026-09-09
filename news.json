@@ -1,5 +1,52 @@
 [
   {
+    "link": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
+    "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
+    "description": "September Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone Duo, alongside the iPhone 18 Pro and Pro Max; active noise cancellation (ANC) is now on the cheapest AirPods model, the AirPods 5; and a Siri Recap feature comes to",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-09T23:00:04+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0108.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+    "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+    "description": "The exact circumstances surrounding the changes aren't clear, but Meta execs have accidentally tagged the band instead of their AI agent.",
+    "categories": [
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-09T22:52:49+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/muse-the-band-lost-its-social-media-handles-to-muse-metas-new-ai-agent/l-intro-1788993799.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260909/p47#a260909p47",
+    "title": "Consensys plans to split into two companies: MetaMask, with Joe Lubin as CEO, and a new Consensys focused on Ethereum and institutional infrastructure (Jason Shubnell/The Block)",
+    "description": "Jason Shubnell / The Block:\nConsensys plans to split into two companies: MetaMask, with Joe Lubin as CEO, and a new Consensys focused on Ethereum and institutional infrastructure  —  - Consensys Software Inc. will split into two independently operated companies, separating its consumer-facing MetaMask business …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-09T22:50:01+00:00",
+    "image_url": "http://www.techmeme.com/260909/i47.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/apple-duo-alarm-clock",
+    "title": "Apple wants the iPhone Duo to be your alarm clock. Dont take the bait.",
+    "description": "Apple's new foldable phone, the Duo, was billed as a bedside clock. Don't let it become yours.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-09T22:48:33+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01qd61A4CohKDmR86Xt1QJr/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/we-wish-youd-die-of-a-slow-death-us-officials-wedged-between-data-center-giants-and-local-communities-come-under-intense-pressure-over-rural-land-markets",
     "title": "'We wish you’d die of a slow death': US officials wedged between data center giants and local communities come under intense pressure over rural land markets",
     "description": "Rural communities face mounting pressure as data center developers pursue farmland, offer huge sums, and fuel disputes over power, water, and development.",
@@ -21,6 +68,18 @@
     "pub_date": "2026-09-09T22:37:51+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_NPatel_0006.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/apple-is-actually-talking-about-ai-now-a-lot/",
+    "title": "Apple Is Actually Talking About AI Now — a Lot",
+    "description": "New CEO John Ternus says you already have your personal AI device. It’s called an iPhone.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-09T22:31:03+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-09-09-at-1.10.42-PM.png",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
@@ -1307,8 +1366,7 @@
     "title": "Google adds three features to its AI plans, and keeps a fourth for Americans",
     "description": "Google’s autumn roundup of its AI subscriptions leads on Gemini Spark handling web errands through Chrome for US subscribers, alongside voice tools, an image editor and a spreadsheet app builder that do reach Europe. Spark itself is unavailable across the European Economic Area, Switzerland and the UK, and Google has given no reason. Google has",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-09T19:00:20+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/gemini-spark-not-in-europe.avif",
@@ -1426,8 +1484,7 @@
     "title": "Microsoft strikes deal with national teachers union to not use school data to train AI",
     "description": "In the absence of federal protections from AI, unions are stepping up.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-09T18:48:31+00:00",
     "image_url": "https://www.engadget.com/img/gallery/microsoft-strikes-deal-with-national-teachers-union-to-not-use-school-data-to-train-ai/l-intro-1788979650.jpg",
@@ -1450,8 +1507,7 @@
     "title": "Abu Dhabi says $100bn of AI capital sits in its financial centre. Its own announcement cannot decide whether that money is held there or spent.",
     "description": "Abu Dhabi Global Market reported more than $100bn in AI-focused capital in its first-half results, alongside 54% growth in assets under management. The same release describes that sum as deployed from the centre in one place and held by entities in another, which are not equivalent claims. Roughly half the total is MGX, the state-backed",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-09T18:47:16+00:00",
     "image_url": "https://media.thenextweb.com/2026/06/abu-dhabi.avif",
@@ -2354,65 +2410,5 @@
     "pub_date": "2026-09-09T17:42:40+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/visionos-27-panorama-environment-m5-vision-pro.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.theverge.com/news/992408/ios-27-release-date-features",
-    "title": "iOS 27 launches on September 14th with Siri AI",
-    "description": "Apple is launching its next iOS 27 update on Monday September 14th. The headline feature is Siri AI, the delayed AI-powered overhaul of the Siri assistant. Siri AI is rolling out with iOS 27 as a beta, available initially for English-only devices. Apple says support for French, Japanese, Korean, Portuguese, and Spanish is coming in",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-09T17:41:49+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-7.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/apple-burgundy-iphone-18-pro",
-    "title": "Apples new burgundy iPhone color is dangerously chic",
-    "description": "Apple's new iPhone lineup is here, and there's a burgundy gem among the available colors.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-09T17:41:45+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04CiRZulWKTSuoVlgTfM5Zj/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260909/p30#a260909p30",
-    "title": "Apple adds a Reference Image feature to the iPhone 18 Pro, which digitally authenticates that photos taken with its camera haven't later been altered by AI (Benjamin Mayo/9to5Mac)",
-    "description": "Benjamin Mayo / 9to5Mac:\nApple adds a Reference Image feature to the iPhone 18 Pro, which digitally authenticates that photos taken with its camera haven't later been altered by AI  —  Apple is introducing a new Reference Image feature as part of the new iPhone 18 Pro, which digitally authenticates that the image …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-09T17:40:05+00:00",
-    "image_url": "http://www.techmeme.com/260909/i30.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/991812/apple-watch-series-12-announcement",
-    "title": "Apple Watch Series 12 has an always-on Siri that makes AI recaps of your day",
-    "description": "Apple announced the Apple Watch Series 12 at its September 9th launch event, with Siri AI-powered Audio Intelligence as the highlight feature. The new abilities include a Live Rewind feature that allows users to replay the last 15 seconds of recently detected audio and view a text transcript of it on their watch by double-pressing",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-09T17:37:55+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-watch-series-12-launch.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/new-ios-27-features-apple-iphone-event-2026",
-    "title": "iOS 27 is officially here. Check out the iPhone 18 Pros new AI features (and a few surprises)",
-    "description": "Apple's annual iPhone event ushers in new era of iOS with suite of new features for your phone, tablet, or computer.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-09T17:37:35+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02fZseA3T3TcqophfVDD1Mp/hero-image.png",
-    "source_name": "MASHABLE.COM"
   }
 ]
