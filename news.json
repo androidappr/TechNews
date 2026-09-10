@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+    "title": "Schools are catching onto Big Tech’s playbook",
+    "description": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI companies are pitching schools on",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-10T19:44:20+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/openai-says-it-has-built-an-automated-research-intern-to-carry-out-menial-tasks-and-its-only-just-getting-started",
+    "title": "OpenAI says it has built an 'automated research intern' to carry out menial tasks — and it's only just getting started",
+    "description": "Development of a dedicated AI agent specifically designed for automated research tasks has been confirmed by OpenAI.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-10T19:40:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/gN6Qsf7QSmrmYwtYPr47HY-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/10/apple-shares-fun-95-second-recap-of-yesterdays-surprise-and-shine-event/",
+    "title": "Apple shares fun, 95-second recap of yesterday’s ‘Surprise and Shine’ event",
+    "description": "If you missed yesterday’s “Surprise and Shine” event and don’t feel like watching the entire hour-plus-long video, Apple’s YouTube Channel has got you covered. Watch the event recap below.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-10T19:31:51+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-event-recap.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/tar-120m-series-a-1bn-spark-capital-off-grid-ai-power",
     "title": "TAR raises $120m at a $1bn valuation to build off-grid power for AI",
     "description": "TAR has raised a $120m Series A led by Spark Capital at a $1bn post-money valuation. The Austin company builds off-grid power systems for AI data centres. The company announced the round on Thursday. Prior investors Buckley Ventures and Align Fund also took part, Bloomberg reported. Spark Capital is an investor in Anthropic, Bloomberg noted.",
@@ -552,7 +588,6 @@
     "title": "iPhone Air’s $200 premium disappears when you trade it in",
     "description": "Following the iPhone 18 Pro and iPhone Duo announcement this week, Apple has started accepting iPhone Air and iPhone 17 trade-ins for credit. However, the iPhone Air offer is a bit of a sore spot, especially after this week’s price increases.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-10T16:53:51+00:00",
@@ -2302,40 +2337,5 @@
     "pub_date": "2026-09-10T11:31:38+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/075l609KtAh0XNTI04wcQfR/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260910/p16#a260910p16",
-    "title": "Nasdaq invests $100M in Kraken parent company Payward, valuing the crypto exchange at $21B; in March, Kraken said it will distribute Nasdaq's tokenized stocks (Katherine Doherty/Bloomberg)",
-    "description": "Katherine Doherty / Bloomberg:\nNasdaq invests $100M in Kraken parent company Payward, valuing the crypto exchange at $21B; in March, Kraken said it will distribute Nasdaq's tokenized stocks  —  Nasdaq Inc. is investing $100 million in Payward, the parent of cryptocurrency exchange Kraken, as the firm continues to build …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-10T11:25:01+00:00",
-    "image_url": "http://www.techmeme.com/260910/i16.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/belkin-ifa-2026-accessories-launch",
-    "title": "Belkin just revealed a massive new collection of power banks, dual-network trackers, and magnetic stands — here’s what’s coming",
-    "description": "Belkin expanded its accessory ecosystem at IFA 2026, debuting UltraCharge smart power banks, dual-platform SureFind item trackers, and colorful 30W chargers starting at $14.99.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-10T11:19:03+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03v7K5z8tuPj8KF3FCSB3Ot/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/biocompute-dna-data-storage-reusable-templates",
-    "title": "The data storage crisis has a biological fix. It starts by making less DNA, not more.",
-    "description": "The math behind the data storage problem is brutal. The world creates more information every year than it can afford to keep. Most of it is cold. It is almost never read, yet it cannot be deleted, so it accumulates on tape and disk that degrade, draw power, and demand replacement every few years. The cost compounds. It",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-10T11:18:22+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/anagha-rajesh-biocompute.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
