@@ -1,5 +1,101 @@
 [
   {
+    "link": "https://thenextweb.com/news/nvidia-palantir-sovereign-ai-supply-chains",
+    "title": "Nvidia and Palantir are selling a sovereign AI stack, starting with Nvidia’s own supply chain",
+    "description": "Nvidia and Palantir have announced today a joint product for running AI over corporate supply chains without handing the underlying data to anyone else, and the first customer is Nvidia, which is using it on its own. It pairs Palantir’s Foundry, its Artificial Intelligence Platform and its Ontology with Nvidia’s open Nemotron models and cuOpt",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-10T10:45:19+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/NVIDIA-Palantir.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/gartner-thinks-these-four-trends-will-shape-the-future-of-work-so-what-will-they-mean-for-you",
+    "title": "Gartner thinks these four trends will shape the future of work — so what will they mean for you?",
+    "description": "Gartner says humans and institutional knowledge are vital, but they still need to adapt to work alongside AI.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-10T10:38:44+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/kpe85PSML9a3odjj2PX8RL-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/10/how-to-fast-charge-iphone-18-pro/",
+    "title": "How to fast charge iPhone 18 Pro",
+    "description": "The new iPhone 18 Pro has much better battery life than its predecessors, but it also has even faster wired charging.\n\n\n\nTo fast charge the new iPhone, Apple says you need to use its dynamic 40-watt power adapter with 60-watt max output and USB-C cable. With this combination, you will charge at the maximum possible speed, which is about 33% faster than previous pro iPhones could. \n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-10T10:36:47+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-lineup.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/zuckoff-app-detects-meta-smart-glasses-bluetooth",
+    "title": "A Polish developer built an app that detects nearby Meta smart glasses over Bluetooth",
+    "description": "A 30-year-old Polish software developer has built an iPhone app that detects Meta smart glasses in the vicinity and estimates how far away they are by reading the Bluetooth signals the glasses broadcast. It has around 5,000 users a month after launch. Pawel Szydlowski bought several models of smart glasses and catalogued their Bluetooth fingerprints,",
+    "categories": [
+      "Social & Media",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-10T10:34:03+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/meta-ray-ban-smart-glasses-.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/streaming/apple-tv-plus/last-seen-is-the-gripping-new-thriller-now-streaming-on-apple-tv-and-one-star-teases-emotional-storyline-is-heading-somewhere-you-wont-have-anticipated",
+    "title": "Last Seen is the 'gripping' new thriller now streaming on Apple TV — and one star teases emotional storyline is 'heading somewhere you won't have anticipated'",
+    "description": "Last Seen has made its Apple TV debut — but, if you think you know where its story is going, think again.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-10T10:33:23+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/DJAqrgKcfD2j5BKJjS5buU-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/time-to-power-is-becoming-the-new-measure-of-ai-infrastructure-readiness",
+    "title": "Time to power is becoming the new measure of AI infrastructure readiness",
+    "description": "As AI moves from experimentation to deployment at scale, technology leaders face another infrastructure challenge that could be just as consequential: securing enough reliable power, quickly, to keep that compute running.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-10T10:30:22+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.wired.com/gallery/best-windows-laptops/",
+    "title": "9 Windows Laptops That Give MacBooks a Run for Their Money",
+    "description": "Windows laptops have never been so good, and they’re only going to get better as we move through 2026.",
+    "categories": [
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-10T10:30:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aa0a851cd93d7f9a51fd1c1/master/pass/The-Best-Windows-Laptops.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
+    "title": "Everything New You Can Do With Siri AI",
+    "description": "When iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-10T10:30:00+00:00",
+    "image_url": "https://media.wired.com/photos/6a9e944a1e3f7c600a7f4444/master/pass/GettyImages-2255802700.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260910/p14#a260910p14",
     "title": "Anthropic gives EU cybersecurity agency ENISA testing access to Mythos 5 after months of talks that began in late May; ENISA still lacks access to Mythos 5.1 (Gian Volpicelli/Bloomberg)",
     "description": "Gian Volpicelli / Bloomberg:\nAnthropic gives EU cybersecurity agency ENISA testing access to Mythos 5 after months of talks that began in late May; ENISA still lacks access to Mythos 5.1  —  Anthropic PBC has handed the European Union's cybersecurity agency access to its powerful Mythos artificial intelligence model …",
@@ -739,7 +835,6 @@
     "title": "A look at why the oft-discussed predictions that AI will deliver double-digit GDP growth in advanced economies are extremely unlikely over the next 10-15 years (Ghosts of Electricity)",
     "description": "Ghosts of Electricity:\nA look at why the oft-discussed predictions that AI will deliver double-digit GDP growth in advanced economies are extremely unlikely over the next 10-15 years  —  The following post represents the personal views of the author(s) and does not reflect or represent the positions of their employers.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-10T06:35:00+00:00",
@@ -2171,97 +2266,5 @@
     "pub_date": "2026-09-09T20:11:58+00:00",
     "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=2048",
     "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://www.techradar.com/health-fitness/smartwatches/the-apple-watch-series-12-has-the-most-accurate-heart-rate-sensing-in-a-wearable-heres-where-to-preorder-apples-newest-smartwatch",
-    "title": "The Apple Watch Series 12 has 'the most accurate heart rate sensing in a wearable' — here's where to preorder Apple's newest smartwatch",
-    "description": "The Apple Watch Series 12 is officially available for preorder, and I'm rounding up the best preorder deals and prices for Apple's newest smartwatch.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-09T20:11:27+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/jUskjda3twDSmusBtBLwyD-1280-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/mobile/its-iphone-duo-users-who-will-want-a-stylus/",
-    "title": "It’s iPhone Duo Users Who Will Want a Stylus",
-    "description": "Apple’s first foldable phone is also its first with pen support.",
-    "categories": [
-      "Breaking News",
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-09-09T20:09:03+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/iPhone-Duo-with-Apple-Pencil.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/09/iphone-18-pro-vs-iphone-duo-heres-every-key-difference/",
-    "title": "iPhone 18 Pro vs iPhone Duo: Here’s every key difference",
-    "description": "Today Apple unveiled three flagship new iPhone models: iPhone 18 Pro and Pro Max as well as the foldable iPhone Duo. Here’s an overview of the key differences between each model.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-09T20:07:27+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-vs-iphone-duo-fi.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
-    "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
-    "description": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
-    "categories": [
-      "AI & Machine Learning",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-09-09T20:06:28+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2199506955-1024x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-    "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-    "description": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-09T20:03:43+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/where-is-iphone-18",
-    "title": "Where was the regular iPhone 18? The missing product in Apples event.",
-    "description": "At Apple's Sept. 9 event, the brand revealed the iPhone 18 Pro and Pro Max, plus the iPhone Duo. But the regular iPhone 18 was notably missing.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-09T20:01:23+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00qstDUQ2thfpFL48pLYtkX/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/09/apple-details-how-apple-watchs-new-audio-intelligence-features-work-in-privacy-paper/",
-    "title": "Apple details how Apple Watch’s new Audio Intelligence features work in privacy paper",
-    "description": "Apple is launching an all-new set of features called Audio Intelligence, starting with today’s new Apple Watch Series 12 and Apple Watch Ultra 4. The company details how the new feature works, especially around privacy, in a new paper. \n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-09T19:59:16+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-13.47.53.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/",
-    "title": "There are new shiny iPhones, so Apple is making you pay more for older models",
-    "description": "Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-09T19:56:18+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
