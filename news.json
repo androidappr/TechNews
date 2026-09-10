@@ -1,5 +1,56 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+    "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+    "description": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-10T17:45:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260910/p29#a260910p29",
+    "title": "Anthropic details distillation efforts by Chinese companies, like Moonshot and DeepSeek, sending user queries to Claude via \"transfer stations\" outside China (Wall Street Journal)",
+    "description": "Wall Street Journal:\nAnthropic details distillation efforts by Chinese companies, like Moonshot and DeepSeek, sending user queries to Claude via “transfer stations” outside China  —  Anthropic says DeepSeek and Moonshot used thousands of fake accounts and millions of real user queries in ‘distillation’ effort to clone its AI capabilities",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-10T17:36:03+00:00",
+    "image_url": "http://www.techmeme.com/260910/i29.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/microsoft-september-patch-tuesday-974-flaws-two-zero-days",
+    "title": "Microsoft patches a record 974 flaws, and two are already under attack",
+    "description": "Microsoft’s September Patch Tuesday fixes 974 security flaws across its products, according to the company’s release notes. Attackers were already exploiting two of them before the patches landed on Tuesday. Both zero-days let an attacker who already has a foothold on a Windows machine gain higher privileges. One sits in the Windows Update Stack (CVE-2026-81963),",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-10T17:29:00+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/Microsoft-logo.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.nasa.gov/news-release/nasa-nfl-team-up-to-showcase-space-aeronautics-innovation/",
+    "title": "NASA, NFL Team Up to Showcase Space, Aeronautics Innovation",
+    "description": "Through a new collaboration between NASA and the National Football League (NFL), the agency will soon bring America’s strengths in space exploration and aeronautics innovation to the football field. NASA will conduct flyovers, astronaut appearances, and fan engagement at NFL games across the United States as part of its new Inspiration Tour. “This is the",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-10T17:28:13+00:00",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2017/01/iss046e027528_nr.jpg?w=2048",
+    "source_name": "NASA.GOV"
+  },
+  {
     "link": "https://www.techmeme.com/260910/p28#a260910p28",
     "title": "Anthropic says it disrupted several potential plots this year by scientists using its models for research that could have helped develop biological weapons (Dustin Volz/New York Times)",
     "description": "Dustin Volz / New York Times:\nAnthropic says it disrupted several potential plots this year by scientists using its models for research that could have helped develop biological weapons  —  In a new report, the A.I. start-up added that it could not determine if the research was legitimate or nefarious, leading the company to shut down the work.",
@@ -1897,7 +1948,6 @@
     "title": "The iPhone Duo is Apple at its absolute best (and a little bit at its worst)",
     "description": "Wow. After Samsung had a seven-year head start on Apple in the foldables market, the company really had to live up to its ethos of waiting until it could do a far better job than everyone else, and boy did it deliver with the iPhone Duo!\n\n\n\nIt was abundantly clear that Apple had thought through every detail of what a foldable iPhone needed to be, and has taken advantage of every benefit the form factor has to offer …\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-10T11:34:14+00:00",
@@ -2294,50 +2344,5 @@
     "pub_date": "2026-09-10T10:05:32+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/boring-company-lead-image.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.wired.com/review/vari-ergo-electric-standing-desk/",
-    "title": "Vari Electric Standing Desk Review (2026): Form and Value",
-    "description": "The Vari Ergo electric standing desk is compact, easy to assemble, affordable, and gently sloped to fit my natural posture and shape.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-10T10:05:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aa20c879cc7a31249b76a75/master/pass/Review--Vari-Ergo-Standing-Desk.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/the-hidden-tax-of-complexity-and-speed",
-    "title": "The hidden tax of complexity and speed",
-    "description": "New processes and tools carry admin and mental costs - gains require reevaluating processes and training.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-10T10:00:21+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
-    "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
-    "description": "InquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information about people identified through Clearview.",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-10T10:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aa1c3b873b15b9694431f67/master/pass/Security_ClearviewAIIsTestinganAIToolThatLetsCops-ezgif.com-video-to-gif-converter.gif",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/services-and-software/sorry-apple-the-iphone-duo-wasnt-the-smart-display-im-waiting-for/",
-    "title": "Sorry, Apple, but the iPhone Duo Isn’t the Smart Display I’m Waiting For",
-    "description": "Reports keep saying Apple is releasing a home smart display. It still hasn’t happened, and here’s why that’s a problem.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-10T10:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-09-09-at-2.04.53-PM.png",
-    "source_name": "CNET.COM"
   }
 ]
