@@ -1,5 +1,89 @@
 [
   {
+    "link": "https://www.theverge.com/gadgets/993242/trump-phone-t1-price-hike",
+    "title": "The Trump phone just got a $250 price hike",
+    "description": "Bad news if you didn't lock in a Trump phone at launch: It now costs $749, a $250 increase on its price at launch. The T1 Phone itself hasn't changed. Trump Mobile didn't announce the price increase, instead quietly changing its website overnight. This wasn't a total surprise though, especially given the phone ships with",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Government & Policy",
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-09-10T09:13:04+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268626_Trump_phone_AKrales_0713.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/ais-overlooked-storage-opportunity",
+    "title": "AI’s overlooked storage opportunity",
+    "description": "AI success depends on keeping more data accessible, protected, and affordable at scale.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-10T09:12:33+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/YoQ7bF6XQjs33SMa72NcwK-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/anthropic-alignment-assessment-cybersecurity-incidents-481-million-transcripts",
+    "title": "Anthropic scanned 481 million transcripts to find four models that reached the open internet",
+    "description": "Anthropic has published an account of four cybersecurity evaluations in which its models gained unauthorised access to the open internet, and disclosed that finding them required scanning roughly 481 million transcripts. The assessment was published on Wednesday, and three of the incidents were disclosed on 30 July. The fourth, involving an early Claude Opus 4.6 checkpoint",
+    "categories": [
+      "AI & Machine Learning",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-10T09:08:49+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/anthropic-meta-10-billion-compute-deal-talks.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update",
+    "title": "Nintendo’s latest Switch 2 update adds VRR support in TV mode",
+    "description": "Nintendo always promised that the Switch 2 would support variable refresh rate (VRR) when docked, but the console launched without this key feature. A new 23.0.0 firmware update now adds VRR support to the Switch 2 when it's docked and in TV mode. VRR adjusts a display's refresh rate to match a game's frame rate,",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-09-10T09:07:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0395_588c1a.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/christy-chen-on-why-todays-chatbots-arent-built-to-help-you-know-yourself",
+    "title": "Christy Chen on why today’s chatbots aren’t built to help you know yourself",
+    "description": "Christy Chen, founder of Cit Labs, argues that AI chatbots fail at emotional support not because the technology is incapable but because the models were optimized for engagement, trained on text that performs support rather than delivers it, and lack physiological signal. Her startup combines EEG data with clinician-defined guardrails to build something purpose-built for",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-10T09:03:32+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/cit-labs-one-model-card.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/gopro-max-2-deal-september-2026/",
+    "title": "Our Favorite GoPro 360 Camera Is Now 40 Percent Off",
+    "description": "The GoPro Max 2 is almost half off at Amazon and other retailers, along with other great action camera deals.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-10T09:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aa1f780662fbdcd3871fb06/master/pass/Our-Favorite-GoPro-360-Camera-Is-Now-40-Percent-Off.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/playground-games-says-fables-story-will-last-between-15-20-hours-or-double-that-with-other-open-world-content-and-the-life-systems-are-limitless",
+    "title": "Playground Games says Fable's story will last between '15-20 hours' or double that with other open-world content, and the life systems are 'limitless'",
+    "description": "Playground Games has confirmed that Fable's main story will take up to 20 hours to beat, but promises the game's life systems offer \"limitless\" replayability.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-10T09:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/egwzF8mfWzKuyXGW3q4jaK-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techradar.com/phones/airpods-5-and-airpods-5-with-wireless-charging-are-like-a-greatest-hits-rollout-of-airpods-pro-just-without-the-hearing-health-or-heart-rate-modules",
     "title": "AirPods 5 and AirPods 5 with Wireless Charging are like a greatest hits rollout of AirPods Pro — just without the hearing health or heart-rate modules",
     "description": "It's like Apple execs went into a meeting and someone said, 'Let's just let them pick what they want to pay for'",
@@ -232,8 +316,8 @@
   },
   {
     "link": "https://www.wired.com/story/trump-offers-every-american-5000-if-republicans-win-the-midterms/",
-    "title": "Trump Offers Every American $5,000 If Republicans Win The Midterms",
-    "description": "The extraordinary proposal, delivered during the president's speech at the midterm convention, would cost $1.2 trillion and raised immediate ethical questions.",
+    "title": "Trump Offers $5,000 To Every American If Republicans Win The Midterms",
+    "description": "The eyebrow-raising proposal, delivered during the president's speech at the midterm convention, would cost $1.2 trillion and would need congressional approval.",
     "categories": [
       "Government & Policy"
     ],
@@ -2178,84 +2262,5 @@
     "pub_date": "2026-09-09T19:03:59+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iPhone-Duo-two-sizes.webp?w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/gemini-spark-not-in-europe",
-    "title": "Google adds three features to its AI plans, and keeps a fourth for Americans",
-    "description": "Google’s autumn roundup of its AI subscriptions leads on Gemini Spark handling web errands through Chrome for US subscribers, alongside voice tools, an image editor and a spreadsheet app builder that do reach Europe. Spark itself is unavailable across the European Economic Area, Switzerland and the UK, and Google has given no reason. Google has",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-09T19:00:20+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/gemini-spark-not-in-europe.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/phones/apple-iphone/the-iphone-duo-is-here-and-it-will-convince-you-to-buy-a-foldable",
-    "title": "The iPhone Duo is here, and it will convince you to buy a foldable",
-    "description": "The iPhone Duo is now official, and it is going on sale in October starting at $1,999. With an entirely new wider-style design and two panels, it is the foldable iPhone you've always wanted.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-09T19:00:05+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/83JNQ3Ab7DWh6MdSUbJxqD-1280-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.techradar.com/how-to-watch/american-football/nfl-2026-free",
-    "title": "How to watch NFL 2026 for FREE: Live Streams & TV Channels for Week 1",
-    "description": "Here's how to watch NFL the world over, including free streams and international TV channels for the 2026 regular season, playoffs and Super Bowl.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-09T19:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/nkGw5rLRYh4gxPrkxb5vfJ-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
-    "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
-    "description": "AirPods 5 with noise cancellation is cheaper than its predecessor.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-09T18:58:24+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/AIrPods-5-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/09/apple-rolls-out-fourth-developer-and-public-rcs-for-macos-tahoe-26-7-and-macos-sequoia-15-8/",
-    "title": "Apple rolls out fourth developer and public RCs for macOS Tahoe 26.7 and macOS Sequoia 15.8",
-    "description": "New Release Candidates for macOS Tahoe 26.7 and macOS Sequoia 15.8 are available to developers and users in the public beta program. Here are the details.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-09T18:55:43+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260909/p37#a260909p37",
-    "title": "Hands-on with the iPhone Duo: the folding mechanism is smooth, the crease is almost impossible to find with a finger, and the inner screen has a matte finish (The Verge)",
-    "description": "The Verge:\nHands-on with the iPhone Duo: the folding mechanism is smooth, the crease is almost impossible to find with a finger, and the inner screen has a matte finish  —  ﻿We've tried the first ever foldable iPhone at Apple's launch event. … The first foldable iPhone is finally here …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-09T18:55:11+00:00",
-    "image_url": "http://www.techmeme.com/260909/i37.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4",
-    "title": "Hands-on with the new Apple Watch Series 12 and Apple Watch Ultra 4",
-    "description": "After Apple wrapped up its \"Surprise and shine\" event today, we were able to get a look at the new Apple Watch Series 12 and Ultra 4. Both of the new watches launch September 18th, with preorders available starting today. The Apple Watch Series 12 once again starts at $399 for the aluminum case option",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-09T18:53:48+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2485.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
