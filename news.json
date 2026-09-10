@@ -12,6 +12,30 @@
     "source_name": "THEVERGE.COM"
   },
   {
+    "link": "https://www.engadget.com/2252476/2028-volvo-xc40-first-look/",
+    "title": "2028 Volvo XC40 First Look: Hello new tech, goodbye EV",
+    "description": "Volvo refreshed the XC40, but it's sadly doing away with the all-electric EX40 in the US.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-10T07:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/2028-volvo-xc40-first-look-hello-new-tech-goodbye-ev/l-intro-1788868210.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/openai-mandatory-national-ai-safety-requirements-congress",
+    "title": "OpenAI asks Congress for mandatory national AI safety rules before it adjourns",
+    "description": "OpenAI has called for mandatory, capability-based national AI safety regulation in the United States, setting out a list of requirements it wants imposed on itself and its competitors, and urging Congress to legislate before it adjourns. The proposal was published on Wednesday by Chris Lehane, the company’s chief global affairs officer. It asks for common testing",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-10T06:59:33+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/openai-models-escaped-hacked-hugging-face.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techradar.com/phones/iphone/iphone-duo-iphone-18-pro-and-pro-max-preorders-deals-au",
     "title": "Everything you need to know about pre-ordering the iPhone Duo and the iPhone 18 Pro in Australia",
     "description": "Apple has officially unveiled the new iPhone 18 Pro, 18 Pro Max and the foldable iPhone Duo overnight, and we’ve put together this guide on how to get your hands on one of these hot new handsets.",
@@ -36,9 +60,9 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.wired.com/story/trump-offers-every-american-dollar5000-if-republicans-win-the-midterms/",
-    "title": "Trump offers every American $5,000 If Republicans Win The Midterms",
-    "description": "The eye-catching proposal, delivered during the President's speech at the midterm convention, would cost $1.2 trillion and raised immediate ethical questions.",
+    "link": "https://www.wired.com/story/trump-offers-every-american-5000-if-republicans-win-the-midterms/",
+    "title": "Trump Offers Every American $5,000 If Republicans Win The Midterms",
+    "description": "The extraordinary proposal, delivered during the President's speech at the midterm convention, would cost $1.2 trillion and raised immediate ethical questions.",
     "categories": [
       "Government & Policy"
     ],
@@ -335,7 +359,6 @@
     "title": "Paul Christiano, an AI researcher and advisor at CAISI, is joining the OpenAI Foundation board of directors and its Safety and Security Committee (Tim Fernholz/TechCrunch)",
     "description": "Tim Fernholz / TechCrunch:\nPaul Christiano, an AI researcher and advisor at CAISI, is joining the OpenAI Foundation board of directors and its Safety and Security Committee  —  Paul Christiano, an influential AI researcher focused on keeping AI systems aligned with human interests and under human control …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-10T03:15:01+00:00",
@@ -2238,29 +2261,5 @@
     "pub_date": "2026-09-09T18:38:57+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/macOS-27-rc.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/dynamic-creatures-aldebaran",
-    "title": "Boston Dynamics spinoff looks to build robots for entertainment",
-    "description": "Dynamic Creatures, a Boston Dynamics spinoff, has launched to build robots for theme parks and retail, writing software and buying hardware from Unitree, AgiBot and Boston Dynamics. Europe’s Machinery Regulation covers AI safety functions from January 2027, and the French company that created this category was sold to a Shenzhen buyer last year. Dynamic Creatures,",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-09T18:38:44+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/dynamic-creatures-aldebaran.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/mobile/apples-new-iphone-duo-folds-like-a-passport/",
-    "title": "Apple’s New iPhone Duo Folds Like a Passport",
-    "description": "It’s like you’re opening a small book, not flipping a Star Trek communicator open.",
-    "categories": [
-      "Breaking News",
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-09-09T18:38:44+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/iPhoneDuo-shown-folded.png",
-    "source_name": "CNET.COM"
   }
 ]
