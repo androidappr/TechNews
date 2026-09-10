@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://thenextweb.com/news/huawei-us-racketeering-trial-opening-statements-brooklyn",
+    "title": "Huawei’s US racketeering trial opens with prosecutors calling it a criminal enterprise",
+    "description": "The United States opened its criminal case against Huawei in Brooklyn federal court on Wednesday, with a prosecutor describing two decades of conduct by the world’s largest telecoms equipment maker as theft, lies and cover-up. “Theft, lies, cover-up. For 20 years, that’s how Huawei victimized American companies,” said Taylor Stout, a Justice Department trial attorney, according",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-10T07:39:08+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/huawei-beijing-research-institute-building-q10.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/doj-nvidia-groq-licensing-antitrust-review",
+    "title": "The Justice Department is investigating whether Nvidia structured its Groq deal to avoid antitrust review",
+    "description": "The US Justice Department is examining whether Nvidia deliberately structured its licensing deal with inference chip designer Groq in a way that avoided antitrust review, according to a New York Times report. The Justice Department opened its inquiry shortly after the deal was announced in December and has since sent Nvidia a formal request for",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-10T07:26:50+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/The-US-Justice-Department.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/sanders-senate-ai-briefing-hinton-tegmark-cotra",
     "title": "Bernie Sanders convenes a private Senate briefing on AI dangers",
     "description": "Bernie Sanders will convene a private, bipartisan briefing for senators on the risks of artificial intelligence on 16 September. Geoffrey Hinton, Max Tegmark and Ajeya Cotra will address the room for an hour on Capitol Hill. The briefing was reported by Axios, byline Maria Curi. Sanders said AI has been receiving enormous attention in recent",
@@ -437,6 +460,7 @@
     "title": "Sources: DOJ is investigating whether Nvidia tried to skirt antitrust scrutiny of its 2025 Groq deal, described by Groq as a \"nonexclusive licensing agreement\" (New York Times)",
     "description": "New York Times:\nSources: DOJ is investigating whether Nvidia tried to skirt antitrust scrutiny of its 2025 Groq deal, described by Groq as a “nonexclusive licensing agreement”  —  The Justice Department is examining whether the tech giant sought to sidestep antitrust scrutiny.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-10T02:00:01+00:00",
@@ -2240,27 +2264,5 @@
     "pub_date": "2026-09-09T18:40:15+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/iphone-17-black.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://arstechnica.com/health/2026/09/what-to-know-about-covid-and-flu-shots-as-rfk-jr-s-chaos-drags-on/",
-    "title": "The quick guide to fall vaccines and when you should get them",
-    "description": "Here are the evidence-based recommendations and this year's vaccine rollout.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-09T18:39:36+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/GettyImages-1231396408-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2254149/iphone-18-pro-hands-on/",
-    "title": "iPhone 18 Pro hands-on: Variable aperture and stunning new colors",
-    "description": "It doesn't fold, but it probably is the one most people will buy.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-09T18:39:20+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/iphone-18-pro-hands-on/l-intro-1789018280.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
