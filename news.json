@@ -1,5 +1,18 @@
 [
   {
+    "link": "https://www.engadget.com/2255473/anthropic-caught-scientists-using-claude-to-further-biological-weapon-research/",
+    "title": "Anthropic caught scientists using Claude to further biological weapon research",
+    "description": "Anthropic produced an extensive collection of case studies covering the ways its current AI models have been misused.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-10T21:04:54+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/anthropic-caught-scientists-using-claude-to-further-biological-weapon-research/l-intro-1789073866.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
     "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
     "description": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
@@ -23,6 +36,17 @@
     "pub_date": "2026-09-10T20:57:30+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
+    "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
+    "description": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-10T20:55:29+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/linkedin-headquarters-1152x648-1789072079.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://www.techmeme.com/260910/p36#a260910p36",
@@ -712,6 +736,7 @@
     "title": "Anthropic says it disrupted several potential plots this year by scientists using its models for research that could have helped develop biological weapons (Dustin Volz/New York Times)",
     "description": "Dustin Volz / New York Times:\nAnthropic says it disrupted several potential plots this year by scientists using its models for research that could have helped develop biological weapons  —  In a new report, the A.I. start-up added that it could not determine if the research was legitimate or nefarious, leading the company to shut down the work.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-10T17:25:00+00:00",
@@ -770,8 +795,7 @@
     "title": "Euno raises $23m to give enterprise AI agents the context they lack",
     "description": "Euno has raised a $23m Series A led by N47. The startup builds what it calls a context platform for enterprise AI agents. Chief executive Sarah Levy first disclosed the round to Axios Pro, before the company published its announcement on Wednesday. Existing investor 10D also took part, alongside a group of founders from the",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-10T17:11:57+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/euno-founders-eyal-firstenberg-sarah-levy-studio.avif",
@@ -793,7 +817,6 @@
     "title": "Even Microsoft's own software teams are struggling with the avalanche of AI-generated code",
     "description": "Microsoft has had to change how it reviews extensions... again... because of how frequently developers are submitting.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-10T17:05:00+00:00",
@@ -2305,31 +2328,5 @@
     "pub_date": "2026-09-10T12:27:59+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/ctUFkwkvMxVyJJwJmZLPJ5-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/",
-    "title": "European founders and VCs urge lawmakers ‘to get EU Inc right’",
-    "description": "Amid negotiations for a new EU-wide corporate status, an open letter signed by unicorn founders and investors warns that 'EU Inc.' shouldn’t be watered down.",
-    "categories": [
-      "Government & Policy"
-    ],
-    "pub_date": "2026-09-10T12:25:08+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/wechat-worm-ai-calif-tencent-zero-click",
-    "title": "Researchers used AI to build a WeChat worm that spreads through phone calls",
-    "description": "Researchers at Calif, a Palo Alto security company, say they used AI to build a worm that spreads through WeChat calls. It takes over an account while the phone is still ringing. It then uses that account to call the victim’s contacts and repeat the trick. Tencent, which owns WeChat, has confirmed the flaw and",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Government & Policy",
-      "Mobile & Telecom",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-10T12:19:35+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/smartphone-incoming-call-notebook-desk.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
