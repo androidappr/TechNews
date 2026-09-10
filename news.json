@@ -1,5 +1,63 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+    "description": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-10T20:59:51+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+    "description": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-10T20:57:30+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260910/p36#a260910p36",
+    "title": "California Gov. Gavin Newsom signs bills restricting \"addictive\" social media features for under-16s and limiting minors' interactions with chatbots (Colin Lecher/CalMatters)",
+    "description": "Colin Lecher / CalMatters:\nCalifornia Gov. Gavin Newsom signs bills restricting “addictive” social media features for under-16s and limiting minors' interactions with chatbots  —  - Share on X (Opens in new window) X - Share on Facebook (Opens in new window) Facebook - Share on WhatsApp (Opens in new window) WhatsApp -",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-10T20:55:01+00:00",
+    "image_url": "http://www.techmeme.com/260910/i36.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://mashable.com/life/imdb-digital-creator-profiles",
+    "title": "Digital creators are now on IMDb. Heres why.",
+    "description": "IMDb has added a Digital Creator category with no film or TV credits required. Here’s what it means for creators and how much IMDbPro costs.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-10T20:49:21+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00nIoiN5JUaW3HOxWNSjP2j/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
+    "title": "Furo’s founders left Silicon Valley — and it’s paying off",
+    "description": "The three 28-year-old founders behind energy startup Furo moved from Silicon Valley and back to Germany, and yet secured $4 million in funding from mostly U.S. backers.",
+    "categories": [
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-10T20:48:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://www.engadget.com/2255433/meta-is-testing-community-notes-in-latin-america-fact-checkers-are-worried/",
     "title": "Meta is testing Community Notes in Latin America. Fact checkers are worried.",
     "description": "The company is suggesting that its work with traditional fact checkers could come to an end.",
@@ -57,6 +115,18 @@
     "pub_date": "2026-09-10T20:30:00+00:00",
     "image_url": "http://www.techmeme.com/260910/i35.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/",
+    "title": "NASA Answers President’s Call to Establish United States Space Academy",
+    "description": "Less than two weeks after an Executive Order was signed to create the first United States Space Academy, NASA-led work is in full swing to make the academy a reality and shape the future of America’s aerospace workforce and leadership. NASA Administrator Jared Isaacman chaired the first Presidential Commission on the United States Space Academy",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-10T20:26:52+00:00",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/spaceacademy.webp?w=1919",
+    "source_name": "NASA.GOV"
   },
   {
     "link": "https://www.techradar.com/pro/samsungs-most-expensive-portable-ssd-ever-goes-on-preorder-for-usd2-880-8tb-p9-usb-4-external-ssd-reaches-4-000-mb-s-and-has-a-shockingly-high-price-tag",
@@ -293,6 +363,7 @@
     "title": "OpenAI says it will pause new $200/month ChatGPT Pro subscriptions amid \"unprecedented\" Astra demand; existing accounts, other plans, and API are unaffected (Tibo/@thsottiaux)",
     "description": "Tibo / @thsottiaux:\nOpenAI says it will pause new $200/month ChatGPT Pro subscriptions amid “unprecedented” Astra demand; existing accounts, other plans, and API are unaffected  —  To make sure our current users have an incredible experience and continued access to Astra, we are going to pause subscriptions to our $200 Pro plan. These put the most strain on our systems and we wanted to take the smallest step that allows us to continue giving the broadest access possible. All ...",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-10T19:10:02+00:00",
@@ -780,7 +851,6 @@
     "title": "Drones deliver food and remove bodies after Nepal’s flood disaster",
     "description": "DJI drones that already supply Mount Everest camps assist Nepal’s flood relief.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware",
       "Government & Policy"
     ],
@@ -912,7 +982,6 @@
     "title": "Instagram’s latest feature lets you add tagged posts to your profile grid",
     "description": "Instagram's newest feature lets users take posts from the Tagged tab and move it to their main profile grid instead.",
     "categories": [
-      "Breaking News",
       "Social & Media",
       "Software & Apps"
     ],
@@ -1244,7 +1313,6 @@
     "title": "This might be iPhone 18 Pro’s best camera feature for most users",
     "description": "iPhone 18 Pro packs lots of camera upgrades (great rundown here), with the tentpole addition being variable aperture. But there’s one other Main camera change that users like me might deem their favorite.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-10T15:40:51+00:00",
@@ -1430,7 +1498,6 @@
     "title": "Where to preorder the new Apple Watch Series 12 and Ultra 4",
     "description": "The iPhone Duo was the unequivocal star of Apple's \"Surprise and shine\" event, but not for people who were mostly paying attention for news on wearables. Thankfully, Apple had a lot to share about its new Apple Watch Series 12 and Ultra 4. There's no update to the SE model for 2026, which isn't necessarily",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-10T15:00:00+00:00",
@@ -1465,7 +1532,6 @@
     "title": "Instagram now lets you add tagged photos to your profile grid",
     "description": "Instagram now lets you bring tagged photos to your main profile feed, and here's how to do it.",
     "categories": [
-      "Breaking News",
       "Software & Apps"
     ],
     "pub_date": "2026-09-10T15:00:00+00:00",
@@ -1533,7 +1599,6 @@
     "title": "Magic Capture is the best camera feature in a decade, and Pixel 11 owners need to use it ASAP",
     "description": "The Google Pixel 11 is filled with great Gemini-powered features, and Magic Capture is the best of them all.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-10T14:49:00+00:00",
@@ -2071,29 +2136,6 @@
     "source_name": "MASHABLE.COM"
   },
   {
-    "link": "https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/",
-    "title": "Snapchat takes aim at Partiful with new event-planning features",
-    "description": "Snapchat says the new features can be used to organize everything from birthday celebrations and sporting events to study sessions and weekend hangouts.",
-    "categories": [
-      "Social & Media",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-10T13:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/",
-    "title": "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
-    "description": "The buzzy startup raised another $600 million in a Series C extension round, bringing the total of the round to $900 million.",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-10T13:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
     "link": "https://www.engadget.com/2253274/insta360-luna-pro-review/",
     "title": "Insta360 Luna Pro review: Your Instagram Reels are about to get an upgrade",
     "description": "There's now a direct rival to the Osmo Pocket 4 you can easily buy in the US.",
@@ -2125,6 +2167,29 @@
     "pub_date": "2026-09-10T13:00:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/UNHAUNTED-tubi.jpg",
     "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/",
+    "title": "Snapchat takes aim at Partiful with new event-planning features",
+    "description": "Snapchat says the new features can be used to organize everything from birthday celebrations and sporting events to study sessions and weekend hangouts.",
+    "categories": [
+      "Social & Media",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-10T13:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/",
+    "title": "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
+    "description": "The buzzy startup raised another $600 million in a Series C extension round, bringing the total of the round to $900 million.",
+    "categories": [
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-10T13:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
   },
   {
     "link": "https://mashable.com/life/myfitnesspal-first-four-challenge",
@@ -2265,74 +2330,6 @@
     ],
     "pub_date": "2026-09-10T12:19:35+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/smartphone-incoming-call-notebook-desk.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/sept-10-samsung-odyssey-g5-gaming-monitor-deal",
-    "title": "The ultra-wide version of the Samsung Odyssey G5 gaming monitor gets a huge Amazon deal —  save $120",
-    "description": "Save $120 on Samsung's 34-inch Odyssey G5 ultra-wide gaming monitor at Amazon, now $279.99 in a limited-time deal.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-10T12:19:22+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02oKMpi6TInx2Gu95CDw3l9/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/apple-watch-series-12-hands-on",
-    "title": "Apple Watch Series 12 and Ultra 4 first look: AI and major health upgrades!",
-    "description": "Get a first look at the Apple Watch Series 12 and Ultra 4, including new sensors, health tracking, AI features and battery updates.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-10T12:18:01+00:00",
-    "image_url": "https://cdn.ex.co/transformations-account/production/a0be6317-e085-43f9-8cb5-7b125d25af4b/b0c7635f-91cd-5773-bc88-18bd6c3b5ccc/master.m3u8",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/iphone-duo-first-look",
-    "title": "Apples iPhone Duo: The foldable phone of the future",
-    "description": "CNET's Abrar Al-Heeti takes a first look at Apple's iPhone Duo, exploring its battery, features, design and crease.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-10T12:06:48+00:00",
-    "image_url": "https://cdn.ex.co/transformations-account/production/a0be6317-e085-43f9-8cb5-7b125d25af4b/0c26d9af-284f-5f4f-847b-7bbf9b5c7783/master.m3u8",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.cnet.com/science/space/nasa-ibm-launch-open-source-ai-model-future-moon-explorations/",
-    "title": "NASA and IBM Launch Open-Source AI Model for Future Moon Explorations",
-    "description": "One small step for AI, one giant leap for mankind.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-10T12:05:57+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Dark-Craters-Bright-Views.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/automattic-ceo-matt-mullenweg-forced-into-leave-of-absence-by-wordpress-parent-company-board",
-    "title": "Automattic CEO Matt Mullenweg 'forced' into leave of absence by WordPress.com parent company board",
-    "description": "Mullenweg apparently forced out as CEO – we don't know when (or if) he will return.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-10T12:05:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/7NLZKWEKmFLJVAH4nubeaX-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/nasa-ibm-lunar-foundation-model-open-source",
-    "title": "IBM and NASA release an open-source lunar foundation model",
-    "description": "IBM and NASA are releasing an AI model trained on decades of observations of the Moon, and making it available openly. The NASA-IBM Lunar Foundation Model is arriving on Hugging Face alongside what its creators describe as the first unified, machine-learning-ready dataset of the Moon. The problem is not a lack of data; it is",
-    "categories": [
-      "Breaking News",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-10T12:00:52+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/Cape-Kennedy-Launch-Control-Center.avif",
     "source_name": "THENEXTWEB.COM"
   }
 ]
