@@ -1,5 +1,18 @@
 [
   {
+    "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+    "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+    "description": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-10T23:28:42+00:00",
+    "image_url": "https://media.wired.com/photos/6aa304df834bd0176b553b6c/master/pass/Model-Behavior-OpenAI-Anthropic-AI-Slowdown-Business.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/the-us-navy-is-powering-drone-ships-with-rolls-royce-engines-which-can-drive-for-up-to-30-days-without-human-intervention",
     "title": "The US Navy is powering drone ships with Rolls-Royce engines which can drive for up to 30 days without human intervention",
     "description": "The US Navy approves Rolls Royce Series 4000 and 2000 engines for unmanned vessels capable of missions lasting up to 30 days.",
@@ -349,7 +362,6 @@
     "description": "Anthropic has published its most detailed account of Claude misuse, laying out how people tried to use its models for harm. The company said it detected and shut down these operations. They ran across cyberattacks, state surveillance, influence campaigns, conventional weapons work and biological research. It set out the cases in a threat intelligence report",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy",
       "Government & Policy"
     ],
@@ -625,7 +637,6 @@
     "description": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI companies are pitching schools on",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Government & Policy",
       "Social & Media"
     ],
@@ -638,7 +649,6 @@
     "title": "OpenAI says it has built an 'automated research intern' to carry out menial tasks — and it's only just getting started",
     "description": "Development of a dedicated AI agent specifically designed for automated research tasks has been confirmed by OpenAI.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-10T19:40:00+00:00",
@@ -651,7 +661,6 @@
     "description": "AI inference company Baseten has acquired Blaxel, a startup that builds secure execution environments, or sandboxes, for AI agents. Baseten co-founder and chief technology officer Amir Haghighat told Axios Pro about the deal, which the outlet reported first on Thursday. Baseten later announced the acquisition. Axios describes Blaxel as a San Francisco startup. The announcement",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-09-10T19:39:45+00:00",
@@ -1020,7 +1029,6 @@
     "title": "Anthropic details distillation efforts by Chinese companies, like Moonshot and DeepSeek, sending user queries to Claude via \"transfer stations\" outside China (Wall Street Journal)",
     "description": "Wall Street Journal:\nAnthropic details distillation efforts by Chinese companies, like Moonshot and DeepSeek, sending user queries to Claude via “transfer stations” outside China  —  Anthropic says DeepSeek and Moonshot used thousands of fake accounts and millions of real user queries in ‘distillation’ effort to clone its AI capabilities",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-10T17:36:03+00:00",
@@ -2294,16 +2302,5 @@
     "pub_date": "2026-09-10T13:48:07+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/ramp-cofounders-karim-atiyeh-eric-glyman.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260910/p20#a260910p20",
-    "title": "Amazon partners with OpenAI to let advertisers buy ChatGPT ads via Amazon DSP as a managed service in a US-only pilot; OpenAI will control ad delivery decisions (Peter Adams/Marketing Dive)",
-    "description": "Peter Adams / Marketing Dive:\nAmazon partners with OpenAI to let advertisers buy ChatGPT ads via Amazon DSP as a managed service in a US-only pilot; OpenAI will control ad delivery decisions  —  Conversational ads inventory will be available as a managed service via Amazon DSP, but OpenAI will handle placement through its own systems.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-10T13:45:06+00:00",
-    "image_url": "http://www.techmeme.com/260910/i20.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
