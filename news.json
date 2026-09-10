@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+    "description": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-10T00:00:37+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/lg-denies-its-televisions-record-ambient-conversations-for-ad-targeting/",
+    "title": "LG Denies Its Televisions Record Ambient Conversations for Ad Targeting",
+    "description": "Researchers say that they exploited the microphone and content recognition features of an LG TV to listen to user conversations.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-09T23:50:39+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/f877ae15-5bf9-4679-97aa-3f1736a22fbe.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/mobile/apple-2026-hardware-and-feature-release-dates/",
+    "title": "Not Every Feature Apple Announced Is Ready to Go. Here’s When to Expect Them All",
+    "description": "Some of the most interesting features won’t ship with the iPhone Duo, iPhone 18 Pro, Apple Watch Series 12 and Ultra 4.",
+    "categories": [
+      "Breaking News",
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-09-09T23:48:22+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-09-09-at-1.59.35-PM.png",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260909/p48#a260909p48",
     "title": "Apple unveils a new Health app with Apple Intelligence, featuring an Insights tab, \"readiness\" and Health Age metrics, and more, rolling out later in 2026 (Sarah Perez/TechCrunch)",
     "description": "Sarah Perez / TechCrunch:\nApple unveils a new Health app with Apple Intelligence, featuring an Insights tab, “readiness” and Health Age metrics, and more, rolling out later in 2026  —  Alongside the new Apple Watch Series 12 and Ultra 4, Apple on Wednesday introduced a redesigned Apple Health app …",
@@ -61,7 +97,7 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.cnet.com/tech/mobile/favorite-things-apples-iphone-18-duo-event/",
+    "link": "https://www.cnet.com/tech/mobile/favorite-things-apples-iphone-18-duo-event-2/",
     "title": "My Favorite Things from Apple’s iPhone 18 Event",
     "description": "The iPhone 18 Pro and Pro Max and the buzzy foldable iPhone Duo bring some great stuff. But there are some downsides, too.",
     "categories": [
@@ -647,6 +683,19 @@
     "source_name": "TECHRADAR.COM"
   },
   {
+    "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+    "title": "4 groups caught using the same Chrome and Windows exploit kit",
+    "description": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-09T20:55:02+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
     "link": "https://mashable.com/tech/apple-polishing-cloth-iphone-duo",
     "title": "Relax, Apples Polishing Cloth is compatible with the iPhone Duo",
     "description": "Good news, everyone! Apple's Polishing Cloth is \"compatible\" with the iPhone Duo.",
@@ -823,6 +872,18 @@
     "pub_date": "2026-09-09T20:30:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/U8EMRgNDt3a9Cv8iNUaaNE-1280-80.jpeg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/",
+    "title": "Europe may finally have found a space entrepreneur who is meeting the moment",
+    "description": "\"We will not be relevant without a massive rocket at a massive cadence.\"",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-09T20:27:40+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237740895-1024x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
@@ -1048,8 +1109,7 @@
     "title": "Google and NASA JPL release an AI model that maps methane plumes worldwide",
     "description": "Google Research and NASA JPL have released a deep learning model that maps methane plumes globally at 60 metres, finding about 50% more than human analysts and 23,000 additional plumes, including at 24 of the 25 largest-emitting landfills. Europe’s Methane Regulation ordered a satellite monitoring tool and a super-emitter alert system, but it covers only",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-09T19:48:07+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/google-methane-map-eu-rules.avif",
@@ -1302,6 +1362,7 @@
     "title": "Sources: Salesforce has been in talks to buy Listen Labs, an AI-powered customer research platform for $2B; Listen Labs was valued at $500M earlier this year (Business Insider)",
     "description": "Business Insider:\nSources: Salesforce has been in talks to buy Listen Labs, an AI-powered customer research platform for $2B; Listen Labs was valued at $500M earlier this year  —  - Salesforce has been in talks to acquire AI startup Listen Labs for around $2 billion.  — Listen Labs, which was last valued …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-09T19:20:02+00:00",
@@ -2277,7 +2338,6 @@
     "title": "Apple Debuts the iPhone Duo, Its First Foldable Phone",
     "description": "The phone has a 7.6-inch inside display and a 5.4-inch cover display. It’ll be available in October.",
     "categories": [
-      "Breaking News",
       "Mobile & Telecom"
     ],
     "pub_date": "2026-09-09T18:01:23+00:00",
@@ -2313,7 +2373,6 @@
     "title": "Apple Debuts the iPhone Duo, Its First Folding iPhone",
     "description": "The iPhone with a folding screen is the first radical redesign of Apple’s flagship handset in years. The iPhone Duo will cost $1,999 when it arrives in October.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware",
       "Mobile & Telecom",
       "Software & Apps"
@@ -2345,67 +2404,5 @@
     "pub_date": "2026-09-09T17:55:37+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Sept-26-EventApple-Watch.jpg",
     "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260909/p32#a260909p32",
-    "title": "Apple announces two AirPods 5 models with ANC that removes up to 50% more noise than AirPods 4, for $129 or $149 with a wireless charging case (Ryan Christoffel/9to5Mac)",
-    "description": "Ryan Christoffel / 9to5Mac:\nApple announces two AirPods 5 models with ANC that removes up to 50% more noise than AirPods 4, for $129 or $149 with a wireless charging case  —  Today during its iPhone 18 Pro event, Apple announced the next generation AirPods 5 with improved active noise cancellation.  Here are the details.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-09T17:55:04+00:00",
-    "image_url": "http://www.techmeme.com/260909/i32.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/mobile/phone-18-pro-camera-upgrades-variable-aperture-pro-controls/",
-    "title": "iPhone 18 Pro Camera Upgrades: Variable Aperture and Pro Controls",
-    "description": "Apple’s camera app is getting manual pro controls for the first time.",
-    "categories": [
-      "Breaking News",
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-09-09T17:52:01+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-09-09-at-1.21.41-PM.png",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/apple-iphone-18-pro-variable-aperture-siri-ai-eu",
-    "title": "Apple’s iPhone 18 Pro has variable aperture, and no Siri AI in Europe",
-    "description": "Apple has announced the iPhone 18 Pro and iPhone 18 Pro Max. The headline feature is a camera that can change its aperture, which no iPhone has done before. Two of the phone’s flagship features will not work in Europe at launch. Apple announced both models on Wednesday. Pre-orders open on Saturday 12 September and",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-09T17:51:15+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/iphone-18-pro-and-iphone-18-pro-max.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/mobile/apple-introduces-new-airpods-5-with-improved-noise-canceling/",
-    "title": "Apple Introduces New AirPods 5 With Improved Noise Canceling",
-    "description": "Like their AirPods 4, the AirPods 5 come in two versions, but both now feature active noise-canceling — and it’s 50% more effective.",
-    "categories": [
-      "Breaking News",
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-09-09T17:50:23+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-AirPods-5_1.jpeg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260909/p31#a260909p31",
-    "title": "iPhone 18 Pro comes with a smaller Dynamic Island; 18 Pro starts at $1,199 and the 18 Pro Max starts at $1,299, both costing $100 more than the 17 Pro lineup (Devindra Hardawar/Engadget)",
-    "description": "Devindra Hardawar / Engadget:\niPhone 18 Pro comes with a smaller Dynamic Island; 18 Pro starts at $1,199 and the 18 Pro Max starts at $1,299, both costing $100 more than the 17 Pro lineup  —  And it now comes in burgundy.  —  While all eyes are on Apple's first foldable, the company hasn't forgotten …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-09T17:50:02+00:00",
-    "image_url": "http://www.techmeme.com/260909/i31.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
