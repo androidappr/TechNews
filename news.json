@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://thenextweb.com/news/elevenlabs-g-cloud-15-uk-listing",
+    "title": "ElevenLabs lists five services on the UK government’s GBP 14B cloud framework",
+    "description": "Five ElevenLabs services are listed on the software lot of G-Cloud 15, the UK government’s cloud buying framework, according to the Digital Marketplace. They cover conversational agents, transcription, dubbing and text-to-speech. Three months ago the same government signed an agreement with the company that committed it to buying nothing. TNW reported in June that the",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-11T17:05:54+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/elevenlabs-ashley-kramer-chief-revenue-officer-openai-ai-act-article-50.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/11/apple-sets-cutoff-time-for-getting-faster-iphone-18-pro-pre-order/",
+    "title": "Apple sets cutoff time for getting faster iPhone 18 Pro pre-order",
+    "description": "iPhone 18 Pro pre-orders start tomorrow, and you can “Get Ready” by making your selections in advance via the online Apple Store. Here’s the deadline for when those decisions need to be locked in ahead of pre-orders opening.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-11T17:05:08+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techradar.com/audio/wireless-headphones/the-jbl-live-680nc-may-sound-good-but-the-battery-life-and-plethora-of-top-features-are-the-star-of-the-show",
+    "title": "The JBL Live 680NC may sound good, but the battery life and plethora of top features are the star of the show",
+    "description": "The JBL Live 680NC are almost a budget set at $150, plus they sound pretty good, come with a ridiculous amount of features and a long, long battery life.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-11T17:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/eVNYZhCfJaAXndxfw6UkB9-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
     "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
     "description": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
@@ -272,18 +307,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techradar.com/streaming/hbo-max/what-is-the-release-date-and-launch-time-for-lanterns-episode-5-on-hbo-max",
-    "title": "What is the release date and launch time for Lanterns episode 5 on HBO Max?",
-    "description": "Titled 'Lights Out', here's when the fifth episode of Lanterns will premiere where you live.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-11T16:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/HmXSjghg5E2h75Nmqo6oTb-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/how-to-watch/tennis/zverev-vs-khachanov-us-open-2026-mens-semi-final",
     "title": "How to watch Zverev vs Khachanov: US Open 2026 Men's Semi-Final FREE Live Streams, TV Channels",
     "description": "All the ways to watch Zverev vs Khachanov live streams online in the US Open 2026 men's semi-final from anywhere in the world, including FREE options.",
@@ -293,6 +316,18 @@
     ],
     "pub_date": "2026-09-11T16:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/vGNQtUTQVDzCVeuw6AAtXc-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/streaming/hbo-max/what-is-the-release-date-and-launch-time-for-lanterns-episode-5-on-hbo-max",
+    "title": "What is the release date and launch time for Lanterns episode 5 on HBO Max?",
+    "description": "Titled 'Lights Out', here's when the fifth episode of Lanterns will premiere where you live.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-11T16:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/HmXSjghg5E2h75Nmqo6oTb-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -695,8 +730,8 @@
   },
   {
     "link": "https://9to5mac.com/2026/09/11/microsoft-copilot-joins-carplay-leaving-gemini-as-the-biggest-holdout/",
-    "title": "Microsoft Copilot joins CarPlay, leaving Gemini as the biggest holdout",
-    "description": "Apple CarPlay now works with six major third-party AI chatbot apps. Microsoft Copilot is the latest iPhone app to add CarPlay support. This leaves Google Gemini as the last major holdout for now.\n\n\n\n more…",
+    "title": "CarPlay now works with six major AI chatbot apps with one key holdout",
+    "description": "Apple CarPlay now works with six major third-party AI chatbot apps. Microsoft Copilot is the latest iPhone app to add CarPlay support.\n\n\n\n more…",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -956,7 +991,6 @@
     "title": "Threat intelligence report: Anthropic says it disrupted a Yemen-based guided weapons engineering cell using Claude to build missile and rocket guidance software (Bloomberg)",
     "description": "Bloomberg:\nThreat intelligence report: Anthropic says it disrupted a Yemen-based guided weapons engineering cell using Claude to build missile and rocket guidance software  —  Anthropic PBC uncovered a group in northern Yemen — where Iran-backed Houthi militants operate — using its Claude AI model …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-11T13:15:01+00:00",
@@ -1003,7 +1037,6 @@
     "description": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-09-11T13:02:35+00:00",
@@ -2272,39 +2305,6 @@
     ],
     "pub_date": "2026-09-11T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/doordash-promo-code/",
-    "title": "50% Off DoorDash Promo Code | September 2026",
-    "description": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-11T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/canon-promo-code/",
-    "title": "30% Off Canon Promo Codes | September 2026",
-    "description": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this September 2026.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-11T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/surfshark-coupon/",
-    "title": "Surfshark Promo Codes: 87% Off | September 2026",
-    "description": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-11T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg",
     "source_name": "WIRED.COM"
   }
 ]
