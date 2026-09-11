@@ -1,5 +1,39 @@
 [
   {
+    "link": "https://www.techmeme.com/260911/p16#a260911p16",
+    "title": "Threat intelligence report: Anthropic says it disrupted a Yemen-based guided weapons engineering cell using Claude to develop guidance software for missiles (Bloomberg)",
+    "description": "Bloomberg:\nThreat intelligence report: Anthropic says it disrupted a Yemen-based guided weapons engineering cell using Claude to develop guidance software for missiles  —  Anthropic PBC uncovered a group in northern Yemen — where Iran-backed Houthi militants operate — using its Claude AI model …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-11T13:15:01+00:00",
+    "image_url": "http://www.techmeme.com/260911/i16.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/a-new-android-attack-combines-malware-and-ransomware-in-a-cocktail-of-cybercrime",
+    "title": "A new Android attack combines malware and ransomware in a cocktail of cybercrime",
+    "description": "Unique malware variant spotted targeting Android users, taking photos with victim cameras before deploying an encryptor.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-11T13:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/BiyAK4BXKKfecCWadFcHGo-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/computing/iphone-duo-ipad-replacement-or-not-commentary/",
+    "title": "The iPhone Duo Isn’t the Pocket iPad… or Is It?",
+    "description": "Commentary: I can’t figure out if the Duo would replace my iPad, or if it’s just a portable alternative.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-11T13:04:14+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/iPhone-Duo-2.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.engadget.com/2253293/bose-quietcomfort-headphones-2nd-gen-review/",
     "title": "Bose QuietComfort Headphones (2nd gen) review: Upgraded in all the right places",
     "description": "Ultra-level features and a few design tweaks highlight the updates on the second-gen QuietComfort Headphones.",
@@ -9,6 +43,19 @@
     "pub_date": "2026-09-11T13:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/bose-quietcomfort-headphones-2nd-gen-review-upgraded-in-all-the-right-places/l-intro-1788899173.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/amazon-ads-chatgpt-ads-openai-pilot",
+    "title": "Amazon lets its advertisers buy ads in ChatGPT in a pilot with OpenAI",
+    "description": "Amazon will let advertisers buy ads in ChatGPT through its own advertising platform. Amazon Ads announced the partnership with OpenAI in a blog post on 10 September. Select US advertisers are already testing it in a pilot. Advertisers who plan and run campaigns with Amazon Ads can now extend them to ChatGPT, the company said.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-11T13:00:00+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/amazon-ads-chatgpt-ads-logos.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://thenextweb.com/news/trump-ai-extinction-risk-lab-staff-eu-china",
@@ -228,6 +275,19 @@
     "pub_date": "2026-09-11T11:43:32+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/TyufjZN9Ty6g2r9S6CoJgd-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/anthropic-ai-economic-scenarios-2030",
+    "title": "Anthropic maps three AI economies, from a mild boost to mass job loss",
+    "description": "Anthropic has built a model of how AI might reshape the US economy by 2030. Its most extreme case describes an economy roughly a third larger than it would otherwise be. That same case carries knowledge-work unemployment near 18 percent. The company published the model on 10 September as an interactive scenario explorer, based on",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-11T11:36:25+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/anthropic-diverging-scenario-lines-graph-paper.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://thenextweb.com/news/oracle-664bn-backlog-spending-ahead-of-revenue",
@@ -783,7 +843,6 @@
     "title": "The US and Mexico Announce They’re Teaming Up Against Drones",
     "description": "The new joint operation uses laser-based technology capable of detecting, tracking, and disabling commercial drones linked to human and drug trafficking.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-09-11T09:15:00+00:00",
@@ -2204,62 +2263,5 @@
     "pub_date": "2026-09-10T20:15:01+00:00",
     "image_url": "http://www.techmeme.com/260910/i34.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go/",
-    "title": "NASA’s Life-Saving Technology Where Cell Signals Can’t Go",
-    "description": "Search and rescue technology developed in part by NASA saved five lives",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-10T20:12:39+00:00",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/12/on-coast-guard-boat.png?w=1536",
-    "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/10/report-iphone-duo-could-give-apple-a-25-share-of-foldable-market-in-2026/",
-    "title": "Report: iPhone Duo could give Apple a 25% share of foldable market in 2026",
-    "description": "A new TrendForce report says the iPhone Duo is expected to capture 24,8% of the foldable smartphone market in 2026 alone, countering a 20% slump in the segment. Here are the details.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-10T20:04:18+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iPhone-Duo-apps.webp?w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260910/p33#a260910p33",
-    "title": "ID verification service IDScan confirms that a data breach involved the theft of driver's licenses from its systems after hackers offered 153M licenses for sale (Zack Whittaker/TechCrunch)",
-    "description": "Zack Whittaker / TechCrunch:\nID verification service IDScan confirms that a data breach involved the theft of driver's licenses from its systems after hackers offered 153M licenses for sale  —  ID verification service IDScan has confirmed that a data breach involved the theft of driver's licenses from its systems …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-10T19:55:00+00:00",
-    "image_url": "http://www.techmeme.com/260910/i33.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-    "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-    "description": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
-    "categories": [
-      "AI & Machine Learning",
-      "Social & Media",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-10T19:50:04+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/services-and-software/apple-watch-audio-intelligence-ai-always-listening-commentary/",
-    "title": "Don’t Sleep on Apple’s Audio Intelligence. It Reveals a Lot About Where We’re Headed",
-    "description": "Commentary: Apple’s new memory tools are a sign of how tech companies are pushing into a new wave of AI wearables, and glasses are likely next.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-10T19:49:13+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-09-09-at-1.46.15-PM-1.png",
-    "source_name": "CNET.COM"
   }
 ]
