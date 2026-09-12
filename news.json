@@ -1,5 +1,77 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+    "title": "Trump is giving data centers a pass to pollute",
+    "description": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a \"Data Center Health Protection",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-12T14:41:27+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+    "title": "Revolut confirms customer data breach through fake government requests",
+    "description": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-12T14:40:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techradar.com/phones/iphone/apple-iphone-18-pro-preorders-are-live-at-t-mobile-with-up-to-usd1-200-off-in-savings-yep-enough-to-get-a-device-included",
+    "title": "Apple iPhone 18 Pro preorders are live at T-Mobile with up to $1,200 off in savings — yep, enough to get a device included",
+    "description": "T-Mobile’s iPhone 18 Pro deals keep pace with rivals, but one offer stands out for most people today.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-12T14:35:07+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/5yt4BHMcTqXMpyGRdiQy9L-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2252766/how-to-clean-sanitize-secondhand-electronics-tech/",
+    "title": "How to properly clean and sanitize your secondhand tech finds",
+    "description": "Cleaning secondhand gadgets is essential, since you never know how dirty something is. Thankfully, it's not hard to polish them up before reuse.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-12T14:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-to-properly-clean-and-sanitize-your-secondhand-tech-finds/l-intro-1787851067.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/one-of-the-worst-outcomes-for-companies-is-reacting-in-a-knee-jerk-fashion-before-the-rewards-can-be-reaped-how-game-engines-version-control-software-and-ai-are-delivering-new-benefits-and-challenges-to-almost-every-industry",
+    "title": "‘One of the worst outcomes for companies is reacting in a knee-jerk fashion before the rewards can be reaped’: How game engines, version control software, and AI are delivering new benefits and challenges to almost every industry",
+    "description": "I spoke to Brent Schiestl of Perforce to learn more about how AI is affecting real-time workflows, and the extra tools businesses are deploying to manage assets and measure productivity.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-12T14:30:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/AvZcjmUMtehpuha5oJLcTB-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/televisions/lgs-denial-over-tv-spying-claims-does-not-address-the-full-privacy-picture-experts-say-after-report-accuses-it-of-making-216-000-000-spy-tvs",
+    "title": "LG's denial over TV spying claims ‘does not address the full privacy picture’, experts say — after report accuses it of making ‘216,000,000 spy TVs’",
+    "description": "LG has defended the data collection that happens on its TVs, saying its standard industry practice — but is that right?",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-12T14:30:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/xvaeTxCnsxd8qV2JYMjiPZ-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://mashable.com/tech/apple-iphone-18-pro-max-preorders-live-sept-12",
     "title": "iPhone 18 Pro preorders are officially live: Everything to know before buying",
     "description": "The iPhone 18 Pro and iPhone 18 Pro Max are on sale now ahead of a Sept. 18 launch date.",
@@ -57,6 +129,19 @@
     "pub_date": "2026-09-12T14:11:40+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/05zVyMLamlDgp3lh196FI9c/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2256577/how-to-get-started-with-meta-s-new-ai-agent-muse/",
+    "title": "How to get started with Meta's new AI agent, Muse",
+    "description": "After a few days of testing Meta's AI agent Muse. I can confirm that there is very little learning curve to get started.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-12T14:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-to-get-started-with-metas-new-ai-agent-muse/l-intro-1789165341.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.techradar.com/cameras/instant-cameras/fujifilm-instax-mini-13-review",
@@ -645,17 +730,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.techradar.com/how-to-watch/rugby/pacific-nations-cup-2026-free-rugby-live-streams",
-    "title": "How to watch Pacific Nations Cup 2026: FREE rugby live streams from anywhere, schedule",
-    "description": "See how to watch Pacific Nations Cup 2026 live streams for free and no matter where in the world you are, as Fiji shoot for three titles in a row, in Tokyo.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-12T04:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/anVo2AbHQowH33vioVXAYd-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://mashable.com/entertainment/hurdle-hints-answers-september-12-2026",
     "title": "Hurdle hints and answers for September 12, 2026",
     "description": "Hints and answers to today's Hurdle all in one place.",
@@ -676,6 +750,17 @@
     "pub_date": "2026-09-12T04:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/02OP8IjjGCBFoMKWNvBmybg/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/how-to-watch/rugby/pacific-nations-cup-2026-free-rugby-live-streams",
+    "title": "How to watch Pacific Nations Cup 2026: FREE rugby live streams from anywhere, schedule",
+    "description": "See how to watch Pacific Nations Cup 2026 live streams for free and no matter where in the world you are, as Fiji shoot for three titles in a row, in Tokyo.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-12T04:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/anVo2AbHQowH33vioVXAYd-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://www.techradar.com/phones/phone-accessories/best-iphone-duo-cases",
@@ -2174,84 +2259,5 @@
     "pub_date": "2026-09-11T15:19:00+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techradar.com/televisions/our-tv-experts-say-this-is-the-best-budget-oled-tv-of-2026-and-the-65-inch-model-just-hit-its-lowest-price-ever",
-    "title": "Our TV experts say this is the best budget OLED TV of 2026 — and the 65-inch model just hit its lowest price ever",
-    "description": "The LG B6 is the best budget OLED TV of 2026, and the 65-inch model just dropped to a record-low price of $1,1199.99 which is an incredible deal.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-11T15:15:21+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/pgWMAoPZuavtdFd3rHjpfm-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/993898/nicholaslighttv-remove-your-media-youtube-crunchyroll-viz-media",
-    "title": "Anime reaction YouTubers are at war with copyright enforcers",
-    "description": "On September 6th, YouTuber Nicholas Light posted a video to one of his channels that made it seem like all of his content was about to be removed from the platform. In the video - ominously titled \"My Channel will be Deleted Today\" - Light alleges that he was on the receiving end of some",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-11T15:12:58+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268740_Youtuber_account_deleted_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260911/p19#a260911p19",
-    "title": "Meta says it's changing AI suggestions after posing invasive personal questions (Emma Roth/The Verge)",
-    "description": "Emma Roth / The Verge:\nMeta says it's changing AI suggestions after posing invasive personal questions  —  The change comes after a viral video showed Meta AI prompting a user to identify the child in one of her videos. … Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-11T15:10:00+00:00",
-    "image_url": "http://www.techmeme.com/260911/i19.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/vpn/vpn-privacy-security/techradars-new-privacy-newsletter-is-out-read-leave-no-trace-issue-2-now",
-    "title": "TechRadar's new privacy newsletter is out — read Leave No Trace issue #2 now",
-    "description": "If you haven't done it yet, sign up to Leave No Trace now to get the digital privacy stories that matter most each week, directly to your inbox.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-11T15:05:30+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/xrP5KPar5BTwVvtjMVsizj-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/",
-    "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
-    "description": "Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will discuss their upcoming return to Earth. Learn where",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-11T15:05:20+00:00",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/crew-12-advisory-spet-11.jpg?w=1920",
-    "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://www.androidcentral.com/wearables/garmin/after-years-of-hating-running-this-garmin-watch-transformed-me-and-now-its-cheaper-than-ever-before",
-    "title": "After years of hating running, this Garmin watch transformed me — and now it's cheaper than ever before",
-    "description": "I wear the Garmin Venu 3S every day, and it just scored a historic discount at Amazon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-11T15:04:49+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/2nu9Zi4TSwSN4zVkRWVrDe-1280-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.techradar.com/phones/iphone/thinking-of-buying-an-iphone-18-pro-or-iphone-duo-for-a-lower-price-overseas-here-are-5-things-to-consider-before-you-do-and-why-id-still-recommend-buying-locally",
-    "title": "Thinking of buying an iPhone 18 Pro or iPhone Duo for a lower price overseas? Here are 5 things to consider before you do — and why I'd still recommend buying locally",
-    "description": "Before you buy the iPhone 18 Pro or iPhone Duo for a lower price overseas, there are several things you should be aware of.",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-11T15:03:52+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/9jtZqsffXkkJxVCgy42peQ-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
