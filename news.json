@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.techradar.com/gaming/diablo-v-announced-and-fully-embraces-bleakness-defeat-darkness-and-hopelessness-for-sanctuary-as-blizzard-also-confirms-diablo-4-is-coming-to-switch-2",
+    "title": "Diablo V announced and fully embraces bleakness, defeat, darkness, and hopelessness for Sanctuary, as Blizzard also confirms Diablo 4 is coming to Switch 2",
+    "description": "Diablo V was a surprise announcement at BlizzCon 2026 and looks to double down on the darkness of its predecessor",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-12T20:21:22+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/QLRPmwh4TH7GtknXZmuyCf-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "description": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-12T20:19:16+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
     "title": "StarCraft returns in 2030 as an open-world shooter",
     "description": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it had been canceled in 2014. Now Blizzard is giving it another go with the simply titled StarCraft. Dan Hay,",
@@ -21,6 +44,18 @@
     "pub_date": "2026-09-12T20:05:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/vpMLrxEHJQtnxiskpWyFuZ-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2252797/nvidia-dlss-5-why-internet-people-upset-issues/",
+    "title": "Why is the internet so upset about NVIDIA's DLSS 5?",
+    "description": "NVIDIA calls DLSS 5 the biggest graphics breakthrough since ray tracing; critics call it an AI slop filter.",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-09-12T20:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/why-is-the-internet-so-upset-about-nvidias-dlss-5/l-intro-1788358512.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-13-924/",
@@ -397,8 +432,7 @@
     "title": "Meta Pulls Invasive AI Prompts After Mother Reveals Feature Scraping Family Data",
     "description": "An innocent video on Instagram has gone viral and triggered a major privacy scare.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-12T16:31:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/AdobeStock_1980077289_Editorial_Use_Only.jpeg",
@@ -420,7 +454,6 @@
     "title": "The US legal system is struggling to keep up with AI, grappling with cases where chatbots provided counsel, generated evidence, or helped plan a mass shooting (Evan Ratliff/Bloomberg)",
     "description": "Evan Ratliff / Bloomberg:\nThe US legal system is struggling to keep up with AI, grappling with cases where chatbots provided counsel, generated evidence, or helped plan a mass shooting  —  The first line Phoenix Ikner typed into ChatGPT was a quadratic expression.  It was March 2024, and Ikner was a 19-year-old student at Tallahassee State College, in Florida.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-12T16:25:01+00:00",
@@ -432,8 +465,7 @@
     "title": "Anthropic’s Dario Amodei says the AI industry must slow down",
     "description": "Dario Amodei has called on the AI industry to slow the pace at which it improves models, committing Anthropic to embedded third-party evaluators and asking Washington for an antitrust waiver so competitors can coordinate on safety. Much of what he describes has been binding on general-purpose models with systemic risk in the EU since August",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-12T16:24:12+00:00",
     "image_url": "https://media.thenextweb.com/2026/07/anthropic-dario-amodei-open-weights-position-not-ban.avif",
@@ -445,7 +477,6 @@
     "description": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-09-12T16:23:40+00:00",
@@ -719,7 +750,6 @@
     "title": "iPhone 18 Pro preorders are officially live: Everything to know before buying",
     "description": "The iPhone 18 Pro and iPhone 18 Pro Max are on sale now ahead of a Sept. 18 launch date.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-12T14:26:41+00:00",
@@ -731,7 +761,6 @@
     "title": "Amodei says Anthropic is \"unilaterally committing\" to giving third-party evaluators permanent, employee-like access to verify its adherence to safety measures (Dario Amodei/@darioamodei)",
     "description": "Dario Amodei / @darioamodei:\nAmodei says Anthropic is “unilaterally committing” to giving third-party evaluators permanent, employee-like access to verify its adherence to safety measures  —  We Must Pace the Frontier: I've written a new essay on why the AI industry should slow down, with a three-part plan for doing so. Anthropic is unilaterally committing to the first of these steps. We'll provide third-party evaluators with permanent, employee-level access to our systems, so that the...",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-12T14:25:02+00:00",
@@ -2223,38 +2252,5 @@
     "pub_date": "2026-09-11T18:47:21+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/WVWmvsE4kWksSFLnusVeWZ-1280-80.jpg",
     "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260911/p24#a260911p24",
-    "title": "Sources: some lawmakers urge Speaker Johnson to cancel the fall House recess until Congress passes AI safeguards, after Anthropic researcher warnings (Andrew Solender/Axios)",
-    "description": "Andrew Solender / Axios:\nSources: some lawmakers urge Speaker Johnson to cancel the fall House recess until Congress passes AI safeguards, after Anthropic researcher warnings  —  A letter is circulating among House members urging Speaker Mike Johnson (R-La.) to bring back the House “immediately” …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-11T18:35:01+00:00",
-    "image_url": "http://www.techmeme.com/260911/i24.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/china-car-exports-eu-phev-gap",
-    "title": "China’s car exports beat last year’s record with four months to go",
-    "description": "China exported more than 6.2 million passenger cars in the first eight months of this year, beating its full-year total for 2025 with four months to spare, while domestic sales fell 25.6% in August. Europe absorbed much of the growth through plug-in hybrids, which the EU’s tariff on Chinese cars does not cover, and BYD’s",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-11T18:33:59+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/aerial-rows-new-cars-storage-lot.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
-    "title": "Oracle tries to appease Stargate data center opponents with renewables push",
-    "description": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-11T18:22:22+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Project-Jupiter-data-center-construction-July-2026-1152x648.png",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
