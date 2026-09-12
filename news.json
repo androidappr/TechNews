@@ -1,5 +1,51 @@
 [
   {
+    "link": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
+    "title": "StarCraft returns in 2030 as an open-world shooter",
+    "description": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it had been canceled in 2014. Now Blizzard is giving it another go with the simply titled StarCraft. Dan Hay,",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-09-12T20:08:09+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STC2026_GalleryIMG_0008_PT6120_rgba.webp?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/nec-drops-its-quantum-computing-work-marking-an-end-to-nearly-30-years-of-development",
+    "title": "NEC drops its quantum computing work, marking an end to nearly 30 years of development",
+    "description": "NEC is reportedly ending quantum hardware development after decades of research, while Fujitsu gains researchers and continues pursuing increasingly larger systems.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-12T20:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/vpMLrxEHJQtnxiskpWyFuZ-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-13-924/",
+    "title": "Today’s NYT Strands Hints, Answers and Help for Sept. 13, #924",
+    "description": "Here are hints and the answers for today’s NYT Strands puzzle, No. 924 for Sunday, Sept. 13, 2026.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-12T20:00:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/859c9110-e596-432b-8690-95e6102759c9.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/ai-platforms-assistants/anthropic-ceo-calls-for-pacing-ai-frontier-model-development-and-warns-in-6-12-months-such-a-swarm-of-agents-could-be-capable-of-taking-over-the-entire-internet",
+    "title": "Anthropic CEO calls for pacing AI frontier model development and warns 'in 6–12 months such a swarm [of agents] could be capable of taking over the entire internet'",
+    "description": "Anthropic CEO Dario Amodei is also worried model development is going too fast, but he has a plan for slowing down and managing its unprecedented and accelerated capabilities — though if anyone anywhere will agree to it remains to be seen",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-12T19:59:33+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/zQUr2QJXtzzfPVWtgFzJR-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.engadget.com/2256741/openai-agents-hacked-rubygems/",
     "title": "OpenAI agents hacked a software service before the Hugging Face incident",
     "description": "The agents OpenAI was testing attacked a software service called RubyGems in May, months before the attacks on Hugging Face.",
@@ -2210,49 +2256,5 @@
     "pub_date": "2026-09-11T18:22:22+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Project-Jupiter-data-center-construction-July-2026-1152x648.png",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/accessories/galaxy-smarttag-3-leaks-samsungs-redesign-might-not-be-better-than-the-last",
-    "title": "Galaxy SmartTag 3 leaks: Samsung's redesign might not be better than the last",
-    "description": "The Galaxy SmartTag 3 surfaces with renders in recent leaks, but the design changes Samsung might debut don't strike us as \"better.\"",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-11T18:16:59+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/sQLuuetfHLhzw5dQ6psygg-1280-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/11/homekit-weekly-shellys-flood-s-gen4-is-a-low-cost-matter-leak-sensor-for-apple-home/",
-    "title": "HomeKit Weekly: Shelly’s Flood S Gen4 is a low cost Matter leak sensor for Apple Home",
-    "description": "Water damage is one of those problems where a single sensor can save you a major repair bill on your floors, cabinets, etc. Leak sensors have been among the best values in the smart home for years, and Shelly’s new Flood S Gen4 makes it even easier to get started. It’s under $30, Matter-certified, and works with Apple Home out of the box.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-11T18:10:00+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Shelly-leak-sensor-2.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/europes-first-truly-driverless-robotaxi-is-running-in-croatia-on-chinese-software",
-    "title": "Europe’s first truly driverless robotaxi is running in Croatia, on Chinese software",
-    "description": "Pony.ai and Verne have started fully driverless passenger rides in Zagreb, the first anywhere in Europe, with nobody in the driver’s seat and Uber taking the bookings. The pair want more than 2,000 robotaxis on European roads, but the only EU-wide approval route for a fully automated car is capped at 1,500 units a year",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-11T18:09:13+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/verne-uber-robotaxi-zagreb-theatre.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
-    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-    "description": "\"WHAT THE HELL IS WRONG WITH THE ANSWERS?\" AI cried, in vain as two seemingly identical crocodiles were shown in the CAPTCHA.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-11T18:05:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
