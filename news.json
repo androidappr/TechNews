@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.techradar.com/streaming/the-leading-streaming-platforms-now-cost-you-usd702-a-year-more-than-five-years-ago-and-disney-apple-tv-and-peacock-are-the-worst-of-the-bunch",
+    "title": "The leading streaming platforms now cost you $702 a year more than five years ago — and Disney+, Apple TV, and Peacock are the worst of the bunch",
+    "description": "Streaming prices are constantly going up, but this report shows which platforms are the biggest culprits.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-12T18:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/SWvCCKL4YW8Xuvh8ruVDaK-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/ellison-cancels-share-plan-eu-rules",
+    "title": "Larry Ellison has cancelled his plan to sell $7.5bn of Oracle stock, a day after it surfaced",
+    "description": "Larry Ellison has cancelled a trading plan that would have let him sell up to 50 million Oracle shares by 24 October, a day after the plan was disclosed and with no stock sold under it. The instrument is a Rule 10b5-1 plan, an American safe harbour with no European counterpart, because EU market abuse",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-12T17:51:43+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/larry-ellison-oracle-openworld-2013.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.engadget.com/2252792/how-much-solar-power-for-rv/",
     "title": "How Much Solar Power Do You Actually Need For An RV?",
     "description": "The power of the sun can keep your RV running, but before you get too comfortable with solar panels, you need to calculate how much power they need to generate.",
@@ -342,7 +365,7 @@
   {
     "link": "https://www.techmeme.com/260912/p9#a260912p9",
     "title": "Amodei says pacing does not mean halting training or progress, but giving companies time to align and safeguard models and third-party evaluators time to verify (Bloomberg)",
-    "description": "Bloomberg:\nAmodei says pacing does not mean halting training or progress, but giving companies time to align and safeguard models and third-party evaluators time to verify  —  Anthropic PBC Chief Executive Officer Dario Amodei said that the artificial intelligence industry needs to slow the pace …",
+    "description": "Bloomberg:\nAmodei says pacing does not mean halting training or progress, but giving companies time to align and safeguard models and third-party evaluators time to verify  —  Leaders of the world's biggest artificial intelligence platforms said it's time to slow the development pace of their most advanced …",
     "categories": [
       "Tech News"
     ],
@@ -444,6 +467,17 @@
     "source_name": "ENGADGET.COM"
   },
   {
+    "link": "https://www.techradar.com/televisions/lgs-denial-over-tv-spying-claims-does-not-address-the-full-privacy-picture-experts-say-after-report-accuses-it-of-making-216-000-000-spy-tvs",
+    "title": "LG's denial over TV spying claims ‘does not address the full privacy picture’, experts say — after report accuses it of making ‘216,000,000 spy TVs’",
+    "description": "LG has defended the data collection that happens on its TVs, saying its standard industry practice — but is that right?",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-12T14:30:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/xvaeTxCnsxd8qV2JYMjiPZ-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/one-of-the-worst-outcomes-for-companies-is-reacting-in-a-knee-jerk-fashion-before-the-rewards-can-be-reaped-how-game-engines-version-control-software-and-ai-are-delivering-new-benefits-and-challenges-to-almost-every-industry",
     "title": "‘One of the worst outcomes for companies is reacting in a knee-jerk fashion before the rewards can be reaped’: How game engines, version control software, and AI are delivering new benefits and challenges to almost every industry",
     "description": "I spoke to Brent Schiestl of Perforce to learn more about how AI is affecting real-time workflows, and the extra tools businesses are deploying to manage assets and measure productivity.",
@@ -453,17 +487,6 @@
     ],
     "pub_date": "2026-09-12T14:30:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/AvZcjmUMtehpuha5oJLcTB-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/televisions/lgs-denial-over-tv-spying-claims-does-not-address-the-full-privacy-picture-experts-say-after-report-accuses-it-of-making-216-000-000-spy-tvs",
-    "title": "LG's denial over TV spying claims ‘does not address the full privacy picture’, experts say — after report accuses it of making ‘216,000,000 spy TVs’",
-    "description": "LG has defended the data collection that happens on its TVs, saying its standard industry practice — but is that right?",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-12T14:30:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/xvaeTxCnsxd8qV2JYMjiPZ-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -531,7 +554,6 @@
     "description": "After a few days of testing Meta's AI agent Muse. I can confirm that there is very little learning curve to get started.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-09-12T14:00:00+00:00",
@@ -543,7 +565,6 @@
     "title": "The Instax Mini 13 was made for taking selfies — and my friends have never been happier with the instant memories I've captured",
     "description": "The Instax Mini 13 is Fujifilm's 2026 update to its entry-level instant camera series, offering a fresh look, useful self-timer feature, and a handy angle adjuster on the strap.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-12T14:00:00+00:00",
@@ -725,7 +746,6 @@
     "title": "Where to preorder the iPhone 18 Pro and Pro Max",
     "description": "The iPhone 18 Pro and 18 Pro Max are almost here. Announced at Apple's September 2026 \"Sunrise and shine\" event alongside the iPhone Duo and other new gear, the two upgraded phones feature the faster A20 Pro processor with more GPU power as well as more neural cores for AI-related tasks, plus some welcome improvements",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware",
       "Mobile & Telecom"
     ],
@@ -2239,28 +2259,6 @@
     ],
     "pub_date": "2026-09-11T16:39:07+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/01DoOAdjxZo01s4ZNSN5WlI/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/phones/samsung-galaxy/who-needs-the-iphone-18-pro-when-you-can-score-usd1-100-off-the-samsung-galaxy-s26-ultra-at-t-mobile",
-    "title": "Who needs the iPhone 18 Pro when you can score $1,100 off the Samsung Galaxy S26 Ultra at T-Mobile?",
-    "description": "Add a line with the Experience More or Experience Beyond plans and T-Mobile will knock the price of the Galaxy S26 Ultra down to just $5.56 per month.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-11T16:38:43+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/vw7UZL8Hdpgf9BkvPxof63-1280-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/minecraft-dungeons-2-where-to-preorder",
-    "title": "Minecraft Dungeons II is coming soon: How to score bonus items, preorder deals",
-    "description": "Looking to play 'Minecraft Dungeons II'? Then take advantage of preorder deals and get the exclusive Twisted Chicken pet.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-11T16:33:37+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00TFc2ATtEaozlduK3r8tIg/hero-image.png",
     "source_name": "MASHABLE.COM"
   }
 ]
