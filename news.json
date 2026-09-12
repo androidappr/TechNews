@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
+    "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs",
+    "description": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life’s work.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-12T10:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aa416744de88ba2f8bc1a31/master/pass/Math-OpenAI-Steven.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/review/branch-ergonomic-chair-pro-sega-edition/",
+    "title": "Branch Ergonomic Chair Pro (Sega Edition) Review: Comfy, Not Boring",
+    "description": "Turns out that the best office chair is also the best gaming chair, now with aesthetics to match.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-12T10:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aa44e74dc225a8b7147e28f/master/pass/Review--Branch-Ergonomic-Chair-Pro-(Sega-Edition).jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://mashable.com/tech/apple-airpods-5-vs-pro-3-price-specs",
     "title": "Apple AirPods 5 vs. AirPods Pro 3: Which should you buy?",
     "description": "Apple launched the Apple AirPods 5 in two different models, so we stacked up how they compare to the noise-cancelling AirPods Pro 3.",
@@ -165,7 +189,6 @@
     "title": "GMKtec EVO-X3 mini PC review: For local AI, the hardware is impressive, but the software still needs work",
     "description": "The GMKtec EVO-X3 is a mini PC with a difference, as it's built for local AI, and features the AMD’s Ryzen AI Max+ 395, Radeon graphics and a 50-TOPS NPU.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-12T06:10:00+00:00",
@@ -2222,28 +2245,5 @@
     "pub_date": "2026-09-11T13:05:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/BiyAK4BXKKfecCWadFcHGo-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/computing/iphone-duo-ipad-replacement-or-not-commentary/",
-    "title": "The iPhone Duo Isn’t the Pocket iPad… or Is It?",
-    "description": "Commentary: I can’t figure out if the Duo would replace my iPad, or if it’s just a portable alternative.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-11T13:04:14+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/iPhone-Duo-2.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-    "title": "Claude users found ways around safeguards for bioweapons research",
-    "description": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-11T13:02:35+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
