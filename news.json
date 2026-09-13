@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+    "title": "Trump and Mike Johnson think the AI industry is overreacting",
+    "description": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however,",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-13T19:41:48+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "title": "What’s behind the AI industry’s latest warnings of doom?",
+    "description": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-13T19:40:15+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260913/p11#a260913p11",
     "title": "Xi Jinping calls for a \"consensus-based global AI governance framework\" and says China will pioneer the establishment of a BRICS AI open-source community (Joanna Ossinger/CNBC)",
     "description": "Joanna Ossinger / CNBC:\nXi Jinping calls for a “consensus-based global AI governance framework” and says China will pioneer the establishment of a BRICS AI open-source community  —  China will take the lead to help foster artificial-intelligence collaboration and development among developing countries …",
@@ -444,7 +469,6 @@
     "title": "Speaker Johnson says Congress won't lead the charge on regulating AI safety and AI companies should take responsibility to ensure the safety of their products (Donica Phifer/Axios)",
     "description": "Donica Phifer / Axios:\nSpeaker Johnson says Congress won't lead the charge on regulating AI safety and AI companies should take responsibility to ensure the safety of their products  —  House Speaker Mike Johnson (R-La.) said Sunday that Congress won't lead the charge on regulating AI safety.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-13T15:45:00+00:00",
@@ -2218,27 +2242,5 @@
     "pub_date": "2026-09-12T14:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/xFxPFSe8ZAHkjmLRD3uQyM-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/tomb-raider-legacy-of-atlantis-creative-director-confirms-the-game-has-difficulty-levels-for-combat-puzzles-and-traversal-that-can-be-individually-tweaked-we-have-prepared-it-in-a-way-that-im-pretty-sure-everyone-can-set-it-to-their-own-pleasure",
-    "title": "Tomb Raider: Legacy of Atlantis creative director confirms the game has difficulty levels for combat, puzzles, and traversal that can be individually tweaked — 'We have prepared it in a way that I'm pretty sure everyone can set it to their own pleasure",
-    "description": "Tomb Raider: Legacy of Atlantis will feature difficulty-scaling levels, which offer players a personalized experience.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-12T14:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/iTv7HkjWKNMZRpjndYqmDV-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260912/p5#a260912p5",
-    "title": "As the AI wave creates tech fortunes at breakneck speed, a look at the growing ecosystem helping founders navigate the challenges of becoming extremely wealthy (Tiffany Ap/Bloomberg)",
-    "description": "Tiffany Ap / Bloomberg:\nAs the AI wave creates tech fortunes at breakneck speed, a look at the growing ecosystem helping founders navigate the challenges of becoming extremely wealthy  —  A growing post-exit ecosystem is helping founders deal with the unexpected difficulties of becoming extremely wealthy.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-12T13:40:00+00:00",
-    "image_url": "http://www.techmeme.com/260912/i5.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
