@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://www.wired.com/review/coway-airmega-halo/",
+    "title": "Coway Airmega Halo Review: Is Your Air Really Clean?",
+    "description": "Coway’s new Airmega Halo runs quietly and clears visible smoke quickly, but its air-quality readings weren’t always reassuring.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-13T10:05:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aa45187942761b808ef31e7/master/pass/Review--Coway-Airmega-Halo.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/expert-finds-this-gbp3-temu-wi-fi-extender-is-full-of-security-issues-and-definitely-not-the-bargain-youd-hoped-for",
+    "title": "Expert finds this £3 Temu Wi-Fi extender is full of security issues, and definitely not the bargain you'd hoped for",
+    "description": "A £3 Temu Wi-Fi extender contained hidden administrator access, shared credentials, remote login capabilities, command injection, and weak update protection.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-13T10:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/q8rXV4rnByXw28AGiSLWQg-1280-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+    "title": "AI Agents Are Thirsty for Power",
+    "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Science & Environment",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-13T10:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/master/pass/DataCenterColumn2.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/xi-brics-open-source-ai-eu",
+    "title": "Xi pitches open-source AI to BRICS as Beijing weighs curbs on its own models",
+    "description": "Xi Jinping used the BRICS summit to propose a China-led community for open-source AI and to invite members into the World AI Cooperation Organization, a Beijing-founded body of 29 countries with no EU state among them. Europe drew its line in the AI Act, which exempts genuinely open models but not those carrying systemic risk,",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-13T09:58:04+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/xi-jinping-chengdu-2023.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/china-embodied-ai-data-eu-gap",
     "title": "China’s data regulator plans standards for embodied AI, ten days after industry asked",
     "description": "China’s National Data Administration said it will develop standards for embodied AI data and guide local authorities on the work, ten days after seven companies asked it for exactly that. Europe regulates who may reach the data a machine generates but has no programme producing it, and the data labs promised in its Data Union",
@@ -1627,17 +1677,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.wired.com/review/branch-ergonomic-chair-pro-sega-edition/",
-    "title": "Branch Ergonomic Chair Pro (Sega Edition) Review: Comfy, Not Boring",
-    "description": "Turns out that the best office chair is also the best gaming chair, now with aesthetics to match.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-12T10:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aa44e74dc225a8b7147e28f/master/pass/Review--Branch-Ergonomic-Chair-Pro-(Sega-Edition).jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
     "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs",
     "description": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life’s work.",
@@ -1647,6 +1686,17 @@
     ],
     "pub_date": "2026-09-12T10:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6aa416744de88ba2f8bc1a31/master/pass/Math-OpenAI-Steven.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/review/branch-ergonomic-chair-pro-sega-edition/",
+    "title": "Branch Ergonomic Chair Pro (Sega Edition) Review: Comfy, Not Boring",
+    "description": "Turns out that the best office chair is also the best gaming chair, now with aesthetics to match.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-12T10:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aa44e74dc225a8b7147e28f/master/pass/Review--Branch-Ergonomic-Chair-Pro-(Sega-Edition).jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -2176,50 +2226,6 @@
     ],
     "pub_date": "2026-09-11T21:40:01+00:00",
     "image_url": "http://www.techmeme.com/260911/i30.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/neal-fun-design-the-next-iphone",
-    "title": "Design the next iPhone game: Ive created a true monstrosity of a phone",
-    "description": "Have you ever wanted an iPhone with a joystick? Social media users have discovered \"Design the next iPhone,\" a web game by Neal Agarwal.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-11T21:34:30+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03fC9o8MJ5y5j33uxYJST0G/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/chuwi-unibox-ai495-pro-looks-a-bit-like-the-old-mac-pro-and-with-192gb-ram-matches-apples-new-workstation-for-memory",
-    "title": "Chuwi UniBox AI495 Pro looks a bit like the old Mac Pro and, with 192GB RAM, matches Apple's new workstation for memory",
-    "description": "CHUWI UniBox AI495 Pro combines AMD's Ryzen AI MAX+ PRO 495 with 192GB of memory, 160GB of VRAM allocation, and local AI support.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-11T21:20:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/EXvtZ7iVVcqZMSPao7UdsD-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-    "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-    "description": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-11T21:19:05+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260911/p29#a260911p29",
-    "title": "FOIA docs: the CFTC launched at least three previously unreported investigations into Polymarket trading, including about Google's 2025 Year in Search Ranking (Kate Knibbs/Wired)",
-    "description": "Kate Knibbs / Wired:\nFOIA docs: the CFTC launched at least three previously unreported investigations into Polymarket trading, including about Google's 2025 Year in Search Ranking  —  The agency that oversees prediction markets has investigated Polymarket trades on Biden pardons and the Iran war …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-11T21:10:03+00:00",
-    "image_url": "http://www.techmeme.com/260911/i29.jpg",
     "source_name": "TECHMEME.COM"
   }
 ]
