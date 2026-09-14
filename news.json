@@ -149,7 +149,7 @@
   },
   {
     "link": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
-    "title": "Apple Home’s new security camera features cost up to $60 a month",
+    "title": "Apple Home’s new security camera features cost as much as $60 a month",
     "description": "With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you can get short text descriptions of who and what compatible security cameras saw,",
     "categories": [
       "Breaking News",
@@ -158,6 +158,17 @@
     "pub_date": "2026-09-14T22:28:52+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268594_iOS_27_home_app_first_look_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
+    "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
+    "description": "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-14T22:06:24+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2154524764-1024x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://9to5mac.com/2026/09/14/x-and-spacexai-move-to-drop-apple-from-antitrust-lawsuit-keep-claims-against-openai/",
@@ -224,6 +235,7 @@
     "title": "Samsung's much-anticipated open-earbuds appear to leak again, this time with a new name and long list of features",
     "description": "Another leak has revived interest in Samsung's open-ear headphones, this time suggesting a new name as well as some features which they could have.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-14T21:44:02+00:00",
@@ -241,6 +253,18 @@
     "pub_date": "2026-09-14T21:35:52+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2156791504.jpg",
     "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
+    "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
+    "description": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-14T21:32:22+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/blue-origin-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://www.techmeme.com/260914/p38#a260914p38",
@@ -289,6 +313,18 @@
     "pub_date": "2026-09-14T21:10:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/XHBG2PFugd2NXxfu95hpLB-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+    "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+    "description": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-14T21:04:32+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://science.nasa.gov/science-research/earth-science/webinar-9-23-nasa-csda-program-update-2026/",
@@ -576,7 +612,6 @@
     "title": "Anthropic debuts Claude for Financial Advisors, with connectors to investment analytics and wealth-management tools from BlackRock, Addepar, Schwab, and others (Harshita Mary Varghese/Reuters)",
     "description": "Harshita Mary Varghese / Reuters:\nAnthropic debuts Claude for Financial Advisors, with connectors to investment analytics and wealth-management tools from BlackRock, Addepar, Schwab, and others  —  AI lab Anthropic on Monday launched a set of tools for financial advisers, connecting its Claude chatbot to investment analytics …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-14T19:25:01+00:00",
@@ -1007,7 +1042,6 @@
     "title": "Apple releases macOS Tahoe 26.7 and macOS Sequoia 15.8, here’s what’s new",
     "description": "In addition to releasing macOS 27 Golden Gate, Apple is also rolling out macOS Tahoe 26.7 and macOS Sequoia 15.8. Here’s what’s new.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-14T17:27:43+00:00",
@@ -1304,29 +1338,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://www.theverge.com/tech/994267/steam-frame-review",
-    "title": "The Steam Frame is made for irresponsible hardware nerds like me",
-    "description": "For nearly three weeks, I've been testing the limits of Valve's Steam Frame, the company's new wearable PC. At first glance, it's easy to write it off as a pricey headset that missed the VR craze. At $1,059 with 256GB of storage or $1,299 for 1TB, it costs two to three times as much as",
-    "categories": [
-      "Gadgets & Hardware",
-      "Gaming"
-    ],
-    "pub_date": "2026-09-14T17:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0004.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date",
-    "title": "Valve’s Steam Frame costs $1,059",
-    "description": "Valve is finally releasing its Steam Frame headset, which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that starts at $1,299. Every Steam Frame will come with a copy of Half-Life: Alyx,",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-14T17:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0030.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.engadget.com/2257659/valve-steam-frame-review/",
     "title": "Valve Steam Frame review: Solid standalone VR that's too little, too late",
     "description": "The Steam Frame is a pretty great standalone VR headset, it's just too bad it costs over $1,000.",
@@ -1358,6 +1369,29 @@
     "pub_date": "2026-09-14T17:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/07bWTetEhEIpVNoY1KdVQby/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/994267/steam-frame-review",
+    "title": "The Steam Frame is made for irresponsible hardware nerds like me",
+    "description": "For nearly three weeks, I've been testing the limits of Valve's Steam Frame, the company's new wearable PC. At first glance, it's easy to write it off as a pricey headset that missed the VR craze. At $1,059 with 256GB of storage or $1,299 for 1TB, it costs two to three times as much as",
+    "categories": [
+      "Gadgets & Hardware",
+      "Gaming"
+    ],
+    "pub_date": "2026-09-14T17:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0004.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date",
+    "title": "Valve’s Steam Frame costs $1,059",
+    "description": "Valve is finally releasing its Steam Frame headset, which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that starts at $1,299. Every Steam Frame will come with a copy of Half-Life: Alyx,",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-14T17:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0030.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.engadget.com/2257150/valves-steam-frame-vr-headset-starts-at-1059-and-ships-with-half-life-alyx/",
@@ -2272,40 +2306,5 @@
     "pub_date": "2026-09-14T14:05:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/gEuZ8EbW57VbSsQ5ikNBiE-1280-80.png",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/14/things-3-24-update-arrives-with-os-27-support-siri-ai-integration-new-widget-size/",
-    "title": "Things 3.24 update arrives with OS 27 support, Siri AI integration, new widget size",
-    "description": "Things is back with a nice new update after just a few weeks. The excellent project management app from Cultured Code is releasing support for iOS 27, macOS 27, and Apple’s other OS 27 updates coming out today. This includes Siri AI integration, a new widget size, and more.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-14T14:04:12+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Things-OS-27.webp?w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
-    "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
-    "description": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-14T14:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2253025/what-is-msi-mode-windows-pc-speed-up-gpu/",
-    "title": "What is MSI mode on Windows PCs and does it speed up your GPU?",
-    "description": "This is a setting you probably won't want to mess around with.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-14T14:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/what-is-msi-mode-on-windows-pcs-and-does-it-speed-up-your-gpu/l-intro-1788889165.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
