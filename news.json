@@ -1,5 +1,42 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "description": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-14T20:44:14+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260914/p36#a260914p36",
+    "title": "Nuance Labs, which builds low-latency AI avatars that can have face-to-face conversations, raised a $50M Series A led by Lightspeed, with Nvidia participating (Shubhangi Goel/Business Insider)",
+    "description": "Shubhangi Goel / Business Insider:\nNuance Labs, which builds low-latency AI avatars that can have face-to-face conversations, raised a $50M Series A led by Lightspeed, with Nvidia participating  —  A startup that's trying to make AI models better conversationalists with more emotional intelligence has just raised $50 million.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-14T20:40:00+00:00",
+    "image_url": "http://www.techmeme.com/260914/i36.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/macos27-golden-gate-release-features",
+    "title": "Apple releases macOS 27 Golden Gate: 7 new features to try",
+    "description": "Welcome to the Golden Gate era of macOS, which brings a new Siri AI experience, spatial photo reframing, and Describe a Shortcut,",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-14T20:30:25+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/06MuekQewqbKZ846jro1hCy/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260914/p35#a260914p35",
     "title": "Sources: Trump met privately with Sam Altman backstage at the GOP midterm convention, where they discussed AI and its growing power, at Altman's request (MS NOW)",
     "description": "MS NOW:\nSources: Trump met privately with Sam Altman backstage at the GOP midterm convention, where they discussed AI and its growing power, at Altman's request  —  Altman, Elon Musk and Anthropic chief Dario Amodei all urged an artificial intelligence slowdown over the weekend.",
@@ -85,6 +122,20 @@
     "source_name": "THEVERGE.COM"
   },
   {
+    "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+    "description": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-14T19:45:13+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2256018320-1024x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/09/14/smartgym-8-brings-natural-language-workout-creation-siri-ai-integration-more/",
     "title": "SmartGym 8 brings natural-language workout creation, Siri AI integration, more",
     "description": "SmartGym is out with a massive update today that introduces AI-powered workout creation, management, deeper Siri integration, and several features that leverage the new possibilities of iOS 27, iPadOS, and watchOS 27. Here are the details.\n\n\n\n more…",
@@ -95,6 +146,19 @@
     "pub_date": "2026-09-14T19:43:51+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/smartgym8.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+    "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+    "description": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-14T19:38:46+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Wang-Xingxing-Unitree-Robotics-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://mashable.com/tech/a-real-meta-settlement",
@@ -120,6 +184,20 @@
     "pub_date": "2026-09-14T19:30:58+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Super-Mario-Odyssey.webp?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+    "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+    "description": "This is also the last version of macOS to support Rosetta for Intel apps.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-14T19:28:42+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-OS-27-1152x648-1789411862.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://www.androidcentral.com/phones/samsung-galaxy/certified-re-newed-refurbished-galaxy-s26-series-arrives-at-slightly-lower-costs",
@@ -155,6 +233,19 @@
     "pub_date": "2026-09-14T19:06:21+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-wallet-ios-27-app-icon-colors.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+    "title": "AI leaders want to hit the brakes after years of reckless speed",
+    "description": "Safety is the watchword, but there could be ulterior benefits for the industry.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-14T19:06:13+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1482639221-1152x648-1789407457.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://www.techradar.com/pro/security/31-000-twitch-users-hit-by-malicious-browser-extension-oauth-tokens-leaked-via-russian-proxy-network",
@@ -312,6 +403,18 @@
     "source_name": "MASHABLE.COM"
   },
   {
+    "link": "https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/",
+    "title": "Online hate researcher keeps hammering X despite deportation threat",
+    "description": "US won’t back down from fight to deport technology researchers.",
+    "categories": [
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-14T18:24:09+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/headshot3-1152x648-1789406043.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
     "title": "Amazon Prime Video takes on TikTok with short-form news clips",
     "description": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers.",
@@ -324,18 +427,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://9to5mac.com/2026/09/14/here-are-the-requirements-to-get-siri-ai-in-ios-27/",
-    "title": "Here are the requirements to get Siri AI in iOS 27",
-    "description": "iOS 27 launched today, and with it Siri AI has debuted as a major upgrade to Apple’s assistant. But there are several requirements Apple has in order to gain access to Siri AI.\n\n\n\n more…",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-14T18:10:00+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-app-ios-27-new.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
     "link": "https://www.techmeme.com/260914/p31#a260914p31",
     "title": "Nvidia announces the RTX Pro 5500 Blackwell Workstation Edition, offering comparable specs to the RTX 5090 but with 84GB of GDDR7 memory, vs. RTX 5090's 32GB (Zhiye Liu/Tom's Hardware)",
     "description": "Zhiye Liu / Tom's Hardware:\nNvidia announces the RTX Pro 5500 Blackwell Workstation Edition, offering comparable specs to the RTX 5090 but with 84GB of GDDR7 memory, vs. RTX 5090's 32GB  —  The GeForce RTX 5090 is undeniably one of the best graphics cards money can buy.  Banking on the fact that many already use it for AI …",
@@ -346,6 +437,18 @@
     "pub_date": "2026-09-14T18:10:00+00:00",
     "image_url": "http://www.techmeme.com/260914/i31.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/14/here-are-the-requirements-to-get-siri-ai-in-ios-27/",
+    "title": "Here are the requirements to get Siri AI in iOS 27",
+    "description": "iOS 27 launched today, and with it Siri AI has debuted as a major upgrade to Apple’s assistant. But there are several requirements Apple has in order to gain access to Siri AI.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-14T18:10:00+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-app-ios-27-new.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
   },
   {
     "link": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
@@ -392,6 +495,18 @@
     "pub_date": "2026-09-14T18:04:07+00:00",
     "image_url": "https://media.thenextweb.com/2026/03/growtika-nGoCBxiaRO0-unsplash.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://arstechnica.com/science/2026/09/a-new-solar-cell-could-generate-electricity-underwater/",
+    "title": "A new solar cell could generate electricity underwater",
+    "description": "The trick isn't using perovskites—the trick is making them last.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-14T18:03:16+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2225167357-1024x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://thenextweb.com/news/agentic-commerce-grocery-ai-neomi",
@@ -443,7 +558,6 @@
     "title": "Elon Musk's X Corp and SpaceXAI just moved to dismiss their lawsuit against Apple",
     "description": "A lawsuit from last year accused the iPhone-maker of suppressing apps like Grok on the App Store.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-14T17:49:07+00:00",
@@ -643,7 +757,7 @@
   {
     "link": "https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/",
     "title": "Prehistoric builders transported Devil's Arrows 11 miles",
-    "description": "Isotropic analysis revealed the most likely source to be Brimham Rocks, not the nearby Plumpton Rocks.",
+    "description": "Isotopic analysis revealed the most likely source to be Brimham Rocks, not the nearby Plumpton Rocks.",
     "categories": [
       "Breaking News",
       "Science & Environment"
@@ -720,7 +834,6 @@
     "title": "Grab the Lego Star Wars advent calendar for a record-low price",
     "description": "Lego's Star Wars advent calendar is on sale at Amazon for $35, bringing it to the lowest price we'e seen  this year so far.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-14T17:09:53+00:00",
@@ -757,6 +870,7 @@
     "title": "Apple releases HomePod 27 with two new improvements",
     "description": "Today Apple released iOS 27 and its companion updates, including new HomePod 27 software that adds two primary improvements.\n\n\n\n more…",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-14T17:07:03+00:00",
@@ -838,13 +952,13 @@
   {
     "link": "https://arstechnica.com/gaming/2026/09/steam-frame-the-ars-technica-review/",
     "title": "Steam Frame: The Ars Technica review",
-    "description": "Valve's new $1,049 VR hardware tries to revive an abandoned VR \"revolution.\"",
+    "description": "Valve's new $1,059 VR hardware tries to revive an abandoned VR \"revolution.\"",
     "categories": [
       "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-09-14T17:00:07+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/steamframe-1-1152x648-1789396834.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/sfcrop1-1-1152x648-1789413217.jpg",
     "source_name": "ARSTECHNICA.COM"
   },
   {
@@ -910,6 +1024,18 @@
     "source_name": "THEVERGE.COM"
   },
   {
+    "link": "https://www.theverge.com/tech/994636/dell-xps-13-2026-intel-wildcat-lake-8gb-16gb-review",
+    "title": "The Dell XPS 13 is the first real competitor to the MacBook Neo",
+    "description": "Dell's last XPS 13 was meant to be a farewell before the company sunset the entire XPS brand. But it was a bitter ending, and an overpriced one as well. Earlier this year, Dell resurrected the XPS name with the excellent (and very expensive) XPS 14 and 16. And now, it's reinvented the XPS 13",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-14T17:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268732_Dell_XPS_13_2026_review_ADiBenedetto_0006.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.engadget.com/2257659/valve-steam-frame-review/",
     "title": "Valve Steam Frame review: Solid standalone VR that's too little, too late",
     "description": "The Steam Frame is a pretty great standalone VR headset, it's just too bad it costs over $1,000.",
@@ -956,18 +1082,6 @@
     "pub_date": "2026-09-14T17:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/07bWTetEhEIpVNoY1KdVQby/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/994636/dell-xps-13-2026-intel-wildcat-lake-8gb-16gb-review",
-    "title": "The Dell XPS 13 is the first real competitor to the MacBook Neo",
-    "description": "Dell's last XPS 13 was meant to be a farewell before the company sunset the entire XPS brand. But it was a bitter ending, and an overpriced one as well. Earlier this year, Dell resurrected the XPS name with the excellent (and very expensive) XPS 14 and 16. And now, it's reinvented the XPS 13",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-14T17:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268732_Dell_XPS_13_2026_review_ADiBenedetto_0006.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://mashable.com/tech/sept-14-soundcore-liberty-5-pro-max-deal",
@@ -1496,6 +1610,7 @@
     "description": "Hugging Face has asked to become one of the outside auditors of the AI labs. Clement Delangue announced the Open Alignment Initiative on X on Saturday. He posted it four hours after Dario Amodei said Anthropic would let third-party evaluators inside. Alignment will not come from behind the closed doors of a handful of frontier",
     "categories": [
       "AI & Machine Learning",
+      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware"
     ],
@@ -1672,7 +1787,6 @@
     "title": "Google's best smartwatch just crashed to a record low price — but is the 'fantastic' Pixel Watch 4 still a smart buy?",
     "description": "The Google Pixel Watch 4 remains one of our favorite smartwatches, and it just dropped to its lowest price ever recorded at Amazon.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-14T14:41:34+00:00",
@@ -2239,111 +2353,5 @@
     "pub_date": "2026-09-14T12:09:44+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Heres-how-the-iPhone-Duo-compares-to-the-Samsung-Galaxy-Z-Fold-8.webp?w=1500",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/phones/ios/ive-been-using-ios-27-for-3-months-already-these-are-the-5-best-features-arriving-on-your-iphone-today",
-    "title": "I've been using iOS 27 for 3 months already — these are the 5 best features arriving on your iPhone today",
-    "description": "From clever new photo tricks to the extended abilities of Siri AI, there's lots to dig into with the new iOS 27 update.",
-    "categories": [
-      "Breaking News",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-14T12:05:50+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/hq8dB5952PqZEJMSkKHFp-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/dr-frankenstein-is-telling-us-the-monster-is-escaping-us-lawmakers-desperately-want-to-set-up-ai-guardrails-before-midterm-elections",
-    "title": "'Dr. Frankenstein is telling us the monster is escaping': US lawmakers desperately want to set up AI guardrails before midterm elections",
-    "description": "Anthropic and OpenAI have warned about AI's potential risks, but while US politicians react, Trump worried about race with China.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-14T12:05:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/DFBL65zBbMWH2hNHzTrEuk-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2252754/how-to-block-time-wasting-apps-iphone-screen-time/",
-    "title": "How to block time-wasting apps on iPhone using Screen Time",
-    "description": "If you want to stop using your phone at certain time and getting stuck into certain apps too much, Screen Time can help.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-14T12:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/how-to-block-time-wasting-apps-on-iphone-using-screen-time/l-intro-1788226545.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/tech/trump-backs-flock-license-plate-cameras-but-new-survey-reveals-47-percent-of-us-public-oppose-them-as-3-police-officers-are-arrested-for-alleged-misuse-of-the-tech",
-    "title": "Trump backs Flock license plate cameras — but new survey reveals 47% of US public oppose them as 3 police officers are arrested for alleged 'misuse' of the tech",
-    "description": "Amid police officer arrests and public opposition, Trump backs Flock’s controversial camera tech.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-14T11:59:53+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/idpsZZhdNRpeivNkS6A56g-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/ai-platforms-assistants/i-tried-metas-new-muse-ai-agent-its-incredibly-useful-but-handing-it-my-digital-life-felt-deeply-uncomfortable",
-    "title": "I tried Meta’s new Muse AI agent — it’s incredibly useful, but handing it my digital life felt deeply uncomfortable",
-    "description": "Meta’s Muse proved remarkably capable at handling digital errands, but its usefulness depends on granting an unsettling amount of access to personal information.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-14T11:48:04+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/oThcXBvjEBFUXAR2RHFW9k-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/openai-agents-rubygems-attack-api-keys-hugging-face",
-    "title": "OpenAI agents attacked RubyGems in May, two months before Hugging Face",
-    "description": "OpenAI has confirmed that its agents were involved in an incident at RubyGems in May. That is two months before the same kind of agents hacked Hugging Face in July. RubyGems is the package service for the Ruby programming language. The confirmation followed a report by three AI researchers, published on Friday. It sets out",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-14T11:47:42+00:00",
-    "image_url": "https://media.thenextweb.com/2026/07/openai-models-escaped-hacked-hugging-face.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/life/sept-14-magic-the-gathering-marvel-super-heroes-jumpstart-booster-box-deal",
-    "title": "Magic: The Gatherings Marvel Super Heroes Jumpstart Booster Box dips under $120 on Amazon — save over $10",
-    "description": "The MTG Marvel Super Heroes Jumpstart Booster Box is $119.98 at Amazon, saving $19.50 on its $139.48 typical price.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-14T11:33:19+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/010RX1DZ55kwjHHQsUoN2JR/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/gallery/best-air-purifiers/",
-    "title": "The Best Air Purifier of 2026: Tested Picks for Every Room",
-    "description": "Protect your home against dust, pets, allergens, and more with the best air purifiers, tested firsthand.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-14T11:33:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aa456a6ed00c0093befb729/master/pass/I-Filled-a-Tent-With-Smoke-to-Find-the-Best-Air-Purifiers.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/salesforce-drops-agentforce-branding-product-names-dreamforce",
-    "title": "Salesforce drops ‘Agentforce’ from product names, The Information reports",
-    "description": "Salesforce is taking the word “Agentforce” out of the names of some of its biggest products, a week before its Dreamforce customer conference. Kevin McLaughlin and Laura Bratton reported the change for The Information, citing two people with direct knowledge of the matter. The reversal undoes a rebrand that is less than a year old.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-14T11:30:54+00:00",
-    "image_url": "https://media.thenextweb.com/2026/08/New-York-Salesforce-Tower.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
