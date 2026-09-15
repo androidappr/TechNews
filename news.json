@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
+    "title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
+    "description": "Microsoft has started rolling out an emergency out-of-band update to fix problems with its record-breaking September patch Tuesday update. The software giant patched nearly 1,000 flaws in its biggest update ever this month, but it also introduced some bugs that have affected businesses, developers, and gamers. The September patch Tuesday affected folder shares on Hyper-V-based",
+    "categories": [
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-15T08:54:48+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK109_WINDOWS_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/congress-has-three-ai-bills-and-no-timetable-for-a-vote-on-any-of-them",
+    "title": "Congress has three AI bills and no timetable for a vote on any of them",
+    "description": "Three senators will put AI legislation in front of Congress this week, and none of them can say when it might be voted on. John Kennedy, a Republican from Louisiana, plans to introduce a measure on Wednesday requiring developers to build a shutdown mechanism into their systems. Bernie Sanders is hosting a briefing with AI",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-15T08:53:06+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/Senator-John-Kennedy-official-portrait.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://mashable.com/tech/apple-watch-series-12-ultra-4-always-listening-live-rewind",
     "title": "Always listening? Apple Watch Series 12 and Ultra 4 updates",
     "description": "Are Apple Watch Series 12 and Ultra 4 always listening? Here is how the new Live Rewind feature works and what it means.",
@@ -542,8 +566,8 @@
   },
   {
     "link": "https://www.techmeme.com/260914/p42#a260914p42",
-    "title": "Cybersecurity stocks were the top performers in the S&P 500 on Monday amid escalating AI fears; CrowdStrike rose 14%, Palo Alto Networks 13%, and Fortinet 9% (Britney Nguyen/MarketWatch)",
-    "description": "Britney Nguyen / MarketWatch:\nCybersecurity stocks were the top performers in the S&P 500 on Monday amid escalating AI fears; CrowdStrike rose 14%, Palo Alto Networks 13%, and Fortinet 9%  —  The software sector outperformed the chip sector to a historic degree in the face of escalating AI fears",
+    "title": "Cybersecurity stocks were the top performers in the S&P 500 on Monday amid escalating AI fears; CrowdStrike rose 14%, Palo Alto Networks 13%, and Fortinet 9% (Britney Nguyen/Dow Jones Newswires)",
+    "description": "Britney Nguyen / Dow Jones Newswires:\nCybersecurity stocks were the top performers in the S&P 500 on Monday amid escalating AI fears; CrowdStrike rose 14%, Palo Alto Networks 13%, and Fortinet 9%  —  The software sector outperformed the chip sector to a historic degree in the face of escalating AI fears",
     "categories": [
       "Tech News"
     ],
@@ -2241,27 +2265,5 @@
     "pub_date": "2026-09-14T16:30:00+00:00",
     "image_url": "http://www.techmeme.com/260914/i26.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2254024/are-digital-wallets-safe-than-physical/",
-    "title": "What makes digital wallets safer than physical ones?",
-    "description": "Digital wallets are convenient, but they also bring a ton of security features that help keep your cards protected.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-14T16:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/what-makes-digital-wallets-safer-than-physical-ones/l-intro-1788976337.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://arstechnica.com/gadgets/2026/09/offensively-cheap-solar-power-is-looking-up/",
-    "title": "\"Offensively cheap\": Solar power is looking up",
-    "description": "Chinese-made panels on rooftops across the world are changing the facts of life for big utilities.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-14T16:29:18+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2284882889-1-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
