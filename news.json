@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://9to5mac.com/2026/09/15/spotifys-newest-feature-has-been-on-my-apple-music-wishlist-for-years/",
+    "title": "Spotify’s newest feature has been on my Apple Music wishlist for years",
+    "description": "Today Spotify announced a feature every parent has probably asked for: the ability to exclude kids and family music from their algorithm. Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-15T13:23:44+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/spotify-toggle-childrens-family-music.jpg?quality=82&strip=all&w=1500",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260915/p20#a260915p20",
+    "title": "The Gates Foundation pledges $1B+ over two years to expand global access to AI and use it to tackle social inequalities; Gates says \"we can harness AI for good\" (Claire Moses/New York Times)",
+    "description": "Claire Moses / New York Times:\nThe Gates Foundation pledges $1B+ over two years to expand global access to AI and use it to tackle social inequalities; Gates says “we can harness AI for good”  —  Bill Gates, the foundation's chairman, has been vocal about the dangers of artificial intelligence.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-15T13:20:00+00:00",
+    "image_url": "http://www.techmeme.com/260915/i20.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/business/ios-27-siri-ai-beta-how-to-try/",
+    "title": "iOS 27 is finally here, with the new Siri AI beta – and 120 security patches",
+    "description": "Even if you’re not ready for iOS 27, there’s an important new update for you too. Here’s what’s new.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-15T13:13:10+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/ios-27.jpg",
+    "source_name": "ZDNET.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/security/rubygems-say-openai-agents-responsible-for-undisclosed-swarm-attack-against-its-infrastructure",
     "title": "RubyGems say OpenAI agents responsible for undisclosed swarm attack against its infrastructure",
     "description": "Agents were uploading malicious packages to steal API keys and grab - freely available data?",
@@ -247,8 +283,8 @@
   },
   {
     "link": "https://www.techmeme.com/260915/p19#a260915p19",
-    "title": "Apple says iCloud+ now includes Apple TV and Arcade at no extra charge in 100+ countries, plus Music Select, a set of ad-free radio stations, in some markets (Benjamin Mayo/9to5Mac)",
-    "description": "Benjamin Mayo / 9to5Mac:\nApple says iCloud+ now includes Apple TV and Arcade at no extra charge in 100+ countries, plus Music Select, a set of ad-free radio stations, in some markets  —  In more than 100 countries, Apple has launched a new initiative that bundles Apple TV and Apple Arcade subscriptions into iCloud+, at no extra charge.",
+    "title": "Apple says iCloud+ now includes Apple TV and Arcade for no extra fee in 100+ countries, and Apple Music Select, offering ad-free radio stations, in some markets (Benjamin Mayo/9to5Mac)",
+    "description": "Benjamin Mayo / 9to5Mac:\nApple says iCloud+ now includes Apple TV and Arcade for no extra fee in 100+ countries, and Apple Music Select, offering ad-free radio stations, in some markets  —  In more than 100 countries, Apple has launched a new initiative that bundles Apple TV and Apple Arcade subscriptions into iCloud+, at no extra charge.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -1160,7 +1196,6 @@
     "title": "A New Headset to Help With Depression Is Now Available in the US",
     "description": "The device made by Flow Neuroscience is approved by the FDA and could help people get off antidepressants—but it costs $2,200.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-09-15T09:30:00+00:00",
@@ -1352,8 +1387,8 @@
   },
   {
     "link": "https://www.techmeme.com/260915/p6#a260915p6",
-    "title": "Jensen Huang took a surprise call from President Trump onstage at the All-In Summit on Monday in LA, where the two dismissed fears of an AI takeover (New York Times)",
-    "description": "New York Times:\nJensen Huang took a surprise call from President Trump onstage at the All-In Summit on Monday in LA, where the two dismissed fears of an AI takeover  —  Mr. Trump called Jensen Huang, Nvidia's chief executive, while Mr. Huang was onstage in Los Angeles and criticized calls to slow down and regulate A.I.",
+    "title": "Jensen Huang took a surprise President Trump call onstage at the All-In Summit on Monday in Los Angeles, where the two agreed AI safety worries are overblown (New York Times)",
+    "description": "New York Times:\nJensen Huang took a surprise President Trump call onstage at the All-In Summit on Monday in Los Angeles, where the two agreed AI safety worries are overblown  —  Mr. Trump called Jensen Huang, Nvidia's chief executive, while Mr. Huang was onstage in Los Angeles and criticized calls to slow down and regulate A.I.",
     "categories": [
       "Tech News"
     ],
@@ -1479,7 +1514,8 @@
     "title": "The Gates Foundation will spend at least $1bn on AI access over the next two years",
     "description": "Bill Gates has committed the Gates Foundation to spending at least $1bn over the next two years on expanding access to AI, and paired the announcement with a blunt assessment of the people who are supposed to be regulating it. “I don’t think any government is nearly as deep on this as they have to",
     "categories": [
-      "AI & Machine Learning"
+      "AI & Machine Learning",
+      "Breaking News"
     ],
     "pub_date": "2026-09-15T07:39:33+00:00",
     "image_url": "https://media.thenextweb.com/2026/08/Bill-Gates.avif",
@@ -1502,7 +1538,6 @@
     "title": "MediaTek’s Dimensity 9600 Pro Focuses on Gaming, AI Performance for High-End Phones",
     "description": "The high-end processor is the company’s first to use TSMC’s 2-nanometer process.",
     "categories": [
-      "Breaking News",
       "Mobile & Telecom"
     ],
     "pub_date": "2026-09-15T07:30:00+00:00",
@@ -2242,39 +2277,5 @@
     "pub_date": "2026-09-14T21:26:18+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-security-malware-virus-code-9to5mac.png?w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-    "title": "What execs and politicians are saying about slowing down AI development",
-    "description": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compiled some of",
-    "categories": [
-      "AI & Machine Learning",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-09-14T21:21:42+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/a-costly-mistake-report-claims-a-third-of-employees-fired-due-to-ai-will-need-to-be-rehired-in-the-next-few-years",
-    "title": "A costly mistake? Report claims a third of employees fired due to AI will need to be rehired in the next few years",
-    "description": "Gartner forecasts almost 33% of workers who were displaced by AI will be rehired by 2029 – probably on a higher salary package.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-14T21:10:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/XHBG2PFugd2NXxfu95hpLB-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-    "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-    "description": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-14T21:04:32+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
