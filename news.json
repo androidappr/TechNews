@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
+    "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
+    "description": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The company is figuring out \"how and when we can deliver something like that,\" Valve designer Pierre-Loup",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Gaming"
+    ],
+    "pub_date": "2026-09-15T00:13:47+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/DSCF9137.webp?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2255122/use-apple-pencil-with-iphone-duo/",
+    "title": "Can you use an Apple Pencil with an iPhone?",
+    "description": "If you have the right Apple Pencil and iPhone, you can use them together. But it won't be cheap, and there are some limitations to know.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-15T00:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/can-you-use-an-apple-pencil-with-an-iphone/l-intro-1789062711.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-tesla-roadsters-october-reveal-looks-like-another-piece-of-pantomime-its-a-shame-the-once-ground-breaking-company-doesnt-focus-on-cars-anymore",
     "title": "The Tesla Roadster’s October reveal looks like another piece of pantomime — it’s a shame the once ground-breaking company doesn’t focus on cars anymore",
     "description": "Tesla’s new Roadster could fly, but I’d rather it built a car people can actually buy.",
@@ -257,8 +281,8 @@
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
-      "Business & Startups",
-      "Gadgets & Hardware"
+      "Gadgets & Hardware",
+      "Government & Policy"
     ],
     "pub_date": "2026-09-14T21:51:02+00:00",
     "image_url": null,
@@ -485,7 +509,6 @@
     "title": "Sources: Trump met privately with Sam Altman backstage at the GOP midterm convention, where they discussed AI and its growing power, at Altman's request (MS NOW)",
     "description": "MS NOW:\nSources: Trump met privately with Sam Altman backstage at the GOP midterm convention, where they discussed AI and its growing power, at Altman's request  —  Altman, Elon Musk and Anthropic chief Dario Amodei all urged an artificial intelligence slowdown over the weekend.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-14T20:10:00+00:00",
@@ -497,7 +520,6 @@
     "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
     "description": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware"
     ],
@@ -2275,28 +2297,5 @@
     "pub_date": "2026-09-14T14:30:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/will-gta-6s-ultimate-edition-be-worth-the-extra-cost-heres-what-itll-come-with/l-intro-1788890725.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260914/p19#a260914p19",
-    "title": "Trump slams Dario Amodei, saying \"the only control or 'guardrails' that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the USA has that, in spades!\" (Hadriana Lowenkron/Bloomberg)",
-    "description": "Hadriana Lowenkron / Bloomberg:\nTrump slams Dario Amodei, saying “the only control or ‘guardrails’ that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the USA has that, in spades!”  —  President Donald Trump attacked Anthropic PBC Chief Executive Officer Dario Amodei for urging a slowdown …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-14T14:25:01+00:00",
-    "image_url": "http://www.techmeme.com/260914/i19.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/nvidias-new-quantum-layer-cut-fermilabs-design-work-from-five-months-to-three-weeks",
-    "title": "Nvidia’s new quantum layer cut Fermilab’s design work from five months to three weeks",
-    "description": "Nvidia has added an orchestration layer called CUDA-Q Logical to its open-source quantum platform, aimed at the part of fault-tolerant quantum computing that nobody enjoys. Designing an application for a machine that does not exist yet means guessing at algorithms, error-correction codes, and hardware together, and changing any one of them rewrites the resource requirements",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-14T14:22:04+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/Quantum-computing-stack-illustration.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
