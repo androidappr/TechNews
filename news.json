@@ -1,5 +1,99 @@
 [
   {
+    "link": "https://thenextweb.com/news/tandem-health-100m-series-b-scaleup-europe-fund",
+    "title": "Tandem Health raises $100m to turn its AI scribe into clinic software",
+    "description": "Stockholm-based Tandem Health has raised $100m in a Series B round led by the Scaleup Europe Fund, which EQT manages. The company announced the round on 14 September. Existing investors Kinnevik, Northzone, Amino Collective, and Visionaries also took part. Tandem said the deal is the fund’s first investment in healthcare. The round follows a $50m",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-15T13:42:59+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/tandem-health-team-studio-portrait.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+    "title": "This doorbell camera lets a human security guard watch your front door",
+    "description": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month). This combines AI analysis with live agents to detect potential threats and respond proactively.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-15T13:36:45+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/SimpliSafe-Video-Doorbell-Series-2_06_250844.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/15/battery-draining-faster-after-updating-to-ios-27-dont-panic/",
+    "title": "Battery draining faster after updating to iOS 27? Don’t panic …",
+    "description": "If you’ve just updated your iPhone to iOS 27, you may have felt concerned after seeing your battery draining faster than usual, as well as your device getting hot in normal use.\n\n\n\nIf so, there’s no cause for panic. While both effects may be very real, they are only temporary … \n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-15T13:35:18+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-trio-ios-27.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260915/p21#a260915p21",
+    "title": "Altera, which makes chips for AI, automation, and more, files confidentially for an IPO; Intel acquired it for ~$16.7B in 2015, and Silver Lake took 51% in 2025 (David Morris/Bloomberg)",
+    "description": "David Morris / Bloomberg:\nAltera, which makes chips for AI, automation, and more, files confidentially for an IPO; Intel acquired it for ~$16.7B in 2015, and Silver Lake took 51% in 2025  —  Altera, a chipmaker backed by Silver Lake and Intel Corp., filed confidentially for an initial public offering.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-15T13:35:01+00:00",
+    "image_url": "http://www.techmeme.com/260915/i21.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/15/ios-27-adds-new-phone-app-feature-thats-an-instant-favorite/",
+    "title": "iOS 27 adds new Phone app feature that’s an instant favorite",
+    "description": "iOS 27 is packed with new features for apps like Notes, Wallet, Maps, Messages, and more. But one iOS 27 addition that’s especially impressed me is a new Phone feature: Call Context.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-15T13:34:09+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/phone-app-icon-fi-ios-27.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/api-gateway-ai-gateway-governance-execution",
+    "title": "API gateway vs AI gateway: Where AI governance meets execution",
+    "description": "API Gateways provide a controlled path into backend services and can apply security and traffic policies as requests move through the system. AI introduces additional runtime decisions because applications may interact with different models whose access, usage, and outputs require their own controls. Agents stretch that boundary further because they can move beyond generating an answer",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-15T13:30:23+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/ai-governance-glowing-text-circuit-city.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2255217/curved-monitor-pc-computer-pros-and-cons-explained/",
+    "title": "Eyeing a curved monitor? Here are the pros and cons to consider",
+    "description": "Curved monitors are fabulous for immersive gaming, usually, but there are some situations where a flat panel is best.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-15T13:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/eyeing-a-curved-monitor-here-are-the-pros-and-cons-to-consider/l-intro-1789065084.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/anthropic-rum-group-13-7bn-compute-deal",
+    "title": "Anthropic is Rum Group’s $13.7bn compute customer, The Information reports",
+    "description": "Anthropic is the unnamed customer behind a $13.7bn, six-year computing contract that Rum Group disclosed last month, The Information reported on Sunday. Rum Group owns the video platform Rumble. Reporters Valida Pau and Phoebe Liu cited one person familiar with the matter. Neither Anthropic nor Rum Group had publicly confirmed the report at the time",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-15T13:29:53+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/anthropic-names-first-chief-global-affairs-officer.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/09/15/spotifys-newest-feature-has-been-on-my-apple-music-wishlist-for-years/",
     "title": "Spotify’s newest feature has been on my Apple Music wishlist for years",
     "description": "Today Spotify announced a feature every parent has probably asked for: the ability to exclude kids and family music from their algorithm. Here are the details.\n\n\n\n more…",
@@ -21,6 +115,18 @@
     "pub_date": "2026-09-15T13:20:00+00:00",
     "image_url": "http://www.techmeme.com/260915/i20.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/sept-15-casetify-coupon-code-deal",
+    "title": "Protect your new phone for less: Use this exclusive code to get 15% off your second Casetify case",
+    "description": "As of Sept. 15, shoppers can buy one case from Casetify and get a second for 15% off by using this exclusive promo code at checkout: IMPACT2026.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-15T13:18:11+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/03C1mjc7d4cGnnNns0Ctdfc/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.zdnet.com/business/ios-27-siri-ai-beta-how-to-try/",
@@ -117,7 +223,7 @@
   {
     "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
     "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-    "description": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A lound led by Ribbit Capital, with participation from First Harmonic.",
+    "description": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -1160,8 +1266,8 @@
   },
   {
     "link": "https://www.techmeme.com/260915/p7#a260915p7",
-    "title": "Apple rolls out child safety tools with iOS 27, iPadOS 27, and macOS 27, such as blocking gore and violent content in FaceTime calls and Safari's Ask to Browse (Apple)",
-    "description": "Apple:\nApple rolls out child safety tools with iOS 27, iPadOS 27, and macOS 27, such as blocking gore and violent content in FaceTime calls and Safari's Ask to Browse  —  Apple's new suite of powerful, intuitive, and easy-to-use tools helps parents create safer digital experiences for their kids …",
+    "title": "Apple debuts child safety tools with iOS 27, iPadOS 27, and macOS 27, such as for blocking gore and violent content in FaceTime calls and Safari's Ask to Browse (Apple)",
+    "description": "Apple:\nApple debuts child safety tools with iOS 27, iPadOS 27, and macOS 27, such as for blocking gore and violent content in FaceTime calls and Safari's Ask to Browse  —  Apple's new suite of powerful, intuitive, and easy-to-use tools helps parents create safer digital experiences for their kids …",
     "categories": [
       "Tech News"
     ],
@@ -1526,7 +1632,6 @@
     "title": "In select countries, iCloud+ now includes Apple TV and Apple Arcade at no extra charge",
     "description": "In more than 100 countries, Apple has launched a new initiative that bundles Apple TV and Apple Arcade subscriptions into iCloud+, at no extra charge. Rather than the pricier Apple One bundles, rolling everything into iCloud+ now seems to be the company’s strategy for services growth in smaller territories and price-sensitive developing markets.\n\n\n\nThis will clearly boost the access of Apple’s content services in these markets. You can find the full list of over 100 supported countries below, spoiler alert it does not include the United States …\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-15T07:37:46+00:00",
@@ -2175,107 +2280,6 @@
     ],
     "pub_date": "2026-09-14T22:03:53+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/apple-logo-store.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2254564/wired-vs-wireless-gaming-mouse-is-there-a-difference/",
-    "title": "Wired vs wireless gaming mouse: is there really a difference in performance?",
-    "description": "In the past, choosing between a wired and a wireless gaming mouse may have meant accepting a number of tradeoffs. These days, there's very little between them.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-14T22:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/wired-vs-wireless-gaming-mouse-is-there-really-a-difference-in-performance/l-intro-1789036935.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/quote-of-the-day-by-intel-co-founder-gordon-moore-the-number-of-transistors-incorporated-in-a-chip-will-approximately-double-every-24-months-laying-down-a-prophecy-for-decades-of-computing-acceleration",
-    "title": "Quote of the day by Intel co-founder Gordon Moore: 'The number of transistors incorporated in a chip will approximately double every 24 months' — laying down a prophecy for decades of computing acceleration",
-    "description": "Moore's law held up for many years, with engineers finally reaching the physical limitations of silicon in the last decade or so",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-14T22:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Pe5Gp5s3AXZSYvmSKQDo7N-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-    "description": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-09-14T21:51:02+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2258386/doom-the-dark-ages-has-been-permanently-discounted-to-50-dollars/",
-    "title": "Doom: The Dark Ages has been permanently discounted to $50",
-    "description": "The latest Doom installment just got a good bit cheaper.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-14T21:48:09+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/doom-the-dark-ages-has-been-permanently-discounted-to-50/l-intro-1789422348.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/audio/earbuds-airpods/samsungs-much-anticipated-open-earbuds-appear-to-leak-again-this-time-with-a-new-name-and-long-list-of-features",
-    "title": "Samsung's much-anticipated open-earbuds appear to leak again, this time with a new name and long list of features",
-    "description": "Another leak has revived interest in Samsung's open-ear headphones, this time suggesting a new name as well as some features which they could have.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-14T21:44:02+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Nb6pBzw2zaxiGWTw2tcnpJ-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/services-and-software/siri-ai-will-have-deep-integration-with-chatgpt-and-claude-models-leaked-build-shows/",
-    "title": "Siri AI Will Have Deep Integration With ChatGPT and Claude Models, Leaked Build Shows",
-    "description": "Siri AI will cooperate with ChatGPT or Claude on certain tasks. The third-party models can even replace Siri altogether.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-14T21:35:52+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2156791504.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
-    "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
-    "description": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-14T21:32:22+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/blue-origin-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260914/p38#a260914p38",
-    "title": "Cornelis, spun off from Intel in 2020 to build networking tech that helps AI chips communicate more effectively, raised $205M led by IAG Capital (Dominic-Madori Davis/TechCrunch)",
-    "description": "Dominic-Madori Davis / TechCrunch:\nCornelis, spun off from Intel in 2020 to build networking tech that helps AI chips communicate more effectively, raised $205M led by IAG Capital  —  Cornelis, a company creating networking technology to help AI chips communicate more effectively, announced Monday that it has raised $205 million …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-14T21:30:01+00:00",
-    "image_url": "http://www.techmeme.com/260914/i38.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/14/heres-every-security-fix-included-in-ios-27-and-ipados-27/",
-    "title": "Here’s every security fix included in iOS 27 and iPadOS 27",
-    "description": "In addition to publishing the security content for macOS 27, macOS 26.7, and macOS 15.8, Apple has now detailed the fixes included in iOS 27 and iPadOS 27, also released today. Here are the details.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-14T21:26:18+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-security-malware-virus-code-9to5mac.png?w=1600",
     "source_name": "9TO5MAC.COM"
   }
 ]
