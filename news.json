@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range",
+    "title": "Volvo’s plug-in hybrid XC60 and XC90 can really go the distance",
+    "description": "Most plug-in hybrid electric vehicles (PHEV) today get an average of around 30-50 miles of battery-only range: decent, but not mind-blowing. With hybrid sales dominating the market today, Volvo is out to prove that its PHEVs can push the limits of what's possible. Today, the Swedish automaker revealed the updated PHEV versions of its popular",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-15T07:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/The_new_Volvo_XC60_and_the_Volvo_XC90_DuoAngle01_HERO.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/trump-phoned-jensen-huang-onstage-at-the-all-in-summit-to-call-ai-fear-a-hoax",
+    "title": "Trump phoned Jensen Huang onstage at the All-In Summit to call AI fear a hoax",
+    "description": "Jensen Huang was midway through an interview at the All-In Summit in Los Angeles on Monday morning when his phone rang. It was Donald Trump. Huang put him on speakerphone, and the president opened by noting that Huang can design the most complex computer chip in the world but “can’t figure out how to put",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-15T06:49:03+00:00",
+    "image_url": "https://media.thenextweb.com/2026/05/Jensen-Huang-CEO-NVIDIA.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260915/p2#a260915p2",
     "title": "Sources: Tokyo-based memory maker Kioxia is considering raising $10B+ through a 2027 US ADR listing as it seeks liquidity after billions in share buybacks (Bloomberg)",
     "description": "Bloomberg:\nSources: Tokyo-based memory maker Kioxia is considering raising $10B+ through a 2027 US ADR listing as it seeks liquidity after billions in share buybacks  —  Kioxia Holdings Corp. is considering raising at least $10 billion by listing American depositary receipts, people familiar with the matter said …",
@@ -130,7 +153,6 @@
     "title": "OpenAI researcher: top models are becoming so situationally aware humans \"are losing the ability to evaluate them\" while humans rely more on AI to lead research (Daniel Kokotajlo/@dkokotajlo)",
     "description": "Daniel Kokotajlo / @dkokotajlo:\nOpenAI researcher: top models are becoming so situationally aware humans “are losing the ability to evaluate them” while humans rely more on AI to lead research  —  Dan Selsam is a current OpenAI capabilities researcher. (since 2022) He was my boss for a while. He doesn't have a twitter account but has made this public statement of his views on AI risk and sent it to me to share: Dan Selsam's Personal Statement on AI Risk: I have been working on AI for over ...",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-15T03:00:35+00:00",
@@ -142,7 +164,6 @@
     "title": "'No old code exists': Tomb Raider: Legacy of Atlantis experience director confirms the 'reimagining' had to be built totally from the ground up on Unreal Engine 5 — but this meant Crystal Dynamics could add more tech upgrades",
     "description": "Crystal Dynamics has explained why it chose to build Tomb Raider: Legacy of Atlantis from the ground up on Unreal Engine 5.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-09-15T03:00:00+00:00",
@@ -243,6 +264,7 @@
     "description": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
     "categories": [
       "AI & Machine Learning",
+      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware"
     ],
@@ -384,17 +406,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.techradar.com/audio/dacs/this-new-free-bit-perfect-hi-res-audio-player-for-mac-was-apparently-a-nightmare-to-make-but-could-become-the-lossless-player-of-your-dreams",
-    "title": "This new free 'bit-perfect' Hi-Res Audio player for Mac was apparently a 'nightmare' to make, but could become the lossless player of your dreams",
-    "description": "YM Pro is a Mac music player that bypasses the system mixer and communicates directly with your DAC",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-15T00:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/uLbazrHsUiBeNkANSwecd4-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-tesla-roadsters-october-reveal-looks-like-another-piece-of-pantomime-its-a-shame-the-once-ground-breaking-company-doesnt-focus-on-cars-anymore",
     "title": "The Tesla Roadster’s October reveal looks like another piece of pantomime — it’s a shame the once ground-breaking company doesn’t focus on cars anymore",
     "description": "Tesla’s new Roadster could fly, but I’d rather it built a car people can actually buy.",
@@ -403,6 +414,17 @@
     ],
     "pub_date": "2026-09-15T00:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/WzA92VciRM2o8euSZkoJjC-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/audio/dacs/this-new-free-bit-perfect-hi-res-audio-player-for-mac-was-apparently-a-nightmare-to-make-but-could-become-the-lossless-player-of-your-dreams",
+    "title": "This new free 'bit-perfect' Hi-Res Audio player for Mac was apparently a 'nightmare' to make, but could become the lossless player of your dreams",
+    "description": "YM Pro is a Mac music player that bypasses the system mixer and communicates directly with your DAC",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-15T00:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/uLbazrHsUiBeNkANSwecd4-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2230,28 +2252,5 @@
     "pub_date": "2026-09-14T15:34:31+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/virtual-reality-augmented-reality/metas-leaked-vr-headset-looks-to-be-everything-ive-wanted-since-it-made-the-meta-quest-pro",
-    "title": "Meta’s leaked VR headset looks to be everything I’ve wanted since it made the Meta Quest Pro",
-    "description": "Meta’s Project Phoenix has leaked, and it’s what I dreamed it would be.",
-    "categories": [
-      "Breaking News",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-14T15:34:02+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/KAw22gaqaEWgpy9K7VcLz9-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/sony-playstation-store-settlement-credit-how-to-claim",
-    "title": "Sony PlayStation Store Credit settlement: How to claim your piece of the $7.85 million",
-    "description": "Find out who qualifies for Sony’s $7.85 million PlayStation settlement, how store credits will be distributed, and when the court could approve the deal.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-14T15:32:23+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01wTZ86IRqMRpdlC6NqAtgk/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
