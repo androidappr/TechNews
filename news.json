@@ -1,5 +1,51 @@
 [
   {
+    "link": "https://www.techmeme.com/260915/p10#a260915p10",
+    "title": "Microsoft rolls out emergency fix for critical issues caused by its September Patch Tuesday update, which addressed ~1,000 vulnerabilities but introduced bugs (Tom Warren/The Verge)",
+    "description": "Tom Warren / The Verge:\nMicrosoft rolls out emergency fix for critical issues caused by its September Patch Tuesday update, which addressed ~1,000 vulnerabilities but introduced bugs  —  The out-of-band update fixes Remote Desktop, USB audio, and Hyper-V issues. … Microsoft has started rolling out an emergency …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-15T10:30:00+00:00",
+    "image_url": "http://www.techmeme.com/260915/i10.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2258771/apple-adds-apple-tv-and-arcade-to-icloud-plus-subscriptions/",
+    "title": "Apple adds TV and Arcade to iCloud+ subscriptions in 100 countries",
+    "description": "Apple is bundling in more services, including TV, with its cheaper iCloud+ subscriptions in certain regions.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-15T10:26:53+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/apple-adds-tv-and-arcade-to-icloud-subscriptions-in-100-countries/l-intro-1789467885.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/obsolete-programs-are-powering-97-percent-of-us-database-systems-and-the-reason-why-wont-surprise-anyone",
+    "title": "Obsolete programs are powering 97% of US database systems — and the reason why won't surprise anyone",
+    "description": "Nearly all US database administrators say they're running at least some outdated software as the security risks rise.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-15T10:15:29+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/6Rd24A5ggG54qzU9feSqZ5-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/a-trump-aligned-think-tank-focused-on-voting-rights-has-taken-over-the-census-bureau/",
+    "title": "The Census Bureau Is Overrun With Staffers From a MAGA Think Tank",
+    "description": "The US Census is home to vast troves of sensitive data on nearly every person living in the country, which is used for apportioning and drawing congressional districts as well as allocating federal funding based on population sizes.",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-15T10:15:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aa81ea759082b83fd22f558/master/pass/AP20345779857727.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.techradar.com/gaming/blizzard-says-starcraft-will-have-the-same-gritty-atmosphere-and-be-inspired-by-the-interstellar-western-of-the-original-rts-our-real-world-has-asymmetry-to-it-and-so-i-think-leveraging-that-and-putting-that-into-this-world-was-key-for-us",
     "title": "Blizzard says StarCraft will have the same 'gritty' atmosphere and be inspired by the 'interstellar western' of the original RTS — 'Our real world has asymmetry to it, and so I think leveraging that and putting that into this world was key for us'",
     "description": "StarCraft will adopt the same \"gritty\" atmosphere of the original real-time strategy (RTS) game, according to Blizzard Entertainment.",
@@ -78,6 +124,18 @@
     "pub_date": "2026-09-15T10:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6aa454bdcc5cd3bf9174f64e/master/pass/Big-Interview-UV-Solo-Emily-St-John-Mandel-610640284.jpg",
     "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/15/apple-work-podcast-breaking-down-the-improvements-and-benefits-of-parallels-desktop-27/",
+    "title": "Apple @ Work Podcast: Breaking down the improvements and benefits of Parallels Desktop 27",
+    "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\n\n\nIn this episode of Apple @ Work, Dmitry Geynisman from Parallels joins the show to talk about all the new features in Parallels Desktop 27.\n\n\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-15T10:00:00+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
   },
   {
     "link": "https://www.techmeme.com/260915/p8#a260915p8",
@@ -713,7 +771,7 @@
   },
   {
     "link": "https://www.techradar.com/vpn/vpn-services/pvanish-says-server-count-doesnt-matter-so-it-rebuilt-the-parts-that-do",
-    "title": "PVanish says server count doesn't matter, so it rebuilt the parts that do",
+    "title": "IPVanish says server count doesn't matter, so it rebuilt the parts that do",
     "description": "IPVanish has finished a two-year rebuild of its VPN network, boosting per-server throughput by 41% with 50Gbps ports, direct peering, and dual data centers. Here is what is new and how it compares.",
     "categories": [
       "Tech News"
@@ -1081,17 +1139,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.techradar.com/audio/dacs/this-new-free-bit-perfect-hi-res-audio-player-for-mac-was-apparently-a-nightmare-to-make-but-could-become-the-lossless-player-of-your-dreams",
-    "title": "This new free 'bit-perfect' Hi-Res Audio player for Mac was apparently a 'nightmare' to make, but could become the lossless player of your dreams",
-    "description": "YM Pro is a Mac music player that bypasses the system mixer and communicates directly with your DAC",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-15T00:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/uLbazrHsUiBeNkANSwecd4-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-tesla-roadsters-october-reveal-looks-like-another-piece-of-pantomime-its-a-shame-the-once-ground-breaking-company-doesnt-focus-on-cars-anymore",
     "title": "The Tesla Roadster’s October reveal looks like another piece of pantomime — it’s a shame the once ground-breaking company doesn’t focus on cars anymore",
     "description": "Tesla’s new Roadster could fly, but I’d rather it built a car people can actually buy.",
@@ -1100,6 +1147,17 @@
     ],
     "pub_date": "2026-09-15T00:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/WzA92VciRM2o8euSZkoJjC-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/audio/dacs/this-new-free-bit-perfect-hi-res-audio-player-for-mac-was-apparently-a-nightmare-to-make-but-could-become-the-lossless-player-of-your-dreams",
+    "title": "This new free 'bit-perfect' Hi-Res Audio player for Mac was apparently a 'nightmare' to make, but could become the lossless player of your dreams",
+    "description": "YM Pro is a Mac music player that bypasses the system mixer and communicates directly with your DAC",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-15T00:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/uLbazrHsUiBeNkANSwecd4-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2198,64 +2256,5 @@
     "pub_date": "2026-09-14T17:11:55+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/image-9_8a965f.png",
     "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/services-and-software/ios-27-optimizing-iphone-search/",
-    "title": "Why Is My iPhone ‘Optimizing Search and Siri’ With iOS 27?",
-    "description": "This process could take a few hours or longer, but your iPhone will still work in that time.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-14T17:11:13+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/cnet-ios27-6_b18012.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/",
-    "title": "Prehistoric builders transported Devil's Arrows 11 miles",
-    "description": "Isotopic analysis revealed the most likely source to be Brimham Rocks, not the nearby Plumpton Rocks.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-14T17:10:54+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/devilsarrow1-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-    "title": "With iOS 27, I’m actually using Siri again",
-    "description": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-14T17:10:30+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/14/watchos-27-now-available-for-apple-watch-heres-whats-new/",
-    "title": "watchOS 27 now available for Apple Watch, here’s what’s new",
-    "description": "Apple has released its next major update for Apple Watch users: watchOS 27 is rolling out now. Here’s what’s new.\n\n\n\n more…",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-14T17:10:29+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/watchos-27-tap-gesture-wrist.jpg?quality=82&strip=all&w=1500",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/14/visionos-27-is-here-for-apple-vision-pro-with-these-new-features/",
-    "title": "visionOS 27 is here for Apple Vision Pro with these new features",
-    "description": "Apple Vision Pro’s next major software update is here. visionOS 27 is rolling out now to all Vision Pro models, here’s what’s new.\n\n\n\n more…",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-14T17:10:17+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/visionOS-27-hero-02.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
