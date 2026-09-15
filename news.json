@@ -1,5 +1,42 @@
 [
   {
+    "link": "https://www.techmeme.com/260915/p18#a260915p18",
+    "title": "Sources: ByteDance's H1 2026 net profit dropped by a single-digit percentage YoY to $20B and revenue rose ~30% to $120B; its 2025 revenue rose 29% to ~$200B (The Information)",
+    "description": "The Information:\nSources: ByteDance's H1 2026 net profit dropped by a single-digit percentage YoY to $20B and revenue rose ~30% to $120B; its 2025 revenue rose 29% to ~$200B  —  ByteDance's net profit in the first half of this year declined by a single-digit percentage to $20 billion, as the Chinese tech giant ramped …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-15T12:20:01+00:00",
+    "image_url": "http://www.techmeme.com/260915/i18.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/",
+    "title": "New Italian unicorn Exein rides the physical AI wave",
+    "description": "Italian startup Exein has raised a $270 million round of funding led by Headline at a $1.7 billion valuation.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-15T12:19:38+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/15/new-apple-watch-features-may-require-new-legal-precedent-for-privacy/",
+    "title": "New Apple Watch features may require new legal precedent for privacy",
+    "description": "Two new Apple Watch features may see the device running up against privacy laws in multiple US states. That’s because the new Live Rewind and Siri Recap features audio-record conversations.\n\n\n\nThe devil is very much in the detail here, since neither feature makes audio recordings accessible to anyone, and it seems likely that the issue will need to be tested in the courts in order to set a new legal precedent … \n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-15T12:17:07+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/New-Apple-Watch-features-may-require-new-legal-precedent-for-privacy.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260915/p17#a260915p17",
     "title": "New York-based AI marketing startup Profound raised a $180M Series D led by Sequoia and Kleiner Perkins at a $1.8B valuation, taking its total funding to $335M+ (Rebecca Torrence/Bloomberg)",
     "description": "Rebecca Torrence / Bloomberg:\nNew York-based AI marketing startup Profound raised a $180M Series D led by Sequoia and Kleiner Perkins at a $1.8B valuation, taking its total funding to $335M+  —  The artificial intelligence marketing startup Profound has raised $180 million at a $1.8 billion valuation in its Series D fundraising round …",
@@ -35,6 +72,18 @@
     "pub_date": "2026-09-15T12:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/2-ways-android-users-can-take-advantage-of-apples-magsafe-accessories/l-intro-1789045041.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.cnet.com/home/kitchen-and-household/kitchenaids-new-design-series-mixer-features-a-glass-bowl-that-illuminates-2__trashed/",
+    "title": "KitchenAid’s New Design Series Mixer Features a Glass Bowl That Illuminates",
+    "description": "The Luminaire comes in a new blue peppercorn color and features an entirely redesigned glass bowl.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-15T12:00:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/250766KPP03-052_KSM50GSVXBP_Set_sRGB.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://www.techradar.com/home/small-appliances/kitchenaid-just-unveiled-its-latest-design-series-stand-mixer-and-its-glowing-jewel-like-glass-bowl-took-my-breath-away",
@@ -1014,8 +1063,7 @@
     "title": "Cathie Wood calls AI extinction warnings ridiculous at a Sydney briefing",
     "description": "Cathie Wood praised the AI industry for talking openly about its own risks and dismissed the specific risk it has been talking about, in the same set of remarks to reporters in Sydney. The ARK Invest founder said she was “happy that the leaders of the industry are advertising the risks associated with this new",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-15T08:29:28+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/Cathie-Wood-in-the-ARK-Invest-office.avif",
@@ -1037,7 +1085,6 @@
     "title": "Meta’s Phoenix mixed reality headset is finally starting to look real",
     "description": "Meta accidentally leaked its Project Phoenix headset, featuring a ultra-light glasses design, tethered compute puck, and controller-free tracking.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-09-15T08:26:53+00:00",
@@ -2228,49 +2275,5 @@
     "pub_date": "2026-09-14T19:06:13+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1482639221-1152x648-1789407457.jpg",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/31-000-twitch-users-hit-by-malicious-browser-extension-oauth-tokens-leaked-via-russian-proxy-network",
-    "title": "31,000 Twitch users hit by malicious browser extension — OAuth tokens leaked via Russian proxy network",
-    "description": "The extension has since been updated to remove the OAuth exfil.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-14T19:05:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/33ooyG4FCgVjDs8W6RpowC-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/14/ios-27-adds-new-opt-in-setting-for-sharing-data-to-improve-apples-foundation-models/",
-    "title": "iOS 27 adds new opt-in setting for sharing data to improve Apple’s Foundation Models",
-    "description": "After several months of beta testing, Apple released Siri AI to the public today as part of iOS 27 and its other OS updates. \n\n\n\nDuring setup, users will see a new prompt asking whether they’d like to opt in to improve Siri and Apple Intelligence. Here’s what that means. \n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-14T19:02:17+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-siri.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260914/p33#a260914p33",
-    "title": "Sources: OpenAI bought Glass Imaging, which is developing AI-powered smartphone camera tech, in a deal valuing it at $300M+; it was valued at ~$100M last year (Wall Street Journal)",
-    "description": "Wall Street Journal:\nSources: OpenAI bought Glass Imaging, which is developing AI-powered smartphone camera tech, in a deal valuing it at $300M+; it was valued at ~$100M last year  —  Glass Imaging, valued above $300 million in deal, was founded by former Apple employees  —  OpenAI quietly bought …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-14T19:00:37+00:00",
-    "image_url": "http://www.techmeme.com/260914/i33.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://science.nasa.gov/science-research/biological-physical-sciences/new-crops-health-research-proposals-to-help-nasa-advance-exploration/",
-    "title": "New Crops, Health Research Proposals to Help NASA Advance Exploration",
-    "description": "NASA has selected 12 new investigations to help support human explorers in space. Six will help advance the ability to produce food off-planet, while another six advance the understanding of how unique conditions associated with space exploration can impact the health and physiology of astronauts.   The six food-focused investigations, supported by the agency’s Space",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-14T19:00:00+00:00",
-    "image_url": null,
-    "source_name": "SCIENCE.NASA.GOV"
   }
 ]
