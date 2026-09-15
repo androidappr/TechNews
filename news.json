@@ -1,5 +1,18 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+    "title": "Voters mostly don’t like AI and data centers, but neither party seems to have an edge",
+    "description": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-15T23:34:25+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260915/p54#a260915p54",
     "title": "Q&A with Matt Sheehan, a senior fellow at the Carnegie Endowment for International Peace, on US-China AI race, distillation, US chip export controls, and more (New York Times)",
     "description": "New York Times:\nQ&A with Matt Sheehan, a senior fellow at the Carnegie Endowment for International Peace, on US-China AI race, distillation, US chip export controls, and more  —  This is an edited transcript of “The Ezra Klein Show.”  You can listen to the episode wherever you get your podcasts.",
@@ -2283,17 +2296,5 @@
     "pub_date": "2026-09-15T14:25:06+00:00",
     "image_url": "http://www.techmeme.com/260915/i25.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
-    "title": "India ends free ride for larger transactions on its ubiquitous digital payments network",
-    "description": "India will impose a 0.4% merchant fee on certain payments made through UPI starting October 15.",
-    "categories": [
-      "Breaking News",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-09-15T14:22:49+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
