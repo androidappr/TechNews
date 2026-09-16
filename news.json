@@ -1,5 +1,52 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+    "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+    "description": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-16T20:12:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/nintendo-switch-2-zelda-40-anniversary-restock",
+    "title": "Nintendo confirms Legend of Zelda Switch 2 will be restocked",
+    "description": "Nintendo says you haven't run out of opportunities to get the special 'Ocarina of Time' Switch 2 consoles.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-16T20:06:17+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01Zu255HK1WwuEqaqYZAk6Z/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260916/p43#a260916p43",
+    "title": "Hang Ten Systems, which uses AI to help large enterprises build software, raised an additional $53M seed led by Xora, five weeks after its initial $32M seed (Jagmeet Singh/TechCrunch)",
+    "description": "Jagmeet Singh / TechCrunch:\nHang Ten Systems, which uses AI to help large enterprises build software, raised an additional $53M seed led by Xora, five weeks after its initial $32M seed  —  Hang Ten Systems, an AI startup founded by former Infosys CEO Vishal Sikka just four months ago, has expanded its seed funding by another $53 million.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-16T20:05:02+00:00",
+    "image_url": "http://www.techmeme.com/260916/i43.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/first-ever-battle-between-two-autonomous-naval-drones-won-by-ukraine-thanks-to-a-salvo-from-a-remote-weapon-turret-clone",
+    "title": "First-ever battle between two autonomous naval drones 'won' by Ukraine — thanks to a salvo from a remote weapon turret",
+    "description": "Ukraine says a Sargan-3000 destroyed a Russian naval drone with a 12.7mm remotely operated weapon during an unprecedented Black Sea encounter.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-16T20:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/m6kBqoCAc29ipreVBTj3TQ-1280-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/09/16/ios-27-2-references-new-option-to-overwrite-iphone-storage-with-blank-data-after-erasing/",
     "title": "iOS 27.2 references new option to overwrite iPhone storage with blank data after erasing",
     "description": "Apple is working on a new option to more thoroughly wipe an iPhone’s storage when erasing the device, but there’s a catch. Here are the details.\n\n\n\n more…",
@@ -11,8 +58,20 @@
     "source_name": "9TO5MAC.COM"
   },
   {
+    "link": "https://www.techradar.com/tech/hackers-found-flock-cameras-can-track-more-than-just-cars-and-boston-officials-found-camera-data-was-shared-despite-being-told-it-wouldnt-be",
+    "title": "Hackers found Flock cameras can track more than just cars — and Boston officials found camera data was shared despite being told it wouldn’t be",
+    "description": "Hackers just extracted a scary amount of data from a downed flock camera, as Boston reveals it won’t use Flock anymore.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-16T20:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/MNtmpT5HC2DfhN6gBzHR3f-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
-    "title": "X will now let U.S. users trade via cashtags",
+    "title": "X will now let US users trade via Cashtags",
     "description": "The move closes the gap between the market discussions taking place on the timeline, and the market itself.",
     "categories": [
       "Breaking News",
@@ -65,6 +124,7 @@
     "title": "Meta Reportedly Creating Glasses Without Cameras After ‘Pervert’ Uproar",
     "description": "The new glasses would focus on audio capabilities and ditch the cameras, according to a news report.",
     "categories": [
+      "Breaking News",
       "Mobile & Telecom"
     ],
     "pub_date": "2026-09-16T19:34:51+00:00",
@@ -632,6 +692,7 @@
     "title": "Hackers dismantle Flock camera to see what makes it tick",
     "description": "Hackers pulled a Flock camera off a pole, cracked its encryption, and revealed exactly how it tracks vehicles and people.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-16T17:04:16+00:00",
@@ -1048,7 +1109,6 @@
     "title": "NASA Celebrates Restoration of Guam Station Damaged by Typhoon Mawar",
     "description": "NASA celebrated the full restoration of its Guam Remote Station with a ribbon-cutting on Sept. 10, closing out more than three years of recovery after Super Typhoon Mawar devastated the site in 2023. Engineers from across the agency completed the final and most complex step of the rebuild on July 1, when they returned the",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-16T16:12:01+00:00",
@@ -1082,7 +1142,6 @@
     "title": "NASA Watches Earth’s Weight, Finds Center of Mass",
     "description": "Seasonal changes redistribute enough water around Earth to shift the planet’s center of mass back and forth by fractions of an inch relative to its geometric center. NASA scientists are on the case, tracking the oscillations because Earth’s center of mass is a crucial reference point for satellite navigation and elevation measurements. A team, led",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-16T16:08:00+00:00",
@@ -1094,7 +1153,6 @@
     "title": "Chipotle Is Working With Palantir to Track Food Safety Risks",
     "description": "The burrito chain has enlisted Palantir for a platform that monitors pest incidents, employee illnesses, and other factors. The partnership comes after a nightmare summer for food safety across the US.",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Cybersecurity & Privacy"
     ],
@@ -2282,62 +2340,5 @@
     "pub_date": "2026-09-16T12:45:01+00:00",
     "image_url": "http://www.techmeme.com/260916/i24.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260916/p23#a260916p23",
-    "title": "Billionaire-backed AI safety activists have expanded their Capitol Hill lobbying in the past year, with groups like ControlAI conducting hundreds of meetings (Washington Post)",
-    "description": "Washington Post:\nBillionaire-backed AI safety activists have expanded their Capitol Hill lobbying in the past year, with groups like ControlAI conducting hundreds of meetings  —  Activists spent years cultivating allies on Capitol Hill.  Now lawmakers in both parties are discussing extinction.  —  Summary",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-16T12:35:05+00:00",
-    "image_url": "http://www.techmeme.com/260916/i23.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/16/four-ways-to-prevent-ai-killing-us-all-within-10-years/",
-    "title": "Four ways to prevent AI killing us all within 10 years",
-    "description": "Two high-profile computer scientists from Princeton University, and coauthors of the book AI Snake Oil, have weighed in on the question of whether AI will kill us all by the end of the decade.\n\n\n\nThe pair have become well known for their work in separating fact from fiction in the AI world, and have now responded to an admission by Anthropic that there is a greater than 10% chance that AI could kill all humans within the next ten years … \n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-16T12:34:11+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Princeton-experts-weigh-in-on-whether-AI-will-kill-us-all-within-10-years.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/sept-16-lg-curved-gaming-monitor-deal",
-    "title": "LGs 52-inch Ultragear evo G9 curved gaming monitor drops below $1,500 at Amazon — save over $250",
-    "description": "As of Sept. 16, the LG 52-inch Ultragear evo G9 curved gaming monitor has been discounted to $1,446.99 at Amazon, 15% off its list price of $1,699.99.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-16T12:27:30+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01CS6W1Y92t9lJzrjNTzgMV/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260916/p22#a260916p22",
-    "title": "Hacker collective stegan0gram dismantles a Flock camera, recovering an encryption key and showing it runs ~20 apps on a midrange smartphone-grade processor (404 Media)",
-    "description": "404 Media:\nHacker collective stegan0gram dismantles a Flock camera, recovering an encryption key and showing it runs ~20 apps on a midrange smartphone-grade processor  —  While people around the U.S. are tearing down Flock cameras, one group of hackers went a step further: extracting the camera's software too.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-16T12:20:01+00:00",
-    "image_url": "http://www.techmeme.com/260916/i22.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/uk-workers-spend-own-money-ai-tools-deloitte",
-    "title": "UK workers spend nearly £1bn a year of their own money on AI tools for work, Deloitte finds",
-    "description": "British workers spend about £958 million each year out of pocket on generative AI tools for work, according to a Deloitte UK survey of 25,000 people. Of those using these tools, 17% pay for at least one themselves. This spending is part of a larger trend that employers do not fully see. About 63% of",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-09-16T12:15:03+00:00",
-    "image_url": "https://media.thenextweb.com/2026/08/Deliotte.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
