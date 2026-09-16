@@ -1,5 +1,42 @@
 [
   {
+    "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+    "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+    "description": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original book altogether. The new film, called Odysseus: The Fall, comes",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-16T20:59:13+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-16-at-4.19.06-PM.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/apple-says-iphone-duo-will-run-ios-27-1-at-october-launch/",
+    "title": "Apple Says iPhone Duo Will Run iOS 27.1 at Launch in October",
+    "description": "The update will have features built specifically for the new iPhone design.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-16T20:58:15+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/iPhone-Duo.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+    "title": "The AI data center e-waste problem is huge — and getting bigger",
+    "description": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. It's a significantly higher estimate of AI's e-waste than previous studies have",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-16T20:40:46+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/09/16/iphone-ios-2-temporarily-brick-freeze-viral-prank/",
     "title": "This iOS 27 bug temporarily freezes your iPhone … and it’s going viral on social media",
     "description": "Just a matter of days after iOS 27 has been released to the public, people have already discovered a way to temporarily brick your phone with a quick series of swipes on the home screen. And it’s starting to going viral on social media as some kind of iPhone prank to do on your friends.\n\n\n\nLuckily, it is only a software soft-lock and you can easily get out of this temporarily bricked state by force rebooting your phone. Here’s how …\n\n\n\n more…",
@@ -354,6 +391,7 @@
     "title": "iOS 27.2 gives Apple TV a new profiles feature on iPhone",
     "description": "iOS 27.2 beta 1 arrived today, and with it a key new feature for the Apple TV app on iPhone: user profiles.\n\n\n\n more…",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-16T18:30:59+00:00",
@@ -749,7 +787,6 @@
     "title": "Your ‘health age’ is fake",
     "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. During last week's Apple Watch announcement, I let out a distinct \"Noooo!\" in the Steve Jobs Theater. Along with a",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware",
       "Science & Environment"
     ],
@@ -831,7 +868,6 @@
     "title": "Hoto's $30 electric screwdriver belongs in your tech toolkit — this cordless 25-piece kit is the tool we use for PC builds and desk setups",
     "description": "Our office furniture reviewer loves this 25-piece 3.6V cordless electric screwdriver, and it boasts a 1500mAh fast-recharge battery with 3 torque settings.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-16T16:54:34+00:00",
@@ -843,7 +879,6 @@
     "title": "Delos Data, which develops network chips and software to connect AI chips in a data center, raised $100M from Matrix, Playground, Socratic Partners, and others (Stephen Nellis/Reuters)",
     "description": "Stephen Nellis / Reuters:\nDelos Data, which develops network chips and software to connect AI chips in a data center, raised $100M from Matrix, Playground, Socratic Partners, and others  —  Delos Data, a startup founded by veterans of Intel Corp (INTC.O), on Tuesday said it has raised $100 million to develop chips …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-16T16:50:01+00:00",
@@ -1052,7 +1087,6 @@
     "title": "Last year's excellent Google Pixel 10 Pro is currently cheaper than the Pixel 11 — but is it worth going last-gen for a good phone deal?",
     "description": "For a limited time, Amazon is carving $200 off the Google Pixel 10 Pro. But is the 2025 smartphone still worth it?",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-16T16:29:01+00:00",
@@ -1738,7 +1772,6 @@
     "title": "Google DeepMind co-founder Shane Legg warns that advancing AI must never run ahead of safety and opens the DeepMind Institute to explore the deployment of AGI (Financial Times)",
     "description": "Financial Times:\nGoogle DeepMind co-founder Shane Legg warns that advancing AI must never run ahead of safety and opens the DeepMind Institute to explore the deployment of AGI  —  Shane Legg launches new institute to explore deployment of artificial general intelligence, amid growing calls for industry slowdown",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-16T14:55:01+00:00",
@@ -1772,7 +1805,6 @@
     "title": "macOS 27 Golden Gate: The Ars Technica review",
     "description": "It's both a \"Snow Leopard update\" and a major leap for Apple Intelligence.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-16T14:50:06+00:00",
@@ -1796,7 +1828,6 @@
     "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
     "description": "The Pixel phone maker said there are indications that a bug in the phone's modem \"may be under limited, targeted exploitation.\"",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-09-16T14:47:07+00:00",
@@ -2289,41 +2320,6 @@
     ],
     "pub_date": "2026-09-16T13:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/jJE2Ufd8ip7M7SknihUpgB-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/creative-software/canon-cameras-just-got-a-free-update-that-unleashes-immersive-3d-photo-capabilities-heres-how",
-    "title": "Canon cameras just got a free update that unleashes immersive 3D photo capabilities — here's how",
-    "description": "Canon has released Dual Pixel 3D software, which leverages 'depth and phase-detection data captured in a single shot via Dual Pixel CMOS AF' for a 3D imaging experience",
-    "categories": [
-      "Breaking News",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-16T12:57:48+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/QcKqm5XR4om77qLAqB7A8B-1280-80.gif",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260916/p25#a260916p25",
-    "title": "Modular data center startup Rune raised a $40M Series A led by Spark Capital to deploy off-grid compute capacity directly at solar and renewable energy sites (Adele Peters/Fast Company)",
-    "description": "Adele Peters / Fast Company:\nModular data center startup Rune raised a $40M Series A led by Spark Capital to deploy off-grid compute capacity directly at solar and renewable energy sites  —  A new data center in southwest Texas isn't connected to the grid—but it also didn't require building any new power plants.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-16T12:55:01+00:00",
-    "image_url": "http://www.techmeme.com/260916/i25.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/memory/ddr5-ram-pricing-appears-to-be-spiralling-out-of-control-even-more-its-5-5x-pricier-than-before-the-memory-crisis-and-2027-could-get-worse",
-    "title": "DDR5 RAM pricing appears to be spiralling out of control even more — it's 5.5x pricier than before the memory crisis, and 2027 could get worse",
-    "description": "Think RAM costs way too much already? You're right — but a fresh report shows that DDR5 is getting a lot pricier somehow.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-16T12:54:40+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/fB4xhGeRkAJAnQZ5YUNiLR-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
   }
 ]
