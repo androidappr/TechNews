@@ -1,5 +1,102 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+    "title": "Your AI agents can now control your Google Home devices",
+    "description": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT and others to control connected devices, review camera summaries and access smart home activity using natural language.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-16T17:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity",
+    "title": "Your ‘health age’ is fake",
+    "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. During last week's Apple Watch announcement, I let out a distinct \"Noooo!\" in the Steve Jobs Theater. Along with a",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-16T17:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257818_Whoop_5_AKrales_0175.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+    "title": "Google will now let any AI agent run your smart home",
+    "description": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-16T17:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/hotos-usd30-electric-screwdriver-belongs-in-your-tech-toolkit-this-cordless-25-piece-kit-is-the-tool-we-use-for-pc-builds-and-desk-setups",
+    "title": "Hoto's $30 electric screwdriver belongs in your tech toolkit — this cordless 25-piece kit is the tool we use for PC builds and desk setups",
+    "description": "Our office furniture reviewer loves this 25-piece 3.6V cordless electric screwdriver, and it boasts a 1500mAh fast-recharge battery with 3 torque settings.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-16T16:54:34+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/qtghkC9SUX89SVZBHrbnfk-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260916/p40#a260916p40",
+    "title": "Delos Data, which develops network chips and software to connect AI chips in a data center, raised $100M from Matrix, Playground, Socratic Partners, and others (Stephen Nellis/Reuters)",
+    "description": "Stephen Nellis / Reuters:\nDelos Data, which develops network chips and software to connect AI chips in a data center, raised $100M from Matrix, Playground, Socratic Partners, and others  —  Delos Data, a startup founded by veterans of Intel Corp (INTC.O), on Tuesday said it has raised $100 million to develop chips …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-16T16:50:01+00:00",
+    "image_url": "http://www.techmeme.com/260916/i40.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/16/anthropic-merging-claude-cowork-with-chat/",
+    "title": "Anthropic merging Claude Cowork with chat",
+    "description": "Anthropic announced today that Claude Cowork is being merged with chat. This means Claude will drop from three to two modes: Claude Chat and Claude Code.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-16T16:47:54+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/gaming-industry/pc-gaming-show-tokyo-direct-is-back-later-this-month-heres-how-to-watch-it",
+    "title": "PC Gaming Show Tokyo Direct is back later this month — here's how to watch it",
+    "description": "Here's how you can catch this weekend's The PC Gaming Show Tokyo Direct.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-16T16:45:24+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/srg7QsE9Kw3G9dgF2cibCQ-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/you-can-now-let-ai-handle-the-setup-of-your-meta-whatsapp-business-chats",
+    "title": "You can now let AI handle the setup of your Meta WhatsApp Business chats",
+    "description": "A new MCP server means Clade, Codex and ChatGPT can access your WhatsApp Business to set up an account.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-16T16:45:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/q6xnz9NJyKA7z3WTRVAFwK-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260916/p39#a260916p39",
     "title": "Anthropic merges Claude chat and Cowork, and adds a feature for making presentations and documents, rolling out to Pro and Max plans first (Ivan Mehta/TechCrunch)",
     "description": "Ivan Mehta / TechCrunch:\nAnthropic merges Claude chat and Cowork, and adds a feature for making presentations and documents, rolling out to Pro and Max plans first  —  Anthropic is merging its front-end for Claude chat and Cowork, making it less confusing for people to decide which tab to use for different tasks.",
@@ -10,6 +107,19 @@
     "pub_date": "2026-09-16T16:42:10+00:00",
     "image_url": "http://www.techmeme.com/260916/i39.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/apple-server-2029-eu-sovereignty",
+    "title": "Apple is reportedly developing an enterprise server built on its own chips",
+    "description": "Apple is developing an enterprise server built on its own M8 Ultra chips and has discussed using Nvidia’s NVLink Fusion to connect them, aiming at AI developers, companies and governments from around 2029, The Information reported. The European Commission proposed its Cloud and AI Development Act in June, grading public cloud contracts by how far",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-16T16:38:52+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/Apple-logo-on-a-building.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://www.techradar.com/televisions/soundbars/yamahas-new-cheap-dolby-atmos-soundbar-could-be-the-compact-tv-sound-upgrade-youre-looking-for",
@@ -69,6 +179,18 @@
     "source_name": "MASHABLE.COM"
   },
   {
+    "link": "https://www.zdnet.com/innovation/claude-chat-absorbs-cowork-anthropic/",
+    "title": "Goodbye, Claude Cowork: Anthropic merges its two Claudes into one",
+    "description": "From Claude to Cowork and back again – plus, Anthropic’s all-new Claude Docs.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-16T16:30:44+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2289791509.jpg",
+    "source_name": "ZDNET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260916/p37#a260916p37",
     "title": "A US judge orders X and SpaceXAI to explain why they dropped antitrust claims against Apple, after OpenAI's request for information on the purported agreement (Hassan Ali Kanu/Politico)",
     "description": "Hassan Ali Kanu / Politico:\nA US judge orders X and SpaceXAI to explain why they dropped antitrust claims against Apple, after OpenAI's request for information on the purported agreement  —  The federal judge overseeing an antitrust case by Elon Musk's companies against Apple and OpenAI is demanding to see any settlement agreements …",
@@ -82,7 +204,7 @@
   {
     "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
     "title": "Anthropic merges Claude chat and Cowork in one interface",
-    "description": "Anthropic is releasing these features to Pro and Max plan subscribers initally",
+    "description": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News"
@@ -116,6 +238,18 @@
     "source_name": "ENGADGET.COM"
   },
   {
+    "link": "https://www.cnet.com/tech/services-and-software/anthropic-claude-simplify-interface-cowork-design-ai-news/",
+    "title": "Anthropic Simplifies Claude’s Cowork and Design Tools",
+    "description": "You can create documents, slides and design schemas all within the main Claude window now.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-16T16:30:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/1c3102e0-a439-4e66-b5da-7757c969fd80.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.techradar.com/how-to-watch/football/man-utd-vs-brighton-free-carabao-cup-2026-27-3rd-round",
     "title": "How to watch Man Utd vs Brighton: Free Streams, TV Channels for Carabao Cup 2026/27 3rd Round",
     "description": "Here's how you can watch Man Utd vs Brighton for free in the Carabao Cup 3rd Round round online from anywhere, with TV channels and full broadcast details.",
@@ -138,6 +272,18 @@
     "pub_date": "2026-09-16T16:29:01+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/49MtiP55A8HsE63TZPgVhT-1280-80.jpg",
     "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/tech/september-pixel-drop-call-message-important-contacts/",
+    "title": "How September’s Pixel Drop changes the way you call and message important contacts",
+    "description": "The update lets you contact VIPs with a tap and adds scam protection.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-16T16:25:53+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/82c83abe-dddf-4f5b-b490-44ef6795201e.jpg",
+    "source_name": "ZDNET.COM"
   },
   {
     "link": "https://www.techmeme.com/260916/p36#a260916p36",
@@ -314,6 +460,19 @@
       "Breaking News",
       "Business & Startups",
       "Science & Environment"
+    ],
+    "pub_date": "2026-09-16T16:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
+    "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
+    "description": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?”  That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recently raised $163 million from the likes of Founders Fund, Thrive Capital, and Valor Equity",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-16T16:00:00+00:00",
     "image_url": null,
@@ -1348,7 +1507,6 @@
     "description": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-09-16T13:00:00+00:00",
@@ -1360,7 +1518,6 @@
     "title": "Clean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
     "description": "Fluxnium's  fibers can extract uranium directly from seawater, which has enough of the nuclear fuel to power thousands of generations.",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Science & Environment"
     ],
@@ -2012,17 +2169,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
-    "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works",
-    "description": "A hacker collective pulled down a Flock camera and dumped its data. The files included thousands of videos and logs showing that the device captured 1.6 million images of 50,000 vehicles in 21 days.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-16T10:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aa9a85e5f699411f4e1b648/master/pass/Security_HackersGotInsideaFlockCamera-ezgif.com-video-to-gif-converter.gif",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/introducing-the-wired-app/",
     "title": "Introducing the WIRED App",
     "description": "The app is the best way to read, watch, and listen to WIRED’s journalism.",
@@ -2031,6 +2177,17 @@
     ],
     "pub_date": "2026-09-16T10:30:00+00:00",
     "image_url": "https://media.wired.com/photos/6aa494acdc225a8b7147e3d4/master/pass/Topics.png",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+    "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works",
+    "description": "A hacker collective pulled down a Flock camera and dumped its data. The files included thousands of videos and logs showing that the device captured 1.6 million images of 50,000 vehicles in 21 days.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-16T10:30:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aa9a85e5f699411f4e1b648/master/pass/Security_HackersGotInsideaFlockCamera-ezgif.com-video-to-gif-converter.gif",
     "source_name": "WIRED.COM"
   },
   {
@@ -2200,152 +2357,6 @@
     ],
     "pub_date": "2026-09-16T09:00:00+00:00",
     "image_url": "https://media.wired.com/photos/69d97a455fe1d8ccec2519b2/master/pass/The-Best-2-in-1-Laptops.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/prediction-markets-polymarket-media-company-kalshi/",
-    "title": "Polymarket’s Next Bet? It Can Also Be a Media Company",
-    "description": "The legal battle over whether prediction markets are a form of gambling has overshadowed something else entirely: They’re already a new form of media.",
-    "categories": [
-      "Business & Startups",
-      "Social & Media"
-    ],
-    "pub_date": "2026-09-16T09:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aa18017989080f6e79c9c92/master/pass/Polymarket-Marketing.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/mobile/t-mobile-charging-for-iphone-handoff/",
-    "title": "T-Mobile Is the First Carrier to Support Apple’s iPhone Handoff, but It’ll Cost $5 a Month",
-    "description": "The new iOS 27 feature lets you bounce between two iPhones easily, but the carrier is charging for it. And AT&T is staying hands-free for now.",
-    "categories": [
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-09-16T09:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/iphone-handoff-18pro-17pro.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
-    "title": "Meta is reportedly ready to launch less pervy smart glasses",
-    "description": "Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses. A new report from The Information claims the camera-free glasses, codenamed Luna, could be revealed as soon as the Meta",
-    "categories": [
-      "Gadgets & Hardware",
-      "Social & Media"
-    ],
-    "pub_date": "2026-09-16T08:54:46+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257966_ethics_of_recording_people_with_smart_glasses__CVirginia3-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/ursula-von-der-leyen-backs-ai-slowdown-in-state-of-the-union-address",
-    "title": "Ursula Von der Leyen backs AI slowdown in State of the Union address",
-    "description": "In the speech she gave in Strasbourg on Wednesday, Ursula Von der Leyen agreed to the AI industry’s call for a slowdown. “The EU would arrange a discussion with the major AI labs on how public authorities can support the industry’s efforts to pace the frontier of this disruptive technology, ” the Commission president said,",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-16T08:45:54+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/Ursula-von-der-Leyen-addresses-the-European-Parliament.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2259862/boox-palma-3-note-air6-c-mini-c/",
-    "title": "The new Boox Palma 3 comes with stylus support and an aluminum build",
-    "description": "Boox has unveiled three new E Ink devices, including the Palma 3.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-16T08:35:49+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/the-new-boox-palma-3-comes-with-stylus-support-and-an-aluminum-build/l-intro-1789547194.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/smart-nanoparticles-deliver-mrna-directly-to-tumors-in-new-cancer-therapy/",
-    "title": "‘Smart’ Nanoparticles Deliver mRNA Directly to Tumors in New Cancer Therapy",
-    "description": "The treatment can reprogram immune cells that have been corrupted by the cancer, strengthening the body’s ability to attack.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-16T08:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aa98fe35f699411f4e1b613/master/pass/celulacancer.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/bytedance-anew-labs-290m-ai-drug-discovery",
-    "title": "ByteDance’s AI drug unit Anew Labs raises $290M at $1.5B valuation, Reuters reports",
-    "description": "ByteDance closed a $290M funding round for Anew Labs, its newly spun-off AI drug discovery unit, at a $1.5B valuation, Reuters reports, citing two sources familiar with the matter. Moreover, the company that owns TikTok will retain 56% of the business after this round, according to the same sources.  According to the same reporting, HSG,",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-16T08:10:25+00:00",
-    "image_url": "https://media.thenextweb.com/2026/06/ByteDance.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/zuckerberg-ai-labs-incentive-build-safely",
-    "title": "Mark Zuckerberg says every AI lab has the incentive to build safely",
-    "description": "“Every lab has the responsibility and incentive to move at the pace required to train its models safely, and the ability to take its own actions to ensure that happens,” said Mark Zuckerberg in a post on X on Tuesday. In the context of these days, when everyone is talking about “responsibility”, “the danger of",
-    "categories": [
-      "AI & Machine Learning",
-      "Social & Media"
-    ],
-    "pub_date": "2026-09-16T07:49:50+00:00",
-    "image_url": "https://media.thenextweb.com/2026/07/meta-stock-best-week-ai-cloud-compute.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/anthropic-first-australia-data-centre-lease",
-    "title": "Anthropic signs first Australian data centre lease",
-    "description": "Anthropic has signed its first lease for data center capacity in Australia, at a site on a campus planned for farmland, about 250km west of Brisbane, according to Reuters, which cited two people familiar with the deal.  The site on which the data center will be built belongs to a Singapore-based developer, likely Zerra DC,",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-16T07:23:24+00:00",
-    "image_url": "https://media.thenextweb.com/2026/08/anthropic-names-first-chief-global-affairs-officer.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2259838/meta-smart-glasses-without-a-camera/",
-    "title": "Meta is reportedly gearing up to launch new smart glasses without a camera",
-    "description": "Meta will soon unveil new camera-free smart glasses, according to The Information.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-16T06:49:32+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/meta-is-reportedly-developing-smart-glasses-without-a-camera/l-intro-1789541105.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/bose-coupon-code/",
-    "title": "Bose Promo Code: 40% Off for September 2026",
-    "description": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-16T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/office-depot-promo-codes/",
-    "title": "Office Depot Coupons: $20 Off September 2026",
-    "description": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-16T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/oneplus-promo-code/",
-    "title": "OnePlus Promo Codes: 30% Off September 2026",
-    "description": "Save 30% with a OnePlus coupon in September 2026, plus save up to 10% on earbuds, phones, and more.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-16T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
     "source_name": "WIRED.COM"
   }
 ]
