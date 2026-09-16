@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.cnet.com/tech/gaming/xbox-game-pass-september-2026-second-batch/",
+    "title": "Gears of War: E-Day and Minecraft Dungeons 2 Headline Xbox Game Pass September 2026 Additions",
+    "description": "As Microsoft continues to reshape Game Pass, a new lineup of games is arriving for subscribers.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-16T18:50:27+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/xbox-games-september-2026-wave-2-hero.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
     "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
     "description": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
@@ -22,6 +33,18 @@
     "pub_date": "2026-09-16T18:45:35+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DF-04181_r.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260916/p41#a260916p41",
+    "title": "Google adds MCP integration to Google Home, letting third-party AI agents analyze home data and control devices, rolling out to Premium Advanced users in the US (Jennifer Pattison Tuohy/The Verge)",
+    "description": "Jennifer Pattison Tuohy / The Verge:\nGoogle adds MCP integration to Google Home, letting third-party AI agents analyze home data and control devices, rolling out to Premium Advanced users in the US  —  ﻿Google Home adds MCP integration, allowing third-party AI agents to analyze your home data, control devices, and build custom dashboards.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-16T18:45:01+00:00",
+    "image_url": "http://www.techmeme.com/260916/i41.jpg",
+    "source_name": "TECHMEME.COM"
   },
   {
     "link": "https://9to5mac.com/2026/09/16/ios-27-2-gives-apple-tv-a-new-profiles-feature-on-iphone/",
@@ -643,7 +666,7 @@
   },
   {
     "link": "https://www.zdnet.com/innovation/claude-chat-absorbs-cowork-anthropic/",
-    "title": "Goodbye, Claude Cowork: Anthropic merges its two Claudes into one",
+    "title": "Anthropic merges Claude chat and Cowork into one",
     "description": "From Claude to Cowork and back again – plus, Anthropic’s all-new Claude Docs.",
     "categories": [
       "AI & Machine Learning",
@@ -663,18 +686,6 @@
     "pub_date": "2026-09-16T16:30:01+00:00",
     "image_url": "http://www.techmeme.com/260916/i37.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-    "title": "Anthropic merges Claude chat and Cowork in one interface",
-    "description": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-09-16T16:30:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   },
   {
     "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
@@ -1384,7 +1395,6 @@
     "title": "NASA Astronaut Reid Wiseman to Join NFL Fans in Baltimore",
     "description": "As part of NASA’s new Inspiration Tour, Reid Wiseman, NASA astronaut and commander of the agency’s Artemis II mission, will highlight America’s strengths in space exploration and aeronautics innovation at the Baltimore Ravens vs. New Orleans Saints game in Baltimore on Sunday, Sept. 20. A Baltimore native, Wiseman is a 27-year Navy veteran and NASA",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-16T15:00:18+00:00",
@@ -1397,7 +1407,6 @@
     "description": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware",
       "Science & Environment"
@@ -1411,7 +1420,6 @@
     "title": "Snap Specs launch 2026: Live updates from CEO Evan Spiegel's keynote",
     "description": "More details on the company's chunky smart glasses are expected today.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-16T15:00:00+00:00",
@@ -1447,7 +1455,6 @@
     "title": "NASA’s Integrated Medical Model (IMM)",
     "description": "Planning crewed missions to the Moon and Mars involves preparing for the medical realities of long-duration space travel. Factors like cosmic radiation, microgravity, and distance from Earth create unique health considerations for astronauts. To anticipate these needs ahead of time, NASA developed the Integrated Medical Model (IMM). The IMM is a decision-support tool that uses",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-16T14:50:23+00:00",
@@ -2338,16 +2345,5 @@
     "pub_date": "2026-09-16T11:49:30+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/videos/00ogiDLT7DtUwi4H7W5MetF/hero-image.png",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/streaming/streaming-guide-justwatch-is-launching-its-own-platform-with-both-free-and-paid-tiers-and-i-think-its-already-matching-the-likes-of-tubi-heres-why",
-    "title": "Streaming guide JustWatch is launching its own platform with both free and paid tiers, and I think it's already matching the likes of Tubi — here's why",
-    "description": "JustWatch TV is arriving in October, with Paramount, New Regency, and more supporting its content launch.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-16T11:49:19+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/HBVUxggn4oYazcHi8JxD7b-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
