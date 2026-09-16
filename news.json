@@ -1,5 +1,43 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+    "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+    "description": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-16T14:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/phones/samsung-galaxy/one-ui-9-is-finally-rolling-out-to-galaxy-s26-phones",
+    "title": "One UI 9 is finally rolling out to Galaxy S26 phones",
+    "description": "Samsung is finally rolling out its polished, AI-packed One UI 9 update to the Galaxy S26 series worldwide, bringing smart camera tools, proactive security, and productivity tweaks.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-16T13:53:22+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/kE5RwCUtEv5PuZ3cZDfRkZ-1280-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/16/apple-planning-to-sell-ai-servers-powered-by-m8-ultra-chips-says-report/",
+    "title": "Apple planning to sell AI servers powered by M8 Ultra chips, says report",
+    "description": "Apple is working on plans to make enterprise servers powered by M8 Ultra chips, according to a new report. The report specifically says that the company plans to offer the AI-focused servers for sale, not just use them internally.\n\n\n\nTwo versions are said to be in development, with Apple considering incorporating Nvidia networking tech in the machines … \n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-16T13:46:08+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-planning-to-sell-AI-servers-powered-by-M8-Ultra-chips-says-report.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260916/p28#a260916p28",
     "title": "The iPhone Duo's squat, tablet-like outer display is a compromise, and a book-shaped foldable may lack wide appeal; its right-side UI bias is akin to a book (John Gruber/Daring Fireball)",
     "description": "John Gruber / Daring Fireball:\nThe iPhone Duo's squat, tablet-like outer display is a compromise, and a book-shaped foldable may lack wide appeal; its right-side UI bias is akin to a book  —  Apple started with a title card that said “The following was shot on iPhone”, but the whole keynote — including the fun fake-movie openings — was shot on iPhone 18 Pros.",
@@ -20,6 +58,17 @@
     "pub_date": "2026-09-16T13:40:50+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/07fxzppm1d6KeurZYSZa2eF/hero-image.png",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/veridion-20m-series-a-642-million-companies-credit-models",
+    "title": "Veridion’s database has gone from 80 million companies to 642 million in three years. Experian is feeding it into credit models.",
+    "description": "Veridion has raised a $20m Series A led by Hoxton Ventures, with its existing backers Underline Ventures, OTB Ventures, GapMinder, Day One Capital and LAUNCHub all returning. The company sells a continuously updated graph of the world’s businesses to risk, insurance, procurement and market intelligence buyers. Its own boilerplate puts the graph at 642 million companies",
+    "categories": [
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-16T13:40:23+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/stefan-gergely-veridion-portrait.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://mashable.com/entertainment/the-hunger-games-sunrise-on-the-reaping-trailer-footage",
@@ -80,6 +129,19 @@
     "pub_date": "2026-09-16T13:15:01+00:00",
     "image_url": "http://www.techmeme.com/260916/i26.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+    "title": "Former Infosys chief’s AI startup nabs another $53M",
+    "description": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-16T13:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
   },
   {
     "link": "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/",
@@ -475,8 +537,8 @@
   },
   {
     "link": "https://www.techmeme.com/260916/p19#a260916p19",
-    "title": "Apple publishes a technical breakdown of the architecture for the iPhone 18 Pro's Reference Image camera mode; the chain of trust begins at manufacturing time (Marcus Mendes/9to5Mac)",
-    "description": "Marcus Mendes / 9to5Mac:\nApple publishes a technical breakdown of the architecture for the iPhone 18 Pro's Reference Image camera mode; the chain of trust begins at manufacturing time  —  A new post on Apple's Security Research blog details the fascinating tech, architecture, and thinking behind the iPhone 18 Pro's new Reference Image camera mode.",
+    "title": "Apple publishes a technical breakdown of the architecture for the iPhone 18 Pro's Reference Image camera mode; the chain of trust begins during manufacturing (Marcus Mendes/9to5Mac)",
+    "description": "Marcus Mendes / 9to5Mac:\nApple publishes a technical breakdown of the architecture for the iPhone 18 Pro's Reference Image camera mode; the chain of trust begins during manufacturing  —  A new post on Apple's Security Research blog details the fascinating tech, architecture, and thinking behind the iPhone 18 Pro's new Reference Image camera mode.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -592,8 +654,8 @@
   },
   {
     "link": "https://www.techmeme.com/260916/p16#a260916p16",
-    "title": "An in-depth look at loss-of-control incidents at OpenAI and Anthropic, the polarized reactions between the AI safety and cybersecurity communities, and more (AI as Normal Technology)",
-    "description": "AI as Normal Technology:\nAn in-depth look at loss-of-control incidents at OpenAI and Anthropic, the polarized reactions between the AI safety and cybersecurity communities, and more  —  A middle ground between the cybersecurity and AI safety communities  —  This essay is over 13,000 words long and represents …",
+    "title": "An in-depth look at the loss-of-control incidents at OpenAI and Anthropic, the polarized reactions between the AI safety and cybersecurity communities, and more (AI as Normal Technology)",
+    "description": "AI as Normal Technology:\nAn in-depth look at the loss-of-control incidents at OpenAI and Anthropic, the polarized reactions between the AI safety and cybersecurity communities, and more  —  A middle ground between the cybersecurity and AI safety communities  —  This essay is over 13,000 words long and represents …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -766,17 +828,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
-    "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works",
-    "description": "A hacker collective pulled down a Flock camera and dumped its data. The files included thousands of videos and logs showing that the device captured 1.6 million images of 50,000 vehicles in 21 days.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-16T10:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aa9a85e5f699411f4e1b648/master/pass/Security_HackersGotInsideaFlockCamera-ezgif.com-video-to-gif-converter.gif",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/introducing-the-wired-app/",
     "title": "Introducing the WIRED App",
     "description": "The app is the best way to read, watch, and listen to WIRED’s journalism.",
@@ -785,6 +836,17 @@
     ],
     "pub_date": "2026-09-16T10:30:00+00:00",
     "image_url": "https://media.wired.com/photos/6aa494acdc225a8b7147e3d4/master/pass/Topics.png",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+    "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works",
+    "description": "A hacker collective pulled down a Flock camera and dumped its data. The files included thousands of videos and logs showing that the device captured 1.6 million images of 50,000 vehicles in 21 days.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-16T10:30:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aa9a85e5f699411f4e1b648/master/pass/Security_HackersGotInsideaFlockCamera-ezgif.com-video-to-gif-converter.gif",
     "source_name": "WIRED.COM"
   },
   {
@@ -949,17 +1011,6 @@
     "source_name": "ZDNET.COM"
   },
   {
-    "link": "https://www.wired.com/story/best-2-in-1-laptops/",
-    "title": "Best 2-in-1 Laptops (2026): Microsoft, Lenovo, and the iPad",
-    "description": "These portable computers balance tablet and laptop functionality, whether you want a screen that detaches or spins.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-16T09:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/69d97a455fe1d8ccec2519b2/master/pass/The-Best-2-in-1-Laptops.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/prediction-markets-polymarket-media-company-kalshi/",
     "title": "Polymarket’s Next Bet? It Can Also Be a Media Company",
     "description": "The legal battle over whether prediction markets are a form of gambling has overshadowed something else entirely: They’re already a new form of media.",
@@ -969,6 +1020,17 @@
     ],
     "pub_date": "2026-09-16T09:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6aa18017989080f6e79c9c92/master/pass/Polymarket-Marketing.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/best-2-in-1-laptops/",
+    "title": "Best 2-in-1 Laptops (2026): Microsoft, Lenovo, and the iPad",
+    "description": "These portable computers balance tablet and laptop functionality, whether you want a screen that detaches or spins.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-16T09:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/69d97a455fe1d8ccec2519b2/master/pass/The-Best-2-in-1-Laptops.jpg",
     "source_name": "WIRED.COM"
   },
   {
