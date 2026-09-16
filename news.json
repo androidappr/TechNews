@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.techmeme.com/260916/p22#a260916p22",
+    "title": "Hacker collective stegan0gram dismantles a Flock camera, recovering an encryption key and showing it runs ~20 apps on a midrange smartphone-grade processor (404 Media)",
+    "description": "404 Media:\nHacker collective stegan0gram dismantles a Flock camera, recovering an encryption key and showing it runs ~20 apps on a midrange smartphone-grade processor  —  While people around the U.S. are tearing down Flock cameras, one group of hackers went a step further: extracting the camera's software too.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-16T12:20:01+00:00",
+    "image_url": "http://www.techmeme.com/260916/i22.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/uk-workers-spend-own-money-ai-tools-deloitte",
+    "title": "UK workers spend nearly £1bn a year of their own money on AI tools for work, Deloitte finds",
+    "description": "British workers spend about £958 million each year out of pocket on generative AI tools for work, according to a Deloitte UK survey of 25,000 people. Of those using these tools, 17% pay for at least one themselves. This spending is part of a larger trend that employers do not fully see. About 63% of",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-16T12:15:03+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/Deliotte.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260916/p21#a260916p21",
     "title": "iPhone 18 Pro and 18 Pro Max review: manual camera exposure controls and image quality improvements, but $100 more than the 17 Pro and expensive storage tiers (Allison Johnson/The Verge)",
     "description": "Allison Johnson / The Verge:\niPhone 18 Pro and 18 Pro Max review: manual camera exposure controls and image quality improvements, but $100 more than the 17 Pro and expensive storage tiers  —  Last week, Apple announced an iPhone unlike any it has made in the past.  An iPhone that has seemingly already led several …",
@@ -21,6 +44,19 @@
     "pub_date": "2026-09-16T12:08:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/myGg799ocMMaYj2442vKCo-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/business/iphone-18-pro-vs-pro-max-buying-advice-2026/",
+    "title": "I’ve used both iPhone 18 Pro models – here’s how my buying advice is changing in 2026",
+    "description": "Can’t decide between the iPhone 18 Pro and 18 Pro Max? Absolute feature parity makes this year’s decision a little easier for me.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-16T12:05:35+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00614.jpeg",
+    "source_name": "ZDNET.COM"
   },
   {
     "link": "https://mashable.com/tech/iphone-18-pro-max-review",
@@ -121,6 +157,18 @@
     "pub_date": "2026-09-16T12:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/apple-iphone-18-pro-review-cameras-performance-variable-aperture-siri-ai/l-intro-1789555938.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/gaming/nintendos-newest-fire-emblem-is-a-sprawling-book-of-stories/",
+    "title": "Nintendo’s Newest Fire Emblem Is a Sprawling Book of Stories",
+    "description": "Fortune’s Weave for Switch 2 is far longer than I have patience for, and yet I appreciate its narrative.",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-09-16T12:00:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/NintendoSwitch2_FEFW_Scrn_15.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://www.techradar.com/gaming/fire-emblem-fortunes-weave-review",
@@ -520,17 +568,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
-    "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works",
-    "description": "A hacker collective pulled down a Flock camera and dumped its data. The files included thousands of videos and logs showing that the device captured 1.6 million images of 50,000 vehicles in 21 days.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-16T10:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aa9a85e5f699411f4e1b648/master/pass/Security_HackersGotInsideaFlockCamera-ezgif.com-video-to-gif-converter.gif",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/introducing-the-wired-app/",
     "title": "Introducing the WIRED App",
     "description": "The app is the best way to read, watch, and listen to WIRED’s journalism.",
@@ -539,6 +576,17 @@
     ],
     "pub_date": "2026-09-16T10:30:00+00:00",
     "image_url": "https://media.wired.com/photos/6aa494acdc225a8b7147e3d4/master/pass/Topics.png",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+    "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works",
+    "description": "A hacker collective pulled down a Flock camera and dumped its data. The files included thousands of videos and logs showing that the device captured 1.6 million images of 50,000 vehicles in 21 days.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-16T10:30:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aa9a85e5f699411f4e1b648/master/pass/Security_HackersGotInsideaFlockCamera-ezgif.com-video-to-gif-converter.gif",
     "source_name": "WIRED.COM"
   },
   {
@@ -1104,7 +1152,6 @@
     "title": "‘Smart’ Nanoparticles Deliver mRNA Directly to Tumors in New Cancer Therapy",
     "description": "The treatment can reprogram immune cells that have been corrupted by the cancer, strengthening the body’s ability to attack.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-09-16T08:30:00+00:00",
@@ -1140,7 +1187,6 @@
     "title": "ByteDance’s AI drug unit Anew Labs raises $290M at $1.5B valuation, Reuters reports",
     "description": "ByteDance closed a $290M funding round for Anew Labs, its newly spun-off AI drug discovery unit, at a $1.5B valuation, Reuters reports, citing two sources familiar with the matter. Moreover, the company that owns TikTok will retain 56% of the business after this round, according to the same sources.  According to the same reporting, HSG,",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-16T08:10:25+00:00",
@@ -2238,49 +2284,5 @@
     "pub_date": "2026-09-15T22:23:03+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/w4FM89EMTyEckeVYVYGBYM-1280-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/desperate-attempt-or-marketing-genius-microsofts-project-zenith-is-a-confusing-attempt-to-get-those-who-can-afford-an-expensive-pc-to-buy-one",
-    "title": "Desperate attempt or marketing genius? Microsoft's Project Zenith is a confusing attempt to get those who can afford an expensive PC to buy one",
-    "description": "Project Zenith preconfigures Windows 11 for developers, though its 64GB memory requirement limits it to expensive hardware.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-15T22:20:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/zeKbmPE8YTXp5kVggVjN7g-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2259695/microsoft-will-hold-a-windows-event-on-october-7/",
-    "title": "Microsoft will hold a Windows and Surface event on October 7",
-    "description": "The event is focused on \"Windows, NVIDIA RTX Spark, Surface, and the broader PC ecosystem,\" with Satya Nadella and Jensen Huang among the speakers.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-15T22:18:07+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/microsoft-will-hold-a-windows-event-on-october-7/l-intro-1789510407.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260915/p50#a260915p50",
-    "title": "Sources: OpenAI has held early conversations with investors about raising another private funding round at a $1.2T valuation before its planned IPO (Financial Times)",
-    "description": "Financial Times:\nSources: OpenAI has held early conversations with investors about raising another private funding round at a $1.2T valuation before its planned IPO  —  Sam Altman's start-up could capitalise on demand for its technology after new model launches  —  OpenAI has held early conversations …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-15T22:12:33+00:00",
-    "image_url": "http://www.techmeme.com/260915/i50.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/15/ulysses-gets-siri-ai-support-customizable-toolbars-project-templates-more/",
-    "title": "Ulysses gets Siri AI support, customizable toolbars, project templates, more",
-    "description": "Following the release of macOS 27 Golden Gate and iOS 27, Ulysses was updated with Siri AI support, a refreshed interface, customizable toolbars, project templates, and more. Here are the details.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-15T22:01:17+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ulysses.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
