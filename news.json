@@ -1,5 +1,85 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/",
+    "title": "Hackers publish thousands of drivers’ data after breaching Florida motor vehicle database",
+    "description": "The ShinyHunters gang leaked the files online after saying the Florida state agency did not pay their ransom demand.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-16T18:00:54+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/a-stylish-machine-that-will-suit-any-design-studio-or-office-geekoms-a8-max-gets-a-usd150-price-drop-at-amazon",
+    "title": "'A stylish machine that will suit any design studio or office': Geekom's A8 Max gets a $150 price drop at Amazon",
+    "description": "One of the best we've ever tested for the office and studio, the Geekom A8 Max has Ryzen 9 power, desktop-class performance, eGPU support, and serious style.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-16T17:57:48+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/UKqzqxwEPtJTy4oPpGHMBc-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/porsche-wireless-pad-right-to-plug",
+    "title": "Porsche’s wireless charging pad is on sale in Europe, and it bolts to the floor",
+    "description": "Porsche has opened orders in Germany and other European markets for an 11 kW wireless charging pad for the Cayenne Electric, at EUR 6,961.49 for the floor pad and the car-side hardware together, with efficiency of up to 90%. The pad must be permanently installed in the ground, and Europe’s rules on installing home charging",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-16T17:55:07+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/porsche-wireless-pad-right-to-plug.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/phones/motorola/the-motorola-razr-plus-2026-is-still-my-favorite-foldable-phone-and-this-t-mobile-deal-will-give-you-one-for-free",
+    "title": "The Motorola Razr Plus (2026) is still my favorite foldable phone — and this T-Mobile deal will give you one for free",
+    "description": "Add a line with the Experience Beyond plan and T-Mobile will give you enough promo credit to make the Motorola Razr Plus (2026) completely free.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-16T17:51:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/H98KJa4BhzJZoMkQUWPZoh-1280-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/16/ios-27-2-expands-siri-ai-to-these-new-languages/",
+    "title": "iOS 27.2 expands Siri AI to these new languages",
+    "description": "Today Apple released the first iOS 27.2 beta, a surprising move since there’s been no 27.1 release. And joining the all-new Health app, iOS 27.2 beta 1 also expands Siri AI support to five new languages.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-16T17:48:06+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/tablets/boox/triple-launch-boox-debuts-note-air6-c-and-palma-3-just-in-time-for-fall-binge-reading",
+    "title": "Triple launch: Boox debuts Note Air6 C and Palma 3 just in time for fall binge-reading",
+    "description": "Boox knows there's nothing like cozying up with a good ePaper tablet. Its triple launch this midweek brings the Note Air6 C, Mini C, and the new Palma 3.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-16T17:45:20+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/aDKcAUebh4EqxxeonUGJwY-1280-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/home-and-office/do-not-run-these-appliances-on-power-stations/",
+    "title": "I recommend you don’t run these appliances on your power station – even if you can",
+    "description": "Using a power station for backup is ideal, but not with these appliances.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-16T17:44:31+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/1d8627f1-ed69-41e0-83ba-59144f8f0c03.jpg",
+    "source_name": "ZDNET.COM"
+  },
+  {
     "link": "https://www.engadget.com/2260455/the-boox-note-air6c-e-ink-tablet-flips-pages-nearly-40-percent-faster/",
     "title": "The Boox Note Air6C E Ink tablet flips pages nearly 40 percent faster",
     "description": "The Boox Note Air6C E Ink tablet flips pages nearly 40 percent faster.",
@@ -96,7 +176,7 @@
   },
   {
     "link": "https://www.cnet.com/health/apple-health-app-hits-developer-beta-inside-scoop-apple-vp-health/",
-    "title": "Apple’s Health App Hits Developer Beta. I Got the Inside Scoop From Apple’s VP of Health",
+    "title": "Apple’s Health App Hits Developer Beta. I Got the Inside Scoop From Apple’s VP of Health and Fitness",
     "description": "From readiness, longevity and AI insights to blood tests and movement assessments, we covered everything about the Health app’s redesign.",
     "categories": [
       "Breaking News",
@@ -1550,7 +1630,6 @@
     "description": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Science & Environment"
     ],
@@ -1972,7 +2051,6 @@
     "title": "Nintendo opens up Fire Emblem with the gigantic Fortune’s Weave",
     "description": "Nintendo has gotten quite good at making open-ended games. The Legend of Zelda: Breath of the Wild upended the idea of what a Zelda game could be by giving the player free rein to tackle any part of the map, a philosophy iterated upon with Tears of the Kingdom. On the Switch 2 this idea",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-09-16T12:00:00+00:00",
@@ -1984,7 +2062,6 @@
     "title": "The iPhone 18 Pro’s big camera update is all about the small gains",
     "description": "Last week, Apple announced an iPhone unlike any it has made in the past. An iPhone that has seemingly already led several other phone manufacturers to pursue entirely different designs for their flagship products. A remarkably distinct device with the kind of \"I can't believe they did that\" software touches that Apple sometimes pulls off",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-16T12:00:00+00:00",
@@ -1996,7 +2073,6 @@
     "title": "Apple iPhone 18 Pro and iPhone 18 Pro Max Review: For Camera Fiends",
     "description": "Fun camera features help make these candy bar iPhones stand out from the dazzle of the folding iPhone Duo.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware",
       "Software & Apps"
     ],
@@ -2010,7 +2086,6 @@
     "description": "Apple Reference Image is like giving your photos a tamper-proof seal.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-16T12:00:00+00:00",
@@ -2022,7 +2097,6 @@
     "title": "iPhone 18 Pro review: The standard setter",
     "description": "The yardstick that all phones, including the Duo, will be measured by.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-16T12:00:00+00:00",
@@ -2034,7 +2108,6 @@
     "title": "Nintendo’s Newest Fire Emblem Is a Sprawling Book of Stories",
     "description": "Fortune’s Weave for Switch 2 is far longer than I have patience for, and yet I appreciate its narrative.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-09-16T12:00:00+00:00",
@@ -2281,86 +2354,5 @@
     "pub_date": "2026-09-16T10:55:01+00:00",
     "image_url": "http://www.techmeme.com/260916/i15.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/openai-rogue-agents-probed-hugging-face-may",
-    "title": "OpenAI’s rogue agents probed Hugging Face in May, two months before the breach, Reuters reports",
-    "description": "OpenAI’s runaway AI agents took over Hugging Face user accounts and used them to probe the platform for weaknesses as early as 13 May, Reuters reported. The activity began nearly two months before the July breach that made it a global story, and researchers say it went beyond what OpenAI has publicly described. The 27-year-old",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-16T10:54:55+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/OpenAI-logo-with-the-OpenAI-emblem.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/sept-16-fire-tv-sticks-deals",
-    "title": "Amazon has discounted all of its Fire TV Sticks ahead of its October Prime Day",
-    "description": "As of Sept. 16, Amazon has discounted every model of Fire TV Stick (4K Max, 4K Select, 4K Plus, and HD) ahead of its Prime Big Deal Days sale event in October.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-16T10:54:11+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05kONapsXoQ0ddAzoX0daJm/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2259911/sony-unveils-playstation-pulse-wireless-headsets-planar-magnetic-drivers/",
-    "title": "Sony unveils new PlayStation Pulse wireless headsets with 'planar magnetic' sound tech",
-    "description": "Sony has introduced the PlayStation Pulse and Pulse Edge headsets, which feature planar magnetic drivers.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-16T10:54:02+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/sony-unveils-new-playstation-pulse-wireless-headsets-with-planar-magnetic-sound-tech/l-intro-1789555956.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/agentic-ai-is-increasing-the-pressure-on-organizations-to-reduce-cyber-risk-exposure",
-    "title": "Agentic AI is increasing the pressure on organizations to reduce cyber risk exposure",
-    "description": "A look into recent rogue AI attacks and how organizations need to be proactive over reactive.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-16T10:47:50+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260916/p14#a260916p14",
-    "title": "Survey: 42% of US voters trust the GOP and 40% trust Democrats to handle AI, 61% oppose new data center construction, and <1% say AI is their top midterm issue (New York Times)",
-    "description": "New York Times:\nSurvey: 42% of US voters trust the GOP and 40% trust Democrats to handle AI, 61% oppose new data center construction, and   —  As fears grow about the threat of artificial intelligence, neither party has claimed an advantage on the technology, a New York Times/Siena poll found.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-16T10:45:01+00:00",
-    "image_url": "http://www.techmeme.com/260916/i14.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-gallery-google-photos-backup",
-    "title": "Google Photos could soon be built much deeper into Samsung Gallery",
-    "description": "Samsung is replacing OneDrive with something that makes more sense.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-16T10:40:54+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ygMKG9aBZikNUtH6YX99bf-1280-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/accessories/headphones/jabra-evolve3-85-beats-out-bose-and-sony-my-go-to-meeting-headset",
-    "title": "Forget Sony and Bose — Jabra's Evolve3 85 is my new meeting headset",
-    "description": "Jabra's Evolve3 85 is a work headset that has no equal. With a lighter design than the Bose QC Ultra Gen 2 and Sony WH-1000XM6, it is extremely comfortable, and the sound quality combined with the unique features make it a great choice.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-16T10:37:48+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/hTWzmbKDPuLtqRqh4AEGTQ-1280-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
   }
 ]
