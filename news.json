@@ -1,5 +1,44 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+    "title": "Even the King of England has his hesitations about AI",
+    "description": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and UK government.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-17T17:26:25+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/meta-oversight-board-deepfakes-uk-councillor-muslim-campaigner",
+    "title": "Oversight Board orders Meta to remove a deepfake of a UK councillor",
+    "description": "Meta’s rules on AI deepfakes are “consistently and fundamentally inadequate to address the rapid rise of AI-generated content”, the Oversight Board said on 17 September. The board ordered Meta to remove two AI-generated videos from Facebook. The first ruling covers a UK local politician, and the board published the full decision. The second ruling covers",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-17T17:16:26+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/threads-meta-ai-dm-global-rollout.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+    "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+    "description": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-17T17:15:59+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://www.cnet.com/tech/mobile/bose-just-dropped-new-sport-open-earbuds-and-ultra-open-earbuds-2nd-gen/",
     "title": "Bose Just Dropped New Sport Open Earbuds and Ultra Open Earbuds (2nd Gen)",
     "description": "Bose’s upgraded $299 top-of-the-line open buds feature improved sound and battery life while the totally new $199 Sport Open Earbuds are designed for active use.",
@@ -104,6 +143,18 @@
     "pub_date": "2026-09-17T17:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/lofi-girl-returns-with-a-new-house-music-station-and-vinyl-compilation/l-intro-1789584503.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/innovation/claude-code-revised-projects-threads/",
+    "title": "Claude Code’s revised projects adds AI orchestration, but local developers must wait",
+    "description": "Claude Code Projects could change how developers manage complex AI coding workflows by coordinating threads, sharing memory, and spanning repos, but its biggest benefits are still cloud-only for now.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-17T17:00:00+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Claude-projects-bg.png",
+    "source_name": "ZDNET.COM"
   },
   {
     "link": "https://mashable.com/life/lofi-girl-new-radio-lofi-house-teacher",
@@ -1216,7 +1267,6 @@
     "title": "Addigy launches Intelligence Suite, giving IT teams control over how AI is used across their fleet",
     "description": "One of the biggest challenges Apple admins face today is managing AI use across apps, services, and more. Addigy is aiming to solve that problem with its Intelligence Suite, announced today, which brings a number of new tools and controls for IT teams to strengthen compliance while also unlocking AI tools in an IT-approved way.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-17T13:00:00+00:00",
@@ -1650,8 +1700,8 @@
   },
   {
     "link": "https://www.techmeme.com/260917/p21#a260917p21",
-    "title": "Huawei Chair Eric Xu says Chinese AI researchers need to \"increase the speed of development\" to \"see the dangers\" of AI, contrasting with US slowdown calls (Eleanor Olcott/Financial Times)",
-    "description": "Eleanor Olcott / Financial Times:\nHuawei Chair Eric Xu says Chinese AI researchers need to “increase the speed of development” to “see the dangers” of AI, contrasting with US slowdown calls  —  Chinese tech executive's comments contrast with Silicon Valley calls for slowdown amid rising concerns about technology's existential risks",
+    "title": "Huawei Chair Eric Xu says Chinese AI researchers need to \"increase the speed of development\" to \"see the dangers\" of AI, contrasting with the US' slowdown calls (Eleanor Olcott/Financial Times)",
+    "description": "Eleanor Olcott / Financial Times:\nHuawei Chair Eric Xu says Chinese AI researchers need to “increase the speed of development” to “see the dangers” of AI, contrasting with the US' slowdown calls  —  Chinese tech executive's comments contrast with Silicon Valley calls for slowdown amid rising concerns about technology's existential risks",
     "categories": [
       "Tech News"
     ],
@@ -1778,8 +1828,7 @@
     "title": "NVIDIA and Google's new coalition wants to speed up AI data center power grid connections",
     "description": "A new coalition of tech giants aims to speed AI data center grid connections in exchange for more flexibility.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-17T11:24:45+00:00",
     "image_url": "https://www.engadget.com/img/gallery/nvidia-and-googles-new-coalition-wants-to-speed-up-ai-data-center-grid-connections/l-intro-1789644266.jpg",
@@ -1901,18 +1950,6 @@
     "source_name": "MASHABLE.COM"
   },
   {
-    "link": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
-    "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
-    "description": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.",
-    "categories": [
-      "Business & Startups",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-17T11:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
     "link": "https://www.wired.com/review/soundboks-rider/",
     "title": "Soundboks Rider Party Speaker Review: Loud and Durable",
     "description": "I’m genuinely afraid to go full-volume on the Soundboks Rider, which is built like a party-ready tank.",
@@ -1933,6 +1970,18 @@
     "pub_date": "2026-09-17T11:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6aa929fe3aba230bcb567487/master/pass/S08_RALEIGH_20260820_003.jpg",
     "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
+    "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+    "description": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.",
+    "categories": [
+      "Business & Startups",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-17T11:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
   },
   {
     "link": "https://mashable.com/tech/tribit-flybuds-c3-earbuds-where-to-buy",
@@ -2289,52 +2338,5 @@
     "pub_date": "2026-09-17T09:30:00+00:00",
     "image_url": "https://media.wired.com/photos/6aa97241a42a7ae0df76548f/master/pass/091526-Trump%20Alien.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/sept-17-apple-beats-studio-pro-headphones-deal",
-    "title": "Beats Studio Pro headphones just got a huge discount at Amazon — save $180 ahead of October Prime Day",
-    "description": "Get the best Beats deal. Save 51% on the Beats Studio Pro at Amazon.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-17T09:24:42+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01cupMURUT4SmI5h84aFvB3/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/raygun-jimmy-fallon",
-    "title": "Raygun responds to Olympics theories during first late night interview on Tonight Show",
-    "description": "Rachael \"Raygun\" Gunn sat down opposite Jimmy Fallon for her first late night interview since her Breaking performance went viral at the 2024 Olympics.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-17T09:23:59+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/videos/02NcKK4nFAMKxy9beMhi6mD/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/eu-kids-act-social-media-under-13-ban",
-    "title": "EU proposes Kids Act banning social media for under-13s and capping teen use at an hour a day",
-    "description": "Strasbourg – The European Commission has proposed a draft of the EU KIDS Act to prevent children under 13 from using social media across the EU and to stop anyone under 15 from creating an account. The EU KIDS Act, adopted in Strasbourg on Thursday, also requires platforms to show that their services are safe",
-    "categories": [
-      "Breaking News",
-      "Social & Media"
-    ],
-    "pub_date": "2026-09-17T09:23:34+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/Ursula-von-der-Leyen-at-the-European-Parliament.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/sept-17-apple-pencil-pro-deal",
-    "title": "Apples newest Pencil Pro has dropped in price — save $30 with this limited-time deal at Amazon",
-    "description": "Find the best iPad accessory deal. Save 23% on the Apple Pencil Pro at Amazon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-17T09:15:33+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07rhU7Fx7xxh2DU1pVnwZIp/hero-image.png",
-    "source_name": "MASHABLE.COM"
   }
 ]
