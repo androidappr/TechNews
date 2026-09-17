@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.techradar.com/pro/trusted-measurement-in-the-era-of-autonomous-operations",
+    "title": "Trusted measurement in the era of autonomous operations",
+    "description": "Trusted measurement helps manufacturers scale automation safely, accurately and efficiently amid workforce shortages.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-17T10:20:04+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260917/p16#a260917p16",
     "title": "A profile of Jacob Coxon, the British researcher who quit Anthropic after a series of security escalations and says the explosive response surprised him (Wall Street Journal)",
     "description": "Wall Street Journal:\nA profile of Jacob Coxon, the British researcher who quit Anthropic after a series of security escalations and says the explosive response surprised him  —  Long-simmering worries about the technology's potential dangers have exploded into global consciousness since Jacob Coxon's dire warning",
@@ -9,6 +20,30 @@
     "pub_date": "2026-09-17T10:15:20+00:00",
     "image_url": "http://www.techmeme.com/260917/i16.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/alice-bob-cea-quantum-supercomputing",
+    "title": "France’s CEA and Alice & Bob team up on quantum-supercomputer software",
+    "description": "The Paris-based quantum computing company Alice & Bob and France’s Alternative Energies and Atomic Energy Commission (CEA) announced today that they will collaborate on software enabling quantum computers to run alongside conventional supercomputers, without either party disclosing the financial terms. The project focuses on Qaptiva, a quantum application platform created by the French state-owned company",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-17T10:15:02+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/Alice-Bob.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/autonomous-ai-agent-hit-spanish-firm-with-vulnerability-scans-before-accessing-files-and-data",
+    "title": "Autonomous AI agent hit Spanish firm with vulnerability scans before accessing files and data",
+    "description": "Spanish data protection agency disclosed a breach done by an AI agent powered by a well-known LLM.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-17T10:15:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/D9SxF3hiMTwj2qrLfLCYk-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://mashable.com/life/sept-15-pokemon-tcg-30th-celebration-elite-trainer-box-pre-order-deal",
@@ -36,7 +71,7 @@
   {
     "link": "https://www.wired.com/story/the-eu-wants-to-break-up-kids-and-their-chatbots/",
     "title": "The EU Wants to Break Up Kids and Their Chatbots",
-    "description": "ChatGPT, Character.ai and Snapchat My AI will all be in the crosshairs as the AI Kids Act aims to strip minor-facing chatbots of all the things that make people love them.",
+    "description": "ChatGPT, Character.ai, and Snapchat’s My AI will all be in the crosshairs as the AI Kids Act aims to strip minor-facing chatbots of all the things that make people love them.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -2208,38 +2243,5 @@
     "pub_date": "2026-09-16T18:45:01+00:00",
     "image_url": "http://www.techmeme.com/260916/i41.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://arstechnica.com/science/2026/09/why-researchers-made-their-own-model-herculaneum-scrolls/",
-    "title": "Scientists develop new method for deciphering ancient scrolls",
-    "description": "Even a handheld XRF scanner is sufficient to determine most promising scrolls for further analysis.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-16T18:43:23+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/scrollTOP-1152x648-1789248616.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/16/ios-27-2-gives-apple-tv-a-new-profiles-feature-on-iphone/",
-    "title": "iOS 27.2 gives Apple TV a new profiles feature on iPhone",
-    "description": "iOS 27.2 beta 1 arrived today, and with it a key new feature for the Apple TV app on iPhone: user profiles.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-16T18:30:59+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/appl-tv-icon-26.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-    "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-    "description": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-16T18:25:25+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
