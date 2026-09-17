@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.cnet.com/tech/services-and-software/roku-just-added-more-than-30-streaming-bundles-to-help-people-save-money/",
+    "title": "Roku Just Added More Than 30 Streaming Bundles to Help People Save Money",
+    "description": "Here’s a look at pricing and some of the most enticing packages for HBO Max, Starz, Hallmark Plus and more.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-17T21:05:55+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2223074207-roku-logo.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260917/p39#a260917p39",
     "title": "OpenAI launches Astra for Law, combining GPT-6 Astra with a legal search index and instructions for legal analysis and writing, initially for select law firms (OpenAI)",
     "description": "OpenAI:\nOpenAI launches Astra for Law, combining GPT-6 Astra with a legal search index and instructions for legal analysis and writing, initially for select law firms  —  Our most powerful model, configured into a new AI foundation for law.  —  Explore solutions for law Contact Legal sales",
@@ -696,7 +707,6 @@
     "title": "OpenAI’s experimental AI agents caught teaching future versions of itself to cheat",
     "description": "OpenAI shared six new examples of AI misalignment. In one case, AI agents taught future versions of themselves to bypass human control.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-17T17:29:50+00:00",
@@ -720,7 +730,6 @@
     "description": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-09-17T17:26:25+00:00",
@@ -733,7 +742,6 @@
     "description": "Meta’s rules on AI deepfakes are “consistently and fundamentally inadequate to address the rapid rise of AI-generated content”, the Oversight Board said on 17 September. The board ordered Meta to remove two AI-generated videos from Facebook. The first ruling covers a UK local politician, and the board published the full decision. The second ruling covers",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-09-17T17:16:26+00:00",
@@ -2318,17 +2326,5 @@
     "pub_date": "2026-09-17T12:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/wg7FEhRsX9teyEsjNRsnwf-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/firefox-smart-window-mistral-mozilla-partnership",
-    "title": "Mozilla adds Mistral Small 4 to Firefox Smart Window as it launches in France",
-    "description": "Mozilla has partnered with Mistral AI to bring the French company’s models to Smart Window, the AI browsing assistant in beta in Firefox. The two companies announced the deal on Wednesday in a joint post, alongside the feature’s launch in France. Smart Window, introduced by Mozilla in August, is a separate AI-assisted browsing mode. It summarises complex searches",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-17T11:59:11+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/mistral-firefox-logos-dark-grid.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
