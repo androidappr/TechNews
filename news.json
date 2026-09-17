@@ -1,5 +1,27 @@
 [
   {
+    "link": "https://thenextweb.com/news/anthropic-claude-cowork-merge-docs-slides",
+    "title": "Anthropic folds Cowork into Claude and launches Docs and Slides",
+    "description": "Anthropic is combining Cowork, its tool for longer tasks, with the main Claude app and introducing two new editors called Claude Docs and Claude Slides. Now, users do not have to pick between chatting with Claude or assigning it a task. Instead, Claude will decide how to handle each request, according to a company blog",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-09-17T08:09:24+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/Easel-with-scribble-illustration.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://mashable.com/life/mcdonald-spongebob-one-piece-happy-meal-how-to-buy",
+    "title": "McDonald’s just dropped a SpongeBob x One Piece Happy Meal — how to get yours",
+    "description": "15 mash-up toys featuring SpongeBob as Gear 5 Luffy, Patrick as Zoro, and Squidward as Sanji hit nationwide golden arches from Sept. 15.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-17T08:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/05yNwFEGzYxnelqNoplY40z/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://mashable.com/tech/sept-17-proton-vpn-streaming-deal",
     "title": "Proton VPN drops to $2.99 per month: Unblock global Netflix, sports livestreams, and more for 70% off",
     "description": "Proton VPN has slashed 70% off its 2-year Plus plan. Get open-source, no-logs privacy protection across 10 devices for just $2.99 per month.",
@@ -138,14 +160,26 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://www.wired.com/story/noom-promo-code/",
-    "title": "Noom Promo Codes: 50% Off Best Deals & Free Trials for September 2026",
-    "description": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
+    "link": "https://www.wired.com/story/steelseries-coupon-code/",
+    "title": "SteelSeries Coupon Codes: 15% Off in September 2026",
+    "description": "Unlock exclusive discounts on SteelSeries' award-winning gaming headsets, keyboards, and accessories.",
     "categories": [
       "Tech News"
     ],
     "pub_date": "2026-09-17T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
+    "image_url": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/best-buy-discount-code/",
+    "title": "Best Buy Discount Codes: 60% Off",
+    "description": "Find the latest Best Buy promo codes and offers, including 10% back in rewards for new cardmembers and free 2-day shipping with My Best Buy Plus, here at WIRED.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-17T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png",
     "source_name": "WIRED.COM"
   },
   {
@@ -171,26 +205,14 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.wired.com/story/best-buy-discount-code/",
-    "title": "Best Buy Discount Codes: 60% Off",
-    "description": "Find the latest Best Buy promo codes and offers, including 10% back in rewards for new cardmembers and free 2-day shipping with My Best Buy Plus, here at WIRED.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-17T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/steelseries-coupon-code/",
-    "title": "SteelSeries Coupon Codes: 15% Off in September 2026",
-    "description": "Unlock exclusive discounts on SteelSeries' award-winning gaming headsets, keyboards, and accessories.",
+    "link": "https://www.wired.com/story/noom-promo-code/",
+    "title": "Noom Promo Codes: 50% Off Best Deals & Free Trials for September 2026",
+    "description": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
     "categories": [
       "Tech News"
     ],
     "pub_date": "2026-09-17T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg",
+    "image_url": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
     "source_name": "WIRED.COM"
   },
   {
@@ -266,7 +288,6 @@
     "title": "How AI startups like Inherent and Recursive Superintelligence are pursuing tools needed for AI systems to achieve recursive self-improvement (Cade Metz/New York Times)",
     "description": "Cade Metz / New York Times:\nHow AI startups like Inherent and Recursive Superintelligence are pursuing tools needed for AI systems to achieve recursive self-improvement  —  Jeff Clune, a computer scientist and co-founder of Recursive Superintelligence, one of the start-ups chasing “recursive self-improvement.”",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-17T04:10:02+00:00",
@@ -278,7 +299,6 @@
     "title": "APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula",
     "description": "APOD Science APOD APOD: 2026 September 17 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Treasure",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-17T04:05:00+00:00",
@@ -2217,27 +2237,5 @@
     "pub_date": "2026-09-16T16:58:40+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/03sAMd1pT985fCStO2Ewlwe/hero-image.png",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/hotos-usd30-electric-screwdriver-belongs-in-your-tech-toolkit-this-cordless-25-piece-kit-is-the-tool-we-use-for-pc-builds-and-desk-setups",
-    "title": "Hoto's $30 electric screwdriver belongs in your tech toolkit — this cordless 25-piece kit is the tool we use for PC builds and desk setups",
-    "description": "Our office furniture reviewer loves this 25-piece 3.6V cordless electric screwdriver, and it boasts a 1500mAh fast-recharge battery with 3 torque settings.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-16T16:54:34+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/qtghkC9SUX89SVZBHrbnfk-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260916/p40#a260916p40",
-    "title": "Delos Data, which develops network chips and software to connect AI chips in a data center, raised $100M from Matrix, Playground, Socratic Partners, and others (Stephen Nellis/Reuters)",
-    "description": "Stephen Nellis / Reuters:\nDelos Data, which develops network chips and software to connect AI chips in a data center, raised $100M from Matrix, Playground, Socratic Partners, and others  —  Delos Data, a startup founded by veterans of Intel Corp (INTC.O), on Tuesday said it has raised $100 million to develop chips …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-16T16:50:01+00:00",
-    "image_url": "http://www.techmeme.com/260916/i40.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
