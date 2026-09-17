@@ -1,5 +1,64 @@
 [
   {
+    "link": "https://thenextweb.com/news/crusoe-3-9-billion-series-f-30-9-billion-valuation-spark",
+    "title": "Crusoe raises $3.9bn and starts trucking data centres to spare power",
+    "description": "“Getting there means controlling the infrastructure from electrons to tokens,” said Chase Lochmiller, co-founder and chief executive of Crusoe. He was describing what he called an era of abundance brought by AI. The Denver company announced the initial closing of a $3.9bn Series F on 17 September, in a statement. It puts the post-money valuation",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-17T18:59:23+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/crusoe-founders-lochmiller-cavness.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2261707/candy-crush-developers-are-planning-a-strike-for-next-week/",
+    "title": "Candy Crush developers are planning a strike for next week",
+    "description": "King's staff want to get negotiations back on track after years of bargaining.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-17T18:58:17+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/candy-crush-developers-are-planning-a-strike-for-next-week/l-intro-1789671447.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+    "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+    "description": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running different tasks in parallel, with a \"coordinator\" directing everything:",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-17T18:58:05+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/youll-soon-be-able-to-talk-to-slack-and-if-youre-lucky-itll-even-talk-back",
+    "title": "You'll soon be able to talk to Slack — and if you're lucky, it'll even talk back",
+    "description": "Slack is adding two-way voice chat alongside a host of new features.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-17T18:48:02+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/xfdbhHBweThVCebG6jxawT-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/tesla-megacharger-europe-21-sites",
+    "title": "Tesla’s European Megacharger rollout covers 21 sites and over 100 stalls",
+    "description": "Tesla will install more than 100 megawatt-capable charging stalls at 21 sites in Germany, France, the UK, Sweden and Benelux to support the Semi, its Semi development head told the IAA Transportation fair in Hanover. Milence, the joint venture owned by Daimler Truck, Traton and Volvo, has EU funding to build 284 megawatt charging points",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-17T18:46:02+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/tesla-logo-fremont-factory-building.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/09/17/macos-27-golden-gate-siri-ai-top-features-apples-assistant-finally-comes-to-life-video/",
     "title": "macOS 27: Siri AI top features – Apple’s assistant finally comes to life [Video]",
     "description": "Wait a minute… Is Siri on the Mac good now?\n\n\n\nIt only took a decade, but with this week’s launch of macOS 27 Golden Gate, Siri has finally come to life on the Mac. It’s still in beta, and it’s not perfect, but the update represents a much improved and highly integrated experience that takes into account personal context while prioritizing privacy.\n\n\n\nWatch my full video as I walk through the top macOS 27 features: Siri AI edition, and be sure to subscribe to 9to5Mac on YouTube for more videos.\n\n\n\n more…",
@@ -10,6 +69,20 @@
     "pub_date": "2026-09-17T18:45:52+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-macos-27.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
+    "title": "The AI Slowdown Debate Crashed Salesforce’s Party",
+    "description": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-17T18:42:25+00:00",
+    "image_url": "https://media.wired.com/photos/6aab113b6146f3a3b3e310bc/master/pass/Model-Behavior-Year-Dreamforce-Was-Overtaken-by--Debate-Over-Existential-AI-Fears-Business.jpg",
+    "source_name": "WIRED.COM"
   },
   {
     "link": "https://www.techmeme.com/260917/p35#a260917p35",
@@ -895,7 +968,6 @@
     "title": "I wore snap specs at last: here’s what these massive glasses can do",
     "description": "Our Snap Specs hands-on preview breaks down spatial computing performance, AR games, screen mirroring, and frame comfort.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-17T15:03:13+00:00",
@@ -965,7 +1037,6 @@
     "title": "Your robotaxi might be a narc",
     "description": "In early September, two teenagers got into a Waymo, but then ended up in the back of a police car. The robotaxi company said it detected \"a violation of our terms of service involving a firearm,\" pulled the car over, and alerted emergency services, according to the Los Angeles Times. Police arrested the passengers after",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy",
       "Government & Policy"
     ],
@@ -1473,7 +1544,6 @@
     "title": "Bose returns with new open earbuds (and a refreshed favorite)",
     "description": "Bose announces the Ultra Open (2nd Gen) and the Sport Open Earbuds, offering more options for aware listeners.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-17T13:00:19+00:00",
@@ -1496,7 +1566,6 @@
     "title": "Bose’s next open earbuds have more bass, more volume, and more battery life",
     "description": "Bose announced a new version of its Ultra Open Earbuds that helped kick off the industry trend of clip-on wireless earbuds nearly two-and-a-half years ago. The new Ultra Open Earbuds (2nd Gen) feature a subtle redesign with improved performance in both sound quality and battery life. They're also joined by a new cheaper alternative called",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-17T13:00:00+00:00",
@@ -1519,7 +1588,6 @@
     "title": "Roku is giving users access to experimental apps with Roku Labs",
     "description": "Trying the apps out also entitles testers to giving feedback that will influence the final versions.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-17T13:00:00+00:00",
@@ -2261,76 +2329,5 @@
     "pub_date": "2026-09-17T10:53:25+00:00",
     "image_url": "https://media.thenextweb.com/2026/08/Japan-flag.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2260974/openai-details-instances-of-models-fabricating-information-hiding-from-testers/",
-    "title": "OpenAI reveals more instances of concerning AI model behaviors during testing",
-    "description": "OpenAI says it doesn't believe the industry has solved its problems 'to a sufficient degree to continue responsibly scaling at maximum speed for much longer.'",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-17T10:50:20+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/openai-reveals-more-instances-of-concerning-ai-model-behaviors-during-testing/l-intro-1789641941.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/ai-is-changing-discovery-what-does-that-mean-for-your-business",
-    "title": "AI is changing discovery. What does that mean for your business?",
-    "description": "AI conversations are reshaping purchase journeys, creating new signals businesses need to understand and measure.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-17T10:50:18+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/vUGGQXBvMLxK65oJegUwgk-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260917/p18#a260917p18",
-    "title": "Survey: in a first, Democrats are more concerned than Republicans about AI's growing role in daily life, at 56% to 49%; 75% of Democrats worry about job losses (Pew Research Center)",
-    "description": "Pew Research Center:\nSurvey: in a first, Democrats are more concerned than Republicans about AI's growing role in daily life, at 56% to 49%; 75% of Democrats worry about job losses  —  For the first time, Democrats are now more likely than Republicans to be concerned about the growing role of artificial intelligence …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-17T10:50:01+00:00",
-    "image_url": "http://www.techmeme.com/260917/i18.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/us-china-experts-nuclear-style-ai-safeguards",
-    "title": "US and Chinese security experts propose nuclear-style safeguards for military AI",
-    "description": "Security experts from the US and China have proposed a set of safeguards for military AI modelled on the rules that grew up around nuclear weapons, including a ban on letting AI decide whether to launch them, Reuters reported. The recommendations, published last week, come from the US-China AI and National Security Dialogue, a track",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-09-17T10:42:29+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/us-china-flags-capitol-temple-of-heaven.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/social-media-ban-children-countries-list",
-    "title": "Which countries have banned social media for kids?",
-    "description": "Australia started it. Now, the list is growing. Here's every country which has passed a social media ban for children.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-17T10:40:06+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03nX3l5tcJIBCgWqWBixvqe/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/eu-social-media-ban-kids",
-    "title": "EU to restrict social media for kids under 15",
-    "description": "The EU is planning to restrict access to social media for under-15s, with a law to \"enhance the online safety of children\" on its way.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-17T10:38:38+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/047cVTDWnC7cwwzXRVG2VR6/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
