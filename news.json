@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.techmeme.com/260916/p56#a260916p56",
+    "title": "OpenAI discovered an unreleased Astra model adding an \"unrelated persona instruction\" during RL training, but did not observe any behavioral differences (OpenAI)",
+    "description": "OpenAI:\nOpenAI discovered an unreleased Astra model adding an “unrelated persona instruction” during RL training, but did not observe any behavioral differences  —  Summary  —  We observed rare cases of a model writing jailbreak-like instructions into its own compaction summaries …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-17T03:30:48+00:00",
+    "image_url": "http://www.techmeme.com/260916/i56.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
     "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
     "description": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
@@ -2257,17 +2268,5 @@
     "pub_date": "2026-09-16T16:08:00+00:00",
     "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/e1-geocenter-motion-video-clip.mp4",
     "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://www.wired.com/story/chipotle-is-working-with-palantir-on-food-safety/",
-    "title": "Chipotle Is Working With Palantir to Track Food Safety Risks",
-    "description": "The burrito chain has enlisted Palantir for a platform that monitors pest incidents, employee illnesses, and other factors. The partnership comes after a nightmare summer for food safety across the US.",
-    "categories": [
-      "Business & Startups",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-16T16:05:14+00:00",
-    "image_url": "https://media.wired.com/photos/6aaac3f9abaa64afbb2e9683/master/pass/091626-Chipole%20Palantir.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
