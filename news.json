@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+    "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+    "description": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-17T03:30:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260916/p55#a260916p55",
+    "title": "In an unsealed court ruling, a US judge orders Google to make ad tech tools interoperable with rivals, share ad auction data, and appoint an internal monitor (New York Times)",
+    "description": "New York Times:\nIn an unsealed court ruling, a US judge orders Google to make ad tech tools interoperable with rivals, share ad auction data, and appoint an internal monitor  —  The measures, which fall short of a breakup demanded by the government, effectively ensure that the tech titan's business will continue largely unscathed.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-17T03:15:46+00:00",
+    "image_url": "http://www.techmeme.com/260916/i55.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/audio/wireless-headphones/dysons-ontrac-headphones-are-discounted-to-au-aud299-as-an-audio-expert-these-are-the-3-over-ears-i-would-recommend-instead",
+    "title": "Dyson's OnTrac headphones are discounted to AU$299 — as an audio expert, these are the 3 over-ears I would recommend instead",
+    "description": "Dyson's second pair of headphones didn't meet its lofty expectations and has received a significant price cut as a result — but I still think there are better alternatives to look out for.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-17T03:11:31+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Rr8BbsvoYTQg7vkXDcaSZm-1280-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260916/p54#a260916p54",
     "title": "Sources: Mark Zuckerberg, Jensen Huang, and Elon Musk recently spoke with Trump and successfully stalled an AI regulatory plan proposed by Demis Hassabis (Wall Street Journal)",
     "description": "Wall Street Journal:\nSources: Mark Zuckerberg, Jensen Huang, and Elon Musk recently spoke with Trump and successfully stalled an AI regulatory plan proposed by Demis Hassabis  —  Senior administration officials have gathered almost daily in recent months to map out potential guardrails",
@@ -417,7 +453,6 @@
     "title": "Mashable 101 creator Grace Reiter joins ‘Saturday Night Live’",
     "description": "Mashable 101 creator Grace Reiter is joining Saturday Night Live Season 52 as a featured player alongside comedian Saidah Belo-Osagie.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-16T23:26:40+00:00",
@@ -599,7 +634,6 @@
     "title": "iOS 27.2’s First Developer Beta Brings These Features to Some iPhones",
     "description": "The developer beta includes updates to apps like Facetime and Podcasts.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-16T22:14:43+00:00",
@@ -837,7 +871,6 @@
     "title": "Apple's redesigned Health app is available now in the iOS 27.2 developer beta",
     "description": "New features like Health Age bring Apple's app more in line with competitors like Whoop and Oura.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-16T21:18:43+00:00",
@@ -1798,18 +1831,6 @@
     "source_name": "MASHABLE.COM"
   },
   {
-    "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-    "title": "Your AI agents can now control your Google Home devices",
-    "description": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-16T17:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
     "link": "https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity",
     "title": "Your ‘health age’ is fake",
     "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. During last week's Apple Watch announcement, I let out a distinct \"Noooo!\" in the Steve Jobs Theater. Along with a",
@@ -1842,6 +1863,18 @@
     "pub_date": "2026-09-16T17:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/google-home-is-going-agentic-via-integration-with-the-mcp-standard/l-intro-1789573336.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+    "title": "Your AI agents can now control your Google Home devices",
+    "description": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+    "categories": [
+      "AI & Machine Learning",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-16T17:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
   },
   {
     "link": "https://www.techradar.com/gaming/pc-gaming/blackwood-is-almost-the-john-wick-inspired-third-person-shooter-ive-been-waiting-for-and-after-2-hours-of-playtime-im-really-excited-for-all-of-it-but-its-rough-around-the-edges-right-now",
@@ -2236,40 +2269,5 @@
     "pub_date": "2026-09-16T16:05:14+00:00",
     "image_url": "https://media.wired.com/photos/6aaac3f9abaa64afbb2e9683/master/pass/091626-Chipole%20Palantir.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/insight-taste-and-distribution-how-to-turn-vibe-coded-apps-into-cash",
-    "title": "'Insight, taste, and distribution': How to turn vibe-coded apps into cash",
-    "description": "App publisher CEO Stan Marchand breaks down what separates a buyable product from a gimmick",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-16T16:05:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/MYTYuWEYLXanF2R8rtssWV-1280-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/life/sept-16-mint-mobile-deal",
-    "title": "A three-month unlimited data plan with Mint Mobile is on sale for just $45",
-    "description": "The Mint Mobile three-month unlimited talk, text, and data plan is on sale at Amazon for $45, down from the list price of $90. That's a 50% discount.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-16T16:04:45+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07vLq10QoNPggIPJkXfXz4h/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/cohere-aleph-alpha-definitive-agreement-transatlantic-sovereign-ai",
-    "title": "Cohere and Aleph Alpha sign, with headquarters in Berlin and Toronto",
-    "description": "“No government or enterprise should have to choose between capable AI and control over their technology,” said Aidan Gomez, Cohere’s chief executive. Canada’s Cohere and Germany’s Aleph Alpha have signed a definitive business combination agreement, the companies said in their announcement on 16 September. The deal follows the planned combination they announced in April. It",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-16T16:00:40+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/evan-solomon-aidan-gomez-karsten-wildberger-samuel-weinbach-all-in-montreal.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
