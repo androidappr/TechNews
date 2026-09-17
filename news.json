@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.theverge.com/entertainment/996314/tiff-2026-halloween-streaming-below-crystal-lake-yaga-carrie",
+    "title": "The streamers are fighting over Halloween",
+    "description": "The Toronto International Film Festival is a place to go to see the future of film, but this year it also provided a glimpse at what is coming very soon in the realm of streaming. Four different streamers - Peacock, Netflix, Amazon, and AMC - all premiered early looks at upcoming horror-adjacent series that are",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-17T03:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/NUP_211117_00013_RF-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.techradar.com/streaming/amazon-prime-video/neagley-season-finale-is-explosive-in-more-ways-than-one-but-i-still-cant-wrap-my-head-around-how-the-final-epic-stunt-was-filmed",
     "title": "Neagley season finale is 'explosive' in more ways than one — but I still can't wrap my head around how the final epic stunt was filmed",
     "description": "Neagley's explosive season finale solves its mystery but keeps the future wide open — and star Maria Sten has revealed how the final epic action sequence was shot.",
@@ -117,7 +128,7 @@
   {
     "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
     "title": "Snap tries to make the case again for its $2,200 smart glasses",
-    "description": "Snap unveiled new features for its smart glasses this week.",
+    "description": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -442,7 +453,6 @@
     "title": "GM’s New Software Plays Nice With Apple CarPlay, Android Auto",
     "description": "The 2027 Chevy Silverado and GMC Sierra fold phone mirroring into the native UI rather than walling it off, even as GM keeps Apple and Google’s apps out of its electric lineup.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-16T23:00:16+00:00",
@@ -454,7 +464,6 @@
     "title": "Japanese company develops a humanoid robot 'ambulance' for on-the-spot repairs",
     "description": "It turns out that breaking down at work isn't a uniquely human experience.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-09-16T23:00:00+00:00",
@@ -2041,17 +2050,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
-    "title": "Claude comes for Gemini with its own take on Docs and Slides",
-    "description": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and Cowork into \"one Claude,\" with all",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-16T16:30:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Claude-Docs.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.engadget.com/2259938/anthropics-claude-can-now-create-editable-documents-for-you-cowork-chat-together/",
     "title": "Anthropic's Claude can now create editable documents for you",
     "description": "Anthropic is adding the ability to create docs, slideshow and access Cowork capabilities inside chat. It will roll out to Pro and Max subscribers first.",
@@ -2061,6 +2059,17 @@
     "pub_date": "2026-09-16T16:30:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/anthropics-claude-can-now-create-editable-documents-for-you/l-intro-1789573560.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+    "title": "Claude comes for Gemini with its own take on Docs and Slides",
+    "description": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and Cowork into \"one Claude,\" with all",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-09-16T16:30:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Claude-Docs.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.cnet.com/tech/services-and-software/anthropic-claude-simplify-interface-cowork-design-ai-news/",
@@ -2264,17 +2273,5 @@
     "pub_date": "2026-09-16T16:00:01+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/03f9WYzkxRcDAWIyGT2e0yQ/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
-    "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
-    "description": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?”  That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recently raised $163 million from the likes of Founders Fund, Thrive Capital, and Valor Equity",
-    "categories": [
-      "Business & Startups",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-16T16:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
