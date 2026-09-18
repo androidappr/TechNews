@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+    "title": "Anthropic’s first embedded evaluator is … Accenture?",
+    "description": "Accenture is about to take on its most high-risk consulting engagement ever.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-18T21:44:33+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260918/p30#a260918p30",
+    "title": "Sources: Anthropic plans to stage its IPO in November, later than many investors expected; the decision was made before ex-Anthropic researcher Jacob Coxon left (Wall Street Journal)",
+    "description": "Wall Street Journal:\nSources: Anthropic plans to stage its IPO in November, later than many investors expected; the decision was made before ex-Anthropic researcher Jacob Coxon left  —  Investors had expected the Claude maker to debut in October; AI industry grappling with calls to slowdown pace of development",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-18T21:40:01+00:00",
+    "image_url": "http://www.techmeme.com/260918/i30.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260918/p29#a260918p29",
     "title": "Angle Health, which wants to use AI to expedite healthcare benefits for small businesses, raised $600M led by Vitruvian Partners at a $2.7B valuation (Maria Armental/Wall Street Journal)",
     "description": "Maria Armental / Wall Street Journal:\nAngle Health, which wants to use AI to expedite healthcare benefits for small businesses, raised $600M led by Vitruvian Partners at a $2.7B valuation  —  Founded by two ex-Palantir engineers, the startup aims to bring AI-platform power to small-business healthcare benefits",
@@ -131,7 +155,7 @@
   },
   {
     "link": "https://www.cnet.com/tech/mobile/iphone-18-pro-launch-could-be-the-first-of-many-for-new-apples-new-ceo-this-year/",
-    "title": "iPhone 18 Pro Launch Could Be the First of Many for New Apple’s New CEO This Year",
+    "title": "iPhone 18 Pro Launch Could Be the First of Many for Apple’s New CEO This Year",
     "description": "The iPhone 18 Pro and Pro Max may be the first phones to go on sale under new Apple CEO John Ternus, but today’s launch hinted at even more hardware launches to come.",
     "categories": [
       "Breaking News",
@@ -225,10 +249,11 @@
   {
     "link": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
     "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
-    "description": "Angle Health has grown to 5,000 customers and become profitable, by helping small businesses get \"level-funded\" health insurance.",
+    "description": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
     "categories": [
       "Breaking News",
-      "Business & Startups"
+      "Business & Startups",
+      "Science & Environment"
     ],
     "pub_date": "2026-09-18T20:24:33+00:00",
     "image_url": null,
@@ -1029,7 +1054,6 @@
     "title": "FBI confirms two Texas-bound oil tankers hit by hackers who disabled coms and put the engines into overdrive — and Iran is possibly to blame",
     "description": "The FBI had to board at least one of the vessels to investigate the incident.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-09-18T16:20:00+00:00",
@@ -1257,7 +1281,6 @@
     "title": "FBI, Coast Guard boarded hacked oil tankers heading toward US coast",
     "description": "The feds are said to be investigating the compromise of the tankers' networks, which in one case interfered with one of the tanker's navigation and propulsion systems.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-09-18T15:44:09+00:00",
@@ -2303,30 +2326,5 @@
     "pub_date": "2026-09-18T11:41:22+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/KqinH94xSBYjRSednwJ7wk-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/huawei-connect-2026-ascend-960-superpod-unifiedbus",
-    "title": "Huawei’s answer to Nvidia isn’t a faster chip, it’s a much bigger machine",
-    "description": "AI “may well be the final technological revolution in human history,” Huawei rotating chairman David Wang told Huawei Connect 2026 in Shanghai. His opening keynote ran under the title Advancing the Agentic World, Building a Solid Silicon Foundation. Huawei then spent three days setting out the machines it wants to run that revolution on. Most",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Gadgets & Hardware",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-09-18T11:40:12+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/david-wang-huawei-connect-2026-keynote-shanghai.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/18/ios-27-my-favorite-new-iphone-features-other-than-ai/",
-    "title": "iOS 27: My favorite new iPhone features (other than AI)",
-    "description": "Apple released iOS 27 to everyone this week, and the headlining changes are Siri AI and the array of new Apple Intelligence features. However, the update also includes plenty of non-AI features.\n\n\n\nHere are a few of my favorite iOS 27 features (other than Siri and AI).\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-18T11:40:01+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-lock-screen-clock-small.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
