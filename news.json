@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
+    "title": "In India, the new iPhone can arrive faster than a pizza",
+    "description": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-18T17:45:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260918/p21#a260918p21",
+    "title": "Mistral and other European AI startups accuse US rivals of using safety concerns to entrench their dominance, rejecting Anthropic's calls to pace the frontier (Reuters)",
+    "description": "Reuters:\nMistral and other European AI startups accuse US rivals of using safety concerns to entrench their dominance, rejecting Anthropic's calls to pace the frontier  —  Europe's leading AI company Mistral and others have accused US rivals of using safety concerns to entrench their dominance …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-18T17:40:01+00:00",
+    "image_url": "http://www.techmeme.com/260918/i21.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/chinas-salt-typhoon-spotted-probing-latin-american-government-with-newly-developed-sparrowocky-backdoor",
+    "title": "China's Salt Typhoon spotted probing Latin American government with newly developed SparroWocky backdoor",
+    "description": "The group has been focused on Latin America for almost a year now.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-18T17:35:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/MmBupUuqfKaoWhB7xEsZC7-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+    "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+    "description": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-18T17:33:50+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
     "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
     "description": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
@@ -96,7 +144,7 @@
   {
     "link": "https://www.techmeme.com/260918/p19#a260918p19",
     "title": "Google threat intelligence group details how one of its researchers infiltrated hacker group TeamPCP and helped disrupt its software supply chain hacking spree (Andy Greenberg/Wired)",
-    "description": "Andy Greenberg / Wired:\nGoogle threat intelligence group details how one of its researchers infiltrated hacker group TeamPCP and helped disrupt its software supply chain hacking spree  —  TeamPCP pulled off the worst-ever software supply chain hacking spree and breached thousands of companies.",
+    "description": "Andy Greenberg / Wired:\nGoogle threat intelligence group details how one of its researchers infiltrated hacker group TeamPCP and helped disrupt its software supply chain hacking spree  —  TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -427,7 +475,7 @@
   },
   {
     "link": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/",
-    "title": "FBI, Coast Guard boarded hacked oil tankers heading towards US coast",
+    "title": "FBI, Coast Guard boarded hacked oil tankers heading toward US coast",
     "description": "The feds are said to be investigating the compromise of the tankers' networks, which in one case interfered with one of the tanker's navigation and propulsion systems.",
     "categories": [
       "Breaking News",
@@ -680,18 +728,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.techradar.com/pro/bill-to-make-ai-data-centers-pay-for-power-grid-upgrades-reaches-critical-milestone",
-    "title": "Bill to make AI data centers pay for power grid upgrades reaches critical milestone",
-    "description": "States could soon enforce the Ratepayer Protection Act to force 100MW+ data center operators to pick up the grid upgrade costs.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-18T15:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/fvSuoQXyuYpY9Y7Tgk4e2a-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://mashable.com/entertainment/youth-review-hbo",
     "title": "Youth review: HBOs coming-of-middle-age comedy is messy and moving, as only Sharon Horgan can",
     "description": "HBO and Sharon Horgan's latest comedy, \"Youth,\" is a frank look at a 50-year-old woman's search for love. Review.",
@@ -702,6 +738,18 @@
     "pub_date": "2026-09-18T15:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/01ODTDQCdAcrTtB8x9XlQZt/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/bill-to-make-ai-data-centers-pay-for-power-grid-upgrades-reaches-critical-milestone",
+    "title": "Bill to make AI data centers pay for power grid upgrades reaches critical milestone",
+    "description": "States could soon enforce the Ratepayer Protection Act to force 100MW+ data center operators to pick up the grid upgrade costs.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-18T15:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/fvSuoQXyuYpY9Y7Tgk4e2a-1920-80.png",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://mashable.com/entertainment/netflix-monster-lizzie-borden-fact-vs-fiction",
@@ -1127,7 +1175,6 @@
     "title": "NASA’s Hubble Spots an Out-of-Sync Galaxy",
     "description": "Though the spiral galaxy in this new image from the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over a thousand galaxies in the Virgo Cluster, the nearest large cluster of galaxies bound together by",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-18T13:38:12+00:00",
@@ -1483,7 +1530,6 @@
     "title": "Samsung Gallery finally gets Google Photos sync — here’s what you need to do",
     "description": "Samsung Gallery's OneDrive era ends September 30 as Google Photos sync rolls out now, letting Galaxy users back up photos without leaving the app.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-18T11:42:11+00:00",
@@ -2145,17 +2191,6 @@
     "source_name": "MASHABLE.COM"
   },
   {
-    "link": "https://www.wired.com/story/best-open-earbuds/",
-    "title": "Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More",
-    "description": "I’ve tested dozens of open earbuds. My favorite ones let you hear the world and your tunes equally.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-18T09:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aac199afb7533563c9903e0/master/pass/The-Best-Open-Earbuds-I%E2%80%99ve-Tested.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
     "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
     "description": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
@@ -2165,6 +2200,17 @@
     ],
     "pub_date": "2026-09-18T09:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6aa943ce7410d0aed42be028/master/pass/091526-Bioweapon%20AI.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/best-open-earbuds/",
+    "title": "Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More",
+    "description": "I’ve tested dozens of open earbuds. My favorite ones let you hear the world and your tunes equally.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-18T09:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aac199afb7533563c9903e0/master/pass/The-Best-Open-Earbuds-I%E2%80%99ve-Tested.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -2290,53 +2336,6 @@
     ],
     "pub_date": "2026-09-18T09:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/02YMpu0NoTVfv3k5DxYd8Rf/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/sept-18-apple-macbook-air-m5-rare-deal",
-    "title": "Rare MacBook Air deal: The M5 MacBook Air is $150 off right now at Amazon",
-    "description": "Find the best MacBook Air deal. Save 9% on the 13-inch 2026 MacBook Air M5 at Amazon.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-18T08:54:19+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/058e6EYKBGpV68tSS2vjky4/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/openai-astra-for-law-gpt-6-legal-search-index",
-    "title": "OpenAI launches Astra for Law, and its own legal research index",
-    "description": "“As AI becomes more open and interoperable, the value is not in connectivity alone,” said Joel Hron, chief technology officer of Thomson Reuters. “Legal professionals need more than access to information.” He said it in a statement supporting OpenAI, on the day OpenAI started building its own legal research index. OpenAI introduced Astra for Law",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-18T08:53:29+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/astra-chain-of-thought-monitorability-debate-greenblatt-pachocki-2025-position-paper-gpai-code-model-report-ai-office.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/waymo-singapore-robotaxi-2028-launch",
-    "title": "Waymo will launch robotaxis in Singapore in 2028, its first Southeast Asia market",
-    "description": "Waymo plans to launch its first commercial robotaxi service in Southeast Asia in 2028, starting in Singapore. The vehicles will arrive well before then, and there will be a year of preparation and testing. According to the company, the rollout will happen in three stages. First, all-electric Jaguar I-PACE vehicles will arrive in Singapore in",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-18T08:41:20+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/mawakana-siow-waymo-jaguar-i-pace.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/life/sept-18-pokemon-tcg-30th-celebration-elite-trainer-box-pre-order-deal",
-    "title": "The Pokémon TCG 30th Celebration ETB is way under market price on Amazon — buy for $83.44 (if you get an invite)",
-    "description": "The Pokémon TCG 30th Celebration ETB is $83.44 at Amazon, if your invite request is accepted. That's under market price.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-18T08:41:06+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04AyAesnbtO6WTJacMdcCiw/hero-image.jpg",
     "source_name": "MASHABLE.COM"
   }
 ]
