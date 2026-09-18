@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/",
+    "title": "NASA’s Hubble Spots an Out-of-Sync Galaxy",
+    "description": "Though the spiral galaxy in this new image from the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over a thousand galaxies in the Virgo Cluster, the nearest large cluster of galaxies bound together by",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-18T13:38:12+00:00",
+    "image_url": "https://science.nasa.gov/wp-content/uploads/2026/09/potm2609a.jpg?w=2018",
+    "source_name": "SCIENCE.NASA.GOV"
+  },
+  {
     "link": "https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/",
     "title": "Adopt This Data Center Plushie and Hear Its Piercing Scream",
     "description": "The satirical collaboration between a creative studio and the music producer behind Big Data, “Bezzy” is a cute little doll that spews the sounds of real data centers.",
@@ -10,6 +22,18 @@
     "pub_date": "2026-09-18T13:30:00+00:00",
     "image_url": "https://media.wired.com/photos/6aac7385c5520f8d5bff0aea/master/pass/AdoptADataCenter-Bezzy-Sitting.png",
     "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/angle-health-600m-vitruvian-partners-2-7bn-valuation",
+    "title": "Ex-Palantir engineers raise $600m to take on US health insurers",
+    "description": "“We did not set out to build another health insurance company,” said Ty Wang, co-founder and chief executive of Angle Health. The aim, he told the Wall Street Journal, was to stop “this kind of death spiral of cost within our healthcare system.” His company has just raised $600m at a $2.7bn valuation. Vitruvian Partners",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-18T13:28:40+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/angle-health-app-care-navigation-interface.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://thenextweb.com/news/anthropic-biology-wet-lab-drug-program",
@@ -2265,27 +2289,5 @@
     "pub_date": "2026-09-17T20:37:09+00:00",
     "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=2048",
     "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-    "title": "The fix for rogue AI agents could be more AI",
-    "description": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-17T20:34:47+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-    "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-    "description": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-17T20:34:24+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
