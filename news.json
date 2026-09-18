@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/",
+    "title": "Adopt This Data Center Plushie and Hear Its Piercing Scream",
+    "description": "The satirical collaboration between a creative studio and the music producer behind Big Data, “Bezzy” is a cute little doll that spews the sounds of real data centers.",
+    "categories": [
+      "AI & Machine Learning",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-18T13:30:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aac7385c5520f8d5bff0aea/master/pass/AdoptADataCenter-Bezzy-Sitting.png",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/anthropic-biology-wet-lab-drug-program",
     "title": "Anthropic has quietly built a biology lab, Reuters reports",
     "description": "Anthropic has set up a wet lab in the San Francisco Bay Area, a place to run physical biology experiments rather than simulate them. The company confirms it exists, yet it will not say what it is for, beyond ruling out the obvious answer, which is drug discovery. The news was reported by Reuters today,",
@@ -10,6 +22,18 @@
     "pub_date": "2026-09-18T13:15:16+00:00",
     "image_url": "https://media.thenextweb.com/2026/07/anthropic-meta-10-billion-compute-deal-talks.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/best-iphone-18-pro-max-cases-grips-deals",
+    "title": "We found the best iPhone 18 Pro grips and cases to protect your new phone",
+    "description": "The iPhone 18 Pro goes on sale Sept. 12 at 8 a.m. ET, and cases are already on sale. Find cute, clear, and MagSafe cases.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-18T13:08:34+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/05ZWCP5XsqR03lYsZD6UrEr/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techmeme.com/260918/p14#a260918p14",
@@ -69,6 +93,29 @@
     "pub_date": "2026-09-18T13:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/edmXX6V5G59Mob2aacjCVC-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/airpods-4-vs-airpods-5",
+    "title": "AirPods 4 vs. AirPods 5: Is there any benefit to buying last-gen?",
+    "description": "Mashable's audio expert breaks down the difference between the AirPods 4 and AirPods 5 in a head-to-head comparison of the performance, design, and overall value.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-18T12:59:27+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/06ka52q4DqJcNzH6bZN2LkX/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/sept-18-apple-airpods-5-best-ever-deal",
+    "title": "New AirPods deal: Amazon has already cut the price of the new AirPods 5",
+    "description": "Amazon already dropped the price on Apple’s entry-level AirPods 5 with Active Noise Cancellation. Save after launch day.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-18T12:56:41+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/05UkrIA0mpFg3j2O9h2ewxy/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://thenextweb.com/news/huawei-intelligent-world-2035-report-tokens-agents-forecast",
@@ -1707,7 +1754,7 @@
   },
   {
     "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
-    "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+    "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into superhot-rock geothermal",
     "description": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
     "categories": [
       "Business & Startups",
@@ -2238,51 +2285,6 @@
       "AI & Machine Learning"
     ],
     "pub_date": "2026-09-17T20:34:24+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/advanced-ai-society-linux-foundation-proof-of-control",
-    "title": "Advanced AI Society joins the Linux Foundation, launches open verification ecosystem as Congress moves on agent security",
-    "description": "New York, NY, September 17th, 2026, TechnologyWire As bipartisan legislation demands verifiable agent controls, the Advanced AI Society releases the Proof-of-Control v1.0 draft for public comment and hosts “Who’s Watching the Machines?” event with Linux Foundation Decentralized Trust As bipartisan Congressional proposals demand continuous agent verification and third-party evaluation, and as frontier lab leaders call",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-17T20:25:40+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/advanced-ai-society-linux-foundation-proof-of-control.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-    "title": "Google announces new experimental \"CC\" AI agent for families",
-    "description": "Multiple family members can share data to help the agent make plans and complete tasks.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-17T20:24:34+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Google-CC-1152x648.png",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/amazon-prime-perks/",
-    "title": "26 Amazon Prime Perks You Might Know You Have (2026)",
-    "description": "Your membership gets you more than free two-day shipping. Here’s what you may be missing ahead of Amazon Prime Big Deal Days.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-17T20:21:04+00:00",
-    "image_url": "https://media.wired.com/photos/684b0fd16aac34a35bd34e95/master/pass/Amazon%20Prime%20Benefits%20You%20Might%20Not%20Be%20Using_.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-    "title": "Is the AI safety debate about safety or control?",
-    "description": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-17T20:19:37+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
   }
