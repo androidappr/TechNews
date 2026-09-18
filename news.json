@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://9to5mac.com/2026/09/18/homeys-new-device-updates-feature-shows-what-matter-was-supposed-to-be-all-along/",
+    "title": "HomeKit Weekly: Homey’s new Device Updates feature shows what Matter was supposed to be all along",
+    "description": "Firmware updates have been the weakest link for a decade with smart homes. Every sensor, light bulb, and smart lock in your house runs software that should be updated regularly. This is on top of even if they have software updates. Homey just announced a fix for a big piece of that, and the way it handles Matter devices is the part that Apple Home users should take note of.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-18T18:33:00+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Homey-Pro-2026-—-Interior-5-2.jpg?quality=82&strip=all&w=1500",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
     "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
     "title": "Virginia governor creates an AI task force and moves to restrain data centers",
     "description": "Virginia Gov. Abigail Spanberger (D) ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch officials from signing non-disclosure",
@@ -70,6 +81,18 @@
     "pub_date": "2026-09-18T18:05:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/D9SxF3hiMTwj2qrLfLCYk-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/",
+    "title": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’",
+    "description": "Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by its compact companion and providing the power source for strong X-ray flares. The research is part of NASA’s exploration of the extreme universe to better understand how the",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-18T18:02:53+00:00",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/xrism/News/2026/wind-accreting-pulsar/GX_301-2_spectrum_med.jpg?w=2020&h=1080&fit=clip&crop=faces%2Cfocalpoint",
+    "source_name": "SCIENCE.NASA.GOV"
   },
   {
     "link": "https://www.techmeme.com/260918/p22#a260918p22",
@@ -1077,7 +1100,6 @@
     "title": "This cartridge-playing Game Boy clone is smaller and cheaper than Analogue’s Pocket",
     "description": "FunnyPlaying, a Chinese company known for its Game Boy and GBA upgrade kits, has announced a new handheld that plays original Nintendo cartridges and ROMs. The FPGB Mini's cartridge support is limited to the Game Boy and Game Boy Color so it isn't as capable as the Analogue Pocket that's also compatible with the GBA",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware",
       "Gaming"
     ],
@@ -2323,28 +2345,5 @@
     "pub_date": "2026-09-18T09:16:58+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/04gTbUw9kPQ44CbxV4XeiD0/hero-image.png",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
-    "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
-    "description": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-18T09:15:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aac1a9a4ac258f87bea84bd/master/pass/Napster_lead.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/apple-pay-india-launch-axis-bank",
-    "title": "Apple Pay is heading to India next month with Axis Bank first, Reuters reports",
-    "description": "Apple Pay is expected to launch in India next month, beginning with credit cards issued by Axis Bank, three people familiar with the plans told Reuters. Apple declined to comment. So, in effect, did everybody else. The service will widen to other lenders through separate bank-by-bank agreements, the pattern Apple has followed in other markets,",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-18T09:11:24+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/Apple-Pay.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
