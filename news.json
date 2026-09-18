@@ -1,8 +1,31 @@
 [
   {
+    "link": "https://www.androidcentral.com/tablets/if-youre-wondering-no-tablets-arent-dead-honor-surges-for-android-in-q2",
+    "title": "If you're wondering, no, tablets aren't dead: Honor surges for Android in Q2",
+    "description": "Honor's major tablet growth in Q2 2026 shows that tablets aren't as dead as we thought. While its competitors have dropped significantly, Honor's trying to pull ahead.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-18T18:10:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/misbDArBnKxMRgWyNPSUZG-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/seagate-finds-ai-is-increasing-the-value-of-data-but-warns-that-43-of-businesses-lack-proper-data-storage-infrastructure-99-expect-ai-storage-and-storage-costs-to-explode",
+    "title": "Seagate finds 'AI is increasing the value of data' but warns that 43% of businesses lack proper data storage infrastructure — 99% expect AI storage (and storage costs) to explode",
+    "description": "Seagate’s survey finds AI increasing storage requirements sharply, while many organizations remain unprepared for infrastructure, sustainability and data-management demands.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-18T18:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/D9SxF3hiMTwj2qrLfLCYk-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260918/p22#a260918p22",
-    "title": "Sources: the US \"almost started a war\" after an AI-assisted report hallucinated that a Chinese ship was carrying nuclear weapons components in the Middle East (CNN)",
-    "description": "CNN:\nSources: the US “almost started a war” after an AI-assisted report hallucinated that a Chinese ship was carrying nuclear weapons components in the Middle East  —  The intelligence report, circulated across the US military this spring in the midst of the war with Iran …",
+    "title": "Sources: the US \"almost started a war\" after an AI-assisted report hallucinated that a Chinese ship in the Middle East was carrying nuclear weapons components (CNN)",
+    "description": "CNN:\nSources: the US “almost started a war” after an AI-assisted report hallucinated that a Chinese ship in the Middle East was carrying nuclear weapons components  —  The intelligence report, circulated across the US military this spring in the midst of the war with Iran …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -10,6 +33,18 @@
     "pub_date": "2026-09-18T18:00:35+00:00",
     "image_url": "http://www.techmeme.com/260918/i22.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/gpu/amd-gpus-and-cpus-could-be-the-next-victims-of-the-ram-crisis-as-industry-chatter-insists-more-price-hikes-are-coming",
+    "title": "AMD GPUs and CPUs could be the next victims of the RAM crisis, as industry chatter insists more price hikes are coming",
+    "description": "AMD plans 10% price hikes across its 'entire chip line' in Q4 going by latest RAM crisis rumor.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-18T18:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/qq5nkjdGduHiRw4mPNWPYH-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
@@ -24,6 +59,18 @@
     "pub_date": "2026-09-18T17:59:53+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.cnet.com/science/space/i-toured-the-company-mapping-space-debris-then-i-polled-worried-and-hopeful-scientists/",
+    "title": "I Toured the Company Mapping Space Debris. Then I Polled Worried and Hopeful Scientists",
+    "description": "From portable radars in shipping containers to orbital cameras, I asked scientists how the space-junk tracking industry plans to avoid catastrophic crashes.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-18T17:54:12+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-1307812041.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://9to5mac.com/2026/09/18/apple-vp-of-hardware-talks-iphone-duo-durability-crease-hinge-and-more/",
@@ -2293,51 +2340,6 @@
     ],
     "pub_date": "2026-09-18T09:00:12+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/05Au6SGwp9mi3G2GFSnBgvu/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/best-open-earbuds/",
-    "title": "Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More",
-    "description": "I’ve tested dozens of open earbuds. My favorite ones let you hear the world and your tunes equally.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-18T09:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aac199afb7533563c9903e0/master/pass/The-Best-Open-Earbuds-I%E2%80%99ve-Tested.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
-    "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
-    "description": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
-    "categories": [
-      "AI & Machine Learning",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-18T09:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aa943ce7410d0aed42be028/master/pass/091526-Bioweapon%20AI.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/phone-communications/mobile-industry-awards-2026-all-our-winners-revealed",
-    "title": "Mobile Industry Awards 2026 - all our winners revealed!",
-    "description": "Who took the top prizes at the Mobile Industry Awards 2026?",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-18T09:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/VnyyDv2AaDtJRdu2gspbtm-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/dropout-vic-michaelis-jacquis-neal-game-changer-say-more-interview",
-    "title": "How Vic Michaelis and Jacquis Neal Joined Dropout",
-    "description": "Vic Michaelis and Jacquis Neal came by Mashable's SXSW studio to talk Dropout's most mind-blowing moments, the development of Crowd Control, and Sam Reich's knack for knowing what will hit on Dropout.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-18T09:00:00+00:00",
-    "image_url": "https://cdn.ex.co/transformations-account/production/a0be6317-e085-43f9-8cb5-7b125d25af4b/b3d1d6a1-39cc-49bb-a7d5-81a94b449eaa/master.m3u8",
     "source_name": "MASHABLE.COM"
   }
 ]
