@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://mashable.com/science/moon-phase-today-sept-18-2026",
+    "title": "Moon phase today: What the Moon will look like on September 18, 2026",
+    "description": "See the Moon phase expected for September 18, 2026 as well as when the next Full Moon is expected.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-18T04:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/03Fmj0Dm5xIH8UjTzEJT2TU/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260917/p45#a260917p45",
     "title": "PrismML releases Bonsai 2 27B, which compresses Alibaba's Qwen3.8 27B to 5.9 GB, small enough for smartphones, while retaining 98.2% of Qwen's benchmark scores (Julie Bort/TechCrunch)",
     "description": "Julie Bort / TechCrunch:\nPrismML releases Bonsai 2 27B, which compresses Alibaba's Qwen3.8 27B to 5.9 GB, small enough for smartphones, while retaining 98.2% of Qwen's benchmark scores  —  If AI lab PrismML isn't on your radar yet, it should be — not because it's raised gobs of money (it hasn't yet …",
@@ -418,6 +430,7 @@
     "description": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
     "categories": [
       "AI & Machine Learning",
+      "Breaking News",
       "Business & Startups",
       "Government & Policy",
       "Social & Media"
@@ -464,7 +477,6 @@
     "title": "Anthropic redesigns Claude projects, letting users describe work in one conversation and have Claude manage it across parallel threads, starting in Claude Code (Claude)",
     "description": "Claude:\nAnthropic redesigns Claude projects, letting users describe work in one conversation and have Claude manage it across parallel threads, starting in Claude Code  —  A new experience for Claude projects, now available in beta in Claude Code  —  https://claude.com/blog/projects- redesigned",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-17T22:15:00+00:00",
@@ -2257,18 +2269,5 @@
     "pub_date": "2026-09-17T13:46:21+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
-    "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-    "description": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
-    "categories": [
-      "AI & Machine Learning",
-      "Social & Media",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-17T13:46:16+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
