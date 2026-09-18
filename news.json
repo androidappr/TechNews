@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://thenextweb.com/news/oracle-internal-ai-rollout-town-hall",
+    "title": "Oracle got AI working on itself only this year",
+    "description": "Over the past two years, Oracle has invested tens of billions of dollars to build the infrastructure that powers other companies’ AI. But it wasn’t until April that its own employees received a broadly useful AI tool. Co-CEO Clay Magouyrk admitted, “I don’t think we figured out how to make AI really that useful for",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-18T12:35:13+00:00",
+    "image_url": "https://media.thenextweb.com/2026/06/Oracle.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/phones/iphone/apple-iphone-18-pro-and-18-pro-max-deals",
+    "title": "The Apple iPhone 18 Pro and 18 Pro Max have officially launched — I'm rounding up the best deals for both the US and UK",
+    "description": "Ready to upgrade? Most of the best deals from the initial preorders phase are still available, but for how long?",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-18T12:34:15+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/LNEVAFFtAjSCcyPZ6BXPqB-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.engadget.com/2262087/anthropic-has-set-up-a-bio-research-lab-for-physical-experiments/",
     "title": "Anthropic has set up a bio research lab for physical experiments",
     "description": "Anthropic now has its own bio research lab in San Francisco.",
@@ -708,6 +733,7 @@
     "title": "The new AirPods 5 are now available to buy at Amazon and Apple: Shop the best launch deals",
     "description": "Apple announced the AirPods 5 at the \"Surprise and Shine\" event on Sept. 9. Here's how to order the new earbuds.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-18T09:30:53+00:00",
@@ -1006,7 +1032,6 @@
     "title": "Sources: Chinese DRAM leader CXMT is preparing to expand into NAND flash memory, competing with Samsung, SK Hynix, and domestic rival YMTC amid memory shortages (Reuters)",
     "description": "Reuters:\nSources: Chinese DRAM leader CXMT is preparing to expand into NAND flash memory, competing with Samsung, SK Hynix, and domestic rival YMTC amid memory shortages  —  Chinese chipmaker CXMT (688825.SS) is preparing to enter the booming flash memory chip market dominated by Samsung Electronics …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-18T08:35:01+00:00",
@@ -1158,6 +1183,7 @@
     "title": "T-Mobile is giving away the Apple iPhone 18 Pro for free — how to claim",
     "description": "How to get a free iPhone 18. Get the Apple iPhone 18 Pro for free by bringing your number on T-Mobile’s Experience Beyond plan.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-18T07:00:00+00:00",
@@ -2256,27 +2282,5 @@
     "pub_date": "2026-09-17T19:28:24+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK_414_5_D.png?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/apps-software/android-os/google-continues-to-fix-android-17-issues-with-a-qpr2-beta-5-release-for-pixels",
-    "title": "Google continues to fix Android 17 issues with a QPR2 Beta 5 release for Pixels",
-    "description": "Android 17 QPR2 Beta 5 is rolling out for enrolled Pixel testers. Google solves system stability issues, Bluetooth device-switching problems, and more.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-17T19:26:24+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/izbiePo6qCgrpKiEYUrqUD-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/will-samsung-and-qualcomms-organic-bridge-technology-make-ai-processors-more-powerful-and-cheaper-to-produce",
-    "title": "Will Samsung and Qualcomm’s organic bridge technology make AI processors more powerful and cheaper to produce?",
-    "description": "A new “organic bridge” under development by Samsung and Qualcomm could make AI processors more powerful.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-17T19:20:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/fUFkhU5GPAG6EsP2Nx9iBY-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
