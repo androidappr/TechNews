@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://9to5mac.com/2026/09/17/whatsapp-starts-rolling-out-new-in-chat-search-button-on-ios/",
+    "title": "WhatsApp starts rolling out new in-chat search button on iOS",
+    "description": "Following a few weeks of beta testing, WhatsApp is now rolling out its new in-chat search button to iPhone users. Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-18T01:41:34+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/whatsapp-ios27.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260917/p43#a260917p43",
     "title": "An interview with OpenAI researcher Noam Brown about multi-agent systems, AI solving the Navier-Stokes problem, the internal/external model gap, and more (Dwarkesh Patel/Dwarkesh Podcast)",
     "description": "Dwarkesh Patel / Dwarkesh Podcast:\nAn interview with OpenAI researcher Noam Brown about multi-agent systems, AI solving the Navier-Stokes problem, the internal/external model gap, and more  —  “We never want to be in a situation again where we underestimate the AI.”  —  New episode with Noam Brown.",
@@ -743,7 +754,6 @@
     "description": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-09-17T19:46:08+00:00",
@@ -755,7 +765,6 @@
     "title": "NYT court filing: ChatGPT's head wrote that publishers face an \"existential threat\" from AI, and a Microsoft director called AI training \"an astonishing theft\" (Financial Times)",
     "description": "Financial Times:\nNYT court filing: ChatGPT's head wrote that publishers face an “existential threat” from AI, and a Microsoft director called AI training “an astonishing theft”  —  Lawyers say AI co-founder Greg Brockman was ‘motivated by the gazillions’ he hoped to gain from models trained on copyrighted content",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-17T19:35:01+00:00",
@@ -2276,18 +2285,5 @@
     "pub_date": "2026-09-17T13:19:46+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/spain-aepd-first-data-breach-ai-agent",
-    "title": "Spain’s data watchdog reports its first breach carried out by an AI agent",
-    "description": "“The arrival of AI agents in offensive activity must drive an immediate review of security and data protection models,” wrote Francisco Pérez Bes of Spain’s data protection agency, the AEPD. The AEPD has received its first notification of a personal data breach carried out with an AI agent. Pérez Bes announced it in an agency",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-17T13:19:04+00:00",
-    "image_url": "https://media.thenextweb.com/2026/08/Spain-flag.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
