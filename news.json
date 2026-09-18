@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://www.techmeme.com/260918/p20#a260918p20",
+    "title": "Sony Music and UMG sue Suno, alleging that its new model trained in partnership with WMG and BMG infringes copyright because it is based on an infringing model (Corbin Bolies/Variety)",
+    "description": "Corbin Bolies / Variety:\nSony Music and UMG sue Suno, alleging that its new model trained in partnership with WMG and BMG infringes copyright because it is based on an infringing model  —  Sony Music Entertainment and Universal Music Group aren't done with Suno in federal court.  —  The two labels filed a new …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-18T17:10:01+00:00",
+    "image_url": "http://www.techmeme.com/260918/i20.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+    "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+    "description": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang.  Watch",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-18T17:09:56+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera",
+    "title": "The real story of the iPhone 18 Pro&#8217;s camera",
+    "description": "It's one of the most fascinating years in a while when it comes to iPhone camera upgrades. The big story of the iPhone 18 Pro is the variable aperture main lens, which lets you open the aperture up wider for better low light shots and make the aperture smaller for better depth of field in",
+    "categories": [
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-18T17:06:37+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_VST_091826_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+    "title": "Gavin Newsom is pushing for an AI kill switch",
+    "description": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene a group of experts that will deliver recommendations within two months on how to",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-18T17:04:51+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292819671.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/2-000-uk-flight-cancellations-caused-by-previously-unknown-defect-that-happened-in-the-space-of-a-millisecond-travel-chaos-took-days-to-fix-and-left-hundreds-of-thousands-stranded",
     "title": "2,000 UK flight cancellations caused by ‘previously unknown defect’ that happened in the ‘space of a millisecond’ — travel chaos took days to fix and left hundreds of thousands stranded",
     "description": "A report from Nats found that the disruption stemmed from a manual request for a squawk code that was corrupted during processing.",
@@ -264,8 +312,8 @@
   },
   {
     "link": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-    "title": "An Undercover Google Analyst Infiltrated a Notorious Supply Chain Hacking Gang",
-    "description": "TeamPCP pulled off the worst-ever software supply chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says it had a mole inside the hackers’ inner circle.",
+    "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
+    "description": "TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says it had a mole inside the hackers’ inner circle.",
     "categories": [
       "Breaking News",
       "Cybersecurity & Privacy"
@@ -2087,17 +2135,6 @@
     "source_name": "MASHABLE.COM"
   },
   {
-    "link": "https://www.wired.com/story/best-open-earbuds/",
-    "title": "Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More",
-    "description": "I’ve tested dozens of open earbuds. My favorite ones let you hear the world and your tunes equally.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-18T09:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aac199afb7533563c9903e0/master/pass/The-Best-Open-Earbuds-I%E2%80%99ve-Tested.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
     "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
     "description": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
@@ -2107,6 +2144,17 @@
     ],
     "pub_date": "2026-09-18T09:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6aa943ce7410d0aed42be028/master/pass/091526-Bioweapon%20AI.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/best-open-earbuds/",
+    "title": "Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More",
+    "description": "I’ve tested dozens of open earbuds. My favorite ones let you hear the world and your tunes equally.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-18T09:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aac199afb7533563c9903e0/master/pass/The-Best-Open-Earbuds-I%E2%80%99ve-Tested.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -2292,53 +2340,5 @@
     "pub_date": "2026-09-18T08:36:13+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/079fi2LEmuSberJwySsjQKX/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260918/p6#a260918p6",
-    "title": "Sources: Chinese DRAM leader CXMT is preparing to expand into NAND flash memory, competing with Samsung, SK Hynix, and domestic rival YMTC amid memory shortages (Reuters)",
-    "description": "Reuters:\nSources: Chinese DRAM leader CXMT is preparing to expand into NAND flash memory, competing with Samsung, SK Hynix, and domestic rival YMTC amid memory shortages  —  Chinese chipmaker CXMT (688825.SS) is preparing to enter the booming flash memory chip market dominated by Samsung Electronics …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-18T08:35:01+00:00",
-    "image_url": "http://www.techmeme.com/260918/i6.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/raindrop-series-a-50m-crv-agent-failures-simulations",
-    "title": "Raindrop hits $50m in funding to catch AI agents failing in production",
-    "description": "“Agents now run for hours, call thousands of tools, and handle real money, real health data, and real customers,” said Zubin Koticha, chief executive of Raindrop. “When an agent fails, it does the wrong thing convincingly at scale until someone happens to notice.” Raindrop has raised a Series A led by CRV. That takes total",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-18T08:30:47+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/raindrop-ai-logo.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/sept-18-fox-one-streaming-deal",
-    "title": "This Fox One deal lets you stream college football for the next month for less than $10",
-    "description": "The Fox One Prime Video add-on streaming subscription is on sale for just $9.99 for one month. That's 50% off its usual cost.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-18T08:30:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06WbR0SWIJjMP9ygSyqjEua/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/beacon-acquires-haize-labs-ai-reliability-real-economy",
-    "title": "Beacon buys Haize Labs to stop its AI agents going wrong",
-    "description": "“The Fortune 500 will have no shortage of AI,” said Leonard Tang, co-founder and chief executive of Haize Labs. “The harder problem is making AI useful for the businesses that power the rest of the economy, where most humans work and receive value.” Tang said that in a statement confirming that Beacon Software has bought",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-18T08:18:34+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/beacon-nilam-ganenthiran-leonard-tang-office.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
