@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+    "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+    "description": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-18T21:07:24+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS534_AI_DOOMSDAY2_B.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2262978/sony-music-and-umg-say-sunos-new-models-still-violates-their-copyright/",
+    "title": "Sony Music and UMG say Suno's new models still violates their copyright",
+    "description": "In a new lawsuit, the labels argue Suno found a roundabout way to train its v6 models on unlicensed music.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-18T21:06:27+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/sony-music-and-umg-say-sunos-new-models-still-violates-their-copyright/l-intro-1789765357.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-sept-19-1196/",
+    "title": "Today’s NYT Connections Hints and Answers for Sept. 19, #1196",
+    "description": "Here are hints and the answers for today’s NYT Connections puzzle No. 1,196 for Saturday, Sept. 19, 2026.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-18T21:01:08+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Main-Connections-art.webp",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260918/p28#a260918p28",
+    "title": "Anthropic partners with Accenture to embed evaluators within Anthropic, including red teaming models and conducting alignment assessments (Anthropic)",
+    "description": "Anthropic:\nAnthropic partners with Accenture to embed evaluators within Anthropic, including red teaming models and conducting alignment assessments  —  We're partnering with Accenture on independent evaluation of frontier AI.  This is an important step toward the commitment, made in our CEO's essay …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-18T21:01:04+00:00",
+    "image_url": "http://www.techmeme.com/260918/i28.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.engadget.com/2262962/clicks-communicator-shipments-begin-in-december/",
     "title": "Clicks Communicator shipments begin in December",
     "description": "The BlackBerry-like phone also got a spec bump and an impending price hike.",
@@ -21,6 +69,18 @@
     "pub_date": "2026-09-18T20:49:48+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/wSM8sRT6TZJfqubjwxebHd-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/mobile/apple-iphone18pro-battery-price-increase-replace/",
+    "title": "Battery Replacement Has Gotten Pricier for Apple’s Latest iPhone 18 Pro Models",
+    "description": "Most phone batteries degrade faster than we want them to.",
+    "categories": [
+      "Breaking News",
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-09-18T20:46:49+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/b0939c6e-f8a4-4a42-a76b-762139c1e167.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://www.techradar.com/pro/us-army-confirms-it-has-space-control-weapons-active-in-orbit-to-ensure-it-can-operate-freely-there",
@@ -238,7 +298,6 @@
     "title": "Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap",
     "description": "The Ultra 4 gets smarter about health tracking and lasts longer between charges. But for most people, the Series 12 gets close enough.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-18T19:36:48+00:00",
@@ -1316,7 +1375,6 @@
     "title": "iPhone 18 Pro, Apple Watch Series 12 and Ultra 4, AirPods 5 now available in stores",
     "description": "Today is a big launch day for new Apple products, with iPhone 18 Pro and Pro Max, Apple Watch Series 12 and Ultra 4, and AirPods 5 all available in Apple Stores and from other retailers worldwide.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-18T15:14:47+00:00",
@@ -2272,62 +2330,5 @@
     "pub_date": "2026-09-18T11:26:23+00:00",
     "image_url": "https://www.engadget.com/img/gallery/nasas-moon-orbiter-has-spotted-an-impact-crater-that-only-happens-once-a-century/l-intro-1789730692.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2262055/microsoft-openai-internet-scraping-largest-theft-of-labor/",
-    "title": "Microsoft executive called OpenAI's web scraping the 'largest theft of labor in human history'",
-    "description": "Executives from OpenAI and Microsoft were reportedly worried about ChatGPT training that scraped millions of news articles.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-18T11:22:31+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/microsoft-executive-called-openais-web-scraping-the-largest-theft-of-labor-in-human-history/l-intro-1789729969.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/sept-18-torras-q3-air-iphone-18-pro-max-case-deal",
-    "title": "The iPhone 18 Pro Max is out now: Grab the popular Torras Q3 Air case for under $60",
-    "description": "As of Sept. 18, select colors of the Torras Q3 Air iPhone 18 Pro Max cases are on sale at Amazon for $59.39, 10% off their typical price of $65.99.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-18T11:22:20+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04UGLoLXay8jMPuANpPf2Tl/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/tech/prime-big-deal-days-starts-soon-but-these-16-tech-deals-at-amazon-uk-are-already-worth-buying",
-    "title": "Prime Big Deal Days starts soon, but these 16 tech deals at Amazon UK are already worth buying",
-    "description": "I've looked through this weekend's sale at Amazon UK and found 16 of the best tech deals that I'd recommend buying right now ahead of Prime Big Deal Days.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-18T11:19:47+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/TUiwub85R5fAfExAuYE8bL-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/health-fitness/fitness-trackers/garmin-investigates-disappearing-workouts-issue-thats-hitting-cirqa-owners-and-confirms-a-workaround-to-stop-it-happening-to-you",
-    "title": "Garmin investigates ‘disappearing workouts’ issue that’s hitting Cirqa owners — and confirms a workaround to stop it happening to you",
-    "description": "A bug means the Garmin Connect app is not properly logging Cirqa workouts, but there’s a temporary fix.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-18T11:18:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/R9z662sA3cqsW9oVrPfcsA-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260918/p13#a260918p13",
-    "title": "SK Hynix launches SK Hynix Ventures in Silicon Valley, expanding its scope of investments into AI computing, data centers, optical interconnect tech, and more (Jie Ye-eun/The Korea Herald)",
-    "description": "Jie Ye-eun / The Korea Herald:\nSK Hynix launches SK Hynix Ventures in Silicon Valley, expanding its scope of investments into AI computing, data centers, optical interconnect tech, and more  —  Since 2018, I have covered South Korea's economic and financial landscape, with experience spanning the economy, banking, financial markets and securities industry.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-18T11:15:03+00:00",
-    "image_url": "http://www.techmeme.com/260918/i13.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
