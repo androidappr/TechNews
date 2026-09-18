@@ -1,5 +1,64 @@
 [
   {
+    "link": "https://thenextweb.com/news/xi-us-visit-byd-catl-xiaomi-delegation",
+    "title": "Executives from BYD, CATL and Xiaomi may join Xi’s Washington visit, Reuters reports",
+    "description": "Xi Jinping is scheduled to be in Washington on September 24 for a state visit, and some of China’s largest manufacturers may accompany him, Reuters reported. The information on which ones is still unknown, and the trip itself has not been officially confirmed. According to Reuters, citing three individuals familiar with the situation, the seven",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-18T11:14:34+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/trump-xi-handshake-temple-of-heaven.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/google-home-mcp-third-party-ai-agents-claude-openclaw",
+    "title": "Google Home opens up to Claude, OpenClaw and any other MCP agent",
+    "description": "“Connecting a real-life home to an AI agent allows that agent to control devices on your behalf,” Google warns in its developer documentation. “Depending on your agent, connecting it to Home MCP can result in unexpected or even undesired behaviour.” That warning sits inside the setup guide for Google Home MCP. Google opened it to",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-18T11:11:25+00:00",
+    "image_url": "https://media.thenextweb.com/2026/06/Google_Home_Speakers.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260918/p12#a260918p12",
+    "title": "Sources: SK Hynix subsidiary Solidigm weighs building a NAND flash memory factory in the US; SK Hynix is also in talks with Intel for a separate project in Ohio (Reuters)",
+    "description": "Reuters:\nSources: SK Hynix subsidiary Solidigm weighs building a NAND flash memory factory in the US; SK Hynix is also in talks with Intel for a separate project in Ohio  —  Chipmaker SK Hynix's (000660.KS) subsidiary Solidigm is considering building a NAND flash memory chip factory in the US …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-18T11:10:16+00:00",
+    "image_url": "http://www.techmeme.com/260918/i12.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/best-gifts-for-moms-2026/",
+    "title": "Best Gifts for Mom (2026): E-Readers, Digital Wall Calendar, Smart Bird Feeders",
+    "description": "From a calendar that keeps my family organized to a frame that rescues photos from my camera roll, these favorites make thoughtful gifts.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-18T11:07:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aac48c08bcc778670d64ba8/master/pass/The-Best-Gifts-for-Moms,-From-a-Mom-Who-Tests-Gear.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.techradar.com/phones/starlink-mobile-could-soon-be-available-worldwide-fcc-grants-spacex-satellite-internet-service-the-right-to-operate-internationally",
+    "title": "Starlink Mobile could soon be available worldwide — FCC grants SpaceX satellite internet service the right to operate internationally",
+    "description": "Starlink Mobile now has FCC authorization to operate globally, so it could soon become a mobile powerhouse.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-18T11:00:20+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/cHBeEddBzHteQrko8xM5ZM-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
     "title": "Flash floods can strike without warning — this new technology could change that",
     "description": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there,",
@@ -11,6 +70,18 @@
     "pub_date": "2026-09-18T11:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268746_new_technology_could_change_how_we_predict_flash_floods_for_good_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/livestream-women-in-tech/",
+    "title": "Submit Your Questions: Why Is Silicon Valley Still a Boy's Club?",
+    "description": "How are women really faring in Silicon Valley? Submit your questions to our panel and we'll give you the scoop.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-18T11:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aabf7dd25a79073598690d5/master/pass/Livestream%20Top%20Art%20-%20Women%20In%20Tech.jpg",
+    "source_name": "WIRED.COM"
   },
   {
     "link": "https://www.techradar.com/pro/how-to-build-enterprise-resilience-in-the-face-of-growing-ai-risk",
@@ -911,17 +982,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.wired.com/story/irobot-promo-code/",
-    "title": "iRobot Promo Code: 15% Off",
-    "description": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-18T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/design-within-reach-promo-code/",
     "title": "Design Within Reach Promo Codes: 30% Off | September 2026",
     "description": "Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.",
@@ -930,6 +990,17 @@
     ],
     "pub_date": "2026-09-18T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/irobot-promo-code/",
+    "title": "iRobot Promo Code: 15% Off",
+    "description": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-18T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png",
     "source_name": "WIRED.COM"
   },
   {
@@ -2194,74 +2265,5 @@
     "pub_date": "2026-09-17T18:12:44+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/07gWO58MGWEVLStd3xAmD9o/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/besiktas-marseille-europa-league-2026-live-stream-for-free",
-    "title": "How to watch Beşiktaş vs. Marseille online for free",
-    "description": "How to watch Europa League for free. Live steam Beşiktaş vs. Marseille in the Europa League for free from anywhere in the world.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-17T18:12:33+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04hTKOJrIZG3liY1PCKaPRV/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/pinterest-visual-search-ads-performance-restyle",
-    "title": "Pinterest launches Visual Search Ads at its advertiser summit",
-    "description": "“Traditional search advertising has long relied on keywords, but in an AI-driven world, people are expressing themselves in much richer ways,” said Bill Ready, chief executive of Pinterest. The company announced Visual Search Ads on 17 September at Pinterest Presents, its annual advertiser summit. The format places advertisers in Pinterest search results and in Pin",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Social & Media"
-    ],
-    "pub_date": "2026-09-17T18:11:26+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/pinterest-san-francisco-headquarters-lobby.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/nuri-rocket-launch-heralds-south-koreas-first-microsatellite-constallation-and-shows-it-might-have-the-technology-to-launch-its-own-starlink",
-    "title": "Nuri rocket launch heralds South Korea’s first microsatellite constallation — and shows it might have the technology to launch its own Starlink",
-    "description": "The first domestic microsatellite launch in South Korea’s growing space program is deploying 15 orbiting research and communications satellites.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-17T18:05:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/9Km7ky9AU7NcrTGcdP5ZTe-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/nvidia-huang-double-chips-europe",
-    "title": "Nvidia’s Huang expects to sell twice as many chips next year",
-    "description": "Jensen Huang told reporters at King Charles III’s AI summit in Scotland that he expects to sell twice as many chips in the coming year. Nvidia’s own August guidance was 70% revenue growth, with a doubling described as what the company could reach if it had enough supply. Jensen Huang expects to sell twice as",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-17T18:01:41+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/jensen-huang-speaking-lectern-taiwan.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/treble-18m-series-a2-acoustic-simulation-physical-ai",
-    "title": "Treble raises $18m to give physical AI a sense of hearing",
-    "description": "“AI models and devices that perform well in a laboratory can struggle when they encounter reverberation, background noise, or an unfamiliar physical environment,” said Finnur Pind, co-founder and chief executive of Treble Technologies. The Reykjavík company has raised $18m, about €15m, in a Series A-2 round, it announced on 17 September. Paladin Capital Group led",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-17T17:57:23+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/finnur-pind-treble-anechoic-chamber.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/17/here-are-100-things-siri-ai-can-do-on-your-iphone/",
-    "title": "Here are 100+ things Siri AI can do on your iPhone",
-    "description": "iOS 27 launched this week with the all-new Siri AI. David Pogue put the new Siri to the test by trying 125 requests, here’s how it went.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-17T17:49:13+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai.webp?w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
