@@ -1,5 +1,18 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+    "title": "India forces caller-ID apps to feed spam reports to telcos",
+    "description": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-19T01:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260918/p38#a260918p38",
     "title": "Sources: Anthropic considers releasing a new AI model to counter OpenAI's momentum since Astra's launch, ahead of an IPO and after Amodei's call for a slowdown (Reuters)",
     "description": "Reuters:\nSources: Anthropic considers releasing a new AI model to counter OpenAI's momentum since Astra's launch, ahead of an IPO and after Amodei's call for a slowdown  —  Anthropic is considering rolling out a new AI model to counter OpenAI's momentum since its launch of GPT-6 Astra …",
@@ -429,7 +442,6 @@
     "title": "Anthropic partners with Accenture to embed evaluators within Anthropic; they expect to invest $2B+ in building capacity in this area over the next five years (Anthropic)",
     "description": "Anthropic:\nAnthropic partners with Accenture to embed evaluators within Anthropic; they expect to invest $2B+ in building capacity in this area over the next five years  —  We're partnering with Accenture on independent evaluation of frontier AI.  This is an important step toward the commitment …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-18T21:01:04+00:00",
@@ -463,7 +475,6 @@
     "title": "Battery Replacement Has Gotten Pricier for Apple’s Latest iPhone 18 Pro Models",
     "description": "Most phone batteries degrade faster than we want them to.",
     "categories": [
-      "Breaking News",
       "Mobile & Telecom"
     ],
     "pub_date": "2026-09-18T20:46:49+00:00",
@@ -2274,17 +2285,5 @@
     "pub_date": "2026-09-18T13:30:00+00:00",
     "image_url": "https://media.wired.com/photos/6aac7385c5520f8d5bff0aea/master/pass/AdoptADataCenter-Bezzy-Sitting.png",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/angle-health-600m-vitruvian-partners-2-7bn-valuation",
-    "title": "Ex-Palantir engineers raise $600m to take on US health insurers",
-    "description": "“We did not set out to build another health insurance company,” said Ty Wang, co-founder and chief executive of Angle Health. The aim, he told the Wall Street Journal, was to stop “this kind of death spiral of cost within our healthcare system.” His company has just raised $600m at a $2.7bn valuation. Vitruvian Partners",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-18T13:28:40+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/angle-health-app-care-navigation-interface.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
