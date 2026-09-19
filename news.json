@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.techmeme.com/260919/p5#a260919p5",
+    "title": "A look at AI safety groups METR, Redwood Research, and Apollo Research, as AI misalignment incidents at OpenAI and Anthropic thrust them into the spotlight (Hayden Field/The Verge)",
+    "description": "Hayden Field / The Verge:\nA look at AI safety groups METR, Redwood Research, and Apollo Research, as AI misalignment incidents at OpenAI and Anthropic thrust them into the spotlight  —  On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-19T06:35:01+00:00",
+    "image_url": "http://www.techmeme.com/260919/i5.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/hacktron-claude-openai-bug-bounty-6500-guardrails-paper",
+    "title": "Three researchers used Claude to reach OpenAI’s internal code. OpenAI paid $6,500 and closed the hole in 14 hours.",
+    "description": "Three researchers at Hacktron AI used Anthropic’s Claude to chain two weaknesses and reach OpenAI employee accounts and an internal code repository, in under 72 hours. They disclosed privately, OpenAI patched the single sign-on flaw in about 14 hours, and the team was paid $6,500. Neither weakness was an AI vulnerability, and the research paper",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-19T06:27:52+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/claude-chatgpt-app-icons-iphone.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/geekom-a5-mini-pc-2027-edition-review-good-value-well-made-and-a-decent-user-experience-for-those-who-arent-excessively-ambitious",
     "title": "Geekom A5 mini PC 2027 Edition review: Good value, well-made, and a decent user experience for those who aren’t excessively ambitious",
     "description": "This mini PC keeps the same well-liked enclosure and upgrade-friendly layout as its predecessor, but swaps in a lower-power chip and a reworked cooling system.",
@@ -340,6 +365,7 @@
     "title": "Anthropic adds support for the AGENTS.md instructions spec to Claude Code; OpenAI contributed AGENTS.md to the Agentic AI Foundation last year (Thomas Claburn/The Register)",
     "description": "Thomas Claburn / The Register:\nAnthropic adds support for the AGENTS.md instructions spec to Claude Code; OpenAI contributed AGENTS.md to the Agentic AI Foundation last year  —  Devs cheer relief from compatibility headache  —  Anthropic on Friday surprised the developer community by supporting rival OpenAI's mechanism for passing marching orders to AI agents.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-19T01:40:00+00:00",
@@ -2238,27 +2264,5 @@
     "pub_date": "2026-09-18T14:55:02+00:00",
     "image_url": "http://www.techmeme.com/260918/i16.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/vivit-africa-lng-suspected-cyberattack-italy",
-    "title": "Third tanker in a month hit by a suspected cyber incident, this time carrying US gas to Europe",
-    "description": "An LNG tanker carrying American liquefied natural gas to Italy stopped short of its destination this month, after its crew found they could no longer reach some of the ship’s internal control systems. The crew reported it as a suspected cyberattack, but what it actually was has not been established. The Vivit Africa LNG was",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-18T14:53:26+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/LNG-Liquified-Natural-Gas-tanker-.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/18/apple-intelligence-now-requires-almost-double-the-iphone-storage-on-latest-models/",
-    "title": "Apple Intelligence now requires almost double the iPhone storage on latest models",
-    "description": "iOS 27 launched this week with a major overhaul to Apple Intelligence. And while many iPhones have the same AI storage requirements as before, for certain models you’ll need nearly double the free storage.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-18T14:52:31+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-ai-iphone-18-pro-blue.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
