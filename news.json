@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.engadget.com/2263198/google-gemini-escaped-testing-environment-hacked-three-companies/",
+    "title": "Google Gemini also escaped its testing environment and hacked three companies",
+    "description": "Google's AI model hacked real companies during testing due to a misconfiguration by its testing partner, as well.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-19T13:05:53+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/google-gemini-also-escaped-its-testing-environment-and-hacked-three-companies/l-intro-1789822859.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
     "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
     "description": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
@@ -13,6 +25,42 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
+    "link": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
+    "title": "It’s not just LG. Every TV company is spying on you",
+    "description": "The TV world has been a pot of controversy thanks to a two-hour-and-15-minute video from Gamers Nexus claiming LG TVs are nefariously spying on everything you do. They can record and store audio even when they seem to be off, track everything you watch, and could even be hacked remotely and turned into covert surveillance",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-19T13:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258078_LG_G5_OLED_TV_JHiggins_0005.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+    "title": "The AI regulation smackdown isn’t over",
+    "description": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-19T13:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2257816/cool-projects-home-assistant-raspberry-pi/",
+    "title": "4 cool projects you can do with Home Assistant on Raspberry Pi",
+    "description": "Smart home automation is more versatile than ever with Home Assistant and a Raspberry Pi. Check out what they can do.",
+    "categories": [
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-19T13:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/4-cool-projects-you-can-do-with-home-assistant-on-raspberry-pi/l-intro-1788958332.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/09/19/apple-work-password-management-is-still-hard-and-dashlanes-new-vault-enforcement-admits-it/",
     "title": "Apple @ Work: Enterprise oassword management is still hard, and Dashlane’s new Vault Enforcement aims to fix it",
     "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\n\n\n\nThere was a post on X going viral a few weeks ago about password management. The password keeper book is more secure than most people want to admit. As the user said: Reminder that it is quite difficult to hack a piece of paper. Nobody is gonna zero day a book on a shelf in your house, and if they are somehow motivated enough to steal it, you have bigger things to worry about then your facebook password leaking…\n\n\n\nWith that being said, I still believe a properly implemented password management tool is one of the best security measures you can deploy in your organization. Dashlane is rolling out a new solution to help better secure credentials in the enterprise.\n\n\n\n more…",
@@ -22,6 +70,28 @@
     "pub_date": "2026-09-19T13:00:00+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techradar.com/streaming/entertainment/black-panther-3-hub",
+    "title": "Black Panther 3: release date, confirmed cast, and everything else we know about the Marvel Phase 7 movie so far",
+    "description": "Black Panther 3 is one of three films confirmed to be part of MCU Phase 7 — here's what we know about it.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-19T13:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/j2KKRE2VTdTM83t7CZ5f2h-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/streaming/amazon-prime-video/reacher-season-5",
+    "title": "Reacher season 5: everything we know so far about the hit Prime Video show's return",
+    "description": "Thankfully, Reacher season 5 was renewed before season 4 was even released on Prime Video — and the book it will be based on is a corker.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-19T13:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/waAsQQw5hho4rvzqPTtagY-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://mashable.com/entertainment/brighton-arsenal-premier-league-2026-live-stream-for-free",
@@ -2190,74 +2260,5 @@
     "pub_date": "2026-09-18T17:45:00+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260918/p21#a260918p21",
-    "title": "Mistral and other European AI startups accuse US rivals of using safety concerns to entrench their dominance, rejecting Anthropic's calls to pace the frontier (Reuters)",
-    "description": "Reuters:\nMistral and other European AI startups accuse US rivals of using safety concerns to entrench their dominance, rejecting Anthropic's calls to pace the frontier  —  Europe's leading AI company Mistral and others have accused US rivals of using safety concerns to entrench their dominance …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-18T17:40:01+00:00",
-    "image_url": "http://www.techmeme.com/260918/i21.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/chinas-salt-typhoon-spotted-probing-latin-american-government-with-newly-developed-sparrowocky-backdoor",
-    "title": "China's Salt Typhoon spotted probing Latin American government with newly developed SparroWocky backdoor",
-    "description": "The group has been focused on Latin America for almost a year now.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-18T17:35:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/MmBupUuqfKaoWhB7xEsZC7-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-    "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-    "description": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
-    "categories": [
-      "AI & Machine Learning",
-      "Social & Media",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-18T17:33:50+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://mashable.com/life/duncan-sheik-dead-spring-awakening-composer-teenage-feelings-fandom",
-    "title": "Duncan Sheik soundtracked a generation of extremely online theater kids",
-    "description": "Duncan Sheik, the \"Barely Breathing\" singer and \"Spring Awakening\" composer, has died at 56. His Broadway music became an obsession for a generation of online fans.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-18T17:32:06+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01RMYViE6ILXmBtu5oZkd7H/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
-    "title": "US government website used Chinese model the FBI called \"malicious\"",
-    "description": "The Federal Register website briefly used an open source Chinese AI search tool.",
-    "categories": [
-      "AI & Machine Learning",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-09-18T17:28:50+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2260760373-1024x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/xteink-s4-android-e-reader-china-availability",
-    "title": "Xteink is reportedly making an Android e-reader — but its not available in the US yet",
-    "description": "Xteink e-readers are the trendiest e-readers of the moment. An Android version is coming, but it's only available in China. Here's what we know so far.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-18T17:28:31+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04ozSJBDqq4qhDYKUYwN0wW/hero-image.png",
-    "source_name": "MASHABLE.COM"
   }
 ]
