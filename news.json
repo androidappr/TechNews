@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.wired.com/story/amazon-prime-day-early-deals-09-29-2026/",
+    "title": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
+    "description": "Amazon Prime Big Deal Days officially begin on October 6 and 7, but I’ve already spotted early discounts on gear our team recommends.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-19T09:39:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aade6d4a9e8cfe3a855c8d8/master/pass/Prime-Day-Deals-Are-Already-Here.-These-Are-the-Ones-I%E2%80%99d-Buy.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/weve-spent-billions-defending-software-its-time-to-protect-execution",
+    "title": "We’ve spent billions defending software. It’s time to protect execution",
+    "description": "Cybersecurity has a fundamental blind spot. We spend enormous sums protecting software while the processor underneath it blindly executes whatever instructions it receives. That has to change. For the billions of embedded systems running cars, medical devices, industrial controllers, network equipment, and critical infrastructure, security needs an independent layer that can watch processors execute instructions. The",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-19T09:34:18+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/developer-at-screen-code-reflection.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/residents-harmed-by-oil-drilling-may-soon-receive-reparations-under-new-california-law/",
+    "title": "Residents Harmed by Oil Drilling May Soon Receive Reparations Under New California Law",
+    "description": "While lawmakers iron out the details, advocates hope this approach could serve as a model for addressing histories of environmental hazards often concentrated in Black and low-income neighborhoods.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-19T09:30:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aad6cbb8ffbfab4b483eaae/master/pass/IMG_2220.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.androidcentral.com/apps-software/ai/googles-gemini-went-rogue-and-breached-three-companies",
     "title": "Google’s Gemini went rogue and breached three companies",
     "description": "Gemini is the latest major model to escape its containment sandbox during safety testing, following similar incidents involving OpenAI, Anthropic, and Meta.",
@@ -554,7 +589,6 @@
     "title": "Vantora, formerly UP.Labs, which builds AI-native startups designed to solve problems for corporate customers, raised $100M+ from Silversmith Capital Partners (Kirsten Korosec/TechCrunch)",
     "description": "Kirsten Korosec / TechCrunch:\nVantora, formerly UP.Labs, which builds AI-native startups designed to solve problems for corporate customers, raised $100M+ from Silversmith Capital Partners  —  Four years ago, a startup lab launched that wasn't quite an incubator, accelerator program, or venture firm.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-19T05:40:01+00:00",
@@ -2232,41 +2266,6 @@
     ],
     "pub_date": "2026-09-18T16:10:33+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/n6XEFFfhcuerQhqJSTK22F-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/phones/iphone/this-is-what-its-like-to-be-the-first-person-on-the-new-iphone-18-pro-line-at-the-apple-store",
-    "title": "This is what it's like to be the first person on the new iPhone 18 Pro line at the Apple Store",
-    "description": "Apple officially launched the iPhone 18 Pro Max at its Flagship Store in Manhattan, and we were there for Apple CEO John Ternus' big moment and to chat with Customer Number 1.",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-18T16:10:30+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/SV4oCxtcJTTeVgA9KRCoHY-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/nexperia-tata-electronics-chip-manufacturing-india",
-    "title": "Nexperia will make chips in India with Tata as it splits from Wingtech",
-    "description": "“We are thrilled to partner with Nexperia for manufacturing their products at our semiconductor facilities in Dholera and Jagiroad,” said Randhir Thakur, chief executive of Tata Electronics. The Dutch chipmaker and the Indian manufacturer announced a partnership on Thursday covering chip production and packaging in India. They issued the joint statement from Nijmegen and New",
-    "categories": [
-      "Business & Startups",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-09-18T16:10:08+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/nexperia-tata-electronics-partnership-logos.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/us-inherits-venezuelan-surveillance-state-built-on-banned-chinese-tech-and-ai-and-it-shows-no-signs-of-switching",
-    "title": "US inherits Venezuelan surveillance state built on banned Chinese tech and AI — and it shows no signs of switching",
-    "description": "Venezuela's surveillance network is built on Chinese tech, and the new president wanted Chinese AI implemented as well.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-18T16:05:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/MH2rn9ZWxNjT4G8scjDexk-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   }
 ]
