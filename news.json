@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.wired.com/story/productivity-app-tasks-txt-is-just-a-text-document/",
+    "title": "Tired of Cluttered Productivity Apps? This One’s Just a Text Document",
+    "description": "The totally free macOS app Tasks.txt makes up for missing features with sheer elegance.",
+    "categories": [
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-19T10:30:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aacfa7099aa97f60264424c/master/pass/091826-Productivity%20Doc.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.wired.com/review/samsung-galaxy-watch9/",
     "title": "Samsung Galaxy Watch9 Review: I Don’t Need Another Health Score",
     "description": "Samsung’s latest smartwatch offers useful health tracking alongside a growing pile of metrics you may never use.",
@@ -541,7 +552,6 @@
     "title": "A look at AI safety groups METR, Redwood Research, and Apollo Research, as AI misalignment incidents at OpenAI and Anthropic thrust them into the spotlight (Hayden Field/The Verge)",
     "description": "Hayden Field / The Verge:\nA look at AI safety groups METR, Redwood Research, and Apollo Research, as AI misalignment incidents at OpenAI and Anthropic thrust them into the spotlight  —  On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-19T06:35:01+00:00",
@@ -2255,16 +2265,5 @@
     "pub_date": "2026-09-18T16:20:01+00:00",
     "image_url": "http://www.techmeme.com/260918/i18.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/fbi-confirms-two-texas-bound-oil-tankers-hit-by-hackers-who-disabled-coms-and-put-the-engines-into-overdrive-and-iran-is-possibly-to-blame",
-    "title": "FBI confirms two Texas-bound oil tankers hit by hackers who disabled coms and put the engines into overdrive — and Iran is possibly to blame",
-    "description": "The FBI had to board at least one of the vessels to investigate the incident.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-18T16:20:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/GJ8T4oA8G7TYJwTEhkwJAF-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
