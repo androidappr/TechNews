@@ -63,6 +63,7 @@
     "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
     "description": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
     "categories": [
+      "AI & Machine Learning",
       "Breaking News",
       "Social & Media"
     ],
@@ -191,17 +192,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.engadget.com/2257610/how-focus-mode-changed-ios-27/",
-    "title": "How Focus mode has changed in iOS 27",
-    "description": "iOS 27 brings tons of cool upgrades to your iPhone. Don't miss the interesting-yet-subtle changes to Focus.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-18T23:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/how-focus-mode-has-changed-in-ios-27/l-intro-1789400547.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
     "link": "https://www.techradar.com/how-to-watch/sport/asian-games-2026-free",
     "title": "How to watch Asian Games 2026: FREE live streams, TV channels, schedule",
     "description": "All the ways to watch Asian Games 2026 for free from anywhere, with Alexandra Eala, Pan Zhanle and Rumesh Pathirage amongst the headline acts at Aichi–Nagoya.",
@@ -247,6 +237,17 @@
     "pub_date": "2026-09-18T23:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/XrpFgcngWrtXQscKdLLAZB-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2257610/how-focus-mode-changed-ios-27/",
+    "title": "How Focus mode has changed in iOS 27",
+    "description": "iOS 27 brings tons of cool upgrades to your iPhone. Don't miss the interesting-yet-subtle changes to Focus.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-18T23:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-focus-mode-has-changed-in-ios-27/l-intro-1789400547.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.techmeme.com/260918/p33#a260918p33",
@@ -323,7 +324,6 @@
     "title": "Quote of the day by ex-OpenAI chief scientist and SSI co-founder Ilya Sutskever: 'AI will keep getting better and the day will come when AI will do all the things that we can do' — a staggering prediction about a future superintelligence",
     "description": "Scientists predict that AI will one day be able to outdo humans on not just some, but all, tasks that we currently excel in",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-18T22:00:00+00:00",
@@ -596,7 +596,7 @@
       "Government & Policy"
     ],
     "pub_date": "2026-09-18T20:26:33+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2249618531-1152x648.jpg",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chinese-cargo-ship-ai-target-1152x648.jpg",
     "source_name": "ARSTECHNICA.COM"
   },
   {
