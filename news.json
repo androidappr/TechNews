@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://9to5google.com/2026/09/18/gemini-macos-imessage/",
+    "title": "Gemini app for macOS adding send and read iMessage integration",
+    "description": "Google’s latest update to the Gemini app for macOS readies local iMessage integration. This follows the app coming to Windows last week.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-18T23:57:57+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Gemini-Mac-App-2.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5GOOGLE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260918/p37#a260918p37",
+    "title": "Ad tech company Infillion says it is acquiring Foursquare, which will continue operating as an independent brand (Kerry Flynn/Axios)",
+    "description": "Kerry Flynn / Axios:\nAd tech company Infillion says it is acquiring Foursquare, which will continue operating as an independent brand  —  Infillion is acquiring location data company Foursquare, founder and executive chairman Rob Emrich tells Axios exclusively. … Foursquare will continue operating …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-18T23:50:03+00:00",
+    "image_url": "http://www.techmeme.com/260918/i37.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
     "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
     "description": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
@@ -45,7 +69,6 @@
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
-      "Business & Startups",
       "Government & Policy"
     ],
     "pub_date": "2026-09-18T23:12:32+00:00",
@@ -607,7 +630,6 @@
     "title": "NASA Invites Media to Albania Artemis Accords Signing Ceremony",
     "description": "The Republic of Albania will sign the Artemis Accords during a ceremony at 12 p.m. EDT on Monday, Sept. 21, at NASA Headquarters in Washington, becoming the 73rd country signatory. NASA Deputy Administrator Matt Anderson will host Albania’s Minister for Europe and Foreign Affairs Ferit Hoxha and Ambassador of the Republic of Albania to the",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-18T19:56:08+00:00",
@@ -619,7 +641,6 @@
     "title": "NASA’s new Roman Space Telescope sees starlight for the first time",
     "description": "NASA’s Roman Space Telescope has captured its first starlight. The blurry test image will help engineers prepare the telescope for its first science images, expected in early 2027.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-09-18T19:55:34+00:00",
@@ -850,7 +871,6 @@
     "title": "Disney’s first CTO is Character.AI’s former CEO",
     "description": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will report directly to recently",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-18T18:27:04+00:00",
@@ -953,7 +973,6 @@
     "description": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Social & Media"
     ],
@@ -1032,7 +1051,6 @@
     "title": "Meta’s new Muse AI agent app overtakes ChatGPT as top iPhone app",
     "description": "Meta’s new Muse AI agent app has taken the top spot on the free iPhone charts for the U.S. App Store, displacing OpenAI’s ChatGPT from the first place.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-18T17:47:37+00:00",
@@ -2279,29 +2297,5 @@
     "pub_date": "2026-09-18T13:05:00+00:00",
     "image_url": "http://www.techmeme.com/260918/i14.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/vpn/vpn-services/mullvad-has-silently-revamped-its-android-vpn-app-heres-what-you-need-to-know",
-    "title": "Mullvad has silently revamped its Android VPN app — here’s what you need to know",
-    "description": "Mullvad has rolled out a new update to its Android VPN app that brings an interactive server map and new multi-hop function. The provider has also alerted its users to a vulnerability in this version, which it plans to resolve soon.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-18T13:04:17+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/JhREgRH5uPRCdcKqDqxEAH-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/metas-copyright-system-is-being-weaponized-against-albanian-protesters/",
-    "title": "Meta’s Copyright System Is Being Weaponized Against Albanian Protesters",
-    "description": "After three months of daily anti-government protests—dubbed the Flamingo Revolution—the sudden mass suspension of Instagram accounts has led to fears of brigading against demonstrators.",
-    "categories": [
-      "Cybersecurity & Privacy",
-      "Social & Media"
-    ],
-    "pub_date": "2026-09-18T13:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aaa98e271eb023ce9cd04f2/master/pass/091626-Flaminggo%20Albania%20Meta.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
