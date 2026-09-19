@@ -133,17 +133,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/",
-    "title": "Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear",
-    "description": "The SkyNomad—with heated floors, a projector, a pop-up roof, a fridge, swiveling seats, and over 1,000 miles of range—is a “luxury” ride that undercuts Range Rovers by tens of thousands of dollars.",
-    "categories": [
-      "Government & Policy"
-    ],
-    "pub_date": "2026-09-19T06:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aacf62f3ad4bc5bf850d26b/master/pass/8cd1c1fbdbb04c342381a7b512b285b2.png",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.techradar.com/how-to-watch/sport/roosters-vs-sharks-free-nrl-semi-final-2026",
     "title": "How to watch Roosters vs Sharks: FREE streams, TV channels for NRL Semi-Final 2026",
     "description": "All the ways to watch Roosters vs Sharks live streams – including for FREE – in an NRL Semi-Final 2026 that's too close to call.",
@@ -180,6 +169,17 @@
     "source_name": "MASHABLE.COM"
   },
   {
+    "link": "https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/",
+    "title": "Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear",
+    "description": "The SkyNomad—with heated floors, a projector, a pop-up roof, a fridge, swiveling seats, and over 1,000 miles of range—is a “luxury” ride that undercuts Range Rovers by tens of thousands of dollars.",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-19T06:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aacf62f3ad4bc5bf850d26b/master/pass/8cd1c1fbdbb04c342381a7b512b285b2.png",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260919/p3#a260919p3",
     "title": "Vantora, formerly UP.Labs, which builds AI-native startups designed to solve problems for corporate customers, raised $100M+ from Silversmith Capital Partners (Kirsten Korosec/TechCrunch)",
     "description": "Kirsten Korosec / TechCrunch:\nVantora, formerly UP.Labs, which builds AI-native startups designed to solve problems for corporate customers, raised $100M+ from Silversmith Capital Partners  —  Four years ago, a startup lab launched that wasn't quite an incubator, accelerator program, or venture firm.",
@@ -202,30 +202,6 @@
     "pub_date": "2026-09-19T05:10:01+00:00",
     "image_url": "http://www.techmeme.com/260919/i2.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
-    "title": "Paramount+ Coupon Codes and Deals for September 2026",
-    "description": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-19T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/bh-photo-coupon/",
-    "title": "B&H Photo Promo Codes and Deals This September 2026",
-    "description": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-19T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
-    "source_name": "WIRED.COM"
   },
   {
     "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
@@ -294,6 +270,30 @@
     "pub_date": "2026-09-19T05:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/03sSKfO3VbWrkOz5HIondec/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
+    "title": "Paramount+ Coupon Codes and Deals for September 2026",
+    "description": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-19T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/bh-photo-coupon/",
+    "title": "B&H Photo Promo Codes and Deals This September 2026",
+    "description": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-19T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
+    "source_name": "WIRED.COM"
   },
   {
     "link": "https://www.techmeme.com/260919/p1#a260919p1",
@@ -449,7 +449,6 @@
     "title": "Anthropic adds support for the AGENTS.md instructions spec to Claude Code; OpenAI contributed AGENTS.md to the Agentic AI Foundation last year (Thomas Claburn/The Register)",
     "description": "Thomas Claburn / The Register:\nAnthropic adds support for the AGENTS.md instructions spec to Claude Code; OpenAI contributed AGENTS.md to the Agentic AI Foundation last year  —  Devs cheer relief from compatibility headache  —  Anthropic on Friday surprised the developer community by supporting rival OpenAI's mechanism for passing marching orders to AI agents.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-19T01:40:00+00:00",
