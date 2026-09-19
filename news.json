@@ -554,7 +554,6 @@
     "description": "Three researchers at Hacktron AI used Anthropic’s Claude to chain two weaknesses and reach OpenAI employee accounts and an internal code repository, in under 72 hours. They disclosed privately, OpenAI patched the single sign-on flaw in about 14 hours, and the team was paid $6,500. Neither weakness was an AI vulnerability, and the research paper",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-09-19T06:27:52+00:00",
