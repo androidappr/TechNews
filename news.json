@@ -1,5 +1,57 @@
 [
   {
+    "link": "https://thenextweb.com/news/zai-zcode-encrypted-upload-only-zai-can-verify",
+    "title": "Z.ai encrypted the workspace it uploaded so that only Z.ai could open it. Now only Z.ai can say it was deleted.",
+    "description": "A Chinese developer who writes as Ferstar looked inside ZCode’s local directory on Friday and found a 313MB encrypted archive waiting to be sent to Alibaba’s cloud storage. It had failed 564 times. A smaller file had already gone. Minxiao Chang and Wency Chen reported the account for the South China Morning Post. The archive",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-20T18:40:28+00:00",
+    "image_url": "https://media.thenextweb.com/2026/06/Zhipu-AI-Logo.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/20/five-ways-that-the-new-siri-ai-is-frustrating-iphone-and-apple-watch-users/",
+    "title": "Five ways that the new Siri AI is frustrating iPhone and Apple Watch users",
+    "description": "The new version of Siri, Siri AI, launched to the masses this month as part of iOS 27. The new Siri is rolling out gradually to users via a waitlist, and is labelled as a ‘beta’ indicating that Apple still has some work to do in follow-up releases.\n\n\n\nThe new Siri is much better at answering questions with access to rich knowledge, can search through your messages and notes for personal context queries, and can take action based on what is on your screen with onscreen awareness. However, the new Siri is not being welcomed with open arms by everyone …\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-20T18:35:12+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/microsoft-meta-lost-billions-on-vr-headsets-snap-thinks-its-usd2-195-ar-glasses-will-change-the-game-as-it-teams-up-with-nvidia-salesforce-and-aws-to-crack-the-enterprise-market",
+    "title": "Microsoft, Meta lost billions on VR headsets — but Snap thinks its $2,195 AR glasses will change the game as it teams up with Nvidia, Salesforce and AWS to crack the enterprise market",
+    "description": "Snap is taking its $2,195 AR glasses into enterprise computing through Nvidia, Salesforce, and AWS partnerships and its new Specs Intelligence service.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-20T18:35:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/9a9d3Y5MVE792bzAWY5bSg-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+    "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+    "description": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-20T18:32:52+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation",
     "title": "Kojima Productions disputes reports the studio is in trouble",
     "description": "After it was announced that Sony was dropping Hideo Kojima's Physint, and that instead the Metal Gear Solid creator's latest title would be coming to Xbox, there were a flurry of rumors about the falling out. Bloomberg reported that the decision was driven by a number of factors, including missed deadlines, budget and profitability concerns,",
@@ -49,6 +101,17 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
+    "link": "https://www.techradar.com/computing/websites-apps/speechify",
+    "title": "Speechify is pricey, but it’s also completely transformed how I digest information",
+    "description": "Homescreen Heroes: Speechify can read out documents, images, websites, and more",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-20T18:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/gmphvjNGc9CpcvhY4Cx2EM-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techradar.com/televisions/samsung-r95h-review",
     "title": "I tested the Samsung R95H RGB TV — and while OLED is still the top dog, this TV shows that RGB mini-LED has massive potential",
     "description": "The Samsung R95H is a successful first foray into RGB TVs for the brand, and while the tech still can't quite topple OLED, it's a sign of what RGB mini-LED tech is capable of.",
@@ -58,17 +121,6 @@
     ],
     "pub_date": "2026-09-20T18:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/n79LPLj6QzAnRdFaTpbkzA-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/websites-apps/speechify",
-    "title": "Speechify is pricey, but it’s also completely transformed how I digest information",
-    "description": "Homescreen Heroes: Speechify can read out documents, images, websites, and more",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-20T18:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/gmphvjNGc9CpcvhY4Cx2EM-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -465,17 +517,6 @@
     "source_name": "CNET.COM"
   },
   {
-    "link": "https://www.techradar.com/streaming/bbc-iplayer/the-split-up-creators-want-three-seasons-to-tell-full-split-spinoff-story-on-bbc-iplayer-and-wont-rule-out-a-future-nicola-walker-crossover",
-    "title": "The Split Up creators want three seasons to tell full Split spinoff story on BBC iPlayer — and won't rule out a future Nicola Walker crossover",
-    "description": "If you loved The Split, spinoff The Split Up arrives on BBC iPlayer from September 20. Could there be a full crossover in the future? Creators won't rule it out.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-20T13:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/tNbUe2eYLX3ypthQhVR3hV-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/computing/gaming-pcs/five-things-that-the-steam-deck-2-needs-to-feature-to-compete-with-its-rivals-in-2027-and-beyond",
     "title": "Five things that the Steam Deck 2 needs to feature to compete with its rivals in 2027... and beyond",
     "description": "I go through everything that a prospective Steam Deck successor would need to include to be viable against the fierce competition that has emerged in the last half-decade.",
@@ -484,6 +525,17 @@
     ],
     "pub_date": "2026-09-20T13:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/Uov7JhPec7iAaTZfnS4SxG-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/streaming/bbc-iplayer/the-split-up-creators-want-three-seasons-to-tell-full-split-spinoff-story-on-bbc-iplayer-and-wont-rule-out-a-future-nicola-walker-crossover",
+    "title": "The Split Up creators want three seasons to tell full Split spinoff story on BBC iPlayer — and won't rule out a future Nicola Walker crossover",
+    "description": "If you loved The Split, spinoff The Split Up arrives on BBC iPlayer from September 20. Could there be a full crossover in the future? Creators won't rule it out.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-20T13:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/tNbUe2eYLX3ypthQhVR3hV-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2202,49 +2254,5 @@
     "pub_date": "2026-09-19T12:01:56+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Weekend-deals-AirPods-Series-12-MacBook.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/gpu/why-the-future-of-intel-arc-graphics-is-looking-bleak-and-how-team-blue-could-mount-a-comeback-for-the-gpu-market",
-    "title": "Why the future of Intel Arc Graphics is looking bleak... and how Team Blue could mount a comeback and take on Nvidia and AMD",
-    "description": "With Celestial MIA and the status of Druid being anyone's guess, the future of Intel's Arc Graphics division appears unclear. Could the company be fully pivoting into handhelds, or is there hope for a third-generation line of dedicated desktop GPUs after all?",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-19T12:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/VHiu9MREXNTM9biGJCZdMi-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2257814/laptop-stuck-pixel-causes-fixes/",
-    "title": "What causes a stuck pixel on your laptop and can it be fixed?",
-    "description": "Stuck pixels don't have to be a death sentence for your laptop, as there are several options that can bring them back to life.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-19T12:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/what-causes-a-stuck-pixel-on-your-laptop-and-can-it-be-fixed/l-intro-1788888527.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/19/iphone-18-pro-max-still-uses-a-qualcomm-modem-in-the-us-teardown-confirms/",
-    "title": "iPhone 18 Pro Max still uses a Qualcomm modem in the US, teardown confirms",
-    "description": "TechInsights has published one of the first in-depth iPhone 18 Pro Max teardowns. Most notably, the teardown confirms that the iPhone 18 Pro Max sold in the United States still uses a Qualcomm modem.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-19T11:45:46+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-41.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260919/p6#a260919p6",
-    "title": "ING: India's software services exports have risen to ~5.2% of GDP from 3.3% before the pandemic, as AI pushes the country's IT industry toward higher-value work (Anup Roy/Bloomberg)",
-    "description": "Anup Roy / Bloomberg:\nING: India's software services exports have risen to ~5.2% of GDP from 3.3% before the pandemic, as AI pushes the country's IT industry toward higher-value work  —  India's outsourcing industry is showing little sign of losing ground to artificial intelligence as the country moves …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-19T11:35:01+00:00",
-    "image_url": "http://www.techmeme.com/260919/i6.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
