@@ -1,5 +1,31 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+    "title": "Is the AI industry really ready to slow down?",
+    "description": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-20T18:56:04+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+    "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+    "description": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-20T18:50:18+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/zai-zcode-encrypted-upload-only-zai-can-verify",
     "title": "Z.ai encrypted the workspace it uploaded so that only Z.ai could open it. Now only Z.ai can say it was deleted.",
     "description": "A Chinese developer who writes as Ferstar looked inside ZCode’s local directory on Friday and found a 313MB encrypted archive waiting to be sent to Alibaba’s cloud storage. It had failed 564 times. A smaller file had already gone. Minxiao Chang and Wency Chen reported the account for the South China Morning Post. The archive",
@@ -50,6 +76,17 @@
     "pub_date": "2026-09-20T18:32:52+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/google-gemini-hacks-three-companies",
+    "title": "Google Gemini allegedly hacked three companies on its own",
+    "description": "Google Gemini autonomously hacked three external companies and Google didn't tell anyone.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-20T18:26:55+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00qaMAxFMmJdsTRHka2RbvU/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation",
@@ -374,7 +411,6 @@
     "title": "A closer look at the upcoming Siri AI-powered home hub, a key pillar of Apple's strategy for the home; sources: Apple started cutting Fitness+ staff (Mark Gurman/Bloomberg)",
     "description": "Mark Gurman / Bloomberg:\nA closer look at the upcoming Siri AI-powered home hub, a key pillar of Apple's strategy for the home; sources: Apple started cutting Fitness+ staff  —  Also: What happened with the iPhone Duo Pencil and layoffs at Fitness+.  —  Apple's new “intelligent personal hub” strategy is about much more than the iPhone.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-20T15:00:01+00:00",
@@ -472,17 +508,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.techradar.com/how-to-watch/american-football/bengals-vs-texans-free-2026-nfl-week-2-game",
-    "title": "How to watch Bengals vs Texans: Free Streams & TV Channels for 2026 NFL Week 2 game",
-    "description": "All the ways to watch Bengals vs Texans for free online, with Joe Burrow and CJ Stroud set to star in the 2026 NFL Week 2 game at Reliant Stadium.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-20T14:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/2oBonQJTTuBaG93JKYzapC-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/computing/virtual-reality-augmented-reality/7-things-to-expect-at-meta-connect-2026-from-camera-less-smart-glasses-to-meta-ray-ban-glasses-updates",
     "title": "7 things to expect at Meta Connect 2026 —from camera-less smart glasses to Meta Ray-ban glasses updates",
     "description": "Meta Connect 2026 kicks off soon and we're likely to see new smart glasses, AI improvements, and price hikes.",
@@ -491,6 +516,17 @@
     ],
     "pub_date": "2026-09-20T14:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/Vc9eDPgEyWGPEmhd2V9RLP-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/how-to-watch/american-football/bengals-vs-texans-free-2026-nfl-week-2-game",
+    "title": "How to watch Bengals vs Texans: Free Streams & TV Channels for 2026 NFL Week 2 game",
+    "description": "All the ways to watch Bengals vs Texans for free online, with Joe Burrow and CJ Stroud set to star in the 2026 NFL Week 2 game at Reliant Stadium.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-20T14:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/2oBonQJTTuBaG93JKYzapC-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -517,17 +553,6 @@
     "source_name": "CNET.COM"
   },
   {
-    "link": "https://www.techradar.com/computing/gaming-pcs/five-things-that-the-steam-deck-2-needs-to-feature-to-compete-with-its-rivals-in-2027-and-beyond",
-    "title": "Five things that the Steam Deck 2 needs to feature to compete with its rivals in 2027... and beyond",
-    "description": "I go through everything that a prospective Steam Deck successor would need to include to be viable against the fierce competition that has emerged in the last half-decade.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-20T13:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Uov7JhPec7iAaTZfnS4SxG-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/streaming/bbc-iplayer/the-split-up-creators-want-three-seasons-to-tell-full-split-spinoff-story-on-bbc-iplayer-and-wont-rule-out-a-future-nicola-walker-crossover",
     "title": "The Split Up creators want three seasons to tell full Split spinoff story on BBC iPlayer — and won't rule out a future Nicola Walker crossover",
     "description": "If you loved The Split, spinoff The Split Up arrives on BBC iPlayer from September 20. Could there be a full crossover in the future? Creators won't rule it out.",
@@ -536,6 +561,17 @@
     ],
     "pub_date": "2026-09-20T13:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/tNbUe2eYLX3ypthQhVR3hV-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/gaming-pcs/five-things-that-the-steam-deck-2-needs-to-feature-to-compete-with-its-rivals-in-2027-and-beyond",
+    "title": "Five things that the Steam Deck 2 needs to feature to compete with its rivals in 2027... and beyond",
+    "description": "I go through everything that a prospective Steam Deck successor would need to include to be viable against the fierce competition that has emerged in the last half-decade.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-20T13:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Uov7JhPec7iAaTZfnS4SxG-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2221,38 +2257,5 @@
     "pub_date": "2026-09-19T12:30:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-noise-cancelling-headphones/l-intro-1788878377.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://mashable.com/life/free-lego-batman-how-to-claim",
-    "title": "Lego is giving away free limited-edition Batman models — how to claim this weekend",
-    "description": "How to get free Lego. Limited-edition Batman models are available for free from Lego on Sept. 19 — how to qualify for this giveaway.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-19T12:25:05+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04EeFXblXrP3tvr50u33cry/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2262963/cool-japanese-gadgets-not-typically-found-in-united-states/",
-    "title": "10 Of The Coolest Japanese Gadgets You'll Almost Never See In The US",
-    "description": "Sure, we have plenty of neat products in the United States, but a look at these 10 gadgets really suggest Japan is in a consumer tech league of its own.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-19T12:15:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/10-of-the-coolest-japanese-gadgets-youll-almost-never-see-in-the-us/l-intro-1788283387.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/19/apple-weekend-deals-airpods-apple-watch/",
-    "title": "Apple weekend deals: AirPods up to $100 off, Apple Watch Series 12, MacBook Air, Mac mini, more",
-    "description": "Your weekend Apple deals have arrived, much like the first wave of iPhone 18 Pro orders and all of the discounts we are tracking on cases and accessories as part of Amazon’s early fall Prime Day deals. Those offers join a $50 price drop on AirPods Pro 3, and the $100 discount AirPods Max 2. \n\n\n\nAlongside some Apple Watch Series 12 and Apple Watch Ultra 4 price drops, we have the return of pre-order discounts on the new M6 Mac mini and Mac Studio joined by solid $150 price drops on M5 MacBook Air models, and more. Check it out below. \n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-19T12:01:56+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Weekend-deals-AirPods-Series-12-MacBook.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
