@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://thenextweb.com/news/firmus-ipo-october-timetable-asx",
+    "title": "Firmus will reportedly open its $5bn ASX float on 6 October",
+    "description": "Firmus will open the institutional bookbuild for its Australian listing on 6 October and begin trading on the ASX on 22 October, according to a term sheet reported by Reuters. The timetable appears in no public document, and no other outlet has it independently. The rest of the schedule runs from there: bookbuilding on 6",
+    "categories": [
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-21T07:23:29+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/Firmus-co-founders.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/facebook-instagram-outage-downdetector-september",
     "title": "Facebook and Instagram went down for US users on Sunday night",
     "description": "Facebook and Instagram stopped working for users across the United States on Sunday evening, with the outage tracker Downdetector logging more than 17,000 reports for Facebook and over 5,000 for Instagram by 9.11pm ET. Those are report counts, not user counts, and the distinction does real work here. Downdetector tallies problems that people voluntarily submit",
@@ -31,6 +42,17 @@
     "pub_date": "2026-09-21T07:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/pg4esiwdK5BrW4Zzb6NV8D-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/sept-21-microsoft-office-professional-2021-for-windows-lifetime-license",
+    "title": "Last chance: Get Microsoft Office for $33",
+    "description": "Get a lifetime license to Microsoft Office Professional 2021 for Windows for $32.97 (reg. $219.99) through Sept. 27, no Microsoft 365 subscription needed.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-21T07:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/07hV1EwRhEg05APLffXdCIE/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techmeme.com/260921/p6#a260921p6",
@@ -2209,28 +2231,5 @@
     "pub_date": "2026-09-19T17:45:27+00:00",
     "image_url": "http://www.techmeme.com/260919/i10.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-    "title": "Google’s Gemini is the latest AI model to hack other companies",
-    "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-19T17:30:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2258268/why-ipad-not-charging-fixes/",
-    "title": "Why is your iPad not charging (and how to fix it)",
-    "description": "You probably don't think about your iPad charging until it runs into trouble. When plugging it in doesn't work, you'll need to check its port and charger.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-19T17:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/why-is-your-ipad-not-charging-and-how-to-fix-it/l-intro-1789417211.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
