@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.techmeme.com/260921/p51#a260921p51",
+    "title": "Some startups, like Harvey, Abridge, Ramp, and Rogo, are embracing open-weight models or training their own models to reduce expensive reliance on frontier labs (Bloomberg)",
+    "description": "Bloomberg:\nSome startups, like Harvey, Abridge, Ramp, and Rogo, are embracing open-weight models or training their own models to reduce expensive reliance on frontier labs  —  The $15.6 billion legal startup Harvey built its business around training AI models like OpenAI's GPT-4 to do specialized work for lawyers.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-21T20:45:01+00:00",
+    "image_url": "http://www.techmeme.com/260921/i51.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
     "title": "California tightens rules on AI data center energy and water use",
     "description": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers, while forcing them to pay for upgrades to",
@@ -13,13 +25,24 @@
     "source_name": "THEVERGE.COM"
   },
   {
+    "link": "https://www.cnet.com/tech/services-and-software/amazon-blocks-metas-muse-ai/",
+    "title": "No Shirt, No Shoes, No Service: Amazon Blocks Meta’s Muse AI From Shopping",
+    "description": "Amazon has its own agentic AI option called Buy for Me, which could be behind the agentic turf war.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-21T20:27:31+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2293791920.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
     "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
     "description": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups"
+      "Breaking News"
     ],
     "pub_date": "2026-09-21T20:15:58+00:00",
     "image_url": null,
@@ -708,7 +731,6 @@
     "title": "Oura’s $2.2B IPO is mostly a payday for existing shareholders",
     "description": "Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion, according to Oura's latest IPO filing.",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware"
     ],
@@ -734,7 +756,6 @@
     "title": "Russel Vought will reportedly be given veto power over all NIH grants",
     "description": "Pending move comes over the objections of the NIH director.",
     "categories": [
-      "Breaking News",
       "Government & Policy",
       "Science & Environment"
     ],
@@ -747,8 +768,7 @@
     "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
     "description": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-21T16:38:51+00:00",
     "image_url": null,
@@ -771,7 +791,6 @@
     "title": "Hackers find huge security flaw in Flock’s surveillance cameras and extract 1.6 million images and 27,000 videos from just one device — and the company’s terrible reputation means many employees are looking to jump ship",
     "description": "Hackers have found millions of images and thousands of videos stored on a Flock camera.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-21T16:35:25+00:00",
@@ -783,8 +802,7 @@
     "title": "People are using ChatGPT for much more than writing and research — these are the 7 ideas I want to steal",
     "description": "Bored of ChatGPT? I went hunting through Reddit for the most useful, creative and unexpected ways people are actually using it.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-21T16:35:24+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/Cq9hBTNaQLnCc6hCAZbjmR-1920-80.jpg",
@@ -829,7 +847,6 @@
     "title": "John Ternus talks CEO offer, AI potential, more in new interview",
     "description": "In a lengthy new interview with Clique TV, Apple CEO John Ternus answered a range of questions covering what excites him about the future, how technology is used in his family, the offer to become CEO, his views on Vision Pro, and more.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-21T16:17:24+00:00",
@@ -936,6 +953,7 @@
     "description": "Amazon fought AI shopping agents on two fronts on Monday. It blocked Muse, Meta’s new AI assistant, from Amazon.com. It also filed an amended complaint against Perplexity, accusing the company of misleading a federal appeals court. The block came first. People who sent Muse to shop on Amazon over the weekend began seeing a popup.",
     "categories": [
       "AI & Machine Learning",
+      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-09-21T15:59:11+00:00",
@@ -1962,6 +1980,17 @@
     "source_name": "THEVERGE.COM"
   },
   {
+    "link": "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs",
+    "title": "I got to see Google&#8217;s wild ideas about the future of laptops",
+    "description": "There are a few things about using a Googlebook that immediately feel just right. The hardware is polished (since it's based on current laptops). The OS is familiar (if you've ever used a Chromebook). But most impressive, it integrates your Android phone with your PC so they feel more like one device. It's the culmination",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-21T13:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Acer_Googlebook_14_ADiBenedetto_0001_6d6558.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.wired.com/story/google-launches-googlebook-laptops/",
     "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
     "description": "Apple lovers have long enjoyed seamless connectivity between their iPhones and Macs. Now, Google’s bringing that experience to Android.",
@@ -1986,17 +2015,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.androidcentral.com/chromebooks-laptops/mediateks-new-3nm-chip-wants-to-power-fanless-ai-first-googlebooks",
-    "title": "MediaTek's new 3nm chip wants to power fanless, AI-first Googlebooks",
-    "description": "MediaTek's Dimensity CX C10 Max is the company's first high-end laptop chip, and it's headed for premium AI-first Googlebooks.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T13:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/7qURvypj47T43hKp8QLAEh-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
     "link": "https://www.androidcentral.com/chromebooks-laptops/the-first-googlebooks-are-here-powered-by-snapdragon-x-elite",
     "title": "The first Googlebooks are here, powered by Snapdragon X Elite",
     "description": "Qualcomm's Snapdragon X Elite now powers the first Googlebook laptops, built around Gemini Intelligence.",
@@ -2005,6 +2023,17 @@
     ],
     "pub_date": "2026-09-21T13:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/hwoFiPWWNjxZ83sWkEbiHW-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/chromebooks-laptops/mediateks-new-3nm-chip-wants-to-power-fanless-ai-first-googlebooks",
+    "title": "MediaTek's new 3nm chip wants to power fanless, AI-first Googlebooks",
+    "description": "MediaTek's Dimensity CX C10 Max is the company's first high-end laptop chip, and it's headed for premium AI-first Googlebooks.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-21T13:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/7qURvypj47T43hKp8QLAEh-1920-80.jpg",
     "source_name": "ANDROIDCENTRAL.COM"
   },
   {
@@ -2039,17 +2068,6 @@
     "pub_date": "2026-09-21T13:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/00ESXLycxj6lswJ5rsKYDZc/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs",
-    "title": "I got to see Google&#8217;s wild ideas about the future of laptops",
-    "description": "There are a few things about using a Googlebook that immediately feel just right. The hardware is polished (since it's based on current laptops). The OS is familiar (if you've ever used a Chromebook). But most impressive, it integrates your Android phone with your PC so they feel more like one device. It's the culmination",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-21T13:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Acer_Googlebook_14_ADiBenedetto_0001_6d6558.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.engadget.com/2263184/apple-mac-studio-m5-ultra-review/",
@@ -2307,28 +2325,5 @@
     "pub_date": "2026-09-21T12:12:15+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/videos/01A16Rc4eR2p1wHg0AvAOHi/hero-image.png",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260921/p23#a260921p23",
-    "title": "Crypto super PAC Fairshake plans to launch a $30M ad blitz against former Democratic Senator Sherrod Brown in the Ohio Senate race, after the Clarity Act failed (Theodore Schleifer/New York Times)",
-    "description": "Theodore Schleifer / New York Times:\nCrypto super PAC Fairshake plans to launch a $30M ad blitz against former Democratic Senator Sherrod Brown in the Ohio Senate race, after the Clarity Act failed  —  Angry after the defeat of a major crypto bill last week, the industry is planning to spend $30 million against Sherrod Brown in Ohio.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T12:10:00+00:00",
-    "image_url": "http://www.techmeme.com/260921/i23.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/streaming/sky-tv/the-wargame-uses-ai-generated-footage-to-simulate-russian-missile-attacks-on-uk-soil-in-shocking-new-sky-tv-documentary-series-this-is-not-real-but-it-could-be",
-    "title": "The Wargame uses AI-generated footage to simulate Russian missile attacks on UK soil in shocking new Sky TV documentary series — 'this is not real, but it could be'",
-    "description": "The Wargame is adding a biting sense of realism to Russia developments in the news this week — but critical scenes have been created using AI.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T12:02:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/qpJxBeduEcck9Y5Y3xNtMG-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
