@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+    "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+    "description": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-21T23:44:28+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2261587/argo-deep-drones-cover-98-percent-of-oceans-by-2028/",
+    "title": "These drones could cover up to 98 percent of the world's oceans by 2028",
+    "description": "New ocean-sensing drones are being built to withstand the deepest depths of the ocean.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-21T23:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/these-drones-could-cover-up-to-98-percent-of-the-worlds-oceans-by-2028/l-intro-1789666902.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/security/researchers-can-make-headphones-leak-audio-through-a-wall-but-the-30-meter-claim-has-a-few-caveats",
     "title": "Researchers can make headphones leak audio through a wall, but the 30-meter claim has a few caveats",
     "description": "Encryption can't stop InjectEave because the audio leaks after it's been decoded, but it does have its limitations.",
@@ -548,7 +573,6 @@
     "title": "X now tells users when local laws have reduced their posts' visibility",
     "description": "The latest addition to X's Under the Hood feature could stave off claims around shadowbanning.",
     "categories": [
-      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-09-21T19:44:35+00:00",
@@ -839,7 +863,6 @@
     "title": "X will now tell users when governments have forced it to limit their posts",
     "description": "X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.",
     "categories": [
-      "Breaking News",
       "Government & Policy",
       "Social & Media",
       "Software & Apps"
@@ -2265,28 +2288,5 @@
     "pub_date": "2026-09-21T13:10:01+00:00",
     "image_url": "http://www.techmeme.com/260921/i25.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260921/p24#a260921p24",
-    "title": "Google unveils Googlebook hardware, with flagship devices from Acer, ASUS, Dell, HP, and Lenovo, offering deep Android integration, coming in October for $899+ (Abner Li/9to5Google)",
-    "description": "Abner Li / 9to5Google:\nGoogle unveils Googlebook hardware, with flagship devices from Acer, ASUS, Dell, HP, and Lenovo, offering deep Android integration, coming in October for $899+  —  Googlebook OS hands-on: It's Android, stupid  —  Software  —  Google's main pitch is that Googlebooks should be the laptop of choice for those with Android phones:",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T13:03:55+00:00",
-    "image_url": "http://www.techmeme.com/260921/i24.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
-    "title": "These are the first five Googlebook laptops",
-    "description": "Google and partners are finally announcing the first laptops under the new Googlebook banner. There are five models from Acer, Asus, Dell, HP, and Lenovo to kick things off. They're available for preorder starting today and arrive in stores on October 4th. Starting prices range from $899 to $1,299, putting the Googlebooks in the same",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-21T13:01:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Acer_Googlebook_14_ADiBenedetto_0014.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
