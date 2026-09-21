@@ -1,5 +1,42 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+    "title": "California tightens rules on AI data center energy and water use",
+    "description": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers, while forcing them to pay for upgrades to",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-21T20:29:45+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2286055476.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "description": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-21T20:15:58+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/1-58-million-staff-amazon-will-soon-have-more-nvidia-gpus-than-employees-aws-to-buy-more-than-3-million-additional-chips-before-2029-in-addition-to-thousands-of-existing-h100-h200",
+    "title": "1.58-million-staff Amazon will soon have more Nvidia GPUs than employees — AWS to buy more than 3 million additional chips before 2029 in addition to thousands of existing H100, H200",
+    "description": "Amazon has fewer employees than the more than 3 million Nvidia GPUs on order for delivery before 2029, even as its Trainium3 chips are already nearly fully subscribed.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-21T20:15:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ABdYnex3UvLSEgFZqq9eSZ-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/09/21/apple-notes-adds-a-power-user-feature-in-ios-27-thats-rare-in-other-apps/",
     "title": "Apple Notes adds a power user feature in iOS 27 that’s rare in other apps",
     "description": "Apple Notes in iOS 27 adds a variety of new features, including one that power users are sure to appreciate: section links.\n\n\n\n more…",
@@ -498,7 +535,6 @@
     "title": "macOS 27.2 Golden Gate beta 2 now available, here’s what to expect",
     "description": "Developers can now install macOS 27.2 Golden Gate beta 2, ahead of the upcoming official release in a few weeks. Here’s what’s coming.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-21T17:22:29+00:00",
@@ -1026,7 +1062,6 @@
     "title": "The Insta360 Link 2 Pro is genuinely one of the best webcams I've ever reviewed—but the high price may turn away some potential buyers",
     "description": "Insta360's new Link 2 Pro webcam is a powerhouse peripheral for content creators and remote-work professionals, and I can't recommend it enough – though it is seriously expensive.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-21T15:34:10+00:00",
@@ -1392,7 +1427,6 @@
     "title": "This early October Prime Day deal knocks the Viture Pro 2 XR glasses back to their lowest price ever recorded — but how long will it last?",
     "description": "Viture has become a leading manufacturer of versatile smart glasses, and now one of its most popular pairs is getting a hefty discount.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-09-21T14:21:14+00:00",
@@ -1928,17 +1962,6 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs",
-    "title": "I got to see Google&#8217;s wild ideas about the future of laptops",
-    "description": "There are a few things about using a Googlebook that immediately feel just right. The hardware is polished (since it's based on current laptops). The OS is familiar (if you've ever used a Chromebook). But most impressive, it integrates your Android phone with your PC so they feel more like one device. It's the culmination",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-21T13:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Acer_Googlebook_14_ADiBenedetto_0001_6d6558.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.wired.com/story/google-launches-googlebook-laptops/",
     "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
     "description": "Apple lovers have long enjoyed seamless connectivity between their iPhones and Macs. Now, Google’s bringing that experience to Android.",
@@ -2016,6 +2039,17 @@
     "pub_date": "2026-09-21T13:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/00ESXLycxj6lswJ5rsKYDZc/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs",
+    "title": "I got to see Google&#8217;s wild ideas about the future of laptops",
+    "description": "There are a few things about using a Googlebook that immediately feel just right. The hardware is polished (since it's based on current laptops). The OS is familiar (if you've ever used a Chromebook). But most impressive, it integrates your Android phone with your PC so they feel more like one device. It's the culmination",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-21T13:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Acer_Googlebook_14_ADiBenedetto_0001_6d6558.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.engadget.com/2263184/apple-mac-studio-m5-ultra-review/",
@@ -2296,39 +2330,5 @@
     "pub_date": "2026-09-21T12:02:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/qpJxBeduEcck9Y5Y3xNtMG-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/vatican-ai4peace-association-pope-leo-unesco",
-    "title": "The Vatican is turning its AI campaign into permanent machinery this week",
-    "description": "AI4Peace, a symposium on artificial intelligence and conflict, opened on Monday at the Pontifical Lateran University in Rome with a message from Leo XIV. The Pope was not present in the room, and Don Andrea Ciucci, chancellor of the Pontifical Academy for Life, read the message on his behalf. The message states that technological progress",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-09-21T12:01:28+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/Pope-Leo.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/science/floating-nuclear-power-plant-bluecore-energy-barge",
-    "title": "Theyre building floating nuclear power plants",
-    "description": "Learn how floating nuclear power plants work as Bluecore Energy emerges from stealth to build a modular reactor on a barge.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-21T12:00:09+00:00",
-    "image_url": "https://cdn.ex.co/transformations-account/production/a0be6317-e085-43f9-8cb5-7b125d25af4b/df5e72ff-3740-5f78-8049-afb77346144e/master.m3u8",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2260554/dont-throw-away-old-android-tablet-do-this-instead/",
-    "title": "Don't throw away your old Android tablet  — do this instead",
-    "description": "Android Auto will run right on your tablet's screen with the Open Headunit app.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T12:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/dont-throw-away-your-old-android-tablet-do-this-instead/l-intro-1789513156.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
