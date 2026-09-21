@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://thenextweb.com/news/sanchez-ai360-self-regulation-social-contract",
+    "title": "Spain’s prime minister thinks the AI industry’s safety warnings are partly a fundraising strategy",
+    "description": "“La autorregulación no funciona.” Self-regulation does not work, Pedro Sánchez told employers and union officials at the Moncloa Palace in Madrid on Monday, closing a government event on artificial intelligence hours before flying to New York for the UN General Assembly. The prime minister said that recent statements from some key figures make it hard to",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-21T12:38:30+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/Pedro-Sánchez.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/998144/apple-iphone-18-pro-max-battery-firmware-limit",
+    "title": "Apple’s clever software solution lets iPhone batteries skirt shipping limits",
+    "description": "Apple has developed an unexpected workaround to prevent the iPhone 18 Pro Max from being hit by shipping restrictions on big batteries. There's a \"battery-firmware solution\" in place on the new iPhones, according to Apple's support page, which keeps capacity below the 20Wh limit for single-cell batteries set by international shipping regulations - but this",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-21T12:37:27+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_MAX_AKrales_0994.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/21/you-can-now-claim-your-payout-from-apples-250-million-siri-settlement/",
+    "title": "You can now claim your payout from Apple’s $250 million Siri settlement",
+    "description": "The major class action lawsuit against Apple over Siri and Apple Intelligence delays continues to progress. Apple is expected to pay $250 million to settle the lawsuit, and you can now submit your claim to get a chunk of that payout. Here’s how.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-21T12:31:45+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/04/apple-intelligence-rainbow.jpeg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
     "link": "https://www.engadget.com/2257772/what-to-consider-buying-ethernet-switch-home-network/",
     "title": "What to consider when buying an Ethernet switch for your home network",
     "description": "Network switches are an easy way to add more Ethernet ports to your home network, but you'll need to pick from the many varieties available.",
@@ -889,7 +924,6 @@
     "title": "Big Tech is increasingly using residual value guarantees for off-balance sheet AI spend, giving Nvidia and Broadcom a way to support their customers' purchases (Financial Times)",
     "description": "Financial Times:\nBig Tech is increasingly using residual value guarantees for off-balance sheet AI spend, giving Nvidia and Broadcom a way to support their customers' purchases  —  Wall Street finds new way to turn tech giants' credit strength into cheaper funding for AI build-out",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-21T08:45:01+00:00",
@@ -2237,38 +2271,5 @@
     "pub_date": "2026-09-20T12:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220309_4977_0292.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/column/997843/streamers-cable-fast-channels",
-    "title": "All roads lead to cable",
-    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on streaming platforms, FAST channels, and the future of entertainment, follow Charles Pulliam-Moore. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Before Netflix fully committed to",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-20T12:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2193473385.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2258952/wired-vs-wireless-charging-better-battery-health/",
-    "title": "Wired vs. wireless charging: Which is better for battery health?",
-    "description": "Wireless charging offers convenience, to be sure, but how does it affect your battery over time? And is it a problem if your phone heats up?",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-20T12:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/wired-vs-wireless-charging-which-is-better-for-battery-health/l-intro-1789481518.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/gavin-verhey-explains-the-biggest-difficulties-of-adapting-universes-beyond-into-magic-the-gathering-from-avoiding-five-color-soup-to-figuring-out-what-green-means",
-    "title": "Gavin Verhey explains the biggest difficulties of adapting Universes Beyond into Magic: The Gathering — from avoiding five-color soup, to ‘Figuring out what Green means’",
-    "description": "The biggest difficulties of adapting Universes Beyond into Magic: The Gathering.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-20T11:30:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/TASrwWG74Vo9Di6rK7wbMU-1920-80.png",
-    "source_name": "TECHRADAR.COM"
   }
 ]
