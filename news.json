@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://thenextweb.com/news/openai-global-ai-standards-push",
+    "title": "OpenAI asks Washington to lead a global AI standards push",
+    "description": "OpenAI has called on the United States to lead an international effort on standards for advanced AI, beginning with rules on which incidents must be reported, and suggested routing the work through national AI safety institutes including the US Center for AI Standards and Innovation. Europe legislated incident reporting in Article 55 of the AI",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-21T18:38:07+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/altman-white-house-openai-model-preview-agents.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
+    "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
+    "description": "Washington and Beijing have grown ever more linked in the AI boom, making hardware exports and technological restrictions hefty bargaining chips in negotiations.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-21T18:33:02+00:00",
+    "image_url": "https://media.wired.com/photos/6ab15a857fffb9bb745696eb/master/pass/trumpxi.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/chromebooks-laptops/googlebook-pre-orders-begin-everything-from-pairing-your-phone-to-ai-and-price",
+    "title": "Googlebook pre-orders begin: this is everything from Android sync to AI and price",
+    "description": "Googlebook pre-orders are open, and consumers are in for much-needed synchronization with Android for apps, projects, and more.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-21T18:33:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/kP96F2Zb5U9uoZhYfDjmqL-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2264291/why-apple-mac-studio-so-expensive/",
+    "title": "Here's why Apple's Mac Studio has become so expensive",
+    "description": "A big part of the story is soaring memory and storage prices, but other factors come into play as well.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-21T18:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/heres-why-apples-mac-studio-has-become-so-expensive/l-intro-1790010905.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
     "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
     "description": "Future Google supplier Kairos Power inked a deal with Samsung C&T to help build its first 50 megawatt nuclear power plant.",
@@ -44,6 +94,17 @@
     "pub_date": "2026-09-21T18:15:01+00:00",
     "image_url": "http://www.techmeme.com/260921/i46.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/21/bllavors-solar-power-bank-is-built-for-fall-camping-trips/",
+    "title": "MagSafe Monday: BLAVOR’s solar power bank is built for fall camping trips",
+    "description": "The weather is turning cooler, and it’s time for camping and football tailgates. BLAVOR’s 20000mAh Solar Power Bank is built for this time of year. It has four built-in cables so you can leave your bag at home, a solar panel for recharging, and a wireless pad on top for your iPhone and Apple Watch. Let’s take a look at it.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-21T18:11:00+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/solar-batter.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
   },
   {
     "link": "https://www.techmeme.com/260921/p45#a260921p45",
@@ -1005,7 +1066,6 @@
     "title": "Sources: OpenAI is developing features to counter SpaceX's Grok Bot \"teammates\", and has discussed creating a personal AI assistant to compete with Meta's Muse (The Information)",
     "description": "The Information:\nSources: OpenAI is developing features to counter SpaceX's Grok Bot “teammates”, and has discussed creating a personal AI assistant to compete with Meta's Muse  —  OpenAI pioneered AI that can take over web browsers and other applications on people's behalf, and its ChatGPT app brought generative AI to consumers.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-21T14:40:00+00:00",
@@ -1015,7 +1075,7 @@
   {
     "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
     "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-    "description": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+    "description": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -1695,18 +1755,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.engadget.com/2263184/apple-mac-studio-m5-ultra-review/",
-    "title": "Apple Mac Studio (M5 Ultra) review: Huge AI and graphics power at a huge premium",
-    "description": "At $11,299, the M5 Ultra's extra performance over the M5 Max model is only worth it for select buyers.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/apple-mac-studio-m5-ultra-review-huge-ai-and-graphics-power-at-a-huge-premium/l-intro-1789819755.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
     "link": "https://www.androidcentral.com/chromebooks-laptops/the-first-googlebooks-are-here-powered-by-snapdragon-x-elite",
     "title": "The first Googlebooks are here, powered by Snapdragon X Elite",
     "description": "Qualcomm's Snapdragon X Elite now powers the first Googlebook laptops, built around Gemini Intelligence.",
@@ -1765,6 +1813,18 @@
     "pub_date": "2026-09-21T13:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/00ESXLycxj6lswJ5rsKYDZc/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2263184/apple-mac-studio-m5-ultra-review/",
+    "title": "Apple Mac Studio (M5 Ultra) review: Huge AI and graphics power at a huge premium",
+    "description": "At $11,299, the M5 Ultra's extra performance over the M5 Max model is only worth it for select buyers.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-21T13:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/apple-mac-studio-m5-ultra-review-huge-ai-and-graphics-power-at-a-huge-premium/l-intro-1789819755.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.theverge.com/tech/998006/apple-mac-mini-m6-m5-pro-review",
@@ -1924,7 +1984,6 @@
     "title": "Samsungs stunning 75-Inch M70H Mini LED 4K TV at its lowest-ever price at Amazon — save $50",
     "description": "As of Sept. 21, the Samsung 75-Inch M70H Mini LED 4K Smart TV is down to its lowest-ever price at Amazon of $547.99, 8% off its list price of $597.99.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-21T12:35:30+00:00",
@@ -2288,63 +2347,5 @@
     "pub_date": "2026-09-21T10:57:27+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ifixit-iphone-18-pro-teardown-main-camera.png?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/ecb-tokenised-securities-pontes-own-funds",
-    "title": "The ECB will invest in tokenised securities, and settle the trades on its own new rail",
-    "description": "The European Central Bank is preparing to put some of its own money into tokenized securities, moving from building the plumbing for digital asset markets to buying in them. Settlement will occur in central bank money, routed through Pontes, the system the Eurosystem has built for trades running on distributed ledger technology. What the bank",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T10:55:24+00:00",
-    "image_url": "https://media.thenextweb.com/2026/05/European-Central-Bank.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/work-as-you-know-it-will-be-a-relic-of-the-past",
-    "title": "Work as you know it will be a relic of the past",
-    "description": "AI won’t replace knowledge workers overnight, but it will fundamentally change how they work.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T10:45:30+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260921/p17#a260921p17",
-    "title": "Sources: DeepSeek CEO Liang Wenfeng says training on Huawei chips is one of DeepSeek's biggest bets and Huawei is set to deliver training chips in Q4 or Q1 2027 (The Information)",
-    "description": "The Information:\nSources: DeepSeek CEO Liang Wenfeng says training on Huawei chips is one of DeepSeek's biggest bets and Huawei is set to deliver training chips in Q4 or Q1 2027  —  DeepSeek CEO Liang Wenfeng told investors that a major priority for his company is to use more domestic chips to train its models …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T10:40:01+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/snl-uk-king-charles-ed-sheeran-ai-sketch",
-    "title": "SNL UK mocks King Charles and Ed Sheeran in AI-themed sketch",
-    "description": "\"SNL UK\" has taken aim at both Ed Sheeran and King Charles in its cold open.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T10:39:29+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/videos/07sqIBBbd6ylPYKIKpk8IYp/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
-    "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
-    "description": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-09-21T10:34:43+00:00",
-    "image_url": "https://media.wired.com/photos/6ab0fffcca426ab5b46ef4b4/master/pass/092126-Bensen%20China.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
