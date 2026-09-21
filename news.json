@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.techradar.com/pro/hackers-are-hiding-malware-on-blockchains-that-are-nearly-impossible-to-take-down-and-unrestricted-ai-models-have-pushed-these-attacks-up-440",
+    "title": "Hackers are hiding malware on blockchains that are nearly impossible to take down, and unrestricted AI models have pushed these attacks up 440%",
+    "description": "Hackers are hiding malware instructions across public blockchains, while AI makes the technique easier to deploy and harder for defenders to disrupt.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-21T22:40:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/kDLU9By5uaPPbwrbfEaZFJ-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2261521/wired-vs-wireless-keyboard-performance-differences-explained/",
+    "title": "Wired vs. wireless keyboards: Is there really a difference in performance?",
+    "description": "Wireless keyboards introduce convenience and portability, but they can't quite keep up with wired keyboards in some cases.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-21T22:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/wired-vs-wireless-keyboards-is-there-really-a-difference-in-performance/l-intro-1789665077.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
     "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
     "description": "A simple ClickFix attack is only one way to completely hijack the new agent.",
@@ -132,7 +155,6 @@
     "title": "Bungie leaders now say the studio's 'not done with Destiny'",
     "description": "It also promised players that Marathon will keep growing and improving.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-09-21T21:34:50+00:00",
@@ -513,7 +535,6 @@
     "title": "NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game",
     "description": "NASA astronaut and commander of the agency’s Artemis II mission, Reid Wiseman, a Baltimore native, takes a selfie with fans at an NFL game between the New Orleans Saints and the Baltimore Ravens at M&T Bank Stadium, Sunday, Sept. 20, 2026, in Baltimore. NASA’s engagement at NFL games is part of the agency’s Inspiration Tour,",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-21T18:43:13+00:00",
@@ -539,7 +560,6 @@
     "description": "Washington and Beijing have grown ever more linked in the AI boom, making hardware exports and technological restrictions hefty bargaining chips in negotiations.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-09-21T18:33:02+00:00",
@@ -551,7 +571,6 @@
     "title": "Googlebook pre-orders begin: this is everything from Android sync to AI and price",
     "description": "Googlebook pre-orders are open, and consumers are in for much-needed synchronization with Android for apps, projects, and more.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-21T18:33:00+00:00",
@@ -630,7 +649,6 @@
     "title": "OpenAI says automated research could improve alignment, but \"fully autonomous RSI is not happening today\" and shouldn't be pursued unless it can be done safely (OpenAI)",
     "description": "OpenAI:\nOpenAI says automated research could improve alignment, but “fully autonomous RSI is not happening today” and shouldn't be pursued unless it can be done safely  —  Our mission is to ensure that artificial general intelligence benefits all of humanity.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-21T18:00:39+00:00",
@@ -1006,7 +1024,6 @@
     "title": "Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content",
     "description": "Months after seemingly giving up on Destiny 2, Bungie now says it's planning to restore vaulted content in the game like campaigns, destinations, and raids. The decision reverses the Destiny Content Vault that Bungie created six years ago, controversially removing older content from Destiny 2 that players had paid to access. \"We understand that removing",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-21T16:35:59+00:00",
@@ -2221,17 +2238,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.androidcentral.com/chromebooks-laptops/the-first-googlebooks-are-here-powered-by-snapdragon-x-elite",
-    "title": "The first Googlebooks are here, powered by Snapdragon X Elite",
-    "description": "Qualcomm's Snapdragon X Elite now powers the first Googlebook laptops, built around Gemini Intelligence.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T13:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/hwoFiPWWNjxZ83sWkEbiHW-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
     "link": "https://www.androidcentral.com/chromebooks-laptops/mediateks-new-3nm-chip-wants-to-power-fanless-ai-first-googlebooks",
     "title": "MediaTek's new 3nm chip wants to power fanless, AI-first Googlebooks",
     "description": "MediaTek's Dimensity CX C10 Max is the company's first high-end laptop chip, and it's headed for premium AI-first Googlebooks.",
@@ -2240,6 +2246,17 @@
     ],
     "pub_date": "2026-09-21T13:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/7qURvypj47T43hKp8QLAEh-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/chromebooks-laptops/the-first-googlebooks-are-here-powered-by-snapdragon-x-elite",
+    "title": "The first Googlebooks are here, powered by Snapdragon X Elite",
+    "description": "Qualcomm's Snapdragon X Elite now powers the first Googlebook laptops, built around Gemini Intelligence.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-21T13:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/hwoFiPWWNjxZ83sWkEbiHW-1920-80.jpg",
     "source_name": "ANDROIDCENTRAL.COM"
   },
   {
@@ -2274,28 +2291,5 @@
     "pub_date": "2026-09-21T13:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/00ESXLycxj6lswJ5rsKYDZc/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs",
-    "title": "I got to see Google&#8217;s wild ideas about the future of laptops",
-    "description": "There are a few things about using a Googlebook that immediately feel just right. The hardware is polished (since it's based on current laptops). The OS is familiar (if you've ever used a Chromebook). But most impressive, it integrates your Android phone with your PC so they feel more like one device. It's the culmination",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-21T13:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Acer_Googlebook_14_ADiBenedetto_0001_6d6558.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2263184/apple-mac-studio-m5-ultra-review/",
-    "title": "Apple Mac Studio (M5 Ultra) review: Huge AI and graphics power at a huge premium",
-    "description": "At $11,299, the M5 Ultra's extra performance over the M5 Max model is only worth it for select buyers.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/apple-mac-studio-m5-ultra-review-huge-ai-and-graphics-power-at-a-huge-premium/l-intro-1789819755.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
