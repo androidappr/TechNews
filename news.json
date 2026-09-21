@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
+    "title": "X will now tell users when governments have forced it to limit their posts",
+    "description": "X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.",
+    "categories": [
+      "Government & Policy",
+      "Social & Media",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-21T17:45:35+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement",
+    "title": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger",
+    "description": "Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery. The settlement removes a major roadblock standing in the way of the massive media merger. Paramount Chairman & CEO David Ellison: We are grateful to Attorney General Bonta and his",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-21T17:42:15+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB385_PARAMOUNT_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/california-ab-1130-paid-political-posts-influencer-fine",
+    "title": "California will fine creators $5,000 a post for hidden political ads",
+    "description": "“I was hearing from people in the campaign world that there’s this new strategy of paying political influencers to post content,” said Marc Berman, the California assemblyman. “Some were good about disclosure and others were a bit fast and loose.” His bill is now law. Gavin Newsom signed AB 1130 on Saturday. In California, paid",
+    "categories": [
+      "AI & Machine Learning",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-21T17:33:10+00:00",
+    "image_url": "https://media.thenextweb.com/2026/06/Governor-Gavin-Newsom.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/model-costs-startups-open-weights",
+    "title": "AI model costs are pushing startups towards cheaper open weigh",
+    "description": "Harvey’s gross margin fell from about 50% at the start of this year to minus 50% by June as customer usage of its AI agents spiked, and turned positive again only after it released a model of its own built on Moonshot’s Kimi K3. Abridge, Decagon, Ramp and Rogo are making similar moves, and Sequoia",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-21T17:30:24+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/big-tech-2-trillion-ai-spending-commitments-bloomberg.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/09/21/apple-rolls-out-second-release-candidates-for-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
     "title": "Apple rolls out second Release Candidates for macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1",
     "description": "Less than a week after releasing macOS 26.7.1 and macOS 15.8.1 RC 1, Apple is now rolling out the second release candidates ahead of their official release. Here are the details.\n\n\n\n more…",
@@ -9,6 +59,18 @@
     "pub_date": "2026-09-21T17:30:14+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2261133/dont-like-siri-ai-ios-27-feature-may-change-mind/",
+    "title": "If you don't like using Siri, this iOS 27 feature may change your mind",
+    "description": "Siri has long been known for its stagnation, but that changes with iOS 27 and accompanying releases. Siri has undergone major improvements.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-21T17:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/if-you-dont-like-using-siri-this-ios-27-feature-may-change-your-mind/l-intro-1789654122.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://9to5mac.com/2026/09/21/beta-2-now-available-for-ipados-27-2-watchos-27-2-more/",
@@ -319,6 +381,7 @@
     "title": "California settles lawsuit against Paramount/Warner merger, angering advocates",
     "description": "State AGs had \"very strong\" case that merger is illegal, Lina Khan says.",
     "categories": [
+      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-09-21T16:15:26+00:00",
@@ -1188,7 +1251,6 @@
     "title": "Meta enters a voluntary access agreement granting the UK's Prospect trade union direct access to recruit its 5,000 UK employees, ahead of new UK employment laws (Delphine Strauss/Financial Times)",
     "description": "Delphine Strauss / Financial Times:\nMeta enters a voluntary access agreement granting the UK's Prospect trade union direct access to recruit its 5,000 UK employees, ahead of new UK employment laws  —  Greater worker representation expected in tech sector when new employment rights come into force next month",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-21T13:35:00+00:00",
@@ -1487,18 +1549,6 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://www.theverge.com/tech/998040/apple-mac-studio-m5-ultra-initial-impressions-testing-review",
-    "title": "The M5 Ultra Mac Studio tears through our benchmark tests",
-    "description": "The Mac Studio review unit that Apple sent us to test this year is, put simply, kind of outrageous. It has an M5 Ultra chip with a 36-core CPU and 80-core GPU, 256GB of RAM, and 4TB of storage and costs $12,299. This thing is not for your typical content creation workloads. It's for AI",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-21T13:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268742_Mac_Studio_AKrales_0025.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.wired.com/story/google-launches-googlebook-laptops/",
     "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
     "description": "Apple lovers have long enjoyed seamless connectivity between their iPhones and Macs. Now, Google’s bringing that experience to Android.",
@@ -1546,18 +1596,6 @@
     ],
     "pub_date": "2026-09-21T13:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/i-tried-every-new-googlebook-announced-today/l-intro-1790001542.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2263471/apple-mac-mini-m6-review/",
-    "title": "Apple Mac mini (M6) review: The best compact desktop is no longer a great deal",
-    "description": "At $899, the new Mac mini loses the fun factor of the previous models.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/apple-mac-mini-m6-review-the-best-compact-desktop-is-no-longer-a-great-deal/l-intro-1789760950.jpg",
     "source_name": "ENGADGET.COM"
   },
   {
@@ -1619,6 +1657,30 @@
     "pub_date": "2026-09-21T13:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/00ESXLycxj6lswJ5rsKYDZc/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/998040/apple-mac-studio-m5-ultra-initial-impressions-testing-review",
+    "title": "The M5 Ultra Mac Studio tears through our benchmark tests",
+    "description": "The Mac Studio review unit that Apple sent us to test this year is, put simply, kind of outrageous. It has an M5 Ultra chip with a 36-core CPU and 80-core GPU, 256GB of RAM, and 4TB of storage and costs $12,299. This thing is not for your typical content creation workloads. It's for AI",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-21T13:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268742_Mac_Studio_AKrales_0025.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2263471/apple-mac-mini-m6-review/",
+    "title": "Apple Mac mini (M6) review: The best compact desktop is no longer a great deal",
+    "description": "At $899, the new Mac mini loses the fun factor of the previous models.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-21T13:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/apple-mac-mini-m6-review-the-best-compact-desktop-is-no-longer-a-great-deal/l-intro-1789760950.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.theverge.com/tech/998095/googlebook-laptop-android-continue-on-app-cast",
@@ -2283,63 +2345,5 @@
     "pub_date": "2026-09-21T10:05:47+00:00",
     "image_url": "http://www.techmeme.com/260921/i14.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/audio/streams-and-roundabouts-apple-music-just-fixed-one-long-running-issue-while-spotify-added-a-different-one",
-    "title": "Streams and roundabouts: Apple Music just fixed one long-running issue, while Spotify added a different one",
-    "description": "Apple Music has changed how songs appear or disappear in playlists, while Spotify has barred free-tier listeners from streaming new music for a set amount of time",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T10:03:46+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/nA5LPY9TEvqqVB3xZkSJC-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/where-should-ai-agents-stop-and-human-judgement-begin",
-    "title": "Where should AI agents stop and human judgement begin?",
-    "description": "As AI gains execution power, advertisers must define limits and accountability.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T10:01:24+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/searching-for-powerful-women-silicon-valley/",
-    "title": "The Search for Silicon Valley’s Most Powerful Woman",
-    "description": "Women hold some of the most consequential jobs in tech, but they’re still not cult figures. WIRED investigates why.",
-    "categories": [
-      "Business & Startups",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-09-21T10:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aac71b5d7fc34009fe6c60f/master/pass/silicon-valley-women-power.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/wired-women-editors-letter/",
-    "title": "Women Still Face Too Much Bullshit—in Silicon Valley and Beyond",
-    "description": "WIRED dedicating an entire issue to women in 2026 might seem regressive, or obvious, or even unnecessary. We disagree.",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-21T10:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aad7219fce4a3658524c943/master/pass/WIRED_WomenInTechSurvey_web.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/women-in-tech-survey/",
-    "title": "We Surveyed 634 Women Who Work in Tech. They Let Loose",
-    "description": "Executives happily automating their days with AI. New hires confronting bro culture. Women in tech have a lot to say—and they told it all to WIRED.",
-    "categories": [
-      "Business & Startups",
-      "Social & Media"
-    ],
-    "pub_date": "2026-09-21T10:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aad64b406b0d5688dcc1408/master/pass/wired-women-tech-sruvey-thumb-1.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
