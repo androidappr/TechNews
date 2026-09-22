@@ -1,5 +1,31 @@
 [
   {
+    "link": "https://thenextweb.com/news/cyera-400m-goldman-sachs-series-g-extension",
+    "title": "Cyera has now raised $1.4bn this year to police AI agents",
+    "description": "They need to trust what AI agents can see and do before they can scale them. Yotam Segev said that on Tuesday, about what the Global 2000 keeps telling his company. The Cyera cofounder and chief executive was announcing a $400m investment from Growth Equity at Goldman Sachs Alternatives. The money extends Cyera’s Series G,",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-22T21:24:11+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/cyera-founders-segev-bar-ilan.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/22/apple-adds-raw-support-for-11-digital-cameras-across-iphone-ipad-mac-and-vision-pro/",
+    "title": "Apple adds RAW support for 11 digital cameras across iPhone, iPad, Mac, and Vision Pro",
+    "description": "Apple today updated its official list of digital camera RAW formats supported across its platforms, adding support for 11 models from several manufacturers. Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-22T21:19:53+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/200MP-iPhone-camera-rumors-align-on-2028-release.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/security/mistral-denies-a-fresh-security-breach-but-the-code-on-sale-looks-a-lot-like-mays-leak",
     "title": "Mistral denies a fresh security breach, but the code on sale looks a lot like May's leak",
     "description": "Mistral says the \"stolen\" code now on sale may simply be what walked out the door earlier in May 2026.",
@@ -9,6 +35,18 @@
     "pub_date": "2026-09-22T21:05:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/4AyzfXeFQkSE3gFjYpNsAQ-1920-80.png",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/big-banks-concerned-about-ai-chatbot-scams-fraud",
+    "title": "Big banks are worried AI agents could increase the risk of scams and fraud",
+    "description": "Financial institutions are sharing their concerns about AI agents making purchases for users.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-22T21:01:05+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00HID4qZxWj1m1AAwMlbX8t/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techradar.com/televisions/cheap-lcd-tvs-could-be-in-trouble-for-black-friday-the-chinese-companies-who-control-production-are-reportedly-raising-prices-at-a-crunch-time",
@@ -79,6 +117,17 @@
     "pub_date": "2026-09-22T20:40:44+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2022/02/apple-europe.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
+    "title": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
+    "description": "Cities defend permit requirements, say ISPs aren't building networks fast enough.",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-22T20:38:30+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-network-map-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://www.techmeme.com/260922/p51#a260922p51",
@@ -354,6 +403,19 @@
     "pub_date": "2026-09-22T19:48:08+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/iphone18pro.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+    "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+    "description": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-22T19:45:47+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-automation-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://mashable.com/tech/elon-musk-twitter-launches-x-numbers-feature",
@@ -1008,7 +1070,6 @@
     "title": "The latest PlayStation update made PSSR 2.0 the default for PS5 Pro owners",
     "description": "Your PS5 Pro will now automatically make supported games look even better without you having to dig into menus for an obscure toggle.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-09-22T17:30:00+00:00",
@@ -1312,7 +1373,7 @@
   {
     "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
     "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-    "description": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, NVIDIA, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z.",
+    "description": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, Nvidia, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z.",
     "categories": [
       "AI & Machine Learning",
       "Business & Startups"
@@ -1731,7 +1792,6 @@
     "title": "Deals: M5 MacBook Air up to $300 off, M4 iPad Air $100+ off, AirPods Pro 3, Studio Display, more",
     "description": "Joining the ongoing $50 price drop on AirPods Pro and the all-new Beats 360 headphones now available for purchase, today’s 9to5Toys Lunch Break is headlined by some solid M5 MacBook Air deals. Amazon has select mid-range 13-inch M5 MacBook Air models at $150 off and the early Amazon fall Prime Day deals, and much more waiting below. \n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-22T15:28:49+00:00",
@@ -2287,62 +2347,5 @@
     "pub_date": "2026-09-22T14:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/7Q34GM2RgrdwsWnK6jBAeP-1920-80.png",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/audio/headphones/beats-360-are-official-with-a-distinct-new-design-and-ive-been-wearing-the-cans-for-weeks",
-    "title": "I've spent weeks with the Beats 360 — the design and sound both won me over",
-    "description": "The Beats 360 are officially official, and after weeks testing them, the design, audio, and customization are what stand out most.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-22T14:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/HTR5Hn4fyTRvFfNyPaMrYT-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/beats-360-headphones-review-modular-ipx4-anc-test",
-    "title": "Beats 360 headphones review: Modular, baby!",
-    "description": "Our Beats 360 headphones review explores modular cushions, IPX4 water resistance, noise cancellation performance, and value.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-22T14:00:00+00:00",
-    "image_url": "https://cdn.ex.co/transformations-account/production/a0be6317-e085-43f9-8cb5-7b125d25af4b/85e288a2-c97b-5ac5-b71e-1fa42c390377/master.m3u8",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/22/three-weeks-into-the-john-ternus-era-apple-crosses-its-highest-valuation-ever/",
-    "title": "Three weeks into the John Ternus era, Apple crosses its highest valuation ever",
-    "description": "Apple shares briefly reached $345.34 moments after the market opened today, surpassing July’s intraday record of $344.57. Here are the details.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-22T13:54:26+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/john-ternus.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.theverge.com/policy/998726/trump-tv-youtube-livestream",
-    "title": "&#8216;Trump TV&#8217; is just reruns of the president on YouTube",
-    "description": "The White House is now airing reruns of President Donald Trump's speeches, bill signings, and other moments on a YouTube livestream that it's calling \"Trump TV,\" as reported earlier by Time. The 24/7 station launched just days after Trump banned CNN, MS Now, and Politico from the White House. Following several teasers propping up \"Trump",
-    "categories": [
-      "Breaking News",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-09-22T13:54:13+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2296464785.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260922/p29#a260922p29",
-    "title": "Sources: after a deadly school strike in Iran, US Central Command changed its targeting process, integrated open-source data, and upgraded Palantir's Maven (Katrina Manson/Bloomberg)",
-    "description": "Katrina Manson / Bloomberg:\nSources: after a deadly school strike in Iran, US Central Command changed its targeting process, integrated open-source data, and upgraded Palantir's Maven  —  The changes include refining processes for vetting targets and adding open-source data feeds to better track civilian movement.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-22T13:45:01+00:00",
-    "image_url": "http://www.techmeme.com/260922/i29.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
