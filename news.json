@@ -1,5 +1,90 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "description": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-22T20:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
+    "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
+    "description": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video capture, and gaming performance on the Extreme model. Both Gen 6 chips",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-09-22T20:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/qualcomm-snapdragon-8-elite-gen-6-and-extreme.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
+    "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
+    "description": "Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs, price, and release date. Any prospective buyers will first have to get over the",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-09-22T20:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/motorola-signature-27-green-hand.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/22/apple-tv-the-sisters-grimm-gets-season-2-trailer-ahead-of-october-premiere/",
+    "title": "Apple TV: ‘The Sisters Grimm’ gets season 2 trailer ahead of October premiere",
+    "description": "Apple TV today unveiled the trailer for the upcoming second season of its animated adventure series “The Sisters Grimm.” Watch it below.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-22T19:55:56+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/sisters-grimm.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260922/p49#a260922p49",
+    "title": "Nat Friedman says Meta built Muse \"from scratch\" but was \"heavily inspired\" by OpenClaw, as users compare the two, including calling Muse \"OpenClaw for normies\" (Sarah Perez/TechCrunch)",
+    "description": "Sarah Perez / TechCrunch:\nNat Friedman says Meta built Muse “from scratch” but was “heavily inspired” by OpenClaw, as users compare the two, including calling Muse “OpenClaw for normies”  —  Early adopters of Meta's Muse have been speculating that the reason the AI works …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-22T19:55:00+00:00",
+    "image_url": "http://www.techmeme.com/260922/i49.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style",
+    "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras",
+    "description": "Apple's new texture and grain controls for stylizing photos will be more limited on older phones than initially expected. A confusingly worded press release from Apple indicated that the new features, announced alongside the iPhone 18 and 18 Pro earlier this month, would be \"available\" on older devices like the iPhone 16 and iPhone Air",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-22T19:48:08+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/iphone18pro.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/elon-musk-twitter-launches-x-numbers-feature",
+    "title": "Elon Musks X launches X Numbers",
+    "description": "X Numbers lets X Chat users share a private code so non-followers can message or call them, even if their inbox is closed.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-22T19:44:31+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/032a8mvBsnCt1rtktfMYWJ5/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.androidcentral.com/phones/nothing-phones/nothing-expands-android-17-open-beta-to-phone-4a-full-release-is-two-months-away",
     "title": "Nothing expands Android 17 Open Beta to Phone 4a—full release is two months away",
     "description": "If you're a Phone 4a user, Nothing OS 5.0 Open Beta is active now, and you can get going with all the latest Android 17 features.",
@@ -198,7 +283,7 @@
   {
     "link": "https://9to5mac.com/2026/09/22/these-were-the-best-apple-accessories-i-found-at-ifa-berlin-2026/",
     "title": "These were the best Apple accessories I found at IFA Berlin 2026",
-    "description": "Right before all of the iPhone 18 Pro and iPhone Duo craziness, I was lucky enough to attend my first IFA in Berlin. For those unaware, IFA is the CES of Europe. There are thousands of brands and companies, ranging from tiny start-ups to giant juggernauts. They all have one goal: to show off what they have been creating to the 100,000s of visitors that attend. I saw everything from flying cars to mini robots to 200-inch transparent displays, and while all of those products are awesome for a quick demo and to show off, I was not there for them. I wanted to see the tech that is actually about to come out, not the tech that maybe one day will see the light of day. So here are my favorite products from IFA, with a bit of an Apple twist, of course!\n\n\n\n more…",
+    "description": "9to5Mac is brought to you by Memoket: The Memoket Gem is an 11g AI wearable that slots beside your Apple Watch in a co-wear band. Press once to capture a conversation, and Gem connects it to what you discussed weeks ago — surfacing the earlier thread with a source link. From $179, shipping now.\n\n\n\n\n\n\n\nRight before all of the iPhone 18 Pro and iPhone Duo craziness, I was lucky enough to attend my first IFA in Berlin. For those unaware, IFA is the CES of Europe. There are thousands of brands and companies, ranging from tiny start-ups to giant juggernauts. They all have one goal: to show off what they have been creating to the 100,000s of visitors that attend. \n\n\n\nI saw everything from flying cars to mini robots to 200-inch transparent displays, and while all of those products are awesome for a quick demo and to show off, I was not there for them. I wanted to see the tech that is actually about to come out, not the tech that maybe one day will see the light of day. So here are my favorite products from IFA, with a bit of an Apple twist, of course!\n\n\n\n more…",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -614,9 +699,9 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://science.nasa.gov/earth/nasa-funded-research-finds-complex-life-defying-record-heat/",
+    "link": "https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/",
     "title": "NASA-Funded Research Finds Complex Life Defying Record Heat",
-    "description": "NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life. High temperatures can cause the destruction of necessary cell components, which is a big problem for cells with complex parts like a nucleus encasing delicate genetic information. In the heated waters of California’s Lassen Volcanic National Park, a",
+    "description": "Lee esta historia en español aquí. NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life. High temperatures can cause the destruction of necessary cell components, which is a big problem for cells with complex parts like a nucleus encasing delicate genetic information. In the heated waters of",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -1155,7 +1240,6 @@
     "description": "Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already use.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-22T16:00:00+00:00",
@@ -1212,7 +1296,6 @@
     "title": "Meta’s Muse reportedly has zero-day vulnerability that lets attackers take over your Mac",
     "description": "Met's popular AI assistant Muse has a concerning zero-day vulnerability, a new report claims.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-22T15:55:24+00:00",
@@ -1801,22 +1884,7 @@
     "title": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative",
     "description": "Eight months after establishing a U.S.-based joint venture, TikTok is getting on board fellow platforms to support industrywide child safety work.",
     "categories": [
-      "Breaking News",
       "Social & Media"
-    ],
-    "pub_date": "2026-09-22T14:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
-    "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-    "description": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Science & Environment",
-      "Software & Apps"
     ],
     "pub_date": "2026-09-22T14:00:00+00:00",
     "image_url": null,
@@ -1838,7 +1906,6 @@
     "title": "Beats 360 review: Customizable headphones capable of double duty",
     "description": "Beats goes all in on customization with the Beats 360, offering headphones that are built for use everywhere - including the gym.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-22T14:00:00+00:00",
@@ -1850,7 +1917,6 @@
     "title": "Beats 360 vs AirPods Max 2: How do Apple's flagship headphones compare?",
     "description": "We compare the new Beats 360 with the AirPods Max 2. Find out how they stack up in design, comfort and features to see which pair is right for you.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-22T14:00:00+00:00",
@@ -1862,7 +1928,6 @@
     "title": "Beats 360 vs Sony WH-1000XM6: How these high-end wireless headphones compare",
     "description": "See how the Beats 360 stacks up with the popular Sony WH-1000XM6 in design, comfort and features in our hands-on comparison.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-22T14:00:00+00:00",
@@ -1874,7 +1939,6 @@
     "title": "Review: Beats 360 are the closest Apple headphones to AirPods Max, with one caveat",
     "description": "The highly anticipated Beats 360 are now available for purchase. After being teased prior to the World Cup, Apple’s latest pair of Beats headphones are now on the market. I got an early hands-on with them, and they’re quite an interesting product offering that I’ve thoroughly enjoyed using – though they have one key flaw: no wired connectivity, which will bother some more than others.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-22T14:00:00+00:00",
@@ -1902,6 +1966,20 @@
     "pub_date": "2026-09-22T14:00:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/coffee_machine.jpg",
     "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
+    "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+    "description": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups",
+      "Science & Environment",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-22T14:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
   },
   {
     "link": "https://www.engadget.com/2265155/beats-360-headphones-interivew-oliver-schusser/",
@@ -2229,6 +2307,17 @@
     "source_name": "THENEXTWEB.COM"
   },
   {
+    "link": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
+    "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
+    "description": "No cameras? No problem. Viture’s first display-free smart glasses have bone-conduction microphones to privately record your daily musings.",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-09-22T13:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ab12960f8eb3bb5e52c1630/master/pass/VONDER_Oslo+Smoke+Ruby.png",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.wired.com/story/adobe-premiere-now-on-android/",
     "title": "Adobe Premiere, One of the iPhone’s Best Video-Editing Apps, Is Now on Android",
     "description": "The Android version of Premiere has unique layouts on candy bar phones and foldable devices. It’s free to use and available today.",
@@ -2238,17 +2327,6 @@
     ],
     "pub_date": "2026-09-22T13:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6ab131a7530447c2889b0342/master/pass/Enhance%20Audio.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
-    "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
-    "description": "No cameras? No problem. Viture’s first display-free smart glasses have bone-conduction microphones to privately record your daily musings.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-22T13:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ab12960f8eb3bb5e52c1630/master/pass/VONDER_Oslo+Smoke+Ruby.png",
     "source_name": "WIRED.COM"
   },
   {
@@ -2273,86 +2351,5 @@
     "pub_date": "2026-09-22T13:00:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2286795091.jpg",
     "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/",
-    "title": "Bill Gates’ Breakthrough Energy bets these 21 startups will shape energy’s future",
-    "description": "To the investors at Bill Gates' Breakthrough Energy, the coming wave of electrification will make data center energy demands look quaint by comparison. Here's how they're preparing.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-22T13:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
-    "title": "Everyone can find a reason to dislike data center construction",
-    "description": "Inside two years of fraught AI data center debates in Pennsylvania.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-22T13:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2265077/sonos-beam-ultra-review/",
-    "title": "Sonos Beam Ultra review: A huge Atmos upgrade for $699",
-    "description": "The Sonos Beam Ultra isn't quite mid-range at $699, but it sounds almost as good as the huge Sonos Arc.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-22T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/sonos-beam-ultra-review/l-intro-1790087679.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2264528/sonos-ace-ultra-headphones-review/",
-    "title": "Sonos Ace Ultra review: Giving the people what they want",
-    "description": "The Ace Ultra is an obvious upgrade over the original Ace headphones, with headphone linking performing reliably already, even in its early phase.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-22T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/sonos-ace-ultra-review-giving-the-people-what-they-want/l-intro-1790016741.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/998184/waymo-public-transportation-discount-subway-bus-visa",
-    "title": "Waymo is offering transit discounts again, this time with Visa",
-    "description": "Waymo has made several attempts over the years at offering transit discounts to its customers in the hopes of getting them to more frequently use the company's robotaxis to connect with a train or a bus. The Alphabet-owned company announced the latest effort today, teaming up with Visa to offer a discount on robotaxi rides",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-22T13:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2291459931.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/998243/essilorluxottica-nuance-audio-plus-otc-hearing-aid-glasses",
-    "title": "These discreet hearing aid glasses now have better voice boosting and battery life",
-    "description": "EssilorLuxottica, the company that Meta partnered with for its Ray-Ban smart glasses, announced a new version of its Nuance Audio glasses that are designed to double as discreet over-the-counter hearing aids. The new Nuance Audio Plus still manages to squeeze their FDA cleared hearing aid tech into temple arms that don't look much thicker than",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-22T13:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/nuance1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2262039/vibe-coded-modern-task-manager-runs-on-mac-and-linux/",
-    "title": "The creator of Windows Task Manager has 'vibe coded' a new version that runs on macOS and Linux",
-    "description": "Three decades after he wrote the original Windows Task Manager at Microsoft, Dave Plummer is back with a new iteration that works on macOS and Linux too.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-22T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/the-creator-of-windows-task-manager-has-vibe-coded-a-new-version-that-runs-on-macos-and-linux/l-intro-1789725308.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
