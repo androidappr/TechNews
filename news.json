@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://thenextweb.com/news/biolevate-raises-30m-series-a-boston",
+    "title": "Biolevate raises €30M Series A and opens Boston office for its life sciences AI",
+    "description": "The Paris-based company Biolevate, which develops AI automation for use in regulated life sciences, has raised €30m in its Series A funding and has opened an office in Boston. Orange Ventures and RAISE France co-led the fundraising exercise, with the company stating that RAISE France is the investment arm of Aymar Hénin, a French entrepreneur.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-22T09:08:45+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/Biolevate-founders.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
     "title": "How to Use AI With Your Privacy Intact",
     "description": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here’s how you can protect yourself.",
@@ -12,6 +24,29 @@
     "pub_date": "2026-09-22T09:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6aa859b2e4f947f2c71d66cb/master/pass/Security_TheWIREDguidetoUsingAIWhileProtectingYourPrivacy_v-ezgif.com-video-to-gif-converter.gif",
     "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/best-early-amazon-october-prime-day-dji-deals-2026",
+    "title": "The best early October Prime Day deals on DJI creator tools: I found deals on mics, drones, and cameras",
+    "description": "October Prime Day deals on DJI creator tools are already live. Shop the best deals on drones, vlogging cameras, mics, and more.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-22T09:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/05B2e9vOMTt7TEw4uTW52Fe/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/article/adultfriendfinder-features-exclusive-to-paid-users",
+    "title": "3 AdultFriendFinder features exclusive to paid users",
+    "description": "What AdultFriendFinder features are exclusive to paid users? These exclusive perks for paid users help justify the monthly cost.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-22T09:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/039ZOilAFspWvYD93ICnDEk/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techradar.com/computing/social-media/its-a-grand-experiment-bluebird-president-on-the-twitter-revival-platform-thats-now-called-tweet-and-why-it-wont-be-using-that-blue-bird",
@@ -380,7 +415,6 @@
     "title": "Amazon, Walmart and other companies are using drones for fast deliveries in Richardson, Texas, but residents complain about noise and clumsy package drops (Juliet Macur/New York Times)",
     "description": "Juliet Macur / New York Times:\nAmazon, Walmart and other companies are using drones for fast deliveries in Richardson, Texas, but residents complain about noise and clumsy package drops  —  In Richardson, a fleet of drones has started to deliver goods quickly.  But the noise is drowning out life for some residents: 'We can't live like this.'",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-22T05:30:02+00:00",
@@ -443,6 +477,17 @@
     "source_name": "WIRED.COM"
   },
   {
+    "link": "https://www.wired.com/story/acer-promo-code/",
+    "title": "Acer Promo Codes: 40% Off",
+    "description": "From 40% off accessory bundles to verified student and military discounts, here's how to save on Predator, Nitro, and Swift laptops and monitors at Acer.com.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-22T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.wired.com/story/select-blinds-promo-code/",
     "title": "SelectBlinds Promo Codes & Coupons: 10% Off",
     "description": "Redecorate your home for less with our expert tips on applying SelectBlinds coupons, maximizing holiday sales, and locking in new customer discounts.",
@@ -484,17 +529,6 @@
     ],
     "pub_date": "2026-09-22T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/acer-promo-code/",
-    "title": "Acer Promo Codes: 40% Off",
-    "description": "From 40% off accessory bundles to verified student and military discounts, here's how to save on Predator, Nitro, and Swift laptops and monitors at Acer.com.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-22T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
     "source_name": "WIRED.COM"
   },
   {
@@ -545,7 +579,7 @@
   {
     "link": "https://www.techmeme.com/260921/p59#a260921p59",
     "title": "Alibaba CEO Eddie Wu says the company plans to train a 5T- to 10T-parameter AI model, as it lays out a sweeping push across AI models, chips, and data centers (Reuters)",
-    "description": "Reuters:\nAlibaba CEO Eddie Wu says the company plans to train a 5T- to 10T-parameter AI model, as it lays out a sweeping push across AI models, chips, and data centers  —  Alibaba Group (9988.HK) plans to train a new artificial intelligence model with 5 trillion to 10 trillion parameters …",
+    "description": "Reuters:\nAlibaba CEO Eddie Wu says the company plans to train a 5T- to 10T-parameter AI model, as it lays out a sweeping push across AI models, chips, and data centers  —  Alibaba Group (9988.HK) said on Tuesday it was developing an AI model up to four times larger than the company's flagship model …",
     "categories": [
       "Tech News"
     ],
@@ -2221,38 +2255,5 @@
     "pub_date": "2026-09-21T15:32:22+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-Apple-Watch-Ultra-4-AirPods-Pro-3-Studio-Display.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/phones/google-pixel/after-a-few-quiet-weeks-verizon-just-brought-back-its-best-google-pixel-11-deal-thats-a-free-pixel-11-pro-256gb-no-trade-in-required",
-    "title": "After a few quiet weeks, Verizon just brought back its best Google Pixel 11 deal — that's a FREE Pixel 11 Pro 256GB, no trade-in required",
-    "description": "Verizon is running an offer that will land you a free Google Pixel 11 Pro when you add a line with an eligible unlimited plan.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T15:31:35+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/szVyTdHT46kDfFJ64rRg37-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.techradar.com/audio/spotify/someone-used-this-spotify-tool-to-cheat-and-preview-their-wrapped-2026-summary-and-i-tried-it-out-and-it-works-but-theres-no-way-id-do-it-again",
-    "title": "Someone used this Spotify tool to cheat and preview their Wrapped 2026 summary, and I tried it out and it works — but there’s no way I’d do it again",
-    "description": "With Spotify's Prompted Playlists, you can get a sneak preview of what your Wrapped could look like.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T15:30:34+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/kewvuHNGVjkSMysXr4KEZ-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2260782/nintendo-game-watch-explained/",
-    "title": "How Nintendo's Game & Watch was inspired by a calculator and boredom",
-    "description": "The Game & Watch line was one of Nintendo's most successful early game projects, and the man behind it was inspired from an unlikely source.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-21T15:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/how-nintendos-game-watch-was-inspired-by-a-calculator-and-boredom/l-intro-1789592504.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
