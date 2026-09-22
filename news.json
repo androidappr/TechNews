@@ -1,5 +1,75 @@
 [
   {
+    "link": "https://www.techmeme.com/260922/p29#a260922p29",
+    "title": "Sources: after a deadly school strike in Iran, US Central Command changed its targeting process, integrated open-source data, and upgraded Palantir's Maven (Katrina Manson/Bloomberg)",
+    "description": "Katrina Manson / Bloomberg:\nSources: after a deadly school strike in Iran, US Central Command changed its targeting process, integrated open-source data, and upgraded Palantir's Maven  —  The changes include refining processes for vetting targets and adding open-source data feeds to better track civilian movement.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-22T13:45:01+00:00",
+    "image_url": "http://www.techmeme.com/260922/i29.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260922/p28#a260922p28",
+    "title": "Sources: Xi Jinping is unlikely to bring corporate executives to his DC summit with Trump; industry officials expected them at a dinner with top US tech CEOs (Wall Street Journal)",
+    "description": "Wall Street Journal:\nSources: Xi Jinping is unlikely to bring corporate executives to his DC summit with Trump; industry officials expected them at a dinner with top US tech CEOs  —  Expectations for major business deals fade, although preparations are continuing  —  WASHINGTON—Chinese leader Xi Jinping …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-22T13:35:01+00:00",
+    "image_url": "http://www.techmeme.com/260922/i28.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/22/security-bite-the-last-24-hours-at-meta-were-not-a-musing/",
+    "title": "Security Bite: The last 24 hours at Meta were “not-a-musing”",
+    "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening & Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\n\n\n\n\n\n\n\nMeta has spent the last two weeks telling anyone who’ll listen how secure its new Muse personal AI agent is. The company boasted about its dedicated Secure VM, a monitoring system called Sentinel, and bug bounty rewards of up to $300,000. Mark Zuckerberg himself even publicly stated the agent is “built from the ground up for privacy and security.”\n\n\n\nThen Patrick Wardle, macOS security researcher and friend of Security Bite, found a 0-day vulnerability in the Muse app on Mac that made the last 24 hours particularly not-a-musing (what Wardle comically named the finding).\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-22T13:34:30+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Muse-by-Meta.webp?w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2262051/how-to-start-vr-mode-steam/",
+    "title": "How to enter VR mode on Steam",
+    "description": "If you've bought a VR headset and already installed Steam, it only takes a few minutes to get everything set up and ready for gaming in virtual reality.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-22T13:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-to-enter-vr-mode-on-steam/l-intro-1789729324.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/audio/wireless-headphones/sonos-ace-ultra-review",
+    "title": "Sonos Ace Ultra review: more musical, more feature-rich, much improved headphones",
+    "description": "The Sonos Ace Ultra are true all-rounder wireless over-ear headphones, offering excellent sound quality for music and movies, enhanced ANC and more features than ever before.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-22T13:30:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/SLBsDP3URxp7hQv67AsQ6X-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/televisions/soundbars/sonos-beam-ultra-review",
+    "title": "Sonos Beam Ultra review: one of the best compact Dolby Atmos soundbars around",
+    "description": "The Sonos Beam Ultra is an excellent compact Dolby Atmos soundbar that offers expansive, immersive, and clear audio for movies and music alike.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-22T13:30:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/BaTjkWhJ2KFWZD3DyZG5gR-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/09/22/pitaka-iphone-18-cases/",
     "title": "PITAKA’s iPhone 18 Pro cases bring stunning designs and protection from $59.99 [Save 10%]",
     "description": "PITAKA’s iPhone 18 Pro cases bring new colors, updated materials, and three different approaches to protecting your next iPhone. Whether you prefer a barely-there shell or a case with reinforced corners, the new lineup builds on the company’s signature woven aramid fiber design with style.\n\n\n\nThe collection includes the Edge Case, Cairn Case, and Summa Case for iPhone 18 Pro and Pro Max. PITAKA also has an Edge option for Apple’s new foldable iPhone 18 Duo, with separate back shell and front frame options. 9to5Mac readers can also save 10% with promo code PITAKA10OFF now through October 9.\n\n\n\n more…",
@@ -229,6 +299,7 @@
     "title": "Sonos Beam Ultra review: A huge Atmos upgrade for $699",
     "description": "The Sonos Beam Ultra isn't quite mid-range at $699, but it sounds almost as good as the huge Sonos Arc.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-22T13:00:00+00:00",
@@ -240,6 +311,7 @@
     "title": "Sonos Ace Ultra review: Giving the people what they want",
     "description": "The Ace Ultra is an obvious upgrade over the original Ace headphones, with headphone linking performing reliably already, even in its early phase.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-22T13:00:00+00:00",
@@ -1611,7 +1683,7 @@
   {
     "link": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
     "title": "Morphotonics raises €40M to expand its display tech into data centers",
-    "description": "Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
+    "description": "Deep tech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
     "categories": [
       "Business & Startups"
     ],
@@ -1653,6 +1725,17 @@
     "source_name": "TECHMEME.COM"
   },
   {
+    "link": "https://www.wired.com/story/meta-quest-promo-code/",
+    "title": "Meta Quest Promo Codes and Coupons for September 2026",
+    "description": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-22T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.wired.com/story/layla-sleep-coupon/",
     "title": "Layla Sleep Coupon: Save Up to $600 in September 2026",
     "description": "Upgrade your sleep setup with the latest Layla promo codes. Save on flippable mattresses, copper-infused pillows, and adjustable bases in September 2026.",
@@ -1683,17 +1766,6 @@
     ],
     "pub_date": "2026-09-22T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/meta-quest-promo-code/",
-    "title": "Meta Quest Promo Codes and Coupons for September 2026",
-    "description": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-22T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
     "source_name": "WIRED.COM"
   },
   {
@@ -2226,71 +2298,5 @@
     "pub_date": "2026-09-21T22:10:02+00:00",
     "image_url": "http://www.techmeme.com/260921/i52.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/services-and-software/rathat-malware-attacks-android-phones/",
-    "title": "Say Hello to RatHat, a New AI-Powered Malware Invading the Android Ecosystem",
-    "description": "The malware pretends to be a legitimate download for an app like Google Chrome.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-21T22:10:01+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/RatHat-Malware.png",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/21/whatsapp-now-lets-apple-watch-users-react-with-any-emoji/",
-    "title": "WhatsApp now lets Apple Watch users react with any emoji",
-    "description": "Following WhatsApp’s initial limited rollout of emoji reactions on the Apple Watch, the app is now rolling out support for the full set of emojis available on watchOS. Here are the details.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T22:07:49+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/whatsapp-glass.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/huawei-ascend-960-superpod-aims-to-surpass-nvidia-ai-hardware-in-china-960e-with-over-4-000-npus-and-an-upgraded-unifiedbus-interconnect-aims-for-10-trillion-parameters",
-    "title": "Huawei Ascend 960 SuperPoD aims to surpass Nvidia AI hardware in China — 960E with over 4,000 NPUs and an upgraded UnifiedBus Interconnect aims for 10 trillion parameters",
-    "description": "Huawei’s Ascend 960 roadmap combines massive processor counts, UnifiedBus and optical links to support increasingly demanding AI workloads.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T22:05:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/WGzyGL2psLBnzWYh9cEtpH-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/services-and-software/napster-developing-ai-teacher-clones-education/",
-    "title": "Napster Developing AI Teacher Clones to Provide Personalized Homework Support",
-    "description": "The company, once a file-sharing app and then a streaming service, is teaming up with an educational organization in the Middle East to create virtual replicas of teachers.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-21T22:01:04+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Napster-Learn.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2261383/how-to-turn-off-google-location-history/",
-    "title": "How to turn off your Google location history",
-    "description": "Google Maps' Timeline feature is great for looking back at your past travels, but it's also discomforting to see all that history in one place.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T22:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/how-to-turn-off-your-google-location-history/l-intro-1789661432.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/sept-21-microsoft-office-professional-plus-2019-for-windows",
-    "title": "Pay just $17 and keep Microsoft Office 2019 on your PC",
-    "description": "Get Microsoft Office Professional Plus 2019 for Windows for $16.97 through Sept. 27, including Word, Excel, PowerPoint, Outlook, and more.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T22:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05KuLuadFir3Agl5Ufzor6v/hero-image.png",
-    "source_name": "MASHABLE.COM"
   }
 ]
