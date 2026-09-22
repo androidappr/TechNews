@@ -1,5 +1,42 @@
 [
   {
+    "link": "https://thenextweb.com/news/anthropic-openai-australia-ai-training-copyright",
+    "title": "Anthropic and OpenAI ask Australia to ease its ban on AI training with local content",
+    "description": "Anthropic and OpenAI have asked Australian lawmakers to reconsider rules that stop them from training AI models on the country’s creative work, Reuters reported on Tuesday, citing the companies’ submissions to a parliamentary inquiry into AI laws. In October 2025, the Australian government stated that it would not include a text and data mining exception in",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-22T11:26:56+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/Anthropic-and-OpenAI.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+    "title": "‘I wish Apple would just stop that crap': Apple has added persistent ‘ads’ to iOS, and it’s driving users crazy",
+    "description": "iOS users are complaining that Apple is placing ‘ads’ for its own products on their iPhones.",
+    "categories": [
+      "Gadgets & Hardware",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-22T11:23:42+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/sMMYYw2WasgE4m4saLhZ9M-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/deepseek-un-security-council-ai-briefing",
+    "title": "DeepSeek to brief UN Security Council on AI risks this week, Reuters reports",
+    "description": "According to an exclusive Reuters report published today, which cites two individuals familiar with the situation, DeepSeek is expected to speak to the UN Security Council this week about the risks posed by AI, alongside several US companies. The 15-member council will be meeting on Wednesday, while world leaders are in New York for the",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-22T11:16:23+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/United-Nations-Security-Council-Chamber.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260922/p14#a260922p14",
     "title": "The Austrian Academy of Science, Mistral, and Sail Reply plan to launch Apollo, an Ancient Greek LLM trained on ~600M historical Greek words, available for free (Joel Khalili/Wired)",
     "description": "Joel Khalili / Wired:\nThe Austrian Academy of Science, Mistral, and Sail Reply plan to launch Apollo, an Ancient Greek LLM trained on ~600M historical Greek words, available for free  —  In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragments.",
@@ -78,6 +115,17 @@
     "pub_date": "2026-09-22T11:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/pelotons-tread-flex-is-its-first-fold-up-and-most-affordable-treadmill/l-intro-1790072379.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://mashable.com/life/match-upward-app-relaunch-tradwife-gen-z",
+    "title": "Christian dating app Upward rebranded for marriage-focused Gen Zers",
+    "description": "Match rebrands Christian dating app Upward as a place for Gen Z daters who want to get married.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-22T11:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/05fI1HooFChk2EqJI3M04EI/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techradar.com/computing/gpu/nvidias-rtx-6000-gpus-rumored-for-2028-not-next-year-and-i-think-that-makes-a-lot-of-sense-given-the-ram-crisis",
@@ -874,17 +922,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.wired.com/story/meta-quest-promo-code/",
-    "title": "Meta Quest Promo Codes and Coupons for September 2026",
-    "description": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-22T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/1password-coupon/",
     "title": "1Password Coupon: Score a Free Trial in September 2026",
     "description": "Save up to 28% on business and personal memberships with 1Password promo codes and deals.",
@@ -893,6 +930,17 @@
     ],
     "pub_date": "2026-09-22T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/meta-quest-promo-code/",
+    "title": "Meta Quest Promo Codes and Coupons for September 2026",
+    "description": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-22T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
     "source_name": "WIRED.COM"
   },
   {
@@ -2223,50 +2271,5 @@
     "pub_date": "2026-09-21T17:00:57+00:00",
     "image_url": "http://www.techmeme.com/260921/i43.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/apple-airpods-5-review",
-    "title": "Apple AirPods 5 review: Who needs the Pro, anyway?",
-    "description": "Apple's new AirPods 5 are here, and we took them for a spin. Hint: They're really, really good.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T17:00:25+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/reviews/01Qg8BKzVt5gfEOnLIolkOF/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/e-waste-from-ai-boom-and-building-data-centers-could-stretch-six-times-around-the-earth-by-2050-report-warns",
-    "title": "E-waste from AI boom and building data centers could stretch six times around the Earth by 2050, report warns",
-    "description": "New report reveals just how much AI data center e-waste is likely unaccounted for, and how much each campus likely uses.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T17:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/kBZ4c2UYkLaXhNYVzvGs4b-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2264203/engadget-indie-pitch-dressmaker/",
-    "title": "Engadget Indie Pitch: Dressmaker",
-    "description": "The viral indie game Dressmaker hits Steam today, so here's a juicy QA with the dev team at Cozy Lives.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-21T17:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/engadget-indie-pitch-dressmaker/l-intro-1790006620.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-    "title": "Google confirms Gemini models hacked three companies in May 2026",
-    "description": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-21T16:57:26+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
