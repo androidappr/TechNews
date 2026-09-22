@@ -1,5 +1,69 @@
 [
   {
+    "link": "https://thenextweb.com/news/openai-evaluators-training-phase",
+    "title": "OpenAI will let outside groups test its models during training",
+    "description": "OpenAI says it will let third-party groups run technical safety assessments while models are being trained and evaluated rather than only before launch, and is in talks with groups including METR and Redwood Research. It has named no partner and set no access terms, ten days after Sam Altman promised evaluators employee-level access and the",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-22T18:25:53+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/openai-dublin-250-jobs-european-headquarters-expansion.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260922/p44#a260922p44",
+    "title": "GPT-6 Sol costs $2/1M input and $10/1M output tokens, and GPT-6 Luna costs $0.10/1M input and $0.50/1M output tokens, both about 50% cheaper than GPT-5.6 (Nat Rubio-Licht/The Deep View)",
+    "description": "Nat Rubio-Licht / The Deep View:\nGPT-6 Sol costs $2/1M input and $10/1M output tokens, and GPT-6 Luna costs $0.10/1M input and $0.50/1M output tokens, both about 50% cheaper than GPT-5.6  —  OpenAI is releasing a more budget-friendly version of its most powerful model.  —  On Tuesday, the company unveiled GPT-6 Sol and GPT-6 Luna …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-22T18:25:01+00:00",
+    "image_url": "http://www.techmeme.com/260922/i44.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/xiaomi-mimo-v2-6-open-weight-model-anthropic-distillation",
+    "title": "A phone maker now has the world’s top open-weight AI model",
+    "description": "Frontier intelligence, all the modalities, built in public. Xiaomi opened its MiMo-V2.6 announcement with that line on Tuesday. The phone and electric car maker released two open-weight models, Pro and Flash, under an MIT licence. The weights are on Hugging Face. The benchmark firm Artificial Analysis scores MiMo-V2.6-Pro at 46 on its Intelligence Index. That",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-22T18:25:00+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/xiaomi-headquarters.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
+    "title": "A16z is challenging Silicon Valley’s love for drop-outs by launching a school",
+    "description": "This academy for promising high school grads is somewhere between a trade-school, Y Combinator and Peter Thiel's Fellowship Program.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-22T18:24:34+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
+    "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
+    "description": "Apple may pay out up to $95 for each eligible iPhone purchased by someone who felt misled about Siri’s release. You have until December 21 to submit a claim.",
+    "categories": [
+      "AI & Machine Learning",
+      "Gadgets & Hardware",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-22T18:19:13+00:00",
+    "image_url": "https://media.wired.com/photos/6ab2a6f4d38d5a63a756fca7/master/pass/GettyImages-1683464893%20(1).jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260922/p43#a260922p43",
     "title": "OpenAI launches GPT-6 Sol and Luna, saying Sol makes about half as many mistakes as GPT-5.6 Sol and Luna matches GPT-5.6 Sol's performance at ~1% of the cost (David Gewirtz/ZDNET)",
     "description": "David Gewirtz / ZDNET:\nOpenAI launches GPT-6 Sol and Luna, saying Sol makes about half as many mistakes as GPT-5.6 Sol and Luna matches GPT-5.6 Sol's performance at ~1% of the cost  —  GPT-6 Sol and Luna arrive less than three months after GPT-5.6, with OpenAI claiming major accuracy gains, dramatic cost reductions …",
@@ -67,6 +131,18 @@
     "pub_date": "2026-09-22T18:02:45+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/zapata-quantum-pilot-enterprise-quantum-applications",
+    "title": "Zapata Quantum opens early access to Quantum Pilot, a roadmap tool for enterprise quantum",
+    "description": "Quantum hardware roadmaps often include timelines, but they rarely answer the questions that matter most to a chief information officer: which problems will this solve, when will it happen, and at what cost? Zapata Quantum, a Boston-based quantum software company, believes it has created a tool to help with these decisions. The company has launched",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-22T18:00:57+00:00",
+    "image_url": "https://media.thenextweb.com/2026/04/Zapata-Quantum.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
@@ -1252,7 +1328,6 @@
     "description": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware",
       "Science & Environment"
@@ -2273,79 +2348,5 @@
     "pub_date": "2026-09-22T12:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268771_cheap_Mac_Neo_desktop_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/alien-isolation-2-artist-says-creative-assembly-has-to-recontextualize-things-from-the-film-that-would-be-believable-in-the-games-outdoor-setting-and-it-makes-sense-through-the-lens-of-someone-from-the-1970s",
-    "title": "Alien: Isolation 2 artist says Creative Assembly has to 'recontextualize' things from the film that would 'be believable' in the game's outdoor setting, and it makes sense 'through the lens of someone from the 1970s'",
-    "description": "Alien: Isolation 2 is still inspired by the Alien movie, but Creative Assembly had to make sure the game's environment fit its retro-futuristic aesthetic.",
-    "categories": [
-      "Breaking News",
-      "Gaming"
-    ],
-    "pub_date": "2026-09-22T11:59:26+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/7Uhu3LgjwjTTqUVomyGTCN-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/22/one-of-the-most-powerful-weather-apps-for-iphone-just-came-to-carplay/",
-    "title": "One of the most powerful weather apps for iPhone just came to CarPlay",
-    "description": "One of the best things about Apple’s CarPlay platform is the robust availability of third-party apps from iPhone. This week, RadarScope, the popular and powerful iPhone weather app, was updated with support for CarPlay.\n\n\n\n more…",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-22T11:56:11+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/radarscope-carplay.webp?w=1500",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
-    "title": "Meta patches Muse exploit that let attackers control the AI agent",
-    "description": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta's servers",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Cybersecurity & Privacy",
-      "Social & Media"
-    ],
-    "pub_date": "2026-09-22T11:53:58+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/andy-burnham-uk-g20-global-ai-agreement",
-    "title": "Andy Burnham wants the UK to use its G20 presidency to broker a global AI agreement",
-    "description": "Britain will try to broker a worldwide deal on AI during its upcoming turn at the head of the G20, Prime Minister Andy Burnham told reporters on the eve of the UN General Assembly in New York, Politico Europe reported. Britain was “uniquely positioned to play a leadership role on AI,” he said, pointing to",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-09-22T11:53:21+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/Andy-Burnham-in-Downing-Street.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260922/p16#a260922p16",
-    "title": "Sources: DeepSeek and Moonshot are among the companies briefing the UN Security Council on AI risks and international security during the UN General Assembly (Laurie Chen/Reuters)",
-    "description": "Laurie Chen / Reuters:\nSources: DeepSeek and Moonshot are among the companies briefing the UN Security Council on AI risks and international security during the UN General Assembly  —  Chinese AI startup DeepSeek will be among the companies briefing the United Nations Security Council this week on the risks posed …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-22T11:51:12+00:00",
-    "image_url": "http://www.techmeme.com/260922/i16.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/mobile/apples-mlb-dodgers-live-broadcast-was-shot-with-iphone-18-pro-max/",
-    "title": "Apple’s MLB Dodgers Live Broadcast Was Shot With iPhone 18 Pro Max",
-    "description": "Around half of the cameras that shot the baseball game were new iPhone 18 Pro Max units, some of which sent footage over 5G.",
-    "categories": [
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-09-22T11:47:14+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/IMG_0684.jpg",
-    "source_name": "CNET.COM"
   }
 ]
