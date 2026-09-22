@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://www.techmeme.com/260922/p20#a260922p20",
+    "title": "Cisco Talos releases CAIRN, an open-source framework designed to classify and analyze AI-integrated malware by tracking AI metadata and behavioral fingerprints (Lily Hay Newman/Wired)",
+    "description": "Lily Hay Newman / Wired:\nCisco Talos releases CAIRN, an open-source framework designed to classify and analyze AI-integrated malware by tracking AI metadata and behavioral fingerprints  —  Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots—and quickly discovered something unusual.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-22T12:25:05+00:00",
+    "image_url": "http://www.techmeme.com/260922/i20.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/22/former-apple-retail-chiefs-new-shop-different-book-now-available/",
+    "title": "Former Apple retail chief’s new ‘Shop Different’ book now available",
+    "description": "Ron Johnson, Apple’s former senior vice president of retail operations, is out with a new book today called ‘Shop Different: How Retail Revealed Apple’s Genius.’\n\n\n\nIn the book, Johnson tells the story of working alongside Steve Jobs to craft Apple’s retail strategy.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-22T12:23:35+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/shop-different.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+    "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+    "description": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-22T12:23:05+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/doordash-131-5m-settlement-nyc",
+    "title": "DoorDash agrees to pay $131.5M to settle New York City probe into delivery worker pay",
+    "description": "DoorDash has agreed to pay $131.5M to settle a New York City investigation that found it underpaid delivery workers or paid them late. The deal with the city’s Department of Consumer and Worker Protection (DCWP) ends a dispute that began early in Mayor Zohran Mamdani’s administration. “Simply put, we screwed up,” DoorDash said in a post",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-22T12:19:49+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/DoorDash-courier-in-New-York.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260922/p19#a260922p19",
     "title": "Cognex agrees to acquire robotics and 3D computer vision company RealSense in a ~$600M deal, including $500M in cash; Intel spun off RealSense in July 2025 (Sophie Shulman/CTech)",
     "description": "Sophie Shulman / CTech:\nCognex agrees to acquire robotics and 3D computer vision company RealSense in a ~$600M deal, including $500M in cash; Intel spun off RealSense in July 2025  —  The Haifa-based robotics company grew rapidly after its spinout 14 months ago, and its CEO says independence allowed it to pursue opportunities …",
@@ -49,23 +97,12 @@
     "title": "DoorDash agrees to a $131.5M settlement with NYC's DCWP to resolve a year-plus investigation into its compliance with the city's 2023 delivery driver pay law (Elias Schisgall/Wall Street Journal)",
     "description": "Elias Schisgall / Wall Street Journal:\nDoorDash agrees to a $131.5M settlement with NYC's DCWP to resolve a year-plus investigation into its compliance with the city's 2023 delivery driver pay law  —  DoorDash will pay $131.5 million to settle an investigation by New York City regulators into the company's compliance with pay laws for food-delivery workers.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-22T12:00:49+00:00",
     "image_url": "http://www.techmeme.com/260922/i17.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.theverge.com/report/998501/apple-mac-mini-m6-price-mac-neo-concept",
-    "title": "It’s time for the Mac Neo",
-    "description": "The Mac Mini is a great little desktop computer, and back when it cost $599, it was easy to recommend to anyone who wanted something speedy, simple, and cheap. The new M6 model is even better, but it starts at $899, and its 12-core CPU and 12-core GPU might actually be overkill for someone who",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-22T12:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268771_cheap_Mac_Neo_desktop_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.engadget.com/2261658/xpeng-building-humanoid-robots-walked-out-after-assembled/",
@@ -100,6 +137,18 @@
     "pub_date": "2026-09-22T12:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/AbUVetZp4kXPGG8DSmJ2C3-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.theverge.com/report/998501/apple-mac-mini-m6-price-mac-neo-concept",
+    "title": "It’s time for the Mac Neo",
+    "description": "The Mac Mini is a great little desktop computer, and back when it cost $599, it was easy to recommend to anyone who wanted something speedy, simple, and cheap. The new M6 model is even better, but it starts at $899, and its 12-core CPU and 12-core GPU might actually be overkill for someone who",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-22T12:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268771_cheap_Mac_Neo_desktop_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.techradar.com/gaming/alien-isolation-2-artist-says-creative-assembly-has-to-recontextualize-things-from-the-film-that-would-be-believable-in-the-games-outdoor-setting-and-it-makes-sense-through-the-lens-of-someone-from-the-1970s",
@@ -315,6 +364,19 @@
     "pub_date": "2026-09-22T11:11:06+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/aViE6RwLKngPbN3nW4E7zG-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/",
+    "title": "NASA chief: I'm only interested in \"good deals\" from international partners",
+    "description": "\"There was absolutely a time where we were trying to make everyone happy.\"",
+    "categories": [
+      "Breaking News",
+      "Government & Policy",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-22T11:00:37+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/55530373924_3ff4eff49b_6k-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/",
@@ -871,7 +933,6 @@
     "title": "I found 3 AirPods deals live ahead of October Prime Day (and 3 to wait for)",
     "description": "With Amazon's October Prime Day just around the corner, Mashable's headphones and earbuds expert is tracking the best AirPods deals leading up to the sale. Here's what's worth shopping so far.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-22T08:30:00+00:00",
@@ -883,7 +944,6 @@
     "title": "Jet2 signs multi-year deal with Adobe to personalise holidays with agentic AI",
     "description": "Jet2, the UK’s largest tour operator and, by its own count, its third-largest airline, has signed a multi-year partnership with Adobe to personalize holiday offers, recommendations, and support for its 10 million myJet2 customers using agentic AI. Jet2 will run Adobe CX Enterprise, the agentic platform Adobe introduced in April, with its CX Enterprise Coworker tool",
     "categories": [
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-09-22T08:28:58+00:00",
@@ -2217,60 +2277,5 @@
     "pub_date": "2026-09-21T18:30:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/heres-why-apples-mac-studio-has-become-so-expensive/l-intro-1790010905.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
-    "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
-    "description": "Future Google supplier Kairos Power inked a deal with Samsung C&T to help build its first 50-megawatt nuclear power plant.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-21T18:23:05+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260921/p47#a260921p47",
-    "title": "OpenAI says it is working with an independent advisory group of mathematicians to responsibly share math-related AI advances (OpenAI)",
-    "description": "OpenAI:\nOpenAI says it is working with an independent advisory group of mathematicians to responsibly share math-related AI advances  —  Loading...  On August 28, we began training a new internal model.  In addition to resolving the Navier-Stokes Millennium Prize problem, this model has now resolved …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T18:20:02+00:00",
-    "image_url": "http://www.techmeme.com/260921/i47.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/microsoft-google-took-down-usd66-million-cybercrime-marketplace-that-sold-virtual-machines-with-free-software",
-    "title": "Microsoft, Google took down $66 million cybercrime marketplace that sold virtual machines with free software",
-    "description": "Effort takes down RedVDS, a criminal marketplace believed to have contributed to $66 million losses to US businesses and individuals.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-21T18:20:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/cAewSdXkrLEUsD8muVzGX9-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260921/p46#a260921p46",
-    "title": "Source: before the Hugging Face incident, OpenAI was negotiating a legally binding deal with Anthropic for the companies to stress-test each other's models (The Information)",
-    "description": "The Information:\nSource: before the Hugging Face incident, OpenAI was negotiating a legally binding deal with Anthropic for the companies to stress-test each other's models  —  OpenAI is rethinking a range of safety strategies as it responds to fears from employees and others about the dangers its AI poses.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T18:15:01+00:00",
-    "image_url": "http://www.techmeme.com/260921/i46.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/21/bllavors-solar-power-bank-is-built-for-fall-camping-trips/",
-    "title": "MagSafe Monday: BLAVOR’s solar power bank is built for fall camping trips",
-    "description": "The weather is turning cooler, and it’s time for camping and football tailgates. BLAVOR’s 20000mAh Solar Power Bank is built for this time of year. It has four built-in cables so you can leave your bag at home, a solar panel for recharging, and a wireless pad on top for your iPhone and Apple Watch. Let’s take a look at it.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-21T18:11:00+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/solar-batter.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
