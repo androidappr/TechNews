@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
+    "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+    "description": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-22T18:40:30+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260922/p45#a260922p45",
+    "title": "Sources: Mirendil, founded by former Anthropic researchers to build self-improving AI, is in talks to raise ~$1B led by Kleiner Perkins at a $5B valuation (Bloomberg)",
+    "description": "Bloomberg:\nSources: Mirendil, founded by former Anthropic researchers to build self-improving AI, is in talks to raise ~$1B led by Kleiner Perkins at a $5B valuation  —  Mirendil, an artificial intelligence startup launched by former Anthropic PBC researchers, is in talks to raise a new round of funding …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-22T18:40:01+00:00",
+    "image_url": "http://www.techmeme.com/260922/i45.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/openai-evaluators-training-phase",
     "title": "OpenAI will let outside groups test its models during training",
     "description": "OpenAI says it will let third-party groups run technical safety assessments while models are being trained and evaluated rather than only before launch, and is in talks with groups including METR and Redwood Research. It has named no partner and set no access terms, ten days after Sam Altman promised evaluators employee-level access and the",
@@ -62,6 +85,18 @@
     "pub_date": "2026-09-22T18:19:13+00:00",
     "image_url": "https://media.wired.com/photos/6ab2a6f4d38d5a63a756fca7/master/pass/GettyImages-1683464893%20(1).jpg",
     "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.techradar.com/ai-platforms-assistants/trump-wants-to-rename-artificial-intelligence-super-intelligence-but-his-real-message-is-that-he-doesnt-want-to-regulate-it-and-thats-what-worries-me",
+    "title": "Trump wants to rename Artificial Intelligence ‘Super Intelligence’ — but something else worries me",
+    "description": "US President wants to rename Artificial Intelligence to 'Super Intelligence', but no matter the name, he won't be regulating it.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-22T18:15:10+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/RggUJsXG7EMnsFBWmD9g6W-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://www.techmeme.com/260922/p43#a260922p43",
@@ -1886,28 +1921,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
-    "title": "Everyone can find a reason to dislike data center construction",
-    "description": "Inside two years of fraught AI data center debates in Pennsylvania.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-22T13:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
-    "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
-    "description": "No cameras? No problem. Viture’s first display-free smart glasses have bone-conduction microphones to privately record your daily musings.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-22T13:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ab12960f8eb3bb5e52c1630/master/pass/VONDER_Oslo+Smoke+Ruby.png",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/adobe-premiere-now-on-android/",
     "title": "Adobe Premiere, One of the iPhone’s Best Video-Editing Apps, Is Now on Android",
     "description": "The Android version of Premiere has unique layouts on candy bar phones and foldable devices. It’s free to use and available today.",
@@ -1918,6 +1931,17 @@
     ],
     "pub_date": "2026-09-22T13:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6ab131a7530447c2889b0342/master/pass/Enhance%20Audio.png",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
+    "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
+    "description": "No cameras? No problem. Viture’s first display-free smart glasses have bone-conduction microphones to privately record your daily musings.",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-09-22T13:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ab12960f8eb3bb5e52c1630/master/pass/VONDER_Oslo+Smoke+Ruby.png",
     "source_name": "WIRED.COM"
   },
   {
@@ -1943,6 +1967,17 @@
     "pub_date": "2026-09-22T13:00:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2286795091.jpg",
     "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+    "title": "Everyone can find a reason to dislike data center construction",
+    "description": "Inside two years of fraught AI data center debates in Pennsylvania.",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-09-22T13:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
   },
   {
     "link": "https://www.engadget.com/2265077/sonos-beam-ultra-review/",
@@ -2314,39 +2349,5 @@
     "pub_date": "2026-09-22T12:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/VGPtSi99Vy7pCWeNLEcT5c-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/ai-platforms-assistants/the-bizarre-rise-of-grandmaslop-grandparents-are-filling-family-albums-with-ai-images-and-their-kids-hate-it",
-    "title": "The bizarre rise of ‘grandmaslop’ — grandparents are making AI images",
-    "description": "There's a disturbing new trend of grandparents producing AI images of their grandkids, but does it point to a larger societal issue?",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-22T12:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/AbUVetZp4kXPGG8DSmJ2C3-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2261658/xpeng-building-humanoid-robots-walked-out-after-assembled/",
-    "title": "XPENG's Iron humanoid robot walked out immediately after being assembled",
-    "description": "The humanoid robot was ready to work as soon as it was put together. It walked right out to receive its staff badge.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-22T12:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/xpengs-iron-humanoid-robot-walked-out-immediately-after-being-assembled/l-intro-1789669765.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.theverge.com/report/998501/apple-mac-mini-m6-price-mac-neo-concept",
-    "title": "It’s time for the Mac Neo",
-    "description": "The Mac Mini is a great little desktop computer, and back when it cost $599, it was easy to recommend to anyone who wanted something speedy, simple, and cheap. The new M6 model is even better, but it starts at $899, and its 12-core CPU and 12-core GPU might actually be overkill for someone who",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-22T12:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268771_cheap_Mac_Neo_desktop_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
