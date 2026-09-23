@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.techmeme.com/260922/p62#a260922p62",
+    "title": "Anthropic and OpenEvidence partner to offer a specialized version of OpenEvidence's AI search tool for physicians in about 100 low- and middle-income countries (Nancy Lapid/Reuters)",
+    "description": "Nancy Lapid / Reuters:\nAnthropic and OpenEvidence partner to offer a specialized version of OpenEvidence's AI search tool for physicians in about 100 low- and middle-income countries  —  Artificial intelligence startup Anthropic and medical knowledge platform OpenEvidence are collaborating to bring AI-powered …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-23T03:35:01+00:00",
+    "image_url": "http://www.techmeme.com/260922/i62.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
+    "title": "Discord’s age verification era is upon us, despite community backlash",
+    "description": "According to Discord, 90% of users will not have to verify their age.",
+    "categories": [
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-23T03:31:12+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260922/p61#a260922p61",
     "title": "Alibaba says it plans to build its first cloud regions in Turkey, Finland, and the Netherlands over the next 12 months, amid escalating US-China AI tensions (Bloomberg)",
     "description": "Bloomberg:\nAlibaba says it plans to build its first cloud regions in Turkey, Finland, and the Netherlands over the next 12 months, amid escalating US-China AI tensions  —  Alibaba Group Holding Ltd. is accelerating its data center expansion in Europe and the Middle East, propelling …",
@@ -98,6 +122,7 @@
     "title": "Discord rolls out its updated age-verification policy this week, sorting users into either the Adult or Teen group based on account age, activity levels, more (Anna Washenko/Engadget)",
     "description": "Anna Washenko / Engadget:\nDiscord rolls out its updated age-verification policy this week, sorting users into either the Adult or Teen group based on account age, activity levels, more  —  It will offer several privacy-focused options for users who aren't automatically confirmed as adults.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-23T01:10:01+00:00",
@@ -2268,29 +2293,5 @@
     "pub_date": "2026-09-22T15:56:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/02B5cRtTdEN7iSEvC8hzKhB/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/meta-muse-ai-assistant-zero-day-vulnerability-mac",
-    "title": "Meta’s Muse reportedly has zero-day vulnerability that lets attackers take over your Mac",
-    "description": "Met's popular AI assistant Muse has a concerning zero-day vulnerability, a new report claims.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-22T15:55:24+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06QxOj6rCT5PAbx0OjYhO6V/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/typesafe-jev-decision-model-vercel-fastest-adopted",
-    "title": "The fastest-adopted model on Vercel this year cannot write a word",
-    "description": "We have lightning in a bottle, and yet it is not useful. Diogo Almeida helped build ChatGPT. He worked on the instruction-following research behind it at OpenAI, and the four years since have left him disappointed by what it became, as he told TechCrunch last week. His answer is a model that cannot write a",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-22T15:55:20+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/computer-screen-code-terminal-output.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
