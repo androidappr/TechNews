@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://thenextweb.com/news/yahoo-scout-jim-lanzone-publishers-links-humanx",
+    "title": "Yahoo CEO says micropayments will never be enough for publishers",
+    "description": "Yahoo will keep its AI answer engine Scout full of links back to publishers, CEO Jim Lanzone said on Wednesday. He spoke on stage at HumanX in Amsterdam. He said micropayment deals will not pay publishers enough, and that Yahoo prefers search advertising instead. Lanzone said links serve two purposes. They let people check sources",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-23T20:49:18+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/jim-lanzone-yahoo-humanx-amsterdam-stage.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/23/apple-podcasts-will-soon-let-creators-offer-exclusive-videos-to-subscribers/",
+    "title": "Apple Podcasts will soon let creators offer exclusive videos to subscribers",
+    "description": "Apple announced this week that creators will soon be able to offer video through Apple Podcasts Subscriptions, “including subscriber-exclusive episodes, ad-free video, early access, and bonus content.” Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-23T20:46:39+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-podcasts.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
     "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
     "description": "The VC firm says that AI-native companies are growing faster than any technology, ever.",
@@ -50,6 +73,18 @@
     "source_name": "ENGADGET.COM"
   },
   {
+    "link": "https://www.cnet.com/tech/computing/microsoft-brings-snapdragon-x2-to-smallest-surface-pro-and-laptop-lines/",
+    "title": "Microsoft Brings Snapdragon X2 to Smallest Surface Pro and Laptop Lines",
+    "description": "The 12-inch Surface Pro and 13-inch Surface Laptop get brought up to speed with Qualcomm’s latest processors. And there’s a new Surface Mouse with haptics.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-23T20:30:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Surface-Pro-Laptop-Mouse-2-together.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.techradar.com/computing/windows-laptops/microsoft-announces-new-surface-pro-and-surface-laptop-devices-powered-by-qualcomms-snapdragon-x2-plus-chip-and-it-could-be-its-best-shot-at-taking-on-apples-macbook-air",
     "title": "Microsoft reveals new Surface Pro and Surface Laptop devices",
     "description": "The Microsoft vs Apple fight just got interesting again thanks to new Surface Pro and Surface Laptop reveals.",
@@ -60,6 +95,18 @@
     "pub_date": "2026-09-23T20:30:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/RVMYdSZZgtfRR7nSKV6UsV-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/microsoft-surface-laptop-13-inch-surface-pro-12-inch-2nd-edition",
+    "title": "Microsoft announces updated Surface Laptop 13-inch, Surface Pro 12-inch starting at $1,149.99",
+    "description": "Microsoft has announced the Surface Laptop 13-inch (2nd edition) and Surface Pro 12-inch (2nd edition) with the Snapdragon X2 Plus chip, out Oct. 13.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-23T20:30:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/07yTohMkji9HKSYUz8mjV3f/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
@@ -887,8 +934,7 @@
     "title": "ChatGPT mobile app gets voice-based agentic features",
     "description": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-23T17:00:00+00:00",
     "image_url": null,
@@ -921,8 +967,7 @@
     "title": "Even Americans who use AI every day are worried about it",
     "description": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-23T16:49:58+00:00",
     "image_url": null,
@@ -946,7 +991,6 @@
     "title": "Wonka’s Golden Ticket on Netflix: How it uses AI Gene Wilder",
     "description": "Netflix turned 'Willy Wonka' into a game show and resurrected Gene Wilder via AI to host it.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-23T16:46:24+00:00",
@@ -1510,7 +1554,6 @@
     "title": "YouTube will soon let you generate custom feeds and use GIFs in comments",
     "description": "Microdrama fans might find it easier to follow their favorite shows too.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-23T14:59:02+00:00",
@@ -2310,52 +2353,5 @@
     "pub_date": "2026-09-23T13:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/9ydusJngspE6Lvc3RSYuFo-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/phones/samsung-galaxy-phones/samsung-is-tipped-to-add-security-chips-to-galaxy-phones-and-begin-its-crackdown-on-fake-battery-replacements",
-    "title": "Samsung reportedly adding security chips to Galaxy phone batteries to combat fake replacements",
-    "description": "Authentication chips would ensure your Galaxy phone battery is safe and genuine, but Samsung has yet to comment.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T13:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/y8obuWueSSLeh7GfgU9p7M-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/audio/wireless-headphones/beats-360-are-one-of-the-most-comfortable-best-sounding-headphones-ive-ever-worn-and-made-supergirl-more-watchable-than-it-should-be",
-    "title": "Beats 360 are one of the most comfortable, best-sounding headphones I've ever worn",
-    "description": "I've been test-driving Beats 360, and I love the fit, the sound, and how it made one movie more enjoyable than it might've been otherwise.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T13:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/QYmmsgicHbd9WuKeW6eVVH-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/audio/spotify/spotify-is-bringing-its-algorithm-amending-taste-profile-tool-to-listeners-in-the-us-and-it-could-be-your-one-way-ticket-to-wiping-your-most-hated-genres-from-your-feed",
-    "title": "Spotify's Taste Profile tool is now available in beta for US Premium subscribers",
-    "description": "Listeners in the US can now feed what they want to hear directly to the new Taste Profile tab.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T13:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/n9V4AXdU7YKsDUcVjZNHMM-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/mozilla-posters-musk-zuckerberg-new-york",
-    "title": "Mozilla puts up posters criticising Musk and Zuckerberg across New York",
-    "description": "The Mozilla Foundation has begun putting up posters across New York criticizing tech billionaires, including Mark Zuckerberg and Elon Musk. The campaign went up this week, Business Insider reported. The foundation is the nonprofit that owns Mozilla Corporation, the maker of Firefox. Its posters set the work of Musk, Zuckerberg and Jeff Bezos against projects",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T12:57:52+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/Mozilla-Firefox.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
