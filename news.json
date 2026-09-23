@@ -1,5 +1,63 @@
 [
   {
+    "link": "https://www.techradar.com/pro/obsbots-meet-2-4k-webcam-packs-ai-framing-and-gesture-controls-into-a-pocket-sized-shell-and-its-now-23-percent-off-at-amazon",
+    "title": "Obsbot’s Meet 2 4K webcam with AI framing is now 23% off",
+    "description": "Obsbot's webcam range has always impressed us during tests, so the Meet 2 4K webcam with AI framing, autofocus, and gesture control is well worth checking out.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-23T17:10:42+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/4AYNUnvQkitU75XKevon4c-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/privacy-policies-on-top-llms-take-over-20-minutes-to-read-so-perhaps-it-no-wonder-people-are-signing-their-lives-over-to-chatgpt-and-others",
+    "title": "Privacy policies on top LLMs take over 20 minutes to read, so perhaps it no wonder people are signing their lives over to ChatGPT and others",
+    "description": "Technical and legal jargon make privacy policies for LLMs and their chatbots almost unreadable for most people.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-23T17:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/toJsHzqsNXvBcnSCEFy6VL-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/deepseek-dsec-agent-sandboxes",
+    "title": "DeepSeek publishes its method for training AI agents at scale",
+    "description": "DeepSeek has published a paper describing the platform it uses to train AI agents, which runs about 3 million sandboxes a day and states that agent execution is untrustworthy and that no single mechanism can prevent all misbehaviour. Europe requires every member state to have a regulatory sandbox of a very different kind operational by",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-23T17:04:27+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/Deepseek-chat-interface.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/audio/wireless-headphones/sonos-ace-ultra-vs-sonos-ace",
+    "title": "5 upgrades that I love on the Sonos Ace Ultra headphones that make them worth buying",
+    "description": "The Sonos Ace Ultra may look a lot like the original model, but it’s what’s inside that counts — and there are several substantial upgrades that I’ve come to appreciate.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-23T17:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/tiMQ4QfG88yCTQkqdL5G7B-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/vpn/vpn-services/your-expressvpn-app-on-windows-mac-and-linux-just-got-more-flexible-and-more-reliable",
+    "title": "Your ExpressVPN app on Windows, Mac, and Linux just got more flexible and more reliable",
+    "description": "ExpressVPN has released version 14.3.1 for Windows, Mac, and Linux, bringing Advanced Protection to every protocol, a faster speed test, and better accessibility.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-23T16:56:45+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/gdAowPVB5WAG8wcwd7H3QW-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
     "title": "Even Americans who use AI every day are worried about it",
     "description": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
@@ -358,8 +416,8 @@
   },
   {
     "link": "https://www.theverge.com/news/999404/xbox-mythic-achievement-feature",
-    "title": "Xbox’s Mythic achievements sound like PlayStation’s Platinum trophy",
-    "description": "Xbox appears to be ready to launch its own version of PlayStation's platinum trophies. A new update to the Xbox PC app has revealed Mythic achievements, which according to data in the app will appear once a player completes all the achievements in a game. Mythic achievements appear on screen with a unique unlock sound,",
+    "title": "Xbox’s Mythic Achievements sound like PlayStation’s Platinum trophy",
+    "description": "Xbox appears to be ready to launch its own version of PlayStation's platinum trophies. A new update to the Xbox PC app has revealed Mythic Achievements, which according to data in the app will appear once a player completes all the Achievements in a game. Mythic Achievements appear on screen with a unique unlock sound,",
     "categories": [
       "Breaking News",
       "Gaming"
@@ -545,6 +603,18 @@
     "pub_date": "2026-09-23T15:01:16+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/UNA-takes-on-Apple-and-Garmin-.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/business/windows-update-break-file-history-fix-available/",
+    "title": "How to fix your Windows File History if the September update broke it",
+    "description": "A bug in the Windows Sept patch Tuesday update may stop File History from working. But a new optional update fixes it.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-23T15:01:00+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Lance-Windows-laptop.jpg",
+    "source_name": "ZDNET.COM"
   },
   {
     "link": "https://thenextweb.com/news/openai-maths-advisory-group-100-open-problems",
@@ -1047,7 +1117,7 @@
   {
     "link": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
     "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
-    "description": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25, 11:59 p.m. PT. Register here.",
+    "description": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25 at 11:59 p.m. PT. Register today.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -1299,7 +1369,6 @@
     "title": "HypeAuditor: OpenAI doubled its sponsored Instagram posts promoting ChatGPT from 61 in June to 122 in July, rising again to 141 in August, as it seeks new users (Business Insider)",
     "description": "Business Insider:\nHypeAuditor: OpenAI doubled its sponsored Instagram posts promoting ChatGPT from 61 in June to 122 in July, rising again to 141 in August, as it seeks new users  —  AI's reputation is in hot water.  Can influencers save it?  —  OpenAI has been ramping up its creator marketing efforts as AI safety concerns take center stage.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-23T13:05:07+00:00",
@@ -2290,74 +2359,6 @@
     ],
     "pub_date": "2026-09-23T09:52:20+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/videos/07MC6PyBAi4SuAbBecheIb0/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/cma-google-choice-screens-ai-assistants",
-    "title": "UK regulator toughens Google choice screen proposals as AI assistants rise",
-    "description": "The next time a UK Android user is asked to pick a search engine, ChatGPT could be one of the answers. The Competition and Markets Authority (CMA) published strengthened proposals on Wednesday that would require Google to include AI assistants on its Android and Chrome choice screens, provided they meet technical and security criteria. Under the",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T09:47:46+00:00",
-    "image_url": "https://media.thenextweb.com/2026/06/CMA.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/organization-fighting-ebola-never-more-worried/",
-    "title": "The Organization Fighting Ebola Has Never Been More Worried",
-    "description": "The Ebola outbreak in the Democratic Republic of Congo is on track to be the largest ever.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-23T09:45:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ab2cd570ef9fcff0e0baf15/master/pass/092226-Ebola%20Vaccine.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-early-amazon-october-prime-day-headphones-deals-2026",
-    "title": "12 expert-sourced deals on headphones and earbuds ahead of October Prime Day: Shop Beats, AirPods, and Sony",
-    "description": "Mashable's headphones expert sourced 11 deals on headphones and earbuds live ahead of Prime Big Deal Days, which starts on Oct. 6.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T09:43:46+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03GLtVcYaOdk9B7bE2w1P7Y/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260923/p10#a260923p10",
-    "title": "Ofcom opens an investigation into Pornhub owner Aylo to determine whether it has complied with OSA requirements to prevent under-18s from accessing porn (Reuters)",
-    "description": "Reuters:\nOfcom opens an investigation into Pornhub owner Aylo to determine whether it has complied with OSA requirements to prevent under-18s from accessing porn  —  Britain's media regulator Ofcom said on Wednesday that it had opened an investigation into whether adult content platform Pornhub …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T09:40:16+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/trump-renaming-ai-daily-show-un-speech",
-    "title": "Daily Shows Desi Lydic torches Trump on super intelligence",
-    "description": "Donald Trump continued his quest to rename artificial intelligence in his U.N. speech, and \"Daily Show\" host Desi Lydic has thoughts.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T09:38:47+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/videos/042uNh85wPXrBHN4vkGkXD9/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/roundup/best-vpn-for-porn-us",
-    "title": "How to unblock porn sites and stream porn anonymously",
-    "description": "Unblock porn sites and stream anonymously with the best porn VPNs.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T09:33:32+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/roundups/02HksbO262g4IOchSeWDRyn/hero-image.jpg",
     "source_name": "MASHABLE.COM"
   }
 ]
