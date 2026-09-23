@@ -1,8 +1,55 @@
 [
   {
+    "link": "https://www.techmeme.com/260923/p38#a260923p38",
+    "title": "Australian PM Anthony Albanese says an OpenAI agent gained unauthorized access to a public-facing Medicare portal in June, accessing public and non-public files (The Age)",
+    "description": "The Age:\nAustralian PM Anthony Albanese says an OpenAI agent gained unauthorized access to a public-facing Medicare portal in June, accessing public and non-public files  —  Prime Minister Anthony Albanese has revealed that an artificial intelligence agent developed by OpenAI infiltrated …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-23T21:15:01+00:00",
+    "image_url": "http://www.techmeme.com/260923/i38.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
+    "title": "A US-China AI Hotline Won't Be Ready For a While",
+    "description": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-23T21:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ab2ef34ade3d66cae78e17b/master/pass/politics_us_china_ai_talk.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/alien-isolation-2s-xenomorph-has-animations-initially-designed-for-the-first-game-but-the-team-didnt-have-the-technology-at-the-time-to-use-them-but-now-the-alien-is-even-more-responsive-and-reactive",
+    "title": "Alien: Isolation 2's Xenomorph has animations initially designed for the first game, but the team 'didn't have the technology at the time' to use them — but now the Alien is even more 'responsive' and 'reactive'",
+    "description": "Alien: Isolation 2 uses Xenomorph legacy animations the studio designed for the first game but didn't have the technology to implement at the time.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-23T21:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/azDHDSPoEt7tUuBK5DVmVK-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/us-rejects-global-ai-governance",
+    "title": "US rejects global AI governance at UN Security Council",
+    "description": "The United States is rejecting any global governance of advanced AI, telling the UN Security Council in New York today that each country should regulate the technology itself. Michael Kratsios, director of the White House Office of Science and Technology Policy, delivers the US statement after the meeting’s four briefers from science and industry. “The frontier of",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-23T20:56:03+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/United-Nations-Security-Council-Chamber.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/yahoo-scout-jim-lanzone-publishers-links-humanx",
     "title": "Yahoo CEO says micropayments will never be enough for publishers",
-    "description": "Yahoo will keep its AI answer engine Scout full of links back to publishers, CEO Jim Lanzone said on Wednesday. He spoke on stage at HumanX in Amsterdam. He said micropayment deals will not pay publishers enough, and that Yahoo prefers search advertising instead. Lanzone said links serve two purposes. They let people check sources",
+    "description": "Yahoo will keep its AI answer engine Scout full of links back to publishers, CEO Jim Lanzone said on Wednesday. He spoke on stage at HumanX in Amsterdam. He also said micropayments from AI companies will never pay publishers enough. “The large language models effectively photocopied the entire internet to build their answers, without linking",
     "categories": [
       "AI & Machine Learning",
       "Breaking News"
@@ -21,6 +68,18 @@
     "pub_date": "2026-09-23T20:46:39+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-podcasts.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/",
+    "title": "NASA Welcomes Croatia as Newest Artemis Accords Signatory",
+    "description": "The Republic of Croatia became the 74th signatory to the Artemis Accords on Wednesday during a ceremony in the capital city of Zagreb with NASA and U.S. Department of State officials present. “It is my privilege to welcome the Republic of Croatia as the latest signatory of the Artemis Accords,” said NASA Deputy Matt Anderson",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-23T20:37:19+00:00",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-accords-croatia-74-092326.jpg?w=2048",
+    "source_name": "NASA.GOV"
   },
   {
     "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
@@ -850,7 +909,6 @@
     "title": "Arctic Sea Ice Reaches 2026 Annual Minimum Extent",
     "description": "Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center (NSIDC) at the University of Colorado Boulder. The ice covered an estimated 1.78 million square miles (4.6 million square kilometers), tying 2008, 2010, and 2025 for the 10th-lowest minimum in the satellite record.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-23T17:15:32+00:00",
@@ -873,7 +931,6 @@
     "title": "Former NASA chief sounds alarm on China's lunar \"exploration\" plans",
     "description": "\"Beijing's intended strategy is to dominate the high ground of the twenty-first century.\"",
     "categories": [
-      "Breaking News",
       "Government & Policy",
       "Science & Environment"
     ],
@@ -886,7 +943,6 @@
     "title": "Obsbot’s Meet 2 4K webcam with AI framing is now 23% off",
     "description": "Obsbot's webcam range has always impressed us during tests, so the Meet 2 4K webcam with AI framing, autofocus, and gesture control is well worth checking out.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-23T17:10:42+00:00",
@@ -910,7 +966,6 @@
     "title": "Privacy policies on top LLMs take over 20 minutes to read, so perhaps it no wonder people are signing their lives over to ChatGPT and others",
     "description": "Technical and legal jargon make privacy policies for LLMs and their chatbots almost unreadable for most people.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-09-23T17:05:00+00:00",
@@ -1187,7 +1242,6 @@
     "title": "Disney raises Disney+ and Hulu prices, the fourth price hike in as many years; the ad-free tiers will each cost $21.49/month, an increase of $2.50 (Rick Porter/The Hollywood Reporter)",
     "description": "Rick Porter / The Hollywood Reporter:\nDisney raises Disney+ and Hulu prices, the fourth price hike in as many years; the ad-free tiers will each cost $21.49/month, an increase of $2.50  —  Subscribing to a bundle is now almost exactly half the price of individual plans for each streamer.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-23T16:00:53+00:00",
@@ -1329,7 +1383,6 @@
     "title": "Samsung’s 2026 55-inch Mini LED 4K TV just hit its lowest-ever price — where to buy for under $300",
     "description": "Save on the 2026 Samsung 55-inch M70H Series Mini LED 4K Smart TV at Amazon. It consists of Vision AI, Pure Spectrum Color, and 120Hz DLG motion for $299.99.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-23T15:31:15+00:00",
@@ -1458,7 +1511,6 @@
     "title": "Disney+ and Hulu just increased prices, here’s how much",
     "description": "Disney+ and Hulu have just rolled out price increases for most subscription plans, here are the details on new pricing.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-23T15:04:21+00:00",
@@ -2294,64 +2346,5 @@
     "pub_date": "2026-09-23T13:00:00+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/23/linkedin-adds-new-tools-to-fight-fake-profiles-and-bogus-work-histories/",
-    "title": "LinkedIn adds new tools to fight fake profiles and bogus work histories",
-    "description": "LinkedIn is rolling out new verification tools that let members vouch for colleagues’ work experience and give companies more control over accounts that falsely claim to employ them.",
-    "categories": [
-      "Cybersecurity & Privacy",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-23T13:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/ray-gunn-metropia-brad-bird-interview",
-    "title": "Brad Bird takes us behind the scenes of Ray Gunns massive sci-fi city",
-    "description": "Brad Bird and the \"Ray Gunn\" team break down how they designed one of the film's key characters: the city of Metropia.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T13:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04cLmjy9YqIIctGStvcQQdD/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada/",
-    "title": "PitPro’s first tire-changing robot goes live in Canada",
-    "description": "The startup says its automated system can change four tires in under 15 minutes.",
-    "categories": [
-      "Breaking News",
-      "Business & Startups",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-23T13:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/ray-gunn-venus-nova",
-    "title": "How Ray Gunns Venus Nova, pop star of the (retro) future, evolved",
-    "description": "Brad Bird's upcoming \"Ray Gunn\" stars Scarlett Johansson as singer Venus Nova. Here's how the film crafted her pop star persona.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T13:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04MwTuURVvLRFt2NyY0DNCk/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/linkedin-is-making-it-easier-for-you-to-get-verified-and-to-hopefully-cut-back-on-scams-and-ai-slop",
-    "title": "LinkedIn is making it easier for you to get verified - and to hopefully cut back on scams and AI slop",
-    "description": "LinkedIn looks to try and expand trust with new verification tools and more.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T13:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/9ydusJngspE6Lvc3RSYuFo-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
