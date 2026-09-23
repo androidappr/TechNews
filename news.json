@@ -1,5 +1,63 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+    "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+    "description": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell in the backyard and now I have to figure out what to",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-23T19:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04272_processed.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/23/heres-everything-new-for-apple-calendar-in-ios-27/",
+    "title": "Here’s everything new for Apple Calendar in iOS 27",
+    "description": "iOS 27 is packed with new features for Apple Wallet, Messages, Notes, and other system apps—including Calendar. Here’s everything new for Apple’s Calendar app in iOS 27.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-23T18:57:08+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/white-house-press-ban-cnn-politico-ms-now",
+    "title": "DOJ defends Trump’s White House ban on CNN, Politico and MS NOW",
+    "description": "The United States Justice Department has requested that a federal judge dismiss the emergency application submitted by CNN, Politico, and MS NOW to get their reporters readmitted to the White House. In a court document filed on Tuesday evening, the government’s lawyers justified President Donald Trump’s decision to ban the three organizations. They stated that",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-23T18:55:50+00:00",
+    "image_url": "https://media.thenextweb.com/2026/05/trump-xi-summit-taiwan-arms-deal-beijing.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/phones/xiaomi/xiaomi-18-pro-series-stuns-with-privacy-screen-launch",
+    "title": "Xiaomi 18 Pro series stuns with privacy screen and wondrous rear displays—debuts 'Special Edition,' too",
+    "description": "Xiaomi 18 Pro series launched overseas, bringing a proactive privacy screen, more powerful rear displays, and Qualcomm's latest tech.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-23T18:53:47+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/YW8T5YF6GSAfV5G6tyUTam-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/the-gmktec-m8-is-a-surprisingly-powerful-4-5-star-mini-pc-for-the-office-and-its-now-discounted-at-amazon",
+    "title": "The GMKtec M8 is a surprisingly powerful 4.5-star mini PC for the office — and it's now discounted at Amazon",
+    "description": "GMKtec's M8 mini PC impressed during testing, smoothly tackling every day-to-day office task we threw at it. And Amazon has dropped the price in the US and UK.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-23T18:41:37+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/CTeVBLdrXXcN4X34P49sCg-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260923/p34#a260923p34",
     "title": "Anthropic says Claude autonomously discovered a new enzyme system in the DNA of bacteriophages, somewhat similar to CRISPR, the first result from its new biolab (Robert Hart/The Verge)",
     "description": "Robert Hart / The Verge:\nAnthropic says Claude autonomously discovered a new enzyme system in the DNA of bacteriophages, somewhat similar to CRISPR, the first result from its new biolab  —  It took nearly 1,000 Claude agents 21 hours and 210 million tokens to uncover the ‘novel enzyme system.’",
@@ -963,7 +1021,6 @@
     "title": "This $199 GPS sports watch is repairable, modular, and open-source",
     "description": "The Una Watch costs less than most Garmin watches now that its price has been lowered from the Kickstarter offer of $350 to $199, but its modular, repairable design grabbed my attention first. It features a 1.2-inch MIP LCD display and up to 10 days of battery life, similar to the Garmin Forerunner 70 or",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-23T15:01:16+00:00",
@@ -975,7 +1032,6 @@
     "title": "How to fix your Windows File History if the September update broke it",
     "description": "A bug in the Windows Sept patch Tuesday update may stop File History from working. But a new optional update fixes it.",
     "categories": [
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-09-23T15:01:00+00:00",
@@ -1901,7 +1957,6 @@
     "description": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting the inherent dangers of AI helpers.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy",
       "Social & Media"
     ],
@@ -2302,63 +2357,5 @@
     "pub_date": "2026-09-23T11:06:37+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/031XSaCDW02kZTBXMd4YApl/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/life/philips-skylight-launch-features-where-to-buy",
-    "title": "Signify launches the Philips Skylight to bring natural-feeling daylight to rooms — how to buy",
-    "description": "Philips Skylight ceiling panels use NatureConnect tech to replicate sunlight and support circadian rhythms indoors. Now available on Amazon.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T11:03:14+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04cqWF5ADrCi9VivsvReqtT/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-    "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-    "description": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, cofounder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product. He's also bringing Patreon's former product head Drew Rowny and engineering head Shannon Ma with",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-23T11:02:39+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK326_PATREON_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/after-dsit-britains-next-ai-test-is-sovereignty",
-    "title": "After DSIT, Britain’s next AI test is sovereignty",
-    "description": "DSIT is gone, but the case for sovereign AI in public services has strengthened.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T11:01:40+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/DqdzLoiEh9a6yFQaZqE6xL-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/",
-    "title": "A new report from Europe raises serious alarms about orbital collisions",
-    "description": "\"I think we are going to lose the ability to use certain orbits.\"",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-23T11:00:17+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/debris-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260923/p15#a260923p15",
-    "title": "Gallup survey of 37 countries: in 34, positive AI sentiment outweighed the negative; 90%+ of people in China and 66%+ in Nigeria say AI will improve daily life (Damien Cave/New York Times)",
-    "description": "Damien Cave / New York Times:\nGallup survey of 37 countries: in 34, positive AI sentiment outweighed the negative; 90%+ of people in China and 66%+ in Nigeria say AI will improve daily life  —  A Gallup poll found that a majority of people surveyed across 37 countries said they were curious or excited about artificial intelligence, more than scared or worried.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T11:00:01+00:00",
-    "image_url": "http://www.techmeme.com/260923/i15.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
