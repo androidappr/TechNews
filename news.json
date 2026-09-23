@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://thenextweb.com/news/openai-global-ai-standards-us-lead-rsi",
+    "title": "OpenAI asks the US to lead global standards for self-improving AI",
+    "description": "“Fully autonomous RSI is not happening today, and we should not pursue it unless and until it can be done safely,” OpenAI wrote on Monday. OpenAI set this out in a proposal published on 21 September. In it, the company calls on the United States to lead an effort with other countries to develop global",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-23T16:35:07+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/sam-altman-japan-prime-ministers-office-february-2025.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/ev-mot-failure-rates-bvrla",
+    "title": "A study of 47 million inspections says old EVs hold up better",
+    "description": "Electric cars above 120,000 miles failed Britain’s MOT roadworthiness test 32% less often than petrol and diesel equivalents, in a study of 47.4 million inspections by the British Vehicle Rental and Leasing Association. The advantage reverses at low mileage, and the test does not examine the battery at all. Electric cars above 120,000 miles fail",
+    "categories": [
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-23T16:32:43+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/used-ev-prices-rising-gas-war-iran-affordability.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
+    "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
+    "description": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of the \"destruction or disempowerment of humanity,\" including by overthrowing the government. Under the Ban Artificial Superintelligence Act, AI leaders would face up to 20 years",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-23T16:23:05+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294931488.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260923/p33#a260923p33",
     "title": "Pilgrim, whose device combines air sampling and genomic sequencing to detect biological threats, raised a $25M seed led by Buckley at a $150M valuation (Kate Clark/Wall Street Journal)",
     "description": "Kate Clark / Wall Street Journal:\nPilgrim, whose device combines air sampling and genomic sequencing to detect biological threats, raised a $25M seed led by Buckley at a $150M valuation  —  Pilgrim has raised $25 million and has developed a 50-pound device that detects biological threats  —  Two Anthropic leaders are investing …",
@@ -143,6 +179,18 @@
     "source_name": "TECHMEME.COM"
   },
   {
+    "link": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price",
+    "title": "Logitech’s new haptics-based gaming mouse is a little better and $20 more",
+    "description": "The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allows for a custom click feel (the click can be super subtle, more jolty, or turned off entirely). The tech debuted in",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-09-23T16:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.engadget.com/2266105/meta-connect-2026-live-blog-ai-vr/",
     "title": "Meta Connect 2026 live: Updates from Mark Zuckerberg's keynote on AI glasses, VR and more",
     "description": "More smart glasses and possibly a VR headset are expected today",
@@ -166,18 +214,6 @@
     "pub_date": "2026-09-23T16:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/PUqrkWMhrDqSoV5yxRGy23-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price",
-    "title": "Logitech’s new haptics-based gaming mouse is a little better and $20 more",
-    "description": "The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allows for a custom click feel (the click can be super subtle, more jolty, or turned off entirely). The tech debuted in",
-    "categories": [
-      "Breaking News",
-      "Gaming"
-    ],
-    "pub_date": "2026-09-23T16:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://thenextweb.com/news/gemini-tts-3-8-flash-voice-design-cloning",
@@ -1850,19 +1886,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.theverge.com/tech/999018/eight-sleep-pod-6-intelligent-sleep-system-sensors-health-tracking",
-    "title": "Eight Sleep’s new cooling hub is small enough to hide under your bed",
-    "description": "Eight Sleep announced the next version of its \"intelligent sleep system\" designed to regulate the temperature of your bed in response to tracked health and sleep metrics like breathing and heart rate. The company calls its new Pod 6 system its \"most significant hardware launch to date,\" and it's centered around a redesigned cooling hub",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-23T11:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/pod6_1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.wired.com/story/startup-power-data-centers-supercritical-co2/",
     "title": "A Startup Wants to Power Data Centers With ‘Supercritical’ Carbon Dioxide",
     "description": "The technology could strap onto existing gas turbines and make them more efficient—but it wouldn’t do away with their emissions entirely.",
@@ -1919,6 +1942,19 @@
     "pub_date": "2026-09-23T11:00:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Pod-6.png",
     "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/999018/eight-sleep-pod-6-intelligent-sleep-system-sensors-health-tracking",
+    "title": "Eight Sleep’s new cooling hub is small enough to hide under your bed",
+    "description": "Eight Sleep announced the next version of its \"intelligent sleep system\" designed to regulate the temperature of your bed in response to tracked health and sleep metrics like breathing and heart rate. The company calls its new Pod 6 system its \"most significant hardware launch to date,\" and it's centered around a redesigned cooling hub",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-23T11:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/pod6_1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.techradar.com/pro/getting-an-unusual-amount-of-spam-calls-and-messages-youre-not-alone-heres-what-we-know-and-what-you-can-do",
@@ -2327,39 +2363,5 @@
     "pub_date": "2026-09-23T09:28:21+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/life/best-early-amazon-october-prime-day-home-improvement-deals-2026",
-    "title": "25+ home improvement deals to shop before October Prime Day: Save on tools, yard care, and more",
-    "description": "The best early October Prime Day home improvement deals include outdoor power equipment, smart home devices, and tools.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T09:24:20+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03MZqihqCNobxLlDu4nSvxh/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/life/coros-pace-4-pro-launch-specs-where-to-buy",
-    "title": "Coros Pace 4 Pro drops with massive AMOLED screen and 60-hour GPS battery life — where to buy yours",
-    "description": "Coros announced the Pace 4 Pro sports watch with a 1.47-inch AMOLED display, a titanium bezel, global mapping, and 60-hour GPS battery life for $449.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T09:18:37+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06xZ3tcCRMNCMqeYcGjnkW2/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/fbi-investigating-shinyhunters-agent-data-breach",
-    "title": "FBI investigating claims that ShinyHunters stole data on its agents",
-    "description": "During the past year, the cybercrime group ShinyHunters has been extorting companies and, last week, took over a rival gang’s leak site. Now, it has gone after the agency that warned the public about it. The FBI stated on Tuesday that it is investigating a possible breach of its online jobs portal after the cybercrime",
-    "categories": [
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-23T09:16:35+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/fbi-seal-headquarters.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
