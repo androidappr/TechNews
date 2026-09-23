@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://thenextweb.com/news/f13-raises-5m-pre-seed-vector-graphics-ai",
+    "title": "F13 raises $5M pre-seed to build an AI model for precise vector graphics",
+    "description": "F13, an AI company that trains models to generate vector graphics, has come out of stealth with a $5M pre-seed round led by Credo Ventures and Point Nine Capital. Angel investors, including Carles Reina of Baobab Ventures and Jack Richardson of Mainframe, also took part. Images described using vector graphics are made up of shapes",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-23T07:00:20+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/F13-founders.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260923/p6#a260923p6",
     "title": "Profile of Noah Shinn, founder of AI assistant Instinct, who soft-launched it as an invite-only site for VCs, and is reportedly fundraising at a $10B valuation (Business Insider)",
     "description": "Business Insider:\nProfile of Noah Shinn, founder of AI assistant Instinct, who soft-launched it as an invite-only site for VCs, and is reportedly fundraising at a $10B valuation  —  Noah Shinn was publishing influential AI research before he graduated from college.  Now, at the ripe age of 23, he's taking on Mark Zuckerberg.",
@@ -214,28 +226,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.wired.com/story/hostinger-coupon-code/",
-    "title": "Hostinger Promo Code: 79% Off for September 2026",
-    "description": "Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/squarespace-promo-code/",
-    "title": "Squarespace Promo Codes: 20% Off in September 2026",
-    "description": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/att-promo-code/",
     "title": "AT&T Promo Codes: $50 Off This September 2026",
     "description": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
@@ -268,6 +258,28 @@
     ],
     "pub_date": "2026-09-23T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/hostinger-coupon-code/",
+    "title": "Hostinger Promo Code: 79% Off for September 2026",
+    "description": "Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-23T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/squarespace-promo-code/",
+    "title": "Squarespace Promo Codes: 20% Off in September 2026",
+    "description": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-23T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -356,7 +368,6 @@
     "title": "Discord’s age verification era is upon us, despite community backlash",
     "description": "According to Discord, 90% of users will not have to verify their age.",
     "categories": [
-      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-09-23T03:31:12+00:00",
@@ -434,7 +445,6 @@
     "title": "Discord rolls out its updated age-verification policy this week, sorting users into either the Adult or Teen group based on account age, activity levels, more (Anna Washenko/Engadget)",
     "description": "Anna Washenko / Engadget:\nDiscord rolls out its updated age-verification policy this week, sorting users into either the Adult or Teen group based on account age, activity levels, more  —  It will offer several privacy-focused options for users who aren't automatically confirmed as adults.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-23T01:10:01+00:00",
@@ -2256,18 +2266,6 @@
     ],
     "pub_date": "2026-09-22T16:45:01+00:00",
     "image_url": "http://www.techmeme.com/260922/i39.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260922/p38#a260922p38",
-    "title": "Anthropic says Opus 5.5 matches Fable 5.1 \"on most tasks\" while costing about 40% less to run than Opus 5; Opus 5.5 costs $4/1M input and $20/1M output tokens (Matthias Bastian/The Decoder)",
-    "description": "Matthias Bastian / The Decoder:\nAnthropic says Opus 5.5 matches Fable 5.1 “on most tasks” while costing about 40% less to run than Opus 5; Opus 5.5 costs $4/1M input and $20/1M output tokens  —  Ask about this article...  According to Anthropic, Opus 5.5 matches Claude Fable 5.1 “on most tasks” while costing about 40 percent less to run than Opus 5.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-22T16:42:22+00:00",
-    "image_url": "http://www.techmeme.com/260922/i38.jpg",
     "source_name": "TECHMEME.COM"
   }
 ]
