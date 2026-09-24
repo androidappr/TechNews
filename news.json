@@ -1,5 +1,67 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+    "title": "Muse will apparently let you download its entire filesystem",
+    "description": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system files, app templates, and internal documentation. Saunders posted on",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-24T17:14:12+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_A.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+    "title": "Muse sure looks a lot like OpenClaw",
+    "description": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, whose eponymous creator is fundraising at a $2.5 billion valuation, has been",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-24T17:10:38+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268774_The_hottest_AI_agent_platforms_are_just_OpenClaw_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
+    "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
+    "description": "Databricks has brought cloud spreadsheet startup Row Zero adding yet another acquisition to its 2026 shopping spree.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-24T17:07:55+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/most-americans-now-oppose-data-centers-in-some-way-as-tide-continues-to-turn-on-ai-technology",
+    "title": "Most Americans now oppose data centers in some way as tide continues to turn on AI technology",
+    "description": "US citizens are feeling worse about data centers than they were just half a year ago, and it doesn't matter which party they vote for.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-24T17:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/EXNQBTCyrwZX8rEgVYmHD4-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2267895/it-took-mapquest-until-2026-to-add-public-transit-directions/",
+    "title": "It took MapQuest until 2026 to add public transit directions",
+    "description": "The 30-year-old map service is quickly getting with the times.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-24T17:02:02+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/it-took-mapquest-until-2026-to-add-public-transit-directions/l-intro-1790269105.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
     "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
     "description": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
@@ -54,11 +116,36 @@
     "title": "The Pixel Watch 5's blood pressure and insulin resistance trends are rolling out this week",
     "description": "The first trend reports for the health data will be available in early October.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-24T17:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/the-pixel-watch-5s-blood-pressure-and-insulin-resistance-trends-are-rolling-out-this-week/l-intro-1790204526.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/wearables/google-pixel-watch/pixel-watch-is-getting-blood-pressure-tracking-and-new-health-tools-this-week",
+    "title": "Pixel Watch is getting blood pressure tracking and new health tools this week",
+    "description": "Your Pixel Watch can now track blood pressure trends and sleep breathing quality.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-24T17:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/zaaBsJfHfwrRrCVqoXwZND-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.techradar.com/streaming/netflix/netflix-is-disgusting-wonkas-golden-ticket-receives-huge-backlash-to-its-ai-gene-wilder-voice-and-i-saw-it-coming-from-a-mile-away",
+    "title": "Netflix faces backlash for using AI-generated Gene Wilder voice in Wonka reality show",
+    "description": "Netflix's AI generation of Gene Wilder's voice doesn't recreate the magic from the original movie.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-24T17:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/idm5zjSwaTG5EYGM7q8TjZ-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://mashable.com/entertainment/disney-plus-hulu-price-increase-2026-streaming-service-comparison",
@@ -182,8 +269,7 @@
     "description": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups"
+      "Breaking News"
     ],
     "pub_date": "2026-09-24T16:35:13+00:00",
     "image_url": null,
@@ -1383,7 +1469,6 @@
     "title": "Sources: Google, OpenAI, and Anthropic plan to launch an AI safety standards body without government oversight in late 2026 or 2027, and are considering CEOs (The Information)",
     "description": "The Information:\nSources: Google, OpenAI, and Anthropic plan to launch an AI safety standards body without government oversight in late 2026 or 2027, and are considering CEOs  —  Google, OpenAI and Anthropic are pushing forward with a plan to create a new AI safety-focused standards body on their own …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-24T13:15:55+00:00",
@@ -2268,83 +2353,5 @@
     "pub_date": "2026-09-24T09:30:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/CpH8i4GvGYCbjPUAGGoSzi-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/life/sept-24-craftsman-tool-set-deal",
-    "title": "This stacked Craftsman Mechanics Tool Set is heavily discounted ahead of Prime Day — save $70",
-    "description": "Get the best tool deal. Save 35% on the Craftsman Mechanics Tool Set at Amazon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-24T09:24:32+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05w2meaocPPq02mouaqH8Ps/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/8bitdo-ultimate-3-lavender-dusk-xbox-controller-launch",
-    "title": "Pretty but lethal: 8BitDo’s new Ultimate 3 Xbox controller doesnt compromise on performance",
-    "description": "8BitDo launches the Ultimate 3 Controller for Xbox in Lavender Dusk across Europe and the US. Features include TMR drift-free joysticks, adjustable tension, and a charging dock for $99.99.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-24T09:17:23+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02UTlJdLkztKSlJK6TzxVf1/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260924/p11#a260924p11",
-    "title": "Sources citing Firmus' IPO draft prospectus: the Australian data center operator expects to report a $77M loss after tax for H1 FY27 as it prepares to raise $5B (Christine Chen/Reuters)",
-    "description": "Christine Chen / Reuters:\nSources citing Firmus' IPO draft prospectus: the Australian data center operator expects to report a $77M loss after tax for H1 FY27 as it prepares to raise $5B  —  Australian data centre operator Firmus expects to lose $77 million in the current half, according to two people familiar …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-24T09:15:01+00:00",
-    "image_url": "http://www.techmeme.com/260924/i11.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/venus-may-have-devoured-its-moon/",
-    "title": "Venus May Have Devoured Its Moon",
-    "description": "One of the great mysteries in astronomy has been why Venus has no moon. Now a new theory provides a simple answer: It might have been eaten.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-24T09:15:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ab40967bd39df2bc999c8fd/master/pass/venus-from-parker-solar-probe.webp.jpeg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/birdfy-app-launch",
-    "title": "Your backyard is now a live TV show: The Birdfy app just landed on Roku",
-    "description": "Smart birdwatching brand Birdfy launched its official app on Roku OS TVs, letting users livestream feeders, replay clips, and share bird videos on the big screen.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-24T09:14:32+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06EAbdC3XvGWbmCrigi2i9K/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/sept-23-legend-of-zelda-ocarina-of-time-preorder-deal",
-    "title": "Save $10 on preorders of Nintendos The Legend of Zelda: Ocarina of Time remake",
-    "description": "Physical preorders for Nintendo's The Legend of Zelda: Ocarina of Time remake are already $10 off at Amazon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-24T09:11:11+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04OqwSM22YH2QVBaS11K2Ef/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2267374/nikon-z5-iic-cheaper-version-z5ii/",
-    "title": "Nikon's new Z5 IIC is a cheaper Z5 II without the electronic viewfinder",
-    "description": "Nikon's Z5 IIC is an inexpensive but powerful full-frame camera.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-24T09:08:59+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/nikons-new-z5-iic-is-a-cheaper-z5-ii-without-the-electronic-viewfinder/l-intro-1790240665.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
