@@ -1,5 +1,54 @@
 [
   {
+    "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+    "title": "Meta is making a standalone Muse AI gadget",
+    "description": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of his Meta Connect presentation. It looks almost like a chunky smart watch without the strap - just a big screen, plus a little lanyard",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-24T00:15:20+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/lcimg-d4d3d179-80e9-4873-9d38-24ac84737e8d.webp?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/this-new-drone-comes-with-whiskers-to-help-it-navigate-in-the-dark-or-smoky-and-dusty-areas-like-battlefields-and-it-weighs-less-than-100g",
+    "title": "This new drone comes with 'whiskers' to help it navigate in the dark or smoky and dusty areas like battlefields — and it weighs less than 100g",
+    "description": "Delft University researchers built a lightweight drone that uses whisker sensors and minimal software to navigate through darkness and smoke.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-24T00:10:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/g8M9aMzU3i8ourcUoPCqXD-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2267230/everything-announced-at-meta-connect-2026/",
+    "title": "Everything announced at Meta Connect 2026",
+    "description": "VR glasses, Aviator-style Ray-Ban Meta specs, Ace Attorney in virtual reality and much more.",
+    "categories": [
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-24T00:07:34+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/everything-announced-at-meta-connect-2026/l-intro-1790197338.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/meta-vr-glasses-hearing-aid-connect-2026",
+    "title": "Meta unveils $1,299 VR glasses and turns its AI glasses into hearing aids",
+    "description": "Meta will sell VR glasses that weigh about 100 grams for $1,299.99 from spring 2027. It is also turning its AI glasses into over-the-counter hearing aids. Mark Zuckerberg announced both at Meta Connect on Wednesday. He also showed new Ray-Ban glasses and a keychain device for Muse, Meta’s personal AI agent. He framed the whole",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-24T00:07:04+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/meta-vr-glasses-puck-product-shot.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
     "title": "Meta Connect 2026: The 7 biggest announcements",
     "description": "Meta announced a slate of new wearables during its annual Meta Connect showcase on Wednesday. The star of the event was the new Meta VR Glasses, which pack virtual reality tech into a lightweight smart glasses-style frame with a tethered puck. Meta also announced new pairs of screen-free smart glasses, along with some new AI",
@@ -11,6 +60,55 @@
     "pub_date": "2026-09-24T00:00:33+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copy-of-Meta-Glasses_1.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/",
+    "title": "Meta Pinky Promises Its Smart Glasses Will Be Private Soon",
+    "description": "The company is bringing its Private Processing encryption service to its much-maligned smart glasses.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-24T00:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ab45d4b283ba1e900c041a7/master/pass/Meta-Pinky-Promise-Gear-2296204329.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2267222/meta-vr-glasses-hands-on-hand-tracking/",
+    "title": "Meta VR Glasses hands-on: Hand and eye tracking is so much better than a controller",
+    "description": "Instead of a new Quest headset, the company showed off a more portable but less immersive device today.",
+    "categories": [
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-24T00:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/hands-on-with-meta-vr-glasses-hand-and-eye-tracking-is-so-much-better-than-a-controller/l-intro-1790180513.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/virtual-reality-augmented-reality/ive-worn-metas-vr-glasses-and-theyre-coming-to-eat-the-apple-vision-pros-lunch-for-one-big-reason-theyre-1-6-the-weight",
+    "title": "I’ve worn the Meta VR Glasses, and they’re coming to eat Apple's lunch",
+    "description": "The Meta VR Glasses are incredible: easily the best VR headset Meta has ever made.",
+    "categories": [
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-24T00:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/2MWypcVzt3PXoadDcHia8J-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/virtual-reality-augmented-reality/the-ray-ban-meta-audio-glasses-remove-the-cameras-for-better-battery-life-and-dolby-atmos",
+    "title": "The Ray-Ban Meta Audio glasses remove the cameras for better battery life",
+    "description": "The Ray-Ban Meta Audio glasses have Dolby Atmos, and no cameras at all",
+    "categories": [
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-24T00:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/yUgsNTQrQ9fiUbv78H8EBL-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://9to5mac.com/2026/09/23/openai-says-apple-intelligence-users-showed-little-interest-in-chatgpt-integration/",
@@ -342,19 +440,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/",
-    "title": "Meta Pinky-Promises Its Smart Glasses Will Be Private Soon",
-    "description": "The company is bringing its Private Processing encryption service to its much-maligned smart glasses.",
-    "categories": [
-      "Breaking News",
-      "Cybersecurity & Privacy",
-      "Social & Media"
-    ],
-    "pub_date": "2026-09-23T23:30:29+00:00",
-    "image_url": "https://media.wired.com/photos/6ab45d4b283ba1e900c041a7/master/pass/Meta-Pinky-Promise-Gear-2296204329.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.engadget.com/2267211/meta-brings-fda-cleared-hearing-enhancement-to-its-smart-glasses/",
     "title": "Meta brings FDA-cleared hearing enhancement to its smart glasses",
     "description": "After a free trial it'll cost $150 to add on, or require a Meta One subscription.",
@@ -523,8 +608,8 @@
   },
   {
     "link": "https://www.techmeme.com/260923/p45#a260923p45",
-    "title": "A livestream of the Meta Connect 2026 opening keynote (Meta on YouTube)",
-    "description": "Meta on YouTube:\nA livestream of the Meta Connect 2026 opening keynote  —  We believe the future is for everyone, so we're putting superintelligence in everyone's hands.  Tune in now for our latest breakthrough technologies in AI, AI...",
+    "title": "A recording of the Meta Connect 2026 opening keynote (Meta on YouTube)",
+    "description": "Meta on YouTube:\nA recording of the Meta Connect 2026 opening keynote  —  We believe the future is for everyone, so we're putting superintelligence in everyone's hands.  Tune in now for our latest breakthrough technologies in AI, AI...",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -1144,7 +1229,6 @@
     "title": "NASA Selects Far-Infrared Telescope as First in New Mission Class",
     "description": "NASA announced Wednesday a mission to explore the history and evolution of the universe, PRIMA (PRobe far-Infrared Mission for Astrophysics), is advancing to the next phase of development. This space telescope is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program. “The PRIMA mission is",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-23T20:09:42+00:00",
@@ -1156,8 +1240,7 @@
     "title": "Yoshua Bengio urges UN Security Council to license frontier AI like nuclear power",
     "description": "Yoshua Bengio is calling on the UN Security Council to license frontier AI in areas like medicine, aviation, and nuclear energy. Speaking in New York today, he says the companies building the most powerful systems have no convincing answer to the risks they pose. Bengio, who co-chairs the UN’s scientific panel on AI, is opening a",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-23T20:06:49+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/yoshua-bengio-un-security-council-briefing.avif",
@@ -2260,87 +2343,5 @@
     "pub_date": "2026-09-23T15:31:15+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/04TLi4Lj0TJWxMuQhvd3ZwR/hero-image.png",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/our-division-quiz-is-perfect-for-fans-of-the-post-apocalyptic-looter-shooter-looking-for-a-way-to-test-their-knowledge-of-the-series",
-    "title": "Our Division quiz is perfect for fans of the post-apocalyptic looter-shooter looking for a way to test their knowledge of the series",
-    "description": "As more DLC arrives, celebrate The Division 2 and all its sister games with my 30-question Division quiz",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-23T15:30:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/TJzxserxHW3rVVEeAgD9Y6-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/23/deals-apple-watch-ultra-2-clearance-beats-360/",
-    "title": "Deals: Apple Watch Ultra 2 clearance $200 off, AirPods, Beats 360 launch discount, iPhone 18 Pro cases, more",
-    "description": "The AirPods Pro 3 deal at $50 off rolls on, Amazon has now brought back its M6 Mac mini and Mac Studio launch deals, and the early fall Prime Day sale has been updated with new discounts. Today’s 9to5Toys Lunch Break also features some deep Amazon all-time low clearance deals on Apple Watch Ultra 3 at $200 off as well as some exclusive discounts on iPhone 18 Pro cases, the new SANDMARC modular Cushion Kits at 80% off as well. \n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T15:27:43+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-Apple-Watch-Ultra-clearance-Beats-360-Mac-mini.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/jensen-huang-ezra-klein-ai-labs-dont-ship",
-    "title": "Jensen Huang tells Ezra Klein AI labs that lack control should not ship",
-    "description": "“Don’t ship the product. If your product is not ready to ship, don’t ship the product,” Nvidia chief executive Jensen Huang told Ezra Klein on The New York Times’ podcast. Klein interviewed Huang at Nvidia’s headquarters in Santa Clara, and The New York Times published the episode on Wednesday. Much of the conversation turned on",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-23T15:27:23+00:00",
-    "image_url": "https://media.thenextweb.com/2026/05/nvidia-photonics-investment-copper-bottleneck-ai-data-centre.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/amazon-seller-assistant-plugin-claude-quick",
-    "title": "Amazon sellers can now run their stores from Claude and Amazon Quick",
-    "description": "“Our vision was that they would never have to log into Seller Central. We would just bring it to them where they work,” Mary Beth Westmoreland, Amazon’s vice president of Worldwide Selling Partner Experience, told GeekWire. Amazon announced on Wednesday a plugin that lets independent sellers run their Amazon business from an outside AI assistant.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-09-23T15:20:44+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/amazon-logo-sign-warehouse-wall-blue-sky.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260923/p30#a260923p30",
-    "title": "Q&A with Jensen Huang on AI creating more jobs than it destroys, pushing back against AI doomerism, Chinese open models, the Hugging Face acquisition, and more (Ezra Klein/New York Times)",
-    "description": "Ezra Klein / New York Times:\nQ&A with Jensen Huang on AI creating more jobs than it destroys, pushing back against AI doomerism, Chinese open models, the Hugging Face acquisition, and more  —  This is an edited transcript of “The Ezra Klein Show.”  You can listen to the episode wherever you get your podcasts.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T15:20:01+00:00",
-    "image_url": "http://www.techmeme.com/260923/i30.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-    "title": "YouTube Music gets more conversational with new AI features",
-    "description": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
-    "categories": [
-      "AI & Machine Learning",
-      "Social & Media",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-23T15:19:30+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/memory/upgrading-your-pc-memory-has-become-very-expensive-but-this-32gb-white-corsair-vengeance-ddr5-kit-is-now-usd100-cheaper-in-the-big-ram-sale",
-    "title": "Corsair Vengeance 32GB DDR5 RAM kit drops $100 in Corsair's big memory sale",
-    "description": "Corsair's running a big sale on memory, and I found this 32GB white VengeanceDDR5-5200 kit gets a $100 price cut during one of the most expensive years for RAM.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T15:14:02+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/cmXRjtxcRvvdgonbhbBr85-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
