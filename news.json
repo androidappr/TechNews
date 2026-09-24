@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://www.techradar.com/pro/enterprise-ai-has-a-memory-problem-but-businesses-have-the-answer",
+    "title": "Enterprise AI has a memory problem, but businesses have the answer",
+    "description": "What if the secret to better AI memory isn’t better models, but better business knowledge?",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-24T08:21:05+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/openai-hack-australian-government-ai-agent",
+    "title": "An OpenAI agent hacked the Australian government",
+    "description": "An OpenAI agent hacked the Australian government's healthcare system, gaining access to non-public information and writing files to the server.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-24T08:04:57+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/07Ee6qkTnV9Vqw9ugJRok81/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/24/operas-free-built-in-vpn-can-now-turn-on-automatically-when-using-public-wi-fi/",
+    "title": "Opera’s free built-in VPN can now turn on automatically when using public Wi-Fi",
+    "description": "Opera announced today that its free, built-in VPN for desktop can now automatically activate when users connect to public or unsecured Wi-Fi networks. Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-24T08:00:00+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/opera-wifi.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://mashable.com/life/best-early-amazon-october-prime-day-lego-deals-2026",
+    "title": "Dont wait for Lego deals: We found early Prime Day deals on Lego Star Wars, Lego Pokémon, and more",
+    "description": "Tons of Lego sets are already on sale at Amazon ahead of its Prime Big Deal Days sale, including select Lego Botanicals builds, Lego Pokémon, and more.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-24T08:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/03vUKp4sVEQuh94qv2BhpWh/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/deepseek-revenue-run-rate-1bn",
     "title": "DeepSeek’s annualised revenue run rate reaches $1bn, report says",
     "description": "Chinese AI lab DeepSeek is now bringing in revenue at an annualised rate of $1bn, The Information reports, more than double the under $500M it was running at a few months ago. The report cites two people with direct knowledge of the matter, and DeepSeek has not commented. It puts the jump down to a",
@@ -841,17 +886,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.techradar.com/computing/virtual-reality-augmented-reality/the-ray-ban-meta-audio-glasses-remove-the-cameras-for-better-battery-life-and-dolby-atmos",
-    "title": "The Ray-Ban Meta Audio glasses remove the cameras for better battery life",
-    "description": "The Ray-Ban Meta Audio glasses have Dolby Atmos, and no cameras at all",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-24T00:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/yUgsNTQrQ9fiUbv78H8EBL-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/computing/virtual-reality-augmented-reality/ive-worn-metas-vr-glasses-and-theyre-coming-to-eat-the-apple-vision-pros-lunch-for-one-big-reason-theyre-1-6-the-weight",
     "title": "I’ve worn the Meta VR Glasses, and they’re coming to eat Apple's lunch",
     "description": "The Meta VR Glasses are incredible: easily the best VR headset Meta has ever made.",
@@ -860,6 +894,17 @@
     ],
     "pub_date": "2026-09-24T00:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/2MWypcVzt3PXoadDcHia8J-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/virtual-reality-augmented-reality/the-ray-ban-meta-audio-glasses-remove-the-cameras-for-better-battery-life-and-dolby-atmos",
+    "title": "The Ray-Ban Meta Audio glasses remove the cameras for better battery life",
+    "description": "The Ray-Ban Meta Audio glasses have Dolby Atmos, and no cameras at all",
+    "categories": [
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-24T00:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/yUgsNTQrQ9fiUbv78H8EBL-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2231,51 +2276,5 @@
     "pub_date": "2026-09-23T18:47:36+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2230128500-1152x648.jpg",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/",
-    "title": "NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova",
-    "description": "NASA’s Hubble Space Telescope captured this image of massive galaxy cluster MACS J0417 (left of center) on Sept. 19, 2026. This galaxy cluster acts as a gravitational lens, bending and magnifying light from objects far behind it. Supernova Athena, discovered by NASA’s James Webb Space Telescope in 2025, is predicted to reappear between now and",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T18:43:43+00:00",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg?w=2000",
-    "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://www.techradar.com/pro/the-gmktec-m8-is-a-surprisingly-powerful-4-5-star-mini-pc-for-the-office-and-its-now-discounted-at-amazon",
-    "title": "The GMKtec M8 is a surprisingly powerful 4.5-star mini PC for the office — and it's now discounted at Amazon",
-    "description": "GMKtec's M8 mini PC impressed during testing, smoothly tackling every day-to-day office task we threw at it. And Amazon has dropped the price in the US and UK.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T18:41:37+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/CTeVBLdrXXcN4X34P49sCg-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260923/p34#a260923p34",
-    "title": "Anthropic says Claude autonomously discovered a new enzyme system in the DNA of bacteriophages, somewhat similar to CRISPR, the first result from its new biolab (Robert Hart/The Verge)",
-    "description": "Robert Hart / The Verge:\nAnthropic says Claude autonomously discovered a new enzyme system in the DNA of bacteriophages, somewhat similar to CRISPR, the first result from its new biolab  —  It took nearly 1,000 Claude agents 21 hours and 210 million tokens to uncover the ‘novel enzyme system.’",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T18:40:43+00:00",
-    "image_url": "http://www.techmeme.com/260923/i34.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/uipath-cartographer-daniel-dines-fusion-keynote",
-    "title": "UiPath’s Dines says AI needs a manual and launches Cartographer to write it",
-    "description": "“Without this manual, nobody will really succeed in deploying autonomous AI that we can trust to make decisions and understand how we actually work,” UiPath founder and CEO Daniel Dines said on Wednesday. Dines used his keynote at FUSION, UiPath’s annual conference at the Wynn Las Vegas, to make the case for that manual. He",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-09-23T18:39:57+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/uipath-fusion-2026-main-stage-map-of-work.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
