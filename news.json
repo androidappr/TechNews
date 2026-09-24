@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://www.androidcentral.com/tablets/amazon-fire-tablet/amazon-forgot-its-not-prime-day-yet-and-slashed-53-percent-off-the-fire-hd-10-tablet",
+    "title": "Amazon forgot it's not Prime Day yet and slashed 53% off the Fire HD 10 tablet",
+    "description": "This deal won't last forever, so if you've been wanting a 10-inch tablet for streaming shows and music or casual gaming, now is your chance.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-24T16:35:29+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/GyCW5WiE7nheNYTDKWNpHV-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+    "title": "Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion",
+    "description": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-24T16:35:13+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/australia-says-an-openai-agent-hacked-into-a-goverment-health-site/",
+    "title": "Australia Says an OpenAI Agent Hacked Into a Goverment Health Site",
+    "description": "The AI giant found out about the hack in August, but didn’t send a message until September.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-24T16:35:01+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2296078640.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/deutsche-telekom-kartik-sheth-ai-agents-phone-menus-humanx",
+    "title": "Deutsche Telekom is replacing phone menus with AI agents, its AI chief says",
+    "description": "Deutsche Telekom is replacing the automated phone menus on its customer service lines with AI agents, chief AI officer Kartik Sheth said. The share of customer interactions that never reach a human grows by one or two percentage points every month, he said. Sheth spoke on Thursday at HumanX in Amsterdam with Business Insider senior",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-09-24T16:32:42+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/kartik-sheth-deutsche-telekom-humanx-amsterdam.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1000085/inmo-air3-smart-glasses-recall-cpsc-free-software-update",
     "title": "These smart glasses have been recalled for overheating temples causing burns",
     "description": "A company called Inmo that makes several different variations of smart glasses has issued a recall for its Air3 because the left temple \"can overheat during extended use, posing a risk of serious injury or death due to burn hazard.\" To date there have been 10 reports of users experiencing a \"burning sensation to the",
@@ -12,6 +62,18 @@
     "source_name": "THEVERGE.COM"
   },
   {
+    "link": "https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/",
+    "title": "Practicing for Safe Landings on the Moon and Beyond",
+    "description": "In this Aug. 27, 2026, image, an Alta-X drone flies an advanced guidance and navigation system known as the Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) experiment near NASA’s Armstrong Flight Research Center in Edwards, California. Researchers at NASA’s Johnson Space Center in Houston developed SPLICE, which successfully completed simulated lunar descent and",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-24T16:29:19+00:00",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/afrc2026-0179-18orig.jpg?w=2048",
+    "source_name": "NASA.GOV"
+  },
+  {
     "link": "https://www.androidcentral.com/chromebooks-laptops/best-buy-will-give-you-a-free-pair-of-wireless-earbuds-with-your-googlebook-preorder-heres-the-deal",
     "title": "Best Buy will give you a free pair of wireless earbuds with your Googlebook preorder — here's the deal",
     "description": "Preorder the new Googlebook from Best Buy and you'll get a free pair of Pixel Buds 2a with your purchase.",
@@ -22,6 +84,17 @@
     "pub_date": "2026-09-24T16:25:42+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/gQu53yLxeXXivTAP4WWV99-1920-80.jpg",
     "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/home-and-office/microsoft-surface-mouse-haptic-feedback-customizable/",
+    "title": "Microsoft’s Surface Mouse is back, now with haptic feedback – and I need it",
+    "description": "Due October 13, the $80 Surface mouse packs an impressive array of features. I want one.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-24T16:22:13+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Microsoft-Surface-mouse.jpg",
+    "source_name": "ZDNET.COM"
   },
   {
     "link": "https://9to5mac.com/2026/09/24/apple-tv-announces-all-new-holiday-film-specials-and-free-offerings/",
@@ -2271,73 +2344,5 @@
     "pub_date": "2026-09-24T08:47:04+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/rPPrGzQ5YG9v5G8JDy3mVf-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/enterprise-ai-has-a-memory-problem-but-businesses-have-the-answer",
-    "title": "Enterprise AI has a memory problem, but businesses have the answer",
-    "description": "What if the secret to better AI memory isn’t better models, but better business knowledge?",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-24T08:21:05+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/PAztEScphfxGJfYno5NjrL-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/24/operas-free-built-in-vpn-can-now-turn-on-automatically-when-using-public-wi-fi/",
-    "title": "Opera’s free built-in VPN can now turn on automatically when using public Wi-Fi",
-    "description": "Opera announced today that its free, built-in VPN for desktop can now automatically activate when users connect to public or unsecured Wi-Fi networks. Here are the details.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-24T08:00:00+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/opera-wifi.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://mashable.com/life/best-early-amazon-october-prime-day-lego-deals-2026",
-    "title": "Dont wait for Lego deals: We found early Prime Day deals on Lego Star Wars, Lego Pokémon, and more",
-    "description": "Tons of Lego sets are already on sale at Amazon ahead of its Prime Big Deal Days sale, including select Lego Botanicals builds, Lego Pokémon, and more.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-24T08:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03vUKp4sVEQuh94qv2BhpWh/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/deepseek-revenue-run-rate-1bn",
-    "title": "DeepSeek’s annualised revenue run rate reaches $1bn, report says",
-    "description": "Chinese AI lab DeepSeek is now bringing in revenue at an annualised rate of $1bn, The Information reports, more than double the under $500M it was running at a few months ago. The report cites two people with direct knowledge of the matter, and DeepSeek has not commented. It puts the jump down to a",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-24T07:50:08+00:00",
-    "image_url": "https://media.thenextweb.com/2026/04/DeepSeek.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/23/apple-iphone-18-pro-rebooting-bug-software-update-fix/",
-    "title": "Apple says software update to fix iPhone 18 Pro rebooting bug is coming next week",
-    "description": "On Monday, we reported on an issue where iPhone 18 Pro and iPhone 18 Pro Max users were seeing their phone freeze and reboot following a failed Face ID attempt. To us, it appeared to be a software glitch rather than an inherent hardware fault.\n\n\n\nApple has now confirmed to 9to5Mac that a software update to address this problem is in the works, and should be available early next week.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-24T06:43:49+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/mayo.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260924/p10#a260924p10",
-    "title": "Anthropic says it made Claude.ai and the Claude desktop app's core UX ~3x faster in August using an internal model to ship improvements \"in a two-week sprint\" (Anthropic)",
-    "description": "Anthropic:\nAnthropic says it made Claude.ai and the Claude desktop app's core UX ~3x faster in August using an internal model to ship improvements “in a two-week sprint”  —  Once Claude can measure something, it can make it faster.  So we kept finding more things to measure. Raymond Wang, Sam Attard, and Issac G.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-24T06:41:03+00:00",
-    "image_url": "http://www.techmeme.com/260924/i10.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
