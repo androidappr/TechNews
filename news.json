@@ -1,5 +1,27 @@
 [
   {
+    "link": "https://www.techradar.com/pro/durabook-launches-a-workstation-laptop-with-three-real-screens-z14i-dx3-is-a-rugged-mobile-device-featuring-a-trio-of-14-inch-full-hd-displays-with-an-optional-nvidia-rtx-5000-ada-gpu-for-command-posts-and-drone-teams",
+    "title": "Durabook launches a workstation laptop with three real screens - Z14I-DX3 is a rugged mobile device featuring a trio of 14-inch full HD displays with an optional Nvidia RTX 5000 Ada GPU for command posts and drone teams",
+    "description": "Durabook's Z14I-DX3 unfolds three sunlight-readable 14-inch screens from one rugged box for drone teams and command posts.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-24T23:25:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/T2aVCAdr4TT8LY6qp7t4iU-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+    "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
+    "description": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-24T23:24:33+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/09/24/apple-sports-adds-real-time-grand-slam-draws-expands-soccer-coverage/",
     "title": "Apple Sports adds real-time Grand Slam draws, expands soccer coverage",
     "description": "This week, Apple continued the steady expansion of its Apple Sports app, broadening its soccer coverage while also giving tennis fans a new way to follow some of the most important tournaments. Here’s what’s new.\n\n\n\n more…",
@@ -587,7 +609,6 @@
     "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
     "description": "F-Droid's Android app store has been rebuilt from the ground up.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware",
       "Software & Apps"
     ],
@@ -600,7 +621,6 @@
     "title": "AmericanFortress paper shows how ZKPs can prove crypto wallet ownership",
     "description": "The team at privacy infrastructure developer AmericanFortress have authored a new paper. It proposes a novel means of proving the origin of crypto wallets. Vincenzo Botta, Michal Pospieszalski, Emanuele Ragnoli and Justus Ranvier of AmericanFortress authored “Provenance Proofs: Linkable, Post-Quantum ZK Derivation Relations for Blockchain DeFi, Wallet and Identity Systems”. In it, the researchers propose",
     "categories": [
-      "Breaking News",
       "Crypto & Web3",
       "Cybersecurity & Privacy"
     ],
@@ -2302,28 +2322,5 @@
     "pub_date": "2026-09-24T14:03:45+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/n4Amvu4VKKJMGFsbEHgZZT-1920-80.jpg",
     "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
-    "title": "Meta puts its AI assistant on a keychain",
-    "description": "Meta says the keychain-sized Muse Charm will ship in December.",
-    "categories": [
-      "AI & Machine Learning",
-      "Social & Media"
-    ],
-    "pub_date": "2026-09-24T14:03:38+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/musecharm-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/24/square-now-integrates-with-apple-business-to-improve-maps-listings/",
-    "title": "Square now integrates with Apple Business to improve Maps listings",
-    "description": "Square has announced a new integration with Apple Business that should make Apple Maps better for both businesses and users. Here are the details.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-24T14:03:21+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-maps-square-business-integration.jpg?quality=82&strip=all&w=1500",
-    "source_name": "9TO5MAC.COM"
   }
 ]
