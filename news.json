@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.androidcentral.com/gaming/meta-horizon-create-horizon-studio-hands-on",
+    "title": "I played with Meta's new AI gaming engine reboot and can't believe how far it's come",
+    "description": "Facebook games are getting a massive level-up with Meta Horizon Create and Horizon Studio, and they'll be playable straight from your feed.",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-09-24T18:31:33+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/jC6vrkkCUvwCixGg7rDEuA-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260924/p39#a260924p39",
     "title": "Sources: A24, Sony Pictures, and NYT have registered interest in acquiring Letterboxd, which has a user base of 30M and is expected to be valued at $300M+ (New York Times)",
     "description": "New York Times:\nSources: A24, Sony Pictures, and NYT have registered interest in acquiring Letterboxd, which has a user base of 30M and is expected to be valued at $300M+  —  A24, Sony and The New York Times Company all registered their interest in acquiring the cinephile's paradise.",
@@ -9,6 +21,18 @@
     "pub_date": "2026-09-24T18:30:01+00:00",
     "image_url": "http://www.techmeme.com/260924/i39.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/precision-neuroscience-250m-series-d-1bn-valuation-ackman",
+    "title": "Precision Neuroscience raises $250m at a $1bn valuation, NYT reports",
+    "description": "Precision Neuroscience has raised $250m in a Series D round for its brain-computer interface, the New York company announced on Thursday. Bill Ackman’s Pershing Square, the Ackman Oxman Institute and an unnamed life sciences fund led the round. The round values Precision at just over $1bn, The New York Times reported. Pershing Square and the",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-24T18:27:49+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/gloved-hands-tweezers-thin-film-electrode-arrays-lab.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://www.techradar.com/computing/memory/teamgroups-fast-32gb-t-force-vulcan-eco-ddr5-6400-ram-kit-gets-a-usd50-price-cut-amid-skyrocketing-memory-costs",
@@ -75,8 +99,7 @@
     "description": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups"
+      "Breaking News"
     ],
     "pub_date": "2026-09-24T18:11:44+00:00",
     "image_url": null,
@@ -628,7 +651,7 @@
   },
   {
     "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-    "title": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
+    "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
     "description": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
     "categories": [
       "AI & Machine Learning",
@@ -962,18 +985,6 @@
     "source_name": "NASA.GOV"
   },
   {
-    "link": "https://www.techradar.com/how-to-watch/football/portugal-vs-wales-nations-league-free",
-    "title": "How to watch Portugal vs Wales live streams.",
-    "description": "Here's how you can watch Portugal vs Wales for free from anywhere in the Nations League with full TV channels, kick-off times and broadcast details included.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-24T15:45:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/mjbf5Jh9avcpz2vjhWTaHQ-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/how-to-watch/football/serbia-vs-greece-nations-league",
     "title": "How to watch Serbia vs Greece: FREE streams, TV channels for Nations League 2026/27, team news",
     "description": "All the ways to watch Serbia vs Greece live streams online – including for FREE – with Nations League 2026/27 Group A2 from Stadion Rajko Mitic in Belgrade.",
@@ -983,6 +994,18 @@
     ],
     "pub_date": "2026-09-24T15:45:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/44duLpUetZwdGTjWgSeWrH-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/how-to-watch/football/portugal-vs-wales-nations-league-free",
+    "title": "How to watch Portugal vs Wales live streams.",
+    "description": "Here's how you can watch Portugal vs Wales for free from anywhere in the Nations League with full TV channels, kick-off times and broadcast details included.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-24T15:45:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/mjbf5Jh9avcpz2vjhWTaHQ-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -1325,7 +1348,6 @@
     "title": "Sources: a White House memo paints effective altruism as a fringe, dangerous cult that \"built the AI-doom pipeline\" and places Dario Amodei at its foundation (Axios)",
     "description": "Axios:\nSources: a White House memo paints effective altruism as a fringe, dangerous cult that “built the AI-doom pipeline” and places Dario Amodei at its foundation  —  President Trump's allies are targeting Anthropic CEO Dario Amodei as the face of AI “doomerism” and a founding father …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-24T14:40:00+00:00",
@@ -1337,7 +1359,6 @@
     "title": "An October Prime Day Apple deals guide: What to buy on sale now, what to look for later",
     "description": "We've rounded up the best early October Prime Day deals on Apple devices, including the latest Apple Watches, AirPods, MacBooks, and iPads.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-24T14:38:58+00:00",
@@ -1932,7 +1953,6 @@
     "title": "Sources: Oracle sent a force majeure notice to Blue Owl to delay payments on the 2.45GW Project Jupiter data center in New Mexico if it fails to launch in 2028 (Bloomberg)",
     "description": "Bloomberg:\nSources: Oracle sent a force majeure notice to Blue Owl to delay payments on the 2.45GW Project Jupiter data center in New Mexico if it fails to launch in 2028  —  Oracle Corp. is moving to shield itself from racking up expenses on a massive data center being built in New Mexico …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-24T12:45:54+00:00",
@@ -2345,29 +2365,5 @@
     "pub_date": "2026-09-24T10:55:11+00:00",
     "image_url": "http://www.techmeme.com/260924/i19.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/ai-platforms-assistants/metas-chief-ai-officer-says-its-muse-ai-can-save-you-usd1-000-i-tried-it-myself-and-saved-just-usd35",
-    "title": "I asked Meta's Muse AI to save me $1,000",
-    "description": "I tried Meta's #MuseMoneyChallenge to see if its AI agent could save me $1,000, but my much more realistic result came to about $35",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-24T10:54:49+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/qpswbfk5wLQHmJYjRggcZ7-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/amazon-3bn-india-quick-commerce",
-    "title": "Amazon to invest $3bn in Indian quick commerce by 2030, Reuters reports",
-    "description": "Amazon will spend $3bn to grow its quick-commerce business in India by 2030, Reuters reported on Thursday, citing two people who know the plans directly. Quick commerce is the term for app orders that reach shoppers within minutes. Amazon declined to comment on the figures. It did say, however, that its quick-commerce arm had passed $1bn in annualised",
-    "categories": [
-      "Breaking News",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-24T10:49:54+00:00",
-    "image_url": "https://media.thenextweb.com/2026/04/Amazon.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
