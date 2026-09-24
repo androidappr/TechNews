@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.engadget.com/2268183/new-york-times-cooking-is-coming-to-metas-ai-and-display-glasses/",
+    "title": "New York Times Cooking is coming to Meta's AI and display glasses",
+    "description": "The app is getting a \"hands-free\" mode that can narrate recipe steps.",
+    "categories": [
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-24T19:24:34+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/new-york-times-cooking-is-coming-to-metas-ai-and-display-glasses/l-intro-1790277712.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
     "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
     "description": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
@@ -164,6 +176,7 @@
     "title": "Sources: A24, Sony Pictures, and NYT have registered interest in acquiring Letterboxd, which has a user base of 30M and is expected to be valued at $300M+ (New York Times)",
     "description": "New York Times:\nSources: A24, Sony Pictures, and NYT have registered interest in acquiring Letterboxd, which has a user base of 30M and is expected to be valued at $300M+  —  A24, Sony and The New York Times Company all registered their interest in acquiring the cinephile's paradise.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-24T18:30:01+00:00",
@@ -1170,18 +1183,6 @@
     "source_name": "NASA.GOV"
   },
   {
-    "link": "https://www.techradar.com/how-to-watch/football/serbia-vs-greece-nations-league",
-    "title": "How to watch Serbia vs Greece: FREE streams, TV channels for Nations League 2026/27, team news",
-    "description": "All the ways to watch Serbia vs Greece live streams online – including for FREE – with Nations League 2026/27 Group A2 from Stadion Rajko Mitic in Belgrade.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-24T15:45:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/44duLpUetZwdGTjWgSeWrH-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/how-to-watch/football/portugal-vs-wales-nations-league-free",
     "title": "How to watch Portugal vs Wales live streams.",
     "description": "Here's how you can watch Portugal vs Wales for free from anywhere in the Nations League with full TV channels, kick-off times and broadcast details included.",
@@ -1191,6 +1192,18 @@
     ],
     "pub_date": "2026-09-24T15:45:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/mjbf5Jh9avcpz2vjhWTaHQ-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/how-to-watch/football/serbia-vs-greece-nations-league",
+    "title": "How to watch Serbia vs Greece: FREE streams, TV channels for Nations League 2026/27, team news",
+    "description": "All the ways to watch Serbia vs Greece live streams online – including for FREE – with Nations League 2026/27 Group A2 from Stadion Rajko Mitic in Belgrade.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-24T15:45:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/44duLpUetZwdGTjWgSeWrH-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -1315,7 +1328,6 @@
     "title": "Xiaomi's 18 Pro series phones have the latest Snapdragon chip and a Samsung-like privacy screen",
     "description": "You'll have to wait a bit if you're outside China though.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-24T15:23:43+00:00",
@@ -1327,7 +1339,6 @@
     "title": "Everything announced at Meta Connect in 10 minutes",
     "description": "Catch the biggest Meta Connect 2026 announcements, including Muse AI, new smart glasses and lightweight VR glasses.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-24T15:19:02+00:00",
@@ -2366,16 +2377,5 @@
     "pub_date": "2026-09-24T11:36:00+00:00",
     "image_url": "https://media.wired.com/photos/6ab441190b53a499b5f12f74/master/pass/Bose%E2%80%99s-Premium-Open-Earbuds-Are-$100-Off.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/nick-clegg-ai-extinction-fears",
-    "title": "Nick Clegg dismisses fears that AI could wipe out humanity",
-    "description": "Nick Clegg has dismissed fears that artificial intelligence could one day turn on humanity and wipe it out, calling that view hand-wavy. The former UK deputy prime minister, who later ran global affairs at Meta, spoke on BBC Radio 4’s Today programme on Thursday, as the Guardian reported. Rather than worry about a godlike machine,",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-24T11:34:11+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/nick-clegg.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
