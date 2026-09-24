@@ -1,5 +1,42 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+    "description": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-24T19:00:42+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+    "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+    "description": "Feather is betting on a customizable, $30,000 platform built for software developers.",
+    "categories": [
+      "Business & Startups",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-24T18:52:38+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2268124/we-finally-have-a-trailer-for-that-four-hour-elon-musk-documentary/",
+    "title": "We finally have a trailer for that four-hour Elon Musk documentary",
+    "description": "It was directed by Alex Gibney, who has made films about Enron, Scientology and Elizabeth Holmes.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-24T18:52:14+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/we-finally-have-a-trailer-for-that-four-hour-elon-musk-documentary/l-intro-1790275722.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.androidcentral.com/gaming/meta-horizon-create-horizon-studio-hands-on",
     "title": "I played with Meta's new AI gaming engine reboot and can't believe how far it's come",
     "description": "Facebook games are getting a massive level-up with Meta Horizon Create and Horizon Studio, and they'll be playable straight from your feed.",
@@ -750,6 +787,7 @@
     "title": "Musk documentary trailer is finally here",
     "description": "The official trailer for Alex Gibney's documentary on Elon Musk, Musk, has arrived. Watch it now.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-24T16:15:11+00:00",
@@ -1226,7 +1264,6 @@
     "description": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT. Get a second pass at 50% off.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Science & Environment"
     ],
@@ -1262,7 +1299,6 @@
     "title": "NASA chief concerned China may deny access to parts of South Pole",
     "description": "\"If you come up short with who comes down the ladder first, the impact is felt around the world.\"",
     "categories": [
-      "Breaking News",
       "Government & Policy",
       "Science & Environment"
     ],
@@ -2332,38 +2368,5 @@
     "pub_date": "2026-09-24T11:00:38+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
-    "title": "Review: Apple's hyper-pricey M5 Ultra Mac Studio made me into a vibe coder",
-    "description": "Usable local AI is a lot of fun, but how much would you pay for it?",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-24T11:00:04+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_3740-1152x648.jpeg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/computing/artemis-ii-best-moon-photos-iphone-nikon-gopro/",
-    "title": "How NASA and Nikon Captured Those Stunning Artemis II Moon Photos",
-    "description": "It’s not all about the latest camera gear – the astronauts relied on both old and new tech that anyone can buy off-the-shelf.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-24T11:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/6a431b4f-684d-4890-ae29-7f080d9095ef.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260924/p19#a260924p19",
-    "title": "Tencent launches TenPayGo, a payment app for foreign visitors to China that lets them pay tens of millions of merchants via Visa, Mastercard, and Apple Pay (Bloomberg)",
-    "description": "Bloomberg:\nTencent launches TenPayGo, a payment app for foreign visitors to China that lets them pay tens of millions of merchants via Visa, Mastercard, and Apple Pay  —  Tencent Holdings Ltd. launched a standalone payment app for foreign visitors to China, stepping up competition against rival Ant Group Co.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-24T10:55:11+00:00",
-    "image_url": "http://www.techmeme.com/260924/i19.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
