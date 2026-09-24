@@ -1,8 +1,20 @@
 [
   {
+    "link": "https://mashable.com/tech/muse-charm-reveal-meta-connect-2026",
+    "title": "Meta to release Muse Charm, a Tamagotchi-like device for the Muse AI agent",
+    "description": "Meta's Muse Charm is a small, always-on handheld for talking to its Muse AI without glasses.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-24T00:15:48+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/05y4ctuQf6pSbRCbWHbCMuL/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
     "title": "Meta is making a standalone Muse AI gadget",
-    "description": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of his Meta Connect presentation. It looks almost like a chunky smart watch without the strap - just a big screen, plus a little lanyard",
+    "description": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smart watch without the strap - just a big screen, plus a little lanyard",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -11,6 +23,30 @@
     "pub_date": "2026-09-24T00:15:20+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/lcimg-d4d3d179-80e9-4873-9d38-24ac84737e8d.webp?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260923/p51#a260923p51",
+    "title": "Meta previews Muse Charm, a palm-sized Tamagotchi-like device for using Muse, with a ~2-inch OLED screen, front and rear cameras, and 5G, on sale by year's end (Mark Gurman/Bloomberg)",
+    "description": "Mark Gurman / Bloomberg:\nMeta previews Muse Charm, a palm-sized Tamagotchi-like device for using Muse, with a ~2-inch OLED screen, front and rear cameras, and 5G, on sale by year's end  —  Meta Platforms Inc. unveiled a palm-sized, dedicated gadget for using Muse, the company's popular new artificial intelligence assistant …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-24T00:15:02+00:00",
+    "image_url": "http://www.techmeme.com/260923/i51.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/mark-zuckerberg-announces-meta-vr-glasses-connect-2026",
+    "title": "Zuckerberg announces Meta VR Glasses, a lightweight virtual reality device for $1,299",
+    "description": "Meta unveiled its $1,299 VR Glasses at Connect 2026, featuring a 100-gram design, cinema mode, Quest games, and a spring 2027 release.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-24T00:11:08+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00QzmSCqA9UFjVSNp4JSgMv/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techradar.com/pro/this-new-drone-comes-with-whiskers-to-help-it-navigate-in-the-dark-or-smoky-and-dusty-areas-like-battlefields-and-it-weighs-less-than-100g",
@@ -32,13 +68,13 @@
       "Social & Media"
     ],
     "pub_date": "2026-09-24T00:07:34+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/everything-announced-at-meta-connect-2026/l-intro-1790197338.jpg",
+    "image_url": "https://www.engadget.com/img/gallery/everything-announced-at-meta-connect-2026/l-intro-1790209433.jpg",
     "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://thenextweb.com/news/meta-vr-glasses-hearing-aid-connect-2026",
     "title": "Meta unveils $1,299 VR glasses and turns its AI glasses into hearing aids",
-    "description": "Meta will sell VR glasses that weigh about 100 grams for $1,299.99 from spring 2027. It is also turning its AI glasses into over-the-counter hearing aids. Mark Zuckerberg announced both at Meta Connect on Wednesday. He also showed new Ray-Ban glasses and a keychain device for Muse, Meta’s personal AI agent. He framed the whole",
+    "description": "Meta will sell VR glasses that weigh about 100 grams for $1,299.99 from spring 2027. It is also turning its AI glasses into over-the-counter hearing aids. Mark Zuckerberg announced both at Meta Connect on Wednesday. He also showed audio-only Ray-Ban glasses, a range growing to more than 100 styles, and Muse Charm, a keychain device",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -62,6 +98,18 @@
     "source_name": "THEVERGE.COM"
   },
   {
+    "link": "https://www.cnet.com/tech/services-and-software/stolen-sensitive-fbi-employee-data-significant-intelligence-risk/",
+    "title": "Trove of Stolen Sensitive FBI Employee Data Is Significant Intelligence Risk",
+    "description": "ShinyHunters has previously extorted companies and schools, but the sensitivity of this data makes this breach different.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-24T00:00:22+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/kash-patel-GettyImages-2295422163.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/",
     "title": "Meta Pinky Promises Its Smart Glasses Will Be Private Soon",
     "description": "The company is bringing its Private Processing encryption service to its much-maligned smart glasses.",
@@ -83,7 +131,7 @@
       "Social & Media"
     ],
     "pub_date": "2026-09-24T00:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/hands-on-with-meta-vr-glasses-hand-and-eye-tracking-is-so-much-better-than-a-controller/l-intro-1790180513.jpg",
+    "image_url": "https://www.engadget.com/img/gallery/meta-vr-glasses-hands-on-hand-tracking/l-intro-1790209264.jpg",
     "source_name": "ENGADGET.COM"
   },
   {
@@ -145,6 +193,18 @@
     "pub_date": "2026-09-23T23:56:05+00:00",
     "image_url": "http://www.techmeme.com/260923/i50.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/new-microsoft-patent-rewrites-games-with-ai/",
+    "title": "A Patent Filed by Microsoft Would Let Games Use AI to Rewrite Themselves",
+    "description": "The new technology would consider how players explore the game and then rewrite the game to fit these interests.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-23T23:55:50+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Fallout-Pipboy-Xbox-Controller.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://www.engadget.com/2267223/meta-holograph-avatar-for-ai-and-vr-glasses-update-hands-on/",
@@ -632,7 +692,7 @@
   {
     "link": "https://www.techmeme.com/260923/p43#a260923p43",
     "title": "Microsoft unveils the $1,149+ Surface Pro 12-inch and the $1,199+ Surface Laptop 13-inch with Snapdragon X2 Plus, and a new Surface Mouse with built-in haptics (Zac Bowden/Windows Central)",
-    "description": "Zac Bowden / Windows Central:\nMicrosoft unveils the $1,149+ Surface Pro 12-inch and the $1,199+ Surface Laptop 13-inch with Snapdragon X2 Plus, and a new Surface Mouse with built-in haptics  —  The company is launching its new “entry premium” Surface Pro and Surface Laptop, both starting at over $1,000.",
+    "description": "Zac Bowden / Windows Central:\nMicrosoft unveils the $1,149+ Surface Pro 12-inch and the $1,199+ Surface Laptop 13-inch with Snapdragon X2 Plus, and a new Surface Mouse with built-in haptics  —  If you're a fan of Microsoft's smaller and lighter Surface PCs, we've got some good news!  During Qualcomm's annual Snapdragon Summit event …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -1158,7 +1218,6 @@
     "description": "$11M competition showed wildfire detection is still easier than stopping fires.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-23T20:28:42+00:00",
@@ -1182,8 +1241,7 @@
     "title": "Clément Delangue tells UN Security Council open-source AI helps defenders",
     "description": "Clément Delangue is telling the UN Security Council that open-source AI helped Hugging Face defend itself during the AI agent attack it suffered in July. Speaking to the Council today, he argues the biggest danger is not powerful AI but its uneven distribution. Delangue is the last of four briefers at the meeting in New",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-23T20:24:22+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/un-security-council-chamber-screen-front-view.avif",
@@ -1194,8 +1252,7 @@
     "title": "Wayve’s AI will reach Mercedes cars within two years, Kendall says",
     "description": "“It’s going to take them a while. Maybe they don’t know that yet,” Wayve co-founder and CEO Alex Kendall said of humanoid robot makers. Kendall spoke on stage at HumanX in Amsterdam on Wednesday. It was a day after Wayve announced a global partnership with Mercedes-Benz. He said self-driving cars, not robots, will be the",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-23T20:21:34+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/alex-kendall-wayve-humanx-amsterdam-stage.avif",
@@ -1296,6 +1353,7 @@
     "title": "A sample of FBI data allegedly stolen by ShinyHunters includes granular detail on officials' job assignments on China, Russia, cartels, cyber, and other issues (Reuters)",
     "description": "Reuters:\nA sample of FBI data allegedly stolen by ShinyHunters includes granular detail on officials' job assignments on China, Russia, cartels, cyber, and other issues  —  FBI data allegedly stolen by the hacking group ShinyHunters carries granular detail about scores of bureau officials' job assignments …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-23T19:45:01+00:00",
@@ -2287,61 +2345,5 @@
     "pub_date": "2026-09-23T15:50:02+00:00",
     "image_url": "http://www.techmeme.com/260923/i31.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/health-fitness/fitness-trackers/garmin-could-bring-muscle-oxygen-tracking-to-future-watches-heres-why-serious-athletes-will-want-it",
-    "title": "Garmin fans could soon get ‘muscle oxygen’ readings in future devices",
-    "description": "Garmin could bring ‘muscle oxygen’ monitoring to future devices after its latest acquisition.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T15:49:57+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/2K5WBNHsr99nLB8pbJggg8-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/phones/mint-mobile/mint-mobiles-best-deal-ends-next-week-claim-up-to-a-year-of-unlimited-wireless-for-usd15-per-month-while-you-still-can",
-    "title": "Mint Mobile’s best deal ends next week — claim up to a year of unlimited wireless for $15 per month (while you still can)",
-    "description": "Mint Mobile is running an offer that will get you up to a year of wireless for only $15 per month, but you're running out of time!",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T15:47:47+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/mrx7azXQDRtj7SPZuix24B-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
-    "title": "YouTube’s conversational video editing tool lets creators make edits in natural language",
-    "description": "Creators will be able to use AI in a conversational chat interface to help them edit videos.",
-    "categories": [
-      "Social & Media"
-    ],
-    "pub_date": "2026-09-23T15:46:57+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.theverge.com/news/999404/xbox-mythic-achievement-feature",
-    "title": "Xbox’s Mythic Achievements sound like PlayStation’s Platinum trophy",
-    "description": "Xbox appears to be ready to launch its own version of PlayStation's platinum trophies. A new update to the Xbox PC app has revealed Mythic Achievements, which according to data in the app will appear once a player completes all the Achievements in a game. Mythic Achievements appear on screen with a unique unlock sound,",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-23T15:45:11+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/sept-23-samsung-m70h-mini-led-4k-tv-deal",
-    "title": "Samsung’s 2026 55-inch Mini LED 4K TV just hit its lowest-ever price — where to buy for under $300",
-    "description": "Save on the 2026 Samsung 55-inch M70H Series Mini LED 4K Smart TV at Amazon. It consists of Vision AI, Pure Spectrum Color, and 120Hz DLG motion for $299.99.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-23T15:31:15+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04TLi4Lj0TJWxMuQhvd3ZwR/hero-image.png",
-    "source_name": "MASHABLE.COM"
   }
 ]
