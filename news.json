@@ -129,28 +129,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.wired.com/story/turbotax-coupon/",
-    "title": "TurboTax Full Service Coupons This September 2026",
-    "description": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-24T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/chewy-promo-code/",
-    "title": "Chewy Promo Codes: $20 Off September 2026",
-    "description": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more September 2026 discounts.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-24T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/peacock-promo-code/",
     "title": "Peacock Promo Codes: 40% Off September 2026",
     "description": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
@@ -204,6 +182,28 @@
     ],
     "pub_date": "2026-09-24T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/chewy-promo-code/",
+    "title": "Chewy Promo Codes: $20 Off September 2026",
+    "description": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more September 2026 discounts.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-24T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/turbotax-coupon/",
+    "title": "TurboTax Full Service Coupons This September 2026",
+    "description": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-24T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -379,7 +379,6 @@
     "title": "OpenAI releases MentalHealthBench, an open benchmark to evaluate AI responses in realistic mental health conversations, developed with 80+ licensed experts (OpenAI)",
     "description": "OpenAI:\nOpenAI releases MentalHealthBench, an open benchmark to evaluate AI responses in realistic mental health conversations, developed with 80+ licensed experts  —  An open benchmark developed with more than 80 licensed mental health experts to evaluate AI responses in realistic mental health conversations.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-24T03:15:04+00:00",
@@ -810,17 +809,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.techradar.com/computing/virtual-reality-augmented-reality/ive-worn-metas-vr-glasses-and-theyre-coming-to-eat-the-apple-vision-pros-lunch-for-one-big-reason-theyre-1-6-the-weight",
-    "title": "I’ve worn the Meta VR Glasses, and they’re coming to eat Apple's lunch",
-    "description": "The Meta VR Glasses are incredible: easily the best VR headset Meta has ever made.",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-24T00:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/2MWypcVzt3PXoadDcHia8J-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/computing/virtual-reality-augmented-reality/the-ray-ban-meta-audio-glasses-remove-the-cameras-for-better-battery-life-and-dolby-atmos",
     "title": "The Ray-Ban Meta Audio glasses remove the cameras for better battery life",
     "description": "The Ray-Ban Meta Audio glasses have Dolby Atmos, and no cameras at all",
@@ -829,6 +817,17 @@
     ],
     "pub_date": "2026-09-24T00:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/yUgsNTQrQ9fiUbv78H8EBL-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/virtual-reality-augmented-reality/ive-worn-metas-vr-glasses-and-theyre-coming-to-eat-the-apple-vision-pros-lunch-for-one-big-reason-theyre-1-6-the-weight",
+    "title": "I’ve worn the Meta VR Glasses, and they’re coming to eat Apple's lunch",
+    "description": "The Meta VR Glasses are incredible: easily the best VR headset Meta has ever made.",
+    "categories": [
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-24T00:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/2MWypcVzt3PXoadDcHia8J-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
