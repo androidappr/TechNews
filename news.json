@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
+    "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
+    "description": "Better thermals and battery life make this iterative update nicer to use.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-25T19:34:42+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/iPhone-18-Pro-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://mashable.com/life/taylor-swift-patient-zero-sophie-turner-joe-jonas",
+    "title": "Who is Taylor Swift’s Patient Zero about? Swifties have a theory.",
+    "description": "Swifties think 'Patient Zero' may involve Sophie Turner and Joe Jonas. Here’s the theory and what Swift has actually said.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-25T19:25:46+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/03bUXPw9aG8GdUzXA4qV5nx/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/09/25/apple-card-adds-new-feature-in-ios-27-that-every-card-should-have/",
     "title": "Apple Card adds new feature in iOS 27 that every card should have",
     "description": "iOS 27 brings a variety of new features to Apple Wallet, including one exclusive to Apple Card that I wish every card offered: a hub for all recurring transactions.\n\n\n\n more…",
@@ -25,7 +48,7 @@
   {
     "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
     "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-    "description": "nthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
+    "description": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -34,6 +57,18 @@
     "pub_date": "2026-09-25T19:13:38+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+    "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+    "description": "\"There is no evidence of any significant, widespread displacement or reduction in hiring”",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-25T19:11:05+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/graduates-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://www.techradar.com/pro/alibaba-wants-to-expand-data-center-capacity-past-20-gw-by-2032-says-its-new-v900-ai-chip-can-scale-to-500-000-card-clusters-but-will-chinas-most-powerful-ai-chip-be-enough-to-displace-nvidia-gpus",
@@ -131,6 +166,17 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
+    "link": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/",
+    "title": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
+    "description": "US judge reviews deal with California, says it must not be result of collusion.",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-25T18:42:57+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-water-tower-logo-1152x648-1784928766.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
     "link": "https://mashable.com/tech/trump-super-intelligence",
     "title": "Trump tries to rebrand AI. Is it really that super?",
     "description": "Dissecting the president's attempt at rebranding AI as \"super intelligence.\"",
@@ -187,6 +233,18 @@
     "pub_date": "2026-09-25T18:31:17+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/CEhW24pF3xa7apJsYxD2g9-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/",
+    "title": "Is solar's growth finally slowing in the US?",
+    "description": "Renewables easily cover changes in US demand, which is rising by 2% in 2026.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-25T18:27:18+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1486053188-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://www.androidcentral.com/apps-software/meta/muse-charm-is-the-ai-tamagotchi-everyone-seems-to-be-in-love-with",
@@ -903,7 +961,6 @@
     "title": "Jensen Huang tells Ezra Klein that AI is just software whose existential risks are overstated, yet his standards would shut down OpenAI and 10x safety spending (Zvi Mowshowitz/Don't Worry About the Vase)",
     "description": "Zvi Mowshowitz / Don't Worry About the Vase:\nJensen Huang tells Ezra Klein that AI is just software whose existential risks are overstated, yet his standards would shut down OpenAI and 10x safety spending  —  Jensen Huang accidentally called for shutting down OpenAI and intentionally called for spending vastly more on safety.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-25T15:40:01+00:00",
@@ -915,12 +972,22 @@
     "title": "One company is at the center of a wave of rogue AI attacks",
     "description": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures implicating numerous AI models trickled out over the past few",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-25T15:39:48+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/",
+    "title": "After seven years, a spacecraft company is releasing its Otters into the wild",
+    "description": "\"There is always a tension that comes with seeing the first of anything fly.\"",
+    "categories": [
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-25T15:35:23+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Otter_Celebration_Trevor_Bennett-1152x648.png",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://9to5mac.com/2026/09/25/leaked-images-reveal-new-apple-tv-4k-homepod-mini/",
@@ -1001,6 +1068,17 @@
     "pub_date": "2026-09-25T15:23:06+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/hQUy2gAByfCg9PQX9XL83j-1920-80.jpg",
     "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://arstechnica.com/cars/2026/09/us-being-left-behind-in-ev-charging-speeds-as-china-goes-sub-5-min-to-70/",
+    "title": "US being left behind in EV charging speeds as China goes sub-5 min to 70%",
+    "description": "The new LFP battery charges from 10 to 70% in 4.5 minutes at just 65˚C.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-25T15:21:55+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Geely-robot-charger-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://mashable.com/tech/microsoft-surface-pcs-shed-copilot-plus-pc-branding",
@@ -1232,6 +1310,17 @@
     "source_name": "THEVERGE.COM"
   },
   {
+    "link": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
+    "title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
+    "description": "NASA's PRIMA mission will use spare parts from Webb to do major science at a lower cost.",
+    "categories": [
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-25T14:07:46+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/prima_art-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
     "link": "https://mashable.com/tech/best-early-amazon-october-prime-day-ipad-deals-2026",
     "title": "Our favorite early Prime Day deals on iPads: Live deals on the iPad Air and iPad Pro",
     "description": "Ahead of Amazon's October Prime Day, iPads are already on sale. Find deals on the iPad Air and iPad Pro.",
@@ -1362,6 +1451,17 @@
     "pub_date": "2026-09-25T13:47:47+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/004uo0XlvEm6TewUvrK9BCn/hero-image.png",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/",
+    "title": "Trump administration takes Musk’s side in fight over EU tech rules",
+    "description": "Washington says Brussels overreached when it fined X €120 million under the DSA.",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-25T13:45:49+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/x-eu-1152x648-1743790778.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://9to5mac.com/2026/09/25/iphone-duo-video-shows-left-handed-use-for-new-model/",
@@ -1625,6 +1725,28 @@
     "pub_date": "2026-09-25T11:15:01+00:00",
     "image_url": "http://www.techmeme.com/260925/i4.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+    "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+    "description": "Vendors rolling out AI have an \"incentive to deny as many claims as possible.\"",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-09-25T11:00:28+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2295026360-1024x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/",
+    "title": "Rocket Report: Era of cheap launch is over? Astra sets early 2027 target for return",
+    "description": "\"The customer got comfortable with a high reliability and a low price.\"",
+    "categories": [
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-25T11:00:10+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx-1152x648.jpeg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://www.wired.com/story/party-invite-phishing-scams-are-the-new-missed-connections/",
@@ -2189,135 +2311,5 @@
     "pub_date": "2026-09-24T19:35:11+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/3N3DophoffWz9Wofi3AmKK-1920-80.jpg",
     "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
-    "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
-    "description": "F-Droid's Android app store has been rebuilt from the ground up.",
-    "categories": [
-      "Gadgets & Hardware",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-24T19:30:42+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/F-Droid2-1-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2268183/new-york-times-cooking-is-coming-to-metas-ai-and-display-glasses/",
-    "title": "New York Times Cooking is coming to Meta's AI and display glasses",
-    "description": "The app is getting a \"hands-free\" mode that can narrate recipe steps.",
-    "categories": [
-      "Social & Media"
-    ],
-    "pub_date": "2026-09-24T19:24:34+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/new-york-times-cooking-is-coming-to-metas-ai-and-display-glasses/l-intro-1790277712.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-    "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-    "description": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Crypto & Web3",
-      "Science & Environment",
-      "Social & Media",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-24T19:15:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/",
-    "title": "New York defies Trump admin, asks court to shut down Polymarket gambling",
-    "description": "New York sues Polymarket as Trump admin tries to override state gambling laws.",
-    "categories": [
-      "Government & Policy"
-    ],
-    "pub_date": "2026-09-24T19:07:19+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/polymarket-mlb-all-star-game-1152x648-1790274426.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-    "description": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-24T19:00:42+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
-    "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
-    "description": "Feather is betting on a customizable, $30,000 platform built for software developers.",
-    "categories": [
-      "Business & Startups",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-24T18:52:38+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
-    "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
-    "description": "Oscar-winning documentarian Alex Gibney focuses on the world's wealthiest man.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-24T18:52:23+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/elonTOP-1152x648-1790271240.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2268124/we-finally-have-a-trailer-for-that-four-hour-elon-musk-documentary/",
-    "title": "We finally have a trailer for that four-hour Elon Musk documentary",
-    "description": "It was directed by Alex Gibney, who has made films about Enron, Scientology and Elizabeth Holmes.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-24T18:52:14+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/we-finally-have-a-trailer-for-that-four-hour-elon-musk-documentary/l-intro-1790275722.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
-    "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
-    "description": "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-24T18:39:47+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Ukraine-ground-robot-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/gaming/meta-horizon-create-horizon-studio-hands-on",
-    "title": "I played with Meta's new AI gaming engine reboot and can't believe how far it's come",
-    "description": "Facebook games are getting a massive level-up with Meta Horizon Create and Horizon Studio, and they'll be playable straight from your feed.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-24T18:31:33+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/jC6vrkkCUvwCixGg7rDEuA-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
-    "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
-    "description": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.",
-    "categories": [
-      "AI & Machine Learning",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-09-24T18:20:58+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/DataOne-drone-image-via-Sustain-SJ-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
