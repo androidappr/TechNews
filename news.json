@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.androidcentral.com/apps-software/meta/muse-charm-is-the-ai-tamagotchi-everyone-seems-to-be-in-love-with",
+    "title": "Muse Charm is the AI Tamagotchi everyone seems to be in love with",
+    "description": "Meta's Muse Charm is like an old Tamagotchi infused with its AI. The Charm is designed to keep you connected with Muse, and it features a camera, mic, and more.",
+    "categories": [
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-25T18:20:41+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/JLMr5nW8JEYtNtpewb4zcF-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
+    "title": "Roku&#8217;s first OLED TVs are up to $400 off, starting at $699",
+    "description": "Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with four HDMI 2.1 ports and support for Dolby Vision and HDR 10 Plus). The price is even lower right now at Amazon when you enter the",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-25T18:18:57+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Roku-Pro-Series-2026-oled-roundup.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260925/p13#a260925p13",
     "title": "A jury finds Meta liable for misleading New Mexico residents about third-party data sharing, content moderation, and more in the Cambridge Analytica scandal (Diana Novak Jones/Reuters)",
     "description": "Diana Novak Jones / Reuters:\nA jury finds Meta liable for misleading New Mexico residents about third-party data sharing, content moderation, and more in the Cambridge Analytica scandal  —  A jury in Santa Fe, New Mexico, found on Friday that Meta Platforms (META.O) misled the state's residents, in a case stemming …",
@@ -461,6 +485,19 @@
     "pub_date": "2026-09-25T16:03:24+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/02SgUOQOsjVh5PdMGBJvCvw/hero-image.png",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+    "title": "Meta’s AI Tamagotchi bet is…working?",
+    "description": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-25T16:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
   },
   {
     "link": "https://www.techradar.com/how-to-watch/football/hungary-vs-ukraine-nations-league",
@@ -943,7 +980,6 @@
     "title": "Cricut&#8217;s new compact crafter prints, cuts, and laminates stickers",
     "description": "Cricut announced its first crafting machines with printing capabilities that are primarily designed as all-in-one solutions for turning photos and other images into precut stickers. The Cricut StickerPix Print plus Cut and Cricut StickerPix Print are also two of the smallest machines in the company's current lineup and seem ideal for those whose crafting aspirations",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-25T14:21:25+00:00",
@@ -2276,39 +2312,5 @@
     "pub_date": "2026-09-24T16:22:13+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Microsoft-Surface-mouse.jpg",
     "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
-    "title": "Google's first Suncatcher orbital data center test launches October 1",
-    "description": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
-    "categories": [
-      "AI & Machine Learning",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-24T16:16:34+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/suncatcher-1152x648.png",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.zdnet.com/innovation/okta-blueprint-alliance-ai-agents-oauth-kill-switch/",
-    "title": "AI agent kill switch urged by Okta-led alliance – how businesses could make it work",
-    "description": "In response to the emerging threat of rogue and shadow AI agents, here’s how the newly formed Blueprint Alliance seeks to help businesses secure their systems against anomalous AI activity.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-24T16:01:19+00:00",
-    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/stopswitch-GettyImages-851328230.jpg",
-    "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/phones/google-pixel/pixel-11s-newest-trick-is-calling-local-businesses-so-you-dont-have-to",
-    "title": "Pixel 11's newest trick is calling local businesses so you don't have to",
-    "description": "Google's new Pixel feature brings us one step closer to never talking on the phone again.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-24T16:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/vrzqqbNKuMtb47J3jDnqA9-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
   }
 ]
