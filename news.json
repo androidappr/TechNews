@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.techradar.com/pro/usaf-considering-very-large-autonomous-airborne-tankers-to-replace-kc-135-kc-46-and-boeings-mq-25-stingray-uav-is-only-the-beginning",
+    "title": "USAF considering 'very large' autonomous airborne tankers to replace KC-135, KC-46 — and Boeing's MQ-25 Stingray UAV is only the beginning",
+    "description": "US Air Force is weighing an unmanned refueling tanker, inspired by the Navy's MQ-25, but size remains a major challenge.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-25T22:35:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/iJmeDiRccjfNVZWQC9AFdH-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260925/p22#a260925p22",
     "title": "OpenAI says the 53 images its agents uploaded were on \"image-hosting sites as links that weren't publicly listed\" and \"most\" of the images have been removed (@openai)",
     "description": "@openai:\nOpenAI says the 53 images its agents uploaded were on “image-hosting sites as links that weren't publicly listed” and “most” of the images have been removed  —  We've shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn't have. Most of that data did not come from users. We have discovered 53 cases where images that people had uploaded were posted to image-hosting sites as l...",
@@ -44,6 +55,18 @@
     "pub_date": "2026-09-25T22:13:31+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/efh9GiziELyLXbEnoZAt86-1920-80.jpeg",
     "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/",
+    "title": "NASA, Boeing to Provide Update on Starliner Development",
+    "description": "During a news conference at 3 p.m. EDT on Monday, Sept. 28, NASA and Boeing leadership will discuss Starliner’s development and plans for regular crew flights to and from the International Space Station. Learn where to watch online: https://www.nasa.gov/live The briefing participants include: Media already credentialed for Crew-13 may participate in person at NASA’s Kennedy",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-25T22:06:50+00:00",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/starliner.jpg?w=2048",
+    "source_name": "NASA.GOV"
   },
   {
     "link": "https://www.androidcentral.com/gaming/virtual-reality/meta-holograms-hands-on",
@@ -519,7 +542,6 @@
     "title": "Trump tries to rebrand AI. Is it really that super?",
     "description": "Dissecting the president's attempt at rebranding AI as \"super intelligence.\"",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-25T18:41:51+00:00",
@@ -953,7 +975,6 @@
     "description": "Nscale has closed a $3.36B pre-IPO convertible note round led by Third Point, with Nvidia, Apollo, Citadel and the Abu Dhabi Investment Council among the investors, three weeks after it was reported to be seeking up to $3.5B. The London company filed to list on the New York Stock Exchange last week under the ticker",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-09-25T16:39:42+00:00",
@@ -1086,17 +1107,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techradar.com/streaming/hbo-max/what-is-the-release-date-and-launch-time-for-lanterns-episode-7-on-hbo-max",
-    "title": "Lanterns episode 7 release date and launch time on HBO Max: when does it come out?",
-    "description": "Titled 'The Jordan Boys Legacy', here's when Lanterns' next episode will make its bow.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-25T16:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/7ZkvwwpKtU4ztpFb9tbRBh-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://mashable.com/entertainment/turkey-france-nations-league-2026-live-stream-for-free",
     "title": "How to watch Turkey vs. France online for free",
     "description": "How to watch Nations League for free. Live steam Turkey vs. France in Nations League for free from anywhere in the world.",
@@ -1106,6 +1116,17 @@
     "pub_date": "2026-09-25T16:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/06lZiMWshMnjA913zFUlknx/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/streaming/hbo-max/what-is-the-release-date-and-launch-time-for-lanterns-episode-7-on-hbo-max",
+    "title": "Lanterns episode 7 release date and launch time on HBO Max: when does it come out?",
+    "description": "Titled 'The Jordan Boys Legacy', here's when Lanterns' next episode will make its bow.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-25T16:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/7ZkvwwpKtU4ztpFb9tbRBh-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://mashable.com/life/best-early-amazon-october-prime-day-pokemon-deals-2026",
@@ -2269,27 +2290,5 @@
     "pub_date": "2026-09-25T04:05:00+00:00",
     "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/NGC5139CadenasParra.jpg?w=2048&h=1542&fit=clip&crop=faces%2Cfocalpoint",
     "source_name": "SCIENCE.NASA.GOV"
-  },
-  {
-    "link": "https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/",
-    "title": "Explosive Intensification for Hurricane Polo",
-    "description": "Several ingredients came together off the Pacific coast of Mexico to generate one of the strongest storms the eastern Pacific basin has ever seen.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-25T04:01:00+00:00",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/explosive-intensification-for-hurricane-polo/hurricanepolo_amo_20260923.jpg",
-    "source_name": "SCIENCE.NASA.GOV"
-  },
-  {
-    "link": "https://www.androidcentral.com/accessories/power-charging/these-are-the-smallest-65w-gan-chargers-ive-used-yet",
-    "title": "These are the smallest 65W GaN chargers I've used yet",
-    "description": "Need an ultra-small 65W GaN charger you can take anywhere? These are the ones I'd recommend.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-25T03:28:42+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/MQkv29RktkFZNem6kdtign-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
   }
 ]
