@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.androidcentral.com/accessories/power-charging/these-are-the-smallest-65w-gan-chargers-ive-used-yet",
+    "title": "These are the smallest 65W GaN chargers I've used yet",
+    "description": "Need an ultra-small 65W GaN charger you can take anywhere? These are the ones I'd recommend.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-25T03:28:42+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/MQkv29RktkFZNem6kdtign-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260924/p56#a260924p56",
     "title": "Sources: AI chip startup DensityAI, founded by ex-Tesla Dojo team members, is in talks to raise hundreds of millions of dollars at a $10B valuation (The Information)",
     "description": "The Information:\nSources: AI chip startup DensityAI, founded by ex-Tesla Dojo team members, is in talks to raise hundreds of millions of dollars at a $10B valuation  —  DensityAI, an AI chip startup founded just a year ago by former leaders of Tesla's Dojo supercomputer program, is in advanced talks …",
@@ -261,7 +272,6 @@
     "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
     "description": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound Elite Gen 2 is its first to integrate \"micro-power Wi-Fi 6E\" right into the chip, so they can",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-24T23:42:39+00:00",
@@ -273,8 +283,7 @@
     "title": "How to Customize Your AI Tools, From ChatGPT to Gemini and Claude",
     "description": "Get closer to the responses you want without the constant prompt hacking.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-24T23:40:23+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2176053749.jpg",
@@ -527,17 +536,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.techradar.com/gaming/rainbow-six-tactics-game-director-says-players-cant-repeatedly-play-their-favorite-operators-because-of-the-games-fatigue-and-injury-system-its-a-way-to-push-players-to-use-their-tools-and-shuffle-their-roster",
-    "title": "Rainbow Six Tactics game director says players can't repeatedly play their favorite Operators because of the game's fatigue and injury system — 'It's a way to push players to use their tools and shuffle their roster'",
-    "description": "Rainbow Six Tactics won't let fans repeatedly play the same Operator as in Rainbow Six Siege, but will encourage players to experiment with the entire roster.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-24T21:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/yfykTu8qa66pgjXYCybzMo-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/fords-upcoming-fathom-ev-truck-could-have-a-tailgating-friendly-frunk-shelf-so-you-can-put-an-actual-tv-on-there-to-watch-sports-outdoors-at-least-fords-applied-for-a-patent-on-the-idea",
     "title": "A EV truck with a TV built into a front trunk for tailgating? Ford wants to patent the idea",
     "description": "Ford's patent for what looks very like the Ford Fathom shows a multi-use front trunk including the option to house a TV",
@@ -546,6 +544,17 @@
     ],
     "pub_date": "2026-09-24T21:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/MjexnAfXgj4hYJNzUdu4uA-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/rainbow-six-tactics-game-director-says-players-cant-repeatedly-play-their-favorite-operators-because-of-the-games-fatigue-and-injury-system-its-a-way-to-push-players-to-use-their-tools-and-shuffle-their-roster",
+    "title": "Rainbow Six Tactics game director says players can't repeatedly play their favorite Operators because of the game's fatigue and injury system — 'It's a way to push players to use their tools and shuffle their roster'",
+    "description": "Rainbow Six Tactics won't let fans repeatedly play the same Operator as in Rainbow Six Siege, but will encourage players to experiment with the entire roster.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-24T21:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/yfykTu8qa66pgjXYCybzMo-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2269,16 +2278,5 @@
     "pub_date": "2026-09-24T15:00:00+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2258839/razers-kiyo-v2-pro-webcam-can-capture-4k-video-at-60-fps/",
-    "title": "Razer's Kiyo V2 Pro webcam can capture 4K video at 60 fps",
-    "description": "Razer's new 'pro' webcam can handle 4K video at 60 fps and will cost $300",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-24T15:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/razers-kiyo-v2-pro-webcam-can-capture-4k-video-at-60-fps/l-intro-1789474539.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
