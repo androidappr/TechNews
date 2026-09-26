@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://mashable.com/tech/google-sending-ai-data-center-satellite-to-space",
+    "title": "Liftoff: Google is realizing Elon Musks dream of AI data centers in space",
+    "description": "Elon Musk has talked about putting AI data centers in space, and now he's helping Google make that plan a reality.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-26T09:30:10+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00EGNefcFCxIs7OEtzXM6ln/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/gravitational-struggle-deep-in-earth-is-changing-length-of-days/",
+    "title": "A Gravitational Battle Within the Earth Is Changing the Length of Days",
+    "description": "A competition between the gravity of the inner core and other forces in the mantle is altering the Earth's rotation.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-26T09:30:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ab57aedee39eece457c3eb4/master/pass/962321400",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.techradar.com/tech/the-tech-drop-the-most-exciting-new-gadgets-you-might-have-missed-in-september",
     "title": "The Tech Drop: The most exciting new gadgets you might have missed in September",
     "description": "With events from Apple, Meta and Dyson, it's been a bumper month for new tech — here's your handy recap of all the announcements.",
@@ -10,6 +34,17 @@
     "pub_date": "2026-09-26T09:30:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/TryrY9z7SgXw3cTqcdA2B5-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/how-to-download-crosspoint-firmware-on-xteink-e-reader",
+    "title": "Want your Xteink X4 to feel more like a Kindle? Download this firmware.",
+    "description": "Don't like your Xteink e-reader's interface? You can change it with the CrossPoint Reader firmware — software that makes your e-reader feel more like a Kindle. Here's how.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-26T09:20:47+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/06cmzbHpNBfXId2mSI7sGhV/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.wired.com/story/amazon-prime-day-early-deals-09-26-2026/",
@@ -402,7 +437,6 @@
     "title": "NYC-based Confido, a provider of AI-powered workflow automation tools for consumer packaged goods companies, raised a $55M Series B led by Insight Partners (AlleyWatch)",
     "description": "AlleyWatch:\nNYC-based Confido, a provider of AI-powered workflow automation tools for consumer packaged goods companies, raised a $55M Series B led by Insight Partners  —  Consumer packaged goods brands operate on razor-thin margins, yet the finance, accounting, trade spend, and operations work that protects …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-26T05:40:01+00:00",
@@ -2225,38 +2259,5 @@
     "pub_date": "2026-09-25T15:00:00+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techradar.com/cameras/camera-lenses/best-fujifilm-lenses-2026-12-top-primes-and-zooms-for-x-series-cameras-to-cover-any-situation",
-    "title": "Looking for your next Fujifilm lens? These top 12 primes and zooms cover any situation",
-    "description": "There are more than 30 cameras and 40 lenses in Fujifilm's X-mount system, plus plenty more third-party lenses to pick from — we round up the best primes and zooms for every scenario.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-25T14:57:45+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/mNUGZrcoVpQNgNiaLuMjkB-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/",
-    "title": "TB 26-07 Aluminum Alloy 2219 Material Guidance",
-    "description": "For more information, contact Donald S. Parker, Kennedy Space Center, donald.s.parker@nasa.gov Download the PDF version Improper casting and forging processes in the manufacture of aluminum alloy 2219 can lead to microstructural defects that result in a sub-optimal response to anodic surface treatments and an increase in corrosion susceptibility. This Technical Bulletin communicates the risks of",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-25T14:45:51+00:00",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/tb-26-07-figure-12.png?w=674",
-    "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://www.techmeme.com/260925/p8#a260925p8",
-    "title": "Ando, which is building a team messaging platform for both humans and AI agents, comes out of stealth with $20M in pre-seed and seed funding (Dominic-Madori Davis/TechCrunch)",
-    "description": "Dominic-Madori Davis / TechCrunch:\nAndo, which is building a team messaging platform for both humans and AI agents, comes out of stealth with $20M in pre-seed and seed funding  —  When Sara Du was helping companies build MCP servers in 2025, people kept asking her how they could use AI agents from within Slack itself.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-25T14:45:01+00:00",
-    "image_url": "http://www.techmeme.com/260925/i8.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
