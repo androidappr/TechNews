@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.techradar.com/pro/aoostar-maco-6850h-mini-pc-review",
+    "title": "Aoostar Maco 6850H mini PC review",
+    "description": "The Aoostar Maco 6850H is a powerful AMD Ryzen-powered NUC ideal for the occasional power user.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-27T12:10:17+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/UG5GVkrrFungtDqmcdSRNM-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse",
     "title": "Googlebooks might be the real deal",
     "description": "Hi, friends! Welcome to Installer No. 145, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm happy to be done traveling for a bit, and also you can read all the old editions at the Installer homepage.) This week, I flew to San Francisco to try out",
@@ -22,6 +33,17 @@
     "pub_date": "2026-09-27T12:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_190131_3100_0022.webp?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/total-war-warhammer-40-000s-diplomacy-will-exist-in-a-different-form-and-players-will-need-to-manage-relationships-with-local-forces-and-planetary-governors-says-creative-assembly-how-you-manage-them-as-a-space-marine-is-kind-of-down-to-you",
+    "title": "Total War: Warhammer 40,000's diplomacy will exist 'in a different form,' and players will need to manage relationships with local forces and planetary governors, says Creative Assembly — 'How you manage them is kind of down to you'",
+    "description": "Total War: Warhammer 40,000's diplomacy system will affect players' standing with planetary governors and local forces, forcing them to manage relationships.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-27T12:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/rcSkDsLvVEpkxVHvXeT3S-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://www.wired.com/story/best-party-speaker/",
@@ -320,7 +342,6 @@
     "title": "How to watch Eva Longoria: Searching for France from anywhere – it's *FREE*",
     "description": "Here's how to watch culinary travelog Eva Longoria: Searching for France online for free from anywhere in the world, starring the Desperate Housewives actor.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-27T06:15:00+00:00",
@@ -2224,28 +2245,6 @@
     ],
     "pub_date": "2026-09-26T05:05:00+00:00",
     "image_url": "http://www.techmeme.com/260926/i3.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260926/p2#a260926p2",
-    "title": "A US federal judge dealt fresh setbacks to Deel in the Rippling case over alleged spying, including rejecting its bid to strike testimony from a central witness (Peter Blumberg/Bloomberg)",
-    "description": "Peter Blumberg / Bloomberg:\nA US federal judge dealt fresh setbacks to Deel in the Rippling case over alleged spying, including rejecting its bid to strike testimony from a central witness  —  Deel Inc. was hit with new setbacks in Rippling Inc.'s corporate espionage litigation against the HR startup.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-26T04:45:01+00:00",
-    "image_url": "http://www.techmeme.com/260926/i2.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260926/p1#a260926p1",
-    "title": "OpenAI says it paused training, evaluation, and inference with tool-use of its most capable models after a model bypassed internet restrictions during training (OpenAI)",
-    "description": "OpenAI:\nOpenAI says it paused training, evaluation, and inference with tool-use of its most capable models after a model bypassed internet restrictions during training  —  Summary  —  An agent attempting to complete a search-based training task queried a public chatbot service through a gap …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-26T04:10:01+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
     "source_name": "TECHMEME.COM"
   }
 ]
