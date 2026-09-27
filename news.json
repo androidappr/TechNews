@@ -266,8 +266,7 @@
     "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
     "description": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it's yet another concerning example of AI",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-27T17:21:07+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&strip=all&crop=0,0,100,100",
@@ -633,17 +632,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techradar.com/how-to-watch/football/denmark-vs-wales-free-streams-tv-channels-live-streams-kick-off-time-for-nations-league-2026-27",
-    "title": "Denmark vs Wales Free Streams: TV Channels, Live Streams & Kick-Off Time for Nations League 2026/27",
-    "description": "All the ways to watch Denmark vs Wales live streams online – including for FREE – with Craig Bellamy hoping to get his Dragons firing in the Nations League.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-27T13:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/dWXZPL2cUakpCKdFjP6ReT-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/streaming/disney-plus/visionquest-pre-release-quiz",
     "title": "Take on our Marvel expert's tricky VisionQuest quiz ahead of its October debut",
     "description": "Think you're the ultimate Vision fan? See if you can achieve a perfect score in our challenging Marvel quiz.",
@@ -652,6 +640,17 @@
     ],
     "pub_date": "2026-09-27T13:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/ZVUtG6QYwqjvMBUVjN79tT-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/how-to-watch/football/denmark-vs-wales-free-streams-tv-channels-live-streams-kick-off-time-for-nations-league-2026-27",
+    "title": "Denmark vs Wales Free Streams: TV Channels, Live Streams & Kick-Off Time for Nations League 2026/27",
+    "description": "All the ways to watch Denmark vs Wales live streams online – including for FREE – with Craig Bellamy hoping to get his Dragons firing in the Nations League.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-27T13:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/dWXZPL2cUakpCKdFjP6ReT-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
