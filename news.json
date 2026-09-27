@@ -1,5 +1,18 @@
 [
   {
+    "link": "https://thenextweb.com/news/china-alibaba-bytedance-nvidia-rtx-pro-5500",
+    "title": "China reportedly may let Alibaba and ByteDance buy new Nvidia chips",
+    "description": "China’s government has signalled it may let firms such as Alibaba and ByteDance buy Nvidia’s new RTX Pro 5500 chip. The Information reported the news on Sunday, citing two people familiar with the matter. China’s tech ministry recently asked some firms how many of the chips they plan to buy, and what for, according to",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-27T18:16:51+00:00",
+    "image_url": "https://media.thenextweb.com/2026/04/uk-biobank-health-data-alibaba-breach.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/cybersecurity-ceos-ai-endpoints-identity-summer-2026",
     "title": "From AI endpoints to IAM: 5 cybersecurity CEOs we’ve been watching this summer",
     "description": "Cybersecurity has had no shortage of new companies and ideas this summer. Behind some of the most interesting developments are founders who have spent years working on the problems they are now trying to solve. Their companies span different parts of the security stack, but they share a focus on adapting cybersecurity to an environment being",
@@ -111,6 +124,7 @@
     "title": "Sources: China's government asked Alibaba, ByteDance, and others to report on their plans to buy Nvidia RTX Pro 5500, saying it intends to approve the purchases (Qianer Liu/The Information)",
     "description": "Qianer Liu / The Information:\nSources: China's government asked Alibaba, ByteDance, and others to report on their plans to buy Nvidia RTX Pro 5500, saying it intends to approve the purchases  —  China's government has signaled it could allow some domestic companies to buy a new Nvidia chip built for high-end professional computers …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-27T16:20:00+00:00",
@@ -166,7 +180,7 @@
   },
   {
     "link": "https://www.techradar.com/how-to-watch/football/israel-vs-ireland-free-nations-league-2026-27",
-    "title": "How to watch Israel vs Ireland: FREE streams, TV channels for Nations League game",
+    "title": "How to watch Israel vs Ireland: FREE streams, TV channels for Nations League game, team news",
     "description": "Here's how you can watch Israel vs Ireland in the Nations League 2026/27 with full TV channels, kick-off times and broadcast details included.",
     "categories": [
       "Breaking News",
@@ -2232,16 +2246,5 @@
     "pub_date": "2026-09-26T11:00:00+00:00",
     "image_url": "https://media.wired.com/photos/69d41d1bf10fbfdc2dc2e429/master/pass/The-Best-Mesh-Wi-Fi-Systems-for-WFH,-Gaming,-and-Streaming.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
-    "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
-    "description": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-26T10:45:09+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/teslasemi-1024x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
