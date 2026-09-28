@@ -1,5 +1,91 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+    "title": "OpenAI’s AI agents need to catch up",
+    "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon -",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-28T18:45:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards",
+    "title": "Trump finalizes rule to make cars less fuel efficient",
+    "description": "The US Department of Transportation finalized its plans today to weaken fuel efficiency standards, calling it \"among the largest deregulatory actions under the second Trump Administration.\" It's a nail in the coffin for Biden-era standards that would have required fleet average fuel economy to reach 50.4 miles per gallon by model year 2031. President Donald",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-28T18:39:50+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2271136/meta-is-starting-an-enterprise-business-to-justify-its-massive-ai-spending/",
+    "title": "Meta is starting an enterprise business to justify its massive AI spending",
+    "description": "Meta wants to sell its AI products and services to other companies.",
+    "categories": [
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-28T18:37:57+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/meta-is-starting-an-enterprise-business-to-justify-its-massive-ai-spending/l-intro-1790620496.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/florida-openai-temporary-injunction-model-development-uthmeier",
+    "title": "Florida asks a court to stop OpenAI building new AI models",
+    "description": "Florida’s attorney general, James Uthmeier, has asked a state court to stop OpenAI from developing new AI models without independent safety guardrails. He made the request in a motion for a temporary injunction filed on Monday. It was filed in the Highlands County circuit court. The motion is part of the lawsuit Florida brought against",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-28T18:36:42+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/florida-attorney-general-james-uthmeier-official-portrait.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2271129/ayaneo-shrank-down-the-game-boy-form-factor-with-its-latest-89-handheld/",
+    "title": "Ayaneo shrank down the Game Boy form factor with its latest $89 handheld",
+    "description": "The Konkr Pocket Block is now up for preorder and will start shipping in October.",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-09-28T18:31:44+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/ayaneo-shrank-down-the-game-boy-form-factor-with-its-latest-89-handheld/l-intro-1790620236.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+    "title": "Nvidia launches new platform for reining in rogue AI agents",
+    "description": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-28T18:31:23+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/sonnet-5-5-cyber-distillation",
+    "title": "Anthropic releases Claude Sonnet 5.5 with the cyber limits it reserved for its best models",
+    "description": "Anthropic has released Claude Sonnet 5.5, which scores 70.6% on the Terminal-Bench 4.0 agentic coding test against 10.3% for Sonnet 5 and 66.4% for the more expensive Opus 5.5. It is the first Sonnet to ship with frontier-style cyber safeguards and with classifiers that block reasoning extraction. Anthropic has released Claude Sonnet 5.5, which it",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-28T18:30:03+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/anthropic-in-house-chip-team-custom-silicon-claude.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
     "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
     "description": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. The work sometimes put it in close contact with these companies' financial data, which was stored on its systems. But suddenly, concerned callers",
@@ -67,6 +153,7 @@
     "title": "Anthropic upgrades Claude with new Sonnet 5.5 model, details here",
     "description": "Anthropic is upgrading Claude Sonnet, replacing Sonnet 5 from June with Sonnet 5.5 as the best medium-sized model.\n\n\n\n more…",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-28T18:07:55+00:00",
@@ -213,6 +300,18 @@
     "pub_date": "2026-09-28T17:44:43+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/red-queen-bio-founders-hannu-rajaniemi-nikolai-eroshenko.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://science.nasa.gov/missions/swift/nasa-highlights-lessons-learned-from-swift-boost-mission/",
+    "title": "NASA Highlights Lessons Learned From Swift Boost Mission",
+    "description": "A commercial mission to boost NASA’s Swift observatory concluded without raising the spacecraft’s orbit, but the agency and industry vendor gained valuable experience that will benefit future in-space servicing programs.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-28T17:44:33+00:00",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/misc--spacecraft-art/Swift_in_space_09.jpg?w=3839&h=2032&fit=clip&crop=faces%2Cfocalpoint",
+    "source_name": "SCIENCE.NASA.GOV"
   },
   {
     "link": "https://arstechnica.com/cars/2026/09/f1-in-azerbaijan-that-was-almost-a-close-run-thing/",
@@ -953,7 +1052,7 @@
   {
     "link": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
     "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
-    "description": "Accounting staffing company MAVI emerges from stealth with $4million in funding.",
+    "description": "Accounting staffing company MAVI emerges from stealth with $4 million in funding.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -1445,18 +1544,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-    "description": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-28T14:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
     "link": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
     "title": "The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes",
     "description": "Today, I’m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian.  Atlassian is one of those companies that every other company runs on — it makes important platform tools like Jira and Trello that allow people to organize and manage big teams, create shared databases of company information, and generally allow work to",
@@ -1468,6 +1555,18 @@
     "pub_date": "2026-09-28T14:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-28_Cannon-Brookes.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+    "description": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-28T14:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
   },
   {
     "link": "https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/",
@@ -1703,18 +1802,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.theverge.com/tech/1000924/philips-sonicare-next-generation-diamondclean-9900-prestige-smart-toothbrush",
-    "title": "Philips’ motion-tracking smart toothbrush uses AI to make you a better brusher",
-    "description": "First announced in July with an expected limited launch later this year, the Philips Sonicare Next-Generation DiamondClean 9900 Prestige smart toothbrush is now available in Europe and the US, with a broader global rollout expected in 2027. While the previous iteration is still available and discounted from $429.99, the new \"Next-Gen DiamondClean\" version is debuting",
-    "categories": [
-      "Gadgets & Hardware",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-28T13:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/sonicare1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.wired.com/story/bose-to-release-wired-headphones-after-10-years/",
     "title": "Bose Launches New Wired Earbuds After More Than a Decade",
     "description": "The Bose Noise Cancelling Wired Earbuds are the first new wired headphones from the brand since 2015, inspired directly by teen preferences. We got an early listen.",
@@ -1736,6 +1823,18 @@
     "pub_date": "2026-09-28T13:00:00+00:00",
     "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/s26-011-kristie-foster.jpg?w=2048",
     "source_name": "NASA.GOV"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1000924/philips-sonicare-next-generation-diamondclean-9900-prestige-smart-toothbrush",
+    "title": "Philips’ motion-tracking smart toothbrush uses AI to make you a better brusher",
+    "description": "First announced in July with an expected limited launch later this year, the Philips Sonicare Next-Generation DiamondClean 9900 Prestige smart toothbrush is now available in Europe and the US, with a broader global rollout expected in 2027. While the previous iteration is still available and discounted from $429.99, the new \"Next-Gen DiamondClean\" version is debuting",
+    "categories": [
+      "Gadgets & Hardware",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-28T13:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/sonicare1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/",
@@ -1849,7 +1948,6 @@
     "title": "Mark Zuckerberg unveils Meta Enterprise Platform, the \"next major pillar of our business\" to deploy AI tools, led by MongoDB CEO Chirantan Desai; MDB falls 20%+ (Meghan Bobrowsky/Wall Street Journal)",
     "description": "Meghan Bobrowsky / Wall Street Journal:\nMark Zuckerberg unveils Meta Enterprise Platform, the “next major pillar of our business” to deploy AI tools, led by MongoDB CEO Chirantan Desai; MDB falls 20%+  —  The tech giant is pushing to monetize its multibillion-dollar AI investments by selling more tools and services to companies",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-28T12:45:00+00:00",
@@ -2267,97 +2365,5 @@
     "pub_date": "2026-09-28T10:50:03+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/5UNg8dh2SuUyJouGFfB3f7-1920-80.webp",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/phones/ios/is-your-iphones-touchscreen-sometimes-unresponsive-after-upgrading-to-ios-27-youre-not-alone-heres-what-helps-according-to-those-affected",
-    "title": "iOS 27 users report touchscreen and performance issues after update",
-    "description": "iOS 27 bring lots of new features but also some bugs, including touchscreen and performance issues.",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-28T10:46:55+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/JBoXsY3wdW6E8qGUriZc7P-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260928/p13#a260928p13",
-    "title": "Litigation funder Burford Capital says it stands to gain up to $1.4B after a US jury ruled against Apple in a patent case, awarding $5.7B in damages to Taction (Stefania Palma/Financial Times)",
-    "description": "Stefania Palma / Financial Times:\nLitigation funder Burford Capital says it stands to gain up to $1.4B after a US jury ruled against Apple in a patent case, awarding $5.7B in damages to Taction  —  Litigation funder's share price jumps 9% after US jury's decision  —  Litigation funder Burford Capital said it stands to gain …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-28T10:45:02+00:00",
-    "image_url": "http://www.techmeme.com/260928/i13.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/life/philips-sonicare-diamondclean-9900-prestige-launch-where-to-buy",
-    "title": "The new Sonicare DiamondClean 9900 Prestige uses AI to save your gums — where to buy",
-    "description": "The Philips Sonicare Next-Generation DiamondClean 9900 Prestige is out today on Amazon. Here is what to know about the new $380 AI-powered toothbrush.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-28T10:43:54+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06PNfSMke8lXkVmCsHP9OeX/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/how-ai-is-reshaping-domain-strategy-and-digital-trust",
-    "title": "How AI is reshaping domain strategy and digital trust",
-    "description": "AI is making online impersonation easier, pushing businesses to rethink domains as essential brand and trust assets.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-28T10:42:39+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/F8GmZXNJTQZttVhvkvgpp9-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-details-the-features-coming-to-galaxy-s26-series-with-one-ui-9-update",
-    "title": "Samsung finally reveals everything coming to your Galaxy S26 with One UI 9",
-    "description": "Samsung's One UI 9 rollout has been a mess — but we finally have the full changelog",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-28T10:41:14+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/QzPp3JoFMJmPf52sjcfLsG-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://mashable.com/life/sept-28-delonghi-rivelia-automatic-espresso-machine-deal",
-    "title": "DeLonghis Rivelia automatic espresso machine has never been cheaper — save $300 before Prime Day",
-    "description": "As of Sept. 28, the De'Longhi Rivelia automatic espresso machine is down to its lowest price yet at Amazon of $999.95, 23% off its full price of $1,299.95.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-28T10:39:25+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07nvEfMPBrhG1zKMbvo1Uc7/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/ai-platforms-assistants/i-thought-i-knew-dinosaurs-until-i-tried-chatgpts-new-flashcards-turns-out-i-had-a-lot-to-learn",
-    "title": "I thought I knew dinosaurs until I tried ChatGPT's new flashcards",
-    "description": "I tried ChatGPT’s new flashcard feature and enjoyed a quick study on dinosaurs.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-09-28T10:39:20+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/GSvsTJW77vR7hqNsbfGowk-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/best-apple-watch/",
-    "title": "Best Apple Watch: Series 12, Ultra 4, and SE 3 (2026)",
-    "description": "From the latest Ultra to last year’s SE, these are the Apple Watches worth considering.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-28T10:36:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ab84ba8c1592ce41c5b6216/master/pass/GettyImages-2293861871.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
