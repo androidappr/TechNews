@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "description": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-28T21:29:18+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/shark-air-purifier-deal-october-2026/",
+    "title": "Shark’s NeverChange Air Purifier Is Nearly Half Off Right Now",
+    "description": "Shark and other top air purifier brands are on discount ahead of Amazon Prime Big Deal Days.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-28T21:28:20+00:00",
+    "image_url": "https://media.wired.com/photos/6abac46841517308a638356b/master/pass/This-Shark-Bedroom-Air-Purifier-Is-$100-Off-Right-Now.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/you-should-download-ios-27-0-1-now-for-these-iphone-fixes/",
+    "title": "You Should Download iOS 27.0.1 Now for These iPhone Fixes",
+    "description": "The update includes a fix for a bug that might cause your touchscreen to stop working.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-28T21:10:53+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/cnet-ios27-7.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/09/28/watchos-27-0-1-is-now-available-for-all-compatible-apple-watch-models/",
     "title": "watchOS 27.0.1 is now available for all compatible Apple Watch models",
     "description": "Apple today expanded the availability of watchOS 27.0.1 to more Apple Watch models, following last week’s initial release for Apple Watch Series 12 and Apple Watch Ultra 4. Here are the details.\n\n\n\n more…",
@@ -32,6 +68,17 @@
     "pub_date": "2026-09-28T21:05:28+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/wKNZ3BiKrswznDFeG6DU39-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/gaming/watch-a-youtuber-run-playstation-5-games-on-an-xbox-series-x/",
+    "title": "Watch a YouTuber Emulate PlayStation 5 Games on an Xbox Series X",
+    "description": "“Xbox backward compatibility is getting out of hand,” he writes.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-28T21:03:49+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/18ef950e-3659-410a-87d6-8d389ddf4813.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://thenextweb.com/news/cloudflare-matthew-prince-bots-1000x-human-traffic-verge",
@@ -445,17 +492,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.techradar.com/computing/monitors/lg-ultragear-evo-39gx950b-b-review",
-    "title": "LG UltraGear Evo 39GX950B is almost perfect except for one major flaw",
-    "description": "LG's 39-inch 5K2K display is one of the best gaming monitors any gamer can buy on the market today, but not without a hefty price.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-28T19:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/KaU2VaXJrKJcwVdZFD9rV4-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/home/home-security/ankers-launches-worlds-first-video-doorbell-with-vr-viewing-fortunately-it-has-other-smart-features-to-justify-its-giant-price-tag-and-is-subscription-free",
     "title": "Anker unveils Eufy S4 video doorbell with VR viewing and AI tracking",
     "description": "With 180-degree viewing field, AI tracking, and subject framing, there's nothing the Eufy S4 video doorbell can't do.",
@@ -465,6 +501,17 @@
     ],
     "pub_date": "2026-09-28T19:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/wwC6ffF39gHuESyvznR274-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/monitors/lg-ultragear-evo-39gx950b-b-review",
+    "title": "LG UltraGear Evo 39GX950B is almost perfect except for one major flaw",
+    "description": "LG's 39-inch 5K2K display is one of the best gaming monitors any gamer can buy on the market today, but not without a hefty price.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-28T19:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/KaU2VaXJrKJcwVdZFD9rV4-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -497,7 +544,6 @@
     "description": "A YouTuber says Meta’s Muse agent gave his home address to a Facebook Marketplace buyer and then told the buyer he was home when he wasn’t. Matt Robb described what happened in a post on Threads. “Just found out it told people my address and agreed a lowball price,” Robb wrote. Robb had let Muse",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy",
       "Social & Media",
       "Software & Apps"
@@ -1545,7 +1591,6 @@
     "title": "Meta’s Muse reportedly sent a Facebook Marketplace buyer to a user’s home",
     "description": "A Facebook Marketplace seller says Meta’s Muse shared his address and arranged a pickup without his approval. Meta is investigating.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-28T15:29:54+00:00",
@@ -1557,7 +1602,6 @@
     "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
     "description": "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-28T15:29:21+00:00",
@@ -1581,7 +1625,6 @@
     "title": "Deals: M5 Pro MacBook Pro $500 off, M5 MacBook Air $150 off, 2026 Studio Display $300 off, more",
     "description": "Amazon has once again updated its early fall Prime Day sale with new deals, but today’s 9to5Toys Lunch Break is headlined by a giant $500 price drop on this 2TB M5 Pro MacBook Pro, alongside a series of M5 MacBook Air models at up to $150 off. We also have the return of M6 Mac mini and Mac Studio launch deals joined by official Apple refurb store offering the 2026 Studio Display with the Tilt- and Height-Adjustable Stand at $300 off and the ongoing Beats 360 ANC headphones launch deal – score 80% off the modular Cushion Kits at $10. Check it all out down below. \n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-28T15:25:46+00:00",
@@ -1604,7 +1647,6 @@
     "title": "Starship reaches orbit for the first time ever but returns home early",
     "description": "SpaceX's Starship reaches orbit for the first time on flight 14, overcoming an early engine shutdown, but comes home prematurely.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-09-28T15:20:31+00:00",
@@ -1671,17 +1713,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
-    "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
-    "description": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges that remain, and what it will take to deliver fusion power to the grid at scale. Get your pass at regular price and get a second one at 50% off.",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-28T15:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
     "link": "https://mashable.com/entertainment/belgium-france-nations-league-2026-live-stream-for-free",
     "title": "How to watch Belgium vs. France online for free",
     "description": "How to watch Nations League for free. Live steam Belgium vs. France in Nations League for free from anywhere in the world.",
@@ -1691,6 +1722,17 @@
     "pub_date": "2026-09-28T15:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/01Y5L03YwLx4vIfongDwCF9/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
+    "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
+    "description": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges that remain, and what it will take to deliver fusion power to the grid at scale. Get your pass at regular price and get a second one at 50% off.",
+    "categories": [
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-28T15:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
   },
   {
     "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-orbit-challenge-2027/",
@@ -2298,51 +2340,5 @@
     "pub_date": "2026-09-28T13:15:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/leasing-vs-buying-a-new-iphone-which-is-better-if-you-upgrade-every-year/l-intro-1790279962.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/bose-to-release-wired-headphones-after-10-years/",
-    "title": "Bose Launches New Wired Earbuds After More Than a Decade",
-    "description": "The Bose Noise Cancelling Wired Earbuds are the first new wired headphones from the brand since 2015, inspired directly by teen preferences. We got an early listen.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-28T13:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ab70043d3514249479bb32e/master/pass/Bose-NC-Wired-Earbuds_Credit-HR_02-2.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-kristie-foster/",
-    "title": "Contractor to Civil Servant: NASA Welcomes Kristie Foster",
-    "description": "Kristie Foster paved her road to becoming a NASA civil servant with literal miles of dedication. Her work at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, supports NASA’s mission to return American astronauts to the Moon, build a Moon Base for an enduring presence on the lunar surface, and ensure American leadership",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-28T13:00:00+00:00",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/s26-011-kristie-foster.jpg?w=2048",
-    "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1000924/philips-sonicare-next-generation-diamondclean-9900-prestige-smart-toothbrush",
-    "title": "Philips’ motion-tracking smart toothbrush uses AI to make you a better brusher",
-    "description": "First announced in July with an expected limited launch later this year, the Philips Sonicare Next-Generation DiamondClean 9900 Prestige smart toothbrush is now available in Europe and the US, with a broader global rollout expected in 2027. While the previous iteration is still available and discounted from $429.99, the new \"Next-Gen DiamondClean\" version is debuting",
-    "categories": [
-      "Gadgets & Hardware",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-28T13:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/sonicare1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/",
-    "title": "Maritime intelligence startup Quartermaster raises another $140M",
-    "description": "The tech enables real-time awareness for what Quartermaster calls the “largest blind spot on Earth.”",
-    "categories": [
-      "Breaking News",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-28T13:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
