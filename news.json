@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://thenextweb.com/news/goncourt-drops-orelien-novel-ai-claims",
+    "title": "France’s Goncourt prize drops a novel over claims AI wrote it",
+    "description": "The Académie Goncourt has dropped Thélyson Orélien’s novel C’était ça ou mourir from the first selection for France’s top literary prize. In a statement on Friday, the academy cited plagiarism by the author and analyses showing that AI had most likely written most of the book. Orélien denies using AI, Philip Oltermann reported for the",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-28T12:22:52+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/second-hand-french-paperbacks-market-stall.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2267973/how-long-20000-mah-power-bank-lasts/",
+    "title": "How long will a 20,000 mAh power bank typically last?",
+    "description": "If you need to charge your phone repeatedly while away from an outlet, a big power bank could be a good investment.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-28T12:15:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-long-will-a-20000-mah-power-bank-typically-last/l-intro-1790271761.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.theverge.com/science/1001259/spacex-starlink-satellites-starship-amazon-leo",
+    "title": "SpaceX preps next-gen Starlink as Amazon’s competitor stalls",
+    "description": "SpaceX is gearing up for a monumental flight today that's sure to be closely watched by Amazon. If successful, SpaceX will deploy its first Starlink V3 satellites, which tout meaningful upgrades to the ever-expanding Starlink constellation. The 26 satellites will be riding atop Starship, which SpaceX will also attempt to deploy into Earth orbit for",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-28T12:09:17+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.techradar.com/home/small-appliances/lidl-is-launching-two-cheap-heating-devices-this-week-grab-this-gbp18-snuggly-electric-cushion-and-a-gbp15-heating-pad-for-your-back-before-the-temperature-drops",
     "title": "Lidl to launch budget electric cushion and heating pad this week",
     "description": "Lidl's new budget-friendly heating devices land in stores October 1.",
@@ -457,8 +493,8 @@
   },
   {
     "link": "https://www.techmeme.com/260928/p11#a260928p11",
-    "title": "An interview with ASML CEO Christophe Fouquet on the company's 42-year history, its complex supply chains across 2,000 companies, US export bans, AI, and more (Patrick Jenkins/Financial Times)",
-    "description": "Patrick Jenkins / Financial Times:\nAn interview with ASML CEO Christophe Fouquet on the company's 42-year history, its complex supply chains across 2,000 companies, US export bans, AI, and more  —  Christophe Fouquet has built Europe's biggest business through a total monopoly over the most advanced chipmaking equipment",
+    "title": "An interview with ASML CEO Christophe Fouquet on the company's 42-year history, its complex supply chain across 2,000 companies, US export bans, AI, and more (Patrick Jenkins/Financial Times)",
+    "description": "Patrick Jenkins / Financial Times:\nAn interview with ASML CEO Christophe Fouquet on the company's 42-year history, its complex supply chain across 2,000 companies, US export bans, AI, and more  —  Christophe Fouquet has built Europe's biggest business through a total monopoly over the most advanced chipmaking equipment",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -670,8 +706,8 @@
   },
   {
     "link": "https://www.techmeme.com/260928/p7#a260928p7",
-    "title": "Nvidia launches the Open Agent Safety Platform, a reference design to stop AI agents from escaping, made up of OpenShell for CPUs and Sentry for network chips (Kif Leswing/CNBC)",
-    "description": "Kif Leswing / CNBC:\nNvidia launches the Open Agent Safety Platform, a reference design to stop AI agents from escaping, made up of OpenShell for CPUs and Sentry for network chips  —  Nvidia is rolling out a new software platform to allow AI developers to set safeguards for agents and prevent them from breaking out of containment.",
+    "title": "Nvidia launches the Open Agent Safety Platform, a reference design to stop AI agents from escaping sandboxes, with OpenShell for CPUs and Sentry for Nvidia DPUs (Kif Leswing/CNBC)",
+    "description": "Kif Leswing / CNBC:\nNvidia launches the Open Agent Safety Platform, a reference design to stop AI agents from escaping sandboxes, with OpenShell for CPUs and Sentry for Nvidia DPUs  —  Nvidia is rolling out a new software platform to allow AI developers to set safeguards for agents and prevent them from breaking out of containment.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -893,7 +929,6 @@
     "title": "TakeMe2Space to launch AI computing satellite on SpaceX rocket on 1 October",
     "description": "TakeMe2Space, a space startup from India, will send its MOI-1A satellite to orbit on 1 October on a SpaceX rideshare flight, Transporter-18. The Hyderabad company calls it India’s first orbital computing satellite, since it can analyse data in space and send back results rather than raw files, Reuters reported on Monday. The satellite weighs less than",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Science & Environment"
     ],
@@ -2238,39 +2273,5 @@
     "pub_date": "2026-09-27T11:00:12+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2287653556-1152x648.jpg",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/you-dont-need-to-pay-for-distraction-blocking-software/",
-    "title": "You Don’t Need to Pay for Distraction-Blocking Software",
-    "description": "These free iOS and Android apps create the physical friction you need to put down your phone.",
-    "categories": [
-      "Gadgets & Hardware",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-27T10:15:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ab3c0e97606c9b90debea17/master/pass/092326%20-%20Driving%20Phone%20Distraction.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/data-center-backlash-climate-reckoning/",
-    "title": "The Data Center Backlash Should Also Be a Climate Reckoning. It Isn’t Yet",
-    "description": "Climate groups are latching onto the data center opposition movement, but it remains to be seen if they can get people to care about the facilities’ impact on the atmosphere.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-27T10:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ab67c97580ac2113d437689/master/pass/092526-Power%20Play.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techradar.com/how-to-watch/cycling/mens-elite-road-race-uci-road-world-championships-2026-free",
-    "title": "How to watch Men's Elite Road Race at UCI Road World Championships 2026 for FREE: Live Streams & TV Channels",
-    "description": "All the ways to watch the Men's Elite Road Races at the UCI Road World Championships 2026 – including for FREE – as Remco Evenepoel goes for gold again.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-27T10:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/wqAia8Qe9CvMraWTW7qrdA-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
