@@ -1,5 +1,33 @@
 [
   {
+    "link": "https://www.wired.com/story/independent-advisers-resign-en-masse-from-big-techs-anti-terrorism-group/",
+    "title": "Meta-Led Anti-Terrorism Group Faces Mass Resignation of Expert Advisers",
+    "description": "Meta and other tech giants are pushing through structural changes at the Global Internet Forum to Counter Terrorism that outside researchers allege will weaken oversight of an already embattled consortium.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-28T18:47:54+00:00",
+    "image_url": "https://media.wired.com/photos/6ab6f908b0c5fe562dde1152/master/pass/business_global_antiterrorism_advisors_resign.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/meta-muse-facebook-marketplace-address-buyer-robb",
+    "title": "A user says Meta’s Muse gave his address to a Marketplace buyer",
+    "description": "A YouTuber says Meta’s Muse agent gave his home address to a Facebook Marketplace buyer and then told the buyer he was home when he wasn’t. Matt Robb described what happened in a post on Threads. “Just found out it told people my address and agreed a lowball price,” Robb wrote. Robb had let Muse",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Social & Media",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-28T18:45:56+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/Meta-Muse.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
     "title": "OpenAI’s AI agents need to catch up",
     "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon -",
@@ -1031,6 +1059,7 @@
     "title": "Meta’s Muse reportedly sent a Facebook Marketplace buyer to a user’s home",
     "description": "A Facebook Marketplace seller says Meta’s Muse shared his address and arranged a pickup without his approval. Meta is investigating.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-28T15:29:54+00:00",
@@ -1152,9 +1181,7 @@
     "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
     "description": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-28T15:00:00+00:00",
     "image_url": null,
@@ -1188,7 +1215,6 @@
     "title": "NASA ORBIT Challenge 2027",
     "description": "The NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology for the Workforce) Challenge invites university and community college students nationwide to work with real NASA intellectual property and mission challenges. Choose your path: develop commercial applications of NASA patents that solve problems here on Earth (ORBIT Earth), or design next-generation technologies for space exploration",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-28T14:56:39+00:00",
@@ -1806,7 +1832,6 @@
     "title": "Bose Launches New Wired Earbuds After More Than a Decade",
     "description": "The Bose Noise Cancelling Wired Earbuds are the first new wired headphones from the brand since 2015, inspired directly by teen preferences. We got an early listen.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-28T13:00:00+00:00",
@@ -2342,28 +2367,5 @@
     "pub_date": "2026-09-28T11:00:09+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/microsoft-data-center-champion-1152x648.jpg",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/space-lasers-are-about-to-get-their-first-real-test-generating-energy/",
-    "title": "Space Lasers Are About to Get Their First Real Test Generating Energy",
-    "description": "Startup Star Catcher is launching a system that, if successful, would be the first time energy has been beamed between two separate spacecraft.",
-    "categories": [
-      "Business & Startups",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-28T11:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aba3a226b9dc374933c7c48/master/pass/Space%20Lazer.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/keyboards/logitech-stuck-me-in-a-room-with-gaming-keyboards-that-cost-hundreds-of-dollars-but-this-new-budget-alternative-impressed-me-more",
-    "title": "Logitech stuck me in a room with gaming keyboards that cost hundreds of dollars, but this new budget alternative impressed me more",
-    "description": "The new Logitech G316 X 75 offers a wealth of features at a surprisingly modest price.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-28T10:50:03+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/5UNg8dh2SuUyJouGFfB3f7-1920-80.webp",
-    "source_name": "TECHRADAR.COM"
   }
 ]
