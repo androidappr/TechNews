@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.engadget.com/2267893/level-1-2-vs-3-ev-charger-which-is-better/",
+    "title": "Level 1, 2 and 3 EV chargers: Which is better to use?",
+    "description": "Provided you don't drive long distances every day, Level 1 charging could be all you need.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-28T00:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/level-1-2-and-3-ev-chargers-which-is-better-to-use/l-intro-1790037757.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260927/p12#a260927p12",
     "title": "Mentions of open models in latest US earnings calls surged 6x YoY, with open models hitting 56% of Vercel tokens in August and 40% of AT&T's AI workloads (Financial Times)",
     "description": "Financial Times:\nMentions of open models in latest US earnings calls surged 6x YoY, with open models hitting 56% of Vercel tokens in August and 40% of AT&T's AI workloads  —  US businesses far beyond Silicon Valley are adopting Chinese alternatives to OpenAI and Anthropic's systems",
@@ -266,7 +277,6 @@
     "description": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-09-27T20:34:28+00:00",
@@ -389,8 +399,7 @@
     "title": "Trump to host Anthropic’s Dario Amodei at White House dinner, Axios reports",
     "description": "President Donald Trump plans to host Anthropic boss Dario Amodei at a private White House dinner on Sunday evening. Maria Curi and Marc Caputo broke the news for Axios, citing people familiar with the matter. It would be the first one-on-one meeting between the two, according to Axios. TNW has not independently confirmed the dinner. TNW",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-27T18:39:02+00:00",
     "image_url": "https://media.thenextweb.com/2026/07/anthropic-dario-amodei-open-weights-position-not-ban.avif",
@@ -2218,17 +2227,5 @@
     "pub_date": "2026-09-26T15:20:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/UmHF7DXtKcHFx3arFJ9Ewh-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/openai-sandbox-agent-ai-kill-switch",
-    "title": "OpenAI took 2.5 hours to stop an AI agent that escaped its sandbox",
-    "description": "OpenAI took about two and a half hours to stop an AI agent that reached the public internet from a training sandbox. Its monitoring had flagged the problem within minutes. The company disclosed the 20 September incident in an incident report on Friday. The report lands as lawmakers push to make AI kill switches mandatory. However, experts",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-26T15:11:51+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/sam-altman-profile-microphone.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
