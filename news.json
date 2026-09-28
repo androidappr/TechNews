@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://mashable.com/entertainment/avengers-endgame-encore-doomsday-teaser-missing-imax",
+    "title": "PSA: Avengers: Endgame Encore features one less Doomsday tease in non-IMAX theaters",
+    "description": "If you want to see every \"Avengers: Doomsday\" teaser in \"Avengers: Endgame Encore,\" you need to watch in IMAX or Infinity Vision.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-28T21:34:52+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/047wwwMKczqhot8eenhVgZY/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+    "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+    "description": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-28T21:31:35+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2279092788.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
     "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
     "description": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
@@ -22,6 +45,18 @@
     "pub_date": "2026-09-28T21:28:20+00:00",
     "image_url": "https://media.wired.com/photos/6abac46841517308a638356b/master/pass/This-Shark-Bedroom-Air-Purifier-Is-$100-Off-Right-Now.jpg",
     "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/new-kindle-photos-leaked",
+    "title": "Leaked photos appear to show a new Kindle is coming — heres what we know",
+    "description": "Leaked photos on WinFuture show that a new Amazon Kindle is coming. Here's what we know about the 12th generation of Kindle based on the leaked photos.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-28T21:26:08+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/04jxJeLUvBbUmizmNuJIyW3/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.cnet.com/tech/services-and-software/you-should-download-ios-27-0-1-now-for-these-iphone-fixes/",
@@ -492,6 +527,17 @@
     "source_name": "TECHMEME.COM"
   },
   {
+    "link": "https://www.techradar.com/computing/monitors/lg-ultragear-evo-39gx950b-b-review",
+    "title": "LG UltraGear Evo 39GX950B is almost perfect except for one major flaw",
+    "description": "LG's 39-inch 5K2K display is one of the best gaming monitors any gamer can buy on the market today, but not without a hefty price.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-28T19:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/KaU2VaXJrKJcwVdZFD9rV4-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techradar.com/home/home-security/ankers-launches-worlds-first-video-doorbell-with-vr-viewing-fortunately-it-has-other-smart-features-to-justify-its-giant-price-tag-and-is-subscription-free",
     "title": "Anker unveils Eufy S4 video doorbell with VR viewing and AI tracking",
     "description": "With 180-degree viewing field, AI tracking, and subject framing, there's nothing the Eufy S4 video doorbell can't do.",
@@ -501,17 +547,6 @@
     ],
     "pub_date": "2026-09-28T19:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/wwC6ffF39gHuESyvznR274-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/monitors/lg-ultragear-evo-39gx950b-b-review",
-    "title": "LG UltraGear Evo 39GX950B is almost perfect except for one major flaw",
-    "description": "LG's 39-inch 5K2K display is one of the best gaming monitors any gamer can buy on the market today, but not without a hefty price.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-28T19:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/KaU2VaXJrKJcwVdZFD9rV4-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -883,7 +918,6 @@
     "title": "NASA Highlights Lessons Learned From Swift Boost Mission",
     "description": "A commercial mission to boost NASA’s Swift observatory concluded without raising the spacecraft’s orbit, but the agency and industry vendor gained valuable experience that will benefit future in-space servicing programs.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-28T17:44:33+00:00",
@@ -1511,7 +1545,6 @@
     "title": "Meta hires MongoDB CEO Chirantan Desai as chief enterprise platform officer, a new role; MongoDB names former CEO Dev Ittycheria as interim CEO; MDB falls 18%+ (Harshita Mary Varghese/Reuters)",
     "description": "Harshita Mary Varghese / Reuters:\nMeta hires MongoDB CEO Chirantan Desai as chief enterprise platform officer, a new role; MongoDB names former CEO Dev Ittycheria as interim CEO; MDB falls 18%+  —  Meta Platforms (META.O) has poached MongoDB (MDB.O) CEO Chirantan “CJ” Desai to spearhead a new business designed to bring …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-28T15:45:01+00:00",
@@ -2307,38 +2340,5 @@
     "pub_date": "2026-09-28T13:20:43+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/notes-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260928/p20#a260928p20",
-    "title": "Cyber defense tech company RedLattice plans to go public via the Bold Eagle Acquisition Corp. SPAC, in a deal valuing RedLattice at ~$1.25B including debt (Liana Baker/Bloomberg)",
-    "description": "Liana Baker / Bloomberg:\nCyber defense tech company RedLattice plans to go public via the Bold Eagle Acquisition Corp. SPAC, in a deal valuing RedLattice at ~$1.25B including debt  —  Private equity-backed cyber defense technology firm RedLattice said it's going public via a merger with blank-check company Bold Eagle Acquisition Corp.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-28T13:20:04+00:00",
-    "image_url": "http://www.techmeme.com/260928/i20.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/best-portable-external-storage-drives/",
-    "title": "Best External Hard Drives (2026): SanDisk, Samsung, and More",
-    "description": "Need an ultrafast drive for video editing or a rugged option to back up your photos in the field? We’ve got a solution for every situation.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-28T13:15:00+00:00",
-    "image_url": "https://media.wired.com/photos/68d1a8a2627fe89f30b86df5/master/pass/The%20Best%20External%20Hard%20Drives.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2268257/lease-vs-buy-new-iphone-which-is-better-option-annual-upgrade/",
-    "title": "Leasing vs. buying a new iPhone: Which is better if you upgrade every year?",
-    "description": "If you want to upgrade your Phone every year, should you lease with Apple Upgrade or buy and trade-in? The answer isn't the same for everyone.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-28T13:15:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/leasing-vs-buying-a-new-iphone-which-is-better-if-you-upgrade-every-year/l-intro-1790279962.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
