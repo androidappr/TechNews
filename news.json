@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.techmeme.com/260928/p40#a260928p40",
+    "title": "IPO prospectus: Anthropic reports a net loss of $42B in 2025 and plans to spend $518B on cloud, computing, and infrastructure obligations in the coming year (Echo Wang/Reuters)",
+    "description": "Echo Wang / Reuters:\nIPO prospectus: Anthropic reports a net loss of $42B in 2025 and plans to spend $518B on cloud, computing, and infrastructure obligations in the coming year  —  Anthropic is making a massive bet that AI will transform the global economy more profoundly than industrialization …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-28T23:40:10+00:00",
+    "image_url": "http://www.techmeme.com/260928/i40.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "description": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-28T23:39:20+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://www.engadget.com/2269219/warning-signs-replace-iphone-battery/",
     "title": "The warning signs that your iPhone battery needs to be replaced",
     "description": "Your iPhone's battery doesn't have infinite longevity. Over time, it degrades, and you'll know that's happening when you see these signs.",
@@ -111,6 +135,17 @@
     "source_name": "9TO5MAC.COM"
   },
   {
+    "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/spooky-stargazing/",
+    "title": "October’s Night Sky Notes: Spooky Stargazing",
+    "description": "The Ghoul Located within the constellation Perseus lies a star called Algol, also known as ‘Demon Star’ or ‘The Ghoul’. You can spot this star during the autumn months, along with Cassiopeia and Andromeda in the northeastern sky, beginning after 9 PM. In Greek mythology, this star represents the ‘blinking eye’ of the gorgon Medusa.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-28T22:48:56+00:00",
+    "image_url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia23/pia23403/PIA23403.gif?w=1041&h=586&fit=clip&crop=faces%2Cfocalpoint",
+    "source_name": "SCIENCE.NASA.GOV"
+  },
+  {
     "link": "https://www.engadget.com/2269075/iphone-hit-1000-charge-cycles-how-holding-up/",
     "title": "My iPhone hit 1,000 charge cycles — Here's how it's holding up",
     "description": "I've had my iPhone 15 Pro Max for three years and have completed 1,000 battery charge cycles. Here's what the experience has been like.",
@@ -126,6 +161,7 @@
     "title": "OpenAI scraps plans to publicly launch a model dubbed GPT-6.1 Astra, saying it didn't quite meet its safety bar; it had been targeting an October release (Maxwell Zeff/Wall Street Journal)",
     "description": "Maxwell Zeff / Wall Street Journal:\nOpenAI scraps plans to publicly launch a model dubbed GPT-6.1 Astra, saying it didn't quite meet its safety bar; it had been targeting an October release  —  Model dubbed GPT-6.1 Astra was due to make its debut inside ChatGPT and Codex in October  —  OpenAI is scrapping the release …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-28T22:29:14+00:00",
@@ -490,7 +526,6 @@
     "title": "Siri AI is available on newer Apple devices only, here’s the full list",
     "description": "Siri AI is a major upgrade and highlight of iOS 27 and more. But only newer Apple devices support the overhauled Siri. Here’s the full list of Siri AI-compatible hardware across iPhone, iPad, Mac, Apple Watch, and Apple Vision Pro.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-28T19:43:11+00:00",
@@ -536,8 +571,7 @@
     "title": "Shopify opens checkout to browser-based AI agents",
     "description": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-28T19:33:57+00:00",
     "image_url": null,
@@ -548,7 +582,6 @@
     "title": "Bose starts adding Auracast to its headphones",
     "description": "A new firmware update for the $449 Bose QuietComfort Ultra Headphones Gen 2 adds support for Bluetooth LE Audio and Auracast as beta features. The flagship Ultra headphones are the first from Bose to support the audio sharing technology, which the company plans to bring to more devices soon. Only a few major manufacturers include",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-28T19:31:24+00:00",
@@ -2265,41 +2298,5 @@
     "pub_date": "2026-09-28T14:09:44+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/bosebud1.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/ai-platforms-assistants/i-gave-muse-access-to-my-personal-data-and-now-i-know-why-personal-agents-are-probably-going-to-change-the-world",
-    "title": "I gave Muse access to my personal data, and now I know why personal agents are probably going to change the world",
-    "description": "My first experience with Meta's AI agent was better than expected.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-28T14:06:43+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/TP3S4aAXyBKaqFtEBy5S9g-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260928/p23#a260928p23",
-    "title": "SpaceX launches its Starship rocket into orbit for the first time, deploying 26 of the most advanced Starlink satellites to join the 11,000 in service (Marcia Dunn/Associated Press)",
-    "description": "Marcia Dunn / Associated Press:\nSpaceX launches its Starship rocket into orbit for the first time, deploying 26 of the most advanced Starlink satellites to join the 11,000 in service  —  SpaceX launched its enormous Starship into orbit for the first time Monday, aiming for six full laps around Earth to prove its readiness for NASA's Artemis moon program.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-28T14:05:05+00:00",
-    "image_url": "http://www.techmeme.com/260928/i23.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-    "title": "Modulate raises $25M for its voice models and analysis suite",
-    "description": "Modulate deploys its models to detect deepfake, fraud and scam",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-28T14:05:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
