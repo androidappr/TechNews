@@ -1,5 +1,44 @@
 [
   {
+    "link": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
+    "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
+    "description": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-28T09:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ab2c77aa4511820fe187b66/master/pass/People-Training-AI-to-Understand-Physical-World-With-Video-Games-Business.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
+    "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
+    "description": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-28T09:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aba2329e8d78c42cabc4ad2/master/pass/092826-Nvidia%20OpenShell.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260928/p6#a260928p6",
+    "title": "NXP and TSMC affiliate Vanguard inaugurate their joint advanced chip fab in Singapore, targeting mass production in early 2027 and eyeing a second facility (Cheng Ting-Fang/Nikkei Asia)",
+    "description": "Cheng Ting-Fang / Nikkei Asia:\nNXP and TSMC affiliate Vanguard inaugurate their joint advanced chip fab in Singapore, targeting mass production in early 2027 and eyeing a second facility  —  SINGAPORE — TSMC affiliate Vanguard International Semiconductor (VIS) inaugurated its first advanced chipmaking plant in Singapore …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-28T08:55:01+00:00",
+    "image_url": "http://www.techmeme.com/260928/i6.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260928/p5#a260928p5",
     "title": "Hundreds of people attended a pro-AI party in DC on September 26, in what the organizers called a counterprogram to the \"bipartisan psychosis\" over data centers (The Washington Sun)",
     "description": "The Washington Sun:\nHundreds of people attended a pro-AI party in DC on September 26, in what the organizers called a counterprogram to the “bipartisan psychosis” over data centers  —  Hundreds gathered at a bitcoin-themed bar in D.C. to counterprogram the national backlash against data centers and AI.",
@@ -2196,39 +2235,5 @@
     "pub_date": "2026-09-26T17:50:00+00:00",
     "image_url": "http://www.techmeme.com/260926/i14.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
-    "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
-    "description": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
-    "categories": [
-      "Government & Policy",
-      "Social & Media"
-    ],
-    "pub_date": "2026-09-26T17:44:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
-    "title": "Kids turned the comment section of an NPR podcast into a group chat",
-    "description": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass digs into how the kids landed there and why. But it mostly boils down to kids",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-26T17:32:35+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25332725/STK419_DEEPFAKE_CVIRGINIA_L.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/pc-gaming/wow-forever-has-me-excited-but-blizzard-needs-to-tread-carefully-the-player-base-will-be-seriously-split-in-its-current-state",
-    "title": "WoW: Forever has me excited, but Blizzard needs to tread carefully — the player base will be seriously split in its current state",
-    "description": "After a week with WoW: Forever, I'm cautiously optimistic, although I can't help thinking about a few potential decisions that will affect a wide range of players.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-26T17:30:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/dtcMKzShA6GBWKTkgcsj6o-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
