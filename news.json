@@ -1,5 +1,78 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m/",
+    "title": "Ocean surveillance startup Quartermaster raises another $140M",
+    "description": "The tech enables real-time awareness for what Quartermaster calls the “largest blind spot on Earth.”",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-28T13:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1000924/philips-sonicare-next-generation-diamondclean-9900-prestige-smart-toothbrush",
+    "title": "Philips’ motion-tracking smart toothbrush uses AI to make you a better brusher",
+    "description": "First announced in July with an expected limited launch later this year, the Philips Sonicare Next-Generation DiamondClean 9900 Prestige smart toothbrush is now available in Europe and the US, with a broader global rollout expected in 2027. While the previous iteration is still available and discounted from $429.99, the new \"Next-Gen DiamondClean\" version is debuting",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-28T13:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/sonicare1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/28/security-bite-threat-landscape-review-september/",
+    "title": "Security Bite: Threat landscape review (September)",
+    "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening & Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\n\n\n\n\n\n\n\nEvery few months, I sit down to look back at the Mac threat landscape, and every time I expect to write about something new. This time I can’t. But that doesn’t mean nothing is happening. In fact, the opposite.\n\n\n\nSince I published the Security Bite Q1 2026 review, we’ve seen ClickFix go from the new kid on the block and the technique to watch to now the default delivery method for almost every new Mac stealer. Threat actors are getting much better at using it too (I suppose the kids would call this “locked in”). Recently we’ve seen attackers implement persistence, backdoors, and even infrastructure that hides inside Apple’s own services.\n\n\n\nHere’s what you should know as a security practitioner or a malware-fearing Mac owner…\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-28T12:57:19+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260928/p19#a260928p19",
+    "title": "AI agent startup Instinct raised a $1B Series C from Sequoia, Benchmark, and Coatue at a $10B valuation and details recent products, such as a concierge service (Utkarsh Shetti/Reuters)",
+    "description": "Utkarsh Shetti / Reuters:\nAI agent startup Instinct raised a $1B Series C from Sequoia, Benchmark, and Coatue at a $10B valuation and details recent products, such as a concierge service  —  AI agent firm Instinct said on Monday it has raised $1 billion at a $10 billion valuation in a Series C funding round.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-28T12:53:05+00:00",
+    "image_url": "http://www.techmeme.com/260928/i19.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/china-overtakes-us-elite-ai-talent-carnegie",
+    "title": "More elite AI researchers now work in China than in the US, study finds",
+    "description": "China has overtaken the United States as the country where the most elite AI researchers work, according to a study by Carnegie China. The think tank is part of the Carnegie Endowment for International Peace. In 2025, 41% of the top researchers it tracked worked in China and 34% in the US. Three years earlier",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-28T12:49:01+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/man-laptops-workshop-projector-screen.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2267984/why-its-important-to-properly-eject-external-drives/",
+    "title": "Why it's important to eject external drives properly",
+    "description": "Safely removing external drives before removing them might sound like old-school advice, but it's still important to keep your files healthy.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-28T12:45:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/why-its-important-to-eject-external-drives-properly/l-intro-1790271860.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260928/p18#a260928p18",
     "title": "Mark Zuckerberg unveils Meta Enterprise Platform, its \"next major pillar of our business\" to deploy AI tools, and appoints MongoDB CEO Chirantan Desai to run it (Meghan Bobrowsky/Wall Street Journal)",
     "description": "Meghan Bobrowsky / Wall Street Journal:\nMark Zuckerberg unveils Meta Enterprise Platform, its “next major pillar of our business” to deploy AI tools, and appoints MongoDB CEO Chirantan Desai to run it  —  The tech giant is pushing to monetize its multibillion-dollar AI investments by selling more tools and services to companies",
@@ -22,6 +95,18 @@
     "pub_date": "2026-09-28T12:44:53+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Yeah-dont-give-Metas-Muse-app-access-to-your-Mac.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/tesla-optimus-production-hands-suppliers",
+    "title": "Tesla’s Optimus production hits snags with hands, The Information reports",
+    "description": "Tesla has increased Optimus production about tenfold in recent months. It is still struggling to build the humanoid robots reliably at scale. Qianer Liu and Grace Kay reported for The Information on Friday, citing people familiar with the project, that the hands, factory equipment and suppliers are holding it back. Tesla made several hundred robots",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-28T12:39:37+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/tesla-optimus-humanoid-robot-black-background.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://mashable.com/life/national-coffee-day-2026-free-deals",
@@ -210,8 +295,8 @@
   },
   {
     "link": "https://www.techmeme.com/260928/p15#a260928p15",
-    "title": "Nvidia increases its share buyback program by $150B to $235B, aiming to complete the process through fiscal 2028; NVDA is up 20% in 2026 (Amy Thomson/Bloomberg)",
-    "description": "Amy Thomson / Bloomberg:\nNvidia increases its share buyback program by $150B to $235B, aiming to complete the process through fiscal 2028; NVDA is up 20% in 2026  —  Nvidia Corp., the chip developer at the heart of the artificial intelligence boom, increased the size of its share buyback plan by $150 billion …",
+    "title": "Nvidia increases its share buyback program by $150B, raising the remaining authorized amount to $235B, aiming to complete it through FY 2028; NVDA is up 20% YTD (Amy Thomson/Bloomberg)",
+    "description": "Amy Thomson / Bloomberg:\nNvidia increases its share buyback program by $150B, raising the remaining authorized amount to $235B, aiming to complete it through FY 2028; NVDA is up 20% YTD  —  Nvidia Corp., the chip developer at the heart of the artificial intelligence boom, increased the size of its share buyback plan by $150 billion …",
     "categories": [
       "Tech News"
     ],
@@ -414,7 +499,6 @@
     "title": "Litigation funder Burford Capital says it stands to gain up to $1.4B after a US jury ruled against Apple in a patent case, awarding $5.7B in damages to Taction (Stefania Palma/Financial Times)",
     "description": "Stefania Palma / Financial Times:\nLitigation funder Burford Capital says it stands to gain up to $1.4B after a US jury ruled against Apple in a patent case, awarding $5.7B in damages to Taction  —  Litigation funder's share price jumps 9% after US jury's decision  —  Litigation funder Burford Capital said it stands to gain …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-28T10:45:02+00:00",
@@ -849,7 +933,6 @@
     "description": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware"
     ],
@@ -2196,84 +2279,5 @@
     "pub_date": "2026-09-27T12:45:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/how-to-use-the-live-text-feature-on-your-iphone/l-intro-1790186990.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://mashable.com/life/target-pokemon-30th-anniversary-event-free-promo-card-how-to-claim",
-    "title": "Target is hosting a huge Pokémon 30th Anniversary event: How to claim free promo cards this weekend",
-    "description": "Target is hosting a Pokémon 30th Anniversary event on Sept. 27 from 12 to 4 p.m. Claim free promo cards and take part in free activities.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-27T12:39:41+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07zwamulchzi2k6dBLVnueW/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
-    "title": "Why OLPC’s $100 laptop never stood a chance",
-    "description": "The idea was big, exciting, and inspiring: What if we could get every kid in the world access to a computer? For a bunch of thinkers and executives in Silicon Valley, it felt like the way to fix everything. But the One Laptop Per Child initiative, and the XO-1 laptop designed to be given away,",
-    "categories": [
-      "Gadgets & Hardware",
-      "Social & Media"
-    ],
-    "pub_date": "2026-09-27T12:25:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_VRH_Site_2.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2266521/how-to-use-android-apps-on-windows-pc/",
-    "title": "How to use Android apps on your Windows PC (and why you might want to)",
-    "description": "With the right software, you can run Android apps on your Windows PC. Here's why you may want to and how to get it set up on your own computer.",
-    "categories": [
-      "Gadgets & Hardware",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-27T12:15:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/how-to-use-android-apps-on-your-windows-pc-and-why-you-might-want-to/l-intro-1789398732.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/aoostar-maco-6850h-mini-pc-review",
-    "title": "Aoostar Maco 6850H mini PC review",
-    "description": "The Aoostar Maco 6850H is a powerful AMD Ryzen-powered NUC ideal for the occasional power user.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-27T12:10:17+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/UG5GVkrrFungtDqmcdSRNM-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse",
-    "title": "Googlebooks might be the real deal",
-    "description": "Hi, friends! Welcome to Installer No. 145, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm happy to be done traveling for a bit, and also you can read all the old editions at the Installer homepage.) This week, I flew to San Francisco to try out",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-27T12:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer_2eede2.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
-    "title": "The smart home graveyard is getting crowded",
-    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the fragile state of your connected devices, follow Jennifer Pattison Tuohy. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started A decade ago, a",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-27T12:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_190131_3100_0022.webp?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/total-war-warhammer-40-000s-diplomacy-will-exist-in-a-different-form-and-players-will-need-to-manage-relationships-with-local-forces-and-planetary-governors-says-creative-assembly-how-you-manage-them-as-a-space-marine-is-kind-of-down-to-you",
-    "title": "Total War: Warhammer 40,000's diplomacy will exist 'in a different form,' and players will need to manage relationships with local forces and planetary governors, says Creative Assembly — 'How you manage them is kind of down to you'",
-    "description": "Total War: Warhammer 40,000's diplomacy system will affect players' standing with planetary governors and local forces, forcing them to manage relationships.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-27T12:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/rcSkDsLvVEpkxVHvXeT3S-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
