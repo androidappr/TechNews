@@ -1,5 +1,18 @@
 [
   {
+    "link": "https://thenextweb.com/news/nasa-boeing-starliner-359m-two-more-flights-2028",
+    "title": "NASA pays Boeing $359m to get Starliner flying, eyes crew return by 2028",
+    "description": "NASA will pay Boeing $359m to help get its Starliner spacecraft flying again. It will also buy two more Starliner flights to the International Space Station. NASA and Boeing announced the plan at a news conference on Monday, and NASA set it out in a statement. It wants astronauts back on Starliner by 2028. “I",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-29T16:36:30+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/boeing-starliner-spacecraft-orbit-above-earth-nasa.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260929/p27#a260929p27",
     "title": "Mark Gurman: Apple considered replacing ~5,000 AppleCare customer service workers with AI-powered agents, but it has put those plans on hold indefinitely (Joe Rossignol/MacRumors)",
     "description": "Joe Rossignol / MacRumors:\nMark Gurman: Apple considered replacing ~5,000 AppleCare customer service workers with AI-powered agents, but it has put those plans on hold indefinitely  —  Apple recently considered laying off about 5,000 support employees, but it has put those plans on hold indefinitely, according to Bloomberg's Mark Gurman.",
@@ -22,6 +35,44 @@
     "pub_date": "2026-09-29T16:30:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/wdmwMgTTwtRJKAqLTdg9YR-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/nvidia-insurers-ai-chip-loans-neoclouds-ft",
+    "title": "Nvidia talks to insurers about loans backed by its AI chips, FT reports",
+    "description": "Nvidia has talked to insurers about taking on some of the risk of loans backed by its AI chips, the Financial Times reported on Tuesday. The talks are at an early stage and may not lead to any deals, according to the FT. TNW has not independently verified the report. One idea would insure loans",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-29T16:25:34+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/Nvidia.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/spain-croatia-nations-league-2026-live-stream-for-free",
+    "title": "How to watch Spain vs. Croatia online for free",
+    "description": "How to watch Nations League for free. Live steam Spain vs. Croatia in Nations League for free from anywhere in the world.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-29T16:20:51+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/02wr8AhkGtElk6YXoLkfnrN/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/czechia-england-nations-league-2026-live-stream-for-free",
+    "title": "How to watch Czechia vs. England online for free",
+    "description": "How to watch Nations League for free. Live steam Czechia vs. England in Nations League for free from anywhere in the world.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-29T16:20:43+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/07GNmNj2MJbQJ0VyxfR6PIB/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techradar.com/ai-platforms-assistants/ai-slop-has-escaped-the-internet-from-event-posters-to-cafe-menus-its-suddenly-everywhere-in-the-real-world",
@@ -404,7 +455,7 @@
   {
     "link": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
     "title": "After losing his voice to cancer, this founder is building ‘glasses for voice’",
-    "description": "Uhura Bionics, a TechCrunch Disrupt 2026 Battlefield 200, wants to replace flat, robotics voice devices with one that carries emotions.",
+    "description": "Uhura Bionics, part of the Startup Battlefield 200 at TechCrunch Disrupt, wants to replace flat, robotics voice devices with one that carries emotions.",
     "categories": [
       "Business & Startups",
       "Science & Environment"
@@ -426,7 +477,7 @@
   },
   {
     "link": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/",
-    "title": "Oura shelves its $2.2B IPO citing ‘uncertainty’ in the market",
+    "title": "Oura shelves its $2.2B IPO, citing ‘uncertainty’ in the market",
     "description": "The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of its shareholders.",
     "categories": [
       "Gadgets & Hardware"
@@ -828,7 +879,7 @@
   {
     "link": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
     "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-    "description": "The former Yahoo CEO is introducing a new AI personal assistant based entirely on your photos.",
+    "description": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -1269,7 +1320,6 @@
     "description": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-09-29T12:45:05+00:00",
@@ -1292,7 +1342,6 @@
     "title": "iPhone video stabilization continues to wow me in the iPhone 18 Pro",
     "description": "I first talked about how much iPhone video stabilization impressed me when I tested it on the iPhone 13 Pro back in 2021. It’s been improved significantly since then, with both the iPhone 17 Pro and iPhone 18 Pro having a version Apple refers to as “ultra-stabilized video.”\n\n\n\nWhile it doesn’t sound as sexy as some features, it makes a massive difference to the usability of the iPhone for handheld shooting – and my latest test really drove home just how good it is today … \n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-29T12:39:52+00:00",
@@ -1885,7 +1934,6 @@
     "description": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Cybersecurity & Privacy"
     ],
@@ -2309,50 +2357,5 @@
     "pub_date": "2026-09-29T09:18:20+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/uRRpWFBewwruyxXHJKLQ3P-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/gifts-for-plant-lovers-and-gardeners-2026/",
-    "title": "19 Best Gifts for Plant Lovers and Gardeners (2026)",
-    "description": "From smart apps and planters to unique tools, these gifts will turn even a black thumb into a next-level plant parent.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-29T09:15:00+00:00",
-    "image_url": "https://media.wired.com/photos/6abade905e8dfa64a56abf2d/master/pass/The-19-Best-Gifts-for-Plant-Lovers-and-Gardeners.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/dakota-johnson-bbc-unpopular-opinion",
-    "title": "Dakota Johnson fields unpopular opinions from BBC radio callers, stays impressively deadpan",
-    "description": "Dakota Johnson appeared on BBC Radio One's \"Unpopular Opinion\" alongside host Greg James.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-29T09:13:12+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/videos/05TZrXDUC6GkxUWSlqZIz7f/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/roundup/best-tablets-2026-expert-tested-reviewed",
-    "title": "The 7 best tablets of 2026: Comparing iPad, Samsung, and Lenovo",
-    "description": "See how the new M4 iPad Air compares to the best tablets from Lenovo, Samsung, Microsoft, and Amazon Fire.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-29T09:10:41+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/roundups/04oNXR8PKkI8kV5z6J2R2Nf/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/how-to-watch-hokum",
-    "title": "How to watch Hokum: One of the best horror movies of 2026 is finally streaming for spooky season",
-    "description": "Find out how to watch 'Hokum' starring Adam Scott at home this spooky season, including where and when it's streaming.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-29T09:10:30+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03gJ7aeHRR5ZjeHTzWovha8/hero-image.png",
-    "source_name": "MASHABLE.COM"
   }
 ]
