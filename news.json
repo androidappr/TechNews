@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/",
+    "title": "NASA Opens 2027 Human Lander Challenge for Lunar Communications",
+    "description": "NASA’s 2027 Human Lander Challenge is seeking ideas from college and university students to help address one of the most critical needs for sustained lunar exploration: reliable communications. As NASA prepares for long-term human presence on the Moon through the Artemis and Moon Base programs, communications systems will be just as important as spacecraft and",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-29T21:27:56+00:00",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/2027-hulc-graphic-header-conceptual-lunar-communications-and-navigation-orbiter.png?w=1536",
+    "source_name": "NASA.GOV"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
+    "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
+    "description": "The company says it won't draw on the new debt facilities this year, as it has already planned at least $25 billion in capital expenditures.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-29T21:20:12+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260929/p48#a260929p48",
     "title": "Mark Zuckerberg says the voluntary \"accord\" on AI standards that tech executives agreed to includes internal risk reviews and external auditors (Axios)",
     "description": "Axios:\nMark Zuckerberg says the voluntary “accord” on AI standards that tech executives agreed to includes internal risk reviews and external auditors  —  President Trump said Tuesday that top AI executives agreed to voluntary standards aimed at increasing industry oversight.",
@@ -10,6 +33,17 @@
     "pub_date": "2026-09-29T21:15:01+00:00",
     "image_url": "http://www.techmeme.com/260929/i48.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/sanctioned-billion-dollar-cybersecurity-company-from-russia-found-11-vulnerabilities-in-google-and-apple-products-including-a-nasty-one-that-compromised-a-device-just-through-a-malicious-nfc-tag",
+    "title": "Sanctioned billion-dollar cybersecurity company from Russia finds 11 vulnerabilities in Google and Apple products — including a nasty one that compromised a device just through a malicious NFC tag",
+    "description": "Nine Apple vulnerabilities affected access controls, privacy, macOS, and data protection, while two Android flaws enabled dangerous system changes.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-29T21:15:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/85kAnS2rcuxwyaibPRC4Ze-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://mashable.com/tech/anthropic-lost-42-billion-in-2025",
@@ -1016,7 +1050,6 @@
     "title": "Elon Musk, Jeff Bezos and Mark Zuckerberg among 31 guests at Trump’s AI lunch",
     "description": "Elon Musk, Jeff Bezos and Mark Zuckerberg are joining other business leaders at the White House on Tuesday for a lunch event on artificial intelligence. The event will be hosted by President Donald Trump, together with Mike Johnson, the Speaker of the House. Thirty-one people have confirmed their attendance, according to an RSVP list obtained",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-29T17:27:29+00:00",
@@ -1052,7 +1085,6 @@
     "description": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Software & Apps"
     ],
     "pub_date": "2026-09-29T17:20:00+00:00",
@@ -1076,8 +1108,7 @@
     "title": "OpenAI’s Latest Personal AI Agents Have a Cute Name and Never Stop Working",
     "description": "OpenAI rolls out new agents called dots, powered by GPT-6 Astra, at its annual DevDay.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-29T17:18:35+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Dots-Hero-Image-1.png",
@@ -1717,7 +1748,6 @@
     "title": "John Ternus has big plans to make Apple ‘leaner’ and release more products",
     "description": "New CEO John Ternus has plans to “overhaul” Apple in an attempt to make it “run faster and leaner,” according to a new report from Bloomberg. This includes introducing more products, eliminating “middle-management positions,” and much more.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-29T15:39:23+00:00",
@@ -1819,7 +1849,6 @@
     "title": "October Prime Day Google Pixel deals 2026 — what to expect from Amazon's Big Deal Days sale",
     "description": "Amazon's Big Deal Days sale is almost here, and this guide tells you how to plan your next big Google Pixel purchase.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-29T15:20:03+00:00",
@@ -2324,40 +2353,5 @@
     "pub_date": "2026-09-29T13:49:15+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/manus-2-0-launch-graphic-feature-tiles.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/29/instagram-partner-schools-can-now-post-content-only-their-students-can-view/",
-    "title": "Instagram partner schools can now post content only their students can view",
-    "description": "Meta last year launched a school partnership program for Instagram, in which it promised to prioritize student reports of cyberbullying.\n\n\n\nThe company has now expanded the program to allow schools to post stories and notes that only their own students can view – alongside support for clubs, teams, and more …\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-29T13:47:31+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Instagram-partner-schools-can-now-post-content-only-their-students-can-view.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-    "title": "Meta is expanding its AI agent Muse to small businesses",
-    "description": "The tech giant says the agent can help owners run their business and find new customers.",
-    "categories": [
-      "AI & Machine Learning",
-      "Social & Media",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-29T13:47:30+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2270642/how-much-vram-look-for-graphics-card/",
-    "title": "How much VRAM should you look for in a graphics card?",
-    "description": "Graphics card prices are one of many victims of the memory shortage, but how much VRAM do you need to future-proof your setup?",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-29T13:45:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/how-much-vram-should-you-look-for-in-a-graphics-card/l-intro-1790606673.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
