@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
+    "title": "After losing his voice to cancer, this founder is building “glasses for voice”",
+    "description": "Uhura Bionics, a TechCrunch Disrupt 2026 Battlefield 200, wants to replace flat, robotics voice devices with one that carries emotions.",
+    "categories": [
+      "Business & Startups",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-29T15:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techradar.com/cameras/instant-cameras/fujifilm-instax-pal-2-review",
+    "title": "Fujifilm Instax Pal 2 review: the cutest — and priciest — toy camera around",
+    "description": "The Instax Pal 2 is a cutesy 10MP digital camera with pocket-friendly dimensions, twin displays, multi-sensory controls and wireless image uploads — but it's not perfect.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-29T15:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/KiQMs35dfAWBLAABMmbbk5-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/",
+    "title": "Oura shelves its $2.2B IPO citing ‘uncertainty’ in the market",
+    "description": "The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of its shareholders.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-29T14:56:55+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260929/p23#a260929p23",
     "title": "Miami-based Jeeves, which launched stablecoin-based payments earlier this year, raised a $110M Series C led by CoinFund, with participation from a16z and others (Maria Clara Cobo/Bloomberg)",
     "description": "Maria Clara Cobo / Bloomberg:\nMiami-based Jeeves, which launched stablecoin-based payments earlier this year, raised a $110M Series C led by CoinFund, with participation from a16z and others  —  Miami-based fintech Jeeves Inc. said it raised $110 million from investors to help expand its offerings, including a stablecoin wallet …",
@@ -10,6 +45,17 @@
     "pub_date": "2026-09-29T14:45:10+00:00",
     "image_url": "http://www.techmeme.com/260929/i23.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2270648/cat7-vs-cat6-ethernet-cable-which-better-home-network/",
+    "title": "Cat7 vs. Cat6 Ethernet cable: Which is better for your home network?",
+    "description": "If you're deciding between a Cat6 and a Cat7 Ethernet cable, this is what you need to know about how it will affect your home internet.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-29T14:45:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/cat7-vs-cat6-ethernet-cable-which-is-better-for-your-home-network/l-intro-1790606691.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://mashable.com/tech/anthropic-claude-down-account-temporarily-unable-authenticate",
@@ -36,8 +82,8 @@
   },
   {
     "link": "https://thenextweb.com/news/claude-is-down-anthropic-investigates-outage",
-    "title": "Claude is down: Anthropic investigates outage affecting Claude.ai, Code and API",
-    "description": "According to the company’s status page, Anthropic is investigating increased error rates affecting Claude.ai, Claude Code, Claude Cowork, and the Claude API. The issue started on 29 September at 14:21 UTC, and Anthropic stated that users could encounter failed requests, errors when loading or sending conversations, and messages prompting them to sign in again; however,",
+    "title": "Claude is down as Anthropic investigates errors across its services",
+    "description": "Anthropic is experiencing high error rates with Claude.ai, Claude Code, Claude Cowork, and the Claude API, and users have reported failed requests as well as difficulties loading their conversations. Claude is currently unavailable to some users as Anthropic investigates high error rates across several of its services. The company published on its status page that",
     "categories": [
       "AI & Machine Learning",
       "Breaking News"
@@ -117,7 +163,7 @@
   {
     "link": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro/nstgro-2026/",
     "title": "NSTGRO 2026",
-    "description": "NSTGRO Homepage Eleanor ZimmermannMichigan Technological UniversityRadiative Passive Processing Technology for Offworld Resource Separation (RaPPTORS) Tetiana TymoshevskaUniversity of MichiganLiquid Droplet Radiator Enabled by an Electrospray Array Hannah HuttonUniversity of MichiganRESIST: Radiation-Enabled Structural Improvement in Space Materials Elan GraupeUniversity Of MinnesotaModel-Driven Navigation for Robust Spacecraft Atmospheric Entry and Descent Emily GokieUniversity Of Colorado, BoulderA low-SWaP timing system",
+    "description": "NSTGRO Homepage Omar AlyousefUniversity Of MemphisPolycatenated Architected Materials (PAM) for Origami-Inspired Space Docking Ports Cade ArmstrongUniversity Of Texas at AustinIntelligent Multi-Agent Constellations for Cooperative Cislunar Operations Laurel BarnettHarvard UniversityPhotonic SNSPD Readout and Feed Forward System for Improved Optical Communication Capabilities Katie BarcakWilliam Marsh Rice UniversityCompact magnetic heat switch for thermal management of long duration low",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -1528,6 +1574,7 @@
     "title": "Oura says it is delaying its Nasdaq IPO due to uncertainty in the market, despite \"strong demand\" and a strengthening of its business since the process started (CNBC)",
     "description": "CNBC:\nOura says it is delaying its Nasdaq IPO due to uncertainty in the market, despite “strong demand” and a strengthening of its business since the process started  —  Oura has said that it is delaying plans for its public listing on the Nasdaq due to uncertainty in the IPO market.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-29T10:20:01+00:00",
@@ -2304,53 +2351,5 @@
     "pub_date": "2026-09-29T07:00:16+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/Marble-team.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/spain-croatia-nations-league-2026-live-stream-for-free",
-    "title": "How to watch Spain vs. Croatia online for free",
-    "description": "How to watch Nations League for free. Live steam Spain vs. Croatia in Nations League for free from anywhere in the world.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-29T07:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02wr8AhkGtElk6YXoLkfnrN/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/article/amazon-how-to-contact-customer-service",
-    "title": "How to contact Amazon customer service during your October Prime Day shopping spree",
-    "description": "Here's how to contact Amazon Customer Service to deal with all of your October Prime Day-related questions and beyond.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-29T07:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01BdXeOgiQGD9gDg6zNKSY1/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/meta-signs-deal-for-firmus-ai-computing-capacity-in-southeast-asia",
-    "title": "Meta signs deal for Firmus AI computing capacity in Southeast Asia",
-    "description": "Meta has signed deals to rent AI chips at data centers in Southeast Asia run by Firmus, an Australian company that builds them, the two companies announced. Meta has reserved a certain amount of capacity and can add more if needed. Also, the company plans to use the chips to research, build, and train its",
-    "categories": [
-      "Breaking News",
-      "Business & Startups",
-      "Social & Media"
-    ],
-    "pub_date": "2026-09-29T06:57:55+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/meta-firmus-logos.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260929/p3#a260929p3",
-    "title": "An interview with Atlassian CEO Mike Cannon-Brookes on the SaaSpocalypse, enterprise AI, Atlassian's reorg, why chatbots aren't the future of work, and more (Nilay Patel/The Verge)",
-    "description": "Nilay Patel / The Verge:\nAn interview with Atlassian CEO Mike Cannon-Brookes on the SaaSpocalypse, enterprise AI, Atlassian's reorg, why chatbots aren't the future of work, and more  —  Today, I'm talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian.  —  Atlassian is one of those companies …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-29T06:30:01+00:00",
-    "image_url": "http://www.techmeme.com/260929/i3.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
