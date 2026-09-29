@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.techmeme.com/260928/p46#a260928p46",
+    "title": "Google confirms it'll phase out ChromeOS by mid-2034, cutting short a 10-year support period for some devices but noting it will help orgs move to Googlebook OS (Andrew E. Freedman/Tom's Hardware)",
+    "description": "Andrew E. Freedman / Tom's Hardware:\nGoogle confirms it'll phase out ChromeOS by mid-2034, cutting short a 10-year support period for some devices but noting it will help orgs move to Googlebook OS  —  Google is telling IT admins at schools and businesses about its new platform. … Google says it will be phasing out ChromeOS updates in mid-2034.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-29T02:00:01+00:00",
+    "image_url": "http://www.techmeme.com/260928/i46.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/09/28/emmy-wins-and-recent-premieres-help-apple-tv-reach-highest-weekly-viewership-ever/",
     "title": "Emmy wins and recent premieres help Apple TV reach highest weekly viewership ever",
     "description": "Deadline reports that Apple TV recently recorded its biggest week ever for viewership, fueled by its 29 Emmy wins and recent releases such as Ted Lasso and Mayday. Here are the details.\n\n\n\n more…",
@@ -9,6 +20,17 @@
     "pub_date": "2026-09-29T01:44:04+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-intro-vibrant.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://science.nasa.gov/blog/mars-has-its-charmes/",
+    "title": "Mars Has Its Charmes",
+    "description": "Written by Athanasios (Thanos) Klidaras, Ph.D. candidate at Purdue University  Sept. 21, 2026 After a long hiatus, the Perseverance rover updates page is back. A lot has happened on Mars in the meantime, and with regular updates now resuming, there is plenty to catch up on — Perseverance has been busy. The rover has spent",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-29T01:27:52+00:00",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_SIF_1967_0841573976_050EBY_N0910806SRLC08063_0000LMJ.png?w=1648&h=1200&fit=clip&crop=faces%2Cfocalpoint",
+    "source_name": "SCIENCE.NASA.GOV"
   },
   {
     "link": "https://9to5mac.com/2026/09/28/apple-and-amazon-face-renewed-uk-antitrust-lawsuit/",
@@ -65,6 +87,18 @@
     "pub_date": "2026-09-29T01:01:54+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-in-colour.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review",
+    "title": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
+    "description": "Nothing has been on a bit of an audio tear this year, releasing the solid Headphone A and the surprisingly good Ear 3A earbuds. The Headphone A released at $199, while the earbuds are under $100, leaving room for something fancier. That something is the Nothing Headphone 1 Pro, the company's new $399 flagship over-ears",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-29T01:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268785_Nothing_pro_1_headphones_JHIGGINS_1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.wired.com/story/nothings-new-headphone-1-pro-are-made-for-the-studio/",
@@ -464,7 +498,6 @@
     "description": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware",
       "Government & Policy"
     ],
@@ -2245,41 +2278,6 @@
     ],
     "pub_date": "2026-09-28T14:55:56+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/04GWJvnNjZ5sW4FnkOynupe/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale",
-    "title": "Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off",
-    "description": "It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my colleague Jen recommends for hard floors and carpets, and it’s down to $899.99 at Amazon for Prime",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-28T14:55:12+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/dreamex50ultra.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/openai-anthropic-tens-of-thousands-ai-incidents-axios",
-    "title": "OpenAI and Anthropic probe tens of thousands of AI incidents, Axios reports",
-    "description": "OpenAI, Anthropic and security researchers are investigating tens of thousands of incidents of frontier AI models misbehaving, Axios reported, citing sources. Evaluators deemed the behaviour problematic. The total could grow well beyond tens of thousands. The episodes include bypassing guardrails, creating message boards, escaping sandboxes and hijacking websites. Models also prompted themselves or tried to",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-28T14:55:06+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/dario-amodei-marc-benioff-microphone-audience-dreamforce.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/sept-28-tcl-85-inch-qm6k-mini-led-tv-deal",
-    "title": "TCL’s massive 85-inch QM6K Mini-LED 4K TV just hit its best-ever price — save $200 now",
-    "description": "The 85-inch TCL QM6K Mini-LED 4K TV is down to its best price ever of $897.99 on Amazon. Save $200 on 144Hz high-brightness smart Google TV performance.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-28T14:52:42+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04l92bDCxlLqZky9sx1XH7Z/hero-image.png",
     "source_name": "MASHABLE.COM"
   }
 ]
