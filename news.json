@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.techradar.com/pro/microsoft-unveils-new-copilot-which-promises-to-help-you-achieve-everything-you-ever-wanted-at-home-and-at-work",
+    "title": "Microsoft says the 'new Copilot' promises to help you achieve everything you ever wanted at home and at work",
+    "description": "Microsoft is rebuilding Copilot around delegated work, software creation and persistent AI agents, while introducing usage-based pricing for advanced capabilities.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-29T02:25:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/WbGpNcppHBJL6bUeoiazkG-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260928/p46#a260928p46",
     "title": "Google confirms it'll phase out ChromeOS by mid-2034, cutting short a 10-year support period for some devices but noting it will help orgs move to Googlebook OS (Andrew E. Freedman/Tom's Hardware)",
     "description": "Andrew E. Freedman / Tom's Hardware:\nGoogle confirms it'll phase out ChromeOS by mid-2034, cutting short a 10-year support period for some devices but noting it will help orgs move to Googlebook OS  —  Google is telling IT admins at schools and businesses about its new platform. … Google says it will be phasing out ChromeOS updates in mid-2034.",
@@ -136,18 +148,6 @@
     "source_name": "9TO5MAC.COM"
   },
   {
-    "link": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review",
-    "title": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
-    "description": "Nothing has been on a bit of an audio tear this year, releasing the solid Headphone A and the surprisingly good Ear 3A earbuds. The Headphone A released at $199, while the earbuds are under $100, leaving room for something fancier. That something is the Nothing Headphone 1 Pro, the company's new $399 flagship over-ears",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-29T01:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268785_Nothing_pro_1_headphones_JHIGGINS_1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.wired.com/story/nothings-new-headphone-1-pro-are-made-for-the-studio/",
     "title": "Nothing’s New Headphone (1) Pro Are Made for the Studio",
     "description": "With three drivers in each ear and tuning from Metropolis Studios, Nothing wants its new $399 cans to shine in the studio while also making your commute more musical.",
@@ -182,6 +182,18 @@
     "pub_date": "2026-09-29T01:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/04Nqaqm1jd9f9TgZAUukBi8/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review",
+    "title": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
+    "description": "Nothing has been on a bit of an audio tear this year, releasing the solid Headphone A and the surprisingly good Ear 3A earbuds. The Headphone A released at $199, while the earbuds are under $100, leaving room for something fancier. That something is the Nothing Headphone 1 Pro, the company's new $399 flagship over-ears",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-29T01:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268785_Nothing_pro_1_headphones_JHIGGINS_1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.techmeme.com/260928/p44#a260928p44",
@@ -491,8 +503,7 @@
     "title": "SNL Skewers Anthropic CEO: ‘I Urge You to Urge Me to Stop’",
     "description": "Jane Wickline plays a sweaty, Gollum-esque Dario Amodei in this sharp satire.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-28T22:16:17+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/SNL-Jane-Wickline-as-Dario-Amodei-Anthropic-screenshot.png",
@@ -810,7 +821,6 @@
     "title": "AMD agrees to acquire Fei-Fei Li's World Labs for $8.2B in an all-stock deal expected to close by year-end; Li will join AMD as EVP and chief scientist (Edward Ludlow/Bloomberg)",
     "description": "Edward Ludlow / Bloomberg:\nAMD agrees to acquire Fei-Fei Li's World Labs for $8.2B in an all-stock deal expected to close by year-end; Li will join AMD as EVP and chief scientist  —  Chipmaker Advanced Micro Devices Inc. agreed to acquire World Labs for $8.2 billion, gaining an artificial intelligence startup founded …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-28T20:17:41+00:00",
@@ -2274,16 +2284,5 @@
     "pub_date": "2026-09-28T15:08:22+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/f4dKojZG636GgdShdHj94M-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-    "description": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-28T15:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
