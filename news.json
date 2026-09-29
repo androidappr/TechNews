@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://thenextweb.com/news/openai-cancels-launch-of-gpt-6-1-astra",
+    "title": "OpenAI cancels October launch of GPT-6.1 Astra after failed safety tests",
+    "description": "OpenAI has called off the October release of GPT-6.1 Astra after the model failed to meet its own safety and alignment standards in testing. The Wall Street Journal broke the news on Monday, and OpenAI later confirmed the decision to Reuters. The model was meant to follow GPT-6 Astra, which OpenAI released on 3 September,",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-09-29T07:37:18+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/openai-models-escaped-hacked-hugging-face.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/google-challenges-eu-dma-orders-search-data",
     "title": "Google takes EU to court over orders to share search data with AI rivals",
     "description": "Google has gone to court to challenge two EU orders that would require it to open Android to rival AI assistants and share search data with other search engines, Reuters reported. It filed both cases at the EU General Court in Luxembourg on Monday. In July, the European Commission issued orders under the Digital Markets",
@@ -129,18 +140,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://www.wired.com/story/home-depot-promo-code/",
-    "title": "Home Depot Promo Codes: 30% Off in October 2026",
-    "description": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-29T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/motorola-coupon-code/",
     "title": "Motorola Coupon Code for October 2026",
     "description": "Upgrade your smartphone for less with the latest Motorola promo codes, free shipping offers, and exclusive seasonal discounts.",
@@ -164,6 +163,18 @@
     "source_name": "WIRED.COM"
   },
   {
+    "link": "https://www.wired.com/story/home-depot-promo-code/",
+    "title": "Home Depot Promo Codes: 30% Off in October 2026",
+    "description": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-29T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.wired.com/story/blue-apron-coupon/",
     "title": "50% Off Blue Apron Promo Codes | October 2026",
     "description": "Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.",
@@ -175,17 +186,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.wired.com/story/target-promo-code/",
-    "title": "Target Promo Code: $50 Off | October 2026",
-    "description": "Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-29T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/uplift-desk-coupon-code/",
     "title": "Uplift Promo Codes: $300 Off",
     "description": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories.",
@@ -194,6 +194,17 @@
     ],
     "pub_date": "2026-09-29T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/target-promo-code/",
+    "title": "Target Promo Code: $50 Off | October 2026",
+    "description": "Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-29T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -2246,16 +2257,5 @@
     "pub_date": "2026-09-28T16:09:09+00:00",
     "image_url": "https://images-assets.nasa.gov/image/jsc2026e040445/jsc2026e040445~large.jpg?w=1919&h=894&fit=clip&crop=faces%2Cfocalpoint",
     "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://www.techmeme.com/260928/p29#a260928p29",
-    "title": "In simulations, GPT-6 Astra conducted unsanctioned supply-chain attacks more often than earlier OpenAI models when prompted only to perform a cyber evaluation (AI Security Institute)",
-    "description": "AI Security Institute:\nIn simulations, GPT-6 Astra conducted unsanctioned supply-chain attacks more often than earlier OpenAI models when prompted only to perform a cyber evaluation  —  Our new evaluation finds that in simulations, GPT-6 Astra conducts unsanctioned supply-chain attack activity more frequently than previous OpenAI models",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-28T16:05:01+00:00",
-    "image_url": "http://www.techmeme.com/260928/i29.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
