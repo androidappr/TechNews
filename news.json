@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.techmeme.com/260929/p52#a260929p52",
+    "title": "Efficient Computer, which uses dataflow architectures to develop faster and more energy-efficient chips, raised a $97M Series B at a $650M valuation (Stephen Nellis/Reuters)",
+    "description": "Stephen Nellis / Reuters:\nEfficient Computer, which uses dataflow architectures to develop faster and more energy-efficient chips, raised a $97M Series B at a $650M valuation  —  Efficient Computer, a chip startup spun out of Carnegie Mellon University, on Tuesday said it has raised $97 million in additional funding, bringing its valuation to $650 million.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-29T22:40:00+00:00",
+    "image_url": "http://www.techmeme.com/img/pml.png",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260929/p51#a260929p51",
+    "title": "Anthropic says GLM-5.3 can autonomously build end-to-end cyber exploits, like Claude Mythos Preview, but was released without robust safeguards against misuse (Anthropic)",
+    "description": "Anthropic:\nAnthropic says GLM-5.3 can autonomously build end-to-end cyber exploits, like Claude Mythos Preview, but was released without robust safeguards against misuse  —  GLM-5.3 can develop working exploits end to end  —  Five months ago, we announced Claude Mythos Preview, the first AI model …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-29T22:35:00+00:00",
+    "image_url": "http://www.techmeme.com/260929/i51.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2271451/prepare-samsung-galaxy-one-ui-9-update/",
+    "title": "How to prepare your Samsung Galaxy for the One UI 9 update",
+    "description": "With Samsung's One UI 9 rollout chugging along the globe, there's no better time to make a few quick checks before you make the switch.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-29T22:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-to-prepare-your-samsung-galaxy-for-the-one-ui-9-update/l-intro-1790359004.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
     "title": "Trump orders US government to call AI ‘Super Intelligence’",
     "description": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump. \"The word super is the best word of all, and it's the simplest,\" Trump said",
@@ -772,8 +807,7 @@
     "title": "There's now an official US government AI chatbot",
     "description": "The administration wants America.gov to be the main portal for federal services.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-29T18:43:58+00:00",
     "image_url": "https://www.engadget.com/img/gallery/theres-now-an-official-us-government-ai-chatbot/l-intro-1790707301.jpg",
@@ -807,7 +841,6 @@
     "description": "OpenAI now has an AI research intern, chief executive Sam Altman said on Tuesday. He made the claim in his DevDay 2026 keynote in San Francisco. He told 2,500 developers that the company predicted a year ago it would reach that goal within 12 months. “A few weeks ago we reached that goal. We now",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-29T18:39:54+00:00",
@@ -831,7 +864,6 @@
     "description": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware"
     ],
@@ -844,7 +876,6 @@
     "title": "AirPods Pro 3 and more just got new firmware update in beta",
     "description": "Apple has new beta firmware rolling out now for AirPods Pro 3, AirPods Pro 2, and select other models. Here are the details.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-29T18:34:24+00:00",
@@ -1007,6 +1038,7 @@
     "description": "“The experiments are still in the queue. The PR is already live,” says one expert.",
     "categories": [
       "AI & Machine Learning",
+      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-09-29T18:03:01+00:00",
@@ -1030,7 +1062,6 @@
     "title": "How to watch Mexico vs. Peru online for free",
     "description": "How to watch International Friendly for free. Live steam Mexico vs. Peru in International Friendly for free from anywhere in the world.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-29T18:00:00+00:00",
@@ -1087,8 +1118,8 @@
   },
   {
     "link": "https://www.techmeme.com/260929/p38#a260929p38",
-    "title": "OpenAI unveils Decisions API, which returns predefined answers with confidence scores, available in limited preview with no pricing details (Frederic Lardinois/The New Stack)",
-    "description": "Frederic Lardinois / The New Stack:\nOpenAI unveils Decisions API, which returns predefined answers with confidence scores, available in limited preview with no pricing details  —  With the sudden rise of TypeSafe's Jev, decision models have become incredibly popular, so it's not surprising that OpenAI is also announcing …",
+    "title": "OpenAI announces Decisions API, which returns predefined answers with confidence scores, similar to TypeSafe's Jev, in limited preview with no pricing details (Frederic Lardinois/The New Stack)",
+    "description": "Frederic Lardinois / The New Stack:\nOpenAI announces Decisions API, which returns predefined answers with confidence scores, similar to TypeSafe's Jev, in limited preview with no pricing details  —  With the sudden rise of TypeSafe's Jev, decision models have become incredibly popular, so it's not surprising that OpenAI …",
     "categories": [
       "Tech News"
     ],
@@ -1384,7 +1415,7 @@
   {
     "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
     "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-    "description": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
+    "description": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News"
@@ -1620,22 +1651,10 @@
     "source_name": "THENEXTWEB.COM"
   },
   {
-    "link": "https://www.engadget.com/2270994/xbox-game-pass-ultimate-get-moneys-worth/",
-    "title": "How to get your money's worth from Xbox Game Pass Ultimate",
-    "description": "If you don't value day-one releases or the other perks on offer, Ultimate might not be the tier for you.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-29T16:45:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/how-to-get-your-moneys-worth-from-xbox-game-pass-ultimate/l-intro-1790615619.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
     "link": "https://www.techradar.com/how-to-watch/football/turkey-vs-italy-free-streams-tv-channels-nations-league-2026-27",
     "title": "How to watch Turkey vs Italy: FREE streams, TV channels for Nations League 2026/27",
     "description": "All the ways to watch Turkey vs Italy in the Nations League for free from anywhere as both sides look to hit back from opening round defeats.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-29T16:45:00+00:00",
@@ -1647,12 +1666,22 @@
     "title": "How to watch Czechia vs England: FREE streams & TV channels",
     "description": "All the ways to watch Czechia vs England for free online, as both sides look for a first victory in Group A3 in the Nations League 2026/27.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-29T16:45:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/HFm6yzam7ctHtfaiVk46kH-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2270994/xbox-game-pass-ultimate-get-moneys-worth/",
+    "title": "How to get your money's worth from Xbox Game Pass Ultimate",
+    "description": "If you don't value day-one releases or the other perks on offer, Ultimate might not be the tier for you.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-29T16:45:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-to-get-your-moneys-worth-from-xbox-game-pass-ultimate/l-intro-1790615619.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.cnet.com/tech/services-and-software/still-on-ios-26-you-need-to-download-ios-26-7-1-now-for-this-zero-day-patch/",
@@ -2309,38 +2338,5 @@
     "pub_date": "2026-09-29T14:16:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/w6A857fcYQGum2QAYneHtj-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/29/heres-everything-new-for-reminders-in-ios-27/",
-    "title": "Reminders just got more powerful, here’s what’s new in iOS 27",
-    "description": "iOS 27 adds new features to Apple Notes, Messages, Wallet, and more, and it has a few improvements for the Reminders app too. Here’s everything new for Reminders in iOS 27.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-29T14:14:15+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/reminders-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1001905/amazon-leak-basic-entry-level-kindle-colors-design-power-button",
-    "title": "Leaked images reveal new colors for Amazon’s next entry-level Kindle",
-    "description": "Amazon typically introduces new Kindle models a few months ahead of the holiday shopping season, and this year it looks like that will include a bigger update to the entry-level Kindle than what debuted in 2024. The last upgrades to the basic Kindle model were limited to a brighter backlight, a new dark mode, and",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-29T14:10:50+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/kindle1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/sept-29-bose-quietcomfort-2nd-gen-headphones-deal",
-    "title": "First discount: The new Bose QuietComfort 2nd Gen headphones are marked down by $40",
-    "description": "Get the best headphones deal at Amazon. Save $40 on the Bose QuietComfort 2nd gen headphones at Amazon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-29T14:10:40+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06THlYCdnk5N3XwLiusKBa1/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
