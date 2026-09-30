@@ -1,5 +1,63 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
+    "title": "Hackers stole millions of US military personnel records during months-long data breach",
+    "description": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.",
+    "categories": [
+      "Cybersecurity & Privacy",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-30T19:29:08+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/publishers-congress-stealth-bot-prohibition-act-ai-scraping",
+    "title": "300 publishers take their fight against AI stealth bots to Congress",
+    "description": "Executives from more than 300 news publishers are in Washington this week to lobby Congress for a bill that would ban AI “stealth bots”. The News/Media Alliance, a trade body for news and magazine publishers, organised the trip, Digiday reported on Tuesday. Those making the trip include Condé Nast CEO Roger Lynch, Hearst Magazines president",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-30T19:24:00+00:00",
+    "image_url": "https://media.thenextweb.com/2026/06/US-Capitol-Dome.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
+    "title": "DoorDash’s drone strategy started on the ground",
+    "description": "DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T19:22:13+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260930/p41#a260930p41",
+    "title": "OpenAI says individuals associated with Moonshot AI played a significant role in a coordinated model-distillation campaign that began in early July (Maggie Eastland/Bloomberg)",
+    "description": "Maggie Eastland / Bloomberg:\nOpenAI says individuals associated with Moonshot AI played a significant role in a coordinated model-distillation campaign that began in early July  —  OpenAI accused its Chinese rival Moonshot AI of being responsible for a wide-scale effort to extract data from its GPT artificial intelligence systems …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T19:20:02+00:00",
+    "image_url": "http://www.techmeme.com/260930/i41.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/",
+    "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
+    "description": "The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T19:19:40+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/doordash-air-drones-manna-ireland",
     "title": "DoorDash Air unveils a drone delivery system, and cannot yet fly it out of sight",
     "description": "DoorDash has unveiled the aircraft behind DoorDash Air and will begin pilot deliveries in Northern California with Chipotle and Popeyes. Manna, which flew more than 300,000 deliveries from Dublin and Cork, paused Irish operations in June for want of a national policy and is building a factory in Oklahoma. DoorDash has unveiled the aircraft behind",
@@ -117,6 +175,18 @@
     "pub_date": "2026-09-30T18:50:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/VDfo6sZUHvR7YdaC2NQKmW-1920-80.png",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/meta-muse-ai-private-messages-permission",
+    "title": "Did Muse read private texts without permission? Meta says it couldn’t.",
+    "description": "Meta denies claims its Muse AI agent read private Apple Messages without permission after a journalist reported unexpected access.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T18:42:39+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00B4eXQxQX6u3PUZF51Np41/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.cnet.com/tech/gaming/gotta-go-fast-and-hunt-demons-this-october-in-these-free-playstation-plus-games/",
@@ -323,6 +393,7 @@
     "title": "Condé Nast, Hearst among 300 publishers pressuring Congress to ban bot scraping",
     "description": "A cohort of news publishers are backing a recently introduced bill intent on stopping stealth bots scraping their content without paying content licensing fees.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T18:00:58+00:00",
@@ -1101,7 +1172,6 @@
     "title": "Metaview, which uses AI agents to automate recruiting workflows, raised a $60M Series C led by Insight Partners, bringing its total funding to $110M (Chris Metinko/Axios)",
     "description": "Chris Metinko / Axios:\nMetaview, which uses AI agents to automate recruiting workflows, raised a $60M Series C led by Insight Partners, bringing its total funding to $110M  —  Metaview, an agentic recruiting platform, raised a $60 million Series C led by Insight Partners, CEO Siadhal Magos tells Axios Pro exclusively.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T15:20:01+00:00",
@@ -1350,18 +1420,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-    "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-    "description": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-30T14:30:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
     "link": "https://www.wired.com/story/biotech-founder-cathy-tie-moral-case-gene-editing-human-embryos/",
     "title": "A Biotech Founder Makes the Moral Case for Gene-Editing Human Embryos",
     "description": "The practice of editing the genes of embryos remains highly controversial and risky, but Origin Genomics founder Cathy Tie argues its a “moral imperative” to address hereditary diseases.",
@@ -1383,6 +1441,18 @@
     "pub_date": "2026-09-30T14:30:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/meta-introduces-a-new-ai-assistant-for-its-instagram-creators/l-intro-1790775050.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+    "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+    "description": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-30T14:30:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
   },
   {
     "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
@@ -2288,74 +2358,5 @@
     "pub_date": "2026-09-30T11:30:01+00:00",
     "image_url": "http://www.techmeme.com/260930/i19.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/openai-launches-dots-its-always-on-ai-agents-that-are-always-watching",
-    "title": "OpenAI launches Dots, its always-on AI agents that are always watching",
-    "description": "Eligible ChatGPT users can now use Dots – individual, always-on agents that proactively work toward goals you set.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T11:30:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/V7P8hdhLq2cqbKrePVf46g-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/musk-universal-high-income-white-house",
-    "title": "“AI, or SI, pardon me” will give you better healthcare than Elon Musk gets, says Elon Musk",
-    "description": "Elon Musk has told reporters at the White House that AI and humanoid robots will most likely make everyone better off. He spoke on Tuesday outside the West Wing, beside President Donald Trump, after the president’s lunch with tech leaders. He began by praising “the positive benefits of AI, or SI, pardon me”, correcting himself",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-09-30T11:26:54+00:00",
-    "image_url": "https://media.thenextweb.com/2026/04/musk-openai-testimony-charity-precedent.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
-    "title": "Cloudflare plans to issue quantum-safe TLS certificates",
-    "description": "The move will be part of a major overhaul of the ecosystem for website authentication.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-09-30T11:15:14+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date",
-    "title": "Apple’s &#8216;HomePad&#8217; will reportedly launch on October 13th",
-    "description": "Apple's long-rumored smart home hub will reportedly be revealed on October 13th. Bloomberg's Mark Gurman reports that the smart home device will be revealed alongside a new HomePod mini and an upgraded Apple TV device. All three products are set to showcase Siri AI, Apple's overhauled AI-powered assistant. The smart home hub, a new product",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-30T11:11:24+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260930/p18#a260930p18",
-    "title": "GPU cloud provider GMI Cloud raised $668M, including $223M in equity led by ARCHIV with participation from Nvidia and $445M in credit led by Taiwanese bank CTBC (Phoebe Liu/The Information)",
-    "description": "Phoebe Liu / The Information:\nGPU cloud provider GMI Cloud raised $668M, including $223M in equity led by ARCHIV with participation from Nvidia and $445M in credit led by Taiwanese bank CTBC  —  GMI Cloud, a five-year-old provider of Nvidia chip servers to enterprises, said Wednesday it raised $668 million in equity and debt financing.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T11:10:02+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/best-gaming-routers/",
-    "title": "The Best Gaming Routers (2026): Tested By a Family of Gamers",
-    "description": "Gaming online can seriously strain your internet connection, but the best gaming routers could give you the edge.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-30T11:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6abc319d33f7a1f1af2fadf2/master/pass/The-Best-Gaming-Routers.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
