@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://thenextweb.com/news/tokyo-court-ai-voice-clone-kenjiro-tsuda-tiktok",
+    "title": "Tokyo court rules the human voice is protected, in a TikTok AI clone case",
+    "description": "A Tokyo court ruled on Wednesday that Japanese law protects the human voice. Anime voice actor Kenjiro Tsuda had sued TikTok over videos he says used an AI clone of his voice. He won in part, as the court turned down his request to remove the videos, Agence France-Presse reported. AFP believes the lawsuit is",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-30T19:49:55+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/tiktok-logo-iphone-screen-silhouetted-hand-blue-red.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/palantir-nhs-data-platform-44000-objections-38-degrees",
+    "title": "44,000 object to Palantir’s NHS data platform, the Guardian reports",
+    "description": "More than 44,000 people have filed legal objections to stop the NHS’s Federated Data Platform handling their health records. The platform runs on Palantir software. The campaign asks NHS England to stop the platform sharing, storing or using their data, the Guardian reported on Wednesday. The objections rely on article 21 of the UK GDPR,",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-30T19:46:31+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/NHS-logo.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/us-government-reveals-usd5-25-billion-spending-on-boosting-national-grid-to-help-power-new-ai-data-centers-money-will-cover-31-projects-across-26-states-but-how-will-it-affect-energy-bills",
+    "title": "US government reveals $5.25 billion spending on boosting national grid to help power new AI data centers — money will cover 31 projects across 26 states, but how will it affect energy bills?",
+    "description": "Funding comes in addition to larger commitments from utilities, and it chooses to focus on wires and sensors instead of power plants.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T19:45:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/tHmeSzeFHMpEMVM3KENNUQ-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/google-ai-contribution-pilot-publishers-payments",
     "title": "Google is paying 100 publishers for AI answers, The Information reports",
     "description": "Google is paying about 100 digital publishers when their content feeds its AI answers. For several small and mid-sized sites in the pilot, the payments come to less than a tenth of 1% of their advertising revenue, The Information reported on Tuesday. Alix Coutures and Catherine Perloff reported, citing people familiar with the tests, that",
@@ -74,7 +110,7 @@
   {
     "link": "https://www.cnet.com/tech/services-and-software/trumps-ai-voluntary-accord-wont-make-ai-safe-experts-say/",
     "title": "Trump’s ‘AI Accord’ Does Little to Actually Keep AI Safe, Experts Say",
-    "description": "President Trump got Big Tech leaders to sign a voluntary agreement for overseeing AI safety. But it leaves big questions unanswered.",
+    "description": "The president got Big Tech leaders to sign a voluntary agreement for overseeing AI safety. But it leaves big questions unanswered.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News"
@@ -990,7 +1026,6 @@
     "description": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-09-30T16:00:00+00:00",
@@ -1049,7 +1084,6 @@
     "title": "Freckle Phone has a kid-friendly name, but I'm not sure it can overcome the AI gadget curse",
     "description": "The free-range kids movement finally has an AI phone custom-built for world exploration — I talked to the phone's creator about its chances.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T16:00:00+00:00",
@@ -1061,8 +1095,7 @@
     "title": "Instinct’s new product recommendations are giving some users the ick",
     "description": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-30T15:56:28+00:00",
     "image_url": null,
@@ -1098,7 +1131,6 @@
     "title": "I tried America.gov, and I'm wary of trusting it with my data",
     "description": "I tried the new AI-powered America.gov and found a useful government guide whose ambitious plans raise much bigger questions about privacy, security and trust",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T15:54:37+00:00",
@@ -2323,42 +2355,5 @@
     "pub_date": "2026-09-30T12:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/airbnb-is-adding-a-personalized-map-and-other-discovery-tools/l-intro-1790720198.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
-    "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
-    "description": "BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-30T12:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2272675/the-samsung-galaxy-smarttag-3-special-feature-is-being-a-pet-activity-monitor/",
-    "title": "The Samsung Galaxy SmartTag 3's special feature is being a pet activity monitor",
-    "description": "Not only can it keep tabs on your furball's location, it can monitor their motion and sleep too.",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-30T12:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/the-samsung-galaxy-smarttag-3s-special-feature-is-being-a-pet-activity-monitor/l-intro-1790713348.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-    "title": "Airbnb adds AI search, more social features",
-    "description": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-30T12:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
