@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.cnet.com/home/smart-home/apple-smarter-home-hub-report/",
+    "title": "Apple Is Reportedly Ready to Release Its Smarter Home Hub in 2 Weeks",
+    "description": "Return of the iMac G4 design? The hub could feature a round base and positioning arm supporting the screen, like the company’s short-lived but friendlier iMac design.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T21:26:36+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/apple-home-hub-imac-g4-homepod.png",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
+    "title": "NASA Adds New Science Investigations for Moon Base",
+    "description": "NASA selected three new scientific investigations and their payload suites to advance our knowledge of the Moon and help pave the way for building humanity’s first lunar outpost, Moon Base. The suite of science instruments and technologies was selected through NASA’s Payloads and Research Investigations on the Surface of the Moon (PRISM) program and will",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T21:11:23+00:00",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521-1.png?w=2048",
+    "source_name": "NASA.GOV"
+  },
+  {
     "link": "https://www.techradar.com/pro/european-space-agency-signs-up-cgi-and-ovhcloud-to-build-storage-for-the-500pb-of-earth-observation-data-it-expects-to-have-by-2035",
     "title": "European Space Agency signs up CGI and OVHcloud to build storage for the 500PB of Earth observation data it expects to have by 2035",
     "description": "Digital EO will be capable of storing 500 petabytes of satellite data for scientists and researchers across Europe.",
@@ -25,6 +49,17 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
+    "link": "https://www.cnet.com/home/electric-vehicles/ionna-ev-fast-charging-2026-growth-ceo-interview/",
+    "title": "Ionna Charging Network Doubled to Over 180 Sites in 2026. Its CEO Tells Us What’s Next",
+    "description": "The fast charging network founded by eight automakers is now said to be the largest 400 kW fast charging network in the US.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T21:07:33+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/ionna-station-1.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260930/p46#a260930p46",
     "title": "Micron reports Q4 revenue up 379% YoY to $54.23B, vs. $51.07B est., net income up 1,078% to $37.7B, and forecasts Q1 revenue above estimates (CNBC)",
     "description": "CNBC:\nMicron reports Q4 revenue up 379% YoY to $54.23B, vs. $51.07B est., net income up 1,078% to $37.7B, and forecasts Q1 revenue above estimates  —  Micron reported better-than-expected quarterly results on Wednesday as the memory maker continues to benefit from soaring demand for AI infrastructure.",
@@ -46,6 +81,41 @@
     "pub_date": "2026-09-30T21:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6abbfbe5422fade848ea97c7/master/pass/politics_republicans_midterms_panic.jpg",
     "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/sept-30-early-prime-day-ugreen-dxp4800-gt-nas-deal",
+    "title": "Build your home server with $100 off the UGREEN DXP4800 GT 4-Bay NAS",
+    "description": "As of Sep. 30, save $100 on the UGREEN DXP4800 GT 4-Bay NAS at Amazon.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T21:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/015xTE47NkpxRAjAcKoJl4d/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/sept-30-roborock-roboneo-robot-lawn-mower-deal",
+    "title": "All-time low price: Save over $200 on the Roborock RockNeo Q110H robot lawn mower at Amazon",
+    "description": "Get the best robot lawn mower deal at Amazon. Save $220 on the Roborock RockNeo Q110H robot lawnmower.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T21:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/03aK1xAIh04GGLCoOtRxk3h/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/life/sept-30-mova-v70-robot-vacuum-mop-deal",
+    "title": "Early Prime Day deal: Mova’s 42,000Pa V70 Ultra Complete robot vacuum drops to $999 at Amazon",
+    "description": "Get the best robot vacuum deal at Amazon. Save $300 on the Mova V70 Robot Vacuum & Mop.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T21:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/06R0yiXsByYIImR7qpibAid/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie",
@@ -557,6 +627,7 @@
     "title": "Creators can save $100 on the powerful Ugreen DXP4800 GT NAS",
     "description": "In our tests, the Ugreen DXP4800 GT NAS delivered \"ultra fast transfer speeds that far surpasses the competition\", with dual 10GbE networking — and $100 off.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T18:56:43+00:00",
@@ -963,8 +1034,7 @@
     "title": "The ugly economics of consumer AI",
     "description": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-30T17:24:45+00:00",
     "image_url": null,
@@ -1520,7 +1590,6 @@
     "title": "Deals: iPhone 17 Pro Max, MacBook Pro, HomeKit Prime Day discounts, Apple Watch bands from $7, more",
     "description": "Joining the updated early fall Prime Day sale at Amazon and the giant ongoing $500 price drop on this M5 Pro MacBook Pro, today’s 9to5Toys Lunch Break is headlined by official MagSafe Battery at 40% off. You’ll also find loads of charger deals, TVs, smart speakers, and more waiting down below. \n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T15:28:09+00:00",
@@ -2297,71 +2366,5 @@
     "pub_date": "2026-09-30T13:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/shures-mv6-gen-2-microphone-gives-creators-more-control-over-their-audio/l-intro-1790275354.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2272817/amazon-simplifies-its-fire-tv-streaming-device-lineup/",
-    "title": "Amazon simplifies its Fire TV streaming device lineup",
-    "description": "The days of picking between Select, Plus and Max are over.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/amazon-simplifies-its-fire-tv-streaming-device-lineup/l-intro-1790722439.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2272834/amazon-unveils-a-thinner-and-faster-fire-tv-stick-4k-plus-a-new-remote/",
-    "title": "Amazon unveils a thinner and faster Fire TV Stick 4K, plus a new remote",
-    "description": "It will cost just $30 during the Prime Day deals event next week, and retail for $60 otherwise.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/amazon-unveils-a-thinner-and-faster-fire-tv-stick-4k-plus-a-new-remote/l-intro-1790724983.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/streaming-tv/amazon-fire-tv/amazon-new-fire-tv-stick-4k-2026-launched",
-    "title": "Amazon just refreshed its Fire TV Stick 4K — here's what's new",
-    "description": "Amazon's most popular streaming stick just got faster, and it's already 50% off.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T13:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/cAduYNCv8MbKWki6oson59-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.cnet.com/roadshow/automobiles/ightship-ae1-ev-trailer-travel-hands-on/",
-    "title": "I Visited Lightship’s AE.1 EV Travel Trailer, and Now I Want to Take an Off-the-Grid Road Trip",
-    "description": "The company, founded by Tesla veterans, is expanding manufacturing in Colorado to keep up with demand from RV enthusiasts.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T13:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/lightship1.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/home-entertainment/amazon-fire-tv-stick-4k-hands-on/",
-    "title": "Amazon Fire TV Stick 4K Simplifies Streaming Options, and I Went Hands-On",
-    "description": "The 2026 streamer from Amazon features a new remote and support for HDR10 and Samsung’s HDR10 Plus.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T13:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Fire-TV-Stick-4K-2026.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://mashable.com/life/tinder-group-hangouts-chat-feature-launch",
-    "title": "Group chats have come to Tinder",
-    "description": "Tinder launches Group Hangouts as a way to faciliate dates with friends.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T13:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06DmXQAMGCYiw7SioXfrEer/hero-image.png",
-    "source_name": "MASHABLE.COM"
   }
 ]
