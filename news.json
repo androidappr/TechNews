@@ -1,5 +1,46 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+    "description": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Social & Media",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-30T17:45:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/samsung-tab-s12-europe-price-memory",
+    "title": "Samsung’s new tablets arrive more expensive, and its tracker lasts longer",
+    "description": "Samsung’s Galaxy Tab S12+ and S12 Ultra reach Europe on 7 October at 1,299 and 1,539 euros, roughly 180 euros above the model the first replaces, against a 100 dollar rise in America. The entry-level 11-inch tablet was not updated, which is what the memory shortage has been doing to cheap devices all year, while",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-30T17:41:29+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/galaxy-tab-s12-ultra-and-s12-plus.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/cscale-145m-series-c-optical-interconnect-ai",
+    "title": "CScale exits stealth with $145m to stop laser failures stalling AI",
+    "description": "CScale, a Palo Alto startup building optical interconnect for AI data centres, has come out of stealth with $145m in Series C funding. The round takes its total funding to $188m, the company said in a statement on Wednesday. Atreides Management led the round, with Valor Equity Partners and Premji Invest as co-leads. Sutter Hill",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-30T17:38:40+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/cscale-logo-glowing-optical-fibre-strands.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
     "title": "The ugly economics of consumer AI",
     "description": "There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough.",
@@ -22,6 +63,34 @@
     "pub_date": "2026-09-30T17:23:23+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/oura-ring-5-praying-mantis-green-leaf.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy",
+    "title": "Amazon&#8217;s delivery driver smart glasses will reportedly take photos &#8216;almost constantly&#8217;",
+    "description": "Amazon deliveries could soon come with a new catch: the delivery driver's smart glasses will be snapping photos of anything they see while they're in use, including people and private property. Bloomberg reports that the glasses could take \"several thousand captures in a single driver's typical shift,\" which Amazon plans to upload to its AI",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-30T17:21:29+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/download.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+    "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
+    "description": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Government & Policy",
+      "Social & Media"
+    ],
+    "pub_date": "2026-09-30T17:15:49+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://thenextweb.com/news/openai-lawsuit-lasst-hugging-face-hack",
@@ -1220,40 +1289,6 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/",
-    "title": "Charter Space raises $5M to bring insurance to the stars",
-    "description": "As Charter explains on its website, a common experience for space companies is that regular insurers \"heard a bunch of scary science words and freaked out.\"",
-    "categories": [
-      "Business & Startups",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-09-30T13:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review",
-    "title": "The Sonos Ace Ultra are the headphones Sonos should have made the first time",
-    "description": "The original Sonos Ace headphones should have been a triumphant entry into a new product category. Instead, they were overshadowed by Sonos's disastrous app redesign. And while the original Ace are well built, sound good, and are incredibly comfortable, they weren't good Sonos headphones: Their flagship feature let you reroute audio from a Sonos soundbar",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T13:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268780_Sonos_Ace_Ultra_P_JHiggins_6.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/report/1002172/potato-by-air-wing-drone-delivery",
-    "title": "Potato by air",
-    "description": "The Wing Hummingbird 7000W-B delivery drone weighs less than 15 pounds. It has 16 propellers - four for horizontal movement and 12 for vertical - a top speed of 60 miles per hour, a carrying capacity of up to 2.7 pounds, and a delivery radius of about six miles. It is authorized by the FAA",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-30T13:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Potato_drone_v3.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.engadget.com/2273042/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/",
     "title": "Amazon's new Fire TV interface and mobile app will come with Alexa+ upgrades",
     "description": "The Amazon Fire TV interface and mobile app will get a dedicated hub for a more powerful Alexa+ this November.",
@@ -1345,6 +1380,40 @@
     "pub_date": "2026-09-30T13:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/06DmXQAMGCYiw7SioXfrEer/hero-image.png",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/",
+    "title": "Charter Space raises $5M to bring insurance to the stars",
+    "description": "As Charter explains on its website, a common experience for space companies is that regular insurers \"heard a bunch of scary science words and freaked out.\"",
+    "categories": [
+      "Business & Startups",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-30T13:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review",
+    "title": "The Sonos Ace Ultra are the headphones Sonos should have made the first time",
+    "description": "The original Sonos Ace headphones should have been a triumphant entry into a new product category. Instead, they were overshadowed by Sonos's disastrous app redesign. And while the original Ace are well built, sound good, and are incredibly comfortable, they weren't good Sonos headphones: Their flagship feature let you reroute audio from a Sonos soundbar",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T13:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268780_Sonos_Ace_Ultra_P_JHiggins_6.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/report/1002172/potato-by-air-wing-drone-delivery",
+    "title": "Potato by air",
+    "description": "The Wing Hummingbird 7000W-B delivery drone weighs less than 15 pounds. It has 16 propellers - four for horizontal movement and 12 for vertical - a top speed of 60 miles per hour, a carrying capacity of up to 2.7 pounds, and a delivery radius of about six miles. It is authorized by the FAA",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-30T13:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Potato_drone_v3.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/",
@@ -2273,66 +2342,6 @@
     ],
     "pub_date": "2026-09-30T09:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/03q2m6ZLxh5A1PLesJF4aGo/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-early-october-prime-day-power-tools-deals-2026",
-    "title": "The best power tool deals ahead of October Prime Day: Shop DeWalt, Craftsman, Husqvarna, and more",
-    "description": "Early Prime Day deals are already live on power tools. Save on DeWalt, Craftsman, and more ahead of the sale.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T09:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04gYJbVCAWMq0plkn80Efiu/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-early-october-prime-day-ssd-deals-2026",
-    "title": "20+ early Prime Day deals on MicroSDs, SSDs, and hard drives to beat RAMageddon",
-    "description": "Early Prime Day SSD deals are already live. Save big on portable external drives, PS5-ready NVMe SSDs, and high-capacity microSD cards from Samsung and SanDisk.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T09:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05yXgbq9xrT9FlBPoaZrcyA/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-early-october-prime-day-headphones-deals-2026",
-    "title": "Best deals on headphones and earbuds before October Prime Day: Our experts found deals on Beats, AirPods, and Sony",
-    "description": "Mashable's headphones expert sourced deals on headphones and earbuds live ahead of Prime Big Deal Days, which starts on Oct. 6.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T09:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07iWM8L4kBcfEpJ3ZjFP3iH/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-early-october-prime-day-dji-deals-2026",
-    "title": "The best early October Prime Day deals on DJI: I found deals on mics, drones, and cameras",
-    "description": "October Prime Day deals on DJI creator tools are already live. Shop the best deals on drones, vlogging cameras, mics, and more.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T09:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05ZcyJ6smNsk6CbYX8UEmG1/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/argentina-bolivia-international-friendly-2026-live-stream-for-free",
-    "title": "How to watch Argentina vs. Bolivia online for free",
-    "description": "How to watch International Friendly for free. Live steam Argentina vs. Bolivia in International Friendly for free from anywhere in the world.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T09:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/067zluMRxreCdelIMFhNNef/hero-image.jpg",
     "source_name": "MASHABLE.COM"
   }
 ]
