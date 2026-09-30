@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.wired.com/story/gifts-for-book-lovers/",
+    "title": "The Best Gifts for Book Lovers (2026): E-Readers, Handy Accessories, Book Sets",
+    "description": "Any one of these gift ideas will make your favorite bookworm very happy, from e-readers and accessories to handy reading essentials.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T11:36:00+00:00",
+    "image_url": "https://media.wired.com/photos/6abc28200532d5d813ae2f5c/master/pass/The-Best-Gifts-for-Book-Lovers,-According-to-an-Avid-Reader.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260930/p19#a260930p19",
     "title": "Sources and filings: Situational Awareness lacked an investment risk team; after the sell-off, the SEC sent subpoenas to major banks about trades they financed (New York Times)",
     "description": "New York Times:\nSources and filings: Situational Awareness lacked an investment risk team; after the sell-off, the SEC sent subpoenas to major banks about trades they financed  —  A meltdown at Situational Awareness, an A.I.-focused investment firm, is raising tough questions about the Wall Street banks that lent billions to the upstart firm.",
@@ -9,6 +20,30 @@
     "pub_date": "2026-09-30T11:30:01+00:00",
     "image_url": "http://www.techmeme.com/260930/i19.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/openai-launches-dots-its-always-on-ai-agents-that-are-always-watching",
+    "title": "OpenAI launches Dots, its always-on AI agents that are always watching",
+    "description": "Eligible ChatGPT users can now use Dots – individual, always-on agents that proactively work toward goals you set.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T11:30:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/V7P8hdhLq2cqbKrePVf46g-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/musk-universal-high-income-white-house",
+    "title": "“AI, or SI, pardon me” will give you better healthcare than Elon Musk gets, says Elon Musk",
+    "description": "Elon Musk has told reporters at the White House that AI and humanoid robots will most likely make everyone better off. He spoke on Tuesday outside the West Wing, beside President Donald Trump, after the president’s lunch with tech leaders. He began by praising “the positive benefits of AI, or SI, pardon me”, correcting himself",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-30T11:26:54+00:00",
+    "image_url": "https://media.thenextweb.com/2026/04/musk-openai-testimony-charity-precedent.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date",
@@ -728,6 +763,17 @@
     "source_name": "TECHMEME.COM"
   },
   {
+    "link": "https://www.techradar.com/computing/wi-fi-broadband/tp-link-archer-8-ultra-is-now-out-but-this-cutting-edge-wi-fi-8-router-is-seriously-pricey",
+    "title": "TP-Link Archer 8 Ultra Wi-Fi 8 router is out — but it's seriously pricey",
+    "description": "This is a pricey piece of cutting-edge hardware, and indeed you could buy a decent PC with this kind of money.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T08:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/nWCFSVs249iedSLPUDhi9M-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techradar.com/how-to-watch/tv-shows/watch-winter-online-for-free",
     "title": "How to watch Winter online for FREE: stream police procedural series from anywhere",
     "description": "Richard Armitage stars in this intense cop thriller set in Bristol — here's how to watch Winter online and for free, from anywhere.",
@@ -737,17 +783,6 @@
     ],
     "pub_date": "2026-09-30T08:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/GRHcvCbgRMchE9Nh2ydBni-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/wi-fi-broadband/tp-link-archer-8-ultra-is-now-out-but-this-cutting-edge-wi-fi-8-router-is-seriously-pricey",
-    "title": "TP-Link Archer 8 Ultra Wi-Fi 8 router is out — but it's seriously pricey",
-    "description": "This is a pricey piece of cutting-edge hardware, and indeed you could buy a decent PC with this kind of money.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T08:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/nWCFSVs249iedSLPUDhi9M-1920-80.png",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -778,7 +813,6 @@
     "title": "Meta expands Instagram’s School Partnership Program in the US",
     "description": "Meta is adding new features to Instagram’s School Partnership Program in the US, allowing schools and verified high school students to share news about clubs, sports teams, and events, the company announced. The update arrives a month after Meta’s settlement with US states over claims that it designed Instagram and Facebook to addict children. Under that agreement,",
     "categories": [
-      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-09-30T07:45:10+00:00",
@@ -2214,39 +2248,5 @@
     "pub_date": "2026-09-29T18:43:58+00:00",
     "image_url": "https://www.engadget.com/img/gallery/theres-now-an-official-us-government-ai-chatbot/l-intro-1790707301.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260929/p43#a260929p43",
-    "title": "Sources: some potential Oura IPO investors decided to hold off, citing its ~$15B target valuation and poor post-listing performance of peers like Fitbit (Bloomberg)",
-    "description": "Bloomberg:\nSources: some potential Oura IPO investors decided to hold off, citing its ~$15B target valuation and poor post-listing performance of peers like Fitbit  —  Some investors approached about potentially buying shares in Oura Inc.'s now-delayed initial public offering decided not to go forward …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-29T18:41:03+00:00",
-    "image_url": "http://www.techmeme.com/260929/i43.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/gm-lmr-billion-spring-hill",
-    "title": "GM will spend $1B making the first manganese-rich cells in mass production",
-    "description": "GM and LG Energy Solution will spend $1B turning their Spring Hill plant into the first factory to mass-produce prismatic lithium manganese-rich cells. Europe’s carmakers are spending comparable sums on lithium iron phosphate, the chemistry GM’s battery chief says may never earn its way into its cars. General Motors and LG Energy Solution will spend",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-29T18:40:58+00:00",
-    "image_url": "https://media.thenextweb.com/2026/07/gm-in-vehicle-ai-assistant-beyond-gemini.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/sam-altman-openai-ai-research-intern-devday-keynote",
-    "title": "Sam Altman says OpenAI now has an AI research intern",
-    "description": "OpenAI now has an AI research intern, chief executive Sam Altman said on Tuesday. He made the claim in his DevDay 2026 keynote in San Francisco. He told 2,500 developers that the company predicted a year ago it would reach that goal within 12 months. “A few weeks ago we reached that goal. We now",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-09-29T18:39:54+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/sam-altman-green-sweater-speaking-dark-stage-devday-livestream-1736.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
