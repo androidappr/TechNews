@@ -1,5 +1,70 @@
 [
   {
+    "link": "https://www.techradar.com/home/smart-speakers/amazon-echo-spot-dot-show-smart-speaker-guide",
+    "title": "Which Amazon Echo smart speaker should I buy? A handy guide to your four options",
+    "description": "Now's an especially good time to buy a new Amazon Echo smart speaker — and if you're not sure which one, head this way.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T16:26:35+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/YvwwrWq8CxvnmBgYYDnmVX-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+    "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+    "description": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Social & Media",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-30T16:24:23+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/ftc-probe-openai-anthropic-ai-labs-metr",
+    "title": "FTC opens probe into OpenAI, Anthropic and other AI labs",
+    "description": "The US Federal Trade Commission is investigating OpenAI, Anthropic and other AI labs over the risks their technology poses to consumers. An FTC spokesperson confirmed the probe on Wednesday to CNBC and CBS News. The New York Post first reported the probe earlier on Wednesday, citing administration officials. Marisa Schultz and Josh Christenson reported that",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-30T16:24:16+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/sam-altman-un-security-council-briefing.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/doordash-agent-messages-europe",
+    "title": "DoorDash launches a text-to-order AI agent that runs inside Apple Messages",
+    "description": "DoorDash has opened an American waitlist for an AI agent that takes food orders inside Apple’s Messages app, using your order history and stored payment method. Bloomberg’s testing found it giving prices that differed from the app, which in Europe is a consumer law question rather than a bug. DoorDash has built an AI agent",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-30T16:23:25+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/DoorDash-courier-in-New-York.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260930/p36#a260930p36",
+    "title": "Google DeepMind introduces SynthID Bio, a family of watermarking methods for AI-designed proteins to help with biosecurity and scientific integrity (John Timmer/Ars Technica)",
+    "description": "John Timmer / Ars Technica:\nGoogle DeepMind introduces SynthID Bio, a family of watermarking methods for AI-designed proteins to help with biosecurity and scientific integrity  —  AI-based tools seem to be causing security threats on a nearly daily basis, in part because we've been slow to recognize potential threats.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T16:20:03+00:00",
+    "image_url": "http://www.techmeme.com/260930/i36.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/09/30/apple-watch-series-12-ultra-4-adding-two-new-features-soon/",
     "title": "Apple Watch Series 12, Ultra 4 adding two new features soon",
     "description": "Apple Watch Series 12 and Apple Watch Ultra 4 have arrived, and later this year they’ll get even more powerful with two new features: Siri Recap and Live Rewind. Here are the details.\n\n\n\n more…",
@@ -166,6 +231,18 @@
     "pub_date": "2026-09-30T15:56:28+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/apple-smart-home-launch-homepod-smartdisplay-oct-2026",
+    "title": "Apple is reportedly preparing a big smart home launch: New smart display, HomePod on the way",
+    "description": "Apple is reportedly gearing up for a big push into the smart home space, with a new HomePod and smart display coming in October.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T15:55:06+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01zjNRxb8B8yDZzGBnOzDPS/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techradar.com/ai-platforms-assistants/i-tried-america-gov-and-the-ai-chatbot-isnt-the-part-im-worried-about",
@@ -504,8 +581,8 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-editor-for-creators/",
-    "title": "Instagram rolls out an AI video editor for creators",
+    "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
+    "title": "Instagram rolls out an AI video assistant for creators",
     "description": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
     "categories": [
       "Breaking News",
@@ -569,7 +646,7 @@
   {
     "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
     "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-    "description": "Founded by Apache Flink veterans, the startup is taking on workflow heavyweight Temporal.",
+    "description": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -592,18 +669,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techradar.com/live/news/lego-playstation-launch-live-where-to-buy-the-classic-ps1-console-replica-kit",
-    "title": "Lego PlayStation launch build-up live: where to buy the classic PS1 console replica kit in early access",
-    "description": "The Lego PlayStation launches on October 1, so I've gathered together all the places you can buy the replica console and secure yours in early access ahead of a wider release on October 4.",
-    "categories": [
-      "Breaking News",
-      "Gaming"
-    ],
-    "pub_date": "2026-09-30T14:20:43+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/CwJC2JDPWfVACLXvRV7esi-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://thenextweb.com/news/zapier-outpost-windsor-ai-transformation-playbook",
     "title": "At a private AI retreat, the vendor told us the tool won’t save you",
     "description": "Grady Sokaras, Zapier’s head of sales, opened a session at the company’s private AI retreat with a line about the kind of product Zapier sells. “A tool is never the solution,” Sokaras said. A company that buys the product and expects a transformation gets “one more piece of dependency or shelfware”. The retreat was Zapier",
@@ -615,6 +680,18 @@
     "pub_date": "2026-09-30T14:20:43+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/grady-sokaras-zapier-microphone-floral-tent-outpost-windsor.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/live/news/lego-playstation-launch-live-where-to-buy-the-classic-ps1-console-replica-kit",
+    "title": "Lego PlayStation launch build-up live: where to buy the classic PS1 console replica kit in early access",
+    "description": "The Lego PlayStation launches on October 1, so I've gathered together all the places you can buy the replica console and secure yours in early access ahead of a wider release on October 4.",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-09-30T14:20:43+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/CwJC2JDPWfVACLXvRV7esi-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://9to5mac.com/2026/09/30/apples-new-hardware-october-13-wont-include-one-rumored-product-report/",
@@ -1219,8 +1296,7 @@
     "title": "Pearson’s Workera deal targets a big workplace problem: No time to AI upskill",
     "description": "Pearson has agreed to acquire Workera to help businesses assess employees’ AI skills and target training where it’s needed most.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-30T12:25:48+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/MacBook_44cad6.jpg",
@@ -1243,7 +1319,6 @@
     "description": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was shared online by tech founder and presidential adviser David Sacks, and has been signed by",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-09-30T12:24:32+00:00",
@@ -1321,17 +1396,6 @@
     "source_name": "THENEXTWEB.COM"
   },
   {
-    "link": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
-    "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
-    "description": "BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-30T12:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
     "link": "https://www.theverge.com/tech/1002533/samsung-galaxy-tab-s12-plus-ultra-android-tablets-specs-price",
     "title": "Samsung gives its two-year-old Galaxy Tab S Plus an overhaul",
     "description": "Since the Galaxy Tab S10 line, Samsung has updated its flagship Ultra tablet annually, but alternates its regular and Plus variants. It means that this year's Galaxy Tab S12 series includes an Ultra model with few changes from last year's Tab S11 Ultra, and a Plus variant that brings a bigger overhaul to the two-year-old",
@@ -1366,6 +1430,17 @@
     "pub_date": "2026-09-30T12:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/airbnb-is-adding-a-personalized-map-and-other-discovery-tools/l-intro-1790720198.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
+    "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
+    "description": "BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.",
+    "categories": [
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-30T12:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
   },
   {
     "link": "https://www.engadget.com/2272675/the-samsung-galaxy-smarttag-3-special-feature-is-being-a-pet-activity-monitor/",
@@ -2259,71 +2334,5 @@
     "pub_date": "2026-09-30T07:45:10+00:00",
     "image_url": "https://media.thenextweb.com/2026/07/meta-leaves-re100-clean-energy-gas-ai-data-centres.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/ted-lasso-season-4-mae-death-anthony-head-tribute",
-    "title": "Ted Lasso just sank to a new low",
-    "description": "A surprise character death turns \"Ted Lasso\" into its worst, most emotionally manipulative self.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T07:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02uT2emrjqKDHm8FfgHxjcf/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/article/how-to-return-amazon-packages",
-    "title": "Regretting your purchase? Heres how to return Amazon orders in 2026.",
-    "description": "If you fall victim to Prime Day impulse buys, have a broken item, or order duplicates, here's how to return Amazon items in 2026.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T07:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01v5P9H6VtPKfAy1LQbLy4p/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/mistral-ceo-mensch-ai-safety-debate-negligence-cnbc",
-    "title": "Mistral CEO tells CNBC US AI safety debate covers rivals’ ‘negligence’",
-    "description": "Mistral chief executive Arthur Mensch said the US debate over AI safety has been a cover for the “negligence” of some of his rivals. He made the comments to Annette Weisbach in an interview with CNBC on Tuesday. “The debate that we’ve seen in the U.S. has been a cover for the negligence of some",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-30T06:48:05+00:00",
-    "image_url": "https://media.thenextweb.com/2026/07/Arthur-Mensch.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260930/p8#a260930p8",
-    "title": "Singapore doubles down on chipmaking as the AI boom lifts its economy, but high costs, scarce land and labor, and US trade scrutiny threaten its ambitions (Owen Walker/Financial Times)",
-    "description": "Owen Walker / Financial Times:\nSingapore doubles down on chipmaking as the AI boom lifts its economy, but high costs, scarce land and labor, and US trade scrutiny threaten its ambitions  —  City-state's economy is getting an AI uplift but costs and labour are constraints to its industrial growth",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T06:30:01+00:00",
-    "image_url": "http://www.techmeme.com/260930/i8.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/phones/vivo/the-iqoo-16-raises-the-bar-with-a-165hz-display-and-8-400mah-cell",
-    "title": "The iQOO 16 raises the bar with a 165Hz display and 8,400mAh cell",
-    "description": "Forget the Galaxy S26 Ultra — the iQOO 16 just set the battery bar higher.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T06:28:52+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/zDx3K9aujxKKf64AMLwG3b-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260930/p7#a260930p7",
-    "title": "Alibaba's ModelScope and OSChina's MoArk are vying to become Chinese alternatives to Hugging Face; ModelScope hosts 170K+ open models, while MoArk hosts ~20K (Viola Zhou/Rest of World)",
-    "description": "Viola Zhou / Rest of World:\nAlibaba's ModelScope and OSChina's MoArk are vying to become Chinese alternatives to Hugging Face; ModelScope hosts 170K+ open models, while MoArk hosts ~20K  —  AI model platforms ModelScope and MoArk are competing to serve Chinese-speaking developers behind the Great Firewall.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T06:15:01+00:00",
-    "image_url": "http://www.techmeme.com/260930/i7.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
