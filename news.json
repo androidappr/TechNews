@@ -1,5 +1,56 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "description": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-30T18:23:57+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/nissan-hybrid-pivot-sunderland",
+    "title": "Nissan wants hybrids to lead by 2030. In Britain a hybrid took an electric car’s factory slot",
+    "description": "Nissan has told Automotive News it wants hybrids and extended-range models to be its primary powertrain in North and Latin America by 2030. In Britain the same strategy is already built: a £170M hybrid Kicks is going into the Sunderland slot promised to an electric Qashqai that Nissan stopped developing in early 2025. Nissan wants",
+    "categories": [
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-30T18:22:20+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/nissan-global-headquarters-yokohama.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/america-gov-ai-chatbot-trump-gemini-grok-minecraft",
+    "title": "America.gov, the US government’s AI chatbot, contradicted Trump on day one",
+    "description": "The White House launched America.gov on Tuesday, an AI chatbot meant to be a single front door to federal services. On its first day, it contradicted President Donald Trump. Within hours, some of its answers had changed. Trump signed an executive order at the launch in Washington to set up the site. The General Services",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Cybersecurity & Privacy",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-30T18:19:31+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/america-gov-homepage-ai-answers-official-sources.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/30/early-launch-deals-live-apple-latest-releases/",
+    "title": "Early launch deals live on Apple’s latest: Series 12, Ultra 4, Beats 360, Mac mini, more",
+    "description": "Apple unleashed a collection of next-generation products this month, from the new AirPods 5 and Beats 360 ANC headphones (last day for the launch discount), the Apple Watch Series 12 and Ultra 4, right through to the latest M6-powered Mac mini and Mac Studio. All of which are accompanied by a series of new accessories. \n\n\n\nAmazon is also carrying over a number of launch discounts on some of them courtesy of its early fall Prime Day sale for folks looking to jump in now, and we have collected all of them for you below. \n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T18:17:11+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/New-Apple-gear.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260930/p39#a260930p39",
     "title": "Document: SpaceXAI plans a unified subscription for Grok and X with four tiers, including a $100/month Ultra plan, an $8/month Lite plan, and a free offering (Edward Ludlow/Bloomberg)",
     "description": "Edward Ludlow / Bloomberg:\nDocument: SpaceXAI plans a unified subscription for Grok and X with four tiers, including a $100/month Ultra plan, an $8/month Lite plan, and a free offering  —  SpaceXAI, the artificial intelligence unit of Elon Musk's SpaceX, is considering an overhaul of its subscription pricing options …",
@@ -58,6 +109,39 @@
     "pub_date": "2026-09-30T18:04:51+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/amazon-delivery-driver-smart-glasses-cameras-smiling.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/mobile/peoples-picks-visible-by-verizon/",
+    "title": "Sick of Paying for Slow Unlimited Data? Readers Recommend This Mobile Carrier",
+    "description": "Our People’s Picks awards narrowed down which mobile carrier is worth switching to, and the top pick may surprise you.",
+    "categories": [
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-09-30T18:02:45+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/hand-phone.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/publishers-back-ai-bot-scraping-bill",
+    "title": "Condé Nast, Hearst among 300 publishers pressuring Congress to ban bot scraping",
+    "description": "A cohort of news publishers are backing a recently introduced bill intent on stopping stealth bots scraping their content without paying content licensing fees.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T18:00:58+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/04liBXqvd95k8S0nKP3QAIf/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/tech/opensuse-leap-immutable-mode-security/",
+    "title": "openSUSE Leap adds a new security layer: Immutable mode",
+    "description": "One of the more secure Linux distributions has added another feature to help further lock it down.",
+    "categories": [
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-30T17:58:06+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/opensuseleap.jpg",
+    "source_name": "ZDNET.COM"
   },
   {
     "link": "https://9to5mac.com/2026/09/30/leak-reveals-new-design-details-about-apples-upcoming-smart-display/",
@@ -173,7 +257,7 @@
   {
     "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
     "title": "The ugly economics of consumer AI",
-    "description": "There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough.",
+    "description": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News"
@@ -808,6 +892,7 @@
     "title": "ElevenLabs says existing investors and employees have sold $300M worth of stock in a tender led by Wellington and T Rowe Price and valuing the startup at $22B (Tim Bradshaw/Financial Times)",
     "description": "Tim Bradshaw / Financial Times:\nElevenLabs says existing investors and employees have sold $300M worth of stock in a tender led by Wellington and T Rowe Price and valuing the startup at $22B  —  Existing investors and employees at speech-generation software company sell $300mn worth of stock",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T15:15:00+00:00",
@@ -995,7 +1080,6 @@
     "description": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-09-30T14:30:00+00:00",
@@ -1007,7 +1091,6 @@
     "title": "A Biotech Founder Makes the Moral Case for Gene-Editing Human Embryos",
     "description": "The practice of editing the genes of embryos remains highly controversial and risky, but Origin Genomics founder Cathy Tie argues its a “moral imperative” to address hereditary diseases.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-09-30T14:30:00+00:00",
@@ -1674,7 +1757,6 @@
     "title": "Apple's smart home hub could arrive next month",
     "description": "Apple's smart home hub with a six-inch display may finally be ready to go.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-30T12:27:08+00:00",
@@ -2267,83 +2349,5 @@
     "pub_date": "2026-09-30T09:59:29+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/00D8GPH4FvTMFoYkxyqsmCE/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/banks-need-to-rethink-resilience-for-the-speed-of-an-ai-attack",
-    "title": "Banks need to rethink resilience for the speed of an AI attack",
-    "description": "Banks must rethink resilience as AI makes cyberattacks faster, smarter and harder to contain.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T09:58:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/mfPaYGQmks2VALWFFBnSej-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/life/sept-30-philips-sonicare-diamondclean-toothbrush-deal",
-    "title": "Early Prime Day steal: Philips top-tier DiamondClean 9500 smart toothbrush drops to $149.96",
-    "description": "Get the best electric toothbrush deal at Amazon. Save $130.03 on the Philips Sonicare DiamondClean 9500 at Amazon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T09:53:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00gBKn0byn1IvcUwjwAKVp5/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/trump-super-intelligence-executive-order-signed",
-    "title": "First a gulf, then a lake, now a technology. Trump orders US agencies to call AI ‘super intelligence",
-    "description": "President Donald Trump has now renamed a gulf, a lake, and a technology. On Tuesday, he signed an executive order telling every federal agency to stop saying ‘artificial intelligence’ and to call it ‘super intelligence’, or SI, instead. Also, on his Truth Social account, he posted 2 pages from the document, subtitled “Inaugurating The Era",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-30T09:50:59+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/President-Donald-Trump-addressing-press.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2272978/the-us-governments-new-ai-chatbot-gives-minecrafts-end-poem-a-bureaucratic-twist/",
-    "title": "The US government's new AI chatbot gives Minecraft's end poem a bureaucratic twist",
-    "description": "The new America.gov chatbot will write you a remixed version of Minecraft's end poem, then deny ever doing it.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-30T09:48:35+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/the-us-governments-new-ai-chatbot-gives-minecrafts-end-poem-a-bureaucratic-twist/l-intro-1790761643.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/accessories/smart-home/i-tested-eufy-e50-this-local-security-camera-system-standout-all-in-one-choice",
-    "title": "I tested Eufy's E50, and it has everything you need in a local security camera system",
-    "description": "Eufy's E50 system contains four PoE cameras, an NVR with a 2TB hard drive, and all the accessories you need to set up the cameras around your home.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T09:40:29+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/WrU79cZgReR2U7XQYcKT9R-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260930/p12#a260930p12",
-    "title": "Sources: Meta is aggressively claiming a tax credit for AI data center build-outs by classifying facilities as experimental and writing off Nvidia chip supplies (New York Times)",
-    "description": "New York Times:\nSources: Meta is aggressively claiming a tax credit for AI data center build-outs by classifying facilities as experimental and writing off Nvidia chip supplies  —  Mark Zuckerberg says Meta's A.I. push is a tremendous success.  “Our investments in A.I. are accelerating every major part of our core business,” he has told investors.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T09:40:01+00:00",
-    "image_url": "http://www.techmeme.com/260930/i12.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.wired.com/gallery/the-best-kids-mattresses/",
-    "title": "Best Mattresses for Kids (2026): Saatva, Birch, Helix, and More",
-    "description": "Learn what to look for when buying a kids’ mattress, plus how six top models stack up, according to my 2-year-old.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T09:32:00+00:00",
-    "image_url": "https://media.wired.com/photos/6abc3abdadb8c46babb74b7e/master/pass/The-Best-Kids%E2%80%99-Mattresses,-Put-Through-the-Toddler-Test.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
