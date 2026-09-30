@@ -1,5 +1,124 @@
 [
   {
+    "link": "https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power",
+    "title": "Amazon&#8217;s new Fire TV Stick 4K can pull power directly from your TV",
+    "description": "The new Fire TV Stick 4K will be a little easier to set up than Amazon's previous 4K streaming sticks since it no longer requires a power adapter. You can power the device directly from your TV's USB port, like the updated entry-level Fire TV Stick Amazon launched earlier this year. The Fire TV Stick",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T13:00:16+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/fire-tv-stick-4k_ftv-remote_hero_1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/",
+    "title": "Charter Space raises $5M to bring insurance to the stars",
+    "description": "As Charter explains on its website, a common experience for space companies is that regular insurers \"heard a bunch of scary science words and freaked out.\"",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-30T13:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/",
+    "title": "Tinder adapts to a social, IRL dating future with ‘Group Hangouts’ feature",
+    "description": "As younger users grow increasingly tired of the endless scroll, dating apps are scrambling to adapt to a generation that increasingly wants dating to feel more social and rooted in real-world experiences. The latest example comes from Tinder, which on Wednesday announced the launch of “Group Hangouts,” a new feature that lets groups of friends",
+    "categories": [
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-30T13:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review",
+    "title": "The Sonos Ace Ultra are the headphones Sonos should have made the first time",
+    "description": "The original Sonos Ace headphones should have been a triumphant entry into a new product category. Instead, they were overshadowed by Sonos's disastrous app redesign. And while the original Ace are well built, sound good, and are incredibly comfortable, they weren't good Sonos headphones: Their flagship feature let you reroute audio from a Sonos soundbar",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T13:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268780_Sonos_Ace_Ultra_P_JHiggins_6.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/report/1002172/potato-by-air-wing-drone-delivery",
+    "title": "Potato by air",
+    "description": "The Wing Hummingbird 7000W-B delivery drone weighs less than 15 pounds. It has 16 propellers - four for horizontal movement and 12 for vertical - a top speed of 60 miles per hour, a carrying capacity of up to 2.7 pounds, and a delivery radius of about six miles. It is authorized by the FAA",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-09-30T13:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Potato_drone_v3.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1002545/doordash-text-orders-drones-retail-returns-availability",
+    "title": "You’ll soon be able to order DoorDash by text message",
+    "description": "DoorDash is launching new ways to use the local delivery platform, including text message ordering, drone deliveries, and retail returns. The new message ordering feature builds on capabilities that the Ask DoorDash AI chatbot introduced to the DoorDash app in June, allowing you to get recommendations and offload your browsing while skipping the app entirely.",
+    "categories": [
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-30T13:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DoorDash-text-ordering-retail-returns.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/notorious-spectre-cpu-vulnerability-returns-hitting-jit-engines-via-side-channel-attacks",
+    "title": "Notorious Spectre CPU vulnerability returns hitting JIT engines via side channel attacks",
+    "description": "Branch Target Reuse is the latest application of the dreaded Spectre flaw.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-30T12:55:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/MmSZkX83aFDh9nX7mrMNBK-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/sms-deliverability-carrier-filtering-10dlc-three-habits",
+    "title": "Carrier filtering is blocking legitimate SMS. The operators getting through are doing three things differently",
+    "description": "A business registers its number, writes a plain appointment reminder and sends it. The text never arrives. Nothing bounces back. Somewhere between the sender and the phone, a filter simply drops it. US carriers filter business text messaging for three main reasons: spam volume, complaint rates and messages that do not match the business that",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T12:52:04+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/hand-holding-lilac-smartphone-gold-leaf-ring-blurred-plant.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/260930/p22#a260930p22",
+    "title": "Sources: Google is paying ~100 digital publishers for how much their content contributes to AI Overviews, AI Mode, and Gemini in a pilot; payments vary widely (The Information)",
+    "description": "The Information:\nSources: Google is paying ~100 digital publishers for how much their content contributes to AI Overviews, AI Mode, and Gemini in a pilot; payments vary widely  —  Google has been paying roughly 100 digital publishers for how much their content contributes to AI-powered answers to search and other products …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T12:50:01+00:00",
+    "image_url": "http://www.techmeme.com/260930/i22.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/eu-complaint-data-centre-energy-water-lighthouse",
+    "title": "Complaint accuses EU of hiding data centres’ energy and water use",
+    "description": "Lighthouse Reports, a Dutch non-profit newsroom, lodged a complaint this week, saying the European Commission keeps the public from seeing how much power and water each data center uses. They classified it under the Aarhus Convention, a binding treaty that grants people the right to access environmental information and to participate in environmental decision-making; the",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T12:46:22+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/European-Commission.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260930/p21#a260930p21",
     "title": "Tinder rolls out Group Hangouts in select US markets, letting a user form a group of three to 15 friends around shared activities, as it courts younger users (Samantha Kelly/Bloomberg)",
     "description": "Samantha Kelly / Bloomberg:\nTinder rolls out Group Hangouts in select US markets, letting a user form a group of three to 15 friends around shared activities, as it courts younger users  —  Tinder is launching a new feature called Group Hangouts designed to take the pressure off one-on-one dates, marking its latest effort …",
@@ -23,6 +142,17 @@
     "source_name": "9TO5MAC.COM"
   },
   {
+    "link": "https://www.cnet.com/health/personal-care/might-be-only-hair-straightening-tool-you-need/",
+    "title": "This Might Be the Only Hair Straightening Tool You Need",
+    "description": "It’s super lightweight and delivers more impressive results than you’d expect for its size.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T12:34:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Bluvol-Hair-Tool.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.engadget.com/2273039/apples-smart-home-hub-could-arrive-next-month/",
     "title": "Apple's smart home hub could arrive next month",
     "description": "Apple's smart home hub with a six-inch display may finally be ready to go.",
@@ -33,6 +163,29 @@
     "pub_date": "2026-09-30T12:27:08+00:00",
     "image_url": "https://www.engadget.com/img/gallery/apples-smart-home-hub-could-arrive-next-month/l-intro-1790771105.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/innovation/pearson-workera-acquisition-ai-upskilling/",
+    "title": "Pearson’s Workera deal targets a big workplace problem: No time to AI upskill",
+    "description": "Pearson has agreed to acquire Workera to help businesses assess employees’ AI skills and target training where it’s needed most.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-30T12:25:48+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/MacBook_44cad6.jpg",
+    "source_name": "ZDNET.COM"
+  },
+  {
+    "link": "https://mashable.com/life/sept-30-craftsman-mechanic-toolset-deal",
+    "title": "Last-chance toolkit deal: This Craftsman mechanics tool set is marked down by $70 — but the deal ends today",
+    "description": "Get the best toolkit deal at Amazon. Save $70 on the Craftsman Mechanic Tool Set at Amazon.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T12:25:27+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01duBnBc2Tni6C692kVY0sU/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
@@ -558,6 +711,7 @@
     "title": "Don't upgrade your handset, upgrade what it can do: these new cheap hi-fi Bluetooth dongles unlock hi-res music from your phone, and ping it to your wireless earbuds",
     "description": "Three new hi-res USB-C audio dongles from class-leaders of the game: plug one in and get ready for LDAC and aptX, even from your iPhone",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T10:06:30+00:00",
@@ -719,6 +873,7 @@
     "title": "Soon youll be able to get ready to pre-order the iPhone Duo",
     "description": "On Oct. 12, Apple will let potential iPhone Duo buyers \"get ready\" for the iPhone Duo pre-order, which kicks off four days later.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T09:22:33+00:00",
@@ -742,7 +897,6 @@
     "title": "The 4 best iPads of 2026: Should you buy the 2026 iPad Air with M4 chip?",
     "description": "Air, Pro, mini, or original flavor? After testing all the latest Apple tablets, we picked the top iPads for every use case.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T09:00:43+00:00",
@@ -2116,153 +2270,5 @@
     "pub_date": "2026-09-29T20:31:52+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/image-12-1.png",
     "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260929/p47#a260929p47",
-    "title": "Trump says the AI accord with tech leaders is \"morally binding\" and the administration is considering a 10-person committee to oversee the AI industry (Samantha Subin/CNBC)",
-    "description": "Samantha Subin / CNBC:\nTrump says the AI accord with tech leaders is “morally binding” and the administration is considering a 10-person committee to oversee the AI industry  —  President Donald Trump on Tuesday said he signed a “morally binding” artificial intelligence document with tech leaders following …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-29T20:25:02+00:00",
-    "image_url": "http://www.techmeme.com/260929/i47.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/",
-    "title": "Trump ads paid for by US government allegedly violate anti-propaganda laws",
-    "description": "FCC unlikely to stop Trump ads described as illegal taxpayer-funded propaganda.",
-    "categories": [
-      "Government & Policy"
-    ],
-    "pub_date": "2026-09-29T20:23:40+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/trump-final-battle-ad-1152x648-1790710215.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/29/apple-faces-renewed-scrutiny-over-removal-of-iceblock-from-the-app-store/",
-    "title": "Apple faces renewed scrutiny over removal of ICEBlock from the App Store",
-    "description": "CNN reports that Rep. Jamie Raskin sent a letter to Apple this week challenging the company’s explanation for removing ICEBlock from the App Store last year. Here are the details.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-29T20:18:24+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/Former-veteran-Apple-marketing-exec-challenges-Tim-Cook-on-human-rights-over-ICEBlock.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2272667/apple-updates-final-cut-camera-to-support-the-iphone-18-pro-s-variable-aperture/",
-    "title": "Apple updates Final Cut Camera to support the iPhone 18 Pro's variable aperture",
-    "description": "The company is also rolling out new features across several of its Creator Studio apps.",
-    "categories": [
-      "Gadgets & Hardware",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-29T20:17:31+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/apple-updates-final-cut-camera-to-support-the-iphone-18-pros-variable-aperture/l-intro-1790712982.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2272664/mozilla-deploys-a-new-look-firefox-across-desktop-and-mobile/",
-    "title": "Mozilla deploys a new-look Firefox across desktop and mobile",
-    "description": "The redesigned browser brings back compact mode and adds a theme picker.",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-29T20:16:45+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/mozilla-deploys-a-new-look-firefox-across-desktop-and-mobile/l-intro-1790712152.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-    "title": "OpenAI’s latest features take direct aim at the app store model",
-    "description": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-29T20:15:47+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260929/p46#a260929p46",
-    "title": "After lunch with AI leaders, Trump rejects new federal AI rules, says \"we automatically have regulation\" via DOJ and FBI but \"self-regulation is very important\" (Bloomberg)",
-    "description": "Bloomberg:\nAfter lunch with AI leaders, Trump rejects new federal AI rules, says “we automatically have regulation” via DOJ and FBI but “self-regulation is very important”  —  President Donald Trump shot down the idea of new federal regulations on artificial intelligence …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-29T20:15:07+00:00",
-    "image_url": "http://www.techmeme.com/260929/i46.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
-    "title": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
-    "description": "In accordance with a contract on-ramp clause, NASA has added Blue Origin’s New Glenn 9×4 launch service to the NASA Launch Services (NLS) II contract. The New Glenn 9×4 launch service will be available to NASA’s Launch Services Program Office to use for future missions. The NLS II contracts are multiple-award, indefinite-delivery/indefinite-quantity contracts with an",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-29T20:08:01+00:00",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/09/cropped-nasa-meatball-1.jpg?w=1080",
-    "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://www.techradar.com/pro/could-google-kick-out-russian-apps-from-android-for-good-a-new-developer-verification-system-may-be-the-first-step-towards-a-total-ban-for-moscow-developers-almost-56-months-since-the-start-of-the-ukraine-war",
-    "title": "Could Google kick out Russian apps from Android for good? A new developer verification system may be the first step towards a total ban for Moscow developers, almost 56 months since the start of the Ukraine war",
-    "description": "Russia fears Google’s Android developer verification could make Russian applications harder to install.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-29T20:05:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/2VUBUVWFQFQCnLoz3r6qwC-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/brick-cases-phone-lock-device",
-    "title": "Attention, Brick users: You can now personalize your phone lock with colorful cases",
-    "description": "Brick has launched color cases for its viral screen time phone lock device. They cost $39 each and come in four colors.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-29T20:03:09+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/030vnjN06zuRJr4RV9znted/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/life/wnba-playoffs-game-recap-how-to-watch",
-    "title": "WNBA playoffs: Day 1 recap and what to watch this week",
-    "description": "WNBA playoffs day one recap: A'ja Wilson's big night, the Liberty's upset, and how to watch in Game 2s this week.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-29T20:00:20+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05CebRAUA9XXhcO4FMmDSch/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/services-and-software/florida-judge-stop-openai-training-new-models-incidents/",
-    "title": "Florida Asks Judge to Stop OpenAI From Training New Models After Latest Incidents",
-    "description": "Top AI companies are investigating tens of thousands of cybersecurity incidents involving models escaping from test environments.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-29T19:58:07+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2292827290.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/openai-devday-2026-biggest-announcements",
-    "title": "The biggest announcements from OpenAI DevDay: Dots, GPT-6.1 Sol, Ultrafast",
-    "description": "OpenAI unveiled quite a few new products at DevDay 2026, including GPT-6.1 Sol and a new AI agent system called Dots.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-29T19:58:06+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/0323QdWWAgV3WVM0fpCS7ly/hero-image.png",
-    "source_name": "MASHABLE.COM"
   }
 ]
