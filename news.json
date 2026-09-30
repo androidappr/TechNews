@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+    "title": "The ugly economics of consumer AI",
+    "description": "There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-30T17:24:45+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/oura-ipo-postponed-market-uncertainty",
+    "title": "Oura postpones its $2.2bn IPO, citing market uncertainty",
+    "description": "Oura has postponed its Nasdaq IPO, citing “uncertainty in the IPO market”. The Finnish-founded smart ring maker said so in a statement on Tuesday, a week after it launched the offering. It said it is postponing “despite strong demand”, and gave no new date. Oura had planned to sell 50 million shares at $40 to",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-30T17:23:23+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/oura-ring-5-praying-mantis-green-leaf.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/openai-lawsuit-lasst-hugging-face-hack",
     "title": "OpenAI is sued over the rogue agents that hacked Hugging Face",
     "description": "OpenAI has been sued over the AI agents that hacked Hugging Face in July. The New York non-profit Legal Advocates for Safe Science and Technology (LASST) filed the complaint in San Francisco Superior Court on Tuesday. LASST asks the court to bar OpenAI from accessing computer systems without authorisation. The ban would cover the AI",
@@ -11,6 +35,18 @@
     "pub_date": "2026-09-30T17:13:15+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/sam-altman-navy-suit-lilac-tie-smiling-new-delhi.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/fake-holiday-sales-and-discounts/",
+    "title": "Is That Early Holiday Deal or Fake Discount? Our Shopping Expert Chimes In",
+    "description": "If you plan on shopping during early holiday sales, double-check prices before you buy.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T17:11:37+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/image-22-2.png",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://www.techradar.com/health-fitness/smartwatches/casios-f-b100w-retro-smartwatch-launches-in-the-us-usd65-tracker-lands-with-bluetooth-and-step-tracking-after-selling-out-in-japan",
@@ -108,8 +144,9 @@
   {
     "link": "https://www.techmeme.com/260930/p37#a260930p37",
     "title": "CScale, which is developing optical interconnect for accelerators, emerges from stealth with a $145M Series C led by Atreides, Valor Equity, and Premji Invest (Dean Takahashi/GamesBeat)",
-    "description": "Dean Takahashi / GamesBeat:\nCScale, which is developing optical interconnect for accelerators, emerges from stealth with a $145M Series C led by Atreides, Valor Equity, and Premji Invest  —  Become a member of GB MAX to gain exclusive access to the industry and to the most influential global B2B leadership community …",
+    "description": "Dean Takahashi / GamesBeat:\nCScale, which is developing optical interconnect for accelerators, emerges from stealth with a $145M Series C led by Atreides, Valor Equity, and Premji Invest  —  CScale exited stealth today and announced $145 million in funding to accelerate development and commercialization of optical interconnect for gigawatt-scale AI.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T16:40:01+00:00",
@@ -879,8 +916,8 @@
   },
   {
     "link": "https://www.techmeme.com/260930/p28#a260930p28",
-    "title": "Sources: the US FTC is expanding a sweeping probe of Anthropic, OpenAI, and other frontier AI labs, and plans to issue formal demands to turn over information (New York Post)",
-    "description": "New York Post:\nSources: the US FTC is expanding a sweeping probe of Anthropic, OpenAI, and other frontier AI labs, and plans to issue formal demands to turn over information  —  WASHINGTON — The Federal Trade Commission is ramping up a sweeping probe of Anthropic, OpenAI and other frontier labs to uncover …",
+    "title": "Sources: the US FTC has opened a probe of Anthropic, OpenAI, and other frontier AI labs over potential consumer harms, and plans to compel executives to testify (New York Post)",
+    "description": "New York Post:\nSources: the US FTC has opened a probe of Anthropic, OpenAI, and other frontier AI labs over potential consumer harms, and plans to compel executives to testify  —  WASHINGTON — The Federal Trade Commission is ramping up a sweeping probe of Anthropic, OpenAI and other frontier labs to uncover …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -1085,7 +1122,6 @@
     "title": "Amazon says Fire TV now offers integrated live content from 40+ apps, like YouTube TV and DirecTV, and plans a Music app with podcasts and concerts in the fall (Mariella Moon/Engadget)",
     "description": "Mariella Moon / Engadget:\nAmazon says Fire TV now offers integrated live content from 40+ apps, like YouTube TV and DirecTV, and plans a Music app with podcasts and concerts in the fall  —  Alexa+ will be able to process more complex questions.  —  Starting in November, Fire TV users in the US will get access …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T13:20:03+00:00",
@@ -1196,18 +1232,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/",
-    "title": "Tinder adapts to a social, IRL dating future with ‘Group Hangouts’ feature",
-    "description": "Tinder has been pushing users toward more real-world experiences for some time.",
-    "categories": [
-      "Breaking News",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-30T13:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
     "link": "https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review",
     "title": "The Sonos Ace Ultra are the headphones Sonos should have made the first time",
     "description": "The original Sonos Ace headphones should have been a triumphant entry into a new product category. Instead, they were overshadowed by Sonos's disastrous app redesign. And while the original Ace are well built, sound good, and are incredibly comfortable, they weren't good Sonos headphones: Their flagship feature let you reroute audio from a Sonos soundbar",
@@ -1227,18 +1251,6 @@
     ],
     "pub_date": "2026-09-30T13:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Potato_drone_v3.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1002545/doordash-text-orders-drones-retail-returns-availability",
-    "title": "You can text DoorDash&#8217;s AI bot to &#8216;order my usual&#8217; and it will figure the rest out",
-    "description": "DoorDash is launching new ways to use the local delivery platform, including text message ordering, drone deliveries, and retail returns. The new message ordering feature builds on capabilities that the Ask DoorDash AI chatbot introduced to the DoorDash app in June, allowing you to get recommendations and offload your browsing while skipping the app entirely.",
-    "categories": [
-      "Breaking News",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-30T13:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DoorDash-text-ordering-retail-returns.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
   },
   {
@@ -1333,6 +1345,30 @@
     "pub_date": "2026-09-30T13:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/06DmXQAMGCYiw7SioXfrEer/hero-image.png",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/",
+    "title": "Tinder adapts to a social, IRL dating future with ‘Group Hangouts’ feature",
+    "description": "Tinder has been pushing users toward more real-world experiences for some time.",
+    "categories": [
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-30T13:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1002545/doordash-text-orders-drones-retail-returns-availability",
+    "title": "You can text DoorDash&#8217;s AI bot to &#8216;order my usual&#8217; and it will figure the rest out",
+    "description": "DoorDash is launching new ways to use the local delivery platform, including text message ordering, drone deliveries, and retail returns. The new message ordering feature builds on capabilities that the Ask DoorDash AI chatbot introduced to the DoorDash app in June, allowing you to get recommendations and offload your browsing while skipping the app entirely.",
+    "categories": [
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-30T13:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DoorDash-text-ordering-retail-returns.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://mashable.com/life/ninja-prepi-meal-prep-system",
@@ -1554,6 +1590,18 @@
     "source_name": "THENEXTWEB.COM"
   },
   {
+    "link": "https://www.engadget.com/2272526/samsung-galaxy-tab-s12-ultra-review/",
+    "title": "Samsung Galaxy Tab S12 Ultra review: The apex Android tablet",
+    "description": "Starting at $1,400, the Samsung Galaxy Tab S12 Ultra is super expensive. But that's the price you'll have to pay for the best Android tablet.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T12:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/samsung-galaxy-s12-ultra-review-the-apex-android-tablet/l-intro-1790708907.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1002533/samsung-galaxy-tab-s12-plus-ultra-android-tablets-specs-price",
     "title": "Samsung gives its two-year-old Galaxy Tab S Plus an overhaul",
     "description": "Since the Galaxy Tab S10 line, Samsung has updated its flagship Ultra tablet annually, but alternates its regular and Plus variants. It means that this year's Galaxy Tab S12 series includes an Ultra model with few changes from last year's Tab S11 Ultra, and a Plus variant that brings a bigger overhaul to the two-year-old",
@@ -1565,18 +1613,6 @@
     "pub_date": "2026-09-30T12:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/samsung-galaxy-tab-s12-plus-ultra-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2272526/samsung-galaxy-tab-s12-ultra-review/",
-    "title": "Samsung Galaxy Tab S12 Ultra review: The apex Android tablet",
-    "description": "Starting at $1,400, the Samsung Galaxy Tab S12 Ultra is super expensive. But that's the price you'll have to pay for the best Android tablet.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T12:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/samsung-galaxy-s12-ultra-review-the-apex-android-tablet/l-intro-1790708907.jpg",
-    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.engadget.com/2272794/airbnb-is-adding-a-personalized-map-and-other-discovery-tools/",
@@ -2298,39 +2334,5 @@
     "pub_date": "2026-09-30T09:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/067zluMRxreCdelIMFhNNef/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/sept-30-koofr-cloud-storage-plans-lifetime-subscription-1tb",
-    "title": "Get 1TB of cloud storage for life with one $200 payment",
-    "description": "Get a Koofr 1TB lifetime cloud storage subscription for $199.99, with secure file storage, cloud account connections, and no recurring fees.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T09:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/0361bM75X6AsPw03cBzgfSV/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/life/alberta-tech-creator-interview-youtube",
-    "title": "Alberta Tech went from YouTube engineer to YouTube creator. Heres how she did it.",
-    "description": "Former Google engineer Alberta Tech on becoming a full-time creator, why comedy makes tech easier to understand, and what to figure out before you quit your day job.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T09:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07lFQdfIeukvYPirGus8sSZ/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/from-cloud-adoption-to-cloud-maturity-the-new-imperative-for-enterprise-ai",
-    "title": "From cloud adoption to cloud maturity: The new imperative for enterprise AI",
-    "description": "Cloud adoption isn’t enough. AI success depends on modernization, governance, security and cloud maturity.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T08:43:45+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/pSreeHEMSHqVQg2TgPqbUL-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
