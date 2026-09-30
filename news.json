@@ -1,5 +1,38 @@
 [
   {
+    "link": "https://thenextweb.com/news/doordash-air-drones-manna-ireland",
+    "title": "DoorDash Air unveils a drone delivery system, and cannot yet fly it out of sight",
+    "description": "DoorDash has unveiled the aircraft behind DoorDash Air and will begin pilot deliveries in Northern California with Chipotle and Popeyes. Manna, which flew more than 300,000 deliveries from Dublin and Cork, paused Irish operations in June for want of a national policy and is building a factory in Oklahoma. DoorDash has unveiled the aircraft behind",
+    "categories": [
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-30T19:12:07+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/doordash-air-delivery-drone.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business/",
+    "title": "Furry Airline Pilots Are Just Minding Their Own Business",
+    "description": "“We’re furries at home, and we’re airline pilots at work, and these are two separate things,” says one member of the community in response to senator Tommy Tuberville's recent rant.",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-09-30T19:09:57+00:00",
+    "image_url": "https://media.wired.com/photos/6abbb04db96cb58163524730/master/pass/092926-Pilots%20are%20furries.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/30/ios-27-2-adds-new-messages-feature-thats-already-a-favorite/",
+    "title": "iOS 27.2 adds new Messages feature that’s already a favorite",
+    "description": "iOS 27.2 is coming soon with several new features for iPhone users, including a Messages addition that was previously in the iOS 27 beta but later got pulled: Suggestions.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T19:06:56+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
     "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
     "description": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
@@ -10,6 +43,34 @@
     "pub_date": "2026-09-30T19:00:57+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/spacexai-grok-x-subscription-tiers-ultra-lite",
+    "title": "SpaceXAI weighs one Grok and X plan, from free to $100, Bloomberg reports",
+    "description": "SpaceXAI is weighing a plan to fold Grok and X into a single subscription with four price tiers, from free to $100 a month. The plan comes from a company document viewed by Bloomberg, whose Edward Ludlow reported it on Wednesday. SpaceXAI is the artificial intelligence unit of Elon Musk’s SpaceX. It makes the Grok",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Social & Media",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-09-30T19:00:32+00:00",
+    "image_url": "https://media.thenextweb.com/2026/05/Grok-2.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
+    "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
+    "description": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-09-30T19:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6abc561adcf8a088a1995737/master/pass/science_biological_weapons_ai.jpg",
+    "source_name": "WIRED.COM"
   },
   {
     "link": "https://www.techradar.com/pro/the-5-star-ugreen-dxp4800-gt-nas-with-dual-10gbe-is-a-high-speed-studio-upgrade-with-a-usd100-price-cut-at-amazon",
@@ -190,6 +251,7 @@
     "title": "Document: SpaceXAI plans a unified subscription for Grok and X with four tiers, including a $100/month Ultra plan, an $8/month Lite plan, and a free offering (Edward Ludlow/Bloomberg)",
     "description": "Edward Ludlow / Bloomberg:\nDocument: SpaceXAI plans a unified subscription for Grok and X with four tiers, including a $100/month Ultra plan, an $8/month Lite plan, and a free offering  —  SpaceXAI, the artificial intelligence unit of Elon Musk's SpaceX, is considering an overhaul of its subscription pricing options …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T18:10:01+00:00",
@@ -1120,7 +1182,6 @@
     "title": "Discord gives more advertisers more tools to target its users",
     "description": "Discord is \"opening the platform to advertisers, regardless of their budget.\"",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-09-30T15:01:40+00:00",
@@ -2296,64 +2357,5 @@
     "pub_date": "2026-09-30T11:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6abc319d33f7a1f1af2fadf2/master/pass/The-Best-Gaming-Routers.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/where-to-draw-the-line-on-ai-lessons-from-digital-forensics",
-    "title": "Where to draw the line on AI: Lessons from digital forensics",
-    "description": "What digital forensics teaches us about where to draw the line on AI.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T10:58:04+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-early-october-prime-day-gaming-deals-2026",
-    "title": "The best early October Prime Day gaming deals: PS5, Nintendo Switch, and Xbox deals worth grabbing now",
-    "description": "Save on Starfield, Nintendo Switch, HyperX headsets, monitors, and more in Amazon’s latest early October Prime Day gaming deals.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T10:57:23+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05Vvg3qy8jck5gjWZCGTKvY/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260930/p17#a260930p17",
-    "title": "Documents: 20+ studies since 2025 show Chinese-powered AI agents displaying deceptive behavior, unprompted replication, and barrier circumvention in testing (Reuters)",
-    "description": "Reuters:\nDocuments: 20+ studies since 2025 show Chinese-powered AI agents displaying deceptive behavior, unprompted replication, and barrier circumvention in testing  —  Chinese-powered AI agents have learnt to deceive, circumvent restrictions and conceal failure, showing the kind of traits …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T10:55:01+00:00",
-    "image_url": "http://www.techmeme.com/260930/i17.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/30/apples-homepad-smart-home-hub-launching-on-oct-13-bloomberg/",
-    "title": "Apple’s HomePad smart home hub launching on Oct 13 with iMac G4 design – Bloomberg",
-    "description": "Apple’s long-awaited smart home hub, which we’ve been referring to as the HomePad, is set to launch on October 13, according to Bloomberg.\n\n\n\nThe device is said to feature a 6-inch display and a design inspired by the iMac G4, and will launch alongside a HomePod mini update with new colors and a new Apple TV 4K with Siri AI support …\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T10:52:30+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apples-HomePad-smart-home-hub-reportedly-launching-on-Oct-13.webp?w=1500",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/windows/uh-oh-windows-11-26h2-is-here-and-microsoft-says-its-a-predictable-and-low-disruption-update-but-a-lot-of-people-are-preparing-for-the-worst",
-    "title": "Windows 11's 26H2 update could trigger the rollout of delayed features",
-    "description": "If you've been annoyed that you still haven't got a Windows 11 feature that was rolled out earlier this year, you might be in luck.",
-    "categories": [
-      "Breaking News",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-09-30T10:52:11+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/7EpEu8Xo2XadaegiM5zG6U-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
