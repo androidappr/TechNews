@@ -1,5 +1,86 @@
 [
   {
+    "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+    "description": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-30T19:00:57+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/the-5-star-ugreen-dxp4800-gt-nas-with-dual-10gbe-is-a-high-speed-studio-upgrade-with-a-usd100-price-cut-at-amazon",
+    "title": "Creators can save $100 on the powerful Ugreen DXP4800 GT NAS",
+    "description": "In our tests, the Ugreen DXP4800 GT NAS delivered \"ultra fast transfer speeds that far surpasses the competition\", with dual 10GbE networking — and $100 off.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T18:56:43+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/hzZf43XQj5mAKgj8U97AmR-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/09/30/apple-invites-for-iphone-updated-with-three-new-features/",
+    "title": "Apple Invites for iPhone updated with three new features",
+    "description": "Apple is rolling out a new version of its Apple Invites app for iPhone today. The update taps into new iOS 27 features, including improved photo sharing and Image Playground capabilities. \n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T18:51:47+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-invites.webp?w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/boeing-f-a-xx-navy-sixth-generation-fighter-contract",
+    "title": "Boeing beats Northrop to build the US Navy’s $20bn F/A-XX fighter",
+    "description": "Boeing will build the US Navy’s next carrier-based fighter, the F/A-XX, after beating Northrop Grumman for the contract. The Pentagon announced the award on Tuesday. The development contract is worth 0bn to produce test aircraft, Reuters reported. CNBC and Axios put it at more than 0bn. The programme could grow to hundreds of billions of",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-09-30T18:51:09+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/navy-f-a-xx-artist-rendering-carrier-deck-flight-director.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/moscow-tightens-regulation-on-sim-market-to-crack-down-on-fraud-and-attackers-anti-fraud-3-0-could-see-sims-sold-without-money-and-a-massive-reduction-in-sim-card-sellers",
+    "title": "Moscow tightens regulation on SIM market to crack down on fraud and 'attackers' — Anti-Fraud 3.0 could see SIMs sold without money and a massive reduction in SIM card sellers",
+    "description": "Russia’s Anti-Fraud 3.0 proposals could reduce SIM sellers, require zero-balance cards, and create stronger payment trails for fraud investigations nationwide.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-09-30T18:50:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/VDfo6sZUHvR7YdaC2NQKmW-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/gaming/gotta-go-fast-and-hunt-demons-this-october-in-these-free-playstation-plus-games/",
+    "title": "Gotta Go Fast and Hunt Demons This October in These Free PlayStation Plus Games",
+    "description": "Conquering monsters in Hunt: Showdown 1896 is a fitting way to celebrate the Halloween season.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-30T18:40:51+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/d9cf749a1a4850fd0969ccb3a83cb907c56f640a.webp",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/",
+    "title": "NASA, International Partners Advance Work on Space Crops",
+    "description": "NASA, CSA (Canadian Space Agency), and the German Aerospace Center signed a joint statement of intent to begin coordinated, preparatory work toward an Earth-based demonstrator to learn how to grow crops on the Moon.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T18:38:20+00:00",
+    "image_url": "https://images-assets.nasa.gov/image/KSC-20230417-PH-ILW01_0128/KSC-20230417-PH-ILW01_0128~large.jpg?w=1322&h=1920&fit=clip&crop=faces%2Cfocalpoint",
+    "source_name": "SCIENCE.NASA.GOV"
+  },
+  {
     "link": "https://thenextweb.com/news/reddit-rss-feeds-shut-down-old-reddit-ai-scraping",
     "title": "Reddit is killing RSS feeds on 13 November, blaming AI scraping",
     "description": "Reddit will stop supporting RSS feeds on 13 November, blaming AI scraping. RSS is now widely used for large-scale scraping and automated abuse, the company said in a post to moderators on Wednesday. RSS lets people follow a site’s new posts in a feed reader. Moderators who use it for alerts can move to a",
@@ -1051,7 +1132,6 @@
     "title": "What butterfly wings have in common with barbershop poles",
     "description": "Wing patterns, flight dynamics create \"motion dazzle\" effect, make it harder to gauge speed, direction.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-09-30T15:00:56+00:00",
@@ -1085,8 +1165,7 @@
     "title": "Google reportedly tests paying publishers for AI search results",
     "description": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes around 100 publishers and comes as Google faces scrutiny over the impact of its AI features on web traffic. Digiday first reported on the pilot program,",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-30T14:51:49+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0,0,100,100",
@@ -1109,7 +1188,6 @@
     "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
     "description": "On Tuesday, President Donald Trump and top AI leaders announced a signed pledge called a “Joint Commitment on Frontier Responsibilities” — a voluntary promise to implement more controls and safety measures as the rapid development of artificial intelligence continues. But there seems to be a catch.",
     "categories": [
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-09-30T14:50:55+00:00",
@@ -1650,7 +1728,6 @@
     "title": "Amazon's new Fire TV interface and mobile app will come with Alexa+ upgrades",
     "description": "The Amazon Fire TV interface and mobile app will get a dedicated hub for a more powerful Alexa+ this November.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T13:00:00+00:00",
@@ -1673,7 +1750,6 @@
     "title": "Amazon simplifies its Fire TV streaming device lineup",
     "description": "The days of picking between Select, Plus and Max are over.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T13:00:00+00:00",
@@ -1685,7 +1761,6 @@
     "title": "Amazon unveils a thinner and faster Fire TV Stick 4K, plus a new remote",
     "description": "It will cost just $30 during the Prime Day deals event next week, and retail for $60 otherwise.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T13:00:00+00:00",
@@ -1697,7 +1772,6 @@
     "title": "Amazon just refreshed its Fire TV Stick 4K — here's what's new",
     "description": "Amazon's most popular streaming stick just got faster, and it's already 50% off.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T13:00:00+00:00",
@@ -1720,7 +1794,6 @@
     "title": "Amazon Fire TV Stick 4K Simplifies Streaming Options, and I Went Hands-On",
     "description": "The 2026 streamer from Amazon features a new remote and support for HDR10 and Samsung’s HDR10 Plus.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T13:00:00+00:00",
@@ -1835,7 +1908,6 @@
     "title": "Samsung reveals next-gen Galaxy Tab tablets and Smart Tag",
     "description": "Samsung's Galaxy Tab S12 tablets and Smart Tag 3 trackers are officially official.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T12:52:03+00:00",
@@ -2283,85 +2355,5 @@
     "pub_date": "2026-09-30T10:52:11+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/7EpEu8Xo2XadaegiM5zG6U-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/keyboards/logitech-g316-x-98-review",
-    "title": "Logitech G316 X 98 review: a super-thocky keyboard with a useless screen",
-    "description": "Logitech’s new gaming keyboard promises a premium design and a satisfying mechanical feel — but how does it fare in a very competitive space?",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T10:47:14+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/VYAKHagKTB7HdpR6JWxp2G-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/30/small-number-of-iphone-18-pro-users-report-speaker-pops-or-clicks/",
-    "title": "Small number of iPhone 18 Pro users report speaker ‘pops’ or ‘clicks’",
-    "description": "A small number of iPhone 18 Pro users are reporting an issue where the speaker sometimes “pops” or “clicks,” describing it as a faint sound when doing things like switching apps … \n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T10:46:18+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Small-number-of-iPhone-18-Pro-users-report-speaker-pops-or-clicks.jpg?quality=82&strip=all&w=1500",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260930/p16#a260930p16",
-    "title": "Pioneering Silicon Valley VC Bill Draper died on September 8 at age 98; he began investing in the 1960s, with successful bets like Activision, Skype, and Qume (Alex Williams/New York Times)",
-    "description": "Alex Williams / New York Times:\nPioneering Silicon Valley VC Bill Draper died on September 8 at age 98; he began investing in the 1960s, with successful bets like Activision, Skype, and Qume  —  Bill Draper began funding start-ups in the early 1960s, when the Santa Clara Valley was better known for apricot orchards than microchips.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T10:45:04+00:00",
-    "image_url": "http://www.techmeme.com/260930/i16.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/gaming-laptops/razer-blade-16-2026",
-    "title": "Cost effective? No, but the Razer Blade 16 (2026) might just be the best gaming laptop I've ever tested",
-    "description": "Razer Blade 16 (2026) review: Ultimate spec, ultimate price tag, ultimate performance.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T10:40:09+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/SE5CgWLTnQFfoHTvgKwLqj-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/life/sept-30-shark-wandvac-hand-vacuum-deal",
-    "title": "Sharks WandVac hand vacuum is on sale for less than $80 at Amazon — save $50 before Prime Day",
-    "description": "As of Sept. 30, the rose gold Shark WandVac is on sale for $79.98 at Amazon, 38% off its list price of $129.99.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T10:38:22+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01eysIW9m9yVtymb6TXxhCr/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/wearables/fitbit/fitbit-air-finally-lands-in-india-but-you-wont-like-the-pricing",
-    "title": "Fitbit Air finally lands in India, but you won't like the pricing",
-    "description": "The Fitbit Air just launched in India, but Google is charging ₹13,999 ($146) for the fitness tracker, a $46 increase over what it costs in North America.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T10:38:16+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/7DEmScRwgiLvLJwMCTfHDD-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/260930/p15#a260930p15",
-    "title": "Sources: Apple is set to launch its smart home expansion on October 13, including a hub with a 6\" screen and an iMac G4-like design and a HomePod mini refresh (Mark Gurman/Bloomberg)",
-    "description": "Mark Gurman / Bloomberg:\nSources: Apple is set to launch its smart home expansion on October 13, including a hub with a 6\" screen and an iMac G4-like design and a HomePod mini refresh  —  Apple Inc. plans to make its long-delayed push into the smart-home market on Oct. 13, marking a critical product expansion …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T10:34:20+00:00",
-    "image_url": "http://www.techmeme.com/260930/i15.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
