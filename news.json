@@ -1,15 +1,50 @@
 [
   {
+    "link": "https://www.androidcentral.com/apps-software/ai/google-outlines-timeline-to-phase-out-gemini-gems-in-favor-of-skills",
+    "title": "Google outlines timeline to phase out Gemini Gems in favor of Skills",
+    "description": "Google is officially sunsetting Gemini Gems and replacing them with a more versatile tool called Skills.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-09-30T21:51:54+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/YbEALjJaoaob9xBzSm3yzb-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/apple-ios-27-2-arrives-soon-new-features",
+    "title": "Apple iOS 27.2 arrives soon: 6 new features on the way",
+    "description": "Here's a look at the 6 best new features coming to iPhone with the release of iOS 27.2.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T21:41:11+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/03JEEdKQ9oxRGT5CkJJCBLe/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.cnet.com/home/smart-home/apple-smarter-home-hub-report/",
     "title": "Apple Is Reportedly Ready to Release Its Smarter Home Hub in 2 Weeks",
     "description": "Return of the iMac G4 design? The hub could feature a round base and positioning arm supporting the screen, like the company’s short-lived but friendlier iMac design.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T21:26:36+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/apple-home-hub-imac-g4-homepod.png",
     "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/",
+    "title": "Help Overlap Zoo Reveal Cosmic Dust",
+    "description": "Galaxies, vast collections of billions of stars, gas, and dust held together by gravity, are scattered across the immensity of space. But every so often, a coincidence occurs: Two galaxies line up from our point of view on Earth (or from a space telescope) and appear to overlap in the sky. These rare overlapping galaxies",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-09-30T21:19:33+00:00",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/STScI-01GE08RNPH8RBMMGMC52JD3R93-Trevor_Butrum.jpg?w=1858&h=1836&fit=clip&crop=faces%2Cfocalpoint",
+    "source_name": "SCIENCE.NASA.GOV"
   },
   {
     "link": "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
@@ -923,7 +958,6 @@
     "title": "Leak reveals new design details about Apple’s upcoming smart display",
     "description": "Apple is less than two weeks away from launching its new smart display, according to a new Bloomberg report. The report also adds details about the design of Apple’s long-awaited smart home hub.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T17:56:06+00:00",
@@ -947,7 +981,6 @@
     "title": "Star Trails",
     "description": "This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea on Sept. 20, 2026. Image credit: NASA/Anil Menon",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T17:50:50+00:00",
@@ -970,7 +1003,6 @@
     "title": "Apple Music 7.0 beta brings Liquid Glass redesign to Android",
     "description": "Apple Music for Android is getting a big Liquid Glass-inspired redesign with the latest 7.0 beta.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T17:47:57+00:00",
@@ -1310,7 +1342,6 @@
     "title": "Google DeepMind introduces SynthID Bio, a family of watermarking methods for AI-designed proteins to help with biosecurity and scientific integrity (John Timmer/Ars Technica)",
     "description": "John Timmer / Ars Technica:\nGoogle DeepMind introduces SynthID Bio, a family of watermarking methods for AI-designed proteins to help with biosecurity and scientific integrity  —  AI-based tools seem to be causing security threats on a nearly daily basis, in part because we've been slow to recognize potential threats.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T16:20:03+00:00",
@@ -1322,6 +1353,7 @@
     "title": "Apple Watch Series 12, Ultra 4 adding two new features soon",
     "description": "Apple Watch Series 12 and Apple Watch Ultra 4 have arrived, and later this year they’ll get even more powerful with two new features: Siri Recap and Live Rewind. Here are the details.\n\n\n\n more…",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T16:13:02+00:00",
@@ -1390,7 +1422,6 @@
     "title": "Alex Stamos is joining Cognition as its new chief security officer; he most recently oversaw security at AI security startup Corridor and SentinelOne (Sam Sabin/Axios)",
     "description": "Sam Sabin / Axios:\nAlex Stamos is joining Cognition as its new chief security officer; he most recently oversaw security at AI security startup Corridor and SentinelOne  —  Alex Stamos has joined Cognition as the AI coding unicorn's new chief security officer. … The hire suggests security has become a major focus for the fast-growing company.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T16:00:56+00:00",
@@ -1403,7 +1434,6 @@
     "description": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Software & Apps"
     ],
     "pub_date": "2026-09-30T16:00:24+00:00",
@@ -1427,7 +1457,6 @@
     "title": "The Halide camera app now offers full control of the iPhone 18 Pro’s aperture",
     "description": "A new update to Lux Optics' anti-algorithm Halide camera app for the iPhone and iPad adds two new photography looks and support for the variable aperture on the new iPhone 18 Pro's main camera. Halide isn't the first alternative to the native iOS camera app to add support for the new feature, but it offers",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware",
       "Software & Apps"
     ],
@@ -1451,7 +1480,6 @@
     "title": "Halide 3.2 pro camera arrives with iPhone 18 Pro aperture feature and two new looks",
     "description": "In May, Lux Optics launched the all-new Halide Mark III pro camera app for iPhone. Today, Halide is back with its first update for iPhone 18 Pro, plus new features for all iPhone photographers.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T16:00:00+00:00",
@@ -1496,7 +1524,6 @@
     "title": "Apple is reportedly preparing a big smart home launch: New smart display, HomePod on the way",
     "description": "Apple is reportedly gearing up for a big push into the smart home space, with a new HomePod and smart display coming in October.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T15:55:06+00:00",
@@ -1509,7 +1536,6 @@
     "description": "Intended to help with biosecurity, it works with a popular AI protein design tool.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-09-30T15:54:52+00:00",
@@ -2330,39 +2356,5 @@
     "pub_date": "2026-09-30T13:00:41+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/ionna-logo.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power",
-    "title": "Amazon&#8217;s new Fire TV Stick 4K can pull power directly from your TV",
-    "description": "The new Fire TV Stick 4K will be a little easier to set up than Amazon's previous 4K streaming sticks since it no longer requires a power adapter. You can power the device directly from your TV's USB port, like the updated entry-level Fire TV Stick Amazon launched earlier this year. The Fire TV Stick",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T13:00:16+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/fire-tv-stick-4k_ftv-remote_hero_1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2273042/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/",
-    "title": "Amazon's new Fire TV interface and mobile app will come with Alexa+ upgrades",
-    "description": "The Amazon Fire TV interface and mobile app will get a dedicated hub for a more powerful Alexa+ this November.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/l-intro-1790771374.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2268112/shures-mv6-gen-2-microphone-gives-creators-more-control-over-their-audio/",
-    "title": "Shure's MV6 Gen 2 microphone gives creators more control over their audio",
-    "description": "The USB microphone comes in a new color, has updated audio controls and can even work with an iPhone or iPad.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/shures-mv6-gen-2-microphone-gives-creators-more-control-over-their-audio/l-intro-1790275354.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
