@@ -11,6 +11,18 @@
     "source_name": "TECHRADAR.COM"
   },
   {
+    "link": "https://www.cnet.com/tech/amazon-delivery-driver-ai-smart-glasses-privacy/",
+    "title": "Amazon Delivery Driver Smart Glasses Will Snap Pictures of… Everything?",
+    "description": "As Amazon continues its rollout of AI smart glasses, privacy concerns are growing.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-01T00:50:16+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/amazon-driver-ai-smart-glasses.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260930/p53#a260930p53",
     "title": "Artificial Analysis says Gemini 4 Argon (high) matches GPT-6 Astra (max) on its Intelligence Index and has a 15% hallucination rate, compared with 51% for Astra (Artificial Analysis)",
     "description": "Artificial Analysis:\nArtificial Analysis says Gemini 4 Argon (high) matches GPT-6 Astra (max) on its Intelligence Index and has a 15% hallucination rate, compared with 51% for Astra  —  Google's new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted prices",
@@ -430,7 +442,6 @@
     "title": "NASA Adds New Science Investigations for Moon Base",
     "description": "Editor’s note: This release was updated on Sept. 30, 2026, to correct the name of the DISCO payload. NASA selected three new scientific investigations and their payload suites to advance our knowledge of the Moon and help pave the way for building humanity’s first lunar outpost, Moon Base. The suite of science instruments and technologies",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T21:11:23+00:00",
@@ -442,7 +453,6 @@
     "title": "European Space Agency signs up CGI and OVHcloud to build storage for the 500PB of Earth observation data it expects to have by 2035",
     "description": "Digital EO will be capable of storing 500 petabytes of satellite data for scientists and researchers across Europe.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T21:10:00+00:00",
@@ -455,7 +465,6 @@
     "description": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-09-30T21:07:40+00:00",
@@ -478,7 +487,6 @@
     "title": "A local network of implants uses your body as the wiring",
     "description": "It's possible to send electrical signals right through human tissues.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-09-30T21:06:56+00:00",
@@ -2294,16 +2302,5 @@
     "pub_date": "2026-09-30T14:30:00+00:00",
     "image_url": "https://media.wired.com/photos/6abbe05edfaa177dfd594822/master/pass/092926-Human%20Embryo%20Gene%20Editing.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2273111/meta-introduces-a-new-ai-assistant-for-its-instagram-creators/",
-    "title": "Meta introduces a new AI assistant for its Instagram creators",
-    "description": "The Edits assistant offers personalized guidance based on your audience and best-performing content.",
-    "categories": [
-      "Social & Media"
-    ],
-    "pub_date": "2026-09-30T14:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/meta-introduces-a-new-ai-assistant-for-its-instagram-creators/l-intro-1790775050.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
