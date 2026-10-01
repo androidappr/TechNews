@@ -1,5 +1,64 @@
 [
   {
+    "link": "https://www.techmeme.com/261001/p18#a261001p18",
+    "title": "Micron filed a US lawsuit accusing Chinese memory maker YMTC of systematically poaching key engineers and then using the engineers' patents to sue Micron (Anton Shilov/Tom's Hardware)",
+    "description": "Anton Shilov / Tom's Hardware:\nMicron filed a US lawsuit accusing Chinese memory maker YMTC of systematically poaching key engineers and then using the engineers' patents to sue Micron  —  Some of YMTC's patents can actually belong to Micron, the company alleges. … Micron this month filed a lawsuit …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-01T12:00:48+00:00",
+    "image_url": "http://www.techmeme.com/261001/i18.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "description": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-01T12:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techradar.com/cameras/compact-cameras/om-system-pen-vs-panasonic-lumix-l10-i-compared-these-two-classy-micro-four-thirds-cameras-and-i-was-surprised-by-which-model-became-my-favorite",
+    "title": "I compared the OM System PEN and Lumix L10 — which classy Micro Four Thirds model wins?",
+    "description": "The new OM System PEN bears a striking resemblance to the Lumix L1- premium compact camera, so which rangefinder-style Micro Four Thirds camera is the better of the two?",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-01T11:46:15+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/x5ghwpRY6R2pEjjLKRsi2D-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/home/energy-saving/octopus-energy-says-its-plug-in-solar-kits-have-sold-out-again-but-more-are-on-the-way-to-save-you-up-to-gbp150-a-year-on-bills",
+    "title": "Octopus Energy's plug-in solar kits sell out but more are 'on the way'",
+    "description": "Octopus Energy says its plug-in solar kits have sold out again for the second time in under a month, as buyers seek refuge from another energy crisis.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-01T11:45:03+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/hhcJBUkHo2twgLUh6cpYoL-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/jay-clayton-ai-czar-trump-axios-cnbc",
+    "title": "Trump tells Axios that Jay Clayton would make a good AI czar",
+    "description": "President Donald Trump has said that Director of National Intelligence Jay Clayton would make a good AI czar, Axios reported on Tuesday. Trump has said he wants to name a czar within three or four days. Maria Curi of Axios asked Trump who he wanted for the role. He said he had someone in mind.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-01T11:40:59+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/jay-clayton-official-portrait-odni-seal-us-flag.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261001/p17#a261001p17",
     "title": "Armadin, started by Mandiant founder Kevin Mandia to build AI cybersecurity agents, raised a $255.5M Series B led by a16z and Accel at a $2.5B valuation (Anzar Mehraj/Reuters)",
     "description": "Anzar Mehraj / Reuters:\nArmadin, started by Mandiant founder Kevin Mandia to build AI cybersecurity agents, raised a $255.5M Series B led by a16z and Accel at a $2.5B valuation  —  Armadin said on Thursday that it raised $255.5 million in a Series B funding round, which values the AI cybersecurity company at more than $2.5 billion.",
@@ -489,7 +548,7 @@
   },
   {
     "link": "https://www.theverge.com/news/1003195/lemmos-fancy-e-bike-is-one-of-the-first-with-a-semi-solid-state-battery",
-    "title": "This fancy e-bike is one of the first to go semi-solid state",
+    "title": "This very fancy e-bike is one of the first to go semi-solid state",
     "description": "The Lemmo 3 is the first cargo bike from the respected German e-bike maker. This premium, step-through longtail is a slightly less insane take on Rivian's Also TM-B, with one major advantage: It's one of the first electric bikes to feature a semi-solid state battery. Semi-solid state batteries are far safer than traditional lithium-ion batteries.",
     "categories": [
       "Tech News"
@@ -2216,60 +2275,5 @@
     "pub_date": "2026-09-30T20:44:01+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/029nOcGZVZLgSkjqIMdZd1C/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-    "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-    "description": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-09-30T20:41:41+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/",
-    "title": "NASA Awards Contract to Develop 5G Communications for Moon",
-    "description": "NASA has awarded Modulate Space Corporation a contract to develop key elements of a 5G communications system for use on the lunar surface with built-in Wi-Fi 6, for NASA’s Glenn Research Center in Cleveland. This accelerated effort is organized into two primary work areas that together will develop a scalable, standards-based communications capability designed to",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T20:41:26+00:00",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/09/cropped-nasa-meatball-1.jpg?w=1080",
-    "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
-    "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
-    "description": "VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-30T20:39:09+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/09/30/apple-music-expands-to-four-new-countries/",
-    "title": "Apple Music expands to four new countries",
-    "description": "Apple today expanded Apple Music to four additional countries, bringing the service to a total of 172 countries and regions. Here are the details.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-09-30T20:39:07+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-music-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/pentagon-project-meridian-musk-luckey-gingrich",
-    "title": "Musk, Luckey and Gingrich get 120 days to map America’s future wars",
-    "description": "Elon Musk, Palmer Luckey and Newt Gingrich will co-direct Project Meridian. The Pentagon study will identify the technology the US military needs to fight future wars. Secretary of War Pete Hegseth commissioned it on Wednesday, the Department of War said. The findings are due by 28 January 2027, 120 days after the announcement, according to",
-    "categories": [
-      "Government & Policy"
-    ],
-    "pub_date": "2026-09-30T20:36:54+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/pete-hegseth-pentagon-office-desk-pointing-flag.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
