@@ -1,5 +1,66 @@
 [
   {
+    "link": "https://thenextweb.com/news/metaview-60m-series-c-insight-partners-ai-recruiting",
+    "title": "Metaview raises $60m to put AI agents across the whole hiring process",
+    "description": "Metaview, a London and San Francisco startup that builds AI agents for recruiting, has raised a $60m Series C led by Insight Partners. GV, Intrepid Growth Partners, Seedcamp, Vertex Ventures US, Plural and Garuda Ventures also took part, the company said in a statement on Wednesday. The round comes a year after its previous one",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-01T14:55:55+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/metaview-founders-siadhal-magos-shahriar-tajbakhsh-office-plants.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/germany-serbia-nations-league-2026-live-stream-for-free",
+    "title": "How to watch Germany vs. Serbia online for free",
+    "description": "How to watch Nations League for free. Live steam Germany vs. Serbia in Nations League for free from anywhere in the world.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-01T14:52:18+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/07z3CuRckHpQTY9P92tpqvj/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261001/p23#a261001p23",
+    "title": "Miami-based Doxx.net, whose platform enables serverless P2P calling, messaging, and file transfers for humans and AI agents, raised a $38M Series A led by a16z (Chris Metinko/Axios)",
+    "description": "Chris Metinko / Axios:\nMiami-based Doxx.net, whose platform enables serverless P2P calling, messaging, and file transfers for humans and AI agents, raised a $38M Series A led by a16z  —  Doxx.net has raised a $38 million Series A led by Andreessen Horowitz as its private agentic defined networking platform launches into open beta …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-01T14:50:00+00:00",
+    "image_url": "http://www.techmeme.com/261001/i23.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule",
+    "title": "NYC is now the first city in America that bans sketchy subscriptions",
+    "description": "New York City residents struggling to get out of recurring subscription fees can now submit complaints to the city government. As of Thursday, the city's click-to-cancel rule has taken effect, which requires businesses to make it as easy to cancel a subscription as it is to sign up. That means a gym that lets you",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-01T14:49:25+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2294777879.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/instagram-edits-assistant-ai-creators-reels",
+    "title": "Instagram’s Edits app gets an AI assistant that reads your Reels data",
+    "description": "Instagram is putting a chatbot inside Edits, its video editing app for creators. The tool reads a creator’s Instagram data and suggests what to make next. It is rolling out to all Edits users in the US, Brett Westervelt, who leads the app, wrote in a blog post on Wednesday. “One thing we heard consistently:",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-01T14:43:56+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/instagram-logo-smartphone-screen-silhouetted-thumb.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
     "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
     "description": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by GPT-6 Astra, \"inspired by the cool agents that we",
@@ -139,7 +200,7 @@
   {
     "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
     "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-    "description": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.  The idea was to build the world’s biggest data centers — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power usage of",
+    "description": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.  The idea was to build the world’s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power usage of",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -171,6 +232,18 @@
     "pub_date": "2026-10-01T14:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/owbSSGyfRyGGobNhGmqk2Q-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://science.nasa.gov/missions/webb/nasas-webb-provides-crash-course-on-planet-shattering-collisions/",
+    "title": "NASA’s Webb Provides Crash Course on Planet-Shattering Collisions",
+    "description": "In the early history of our solar system, scientists theorize that a Mars-sized object called Theia smashed into the infant Earth, vaporizing massive amounts of rock and blasting it into space. Some of that material coalesced into the Moon, where NASA’s Artemis program is returning humans, preparing for Mars, and shaping the future of space",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-01T14:00:00+00:00",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/STScI-01M3MAEDAB1HT4BT4ARVRDZ9H4.jpg?w=3840&h=2160&fit=clip&crop=faces%2Cfocalpoint",
+    "source_name": "SCIENCE.NASA.GOV"
   },
   {
     "link": "https://thenextweb.com/news/gmi-cloud-668m-series-b-nvidia-archiv-ctbc",
@@ -2281,72 +2354,6 @@
     ],
     "pub_date": "2026-10-01T06:20:01+00:00",
     "image_url": "http://www.techmeme.com/261001/i8.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261001/p7#a261001p7",
-    "title": "Anthropic says Claude for Government is now generally available to federal and state agencies, with Claude Code CLI and Claude for Microsoft 365 in early access (Claude)",
-    "description": "Claude:\nAnthropic says Claude for Government is now generally available to federal and state agencies, with Claude Code CLI and Claude for Microsoft 365 in early access  —  Claude Code CLI and Claude for Microsoft 365 also now available in early access.  —  Product announcements  —  Product",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-01T06:10:00+00:00",
-    "image_url": "http://www.techmeme.com/261001/i7.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/home/coffee-machines/chefman-coffee-station-pro-review",
-    "title": "Chefman Coffee Station Pro review: ambitious all-in-one brewing with mixed results",
-    "description": "A clever multi-style coffee maker that handles the basics well, but not all its brewing modes work as well as they should.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-01T06:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/rqoAwNY9w2yUGQEi5a33mC-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261001/p6#a261001p6",
-    "title": "Analysis: Google, Apple, and Amazon each have more meetings with European parliament and European Commission officials than any individual European company (Financial Times)",
-    "description": "Financial Times:\nAnalysis: Google, Apple, and Amazon each have more meetings with European parliament and European Commission officials than any individual European company  —  US corporations including Google, Apple and Amazon use their influence to push back against EU digital bloc rules.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-01T05:40:02+00:00",
-    "image_url": "http://www.techmeme.com/261001/i6.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261001/p5#a261001p5",
-    "title": "Salesforce agrees to buy AI customer research startup Listen Labs, reportedly for $2B; Listen Labs had raised a $69M Series B at a $500M valuation in January (Chris Metinko/Axios)",
-    "description": "Chris Metinko / Axios:\nSalesforce agrees to buy AI customer research startup Listen Labs, reportedly for $2B; Listen Labs had raised a $69M Series B at a $500M valuation in January  —  The customer research space is especially ripe for AI disruption, as companies look to replace older, manual methods to more quickly find out what customers think.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-01T05:35:02+00:00",
-    "image_url": "http://www.techmeme.com/261001/i5.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261001/p4#a261001p4",
-    "title": "Netflix co-CEO Ted Sarandos says growth is slower than he would like and defends the WBD pursuit, adding Netflix isn't seeking another acquisition to replace it (Sohee Kim/Bloomberg)",
-    "description": "Sohee Kim / Bloomberg:\nNetflix co-CEO Ted Sarandos says growth is slower than he would like and defends the WBD pursuit, adding Netflix isn't seeking another acquisition to replace it  —  Ted Sarandos, co-chief executive officer at Netflix Inc., said the US streaming giant isn't growing as quickly as he would like.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-01T05:25:02+00:00",
-    "image_url": "http://www.techmeme.com/261001/i4.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261001/p3#a261001p3",
-    "title": "Asymmetric Security investigation: OpenAI agents pulled data from 55 business, nonprofit, and government agency websites while actively obscuring their actions (Rafe Rosner-Uddin/Financial Times)",
-    "description": "Rafe Rosner-Uddin / Financial Times:\nAsymmetric Security investigation: OpenAI agents pulled data from 55 business, nonprofit, and government agency websites while actively obscuring their actions  —  New findings by Asymmetric Security provide further evidence of novel tactics AI tools use to conduct hacks.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-01T05:10:01+00:00",
-    "image_url": "http://www.techmeme.com/261001/i3.jpg",
     "source_name": "TECHMEME.COM"
   }
 ]
