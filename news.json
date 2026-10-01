@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.techradar.com/pro/100-tb-dna-capsules-stored-in-bullet-like-magazines-could-displace-tape-with-a-roadmap-to-50-pb-per-capsule-but-no-news-about-speed-drive-cost-and-availability",
+    "title": "100 TB DNA capsules stored in bullet-like magazines could displace tape with a roadmap to 50 PB per capsule — but no news about speed, drive cost and availability",
+    "description": "AtlasBase's Thalia chip writes data into DNA capsules of up to 50 PB, lasting 1,000 years, with no deployment evidence.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-01T00:20:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/UPhpHdSPxxS2CWmW2FvbkC-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/260930/p52#a260930p52",
     "title": "California Governor Gavin Newsom signs the No Robo Bosses Act, which prevents employers in the state from relying solely on AI to fire or discipline workers (Paxton Honerkamp/CNBC)",
     "description": "Paxton Honerkamp / CNBC:\nCalifornia Governor Gavin Newsom signs the No Robo Bosses Act, which prevents employers in the state from relying solely on AI to fire or discipline workers  —  California Governor Gavin Newsom has signed a landmark AI law banning Golden State employers from relying solely on artificial intelligence to fire or discipline workers.",
@@ -105,17 +116,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-1-october-2026",
-    "title": "NYT Connections hints and answers for Thursday, October 1 (game #1208)",
-    "description": "Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-09-30T23:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-1-october-2026",
     "title": "Quordle hints and answers for Thursday, October 1 (game #1711)",
     "description": "Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.",
@@ -124,6 +124,17 @@
     ],
     "pub_date": "2026-09-30T23:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-1-october-2026",
+    "title": "NYT Connections hints and answers for Thursday, October 1 (game #1208)",
+    "description": "Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-09-30T23:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -634,7 +645,6 @@
     "description": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware",
       "Government & Policy",
@@ -685,8 +695,7 @@
     "title": "Trump Launches a US Government Chatbot. It’s Got Some Quirks",
     "description": "America.gov wants to answer questions about government services. Just don’t ask it to play Minecraft, or type in the word “hotdog.”",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-09-30T20:10:40+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/new-hot-dog.png",
@@ -1064,7 +1073,6 @@
     "title": "Did Muse read private texts without permission? Meta says it couldn’t.",
     "description": "Meta denies claims its Muse AI agent read private Apple Messages without permission after a journalist reported unexpected access.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-09-30T18:42:39+00:00",
@@ -2308,18 +2316,5 @@
     "pub_date": "2026-09-30T14:30:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-    "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-    "description": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-09-30T14:27:11+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
