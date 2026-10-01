@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://www.techmeme.com/261001/p32#a261001p32",
+    "title": "Strands Labs, AWS's experimental agent-development project, unveils Strands Decider 2B, a free, open-source Jev competitor fine-tuned from an Alibaba Qwen base (Carl Franzen/VentureBeat)",
+    "description": "Carl Franzen / VentureBeat:\nStrands Labs, AWS's experimental agent-development project, unveils Strands Decider 2B, a free, open-source Jev competitor fine-tuned from an Alibaba Qwen base  —  The race to make AI agents cheaper and faster is moving beyond the models that write their answers.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-01T18:15:02+00:00",
+    "image_url": "http://www.techmeme.com/261001/i32.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+    "title": "OpenAI cuts ties with three safety researchers, WSJ reports",
+    "description": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-01T18:14:42+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/california-governor-gavin-newsom-signs-no-robo-bosses-act-so-an-ai-can-no-longer-fire-you-on-its-own",
+    "title": "California Governor Gavin Newsom signs 'No Robo Bosses Act' — so an AI can no longer fire you on its own",
+    "description": "New California bill requires humans to verify and provide proof for automated decisions to discipline or fire workers.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-01T18:10:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/BpzQKZwrp6AdwJbD44GdkL-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/experience-what-its-like-to-travel-in-the-occupied-west-bank/",
+    "title": "Experience What It’s Like to Travel in the Occupied West Bank",
+    "description": "Traverse barriers and checkpoints in the occupied West Bank—your choices reflect the reality of nearly 3.5 million Palestinians who live there.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-01T18:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6abd2a92aa33d10785588652/master/pass/WIRED-West-Bank-Interactive-Site-Image-Lina-Jaradat-01.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.techradar.com/home/coffee-machines/this-international-coffee-day-ive-rounded-up-the-best-pumpkin-spice-ground-coffee-capsules-and-capsules-so-you-can-indulge-your-fall-habit-at-home",
     "title": "The best pumpkin spice coffee capsules and packs, so you can indulge your fall habit at home",
     "description": "Pumpkin spice season has arrived — here's how to integrate it into your at-home caffeine setup so you don't bankrupt yourself at Starbucks.",
@@ -108,7 +158,7 @@
   {
     "link": "https://www.androidcentral.com/phones/samsung-galaxy/galaxy-s26-looks-more-expensive-these-days-price-hikes-roll-out-online",
     "title": "Galaxy S26 looks more expensive these days: price hikes roll out online",
-    "description": "Reports highlight incoming price increases for the Galaxy S26 series across the board. While the majority remain consistent, one device is the outlier, with a larger jump.",
+    "description": "Reports highlight incoming price increases for the Galaxy S26 series. While the majority remain consistent, one device is the outlier, with a larger jump.",
     "categories": [
       "Tech News"
     ],
@@ -209,6 +259,18 @@
     "pub_date": "2026-10-01T17:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/samsung-galaxy-tab-s12-ultra-vs-galaxy-tab-s11-ultra-the-difference-one-year-can-make/l-intro-1790809506.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://science.nasa.gov/solar-system/skywatching/whats-up-october-2026-skywatching-tips-from-nasa/",
+    "title": "What’s Up: October 2026 Skywatching Tips from NASA",
+    "description": "A Meteor Shower and the Moon Near the Pleiades See Saturn at opposition, catch the Orionid meteor shower, and watch the Moon pass close to the Pleiades, also known as the Seven Sisters. Skywatching Highlights Transcript Saturn takes center stage, a meteor shower lights up the sky, and the Moon visits the Seven Sisters. That’s",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-01T16:58:10+00:00",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2026/october/Orionid%20Meteor%20Shower%202017_Ben%20Goldstein%20via%20Flickr_CC%20BY-NC-SA.jpg?w=4896&h=3264&fit=clip&crop=faces%2Cfocalpoint",
+    "source_name": "SCIENCE.NASA.GOV"
   },
   {
     "link": "https://thenextweb.com/news/roslansky-to-leave-microsoft",
@@ -2308,60 +2370,5 @@
     "pub_date": "2026-10-01T11:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6abccc1599edf0dddca3a1a4/master/pass/Neurable%20One%20Lifestyle.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/computing/microsoft-windows-surface-event-2026-what-to-expect-to-see-on/",
-    "title": "Microsoft Windows and Surface Event: What We Expect to See on Oct. 7",
-    "description": "No, we’re not expecting Windows 12. But we could get a release date for the Surface Laptop Ultra.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-01T11:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/image-1-3.png",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://mashable.com/life/oster-blenders-launch-2026-where-to-buy",
-    "title": "Osters new 2026 lineup takes on the 3 biggest blender problems — where to buy new range",
-    "description": "Oster just dropped three new blenders targeting everyday kitchen frustrations, featuring a $49.99 anti-jamming Vortex model, a whisper-quiet QuietPro, and the heavy-duty Titan.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-01T11:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05FZJnMJy12dzTbNr4QPriC/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/how-to-watch/tv-shows/sneaky-way-to-watch-the-celebrity-traitors-free",
-    "title": "There's a sneaky way to watch The Celebrity Traitors Series 2 for free",
-    "description": "Here's how to watch season 2 of The Celebrity Traitors (UK) online for free from anywhere in the world.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-01T11:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/66yNjeo8TEhS9DnPvi277m-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261001/p16#a261001p16",
-    "title": "After a four-month US prison sentence, Changpeng Zhao is now living a gilded life in Abu Dhabi; he retains majority ownership of Binance and a $10B+ net worth (David Yaffe-Bellany/New York Times)",
-    "description": "David Yaffe-Bellany / New York Times:\nAfter a four-month US prison sentence, Changpeng Zhao is now living a gilded life in Abu Dhabi; he retains majority ownership of Binance and a $10B+ net worth  —  The Binance founder Changpeng Zhao, who pleaded guilty to violating an anti-money-laundering law, was pardoned by President Trump …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-01T10:55:00+00:00",
-    "image_url": "http://www.techmeme.com/261001/i16.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-1-early-prime-day-apple-airtag-bluetooth-tracker-deal",
-    "title": "The Apple AirTag 4-pack is $10 off before Prime Day — we like this $89 bundle deal",
-    "description": "Get the best Apple deal at Amazon. Save $10 on the Apple AirTag at Amazon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-01T10:52:52+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01QlrUDyTZ8qAGplkLqgWxA/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
