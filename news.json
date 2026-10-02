@@ -1,5 +1,39 @@
 [
   {
+    "link": "https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2",
+    "title": "Rivian’s sales pop as the company’s big R2 bet starts to pay off",
+    "description": "Rivian had high hopes for its more affordable R2 vehicle - and so far, those hopes appear to be paying off. The company released its third-quarter production and delivery numbers today, reporting 19,751 vehicles produced and 19,248 delivered. That represents an 85 percent year-over-year increase in production and a 45 percent jump in deliveries. (For",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-02T17:15:03+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268434_Rivian_Factory_ATahlier_0019.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/this-popular-ai-agent-could-be-hacked-by-a-single-email-with-potentially-disastrous-consequences",
+    "title": "This popular AI agent could be hacked by a single email — with potentially disastrous consequences",
+    "description": "Researchers found a way around Manus' guardrails and got it to execute a simple email prompt injection attack.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-02T17:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/phones/google-pixel/google-just-raised-the-pixel-10a-price-by-usd100",
+    "title": "Google just raised the Pixel 10a price by $100, and it's a hard pill to swallow",
+    "description": "The Pixel 10a was already a tough sell — Google's $100 price hike makes it worse.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-02T17:03:16+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/RyNZrNDuNSJivX2QpWrdUS-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
     "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
     "description": "With all the talk about how AI might one day ill us all, it's easy to forget that AI has already harmed some people, psychologically. Circuit Breaker Labs has created \"crash test  dummies\" to solve that.",
@@ -297,7 +331,7 @@
   },
   {
     "link": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
-    "title": "Paramount and Warner Bros Discovery to become Skydance",
+    "title": "Paramount and Warner Bros. Discovery to become Skydance",
     "description": "The roughly $110 billion deal is expected to close October 6.",
     "categories": [
       "Breaking News",
@@ -1004,7 +1038,6 @@
     "description": "Tencent has signed a five-year lease to use about 100,000 advanced AI chips from Oracle. People familiar with the matter told the Financial Times about the deal. The chips, which are not available in China, sit in several Oracle data centres in South-East Asia. The deal, signed this year, is worth about $7bn, and Tencent",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Government & Policy"
     ],
@@ -1028,7 +1061,6 @@
     "title": "Suno debuts Speech, which generates spoken voices from scripts or prompts, with optional background music, in public beta, as its music generator faces lawsuits (Jess Weatherbed/The Verge)",
     "description": "Jess Weatherbed / The Verge:\nSuno debuts Speech, which generates spoken voices from scripts or prompts, with optional background music, in public beta, as its music generator faces lawsuits  —  ﻿The new Speech feature provides synthetic voiceovers embellished with AI background music.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-02T13:05:02+00:00",
@@ -1040,7 +1072,6 @@
     "title": "Home Assistant says ‘Big tech ruined the cloud, so we&#8217;re out’",
     "description": "The open-source smart home platform Home Assistant is kicking the cloud to the curb - in name at least. \"We are renaming Home Assistant Cloud to Home Assistant Link, because we hate clouds,\" founder Paulus Schoutsen told The Verge in an interview ahead of today's announcement. \"Big tech ruined the cloud, so we're out.\" The",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-02T13:02:52+00:00",
@@ -1236,18 +1267,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.theverge.com/entertainment/1002887/star-wars-galactic-racer-review",
-    "title": "Star Wars: Galactic Racer is my childhood podracing dream come true",
-    "description": "The podracing scene in The Phantom Menace is one of my favorite movie sequences ever. It's just so dang cool: The futuristic racers tear over treacherous Tatooine terrain while various Star Wars aliens bark at each other in incomprehensible sci-fi languages. Eventually a young Anakin Skywalker proves his mettle by clawing his way from the",
-    "categories": [
-      "Breaking News",
-      "Gaming"
-    ],
-    "pub_date": "2026-10-02T12:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ss_f94572ce18123b5dfc0baf196dde05b00a35a71e.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.cnet.com/tech/mobile/i-tested-the-galaxy-s26-ultra-cameras-against-the-pixel-11-pro-one-captures-vibes-better/",
     "title": "I Tested the Galaxy S26 Ultra Cameras Against the Pixel 11 Pro: One Captures Vibes Better",
     "description": "I brought two of the best Android camera phones with me to Cape May, and one was noticeably better.",
@@ -1270,6 +1289,18 @@
     "pub_date": "2026-10-02T12:00:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/SWGR-lede.jpg",
     "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.theverge.com/entertainment/1002887/star-wars-galactic-racer-review",
+    "title": "Star Wars: Galactic Racer is my childhood podracing dream come true",
+    "description": "The podracing scene in The Phantom Menace is one of my favorite movie sequences ever. It's just so dang cool: The futuristic racers tear over treacherous Tatooine terrain while various Star Wars aliens bark at each other in incomprehensible sci-fi languages. Eventually a young Anakin Skywalker proves his mettle by clawing his way from the",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-02T12:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ss_f94572ce18123b5dfc0baf196dde05b00a35a71e.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
@@ -1928,8 +1959,8 @@
     "source_name": "MASHABLE.COM"
   },
   {
-    "link": "https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/",
-    "title": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
+    "link": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/",
+    "title": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
     "description": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
     "categories": [
       "AI & Machine Learning",
@@ -1948,6 +1979,18 @@
     ],
     "pub_date": "2026-10-02T09:30:00+00:00",
     "image_url": "https://media.wired.com/photos/691bfbe9632b8d38670cc04a/master/pass/33%20Smart%20STEM%20Toys%20for%20the%20Techie%20Kids%20in%20Your%20Life.png",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/",
+    "title": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
+    "description": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-02T09:30:00+00:00",
+    "image_url": "https://media.wired.com/photos/6abeb2ae10b6b4f5a5628f89/master/pass/Palantir-Nurse-Strike-e2fab562-387a-496b-b88c-027860c47584.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -2291,50 +2334,6 @@
     ],
     "pub_date": "2026-10-02T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/nike-promo-code/",
-    "title": "Nike Promo Codes and Discounts: 30% for October 2026",
-    "description": "Check out our deals for Nike this October 2026, including 15% off select purchases.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-02T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/google-workspace-promo-code/",
-    "title": "Google Workspace Promo Codes: 14% Off for October 2026",
-    "description": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-02T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/the-motley-fool-promo-code/",
-    "title": "Motley Fool Promo Code: $200 Off on Stock Advisor October 2026",
-    "description": "Scale your portfolio for less with these verified The Motley Fool membership discounts, stock advisor promo codes, and Epic Bundle deals.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-02T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/hotels-com-coupon/",
-    "title": "Hotels.com Coupon Codes for October 2026",
-    "description": "Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-02T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
     "source_name": "WIRED.COM"
   }
 ]
