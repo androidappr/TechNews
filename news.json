@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://thenextweb.com/news/nvidia-6-trillion-record-asml-gap",
+    "title": "Nvidia hits its first record since May, within $300B of $6T",
+    "description": "Nvidia hit a record for the first time since May, leaving it under $300B short of becoming the first company worth $6T, on a rally driven by AI agent demand and a record $150B buyback increase. ASML, Europe’s most valuable listed company, needs the same $300B to reach its first trillion. Nvidia hit a record",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-02T19:32:27+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/nvidia-vera-rubin-full-production-customers.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/cyber-security/report-claims-cops-have-breached-one-of-ioss-most-secure-features-and-it-could-put-your-private-data-at-risk",
+    "title": "Cops have breached one of iOS’s most secure features, report claims",
+    "description": "Police agencies have a new tool to get around a vital iOS security feature, a new report claims.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-02T19:30:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/LDhAvwf8iNk2Em3bdkAZEb-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/10/02/ios-27s-siri-gets-one-thing-very-right-that-other-ai-assistants-get-wrong/",
     "title": "iOS 27’s Siri gets one thing very right that other AI assistants get wrong",
     "description": "Siri AI is a major upgrade to Apple’s assistant that’s now available in iOS 27. And there’s one standout area I’ve noticed where it differs greatly from other AI assistants—for the better.\n\n\n\n more…",
@@ -355,7 +379,6 @@
     "title": "Samsung Galaxy Tab S12 Ultra vs Apple iPad Pro: Here's how they stack up",
     "description": "Choosing between these two powerhouse tablets is probably simpler than you think.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-02T17:27:45+00:00",
@@ -925,7 +948,6 @@
     "title": "Your Next Mobile Games Will Get AI Graphics Boosts That PCs and Consoles Have Had for Years",
     "description": "AI upscaling and frame generation are coming in upcoming premium Android phones running the new highest-tier Snapdragon chips.",
     "categories": [
-      "Breaking News",
       "Mobile & Telecom"
     ],
     "pub_date": "2026-10-02T15:36:24+00:00",
@@ -1356,7 +1378,6 @@
     "title": "Paramount’s Warner Bros. megamerger will just be called Skydance",
     "description": "Paramount Skydance CEO David Ellison has announced that the company will just be called Skydance when it completes its $110 billion merger with Warner Bros. Discovery next week. In a post on X, Ellison writes that \"we wanted a name that would give the combined company an identity of its own while allowing Paramount and",
     "categories": [
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-02T13:42:36+00:00",
@@ -1380,7 +1401,6 @@
     "description": "More than 3 million people prompt Meta’s Muse at least once a week, according to internal data reviewed by The Information. More than 1 million send the AI agent a prompt every day, Jyoti Mann reported. The weekly figure is part of a wider group. More than 4 million people use Muse in some way",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy",
       "Social & Media",
       "Software & Apps"
@@ -2310,29 +2330,5 @@
     "pub_date": "2026-10-02T09:44:41+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/07mBHWqkAXknruRouTpoBLb/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/caverion-nebius-substation-mantsala-finland",
-    "title": "Caverion to build €15M substation for Nebius data centre in Finland",
-    "description": "Caverion Finland has agreed to design and build a substation for Nebius’s new data centre in Mäntsälä, southern Finland, in a deal valued at about €15 million. The company announced the contract on Friday and expects to finish the work by autumn 2027. The substation will link the data centre to the high-voltage grid and",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-02T09:44:29+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/substation-aerial-forest-wind-turbines.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-    "title": "AI music maker Suno now generates spoken words",
-    "description": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music to accompany them. \"Music will always be at",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-10-02T09:42:19+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
