@@ -1,5 +1,87 @@
 [
   {
+    "link": "https://9to5mac.com/2026/10/02/att-claims-ios-27-0-1-fixes-iphone-18-pro-max-cellular-issues-but-users-disagree/",
+    "title": "AT&T claims iOS 27.0.1 fixes iPhone 18 Pro Max cellular issues, but users disagree",
+    "description": "Since the iPhone 18 Pro Max launched, some AT&T customers have complained of various connectivity issues.\n\n\n\nIn a new text message to customers, AT&T says affected users should update their devices to iOS 26.0.1 to fix the issues … but early reports indicate the update doesn’t actually fix the problem.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-02T12:27:29+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-32.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/the-head-of-office-and-teams-work-is-leaving-microsoft-what-could-this-mean-for-m365",
+    "title": "The head of Office and Teams work is leaving Microsoft — what could this mean for M365?",
+    "description": "Former LinkedIn CEO Ryan Roslansky has decided not to lead the change on Microsoft 365 shortly after being appointed the role.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-02T12:25:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Y8Z5kjgUHsaYauspzJWFF6-1920-80.jfif",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/eu-set-to-name-aws-and-azure-dma-gatekeepers-in-november",
+    "title": "EU set to name AWS and Azure DMA gatekeepers in November",
+    "description": "The European Commission plans to name Amazon Web Services and Microsoft Azure as gatekeepers under the Digital Markets Act (DMA) in November, Bloomberg reported on Friday. Citing people familiar with the matter, it said regulators are finishing an investigation that will find both cloud services fall under the bloc’s Big Tech rules. The decision is still a",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-02T12:24:39+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/European-Commission.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/yann-lecun-dario-amodei-deluded-rogue-agents-fortune",
+    "title": "Yann LeCun calls Anthropic’s Dario Amodei ‘deluded’, Fortune reports",
+    "description": "Yann LeCun does not worry “at all” about AI wiping out humanity, and he has “zero concerns” about the recent run of rogue AI incidents. The Turing Award winner said so in an interview with Emily Forlini for Fortune. He also called Anthropic chief executive Dario Amodei “deluded” and, later in the interview, “crazy”. LeCun",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-02T12:24:03+00:00",
+    "image_url": "https://media.thenextweb.com/2026/03/Yann-LeCun-just-raised-1bn.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/vpn/vpn-privacy-security/hands-off-our-nhs-data-inside-the-nationwide-revolt-against-palantirs-gbp330m-nhs-deal",
+    "title": "'Hands off our NHS data:'Inside the nationwide movement against Palantir’s £330m NHS deal",
+    "description": "We speak to health workers and campaigners on the ground in Bristol to unpack the technical flaws, privacy fears, and growing political pressure facing Prime Minister Andy Burnham to scrap the deal before the 2027 break clause.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-02T12:23:13+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/YDFveeskUoJp4p54HiYYQb-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/home/air-fryers/aldis-gbp50-twin-drawer-air-fryer-is-a-dead-ringer-for-the-ninja-double-stack-and-its-finally-back-on-shelves",
+    "title": "Aldi's £50 Ninja Double Stack air fryer dupe is back in stock",
+    "description": "The Aldi Vertical Air Fryer is in stores now, along with a £35 capsule coffee machine — but stock is limited.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-02T12:15:42+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/oYo4EyQEZ7ZGP3LfugU4dD-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/openai-rogue-agents-asymmetric-security-cdc-bonta-subpoena",
+    "title": "California subpoenas OpenAI as investigators trace its agents to the CDC",
+    "description": "OpenAI’s rogue agents reached pre-production servers, tried attacker techniques and probed the websites of the CDC, the SEC, the International Energy Agency and the Mayo Clinic. That is according to an investigation published on Thursday by Asymmetric Security, a digital forensics firm. Some of their tactics left records erased or out of reach. Public data",
+    "categories": [
+      "AI & Machine Learning",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-02T12:14:20+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/1344-openai-rogue-agents-cover.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.engadget.com/2275509/tesla-supercharger-emergency-drive-away-feature/",
     "title": "Tesla rolls out an emergency drive-away feature after Supercharger shooting",
     "description": "Tesla's new feature will let you drive away with the Supercharger still connected in case of emergencies.",
@@ -60,8 +142,31 @@
     "source_name": "THEVERGE.COM"
   },
   {
+    "link": "https://www.cnet.com/tech/mobile/i-tested-the-galaxy-s26-ultra-cameras-against-the-pixel-11-pro-one-captures-vibes-better/",
+    "title": "I Tested the Galaxy S26 Ultra Cameras Against the Pixel 11 Pro: One Captures Vibes Better",
+    "description": "I brought two of the best Android camera phones with me to Cape May, and one was noticeably better.",
+    "categories": [
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-10-02T12:00:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/20260825_114835_53c560.jpeg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/gaming/star-wars-galactic-racer-review/",
+    "title": "Star Wars: Galactic Racer Review: A Fantastic Burnout Successor From a Galaxy Far, Far Away",
+    "description": "Developer Fuse Games’ debut release is one of the most impressive arcade racers in recent memory.",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-02T12:00:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/SWGR-lede.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.techradar.com/gaming/star-wars-galactic-racer-review",
-    "title": "Star Wars: Galactic Racer is a heart-pounding roguelike racer with brilliant buildcraft customization and exhilarating courses, and it's accelerated itself to the top of my list of best games for 2026",
+    "title": "Star Wars: Galactic Racer review — an exhilarating roguelike racer that gets the blood pumping",
     "description": "Star Wars: Galactic Racer is the Star Wars racing game I've always wanted, offering an amazing roguelike experience and impressive buildcraft customization amid challenging, heart-pounding tracks.",
     "categories": [
       "Breaking News",
@@ -807,6 +912,7 @@
     "title": "Some iPhone 18 Pro and Max users say the devices color is already fading",
     "description": "Is there a discoloration issue plaguing certain iPhone 18 Pro and Pro Max devices? Some users say there is.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-02T09:00:00+00:00",
@@ -1035,17 +1141,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.wired.com/story/columbia-promo-code/",
-    "title": "Columbia Promo Codes: 15% Off | October 2026",
-    "description": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-02T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/uber-eats-promo-code/",
     "title": "Uber Eats Promo Codes: $15 Off│October 2026",
     "description": "Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
@@ -1120,6 +1215,17 @@
     ],
     "pub_date": "2026-10-02T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/columbia-promo-code/",
+    "title": "Columbia Promo Codes: 15% Off | October 2026",
+    "description": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-02T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
     "source_name": "WIRED.COM"
   },
   {
@@ -2166,105 +2272,6 @@
     ],
     "pub_date": "2026-10-01T19:07:48+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2297775464.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/fedex-ev-order",
-    "title": "FedExs new order for EV trucks will save them hundreds of millions in fuel costs",
-    "description": "Delivery giant FedEx places a large order for electric trucks, which will replace thousands of diesel-powered vehicles.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-01T19:04:41+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01HD7CWifDWQ703pObKgiZk/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/iphone-18-pro-max-speakers-popping-noises-reddit-complaints",
-    "title": "iPhone 18 Pro and Max speaker popping noises reported by Redditors",
-    "description": "Some Reddit users are reporting popping noises coming from the speakers of their new iPhone 18 Pro and Pro Max devices.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-01T19:04:38+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00fsuH0q7vd6lhxjeGFDMOm/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/services-and-software/google-gemini-4-argon-ai-model-release/",
-    "title": "Gemini 4 Is Here: When You May Be Able to Use Google’s New AI Model",
-    "description": "Gemini 4 Argon is only available to cyber defenders now, a sign Google is gearing up for a wider launch soon.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-01T19:03:13+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Gemini-4-Argon.png",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/bahrain-gp-f1-live-stream-free",
-    "title": "Im watching the Bahrain GP for free this weekend — how to live stream F1 for free",
-    "description": "How to watch F1 for free. Live stream the Bahrain GP in the 2026 F1 season for free from anywhere in the world.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-01T19:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06jVNs3khtaPJbfp31B6igU/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/health-fitness/casio-is-reportedly-working-on-a-second-version-of-its-digital-watch-ring-as-its-retro-low-power-smart-ish-devices-continue-to-sell-out",
-    "title": "Casio is reportedly working on a second version of its digital watch ring",
-    "description": "Casio's time-telling smart ring alternative could be coming back as the CRW 002 — and there's clearly demand for it.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-01T19:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/AWiqAKCusgiBWafYwKCgs6-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261001/p34#a261001p34",
-    "title": "SoftBank made the final $10B investment in its $30B pledge to OpenAI's most recent funding round; source: Nvidia made its final $10B investment in the round too (The Information)",
-    "description": "The Information:\nSoftBank made the final $10B investment in its $30B pledge to OpenAI's most recent funding round; source: Nvidia made its final $10B investment in the round too  —  Nvidia and SoftBank have each made the final $10 billion investment in each of their $30 billion pledges to OpenAI's last funding round …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-01T18:55:14+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/mobile/samsung-raises-galaxy-s26-prices/",
-    "title": "Samsung Suddenly Raises Prices by $100 on Most Galaxy S26 Phones",
-    "description": "An S26 Ultra with 1TB of storage now lists for $2,000.",
-    "categories": [
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-10-01T18:54:17+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-galaxy-s26-ultra_4a5ad0.png",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
-    "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?",
-    "description": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before building the sequel. There's some reason to believe that chip has now broken cover: AMD",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-01T18:52:58+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/53420776536_b9dede69df_k.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/services-and-software/peoples-picks-privacy-and-security-2026/",
-    "title": "Which Privacy and Security Apps Do You Trust the Most?",
-    "description": "Do you use a VPN, antivirus or other security software? Let us know which ones are the most trustworthy.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-01T18:50:38+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Cyber-security.png",
     "source_name": "CNET.COM"
   }
 ]
