@@ -1,5 +1,54 @@
 [
   {
+    "link": "https://thenextweb.com/news/tencent-oracle-100000-ai-chips-7bn-lease-ft",
+    "title": "Tencent leases 100,000 AI chips from Oracle in a $7bn deal, FT reports",
+    "description": "Tencent has signed a five-year lease to use about 100,000 advanced AI chips from Oracle. People familiar with the matter told the Financial Times about the deal. The chips, which are not available in China, sit in several Oracle data centres in South-East Asia. The deal, signed this year, is worth about $7bn, and Tencent",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-02T13:09:00+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/tencent-logo-sign-headquarters-facade.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/1003601/teslas-recovery-hits-a-speed-bump",
+    "title": "Tesla’s recovery hits a speed bump",
+    "description": "Tesla sold fewer vehicles in the third quarter than it did a year ago, when consumers rushed to cash in on expiring federal tax credits for electric vehicle purchases. As a result, the company's third-quarter delivery and production report, released today, represents a speed bump on Tesla's road to recovery. Tesla said that it produced",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-02T13:08:16+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2290772795.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261002/p11#a261002p11",
+    "title": "Suno debuts Speech, which generates spoken voices with optional background music using scripts or prompts, in public beta, as its music product faces lawsuits (Jess Weatherbed/The Verge)",
+    "description": "Jess Weatherbed / The Verge:\nSuno debuts Speech, which generates spoken voices with optional background music using scripts or prompts, in public beta, as its music product faces lawsuits  —  ﻿The new Speech feature provides synthetic voiceovers embellished with AI background music.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-02T13:05:02+00:00",
+    "image_url": "http://www.techmeme.com/261002/i11.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1003936/home-assistant-says-big-tech-ruined-the-cloud-so-were-out",
+    "title": "Home Assistant says ‘Big tech ruined the cloud, so we&#8217;re out’",
+    "description": "The open-source smart home platform Home Assistant is kicking the cloud to the curb - in name at least. \"We are renaming Home Assistant Cloud to Home Assistant Link, because we hate clouds,\" founder Paulus Schoutsen told The Verge in an interview ahead of today's announcement. \"Big tech ruined the cloud, so we're out.\" The",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-02T13:02:52+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nabucasa.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/10/02/ios-27-lock-screen-customization/",
     "title": "iOS 27 adds four new ways to customize your iPhone’s Lock Screen",
     "description": "iOS 27 continues Apple’s trend of giving you more control over the design of your iPhone’s Lock Screen. This year, there are new customization options, wallpaper settings, and more.\n\n\n\n more…",
@@ -9,6 +58,31 @@
     "pub_date": "2026-10-02T13:00:05+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/extend-lock-screen.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/993521/ayaneo-konkr-pocket-advance-nintendo-game-boy-advance-handheld",
+    "title": "The Pocket Advance nearly perfects my favorite Nintendo handheld",
+    "description": "Although I count the original Game Boy as one of my first tech obsessions, I still consider Nintendo’s Game Boy Advance to be my favorite console of all time thanks to its more comfortable horizontal design (for my big hands) and its expansive catalog of excellent 32-bit and 16-bit games. Ayaneo isn’t the first company",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-02T13:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ayaneo1b.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/sony-has-revealed-its-new-qssr-upscaling-tech-for-the-base-ps5-with-tech-analysts-confirming-an-exceptional-quality-boost-for-marvels-wolverine-while-ghost-of-yotei-saw-less-dramatic-improvements",
+    "title": "Sony has revealed its new QSSR upscaling tech for the base PS5, with tech analysts confirming an 'exceptional' quality boost for Marvel's Wolverine, while Ghost of Yotei 'saw less dramatic improvements'",
+    "description": "QSSR is the base PS5's new upscaling tech, and according to tech analysts, it can offer major image-quality improvements for games like Marvel's Wolverine.",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-02T12:59:51+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/WUL8WHU8feaRHneYuh7T5U-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://thenextweb.com/news/jensen-huang-dario-amodei-ai-warnings-white-house-wsj",
@@ -695,7 +769,6 @@
     "title": "Amazon is dropping huge deals on robot lawn mowers ahead of Prime Day: Shop Dreame, Mammotion, and more",
     "description": "Early Prime Day deals have started dropping on select robot lawn mowers. Save on Dreame, Mammotion, and more models at Amazon.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-02T09:58:53+00:00",
@@ -707,7 +780,6 @@
     "title": "The best early Prime Day drone deals: We found the best deals so far on DJI, Skyrover, Ruko, and more",
     "description": "Shop deals on drones from DJI, Skyrover, and more at ahead of Amazon's Big Deal Days 2026 sale.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-02T09:53:24+00:00",
@@ -2212,71 +2284,5 @@
     "pub_date": "2026-10-01T19:30:28+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/cfpb-abandoned-office-it-data-security-audit",
-    "title": "CFPB can’t say if data on abandoned office kit is safe, watchdog finds",
-    "description": "The US Consumer Financial Protection Bureau cannot confirm that IT equipment it left in four closed offices is secure, a watchdog has found. J.J. McCorvey reported the audit for Bloomberg. The bureau ended the leases on its New York, Chicago, San Francisco and Atlanta offices in early 2025. It left technology behind, and still cannot confirm",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-01T19:25:17+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/fingerprint-on-laptop-keyboard-key.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261001/p35#a261001p35",
-    "title": "Anthropic urges Australia to consider \"conditional approval\" for Big Tech to train its models on copyrighted works, giving copyright holders a choice to opt out (Josh Butler/The Guardian)",
-    "description": "Josh Butler / The Guardian:\nAnthropic urges Australia to consider “conditional approval” for Big Tech to train its models on copyrighted works, giving copyright holders a choice to opt out  —  Maker of Claude claims AI could transform economy but ABC and SBS say the technology should be subject to media regulations",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-01T19:25:01+00:00",
-    "image_url": "http://www.techmeme.com/261001/i35.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/life/i-am-jane-doe-cornell-doxxing-online-movement",
-    "title": "I am Jane Doe: The internet rallies to protect a Cornell students identity",
-    "description": "The “I am Jane Doe” movement is rallying around the Cornell sexual assault accuser as users push back against doxxing threats.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-01T19:21:38+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01FtXDTz4LR7zHJqINoGscP/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2275023/judge-dismisses-lawsuits-claiming-googles-ai-overviews-siphon-web-traffic/",
-    "title": "Judge dismisses lawsuits claiming Google's AI Overviews siphon web traffic",
-    "description": "Google may have a monopoly in search, but neither lawsuit made a compelling case the company was leveraging it.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-01T19:20:32+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/judge-dismisses-lawsuits-claiming-googles-ai-overviews-siphon-web-traffic/l-intro-1790882295.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1003735/android-central-layoffs",
-    "title": "Android Central &#8216;will continue&#8217; despite laying off its staff",
-    "description": "Android Central, a blog focused on the Android ecosystem, laid off its staff yesterday, but owner Future confirms to The Verge that the site will continue publishing. Yesterday, four of the six staffers on Android Central's staff page posted publicly about the layoffs, including Shruti Shekar, Derrek Lee, Harish Jonnalagadda, and Nicholas Sutrich, and former",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-01T19:20:29+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-01-at-12.18.47-PM.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/",
-    "title": "Can good design stop content creators from having sex in robotaxis?",
-    "description": "Autonomous vehicle designers have to worry about riders getting frisky in public.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-01T19:19:42+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-boink-taxi-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
