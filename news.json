@@ -1,5 +1,49 @@
 [
   {
+    "link": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops",
+    "title": "Sling TV drops its one-day cable passes",
+    "description": "Dish-owned Sling TV will no longer be offering its Sling Pass feature that allowed people to buy a single day of cable TV programming at a time, as reported by The Desk. The feature was announced last year and offered a day pass, a weekend pass, and a week-long pass option to be able to",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-02T20:00:20+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB311_SLING_TV_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261002/p22#a261002p22",
+    "title": "Memo: the US Army is creating an autonomous systems command, after Defense Secretary Pete Hegseth announced the Meridian and Agincourt robotic warfare projects (Colin Demarest/Axios)",
+    "description": "Colin Demarest / Axios:\nMemo: the US Army is creating an autonomous systems command, after Defense Secretary Pete Hegseth announced the Meridian and Agincourt robotic warfare projects  —  The U.S. Army is creating a new autonomous systems command and appointing an acquisition executive to prioritize buying …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-02T20:00:13+00:00",
+    "image_url": "http://www.techmeme.com/261002/i22.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database/",
+    "title": "ICE Has Been Dumping Protester Photos Into a Palantir Database",
+    "description": "DHS agents not only tracked and intimidated people observing ICE activity in Maine, but stored information about them in a Palantir-built database, newly unsealed court filings say.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-02T19:52:36+00:00",
+    "image_url": "https://media.wired.com/photos/6abfefc1a18993c6adb83fa3/master/pass/GettyImages-2285538235.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/chromebooks-laptops/samsungs-googlebook-mightve-appeared-in-a-database-listing-is-this-really-happening",
+    "title": "Samsung's Googlebook might've appeared in a database listing—is this really happening?",
+    "description": "A Googlebook from Samsung is reportedly on the way as its specifications get spotted in a key database listing.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-02T19:48:37+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/T8xXJYmFoJYUHNaGAJ7G2N-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/nvidia-6-trillion-record-asml-gap",
     "title": "Nvidia hits its first record since May, within $300B of $6T",
     "description": "Nvidia hit a record for the first time since May, leaving it under $300B short of becoming the first company worth $6T, on a rally driven by AI agent demand and a record $150B buyback increase. ASML, Europe’s most valuable listed company, needs the same $300B to reach its first trillion. Nvidia hit a record",
@@ -755,7 +799,6 @@
     "description": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-02T16:00:00+00:00",
@@ -2282,53 +2325,6 @@
     ],
     "pub_date": "2026-10-02T09:47:24+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/05JN18cLJ7DFQcR17SU0ENk/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/vpn/vpn-services/meta-muse-has-already-broken-a-record-it-beats-all-competitors-in-data-collection-surfshark-warns",
-    "title": "Meta Muse has already broken a record: it beats all competitors in data collection, Surfshark warns",
-    "description": "Surfshark’s latest research found that Meta's newly launched AI agent is already leading the rankings as the most data-hungry chatbot.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-02T09:47:06+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/7JHgomMZui7pUWLxTnysHM-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261002/p5#a261002p5",
-    "title": "US authorities arrest a California man suspected of smuggling $300M+ worth of restricted Nvidia AI chips to China via Malaysia and Singapore from 2023 to 2024 (Michael Shepard/Bloomberg)",
-    "description": "Michael Shepard / Bloomberg:\nUS authorities arrest a California man suspected of smuggling $300M+ worth of restricted Nvidia AI chips to China via Malaysia and Singapore from 2023 to 2024  —  Federal prosecutors arrested a California man on Thursday on charges of smuggling computer servers containing $300 million worth …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-02T09:45:01+00:00",
-    "image_url": "http://www.techmeme.com/261002/i5.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
-    "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
-    "description": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-02T09:45:00+00:00",
-    "image_url": "https://media.wired.com/photos/6abc2c32f3865c0127252ad0/master/pass/GettyImages-2278945913.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/article/top-twitch-streamers-list",
-    "title": "Top Twitch streamers by follower count: See the list.",
-    "description": "These are the top 10 most-followed Twitch accounts right now.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-02T09:44:41+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07mBHWqkAXknruRouTpoBLb/hero-image.jpg",
     "source_name": "MASHABLE.COM"
   }
 ]
