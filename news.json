@@ -1,5 +1,27 @@
 [
   {
+    "link": "https://www.cnet.com/home/security/privacy-new-apple-home-security-cameras-wont-record-video/",
+    "title": "Maximizing Privacy? New Apple Home Security Cameras Reportedly Won’t Record Video",
+    "description": "Instead of a watchable video stream, you’ll get text descriptions or alerts about detected people, pets or activity.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-02T22:25:49+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/067e11a3-7985-41ed-9a8e-365bff36c5fd.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.cnet.com/home/energy-and-utilities/california-plug-in-balcony-solar-panels-legal/",
+    "title": "California Legalized Plug-In Balcony Solar Panels, but Don’t Buy Any Just Yet",
+    "description": "Units that comply with the new law are expected by spring.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-02T22:24:33+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/e1207703-a9f8-425f-b270-7e2b6d391851.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.engadget.com/2276430/lyft-agrees-to-pay-272-5-million-to-settle-worker-classification-lawsuit/",
     "title": "Lyft agrees to pay $272.5 million to settle worker classification lawsuit",
     "description": "Uber and Lyft were sued by the state of California in 2020 for misclassifying employees as contractors.",
@@ -69,6 +91,18 @@
     "pub_date": "2026-10-02T21:35:01+00:00",
     "image_url": "http://www.techmeme.com/261002/i25.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
+    "title": "Someone got Doom in an SQL database",
+    "description": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
+    "categories": [
+      "Cybersecurity & Privacy",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-02T21:19:05+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/doomsql-1152x648-1790974550.png",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://www.techradar.com/pro/ukraine-drone-chief-targeted-by-usd20-million-russian-bounty-warns-humanity-is-losing-control-as-ai-becomes-a-digital-panopticon",
@@ -156,7 +190,7 @@
   {
     "link": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/",
     "title": "Apple confirms iPhone 18 Pro Max AT&T cellular issues, affected devices require hardware replacement",
-    "description": "Apple has confirmed an issue causing a “small number” of iPhone 18 Pro Max devices on AT&T to lose cellular service. \n\n\n\nApple released software and carrier updates to prevent the issue from affecting additional users, but the company tells 9to5Mac that affected devices that have already lost service will require a hardware replacement.\n\n\n\n more…",
+    "description": "Apple has confirmed an issue causing a “small number” of iPhone 18 Pro Max devices on AT&T to lose cellular service. \n\n\n\nApple released software and carrier updates to prevent the issue from affecting additional users, but the company tells 9to5Mac that devices that have already lost service will require a hardware replacement.\n\n\n\n more…",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -597,7 +631,6 @@
     "title": "Tavus unveils Griffin, the \"first Human Interaction Model\", which it says passed the \"video Turing test\", with 48% of users thinking it was human in live chats (@tavus)",
     "description": "@tavus:\nTavus unveils Griffin, the “first Human Interaction Model”, which it says passed the “video Turing test”, with 48% of users thinking it was human in live chats  —  Introducing Griffin, the first model to pass the video Turing test. 48% of people who talked to it live thought it was a real human. Previous systems have had a pass rate",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-02T18:45:03+00:00",
@@ -975,7 +1008,6 @@
     "title": "How to watch France vs. Italy online for free",
     "description": "How to watch Nations League for free. Live steam France vs. Italy in Nations League for free from anywhere in the world.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-02T16:44:58+00:00",
@@ -1077,7 +1109,6 @@
     "title": "How to watch The Reluctant Vampire online for free",
     "description": "Here's how to watch The Reluctant Vampire online from anywhere in the world, completely FREE as spooky season begins.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-02T16:32:59+00:00",
@@ -2273,39 +2304,6 @@
     ],
     "pub_date": "2026-10-02T11:25:47+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/J4w6dcdpqKbnLdYe8QzKzA-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/windows/there-are-promising-hints-that-windows-11-26h2-could-drop-ram-usage-but-is-this-really-a-free-performance-boost",
-    "title": "Windows 11 26H2 update reportedly improves RAM usage for some users",
-    "description": "Has Microsoft pushed through changes to help with RAM usage in the 26H2 update?",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-02T11:24:30+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/s9RKFimVVLMq75rW9jqnqT-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2275489/fda-approves-autus-size-adjustable-artificial-heart-valve-for-kids/",
-    "title": "FDA approves artificial heart valve for kids that grows as they do",
-    "description": "The FDA has approved a new artificial heart valve that eliminates the need for multiple surgeries in children with certain congenital heart defects.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-02T11:19:29+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/fda-approves-artificial-heart-valve-for-kids-that-grows-as-they-do/l-intro-1790939932.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/control-resonant-composer-says-his-inspiration-comes-from-concept-art-which-brings-forth-melodies-and-a-feeling-that-feeling-combined-with-the-ability-to-hear-pictures-synesthesia-to-be-exact-are-my-go-to-tools-at-the-ground-zero-point",
-    "title": "Control Resonant composer says his inspiration comes from concept art, which brings forth 'melodies' and 'a feeling' — 'That feeling combined with the ability to 'hear' pictures - synesthesia, to be exact - are my go-to tools at the ground zero point'",
-    "description": "Control Resonant composer Petri Alanko has revealed that he has synesthesia, which allows him to find inspiration by looking at Remedy's concept art.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-02T11:18:14+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/og7hxXPQpMYUUqPrvsN6o-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   }
 ]
