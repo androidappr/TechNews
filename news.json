@@ -1,5 +1,63 @@
 [
   {
+    "link": "https://9to5mac.com/2026/10/02/home-widget-1-10-is-the-fastest-way-to-check-every-homekit-camera-at-once/",
+    "title": "HomeKit Weekly: Home Widget 1.10 is the fastest way to check every HomeKit camera at once",
+    "description": "The Home app is a great place to configure your smart home, but it can be slow to control. The tab structure and room hierarchy make sense when you’re setting things up, but they add steps to everything you want to do fifty times a day. Home Widget builds the control panel that Apple didn’t.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-02T18:31:00+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Home-Widget-2.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261002/p19#a261002p19",
+    "title": "Apple says it is adding additional controls around \"Full Disk Access\" on macOS as AI agents have increased \"the risks associated with this level of access\" (Sarah Perez/TechCrunch)",
+    "description": "Sarah Perez / TechCrunch:\nApple says it is adding additional controls around “Full Disk Access” on macOS as AI agents have increased “the risks associated with this level of access”  —  Days after a journalist claimed that Meta's Muse app on Mac read their private messages — a claim that Meta disputed …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-02T18:30:00+00:00",
+    "image_url": "http://www.techmeme.com/261002/i19.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/meta-told-the-irs-its-ai-data-centers-are-experimental-to-shave-usd6-billion-off-its-tax-bill",
+    "title": "Meta told the IRS its AI data centers are experimental to shave $6 billion off its tax bill",
+    "description": "Meta has used an experimental tax credit to save billions, but there are serious questions over whether AI data centers are part of standard operation.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-02T18:25:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/jfWGLZMm6MuZWbZj7VUHJ5-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/this-shoe-companys-instagram-ad-with-a-frat-is-pissing-people-off/",
+    "title": "This Shoe Company’s Instagram Ad With a Frat Is Pissing People Off",
+    "description": "A collaborative Instagram post between footwear line HEYDUDE and a University of Florida frat is sparking backlash due to sexual cyberharassment allegations against two former members.",
+    "categories": [
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-02T18:19:53+00:00",
+    "image_url": "https://media.wired.com/photos/6abeb53be6bd248b69d52cab/master/pass/GettyImages-2240863414.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://arstechnica.com/science/2026/10/research-roundup-6-cool-science-stories-we-almost-missed-6/",
+    "title": "Research roundup: 6 cool science stories we almost missed",
+    "description": "Also: Spooky action at the LHC, Ice Age psychoactive use, yeast for building homes on Mars, and more.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-02T18:17:27+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/darkmatter-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/10/02/twelve-south-launches-tiny-new-airfly-drive-wireless-carplay-adapter/",
     "title": "Twelve South launches tiny new ‘Airfly Drive’ wireless CarPlay adapter [Updated]",
     "description": "Update, October 2: Many of you have asked for a full vehicle compatibility list for the Twelve South Airfly Drive. Our friends over at 9to5Toys have just published exactly that. Take a look!\n\n\n\n\nComplete vehicle compatibility list for new Twelve South Airfly Drive CarPlay and Android Auto adapter\n\n\n\n\n\n\n\n\nTwelve South, the company behind a range of premium Apple accessories, has launched a notable expansion of its Airfly brand. The company today unveiled Airfly Drive, a dongle that turns wired CarPlay into wireless CarPlay. It’s available to order starting today for $39.99. Here’s how it works. \n\n\n\n more…",
@@ -10,6 +68,18 @@
     "pub_date": "2026-10-02T18:15:26+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/airfly-drive-plugged-usb-port-black-2.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/quantum-sensing-navigation-gps-quantum-x-labs",
+    "title": "Quantum sensing could become the next foundation of navigation",
+    "description": "GPS has become so embedded in modern life that its infrastructure is almost invisible. A driver opens a map, an aircraft follows its navigation system, or an autonomous machine calculates its position, and the underlying infrastructure disappears from view. Nir Sharon, Chief Quantum Technology Scientist at Quantum X Labs and an associate professor of applied",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-02T18:12:41+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/quantum-sensing-navigation-gps-quantum-x-labs.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
@@ -55,7 +125,6 @@
     "title": "iPhone 18 Pro vs iPhone 18 Pro Max: Comparing their displays and batteries",
     "description": "Not much else differentiates them, which isn't a bad thing.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-02T17:48:32+00:00",
@@ -91,7 +160,7 @@
   {
     "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
     "title": "Breaking up (with Elon Musk) is hard to do",
-    "description": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of four of her children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what accounts are following and unfollowing each other. That post",
+    "description": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what accounts are following and unfollowing each other. That post noted",
     "categories": [
       "AI & Machine Learning",
       "Breaking News"
@@ -111,6 +180,18 @@
     "pub_date": "2026-10-02T17:35:05+00:00",
     "image_url": "http://www.techmeme.com/261002/i17.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/",
+    "title": "US military ends long-running program to spot nuclear missile launches",
+    "description": "A newer program has been operational since 2011, and the next generation could launch within 12 months.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-02T17:32:14+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/071110-D-1584B-011-1152x648.jpeg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
@@ -491,6 +572,17 @@
     "source_name": "THENEXTWEB.COM"
   },
   {
+    "link": "https://arstechnica.com/cars/2026/10/tesla-sales-drop-2-percent-in-underwhelming-q3-2026/",
+    "title": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3",
+    "description": "Tesla met analysts expectations as it sold fewer cars in Q3 2026 than Q3 2025.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-02T16:05:26+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1415090444-2-1-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
     "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
     "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
     "description": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
@@ -863,7 +955,7 @@
   },
   {
     "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
-    "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI",
+    "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
     "description": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
     "categories": [
       "AI & Machine Learning",
@@ -927,7 +1019,6 @@
     "description": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-02T14:30:00+00:00",
@@ -939,7 +1030,6 @@
     "title": "Sources: Broadcom's Wall Street syndicate is amassing $60B in AI chip financing to help Anthropic and others access chips and other key AI infrastructure (Bloomberg)",
     "description": "Bloomberg:\nSources: Broadcom's Wall Street syndicate is amassing $60B in AI chip financing to help Anthropic and others access chips and other key AI infrastructure  —  Broadcom Inc.'s Wall Street syndicate is starting to gather $60 billion of fresh AI chip financing to benefit Anthropic PBC and other companies …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-02T14:30:00+00:00",
@@ -997,7 +1087,6 @@
     "title": "Reddit Is Choking Off RSS and Open Web Access to Keep AI Bots Out",
     "description": "Many are worried that killing RSS feeds will destroy one of the last open, user-controlled ways to read the web.",
     "categories": [
-      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-10-02T14:19:33+00:00",
@@ -1009,8 +1098,7 @@
     "title": "Anthropic tells IPO investors US government actions could hit its business",
     "description": "Anthropic has warned that the US government’s view of the company could hurt its ties with business customers and partners as well as its government work. The warning is in the AI firm’s IPO prospectus, which Reuters reported on Friday after seeing the document. The prospectus has not been made public, and TNW has not seen",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-02T14:19:01+00:00",
     "image_url": "https://media.thenextweb.com/2026/08/anthropic-names-first-chief-global-affairs-officer.avif",
@@ -1107,7 +1195,6 @@
     "title": "Sources: an EU investigation is set to find that Azure and AWS meet DMA thresholds, as the EU strengthens its regulatory scrutiny of the cloud sector (Bloomberg)",
     "description": "Bloomberg:\nSources: an EU investigation is set to find that Azure and AWS meet DMA thresholds, as the EU strengthens its regulatory scrutiny of the cloud sector  —  Microsoft Corp.'s Azure and Amazon Web Services are set to be designated under the European Union's strict rulebook for Big Tech.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-02T13:45:02+00:00",
@@ -1355,7 +1442,6 @@
     "title": "AT&T claims iOS 27.0.1 fixes iPhone 18 Pro Max cellular issues, but users disagree [U]",
     "description": "Since the iPhone 18 Pro Max launched, some AT&T customers have complained of various connectivity issues.\n\n\n\nIn a new text message to customers, AT&T says affected users should update their devices to iOS 26.0.1 to fix the issues … but early reports indicate the update doesn’t actually fix the problem.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-02T12:27:29+00:00",
@@ -2243,99 +2329,5 @@
     "pub_date": "2026-10-02T09:10:19+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/0559TqrbNOBwTmtkQeTiLsu/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/science/james-webb-space-telescope-planet-forming-collisions",
-    "title": "How violent was that planet crash? Astronomers check the dust.",
-    "description": "NASA's James Webb Space Telescope and Spitzer study planet-collision dust around young stars that reveals how hard worlds hit.",
-    "categories": [
-      "Breaking News",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-02T09:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06nCj3GdRQhQNV6sjkwDTPd/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/iphone-18-pro-max-discoloration-complains-around-camera-lenses",
-    "title": "Some iPhone 18 Pro and Max users say the devices color is already fading",
-    "description": "Is there a discoloration issue plaguing certain iPhone 18 Pro and Pro Max devices? Some users say there is.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-02T09:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02nSgHIbaSsdh7XlXUZf1DT/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-early-october-prime-day-laptop-deals-2026",
-    "title": "The best laptop deals ahead of October Prime Day — save up to $900 on MacBooks and PCs",
-    "description": "The best early October Prime Day laptop deals include discounts of up to $900 on MacBooks and PCs from Asus, MSI, and Alienware.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-02T09:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06NhCCOAninze4JV4Bybq0L/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-2-microsoft-windows-11-pro",
-    "title": "For 2 days, you can get Windows 11 Pro for just $10",
-    "description": "Windows 11 Pro is normally $199, but now it's just $9.97.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-02T09:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03IjxaEF3dtiGUx9BGGcQLa/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-2-adguard-family-plan-lifetime-subscription-deal",
-    "title": "Block ads on up to 9 devices for $11 with this lifetime AdGuard plan",
-    "description": "Get a lifetime AdGuard Family Plan subscription for $11 (reg. $169.99) through Oct. 4 and block ads and trackers on up to nine devices.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-02T09:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05Rvbp4lzJgxR0oww5HP7y1/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-2-chatplayground-ai-unlimited-plan-lifetime-subscriptions",
-    "title": "ChatGPT vs. Claude vs. Gemini? Compare them all for 91% off.",
-    "description": "Get a lifetime ChatPlayground AI Unlimited Plan subscription for $54.97 (reg. $619) through Oct. 4 and compare 20+ AI models side by side.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-02T09:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00669lo8ozZ24RxdsyDGhkJ/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-early-amazon-october-prime-day-iphone-deals-2026",
-    "title": "4 early Prime Day iPhone deals: We found the new iPhone 18 Pro for free (yes, really)",
-    "description": "Looking for early Prime Day iPhone deals? Amazon isn't discounting new models yet, but you can grab a free iPhone 18 Pro at T-Mobile.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-02T08:59:47+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07bo6fa9MI0ZPflB1Nj7PRv/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/tech-skills-gaps-are-costing-uk-businesses-around-gbp380-000-a-year-and-its-even-worse-in-cybersecurity",
-    "title": "Tech skills gaps are costing UK businesses around £380,000 a year — and it's even worse in cybersecurity",
-    "description": "The skills gap could be costing UK businesses hundreds of thousands each year, and half of senior leaders don't even know what to do about it.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-02T08:58:19+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/hvkxS6YQxDoEiTLwWEaPJL-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
