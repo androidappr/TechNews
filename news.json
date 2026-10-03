@@ -1,5 +1,56 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "description": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-03T18:43:57+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/openai-david-robinson-quits-nuclear-safeguards",
+    "title": "OpenAI safety staffer quits, says AI labs should run like nuclear plants",
+    "description": "A member of OpenAI’s safety team has quit, warning that the company is not taking enough care with AI’s risks. David Robinson set out his reasons in an essay for The Atlantic. Robinson led transparency work on OpenAI’s safety team, Bloomberg reported. He wrote that the ChatGPT maker “has thrived by trial and error.” That approach no",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-03T18:35:53+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/openai-logo-smartphone-laptop-zac-wolff-unsplash.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2276597/capcom-plans-to-use-ai-to-speed-up-the-game-development-process/",
+    "title": "Capcom plans to use AI to speed up the game development process",
+    "description": "The company previously said it won't use AI-generated content in its games.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-03T18:27:15+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/capcom-plans-to-use-ai-to-speed-up-the-game-development-process/l-intro-1791051900.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/bessent-says-ai-alarmism-without-solutions-is-not-leadership",
+    "title": "Bessent says AI alarmism without solutions is not leadership",
+    "description": "US Treasury Secretary Scott Bessent has criticised AI leaders who warn of disaster but offer no fixes. He made the remarks in an interview with Axios published on Saturday. “This alarmism without solutions by some of the AI community, that’s not leadership,” Bessent said, as Bloomberg reported. In September, Anthropic’s Dario Amodei, OpenAI’s Sam Altman and xAI’s Elon Musk",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-03T18:26:38+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/Treasury-Secretary-Scott-Bessent.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/a-hyperscaler-wants-to-buy-a-site-almost-3x-bigger-than-central-park-in-osceola-county-florida-as-its-residents-worry-about-a-future-surrounded-by-data-centers",
     "title": "A hyperscaler wants to buy a site almost 3X bigger than Central Park in Osceola County, Florida — as its residents worry about a future surrounded by data centers",
     "description": "Residents in Florida’s Osceola County are concerned about plans for a huge 2,000-plus acre data center.",
@@ -678,6 +729,17 @@
     "source_name": "WIRED.COM"
   },
   {
+    "link": "https://www.techradar.com/tech/icymi-the-8-biggest-tech-stories-of-the-week-from-metas-ai-agent-to-a-big-refresh-for-the-amazon-kindle",
+    "title": "ICYMI: the 8 biggest tech stories of the week",
+    "description": "We're looking back over the last week to pick out the most important stories published on TechRadar.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-03T10:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/BYwBdDKNXayYSMuiUzpJfj-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techradar.com/tablets/ereaders/which-color-ereader-should-you-buy-this-prime-day-here-are-your-options",
     "title": "Which color ereader should you buy this Prime Day? Here are your options",
     "description": "It's not all about the Kindle — here's how your other color ereader options compare, to help you pick the right one to buy.",
@@ -686,17 +748,6 @@
     ],
     "pub_date": "2026-10-03T10:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/uWFs2tzhwsky9aJoUD4aFG-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/streaming/amazon-prime-video/what-is-the-release-date-for-mike-flanagans-carrie-on-prime-video",
-    "title": "What is the release date for Mike Flanagan's Carrie on Prime Video?",
-    "description": "Mike Flanagan's Carrie adaptation is coming to Prime Video this October. But when can you watch the new TV series?",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-03T10:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/hwStrDdTS4bvt3GnuUVNDS-1920-80.webp",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -711,14 +762,14 @@
     "source_name": "MASHABLE.COM"
   },
   {
-    "link": "https://www.techradar.com/tech/icymi-the-8-biggest-tech-stories-of-the-week-from-metas-ai-agent-to-a-big-refresh-for-the-amazon-kindle",
-    "title": "ICYMI: the 8 biggest tech stories of the week",
-    "description": "We're looking back over the last week to pick out the most important stories published on TechRadar.",
+    "link": "https://www.techradar.com/streaming/amazon-prime-video/what-is-the-release-date-for-mike-flanagans-carrie-on-prime-video",
+    "title": "What is the release date for Mike Flanagan's Carrie on Prime Video?",
+    "description": "Mike Flanagan's Carrie adaptation is coming to Prime Video this October. But when can you watch the new TV series?",
     "categories": [
       "Tech News"
     ],
     "pub_date": "2026-10-03T10:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/BYwBdDKNXayYSMuiUzpJfj-1920-80.jpg",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/hwStrDdTS4bvt3GnuUVNDS-1920-80.webp",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -1070,28 +1121,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.wired.com/story/hoka-coupon-code/",
-    "title": "Hoka Coupon Codes: 30% Off in October 2026",
-    "description": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for October 2026.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-03T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/chewy-promo-code/",
-    "title": "Chewy Promo Codes: $20 Off October 2026",
-    "description": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-03T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/brooks-promo-code/",
     "title": "20% Off Brooks Promo Code | October 2026",
     "description": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
@@ -1133,6 +1162,28 @@
     ],
     "pub_date": "2026-10-03T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/hoka-coupon-code/",
+    "title": "Hoka Coupon Codes: 30% Off in October 2026",
+    "description": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for October 2026.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-03T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/chewy-promo-code/",
+    "title": "Chewy Promo Codes: $20 Off October 2026",
+    "description": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-03T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -2193,53 +2244,5 @@
     "pub_date": "2026-10-02T18:15:26+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/airfly-drive-plugged-usb-port-black-2.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/quantum-sensing-navigation-gps-quantum-x-labs",
-    "title": "Quantum sensing could become the next foundation of navigation",
-    "description": "GPS has become so embedded in modern life that its infrastructure is almost invisible. A driver opens a map, an aircraft follows its navigation system, or an autonomous machine calculates its position, and the underlying infrastructure disappears from view. Nir Sharon, Chief Quantum Technology Scientist at Quantum X Labs and an associate professor of applied",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-02T18:12:41+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/quantum-sensing-navigation-gps-quantum-x-labs.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-    "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-    "description": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy",
-      "Gadgets & Hardware",
-      "Social & Media",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-02T18:11:27+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261002/p18#a261002p18",
-    "title": "Anthropic launches the Claude Frontier Academy with a $100M commitment to train 10K \"Frontier Deployed Engineers\" by 2028, starting with Accenture, Bain, others (Anthropic)",
-    "description": "Anthropic:\nAnthropic launches the Claude Frontier Academy with a $100M commitment to train 10K “Frontier Deployed Engineers” by 2028, starting with Accenture, Bain, others  —  The first-of-its-kind Academy trains Frontier Deployed Engineers using the same standard of skills as Anthropic's own engineers …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-02T18:00:38+00:00",
-    "image_url": "http://www.techmeme.com/261002/i18.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-    "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-    "description": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI announced",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-02T18:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04281_processed.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
