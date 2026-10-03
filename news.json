@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
+    "title": "Vessev built an electric ferry that almost flies",
+    "description": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
+    "categories": [
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-03T14:42:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+    "title": "An OpenAI safety employee has quit and is sounding the alarm",
+    "description": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-03T14:31:56+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.engadget.com/2273342/what-does-fdm-stand-for-fused-deposition-modeling-3d-printing-method/",
     "title": "What does FDM stand for in 3D printing and how does it work?",
     "description": "FDM stands for fused deposition modeling, but what does that mean, and how does it differ from other 3D printing methods? Let's find out.",
@@ -2233,27 +2256,5 @@
     "pub_date": "2026-10-02T16:35:13+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nacon1.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://science.nasa.gov/earth/natural-disasters/wildfires/nasa-campaign-explores-clouds-spawned-by-wildfires/",
-    "title": "NASA Campaign Explores Clouds Spawned by Wildfires",
-    "description": "The Wildhorse grass fire in eastern Idaho erupted with a massive pulse of smoke. No one had expected it, but the wildfire had launched what’s known as a pyrocumulonimbus cloud, or pyroCb. It was an elusive weather phenomenon that scientists on NASA’s INSPYRE (INjected Smoke and PYRocumulonimbus Experiment) campaign spent weeks this summer hunting across",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-02T16:34:57+00:00",
-    "image_url": "https://science.nasa.gov/wp-content/uploads/2026/09/20260826-175244.jpg?w=1536",
-    "source_name": "SCIENCE.NASA.GOV"
-  },
-  {
-    "link": "https://www.techradar.com/cameras/360-cameras/insta360-cameras-get-free-3d-scanner-upgrade-and-the-gaussian-splatting-tool-gives-you-4-free-renders-a-month",
-    "title": "Insta360 just turned its action cameras into free 3D scanners —here's how",
-    "description": "Insta360 has launched Spatial Capture, a free feature that uses 3D Gaussian Splatting to turn short 360 videos into explorable 3D models of indoor spaces.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-02T16:34:13+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
