@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.engadget.com/2273684/how-to-improve-laptop-webcam-quality/",
+    "title": "How to improve your laptop's webcam quality",
+    "description": "Your laptop's webcam is not usually an impressive piece of hardware, but you can help make up for its shortcomings.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-03T22:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-to-improve-your-laptops-webcam-quality/l-intro-1790790673.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.engadget.com/2273492/online-retailers-dont-support-digital-wallets-losing-gen-z-customers/",
     "title": "Online retailers that don't support digital wallets are losing Gen Z customers",
     "description": "A study suggests younger people are more likely to walk away if their preferred payment option isn't supported.",
@@ -265,7 +276,6 @@
     "description": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Government & Policy",
       "Science & Environment"
     ],
@@ -589,17 +599,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.techradar.com/phones/i-wanted-to-lock-down-99-percent-of-my-childs-phone-and-with-google-family-link-that-was-easier-than-i-expected",
-    "title": "Google Family Link helped me lock down 99% of my child's phone with ease — here's how",
-    "description": "I tested Google Family Link, which enables parents to control their child's phone experience to keep them safe while online.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-03T15:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/vpq62STPX8fQeTftzupiXJ-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/phones/phone-accessories/anker-nano-45w-smart-display-charger-review",
     "title": "Anker Nano 45W Smart Display Charger review: a quirky and compact charging companion",
     "description": "Charging your phone doesn’t have to be boring — Anker’s new charger makes faces at you as you juice your devices up, and its ultra-compact build makes it easy to recommend.",
@@ -608,6 +607,17 @@
     ],
     "pub_date": "2026-10-03T15:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/auSGFGex9tsHpXJgxFyP6k-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/phones/i-wanted-to-lock-down-99-percent-of-my-childs-phone-and-with-google-family-link-that-was-easier-than-i-expected",
+    "title": "Google Family Link helped me lock down 99% of my child's phone with ease — here's how",
+    "description": "I tested Google Family Link, which enables parents to control their child's phone experience to keep them safe while online.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-03T15:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/vpq62STPX8fQeTftzupiXJ-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2235,17 +2245,5 @@
     "pub_date": "2026-10-02T19:40:38+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00736.jpeg",
     "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/nvidia-6-trillion-record-asml-gap",
-    "title": "Nvidia hits its first record since May, within $300B of $6T",
-    "description": "Nvidia hit a record for the first time since May, leaving it under $300B short of becoming the first company worth $6T, on a rally driven by AI agent demand and a record $150B buyback increase. ASML, Europe’s most valuable listed company, needs the same $300B to reach its first trillion. Nvidia hit a record",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-02T19:32:27+00:00",
-    "image_url": "https://media.thenextweb.com/2026/07/nvidia-vera-rubin-full-production-customers.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
