@@ -1,5 +1,18 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "title": "Meta wants you to build your own Muse gadget",
+    "description": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-03T00:45:39+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
     "title": "Sanders introduces bill to ban the federal government from using Flock",
     "description": "The proposed legislation would extend to all automotica license plate readers.",
@@ -377,7 +390,6 @@
     "title": "Kelly Clarkson loves AI. People online do not love her for that.",
     "description": "Kelly Clarkson draws backlash for admitting she loves AI on Matt Rogers and Bowen Yang's \"Las Culturistas\" podcast.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-02T20:43:55+00:00",
@@ -2270,17 +2282,5 @@
     "pub_date": "2026-10-02T12:15:42+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/oYo4EyQEZ7ZGP3LfugU4dD-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/openai-rogue-agents-asymmetric-security-cdc-bonta-subpoena",
-    "title": "California subpoenas OpenAI as investigators trace its agents to the CDC",
-    "description": "OpenAI’s rogue agents reached pre-production servers, tried attacker techniques and probed the websites of the CDC, the SEC, the International Energy Agency and the Mayo Clinic. That is according to an investigation published on Thursday by Asymmetric Security, a digital forensics firm. Some of their tactics left records erased or out of reach. Public data",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-02T12:14:20+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/1344-openai-rogue-agents-cover.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
