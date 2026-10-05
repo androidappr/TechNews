@@ -1,5 +1,89 @@
 [
   {
+    "link": "https://www.techradar.com/health-fitness/exercise-equipment/the-urevo-spacewalk-e1l-walking-pad-is-under-usd130-at-best-buy-as-a-fitness-tech-expert-i-can-recommend-it-to-keep-you-hitting-your-step-count-all-winter-long",
+    "title": "The Urevo Spacewalk E1L walking pad is now under $130 at Best Buy",
+    "description": "Urevo makes top-quality under-desk treadmills, and Best Buy is doing a great deal on the E1L.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-05T21:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/YNYuBy6wdAS8gheySA8pdi-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/wikimedia-openai-agents-wiki-edits-wikidata-outage",
+    "title": "Wikimedia says rogue OpenAI agents edited its wikis without approval",
+    "description": "The Wikimedia Foundation says AI agents it believes OpenAI runs made unapproved edits to its wikis. They also tried and failed to break into a note-taking tool it hosts. Their traffic may have contributed to a partial outage in May, the foundation, which hosts Wikipedia, said in a blog post on Monday. Its investigation found",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-05T20:56:29+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/wikimedia-foundation-dell-server-racks-close-up.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/10/05/this-is-apple-musics-new-logo-probably/",
+    "title": "This is Apple Music’s new logo, probably",
+    "description": "Apple Music seems to be rolling out a new logo, as spotted in several places including iOS 27 beta 3.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-05T20:50:43+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-music-new-logo-black.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/10/05/openai-details-new-text-watermarking-system-for-chatgpt-codex-and-the-api/",
+    "title": "OpenAI details new text watermarking system for ChatGPT, Codex, and the API",
+    "description": "OpenAI today announced how it will comply with the EU AI Act, which requires providers of generative AI systems to mark AI-generated text in a way that makes it identifiable. Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-05T20:46:17+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/chatgpt-red.webp?w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261005/p32#a261005p32",
+    "title": "SpaceX stock closes up 7.6% after Morgan Stanley called SPCX \"cheap\", reaching its highest level since mid-June and returning Elon Musk to trillionaire status (Lora Kolodny/CNBC)",
+    "description": "Lora Kolodny / CNBC:\nSpaceX stock closes up 7.6% after Morgan Stanley called SPCX “cheap”, reaching its highest level since mid-June and returning Elon Musk to trillionaire status  —  SpaceX shares rose almost 8% on Monday, reaching their highest since mid-June, shortly after Elon Musk's company held its record initial public offering.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-05T20:45:01+00:00",
+    "image_url": "http://www.techmeme.com/261005/i32.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+    "description": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-05T20:36:48+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/trump-super-intelligence-ai-rebrand-musk-spacexsi-slovenia-domain/",
+    "title": "Trump’s ‘Super Intelligence’ AI Rebrand Has Everyone Shopping for Slovenia’s .SI Domain",
+    "description": "Elon Musk says he will rename the just renamed SpaceXAI to SpaceXSI to align with the White House directive.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-05T20:36:30+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2297619001.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/us-counties-are-desperately-trying-to-stop-data-centers-from-taking-over-a-look-at-how-charlotte-pima-county-and-guildford-county-are-dealing-with-the-onslaught-with-an-interesting-catch",
     "title": "US counties are desperately trying to stop data centers from taking over: A look at how Charlotte, Pima County, and Guildford County are dealing with the onslaught - with an interesting catch",
     "description": "Guilford, Pima, and Charlotte are all hitting pause on data centers, but the fine print indicates not one of these moratoriums stops a project already in motion.",
@@ -34,6 +118,18 @@
     "pub_date": "2026-10-05T20:14:57+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nolla-health-app.png?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/best-early-october-prime-day-amazon-device-deals-2026",
+    "title": "A ton of Amazon device deals are live for October Prime Day: Shop Fire TVs, Echo speakers",
+    "description": "The best Amazon device deals are live for October Prime Day 2026. We found savings up to 45% on Fire tablets, Fire TVs, and Blink cameras.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-05T20:06:37+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/04rR8M3Rrp4eJXTCl1RGaOC/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techmeme.com/261005/p31#a261005p31",
@@ -145,8 +241,8 @@
   },
   {
     "link": "https://www.techmeme.com/261005/p30#a261005p30",
-    "title": "Reflection unveils open-weight model Beam, saying it excels at coding and agentic tasks, uses 3x-4x less compute than comparable models, and nears Qwen3.8-Max (Semafor)",
-    "description": "Semafor:\nReflection unveils open-weight model Beam, saying it excels at coding and agentic tasks, uses 3x-4x less compute than comparable models, and nears Qwen3.8-Max  —  Reflection AI, the startup billing itself as America's answer to open-source Chinese AI, is releasing its first model, called Beam.",
+    "title": "Reflection unveils Beam, an open model it says rivals GLM 5.2 on reasoning while using 3x-4× less compute and approaches Qwen3.8-Max on coding and agentic tasks (Semafor)",
+    "description": "Semafor:\nReflection unveils Beam, an open model it says rivals GLM 5.2 on reasoning while using 3x-4× less compute and approaches Qwen3.8-Max on coding and agentic tasks  —  Reflection AI, the startup billing itself as America's answer to open-source Chinese AI, is releasing its first model, called Beam.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -714,7 +810,6 @@
     "title": "Flock’s network is a form of ‘indiscriminate mass surveillance, judge rules",
     "description": "A judge says warrantless police searches made using Flock’s license plate readers violate Americans’ Fourth Amendment rights.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-05T17:01:15+00:00",
@@ -727,7 +822,6 @@
     "description": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about the incident, the publicist warned Guiducci about running out of time, saying she'd like to \"move on\" to another topic. The interruption came",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-10-05T16:55:42+00:00",
@@ -763,7 +857,6 @@
     "description": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"people will do tremendously orders of magnitude more good stuff\" with AI,",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-10-05T16:44:21+00:00",
@@ -776,7 +869,6 @@
     "description": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-05T16:43:35+00:00",
@@ -1325,7 +1417,6 @@
     "title": "US judge rules a police Flock search was unconstitutional mass surveillance",
     "description": "A federal judge in Oklahoma has ruled that a deputy’s warrantless search of Flock’s licence plate reader network broke the US Constitution. In an order dated 1 October, Judge Sara Hill called the system “a type of indiscriminate mass surveillance”. Jason Koebler of 404 Media first reported the ruling. “It is a tool that collects",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-10-05T14:43:35+00:00",
@@ -1655,6 +1746,7 @@
     "title": "Full Disk Access on Mac: Here’s what Apple must, and must not, do",
     "description": "We’ve seen a number of examples of why giving Meta’s Muse app full disk access to your Mac is a very bad idea, and yet another major privacy issue has recently been discovered. It’s now been found that Muse analyzes your communication with everyone in your life on an hourly basis.\n\n\n\nApple is rightly concerned about the development, and in a blog post says that it will be introducing additional controls around the Full Disk Access feature that’s been enabling the problems … \n\n\n\n more…",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-05T13:48:12+00:00",
@@ -2238,95 +2330,5 @@
     "pub_date": "2026-10-05T12:00:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/P1024842.jpg",
     "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/mobile/meta-muse-charm-pendant-smartwatch-hint/",
-    "title": "Meta’s ‘AI Tamagotchi’ Looks to Me Like a Smartwatch Preview for 2027",
-    "description": "As smartwatches head toward becoming AI companions, Meta might be working a new angle.",
-    "categories": [
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-10-05T12:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/image-1-2.png",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-    "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-    "description": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-    "categories": [
-      "AI & Machine Learning",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-05T12:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2275929/qalo-sl-1-review/",
-    "title": "Qalo SL-1 review: A barebones smart band that's priced like a flagship",
-    "description": "Qalo's first screenless tracker is too expensive for what it is.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-05T12:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/qalo-sl-1-review-a-barebones-smart-band-thats-priced-like-a-flagship/l-intro-1790960050.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/apples-2026-mac-desktop-lineup-tested",
-    "title": "Apple’s 2026 Mac desktop lineup tested: We break down all four options",
-    "description": "We break down Apple's 2026 Mac desktop lineup, testing M6 Mac mini and M5 Studio performance, price increases, and specs.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-05T11:57:17+00:00",
-    "image_url": "https://cdn.ex.co/transformations-account/production/a0be6317-e085-43f9-8cb5-7b125d25af4b/a7d1a87b-677b-5467-94db-efae099ca966/master.m3u8",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s27-ultra-leak-reveals-four-rumored-color-options",
-    "title": "Samsung Galaxy S27 Ultra leak reveals four rumored color options",
-    "description": "Samsung is apparently getting ready to paint the Galaxy S27 Ultra in four standard shades, including one that's previously a Samsung store-exclusive.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-05T11:53:19+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/KNutiXWqfhzqfkgLWYfLeL-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/05/john-ternus-and-tim-cook-took-opposite-approaches-to-design-and-both-were-right/",
-    "title": "John Ternus and Tim Cook took opposite approaches to design, and both were right",
-    "description": "One of the most famous and successful partnerships in the history of technology has been that of Steve Jobs and Jony Ive. When Tim Cook took over as CEO, he did not play the same role in working with Ive on hardware design – and that was the right decision.\n\n\n\nJohn Ternus is apparently taking a much more Steve-like approach to working with Apple’s design lab, and I think that too is the right call …\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-05T11:53:02+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/John-Ternus-and-Tim-Cook-took-opposite-approaches-to-design-and-both-were-right.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261005/p14#a261005p14",
-    "title": "Billionaires Index: tech billionaires account for all of the $845B in wealth gains so far in 2026; those whose fortunes came from outside tech lost $62B total (Kristine Owram/Bloomberg)",
-    "description": "Kristine Owram / Bloomberg:\nBillionaires Index: tech billionaires account for all of the $845B in wealth gains so far in 2026; those whose fortunes came from outside tech lost $62B total  —  AI brings a staggering new peak in wealth - and signs we just passed it. … The boom in AI valuations has created unprecedented wealth …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-05T11:50:48+00:00",
-    "image_url": "http://www.techmeme.com/261005/i14.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-early-october-prime-day-ssd-deals-2026",
-    "title": "20+ early Prime Day deals on MicroSDs, SSDs, and hard drives: Our favorite deals to beat RAMageddon",
-    "description": "Early Prime Day SSD deals are already live. Save big on portable external drives, PS5-ready NVMe SSDs, and high-capacity microSD cards from Samsung and SanDisk.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-05T11:48:52+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05yXgbq9xrT9FlBPoaZrcyA/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
