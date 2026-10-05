@@ -1,15 +1,64 @@
 [
   {
-    "link": "https://www.cnet.com/uncategorized/this-roborock-robot-lawn-mover-is-at-a-record-low-for-prime-day/",
-    "title": "This Roborock Robot Lawn Mover Is at a Record Low for Prime Day",
-    "description": "Roborock’s capable robot lawn mower is down $899 for Prime Day making it more affordable than ever.",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+    "title": "This startup is issuing AI-generated acne prescriptions",
+    "description": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloomberg. The service is launching",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-05T20:14:57+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nolla-health-app.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261005/p31#a261005p31",
+    "title": "TikTok debuts Shopping Assistant, a conversational AI agent that helps users find and buy products, and Buy Direct for one-click purchases from the For You feed (Aisha Malik/TechCrunch)",
+    "description": "Aisha Malik / TechCrunch:\nTikTok debuts Shopping Assistant, a conversational AI agent that helps users find and buy products, and Buy Direct for one-click purchases from the For You feed  —  TikTok announced Monday that it's launching an AI shopping assistant and a new in-app checkout feature that lets users buy directly from brands.",
     "categories": [
       "Breaking News",
       "Tech News"
     ],
-    "pub_date": "2026-10-05T19:49:50+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/roborock-rockmow-x115.png",
-    "source_name": "CNET.COM"
+    "pub_date": "2026-10-05T20:05:01+00:00",
+    "image_url": "http://www.techmeme.com/261005/i31.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/elon-musks-exes-are-the-most-damning-part-of-a-massive-new-documentary/",
+    "title": "Elon Musk’s Exes Are the Most Damning Part of a Massive New Documentary",
+    "description": "Interviews with Justine Wilson and Ashley St. Clair in the nearly four-hour-long Musk paint the world’s richest man as capricious and cruel even toward those closest to him.",
+    "categories": [
+      "Business & Startups",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-05T19:58:38+00:00",
+    "image_url": "https://media.wired.com/photos/6ac02c7cf11859774e123e07/master/pass/culture_musk_exes_damning_documentary.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2278051/wikimedia-links-openai-agents-to-an-outage-and-unauthorized-activity/",
+    "title": "Wikimedia links OpenAI agents to an outage and unauthorized activity",
+    "description": "Wikimedia says it's \"deeply concerned about the impact of 'rogue' AI agents on platforms like ours.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-05T19:55:11+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/wikimedia-links-openai-agents-to-an-outage-and-unauthorized-activity/l-intro-1791230037.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://mashable.com/life/best-early-october-prime-day-lego-deals-2026",
+    "title": "14 Prime Day deals on Lego: We found rare deals on Lego Star Wars, Lego Pokémon, and more",
+    "description": "Tons of Lego sets are on sale at Amazon for Prime Big Deal Days. We've gathered up 14 of our favorites to check out, including select Lego Botanicals builds, Lego Pokémon, and more.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-05T19:51:14+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01YMeO5k4yxmJ99K7lr2jah/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://9to5mac.com/2026/10/05/apple-tv-brings-back-hit-limited-series-for-season-2-by-popular-demand/",
@@ -21,6 +70,18 @@
     "pub_date": "2026-10-05T19:39:38+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-tv-logo-fall-foliage-2.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://mashable.com/life/gg-ez-song-ai-made-human-viral",
+    "title": "GG EZ started as AI. Two creators made it human. Does that change anything?",
+    "description": "Is \"GG EZ\" AI? The viral song started as an AI track before Kaien Nuen and Sugar Zhang remade it. Here's everything to know.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-05T19:39:34+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/07hMKUyEYwakox1FT2cw2I8/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
@@ -37,7 +98,7 @@
   {
     "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
     "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-    "description": "Nvidia-backed Reflection AI unveils Beam, its first open-weight model, which it says rivals GLM-5.2 on reasoning with far less inference compute. Weights are due this month.",
+    "description": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -61,8 +122,8 @@
   },
   {
     "link": "https://www.techmeme.com/261005/p30#a261005p30",
-    "title": "Reflection unveils open-weight model Beam, saying it excels at coding and agentic tasks, uses 3x-4x less compute than comparable models, and nears Qwen 3.8-Max (Semafor)",
-    "description": "Semafor:\nReflection unveils open-weight model Beam, saying it excels at coding and agentic tasks, uses 3x-4x less compute than comparable models, and nears Qwen 3.8-Max  —  Reflection AI, the startup billing itself as America's answer to open-source Chinese AI, is releasing its first model, called Beam.",
+    "title": "Reflection unveils open-weight model Beam, saying it excels at coding and agentic tasks, uses 3x-4x less compute than comparable models, and nears Qwen3.8-Max (Semafor)",
+    "description": "Semafor:\nReflection unveils open-weight model Beam, saying it excels at coding and agentic tasks, uses 3x-4x less compute than comparable models, and nears Qwen3.8-Max  —  Reflection AI, the startup billing itself as America's answer to open-source Chinese AI, is releasing its first model, called Beam.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -262,7 +323,7 @@
   },
   {
     "link": "https://www.androidcentral.com/apps-software/media-struggles-to-send-in-rcs-for-google-messages-a-fix-is-coming-after-users-report",
-    "title": "Media struggles to send in RCS for Google Messages—a fix is coming after users report",
+    "title": "Google Messages struggles to send media in RCS—but a fix is coming",
     "description": "Media problems rise again for Google Messages' RCS chats, but it looks like Google is on the case.",
     "categories": [
       "Tech News"
@@ -785,7 +846,6 @@
     "title": "In a first-of-its-kind pilot in the US, Nolla Health will use AI to diagnose and prescribe acne medications to Utah patients without direct human oversight (Annika Inampudi/Bloomberg)",
     "description": "Annika Inampudi / Bloomberg:\nIn a first-of-its-kind pilot in the US, Nolla Health will use AI to diagnose and prescribe acne medications to Utah patients without direct human oversight  —  In a first-of-its-kind pilot, Nolla Health lets AI diagnose and issue prescriptions.  —  An AI-based healthcare startup on Monday …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-05T16:10:01+00:00",
@@ -797,7 +857,6 @@
     "title": "F1 in Bahrain... in Malaysia: The race needed a software update to start",
     "description": "A software bug waylaid half the field and required a race reboot.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-05T16:09:07+00:00",
@@ -843,7 +902,6 @@
     "title": "How to watch Italy vs Turkey for FREE: Live streams, Team News & TV channels as the Azzurri look for 3 points in Bologna",
     "description": "All the ways to watch Italy vs Turkey live streams online for free from anywhere in the world with TV channels and full broadcast details for this Nations League game.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-05T15:55:00+00:00",
@@ -2272,65 +2330,5 @@
     "pub_date": "2026-10-05T11:32:06+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/Fdwe3YokgwWLtYxv5HDtm-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261005/p12#a261005p12",
-    "title": "Q&A with Sam Altman on his kids, his rivalries, pronatalism, \"prepping\" for the apocalypse, new products, the IPO delay, Luca Guadagnino's Artificial, and more (Vanity Fair)",
-    "description": "Vanity Fair:\nQ&A with Sam Altman on his kids, his rivalries, pronatalism, “prepping” for the apocalypse, new products, the IPO delay, Luca Guadagnino's Artificial, and more  —  In an exclusive video interview, the OpenAI CEO discusses ChatGPT and suicide prevention, safety breaches …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-05T11:30:01+00:00",
-    "image_url": "http://www.techmeme.com/261005/i12.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/audio/wireless-headphones/sony-goes-early-on-prime-day-big-deals-with-two-all-new-headphones-already-down-to-lowest-seen-prices",
-    "title": "Huge early Prime Day savings on Sony headphones live now",
-    "description": "The Sony WH-C530 and WH-CH730N are both enjoying their first ever discounts thanks to the company jumping the gun on Prime Day.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-05T11:30:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/frgfYHMaYEXoS6wJ49vNHD-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/chatgpt-visual-ads-dsa-europe",
-    "title": "OpenAI is putting ads inside ChatGPT’s image generation",
-    "description": "OpenAI is testing a visual ad format during image generation in ChatGPT, placed by guardrails that assess whether a conversation is emotionally vulnerable or sensitive before an ad appears. Ads already run in 31 European countries, and ChatGPT’s designation as a very large online search engine means it must publish a public ad repository by",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-05T11:28:04+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/chatgpt-visual-ad-format-mockup.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/seasonal-sales/ive-found-the-35-top-deals-in-the-best-buy-techtober-sale-save-up-to-50-percent-on-lg-sony-ninja-breville-dell-hp-and-more",
-    "title": "I've found the 35 top deals in the Best Buy Techtober sale — save up to 50% on LG, Sony, Ninja, Breville, Dell, HP, and more",
-    "description": "Best Buy has launched its Techtober sale to compete with Prime Big Deal Days, so I've looked through the event and picked out the 35 best deals that I recommend.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-05T11:23:13+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/5yj9nisv2VJnqbt8KxQ7vV-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-5-early-prime-day-apple-ipad-mini-deal",
-    "title": "Rare Apple deal: The iPad mini is $100 off at Amazon ahead of Prime Day",
-    "description": "As of Oct. 5, the iPad mini (A17 Pro, WiFi, 128GB) is discounted to $499 at Amazon, 17% off its list price of $599.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-05T11:20:36+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00WiCqE2KXzlWKmKYRICLAf/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
