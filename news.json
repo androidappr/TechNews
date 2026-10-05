@@ -1,5 +1,80 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+    "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+    "description": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-05T14:30:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+    "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+    "description": "Today, I’m talking with Senator Adam Schiff, a Democrat from California. Sen. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there. I really wanted to ask him about how we might regulate anything related to the tech industry at this moment",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-05T14:30:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_2026-10-05_Schiff.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261005/p21#a261005p21",
+    "title": "Valon, which makes software to help US mortgage companies cut red tape and costs, raised a $150M Series D from Ribbit, a16z, and others at a $2.3B valuation (Zoya Hasan/Forbes)",
+    "description": "Zoya Hasan / Forbes:\nValon, which makes software to help US mortgage companies cut red tape and costs, raised a $150M Series D from Ribbit, a16z, and others at a $2.3B valuation  —  The U.S. mortgage market is massive, but its payment systems are antiquated and often analog.  Valon raised a $150 million Series D …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-05T14:25:01+00:00",
+    "image_url": "http://www.techmeme.com/261005/i21.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/the-new-dell-xps-13-is-a-rival-to-apples-new-budget-friendly-macbook-neo-with-usd200-price-drop-at-best-buy",
+    "title": "The new Dell XPS 13 is 'a rival to Apple's new budget-friendly MacBook Neo' — with $200 price drop at Best Buy",
+    "description": "We found the latest Dell XPS 13 is a MacBook Neo rival with lightweight design, solid performance, and a $200 discount at Best Buy.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-05T14:22:20+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Gxyx7rR4JHKQLt8N2svovD-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/openai-jalapeno-chip-richard-ho-ai-design",
+    "title": "OpenAI’s chip chief tells More Than Moore he doesn’t fully trust AI design",
+    "description": "OpenAI’s own AI models changed parts of its Jalapeño chip, and its engineers could not always say why. In one example, they saved more than 13% of die area, Richard Ho told Ian Cutress of More Than Moore. Ho leads OpenAI’s hardware team, and the interview was published on 30 September. “Well, I still don’t",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-05T14:17:02+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/openai-jalapeno-chip-test-board-socket.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+    "title": "The best early October Prime Day deals happening now",
+    "description": "Amazon and other retailers are knocking down prices on popular products for October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-05T14:10:19+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268775_October_Prime_Day_art_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261005/p20#a261005p20",
     "title": "Q&A with AI researchers Jacob Coxon, Daniel Kokotajlo, Alex Turner, and others on leaving AI labs, AGI's dangers, planned IPOs, AI safety, oversight, and more (New York Magazine)",
     "description": "New York Magazine:\nQ&A with AI researchers Jacob Coxon, Daniel Kokotajlo, Alex Turner, and others on leaving AI labs, AGI's dangers, planned IPOs, AI safety, oversight, and more  —  Exit interviews with defectors from OpenAI, Anthropic, and DeepMind.  —  On September 8, Jacob Coxon, a 27-year-old Anthropic employee …",
@@ -63,8 +138,8 @@
   },
   {
     "link": "https://www.techmeme.com/261005/p19#a261005p19",
-    "title": "Sources: Nico Caprez, son-in-law to Jensen Huang, has rapidly ascended to become an Nvidia VP, serving as Huang's \"consigliere\" and main contact for neoclouds (Phoebe Liu/The Information)",
-    "description": "Phoebe Liu / The Information:\nSources: Nico Caprez, son-in-law to Jensen Huang, has rapidly ascended to become an Nvidia VP, serving as Huang's “consigliere” and main contact for neoclouds  —  A little over a week ago, Madison Huang, a rising star at Nvidia and the daughter of its CEO, celebrated her wedding in Hawaii.",
+    "title": "Sources: Nico Caprez, son-in-law to Jensen Huang, rapidly ascended to become an Nvidia VP, serving as its main contact for neoclouds and Huang's \"consigliere\" (Phoebe Liu/The Information)",
+    "description": "Phoebe Liu / The Information:\nSources: Nico Caprez, son-in-law to Jensen Huang, rapidly ascended to become an Nvidia VP, serving as its main contact for neoclouds and Huang's “consigliere”  —  A little over a week ago, Madison Huang, a rising star at Nvidia and the daughter of its CEO, celebrated her wedding in Hawaii.",
     "categories": [
       "Tech News"
     ],
@@ -1076,6 +1151,7 @@
     "title": "AirPods Pro 3 plummet to $179 at Amazon ahead of October Prime Day — act fast to save $70",
     "description": "As of Oct. 5, the AirPods Pro 3 have dropped to $179 at Amazon ahead of Prime Day, 28% off their list price of $249.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-05T10:11:39+00:00",
@@ -1478,7 +1554,6 @@
     "title": "Google's Fitbit Edge leaks out with a screen and Pixel 11 colors",
     "description": "The upcoming Fitbit Edge looks like a replacement for the Fitbit Charge last seen in 2023.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-05T08:18:13+00:00",
@@ -2221,17 +2296,6 @@
     "source_name": "THENEXTWEB.COM"
   },
   {
-    "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-    "title": "The best early October Prime Day deals happening now",
-    "description": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-04T17:18:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268775_October_Prime_Day_art_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.techmeme.com/261004/p13#a261004p13",
     "title": "DigitalBridge CEO Marc Ganzi says his data center investment group will become SoftBank's \"third-party infrastructure arm\" after SoftBank's ~$4B takeover closed (Financial Times)",
     "description": "Financial Times:\nDigitalBridge CEO Marc Ganzi says his data center investment group will become SoftBank's “third-party infrastructure arm” after SoftBank's ~$4B takeover closed  —  DigitalBridge CEO Marc Ganzi says his data centre investment group will be SoftBank's ‘third-party infrastructure arm’ after $4bn takeover",
@@ -2241,61 +2305,5 @@
     "pub_date": "2026-10-04T17:00:42+00:00",
     "image_url": "http://www.techmeme.com/261004/i13.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/audio/wireless-headphones/after-two-weeks-of-testing-the-earfun-pro-x-headphones-reminded-me-of-the-new-bose-quietcomfort-2nd-gen-except-they-cost-half-the-price",
-    "title": "Earfun Pro X review: highly capable headphones that seriously undercut rivals such as Bose on price",
-    "description": "The Wave Pro X are Earfun's best cans so far, and the margin is wide.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-04T17:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/C3LLuzdhJwbysSXYWXsZoJ-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/trump-super-intelligence-force-leaders",
-    "title": "Trump names four officials to lead his Super Intelligence Force",
-    "description": "Trump named the intelligence director Jay Clayton, the FTC chairman Andrew Ferguson, the Pentagon technology chief Emil Michael and the personnel director Scott Kupor to lead a Super Intelligence Force with no statutory authority or budget. Europe took the opposite route in May, when the EU ratified the Council of Europe treaty whose title uses",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-04T16:45:34+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/President-Donald-Trump-addressing-press.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2274354/sony-digital-camera-model-numbers-explained/",
-    "title": "Sony digital camera model numbers explained: Bigger isn't always better",
-    "description": "Everything you need to know about Sony's alphanumeric naming schemes.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-04T16:45:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/sony-digital-camera-model-numbers-explained-bigger-isnt-always-better/l-intro-1790859010.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/digger-box-office-tom-cruise",
-    "title": "Diggers box office bomb is Tom Cruises worst opening in 19 years",
-    "description": "Alejandro G. Iñárritu's \"Digger,\" led by Tom Cruise, is a box office bomb. It earned just $8 million at the domestic box office.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-04T16:44:33+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06wwMGdx71zGtNUcCXrXnFq/hero-image.webp",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2276762/trump-announces-an-ai-czar-for-his-newly-created-super-intelligence-force/",
-    "title": "Trump announces an AI czar for his newly created 'Super Intelligence Force'",
-    "description": "That's really what it's called and there's actually someone in charge of it.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-04T16:29:26+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/trump-announced-an-ai-czar-for-his-newly-created-super-intelligence-force/l-intro-1791131077.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
