@@ -12,6 +12,19 @@
     "source_name": "THEVERGE.COM"
   },
   {
+    "link": "https://thenextweb.com/news/openai-text-watermarking-chatgpt-codex-eu-ai-act",
+    "title": "OpenAI starts watermarking ChatGPT and Codex text in the EU",
+    "description": "OpenAI will add an invisible watermark to text from ChatGPT and Codex in the EU over the coming weeks. The change covers eligible users on all plans, but only in the EU, the company said in a blog post on Monday. OpenAI said it is acting in response to the EU AI Act, which requires",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-05T21:12:29+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/chatgpt-billboard-rooftop-san-francisco-blue-sky.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/security/open-microsoft-database-with-17-trillion-total-rows-and-25-000-user-accounts-hacked-by-a-bored-teenager-but-hes-been-well-paid-for-his-actions",
     "title": "Open Microsoft database with 17 trillion total rows and 25,000 user accounts hacked by a bored teenager — but he's been well-paid for his actions",
     "description": "A 16-year-old set one login field to \"admin,\" and an estimated 17.3 trillion Microsoft rows became accessible.",
@@ -751,7 +764,6 @@
     "description": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Social & Media",
       "Software & Apps"
     ],
@@ -764,7 +776,6 @@
     "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
     "description": "TechCrunch attended Pear’s latest  demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
     "categories": [
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-05T17:26:44+00:00",
@@ -776,7 +787,6 @@
     "title": "Googles new Fitbit watch with a screen just leaked again",
     "description": "Photos of the next Fitbit device, which has a more traditional smartwatch display, just keep coming.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-05T17:22:25+00:00",
@@ -788,7 +798,6 @@
     "title": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
     "description": "Russian attacks on Internet, phone services threaten Ukraine’s wartime economy.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-05T17:21:11+00:00",
@@ -1162,7 +1171,6 @@
     "title": "Nobel Prize in medicine goes to the light switch for brain cells",
     "description": "Karl Deisseroth, Peter Hegemann and Georg Nagel have won the 2026 Nobel Prize in Physiology or Medicine. The prize rewards optogenetics, a method that switches nerve cells on and off with light. The Nobel Assembly at Karolinska Institutet in Stockholm announced it on Monday, according to its press release. Deisseroth works at Stanford University and",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-10-05T15:31:06+00:00",
@@ -2317,17 +2325,5 @@
     "pub_date": "2026-10-05T12:11:06+00:00",
     "image_url": "https://cdn.ex.co/transformations-account/production/a0be6317-e085-43f9-8cb5-7b125d25af4b/5556e958-c5fc-5a73-8046-66dde2bbbad0/master.m3u8",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/tech/germany-just-built-the-worlds-tallest-wind-turbine-365-meter-tower-will-generate-3-8-megawatts-from-high-altitude-winds",
-    "title": "The world's tallest wind turbine just got built in Germany",
-    "description": "Wind tends to be stronger and more consistent higher up, so Gicon has constructed a wind turbine to take advantage.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-05T12:09:46+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/yEC2Kck5Y3Yd8ddahXTA8G-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
