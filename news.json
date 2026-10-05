@@ -1,5 +1,39 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance",
+    "title": "Google admits not every Android app runs great on Intel Googlebooks",
+    "description": "Google has waited until the day its new Googlebook laptops hit the market to admit that Intel-based models may have issues running some Android apps. Before now, Google has emphasized that the Android-based Googlebooks give owners access to the \"entire Play Store library\" of apps, along with some clever interactions with Android phones and tablets.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-05T10:58:22+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Asus_Googlebook_14_ADiBenedetto_0006_0b94ab.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261005/p11#a261005p11",
+    "title": "Former Groq engineers file a lawsuit in Delaware against Groq, alleging the $20B \"non-exclusive\" acqui-hire deal with Nvidia in 2025 short-changed employees (Financial Times)",
+    "description": "Financial Times:\nFormer Groq engineers file a lawsuit in Delaware against Groq, alleging the $20B “non-exclusive” acqui-hire deal with Nvidia in 2025 short-changed employees  —  Employees of start-up say they were short-changed when the chip titan left them out of the ‘acqui-hire’ transaction",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-05T10:55:01+00:00",
+    "image_url": "http://www.techmeme.com/261005/i11.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/10/05/focus-modes-are-another-way-apple-has-adapted-ios-27-for-the-iphone-duo/",
+    "title": "Focus Modes are another way Apple has adapted iOS 27 for the iPhone Duo",
+    "description": "The unique form factor of the iPhone Duo led Apple to adapt iOS 27 in a number of ways to take full advantage of the upcoming new phone. This includes the iPhone dock sitting on the right-hand side of the outer display instead of at the bottom of the screen.\n\n\n\nDeveloper pdfu has now spotted another iPhone Duo-specific feature offering a more convenient way to toggle Focus modes …\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-05T10:54:53+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-night-sky-front-back.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261005/p10#a261005p10",
     "title": "OpenAI says it will begin testing a new visual ad format in ChatGPT later this month in the US, displaying clearly labeled visual ads during image generation (Mayank Parmar/BleepingComputer)",
     "description": "Mayank Parmar / BleepingComputer:\nOpenAI says it will begin testing a new visual ad format in ChatGPT later this month in the US, displaying clearly labeled visual ads during image generation  —  OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you're generating images.",
@@ -2198,39 +2232,5 @@
     "pub_date": "2026-10-04T00:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/00CzKbQLAZfDS9g800H3PLi/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2273775/battery-capacity-vs-life-differences/",
-    "title": "What's the difference between battery capacity and battery life?",
-    "description": "Battery capacity often plays into battery life, but an impressive capacity stat doesn't translate to excellent battery life.",
-    "categories": [
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-10-03T23:45:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/whats-the-difference-between-battery-capacity-and-battery-life/l-intro-1790703244.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2273771/why-only-pink-macbook-available-right-now/",
-    "title": "Why is this the only pink MacBook available right now?",
-    "description": "Is it too much to ask for some more colorful laptops?",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-03T23:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/why-is-this-the-only-pink-macbook-available-right-now/l-intro-1790350337.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2273743/little-known-app-display-song-lyrics-apple-carplay/",
-    "title": "This little-known app lets you display song lyrics on Apple CarPlay",
-    "description": "You can host your own episode of Carpool Karaoke with the Dynamic Lyrics CarPlay widget.",
-    "categories": [
-      "Gadgets & Hardware",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-03T23:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/this-little-known-app-lets-you-display-song-lyrics-on-apple-carplay/l-intro-1790792332.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
