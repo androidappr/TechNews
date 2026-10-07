@@ -1,5 +1,95 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+    "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+    "description": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-07T14:41:38+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+    "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+    "description": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into Biohub, the nonprofit biomedical research organization founded by Mark Zuckerberg and his wife, Priscilla Chan, as reported by Reuters. The funding is part of a $1.8 billion initiative to build AI datasets that could allow researchers to \"ask, predict,",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Science & Environment",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-07T14:40:52+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2243532165.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261007/p23#a261007p23",
+    "title": "Elon Musk says Grok Bot will use the \"best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno\" (Grace Kay/The Information)",
+    "description": "Grace Kay / The Information:\nElon Musk says Grok Bot will use the “best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno”  —  Elon Musk announced on Tuesday night that SpaceX's AI unit will now use some AI models from competitors to power Grok Bot, signaling a shift away …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-07T14:40:01+00:00",
+    "image_url": "http://www.techmeme.com/img/pml.png",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/best-october-prime-day-ssd-live-deals-2026",
+    "title": "The 20+ best Prime Day deals on MicroSDs, SSDs, and hard drives: Our top picks to beat RAMageddon",
+    "description": "October Prime Day SSD deals are live. Save big on portable external drives, PS5-ready NVMe SSDs, and high-capacity microSD cards from Samsung and Sandisk.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-07T14:39:40+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00D0f3tuyxRlLiX5yrKZ8FK/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/google-synthid-detector-public-ai-content-checker",
+    "title": "Google opens SynthID Detector to everyone to check for AI-made media",
+    "description": "Google has opened its SynthID Detector to everyone. The free website checks whether an image, video or audio file carries Google’s SynthID watermark, a hidden signal its AI tools add to what they create. The tool is available globally in English from Wednesday, Google DeepMind’s Pushmeet Kohli wrote in a company blog post. It flags",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-07T14:37:19+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/synthid-detector-raccoon-video-detected-result.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+    "title": "Google experiments with an AI-powered gaming platform",
+    "description": "Google Labs is working on a  new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-07T14:36:23+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1006727/apple-lg-leak-smart-home-deadbolt-lock-thermostat-temperature-sensor",
+    "title": "New leaks provide our first look at Apple and LG’s smart home devices",
+    "description": "Following a report from Bloomberg yesterday that Apple is collaborating with LG for a new collection of smart home devices and accessories, a reliable leaker known as \"pdfu\" on X has revealed more details about several of the new products, including a thermostat with a \"Far Sight Display\" that sounds similar to what Nest offers.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-07T14:34:37+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
     "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
     "description": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
@@ -13,8 +103,23 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
+    "link": "https://thenextweb.com/news/biohub-1-8bn-ai-biology-data-meta-google-deepmind",
+    "title": "Biohub, Meta, Google DeepMind and the US pool $1.8bn for AI biology data",
+    "description": "Biohub, the US Department of Energy and the National Institutes of Health are putting $1.8bn into data to train AI models that predict how cells behave. Meta, Google DeepMind and Isomorphic Labs are joining with $300M between them, Biohub announced on Wednesday. Biohub is the nonprofit research institute backed by Mark Zuckerberg and Priscilla Chan.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Science & Environment",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-07T14:28:15+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/biohub-virtual-biology-initiative-glowing-cell-title-card.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/10/07/ios-27-2-release-date-new-iphone-features-are-coming-soon/",
-    "title": "iOS 27.2 release date: New iPhone features are coming soon",
+    "title": "iOS 27.2 release date: When to expect new iPhone features",
     "description": "iOS 27.2 is coming surprisingly soon. iOS 27.1 will focus on iPhone Duo changes only, so new features for everyone else will arrive in iOS 27.2. Here’s when to expect the update’s release.\n\n\n\n more…",
     "categories": [
       "Breaking News",
@@ -36,6 +141,18 @@
     "pub_date": "2026-10-07T14:26:07+00:00",
     "image_url": "https://media.wired.com/photos/6ac40e6301f301de9ebc46a3/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Standalone%20Mobile%20Accessories%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
     "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/oct-7-october-prime-day-apple-ipad-11-inch-a16-deal",
+    "title": "Apples default budget tablet just hit $399 for October Prime Day — save $50",
+    "description": "Save $50 on the 11-inch iPad with A16 chip for October Prime Day. Grab Apple's go-to budget tablet with 128GB storage for just $399 before the sale ends.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-07T14:23:16+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/05v1sS2BbC3SME4tEICXopJ/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://thenextweb.com/news/dutch-tax-office-microsoft-365-on-premises-open-source",
@@ -73,6 +190,18 @@
     "source_name": "9TO5MAC.COM"
   },
   {
+    "link": "https://mashable.com/tech/best-october-prime-day-tv-deals-live-2026",
+    "title": "Mashables experts picked the best October Prime Day TV deals: Save up to $1,200 on OLED TVs",
+    "description": "Our experts selected the best October Prime Day deals on TVs. Grab a 65-inch TV for under $500, or save $1,200 on a Samsung S90H OLED.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-07T14:17:04+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/031EezY5dFLDn3KMl48YSzK/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261007/p22#a261007p22",
     "title": "Amazon's Ring unveils the $249 Ring Smart Lock, which uses a physical dial to recharge the battery when turned, set for a Q1 2027 launch, and five new cameras (Chris Welch/Bloomberg)",
     "description": "Chris Welch / Bloomberg:\nAmazon's Ring unveils the $249 Ring Smart Lock, which uses a physical dial to recharge the battery when turned, set for a Q1 2027 launch, and five new cameras  —  Amazon.com Inc.'s Ring brand unveiled its first smart lock, with an innovative feature that addresses the dreaded scenario of arriving home to a dead battery.",
@@ -97,6 +226,18 @@
     "pub_date": "2026-10-07T14:15:00+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/oct-7-amazon-prime-day-toshiba-qled-fire-tv-deal",
+    "title": "I think the best Prime Day TV deal just landed: Get a QLED TV for under $150",
+    "description": "In its latest \"Today's Big Deals\" drop for October Prime Day, Amazon is selling a 43-inch QLED TV for under $150.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-07T14:12:30+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/05FZGKs48SmY0t6PtwFO5Tz/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techmeme.com/261007/p21#a261007p21",
@@ -227,6 +368,18 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
+    "link": "https://www.theverge.com/tech/1005916/amazon-ring-smart-home-lock-dial-recharge-camera-security-pricing-availability",
+    "title": "Ring’s first smart lock can be charged by turning a dial when the battery unexpectedly dies",
+    "description": "Amazon announced its first smart lock that eliminates the need for a physical backup key should its rechargeable battery die while you're away from home. While other smart locks lean on hidden USB ports or metal contacts for connecting a 9-volt battery to replenish a dead battery, the new Ring Smart Lock incorporates a more",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-07T14:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ring1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.engadget.com/2278872/cisco-is-bringing-a-new-agentic-framework-to-its-webex-enterprise-platform/",
     "title": "Cisco is bringing a new agentic framework to its Webex enterprise platform",
     "description": "Cisco's Dialog feature promises to turn \"fragmented interactions into continuous customer relationships.\"",
@@ -288,17 +441,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techradar.com/televisions/the-samsung-s90h-is-a-great-mid-range-oled-tv-that-solves-one-of-the-lg-c6s-major-shortcomings-heres-why-i-recommend-it",
-    "title": "The Samsung S90H is a great mid-range OLED TV that solves one of the LG C6's major shortcomings — here's why I recommend it",
-    "description": "The Samsung S90H works well for bright rooms — and it's on sale for Prime Day",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-07T14:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ysacqQAoBhxYztBWgFgAb5-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/tablets/thinking-of-buying-a-discounted-amazon-fire-tablet-this-week-tread-carefully-a-new-model-is-reportedly-on-the-horizon",
     "title": "Every Amazon Fire tablet is on sale right now — but you might still want to wait",
     "description": "Amazon's Fire tablets are cheaper than usual right now thanks to Prime Day, but they might also soon be superseded.",
@@ -307,6 +449,17 @@
     ],
     "pub_date": "2026-10-07T14:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/U5PwDDvaESXSGu9k8xFWVn-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/televisions/the-samsung-s90h-is-a-great-mid-range-oled-tv-that-solves-one-of-the-lg-c6s-major-shortcomings-heres-why-i-recommend-it",
+    "title": "The Samsung S90H is a great mid-range OLED TV that solves one of the LG C6's major shortcomings — here's why I recommend it",
+    "description": "The Samsung S90H works well for bright rooms — and it's on sale for Prime Day",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-07T14:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ysacqQAoBhxYztBWgFgAb5-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -320,18 +473,6 @@
     "pub_date": "2026-10-07T14:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/jn2EgXSKQRt5hHnxe2ZoW9-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1005916/amazon-ring-smart-home-lock-dial-recharge-camera-security-pricing-availability",
-    "title": "Ring’s first smart lock can be charged by turning a dial when the battery unexpectedly dies",
-    "description": "Amazon announced its first smart lock that eliminates the need for a physical backup key should its rechargeable battery die while you're away from home. While other smart locks lean on hidden USB ports or metal contacts for connecting a 9-volt battery to replenish a dead battery, the new Ring Smart Lock incorporates a more",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-07T14:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ring1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.theverge.com/gadgets/1006710/bissell-carpet-cleaning-prime-day-deal-sale",
@@ -1012,18 +1153,6 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai",
-    "title": "Google now lets you make games with AI",
-    "description": "Google today announced Playground, a new browser-based platform for making custom games from AI prompts. Playground will be available today in the US for users who are 18 and older at playground.google. The company is pitching it as an \"experimental gaming platform\" that \"lowers the barriers to creation\" and doesn't require coding experience. \"With Playground's",
-    "categories": [
-      "Breaking News",
-      "Gaming"
-    ],
-    "pub_date": "2026-10-07T12:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-06-at-7.19.24-PM-1.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.wired.com/story/weve-tried-meta-and-xreals-xr-glasses-is-there-a-winner/",
     "title": "I Put on Meta and Xreal’s XR Glasses. Face Computers Are Finally Getting Good",
     "description": "Xreal’s long-hyped Aura glasses arrive soon for $1,279. Here’s how they fare against Meta’s recently announced VR Glasses.",
@@ -1070,6 +1199,18 @@
     "pub_date": "2026-10-07T12:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/c78JKv7bzH9Dnr59Rpsh2A-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1006477/google-playground-unity-spark-ai",
+    "title": "Google now lets you make games with AI",
+    "description": "Google today announced Playground, a new browser-based platform for making custom games from AI prompts. Playground will be available today in the US for users who are 18 and older at playground.google. The company is pitching it as an \"experimental gaming platform\" that \"lowers the barriers to creation\" and doesn't require coding experience. \"With Playground's",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-07T12:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-06-at-7.19.24-PM-1.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://thenextweb.com/news/germany-backs-eu-approval-tesla-fsd",
@@ -1479,7 +1620,6 @@
     "title": "‘Digger’ is a Box Office Flop. It Might Be the Most Relevant Film of the Year",
     "description": "Sold by its trailer as a gag reel, Tom Cruise’s strangest movie may be the most unsettling portrait of our tech and climate moment yet.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-10-07T10:45:00+00:00",
@@ -2261,137 +2401,6 @@
     ],
     "pub_date": "2026-10-07T07:40:18+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/005nXMRe89S6sCB7ot8031t/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/best-kindle-prime-day-deals-10-07-2026/",
-    "title": "7 Best Prime Day Kindle Deals (2026): Save Up to $150",
-    "description": "Amazon raised Kindle prices across the board, but Prime Day is still the best time to buy.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-07T07:34:54+00:00",
-    "image_url": "https://media.wired.com/photos/6abed9836b5b4074ce828a91/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Standalone%20Kindle%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-7-october-prime-day-shark-ai-robot-vacuum-deal",
-    "title": "The Shark AV2501S AI Ultra has dropped to a record low for Prime Day — act fast to save over $300",
-    "description": "Get the best robot vacuum deal. Save 56% on the Shark AV2501S AI Ultra at Amazon.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-07T07:32:16+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04qx7qS0HzjrXRGLZoos0DD/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-7-october-prime-day-dyson-supersonic-nural-deal",
-    "title": "The Dyson Supersonic Nural is $100 off in Amazons Prime Day sale — shop now for under $350",
-    "description": "Get the best Dyson deal on Amazon. Save 22% on the Dyson Supersonic Nural at Amazon.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-07T07:28:05+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/048HVCTJ1LDCghQTdrC8xRy/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-7-october-prime-day-beats-powerbeats-deal",
-    "title": "Beats Powerbeats Pro 2 have dropped to their best-ever price — save $70 this Prime Day",
-    "description": "Find the best deal on Beats. Save 28% on the Beats Powerbeats Pro 2 at Amazon.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-07T07:25:48+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05SY92WHww10aljy1Q5sqtc/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/why-no-high-or-blood-elves-blizzard-speaks-on-wow-forevers-controversial-new-skyborne-race-we-may-occasionally-make-a-bold-choice",
-    "title": "Why no High or Blood Elves? Blizzard speaks on WoW: Forever's controversial new Skyborne race — 'We may occasionally make a bold choice'",
-    "description": "Blizzard has said WoW: Forever's controversial new Skyborne was given to both Horde and Alliance to manage \"long-term population balance impact.\"",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-07T07:17:17+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ofSYv4kbp28xo6bBLg6Q2H-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-october-prime-day-earbuds-deals-live-2026",
-    "title": "I found 15 October Prime Day earbuds deals that are worth grabbing: Shop Bose, Apple, Beats, and more",
-    "description": "October Prime Day deals on earbuds from Bose, Apple, Beats, Soundcore, Baseus, and more",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-07T07:00:01+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02ESn1wcCTXkJbZVpHy2iFU/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
-    "title": "Spotify expands audiobooks to over 180 markets",
-    "description": "Spotify will make 350,000 titles available in over 120 languages for this expansion.",
-    "categories": [
-      "Business & Startups",
-      "Social & Media",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-07T07:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/almost-two-thirds-of-uk-workers-have-received-no-training-on-spotting-ai-driven-cyber-threats",
-    "title": "Almost two thirds of UK workers have received no training on spotting AI-driven cyber threats",
-    "description": "Those that did, received it as part of generic training, not dedicated AI-oriented education.",
-    "categories": [
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-07T07:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/cvUbbQwxuHbLsEVEuaWGcL-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-october-prime-day-headphones-deals-live-2026",
-    "title": "The best headphones and earbuds deals on October Prime Day, including my favorite Bose headphones",
-    "description": "Mashable's headphones expert sourced deals on headphones and earbuds live on Prime Big Deal Days, which started on Oct. 6.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-07T07:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06WhLLD1TtSp8t22E76UO2H/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-october-prime-day-noise-cancelling-headphones-deals-live-2026",
-    "title": "The top 15 noise-cancelling headphone deals for October Prime Day: Save 53% on Bose QuietComfort",
-    "description": "We found the best Prime Day deals on noise-cancelling headphones. Save $100 on the Apple AirPods Max 2, or take 20% off Sony XM6.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-07T07:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/032LZmXOHKS6GPhgbm5g69B/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-october-prime-day-walmart-deals-live-2026",
-    "title": "The best Walmart Fall Deals to shop: TVs, headphones, devices, and toys at steep discounts",
-    "description": "Walmart's Fall Deals event runs Oct. 5–11, 2026, starting at 12 a.m. ET. You don't need Walmart+ to shop.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-07T07:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04u8Y9nUjrUH0GeaM2BXHTO/hero-image.jpg",
     "source_name": "MASHABLE.COM"
   }
 ]
