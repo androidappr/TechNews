@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.wired.com/story/startup-atoco-makes-water-from-air-using-data-centers/",
+    "title": "A Startup Has a Plan to Make Water From Air Using Data Centers’ Waste Heat",
+    "description": "Atoco’s new machines use specialized materials that can harvest water from some of the driest air on Earth without using electricity.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-07T10:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ac52d8b40c57bc7f3cfb031/master/pass/DSCF6874.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/ai-agents-dont-create-new-risk-they-inherit-it",
+    "title": "AI agents don’t create new risk. They inherit it",
+    "description": "AI agents aren't creating new cyber threats, they're exposing and accelerating existing security weaknesses.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-07T09:59:22+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261007/p8#a261007p8",
     "title": "Common Sense Media calls ChatGPT for Teens an \"unacceptable risk\", saying its guardrails fall short of OpenAI's promises and it continues to do kids' homework (Jay Peters/The Verge)",
     "description": "Jay Peters / The Verge:\nCommon Sense Media calls ChatGPT for Teens an “unacceptable risk”, saying its guardrails fall short of OpenAI's promises and it continues to do kids' homework  —  ChatGPT's teen-focused experience 'doesn't send alerts to parents when it should,' according to an assessment.﻿",
@@ -2271,27 +2296,5 @@
     "pub_date": "2026-10-06T19:36:48+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/crossy-road-rush.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/services-and-software/mistrals-new-le-chonk-ai-model-is-big-open-and-built-for-agents/",
-    "title": "Mistral’s New ‘Le Chonk’ AI Model Is Big, Open and Built for Agents",
-    "description": "Mistral Large 4 is a state-of-the-art model for cyberdefense, manufacturing, finance-related tasks and multimodal use.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-06T19:35:37+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-10-06-at-2.38.54-PM.png",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261006/p33#a261006p33",
-    "title": "Anthropic expands its Cyber Verification Program by integrating Project Glasswing and offering three tiers, all with access to its most capable Claude models (Anthropic)",
-    "description": "Anthropic:\nAnthropic expands its Cyber Verification Program by integrating Project Glasswing and offering three tiers, all with access to its most capable Claude models  —  We're launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-06T19:35:03+00:00",
-    "image_url": "http://www.techmeme.com/261006/i33.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
