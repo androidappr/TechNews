@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.techmeme.com/261006/p46#a261006p46",
+    "title": "OpenAI says its internal model produced 372 math results, nearly all from a single prompt handed to a single AI agent; some might have taken multiple attempts (Joseph Howlett/Scientific American)",
+    "description": "Joseph Howlett / Scientific American:\nOpenAI says its internal model produced 372 math results, nearly all from a single prompt handed to a single AI agent; some might have taken multiple attempts  —  A month after resolving one of the six biggest open problems in mathematics, the company says its new internal model has toppled heaps more …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-06T23:55:02+00:00",
+    "image_url": "http://www.techmeme.com/261006/i46.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://mashable.com/tech/best-october-prime-day-deals-2026",
     "title": "The 125+ best October Prime Day deals: We found record prices on Apple, Bose, Lego, and Sony favorites",
     "description": "Amazon's Prime Big Deal Days is here. Shop the best October Prime Day deals, with $200 off MacBook Air laptops and 53% off Bose headphones.",
@@ -179,7 +191,6 @@
     "description": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
     "categories": [
       "Breaking News",
-      "Business & Startups",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-06T22:53:09+00:00",
@@ -911,7 +922,6 @@
     "title": "Anthropic says it found 5,500 verified vulnerabilities in April-October and Glasswing partners found 129K+ in April-July; 33K+ were critical or high severity (Reuters)",
     "description": "Reuters:\nAnthropic says it found 5,500 verified vulnerabilities in April-October and Glasswing partners found 129K+ in April-July; 33K+ were critical or high severity  —  Anthropic is expanding a program that allows vetted cybersecurity professionals to test its most powerful AI models with fewer safeguards …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-06T20:00:49+00:00",
@@ -924,7 +934,6 @@
     "description": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-06T20:00:30+00:00",
@@ -936,7 +945,6 @@
     "title": "Amazon’s last-gen Kindle Paperwhite is 30 percent off",
     "description": "Calling something “last-gen” usually means it comes with big compromises compared to the latest version. That’s not as true for the last-gen Kindle Paperwhite as it is with some other tech. The newer version can open books 30 percent faster (not the same as page-turning speed), and its aluminum design is a millimeter thinner —",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-06T20:00:00+00:00",
@@ -973,7 +981,6 @@
     "description": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Software & Apps"
     ],
@@ -986,7 +993,6 @@
     "title": "It looks like the Atlantic storm season may finally produce a hurricane",
     "description": "To date, this Atlantic tropics year has been exceptionally quiet.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-10-06T19:55:50+00:00",
@@ -2319,17 +2325,5 @@
     "pub_date": "2026-10-06T16:00:02+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/NASA-AMes-1152x648.jpeg",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-    "description": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-06T16:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
