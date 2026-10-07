@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.techmeme.com/261007/p2#a261007p2",
+    "title": "Sources: the European Commission considers taxing big US tech companies through a broad levy on large corporations to avoid singling out individual companies (Financial Times)",
+    "description": "Financial Times:\nSources: the European Commission considers taxing big US tech companies through a broad levy on large corporations to avoid singling out individual companies  —  European Commission considers a broad levy on all large companies to avoid singling out US digital services groups",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-07T05:15:00+00:00",
+    "image_url": "http://www.techmeme.com/261007/i2.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/need-for-data-centres-outweighs-other-considerations-local-council-in-the-london-commuter-belt-approves-amazons-massive-m25-hub-despite-air-quality-fears",
+    "title": "'Need for data centres outweighs other considerations': local council in the London commuter belt approves Amazon's massive M25 hub despite air quality fears",
+    "description": "Amazon secures approval for 18-acre M25 data centre despite pollution concerns, 27 generators and previous planning disputes surrounding Iver.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-07T05:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ETt2Pe3AtJk2ynHY4vkd68-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://mashable.com/tech/best-october-prime-day-power-tools-deals-2026",
     "title": "The best power tool deals for October Prime Day: DeWalt batteries, Craftsman toolkits, and more",
     "description": "October Prime Day deals are live on power tools. Save on DeWalt, Craftsman, and more during the sale.",
@@ -339,7 +362,6 @@
     "title": "GLM-5.3's open release has yet to produce major attacks despite Anthropic's warnings about its Mythos-level cyber risk, undercutting calls to ban open models (Nathan Lambert/Interconnects AI)",
     "description": "Nathan Lambert / Interconnects AI:\nGLM-5.3's open release has yet to produce major attacks despite Anthropic's warnings about its Mythos-level cyber risk, undercutting calls to ban open models  —  Open-weights, ideology, and acknowledging trade-offs. … Audio playback is not supported on your browser.  Please upgrade.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-07T01:05:01+00:00",
@@ -351,7 +373,6 @@
     "title": "\"US could be writing its own losing ticket\": Amazon warns against 100+ AI data center bans as it pledges $1 billion to defuse AI backlash",
     "description": "Facing over 100 proposed moratoriums, Amazon offers $1 billion to host communities and expands Maryland nuclear power.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-07T01:05:00+00:00",
@@ -579,8 +600,8 @@
   },
   {
     "link": "https://www.techmeme.com/261006/p46#a261006p46",
-    "title": "OpenAI says its internal model produced 372 math results, nearly all from a single prompt handed to a single AI agent; some might have taken multiple attempts (Joseph Howlett/Scientific American)",
-    "description": "Joseph Howlett / Scientific American:\nOpenAI says its internal model produced 372 math results, nearly all from a single prompt handed to a single AI agent; some might have taken multiple attempts  —  A month after resolving one of the six biggest open problems in mathematics, the company says its new internal model has toppled heaps more …",
+    "title": "OpenAI says its internal model produced 372 math breakthroughs, nearly all from a single prompt to one AI agent, though some may have taken multiple attempts (Joseph Howlett/Scientific American)",
+    "description": "Joseph Howlett / Scientific American:\nOpenAI says its internal model produced 372 math breakthroughs, nearly all from a single prompt to one AI agent, though some may have taken multiple attempts  —  A month after resolving one of the six biggest open problems in mathematics, the company says its new internal model has toppled heaps more …",
     "categories": [
       "Tech News"
     ],
@@ -649,7 +670,6 @@
     "title": "MSI's Codex Z2 and Aegis R2 desktops are both $200 off for Amazon Prime Day — but only one offers far superior value",
     "description": "We’ve compared the MSI Codex Z2 and Aegis R2 desktops and if you’re wondering which one to buy in the Prime Day sale, there’s one clear winner.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-06T23:13:37+00:00",
@@ -2256,27 +2276,5 @@
     "pub_date": "2026-10-06T17:23:16+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/macOS-Tahoe.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://arstechnica.com/staff/2026/10/make-ars-better-with-an-arspro-subscription/",
-    "title": "Support Ars and get a better reading experience in return",
-    "description": "ArsPro gives you more ways to read while directly supporting our journalism.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-06T17:21:15+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ars-subscriber-reading-modes-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://9to5google.com/2026/10/06/google-ai-edge-foresight/",
-    "title": "Google AI Edge Foresight for Mac turns scribbles into full notes using offline recordings",
-    "description": "Google today announced its new EmbeddingGemma 2 model that can be used to “organize, search, and connect information directly on consumer hardware.” To show off its potential, Google created an AI Edge Foresight Mac app for “intelligent notetaking.”\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-06T17:18:03+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Google-AI-Edge-Foresight.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5GOOGLE.COM"
   }
 ]
