@@ -1,5 +1,79 @@
 [
   {
+    "link": "https://thenextweb.com/news/hubspot-layoffs-dublin-consultation",
+    "title": "HubSpot to cut 660 jobs as the company pivots to AI",
+    "description": "HubSpot is eliminating about 660 roles, 7% of its workforce, in a restructuring its chief executive calls an AI strategy shift while insisting it is not driven by AI efficiencies. Its SEC filing concedes the timetable depends on local consultation law, which in Ireland means a statutory 30-day minimum and criminal penalties for ignoring it.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-07T18:50:19+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/hubspot-logo-wall-office-lounge.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
+    "title": "It appears .agent and .agi are about to be the hot new domains",
+    "description": "For the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting applications for new top-level domains. These are the suffixes at the end of all URLs, and you may know them as things like .com, .org, and .pizza. ICANN just announced the 1,615 applications",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-07T18:46:16+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24643586/Amp_Search.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261007/p33#a261007p33",
+    "title": "Anthropic prices Haiku 5.5 at $0.10/1M input and $0.50/1M output tokens for requests up to 100K tokens, and $0.50 and $2.50 above, vs. $1 and $5 for Haiku 4.5 (Frederic Lardinois/The New Stack)",
+    "description": "Frederic Lardinois / The New Stack:\nAnthropic prices Haiku 5.5 at $0.10/1M input and $0.50/1M output tokens for requests up to 100K tokens, and $0.50 and $2.50 above, vs. $1 and $5 for Haiku 4.5  —  Anthropic on Wednesday launched Claude Haiku 5.5, the first new version of its smallest and most affordable model in nearly a year.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-07T18:45:30+00:00",
+    "image_url": "http://www.techmeme.com/261007/i33.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/best-prime-day-headphone-deals-10-07-2026/",
+    "title": "The Best Amazon Prime Day Headphone Deals Before The Sale Ends (2026)",
+    "description": "I’ve tested more than 100 headphones and covered nearly a dozen Prime Days. Here are some actually good headphone deals from the sale.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-07T18:45:00+00:00",
+    "image_url": "https://media.wired.com/photos/6abebe6fcaca8813b83fa2f9/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Prime%20Day%20Headphone%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+    "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+    "description": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-07T18:45:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ac54e80213cd6c84b19e900/master/pass/AI-Lab-Researchers-Got-an-LLM-to-Drive-a-Toyota-Business.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/netgear-reveals-new-dark-web-monitoring-tool-which-will-tell-you-if-your-personal-data-turns-up-online",
+    "title": "Netgear reveals new dark web monitoring tool which will tell you if your personal data turns up online",
+    "description": "Netgear’s new Dark Web Monitoring service can alert users as soon as personal data is found on the dark web.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-07T18:45:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/sFimh25if8THr7R9pA5qq9-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.engadget.com/2280417/surface-laptop-ultra-hands-on-a-beautiful-beast-powered-by-nvidias-rtx-spark/",
     "title": "Surface Laptop Ultra hands-on: A beautiful beast powered by NVIDIA's RTX Spark",
     "description": "Yes, it's just a premium laptop. But it sure looks pretty.",
@@ -338,18 +412,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techradar.com/tech/last-call-lego-prime-day-deals-end-tonight-and-these-30-deals-are-worth-snapping-up-across-star-wars-botanicals-technic-harry-potter-and-disney-sets",
-    "title": "Last call: Lego Prime Day Deals end tonight, and these 30+ deals are worth snapping up",
-    "description": "We're already on the final day of Amazon's October Prime Day, but the good news is that deals are still going strong, and here we're rounding up the best deals on Lego sets.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-07T18:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/HYjEFftjBNQyizbx9VtW5F-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/audio/earbuds-airpods/sennheisers-wired-earbuds-might-be-my-favorite-ive-ever-tested-and-i-still-use-them-all-the-time-two-years-later-heres-why-id-recommend-them-to-everyone-today",
     "title": "Sennheiser's wired earbuds might be my favorite ever, and I'd still recommend them to anyone today",
     "description": "I love these Sennheiser IEMs and USB-C earbuds, and now they can be yours for a tempting low price.",
@@ -370,6 +432,18 @@
     ],
     "pub_date": "2026-10-07T18:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/g7JpYA5A5UtpgJS3D6rFzC-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/tech/last-call-lego-prime-day-deals-end-tonight-and-these-30-deals-are-worth-snapping-up-across-star-wars-botanicals-technic-harry-potter-and-disney-sets",
+    "title": "Last call: Lego Prime Day Deals end tonight, and these 30+ deals are worth snapping up",
+    "description": "We're already on the final day of Amazon's October Prime Day, but the good news is that deals are still going strong, and here we're rounding up the best deals on Lego sets.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-07T18:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/HYjEFftjBNQyizbx9VtW5F-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -543,7 +617,7 @@
   {
     "link": "https://www.theverge.com/news/1006445/microsofts-surface-laptop-ultra-has-built-in-magnetic-usb-c-charging",
     "title": "Microsoft’s Surface Laptop Ultra has built-in magnetic USB-C charging",
-    "description": "Microsoft has created a magnetic charging solution for its Surface Laptop Ultra that uses USB-C. After scrapping its proprietary Surface Connect magnetic charging on its smaller Surface devices last year, the Surface Laptop Ultra has a charging cable that attaches magnetically to the right-side USB-C port. During Microsoft's Windows event on Wednesday, Windows and Surface",
+    "description": "Microsoft has created a magnetic charging solution for its Surface Laptop Ultra that uses USB-C. After scrapping its proprietary Surface Connect magnetic charging on its smaller Surface devices last year, the Surface Laptop Ultra has a charging cable that attaches magnetically to the right side USB-C port. During Microsoft's Windows event on Wednesday, Windows and",
     "categories": [
       "Breaking News",
       "Gadgets & Hardware"
@@ -561,7 +635,7 @@
       "Tech News"
     ],
     "pub_date": "2026-10-07T17:42:35+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/microsoft-surface-laptop-ultra-specs/l-intro-1791398484.jpg",
+    "image_url": "https://www.engadget.com/img/gallery/microsoft-surface-laptop-ultra-specs/l-intro-1791398871.jpg",
     "source_name": "ENGADGET.COM"
   },
   {
@@ -756,6 +830,17 @@
     "source_name": "SCIENCE.NASA.GOV"
   },
   {
+    "link": "https://www.techradar.com/seasonal-sales/my-favorite-chinese-lens-company-has-slashed-the-prices-of-its-sony-nikon-fujifilm-and-l-mount-lenses-by-20-percent-including-this-playful-autofocus-optic-for-usd80",
+    "title": "Viltrox has slashed the prices of its Sony, Nikon, Fujifilm and L-mount lenses by 20% – starting from $80",
+    "description": "Viltrox has slashed the prices of its Sony, Nikon, Fujifilm and L-mount lenses by 20% for Prime Day — including this tiny autofocus optic for $80",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-07T17:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Wkd74VqGcK5LduGA9joA2N-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.theverge.com/gadgets/1006806/apple-watch-series-12-prime-day-deal-sale",
     "title": "The Apple Watch Series 12 is a good deal at $50 off",
     "description": "Several configurations of the Apple Watch Series 12 are $50 off for the first time for the remainder of Amazon’s Prime Big Deal Days. This includes both sizes (42mm and 46mm) of the GPS + Wi-Fi watches, as well as their pricier 5G-ready counterparts. Normally $399, the 42mm Series 12 is currently set at $349.99",
@@ -766,17 +851,6 @@
     "pub_date": "2026-10-07T17:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0280.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/seasonal-sales/my-favorite-chinese-lens-company-has-slashed-the-prices-of-its-sony-nikon-fujifilm-and-l-mount-lenses-by-20-percent-including-this-playful-autofocus-optic-for-usd80",
-    "title": "Viltrox has slashed the prices of its Sony, Nikon, Fujifilm and L-mount lenses by 20% – starting from $80",
-    "description": "Viltrox has slashed the prices of its Sony, Nikon, Fujifilm and L-mount lenses by 20% for Prime Day — including this tiny autofocus optic for $80",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-07T17:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Wkd74VqGcK5LduGA9joA2N-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://www.theverge.com/column/1006902/optimizer-bpc-157-gray-market-real-world-usage",
@@ -1588,7 +1662,6 @@
     "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
     "description": "The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers, shippers, and more.",
     "categories": [
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-07T15:00:00+00:00",
@@ -2331,78 +2404,5 @@
     "pub_date": "2026-10-07T13:32:14+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/Q54PyHgehdXtsuz4w6xnVK-1920-80.webp",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/07/leaked-images-reveal-apples-new-home-smart-lock-thermostat-more-for-lg/",
-    "title": "Leaked images reveal Apple’s new Home smart lock, thermostat, more for LG",
-    "description": "Bloomberg reported yesterday that Apple has co-developed new smart home accessories that will launch under LG branding, and leaked images reveal what the smart lock, thermostat, and temperature sensor look like.\n\n\n\n more…",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-07T13:25:58+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-event-hub.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/home/air-quality/its-cold-its-raining-and-today-is-the-perfect-day-to-buy-a-portable-air-conditioning-unit-heres-why",
-    "title": "It's cold, it's raining, and today is the perfect day to buy a portable AC unit — here's why",
-    "description": "If I didn't already have one, I'd be buying a portable AC right now.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-07T13:24:42+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/9o7Y3c9ZnetRoiArxFjxe5-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/google-playground-unity-spark-ai-game-creation",
-    "title": "Google launches Playground to turn prompts into games, with Unity on board",
-    "description": "Google has launched Playground, an experimental platform that turns text prompts into playable games. It is teaming up with Unity to add more advanced tools, the company said in a blog post on Wednesday. Google Playground opens today to users in the US aged 18 and over. People describe a game, test it right away",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups",
-      "Gaming",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-07T13:23:21+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/playground-woman-laptop-sofa-prompt-bar.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/07/call-screening-has-made-a-big-difference-to-my-iphone-experience/",
-    "title": "Call Screening has made a big difference to my iPhone experience",
-    "description": "iOS 27 has brought a lot of new features to the iPhone, but one of the things that has made the biggest difference to my experience of the device as a phone actually dates back a year earlier.\n\n\n\nApple introduced Call Screening to the Phone app in iOS 26, but I only started using it a few months ago – and the feature has protected me from a growing number of spam and spam calls …\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-07T13:18:44+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/phone-ios-26-call-screening.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/atomic-machines-250m-matter-compiler-micro-machines",
-    "title": "Atomic Machines emerges with $250M to build micro-machines from code",
-    "description": "Atomic Machines has come out of six years in stealth with $250M raised. It says its system builds working micro-machines straight from code. The Bay Area start-up announced the launch on Wednesday. Its first product is a power switch for AI data centres. Founder and chief executive Jeff Holden joined Amazon as its tenth engineer",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-10-07T13:15:52+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/jeff-holden-microphone-presentation-screen-office.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/october-prime-day-apple-record-low-price-deals",
-    "title": "October Prime Day: We found 22 Apple products at record-low prices that you need to grab before midnight",
-    "description": "Final hours of October Prime Day: We found 22 Apple products at all-time record-low prices, including Apple Watch Series 12, Mac minis, Beats Studio Pro, and AirTag 2.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-07T13:13:13+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07ekEyDs1lHUHVa5ucJkWR0/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
