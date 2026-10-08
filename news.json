@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.wired.com/story/ice-emails-discuss-using-palantir-supported-tool-to-investigate-voter-fraud/",
+    "title": "ICE Emails Discuss Using Palantir-Supported Tool to Investigate Voter Fraud",
+    "description": "Documents obtained by Democracy Forward show that ICE looked into feeding voter roll data into the ELITE tool, normally used to identify targets for deportation.",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-08T22:40:11+00:00",
+    "image_url": "https://media.wired.com/photos/6ac7c810d785fb1d34f54ca9/master/pass/GettyImages-2287296268.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+    "title": "President Trump awards big tech donors with nation’s highest science prizes",
+    "description": "On Thursday, President Trump awarded Elon Musk, Jensen Huang, Sergey Brin, and AMD’s Lisa Su the National Medal of Science, the nation’s top science prize.",
+    "categories": [
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-08T22:33:59+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
+    "title": "US plans livestream of execution by firing squad",
+    "description": "The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the former US Army major convicted of killing 13 people at the Texas military base, was announced this week. He is scheduled to be executed",
+    "categories": [
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-08T22:32:04+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298331635.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/you-can-now-play-doom-on-a-sql-database-in-one-of-the-most-astonishing-porting-projects-weve-ever-seen",
     "title": "You can now play Doom on a SQL database in one of the most astonishing porting projects we've ever seen",
     "description": "Developer rebuilds Doom in SQL, achieving full-color rendering, game logic, multiplayer, and playable performance through CedarDB queries locally.",
@@ -770,7 +805,6 @@
     "title": "An experimental tour-de-force: Entanglement between glass bead and light",
     "description": "Getting a glass bead to act like a quantum object by entangling it with light.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-10-08T18:45:23+00:00",
@@ -782,7 +816,6 @@
     "title": "New study shows concerning rise in developer burnout — and growing distrust in how AI may affect their jobs",
     "description": "Worldwide developer survey reveals growing concerns over AI and an army of coders who feel close to burning out.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-08T18:45:00+00:00",
@@ -1558,7 +1591,6 @@
     "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
     "description": "Amazon killed its app store, so Google Play it is.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-08T16:32:46+00:00",
@@ -2317,40 +2349,5 @@
     "pub_date": "2026-10-08T14:31:56+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/LtD87sK9kJTxQFpw9otup6-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/gadgets/1007804/october-prime-day-leftover-deals",
-    "title": "75 great October Prime Day deals are still happening",
-    "description": "It’s always a little awkward when this many deals survive what was supposed to be the “end” of a big Amazon sale. Nevertheless, I’m happy to say that most of the sale’s heaviest-hitting deals are still around — Apple’s discounts on its Mac Mini, MacBook Air, and AirPods Pro 3, plus all of Sony’s current",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-08T14:28:31+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0011.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
-    "title": "Google is launching a one-stop Gemini agent for your work tasks",
-    "description": "Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background. The tool, announced as part of the Gemini at Work event on Thursday, will be available within the Gemini Enterprise app, allowing users to chat with the Gemini agent and assign it tasks from a single interface.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-10-08T14:28:03+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Gemini.max-2000x2000-1.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261008/p29#a261008p29",
-    "title": "Gallatin AI, which uses AI to digitize and streamline military logistics data, raised a $50M Series A, bringing its total funding to $70M (Colin Demarest/Axios)",
-    "description": "Colin Demarest / Axios:\nGallatin AI, which uses AI to digitize and streamline military logistics data, raised a $50M Series A, bringing its total funding to $70M  —  Gallatin AI raised a $50 million Series A, with defense-tech frequent fliers 8VC and Silent Ventures pitching in, CEO Woody Glier told Axios.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T14:25:05+00:00",
-    "image_url": "http://www.techmeme.com/261008/i29.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
