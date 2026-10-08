@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://www.cnet.com/culture/entertainment/new-xbox-division-xp-will-adapt-more-video-games-for-movies-and-tv/",
+    "title": "New Xbox Division XP Will Adapt More Video Games for Movies and TV",
+    "description": "Xbox already had success with A Minecraft Movie and Fallout.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-08T21:25:16+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/d01a91be-d810-4a0d-9163-8be1003c945f.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261008/p48#a261008p48",
+    "title": "SpaceX agrees to buy a nationwide low-band spectrum portfolio to help Starlink \"become a major mobile carrier\"; AT&T, T-Mobile, Verizon fall 6%+ after hours (Bloomberg)",
+    "description": "Bloomberg:\nSpaceX agrees to buy a nationwide low-band spectrum portfolio to help Starlink “become a major mobile carrier”; AT&T, T-Mobile, Verizon fall 6%+ after hours  —  Elon Musk's SpaceX said it acquired low-band spectrum that will enable it to use its Starlink satellites to become a …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-08T21:25:01+00:00",
+    "image_url": "http://www.techmeme.com/261008/i48.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
+    "title": "SpaceX announces plan to become a ‘major mobile carrier’",
+    "description": "SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says \"will pave the way\" for its Starlink Mobile service to become a \"major\" US carrier. When the Federal Communications Commission signs off on the deal, SpaceX says it will deploy its new architecture that combines its satellite-to-mobile constellation with a",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-08T21:23:31+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2281765/anthropic-bans-sustained-and-needless-abusive-or-cruel-behavior-toward-its-ai-models/",
+    "title": "Anthropic bans 'sustained and needless abusive or cruel behavior' toward its AI models",
+    "description": "The company is also tightening its election policy ahead of the midterms.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-08T21:17:24+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/anthropic-bans-sustained-and-needless-abusive-or-cruel-behavior-toward-its-ai-models/l-intro-1791494139.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/10/08/apple-prosser-and-ramacciotti-trade-blame-over-delays-in-trade-secret-lawsuit/",
     "title": "Apple, Prosser, and Ramacciotti trade blame over delays in trade secret lawsuit",
     "description": "In a joint status report made public earlier today, Apple said it is still waiting on additional documents from Jon Prosser and wants to depose Michael Ramacciotti again, while both defendants pushed back on the company’s handling of the case. Here are the details.\n\n\n\n more…",
@@ -9,6 +57,33 @@
     "pub_date": "2026-10-08T21:14:29+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/joe-prosser.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
+    "title": "Inside Elon Musk’s Midterm Spending Spree",
+    "description": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Government & Policy",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-08T21:14:12+00:00",
+    "image_url": "https://media.wired.com/photos/6ac6cf6962b0c903a0cf2363/master/pass/Uncanny-Valley-Elon-Spending-Business-2297775036.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/anthropic-google-and-mistral-unveil-their-latest-ai-models-for-claude-sonnet-haiku-and-gemini/",
+    "title": "Anthropic, Google and Mistral Unveil Their Latest AI Models: What’s New and Why It Matters",
+    "description": "Check out the latest on Anthropic’s Claude Haiku 5.5 and Sonnet 5.5, along with Gemini 4 Argon and Mistral Large 4.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-08T21:11:11+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/777b659a-4f68-4dc8-a70b-ebd3c2d03519.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://www.techradar.com/pro/ukraine-is-building-something-similar-to-starlink-zelensky-claims-lets-hope-it-fares-better-than-russias-disastrous-rassvet-launch",
@@ -24,7 +99,7 @@
   {
     "link": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026",
     "title": "AMD will bring FSR 4 to handhelds by the end of 2026",
-    "description": "It's already possible to get AMD's framerate-enhancing FSR 4 boost on handhelds as old as the Steam Deck - but in June, AMD reserved the right to disappoint handheld gamers by not officially bringing FSR 4 to older handhelds. But AMD consumer chip boss Jack Huynh now says he will bring the tech to some",
+    "description": "It's already possible to get AMD's framerate-enhancing FSR 4 boost on handhelds as old as the Steam Deck - but in June, AMD reserved the right to disappoint handheld gamers by not officially bringing FSR 4 to older handhelds. Now, AMD consumer chip boss Jack Huynh says he will bring the tech to some handhelds",
     "categories": [
       "Breaking News",
       "Gaming"
@@ -274,7 +349,7 @@
   },
   {
     "link": "https://www.cnet.com/everyday-needs/health-and-wellness/california-ban-quartz-countertops-health-concerns/",
-    "title": "California to Ban Quartz Countertops Amid Health Concerns",
+    "title": "California to Ban New Quartz Countertops Amid Health Concerns",
     "description": "Quartz countertops are made through a process that releases crystalline silica, which can lead to numerous health conditions like silicosis.",
     "categories": [
       "Tech News"
@@ -1022,7 +1097,6 @@
     "description": "Every week, the company has been introducing new devices and products. So here's a nifty roundup.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Mobile & Telecom"
     ],
     "pub_date": "2026-10-08T17:30:00+00:00",
@@ -1056,8 +1130,7 @@
     "title": "SAP’s Sean Kask: software firms must become AI companies or perish",
     "description": "Established software companies have to rebuild their products around AI, not add it as one more feature, SAP’s chief AI strategy officer Sean Kask said. He spoke at Wave by Vento in Turin on Thursday. “Like the famous quip that every company is becoming a software company, every software company has to become an AI",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-08T17:23:55+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/sean-kask-sap-wave-by-vento-turin-speaking-gesturing.avif",
@@ -1081,7 +1154,6 @@
     "description": "Oracle is trucking compressed natural gas to AI data centres that cannot yet connect to a pipeline, at roughly four times the price of gas at a hub. Europe has the same grid bottleneck and is answering it the other way, with Spain proposing to refuse connections to any data centre not on 80% renewables",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-08T17:18:39+00:00",
@@ -1678,7 +1750,6 @@
     "title": "Amazon builds 1,000th satellite, will launch space internet service by end of year",
     "description": "\"If this was easy, everybody else would be doing it.\"",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Science & Environment"
     ],
@@ -1774,7 +1845,6 @@
     "title": "Grand Theft Auto 6 in-game radio stations and podcasts detailed by Rockstar",
     "description": "Rockstar Games has given us some fun details about what we can expect from the radio stations (and podcasts) available in 'GTA 6.'",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-08T15:18:41+00:00",
@@ -2300,78 +2370,5 @@
     "pub_date": "2026-10-08T14:04:42+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/refinery-1152x648.jpg",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max",
-    "title": "Alexa Plus is better at running my home, but it&#8217;s not ready to run my life",
-    "description": "Of all the things Alexa Plus can do, I never expected it to make me cry. Since my son left for college, the Echo Show in my office has been making then-and-now photo montages: the toddler with his first tennis racket next to the captain of his varsity team; me hugging him as a tween",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T14:00:22+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2279055/the-new-stylophone-mini-packs-in-iconic-sounds-and-comes-in-three-nifty-colors/",
-    "title": "The new Stylophone Mini packs in iconic sounds and comes in three nifty colors",
-    "description": "It's little because it's small, and it's small because it's little.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T14:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/the-new-stylophone-mini-packs-in-iconic-sounds-and-comes-in-three-nifty-colors/l-intro-1791307837.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
-    "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
-    "description": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-08T14:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/08/the-complete-side-events-lineup-at-founder-summit-2026/",
-    "title": "The complete Side Events lineup at Founder Summit 2026",
-    "description": "Boston, are you ready?! TechCrunch Founder Summit 2026 is about to explode with energy — and the real magic kicks off with an epic lineup of Side Events lighting up the city from November 3–6!",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-08T14:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
-    "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
-    "description": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-08T14:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
-    "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
-    "description": "My Decoder guest today is Hayden Field, The Verge’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents. If you’ve been paying attention to this space, you know AI enthusiasts have been using agents for a minute now — homebrew OpenClaw setups led to a surge in Mac Mini sales earlier",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Social & Media"
-    ],
-    "pub_date": "2026-10-08T14:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_AI_Agents.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
