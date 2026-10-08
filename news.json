@@ -1,5 +1,87 @@
 [
   {
+    "link": "https://www.theverge.com/news/989314/forza-horizon-6-ps5-release-date-january-2027-delay",
+    "title": "Forza Horizon 6 is being delayed on PS5 to January 2027",
+    "description": "Playground Games first revealed earlier this year that Forza Horizon 6 would be arriving on PS5 in 2026, but the launch is now being pushed back. I reported last month that there would be a delay to early next year, and Forza Horizon 6 is now officially debuting on January 26th, 2027. The delay means",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-08T18:14:25+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/assets_2026_01_1769110937_FH6_Screenshots_03-Cherry-Blossoms.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+    "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+    "description": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-08T18:10:55+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261008/p41#a261008p41",
+    "title": "Sources: Apple promotes Carson Oliver to VP of the App Store and names Steve Smith as M&A chief, replacing Adrian Perica, who keeps iCloud, Fitness+, and News (Mark Gurman/Bloomberg)",
+    "description": "Mark Gurman / Bloomberg:\nSources: Apple promotes Carson Oliver to VP of the App Store and names Steve Smith as M&A chief, replacing Adrian Perica, who keeps iCloud, Fitness+, and News  —  Apple Inc. is naming a new mergers and acquisitions chief, according to people familiar with the matter …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-08T18:10:02+00:00",
+    "image_url": "http://www.techmeme.com/261008/i41.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/tablets/i-had-immense-buyers-remorse-with-my-kindle-fire-tablet-but-amazons-new-alexa-tablet-might-be-the-gadget-to-win-me-back",
+    "title": "Amazon's Alexa Tablet could be the slate to win me back after my disappointing experience with the first-ever Kindle Fire",
+    "description": "I owned the first-ever Kindle Fire Tablet, which was quickly relegated to my drawer of e-waste 15 years ago. Now, with the new Alexa Tablet, Amazon might be winning me back onside.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-08T18:07:19+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/q2whSxuzckWrqqUx5Q3FvG-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/microsoft-teams-with-nvidia-to-take-on-apple-macbook-pro-to-win-hearts-and-minds-of-the-creative-and-ai-market",
+    "title": "Microsoft teams with Nvidia to take on Apple MacBook Pro to win hearts and minds of the creative and AI market with new Surface Laptop Ultra",
+    "description": "Microsoft’s Surface Laptop Ultra combines Nvidia RTX Spark hardware, up to 128GB of RAM, and professional software support, while lacking high-speed Nvidia connectivity.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-08T18:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/zooBEFLGUibdQcx5covfsQ-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/10/08/apple-names-new-head-of-mergers-and-acquisitions-per-report/",
+    "title": "Apple names new head of mergers and acquisitions, per report",
+    "description": "Apple is making more leadership changes as the John Ternus era gets underway. A new Bloomberg report today says Apple has named a new mergers and acquisitions chief and a new vice president of the App Store.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-08T18:03:00+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-park-steve-jobs-theater-sep-9-2026.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261008/p40#a261008p40",
+    "title": "Sources: Firmus is set to postpone its IPO and is weighing a private funding round instead, as some investors raised concerns over its pricing strategy (Bloomberg)",
+    "description": "Bloomberg:\nSources: Firmus is set to postpone its IPO and is weighing a private funding round instead, as some investors raised concerns over its pricing strategy  —  Australian data center company Firmus Grid Ltd. is set to postpone its initial public offering, and the company is weighing …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-08T18:01:12+00:00",
+    "image_url": "http://www.techmeme.com/261008/i40.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techradar.com/how-to-watch/tv-shows/how-to-watch-vrt-awards-2026",
     "title": "How to watch VRT Awards 2026 online and from anywhere",
     "description": "See the winners and losers of another year's reality TV from wherever you are. Here's how to watch VRT Awards 2026 online and potentially for FREE",
@@ -707,23 +789,11 @@
     "description": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups"
+      "Breaking News"
     ],
     "pub_date": "2026-10-08T16:00:00+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/blizzard-explains-its-philosophy-for-classic-plus-the-wow-forever-team-on-the-design-pillars-it-uses-to-stay-true-to-the-core-design-pacing-and-tone-of-the-original-game",
-    "title": "Blizzard explains its philosophy for 'Classic Plus' — The WoW: Forever team on the design pillars it uses to 'stay true to the core design, pacing, and tone of the original game'",
-    "description": "The World of Warcraft: Forever team at Blizzard Entertainment has shared its design philosophy for creating an authentic \"Classic Plus\" experience.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-08T16:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/9xmrNnoHGyuewCPoGaWV97-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://mashable.com/tech/sony-ecm-ax10-spatial-audio-microphone-for-creators-smartphones-launch",
@@ -736,6 +806,17 @@
     "pub_date": "2026-10-08T16:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/05Lg8em9EtOE3pk3t6BmweJ/hero-image.png",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/blizzard-explains-its-philosophy-for-classic-plus-the-wow-forever-team-on-the-design-pillars-it-uses-to-stay-true-to-the-core-design-pacing-and-tone-of-the-original-game",
+    "title": "Blizzard explains its philosophy for 'Classic Plus' — The WoW: Forever team on the design pillars it uses to 'stay true to the core design, pacing, and tone of the original game'",
+    "description": "The World of Warcraft: Forever team at Blizzard Entertainment has shared its design philosophy for creating an authentic \"Classic Plus\" experience.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-10-08T16:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/9xmrNnoHGyuewCPoGaWV97-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://www.nasa.gov/news-release/nasa-energy-department-advance-new-era-of-nuclear-powered-exploration/",
@@ -1671,6 +1752,7 @@
     "title": "New MacBook Pro leak could be very good news for ‘pro’ users",
     "description": "Apple’s redesigned MacBook Pro is coming soon, and the latest leak offers potentially great news for truly ‘pro’ users worried about the rumored thinner design.\n\n\n\n more…",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-08T13:40:59+00:00",
@@ -1754,6 +1836,7 @@
     "description": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
     "categories": [
       "AI & Machine Learning",
+      "Breaking News",
       "Business & Startups",
       "Social & Media"
     ],
@@ -2301,86 +2384,5 @@
     "pub_date": "2026-10-08T11:30:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/3172660_Cupertino_S1_10030b.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/sesterce-10b-ai-data-centre-finland-jamsa",
-    "title": "Sesterce plans €10B AI data centre campus at former Finnish paper mill",
-    "description": "French AI infrastructure company Sesterce plans to invest more than €10bn in an AI data centre campus at a former paper mill in Jämsä, central Finland. The campus will be located on the Kaipola site, where UPM shut down its paper mill in early 2021, Sesterce announced. Building work on the first phase, with 200",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-10-08T11:29:16+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/sesterce-white-logo.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/windows/microsoft-finally-looks-to-fix-windows-11-search-itll-be-faster-and-lighter-on-ram-usage-with-nifty-new-actions",
-    "title": "Microsoft promises to make Windows 11 search better — and it's about time",
-    "description": "Microsoft promises 'substantial improvements in performance and memory usage' as it fixes Windows 11 search — but some critics are still unhappy.",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-08T11:22:17+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/hi3sE3xZdA5gKLTMyCUDAE-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-    "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-    "description": "Full-stack safety solution for physical AI is being used by robotics companies.",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-08T11:15:33+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261008/p18#a261008p18",
-    "title": "Quantum startup Oratomic raised a $475M Series B at a $5.4B valuation, up from $1.5B after raising a $300M Series A in July, taking its total funding to $775M (Isabelle Bousquette/Wall Street Journal)",
-    "description": "Isabelle Bousquette / Wall Street Journal:\nQuantum startup Oratomic raised a $475M Series B at a $5.4B valuation, up from $1.5B after raising a $300M Series A in July, taking its total funding to $775M  —  Oratomic's latest raise brings the company's total funding to $775 million  —  Quantum computing startup Oratomic raised $475 million …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T11:15:06+00:00",
-    "image_url": "http://www.techmeme.com/261008/i18.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/manus-raises-500m-after-meta-exit",
-    "title": "Manus raises more than $500M in first funding round since Meta exit",
-    "description": "Butterfly Effect, the company behind AI agent startup Manus, said that it has closed a funding round of more than $500 million. This would be the first raise since Meta’s $2 billion-plus purchase of Manus was undone on Beijing’s orders. Boyu Capital and IDG Capital led the round. Existing investors Tencent, HSG (formerly Sequoia China),",
-    "categories": [
-      "Breaking News",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-10-08T11:10:34+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/manus-logo-phone-screen.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/anycubics-photon-p1-max-is-my-recommended-resin-3d-printer-for-creators-who-want-to-produce-bigger-models-and-its-on-sale-now",
-    "title": "I recommend Anycubic's Photon P1 Max for big resin prints, and it's on sale",
-    "description": "The Anycubic Photon P1 Max 3D printer, with smart heating and AI monitoring, is my pick for large resin models if you're a maker, engineer, or small business.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T11:10:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/qCJf9GCSZmUVPMhvBhuh28-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/cameras/camera-lenses/sigmas-new-50-120mm-f-2-8-changes-the-game-for-sony-canon-and-fujifilm-crop-sensor-cameras-and-fans-are-already-calling-the-usd799-lens-an-instant-buy",
-    "title": "Sigma’s 50-120mm F2.8 is 'an APS-C legend in the making' — and a tempting full-frame alternative",
-    "description": "The 50-120mm F2.8 with 75-180mm equivalent focal length is much smaller, lighter and cheaper than full-frame equivalents.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T11:02:16+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/swrV5Mq4YYRvdZQDDge8pb-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
