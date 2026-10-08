@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video",
+    "title": "ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside",
+    "description": "Four men detained at an ICE detention center in rural Georgia used the facility's video conferencing software to expose both the conditions inside and President Donald Trump's hostile takeover of the immigration courts. In the five-minute video, the men describe an intentionally dysfunctional legal system designed to keep them trapped in federal custody for months",
+    "categories": [
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-08T19:45:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2233996808.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/",
+    "title": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
+    "description": "NASA is launching two new science and technology initiatives to deepen scientific understanding and accelerate the innovation that will shape America’s future in space. The initiatives are announced in conjunction with the White House Office of Science and Technology Policy’s (OSTP) “Golden Age Summit” in Washington on Thursday with top U.S. agency leaders. The programs",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-08T19:40:00+00:00",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=2048",
+    "source_name": "NASA.GOV"
+  },
+  {
+    "link": "https://www.androidcentral.com/wearables/google-pixel-watch/old-pixel-watches-will-lose-safety-signal-support",
+    "title": "Old Pixel Watches will lose 'Safety Signal' support: here's what that means for impacted users",
+    "description": "LTE Pixel Watch 2 and Watch 3 users will lose Safety Signal by the end of the year. Google is preparing to end support for the features, and this is what it means for you.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-08T19:32:44+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/e43qQdPRHPtyizdhunjdN8-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261008/p43#a261008p43",
+    "title": "Anthropic launches the Critical Infrastructure Defense Program to provide AI models, threat research, and on-site support, starting with CrowdStrike and others (Sam Sabin/Axios)",
+    "description": "Sam Sabin / Axios:\nAnthropic launches the Critical Infrastructure Defense Program to provide AI models, threat research, and on-site support, starting with CrowdStrike and others  —  Anthropic is launching a new cybersecurity initiative designed to bring its most powerful AI models and engineers …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-08T19:30:41+00:00",
+    "image_url": "http://www.techmeme.com/261008/i43.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11",
     "title": "Microsoft’s new Windows Search is exactly what Windows 11 needs",
     "description": "Windows Search has been one of the most frustrating parts of Windows 11, and now Microsoft is addressing this with a significant overhaul. A new redesigned Windows Search is now in testing that is much faster, more capable, and a lot more modern. \"This new Windows Search experience is built for speed,\" says Anshul Rawat,",
@@ -10,6 +58,20 @@
     "pub_date": "2026-10-08T19:30:21+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/windowssearch.png?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
+    "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
+    "description": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-08T19:30:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ac690e71275a2452d67fafd/master/pass/Model-Behavior-Artist-Behind-Meta-Muse-Logo-Business.jpg",
+    "source_name": "WIRED.COM"
   },
   {
     "link": "https://www.techmeme.com/261008/p42#a261008p42",
@@ -28,6 +90,7 @@
     "title": "Google is doing away with Safety Signal on Pixel Watch",
     "description": "Access to the emergency feature for LTE-connected wearables will end by December.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-08T19:16:12+00:00",
@@ -1267,7 +1330,6 @@
     "title": "Careful out there: latest GTA 6 leak has major story spoilers",
     "description": "If you can't help yourself, maybe don't watch it at work...",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-10-08T15:32:04+00:00",
@@ -1279,7 +1341,6 @@
     "title": "NASA Advances LISA Mission Contributions With New Test Telescope",
     "description": "NASA has taken the next step in the process of developing a new all-glass telescope for the LISA (Laser Interferometer Space Antenna) mission, a space observatory designed to detect ripples in space-time called gravitational waves. L3Harris Technologies will design, assemble, and integrate the new telescope for NASA. Called the Engineering Test Unit, this contribution represents",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-08T15:31:24+00:00",
@@ -2113,7 +2174,6 @@
     "title": "New MacBook Pro leak could be very good news for ‘pro’ users",
     "description": "Apple’s redesigned MacBook Pro is coming soon, and the latest leak offers potentially great news for truly ‘pro’ users worried about the rumored thinner design.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-08T13:40:59+00:00",
@@ -2320,60 +2380,5 @@
     "pub_date": "2026-10-08T13:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6ac61ed08eeaec50812f97eb/master/pass/DSC_9810.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2280791/amazon-alexa-tablet-12-pro-vs-fire-hd-10-what-changed/",
-    "title": "Amazon Alexa Tablet 12 Pro vs Amazon Fire HD 10: What's changed, and is the upgrade worth it?",
-    "description": "Amazon's best tablet ever didn't have to work hard for the title, but a new nanomatte screen and Kindle mode sweeten the deal.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/amazon-alexa-tablet-12-pro-vs-fire-hd-10-what-changed/l-intro-1791465138.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/",
-    "title": "Amazon's new Alexa tablets include a 12-inch model with anti-glare screen",
-    "description": "Amazon has launched three new tablets that come with Alexa+.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2280936/amazon-alexa-tablets-access-google-play/",
-    "title": "Amazon's new Alexa tablets will have full access to Google Play",
-    "description": "You'll be able to access Google Play and its apps on the new Amazon Alexa tablets.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-will-have-full-access-to-google-play/l-intro-1791459214.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/computing/goodbye-fire-tablet-amazons-new-alexa-tablet-is-a-flashy-portable-entertainment-hub/",
-    "title": "Goodbye, Fire Tablet: Amazon’s New Alexa Tablet Is a Flashy Portable Entertainment Hub",
-    "description": "The new tablets tie together the Amazon media ecosystem so you can pick up where you left off from just about anywhere.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T13:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Alexa-Tablet-12-Pro-Keyboard.jpeg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2280730/amazon-is-releasing-kids-versions-of-its-new-alexa-tablets/",
-    "title": "Amazon is releasing kids' versions of its new Alexa Tablets",
-    "description": "The new Amazon Kids Tablets come in two sizes and can be bundled with one of two styles of case.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/amazon-is-releasing-kids-versions-of-its-new-alexa-tablets/l-intro-1791410530.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
