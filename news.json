@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.techradar.com/pro/you-can-now-play-doom-on-a-sql-database-in-one-of-the-most-astonishing-porting-projects-weve-ever-seen",
+    "title": "You can now play Doom on a SQL database in one of the most astonishing porting projects we've ever seen",
+    "description": "Developer rebuilds Doom in SQL, achieving full-color rendering, game logic, multiplayer, and playable performance through CedarDB queries locally.",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-08T22:10:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/tC3HZkHYzR4SiVWSTi4AZD-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
     "title": "Anthropic launches free AI security scans for open-source projects",
     "description": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's",
@@ -25,6 +37,18 @@
     "source_name": "ENGADGET.COM"
   },
   {
+    "link": "https://www.cnet.com/tech/services-and-software/brain-it-ai-model-image-decoding-mind-reading-weizmann-institute/",
+    "title": "This ‘Mind-Reading’ AI Is a Wiz at Figuring Out What You See",
+    "description": "The trick is, you have to be in an MRI machine — and it only works with pictures.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-08T21:45:41+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Brain-IT-AI-model-baseball-scene.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.engadget.com/2281782/alexa-tablet-vs-ipad-pro-amazon-apple-tablet-comparison/",
     "title": "Alexa Tablet vs iPad Pro: How Amazon is keeping up with Apple",
     "description": "Amazon's latest and greatest tablet shares some key similarities to Apple's high-end iPads, but the devil is in the details.",
@@ -41,6 +65,7 @@
     "title": "You can now use TextExpander for free across Mac, iPhone, iPad, and more",
     "description": "Incredibly useful keyboard shortcut utility TextExpander now offers a free plan, letting users access its core Snippets feature on the Mac, iPhone, iPad, Windows, and Chrome. Here are the details.\n\n\n\n more…",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-08T21:38:06+00:00",
@@ -72,8 +97,8 @@
   },
   {
     "link": "https://www.techmeme.com/261008/p48#a261008p48",
-    "title": "SpaceX agrees to buy a nationwide low-band spectrum portfolio to help Starlink \"become a major mobile carrier\"; AT&T, T-Mobile, Verizon fall 6%+ after hours (Bloomberg)",
-    "description": "Bloomberg:\nSpaceX agrees to buy a nationwide low-band spectrum portfolio to help Starlink “become a major mobile carrier”; AT&T, T-Mobile, Verizon fall 6%+ after hours  —  Elon Musk's SpaceX said it acquired low-band spectrum that will enable it to use its Starlink satellites to become a …",
+    "title": "SpaceX agrees to acquire a low-band spectrum portfolio to help Starlink \"become a major mobile carrier in the US\"; AT&T, T-Mobile, Verizon fall 6%+ after hours (Bloomberg)",
+    "description": "Bloomberg:\nSpaceX agrees to acquire a low-band spectrum portfolio to help Starlink “become a major mobile carrier in the US”; AT&T, T-Mobile, Verizon fall 6%+ after hours  —  Elon Musk's SpaceX said it acquired low-band spectrum that will enable it to use its Starlink satellites to become a …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -267,8 +292,8 @@
   },
   {
     "link": "https://www.techmeme.com/261008/p46#a261008p46",
-    "title": "Sources: Apple plans a second October launch, on or around October 27, for its first touch-screen MacBook, a new iPad mini, and M6 14-inch MacBook Pro and iMac (Mark Gurman/Bloomberg)",
-    "description": "Mark Gurman / Bloomberg:\nSources: Apple plans a second October launch, on or around October 27, for its first touch-screen MacBook, a new iPad mini, and M6 14-inch MacBook Pro and iMac  —  Apple Inc., already set to introduce a revamped smart home strategy next week, is planning a second launch in October to introduce …",
+    "title": "Sources: Apple is planning an event on or around October 27 for its first touchscreen MacBook, an OLED iPad mini, a 14\" MacBook Pro with M6, and an iMac with M6 (Mark Gurman/Bloomberg)",
+    "description": "Mark Gurman / Bloomberg:\nSources: Apple is planning an event on or around October 27 for its first touchscreen MacBook, an OLED iPad mini, a 14\" MacBook Pro with M6, and an iMac with M6  —  Apple Inc., already set to introduce a revamped smart home strategy next week, is planning a second launch in October to introduce …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -279,8 +304,8 @@
   },
   {
     "link": "https://www.techmeme.com/261008/p45#a261008p45",
-    "title": "Anthropic launches OSS Scanner, a free opt-in vulnerability scanner for critical open-source projects; its AI-generated reports are sent without human review (Anthropic)",
-    "description": "Anthropic:\nAnthropic launches OSS Scanner, a free opt-in vulnerability scanner for critical open-source projects; its AI-generated reports are sent without human review  —  We're launching OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude …",
+    "title": "Anthropic launches OSS Scanner, which provides free, opt-in security audits for open-source projects by sending AI-generated reports without human review (Anthropic)",
+    "description": "Anthropic:\nAnthropic launches OSS Scanner, which provides free, opt-in security audits for open-source projects by sending AI-generated reports without human review  —  We're launching OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -909,8 +934,7 @@
     "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
     "description": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-08T18:10:55+00:00",
     "image_url": null,
@@ -2339,30 +2363,5 @@
     "pub_date": "2026-10-08T14:16:37+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/atari.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/aws-agentcore-zenity-agentcorruption-one-prompt-agents",
-    "title": "Zenity says one prompt took over every AgentCore agent in an AWS account",
-    "description": "Correction, 8 October 2026 An earlier version of this article’s headline said researchers took over every AWS AgentCore agent in a region. The research covered agents within a single AWS account and region, and the headline stated the researchers’ claim as fact. We have corrected the headline and added a statement from AWS, which says",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-08T14:14:15+00:00",
-    "image_url": "https://media.thenextweb.com/2026/08/zenity-ai.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-8-apple-macbook-air-m5-deal",
-    "title": "The best Prime Day MacBook deal is still live: Last chance to get $200 off the new 13-inch M5 MacBook Air",
-    "description": "Prime Day might be over, but the brand-new 2026 Apple MacBook Air with the M5 chip is still on sale for $1,099 on Amazon.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T14:13:26+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00xjss0907HUYP2OIY8KVoF/hero-image.png",
-    "source_name": "MASHABLE.COM"
   }
 ]
