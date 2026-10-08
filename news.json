@@ -1,5 +1,42 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+    "title": "Anthropic launches free AI security scans for open-source projects",
+    "description": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-08T21:53:51+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2281788/idc-worldwide-pc-shipments-in-q3-fell-20-percent-from-last-year/",
+    "title": "IDC: Worldwide PC shipments in Q3 fell 20 percent from last year",
+    "description": "\"With macro conditions worsening, the risk is that the outlook for the next few quarters gets worse before it gets better.\"",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-08T21:50:20+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/idc-worldwide-pc-shipments-in-q3-fell-20-percent-from-last-year/l-intro-1791495665.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2281782/alexa-tablet-vs-ipad-pro-amazon-apple-tablet-comparison/",
+    "title": "Alexa Tablet vs iPad Pro: How Amazon is keeping up with Apple",
+    "description": "Amazon's latest and greatest tablet shares some key similarities to Apple's high-end iPads, but the devil is in the details.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-08T21:40:59+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/alexa-tablet-vs-ipad-pro-how-amazon-is-keeping-up-with-apple/l-intro-1791495275.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/10/08/you-can-now-use-textexpander-for-free-across-mac-iphone-ipad-and-more/",
     "title": "You can now use TextExpander for free across Mac, iPhone, iPad, and more",
     "description": "Incredibly useful keyboard shortcut utility TextExpander now offers a free plan, letting users access its core Snippets feature on the Mac, iPhone, iPad, Windows, and Chrome. Here are the details.\n\n\n\n more…",
@@ -84,7 +121,7 @@
   {
     "link": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
     "title": "Inside Elon Musk’s Midterm Spending Spree",
-    "description": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Donald Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
+    "description": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -420,8 +457,8 @@
   },
   {
     "link": "https://www.techmeme.com/261008/p43#a261008p43",
-    "title": "Anthropic launches the Critical Infrastructure Defense Program to provide AI models, threat research, and on-site support, starting with CrowdStrike and others (Sam Sabin/Axios)",
-    "description": "Sam Sabin / Axios:\nAnthropic launches the Critical Infrastructure Defense Program to provide AI models, threat research, and on-site support, starting with CrowdStrike and others  —  Anthropic is launching a new cybersecurity initiative designed to bring its most powerful AI models and engineers …",
+    "title": "Anthropic debuts the Critical Infrastructure Defense Program to provide AI models, threat research, and on-site engineers, starting with CrowdStrike and others (Sam Sabin/Axios)",
+    "description": "Sam Sabin / Axios:\nAnthropic debuts the Critical Infrastructure Defense Program to provide AI models, threat research, and on-site engineers, starting with CrowdStrike and others  —  Anthropic is launching a new cybersecurity initiative designed to bring its most powerful AI models and engineers …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -952,7 +989,6 @@
     "title": "Webb Measures Distance to Farthest Fast Radio Burst, Suggesting Origin",
     "description": "First discovered in 2007, fast radio bursts are enigmatic, millisecond-long flashes of radio emission from the distant universe. Their origin remains uncertain, particularly since most are seen once and never again. Astronomers using NASA’s James Webb Space Telescope have pinpointed the host galaxy of the most distant fast radio burst (FRB) seen to date. Their",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-08T18:00:00+00:00",
@@ -1485,7 +1521,6 @@
     "title": "AI hardware startup Natura unveils Interface, a $99 smart ring that connects to AI agents and apps, including Claude, ChatGPT, Muse, Grok Bot, and Instinct (Aisha Malik/TechCrunch)",
     "description": "Aisha Malik / TechCrunch:\nAI hardware startup Natura unveils Interface, a $99 smart ring that connects to AI agents and apps, including Claude, ChatGPT, Muse, Grok Bot, and Instinct  —  Meet Interface, a new $99 smart ring from AI and hardware startup Natura that's designed for the era of AI agents.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-08T16:25:01+00:00",
@@ -1628,7 +1663,6 @@
     "description": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-08T16:00:00+00:00",
@@ -2329,40 +2363,6 @@
     ],
     "pub_date": "2026-10-08T14:13:26+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/00xjss0907HUYP2OIY8KVoF/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/home/small-appliances/le-creusets-halloween-collection-is-quality-cookware-with-a-spooky-twist-and-if-you-thought-you-couldnt-turn-a-gravy-boat-into-a-pumpkin-you-were-wrong",
-    "title": "Le Creuset's Halloween collection is quality cookware with a spooky twist",
-    "description": "The brand's high-end, cast iron cookware has had a seasonal makeover, and I'm obsessed.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T14:13:14+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/o9Qt6y7Mnnsn6aDYicYRP7-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-8-bose-quietcomfort-2nd-gen-headphones-deal",
-    "title": "Missed Prime Day? The 2nd Gen Bose QuietComfort headphones are still on sale for $319.",
-    "description": "Prime Day is over, but Bose’s QuietComfort 2nd Gen headphones are still marked down to $319, from $359.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T14:11:37+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06LGMbiibvaSSZXf0yKZkfQ/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/life/social-media-anime-fandom",
-    "title": "How social media changed what it means to be an anime fan",
-    "description": "From TikTok edits to Olympic ice rinks, anime fandom is showing up everywhere. Big Sean, Amber Glenn, and Jordan Howlett explain how the internet helped bring it into the spotlight.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T14:07:48+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/029Hzv1GGzhIAxRQrv6OBYt/hero-image.jpg",
     "source_name": "MASHABLE.COM"
   }
 ]
