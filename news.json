@@ -1,5 +1,31 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+    "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+    "description": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Science & Environment",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-08T21:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/microsoft-execution-containers-ai-agent-cybersecurity-news/",
+    "title": "How Microsoft Is Trying to Keep Your AI Agents Contained",
+    "description": "Microsoft’s Execution Containers give Windows developers a “kill switch” and “YOLO mode” in terms of access for AI agents.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-08T20:53:29+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/AdobeStock_2198594757.jpeg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261008/p47#a261008p47",
     "title": "USV raised $900M, including a $500M early-stage fund, up from $275M in 2024, cuts general partnership to four investors, and aims to lead more AI rounds (Bloomberg)",
     "description": "Bloomberg:\nUSV raised $900M, including a $500M early-stage fund, up from $275M in 2024, cuts general partnership to four investors, and aims to lead more AI rounds  —  New York City-based venture firm Union Square Ventures is reinventing itself to better compete in the artificial intelligence race …",
@@ -82,6 +108,18 @@
     "pub_date": "2026-10-08T20:23:09+00:00",
     "image_url": "http://www.techmeme.com/img/pml.png",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
+    "title": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
+    "description": "Media are invited to join NASA for a media teleconference at 4 p.m. EDT, Thursday, Oct. 15, to preview the agency’s contributions to JAXA’s (Japan Aerospace Exploration Agency) Martian Moons eXploration (MMX) mission. The mission is scheduled to launch from JAXA’s Tanegashima Space Center in Japan on Monday, Oct. 19 EDT (Tuesday, Oct. 20 JST).",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-08T20:22:12+00:00",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2023/04/mmx-mars-mission.jpg?w=985",
+    "source_name": "NASA.GOV"
   },
   {
     "link": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
@@ -1103,7 +1141,6 @@
     "title": "Could .chatgpt and .claude be the next generation of web domains? ICANN reveals bids for new additions",
     "description": "As promised, ICANN shares with us some of the finder details of its applicants, and unsurprisingly, AI is a big theme.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-08T17:00:00+00:00",
@@ -1138,8 +1175,7 @@
     "title": "Station F and Anthropic say the AI boom is drawing startups back in person",
     "description": "AI makes it possible to build a company from anywhere, but founders are still choosing to sit together, Station F director Roxanne Varza and Anthropic’s Aiden Blake said. They spoke on a panel at Wave by Vento in Turin on Thursday. “What’s really interesting is we’re seeing more and more people coming since the ‘AI",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-08T16:57:47+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/aiden-blake-anthropic-wave-by-vento-turin-speaking-gesturing.avif",
@@ -1185,7 +1221,6 @@
     "title": "Docs: OpenAI told investors its annualized revenue was nearing $50B at the end of September, well below the $70B reported by the media based on investor docs (Financial Times)",
     "description": "Financial Times:\nDocs: OpenAI told investors its annualized revenue was nearing $50B at the end of September, well below the $70B reported by the media based on investor docs  —  AI giant recently told investors the key figure was approaching $50bn in September, far less than the $70bn that was widely reported",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-08T16:51:53+00:00",
@@ -1197,7 +1232,6 @@
     "title": "The Bose QuietComfort headphones remain at their lowest price ever after October Prime Days end",
     "description": "October Prime Day may be over, but Mashables headphones expert found one of the best deals still live.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-08T16:47:28+00:00",
@@ -1574,6 +1608,7 @@
     "title": "NASA Advances LISA Mission Contributions With New Test Telescope",
     "description": "NASA has taken the next step in the process of developing a new all-glass telescope for the LISA (Laser Interferometer Space Antenna) mission, a space observatory designed to detect ripples in space-time called gravitational waves. L3Harris Technologies will design, assemble, and integrate the new telescope for NASA. Called the Engineering Test Unit, this contribution represents",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-08T15:31:24+00:00",
@@ -2343,40 +2378,5 @@
     "pub_date": "2026-10-08T13:55:01+00:00",
     "image_url": "http://www.techmeme.com/261008/i28.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/voltus-225m-series-d-virtual-power-plant",
-    "title": "Voltus raises $225M to turn homes and batteries into power for data centres",
-    "description": "Voltus has raised $225 million in a Series D round. The San Francisco company pays businesses and homes to cut, shift or supply power when the grid needs it. Generation Investment Management led the round, with Activate Capital and the energy trader Vitol as co-leads. Broadscale Group, Climate Investment, NGP, Ajax Strategies and All Aboard",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-08T13:54:16+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/voltus-raises-225-million-blue-network-graphic.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/just-eat-takeaway-orders-growth-prosus-ifood-brazil",
-    "title": "Just Eat Takeaway orders grow again after 55 months of decline, Prosus says",
-    "description": "Just Eat Takeaway’s orders grew year on year in September for the first time in 55 months, its owner Prosus said on Thursday. Chief executive Fabricio Bloisi gave the figure in a letter to shareholders that also covers iFood, Prosus’s food delivery business in Brazil. Prosus said in a regulatory statement that its auditor has",
-    "categories": [
-      "Business & Startups",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-08T13:51:57+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/just-eat-courier-bicycle-orange-backpack-city-street.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-8-apple-ipad-prime-day-deal-still-live-deal",
-    "title": "The 11-inch Apple iPad is still on sale after Prime Day — save $49 at Amazon",
-    "description": "The 11-inch Apple iPad is on sale at Amazon for $399.99, down from $449. That's an 11% discount.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T13:50:34+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04MwdeHYm7BwUNMozzwRgVY/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
