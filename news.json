@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.cnet.com/tech/services-and-software/anthropic-cruel-claude-ai-model-abuse/",
+    "title": "Don’t Be Cruel to Claude: Anthropic’s New Abuse Policy Tests AI Personhood",
+    "description": "Anthropic wants to stop “sustained and needless” cruelty toward its chatbot. But does that imply AI has feelings?",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-09T22:47:42+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/gettyimages-2272002679_82e974.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261009/p28#a261009p28",
     "title": "Oxide Computer, which helps companies build their own clouds, raised a $445M Series D led by Eclipse at a $6B valuation, taking its total funding to ~$835M (Chris Metinko/Axios)",
     "description": "Chris Metinko / Axios:\nOxide Computer, which helps companies build their own clouds, raised a $445M Series D led by Eclipse at a $6B valuation, taking its total funding to ~$835M  —  Oxide Computer Company, which helps companies build their own on-premise integrated cloud computer systems, raised a $445 million Series D led …",
@@ -487,23 +499,10 @@
     "title": "Nvidia RTX Spark laptops start at $2,599 — pre-orders are live now",
     "description": "Pre-orders are now live for Nvidia RTX Spark laptops, but these are the three Blackwell-powered machines I'd buy if you're a small business running local AI.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-09T19:00:45+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/audio/earbuds-airpods/anker-soundcore-aeroclip-2-review",
-    "title": "Anker Soundcore AeroClip 2 review: a solid pair of ultra-compact, featherweight clip-on earbuds",
-    "description": "Anker’s new clip-on earbuds effortlessly blend a stylish aesthetic with hi-tech features — and they don’t sound half bad, either.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-09T19:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/gRV6DLUN9SJZXiRpK2Y7Bn-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -518,11 +517,21 @@
     "source_name": "TECHRADAR.COM"
   },
   {
+    "link": "https://www.techradar.com/audio/earbuds-airpods/anker-soundcore-aeroclip-2-review",
+    "title": "Anker Soundcore AeroClip 2 review: a solid pair of ultra-compact, featherweight clip-on earbuds",
+    "description": "Anker’s new clip-on earbuds effortlessly blend a stylish aesthetic with hi-tech features — and they don’t sound half bad, either.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-09T19:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/gRV6DLUN9SJZXiRpK2Y7Bn-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/just-silly-enough-to-be-perfect-ive-seen-rivians-ghostbusters-ecto-r1-in-action",
     "title": "Bill Murray says Rivian’s Ghostbusters Ecto-R1 is “perfect” — and I’ve seen it in action",
     "description": "Rivian is bringing Ghostbusters to its electric vehicles with a Halloween software update, and I got to see Bill Murray with the custom Ecto-R1 in New York City and try the new features for myself.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-09T19:00:00+00:00",
@@ -534,7 +543,6 @@
     "title": "Suit says dynamic AI prices at McDonald’s are ‘nickel-and-diming consumers’",
     "description": "An antitrust lawsuit is being brought against McDonald’s alleging the chain is using dynamic AI pricing to rip off customers.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-09T19:00:00+00:00",
@@ -592,7 +600,6 @@
     "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
     "description": "\"The current decline may be just the beginning of a new downward cycle.\"",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-09T18:54:52+00:00",
@@ -601,8 +608,8 @@
   },
   {
     "link": "https://www.techradar.com/pro/it-looks-like-youre-buying-a-clippy-desk-accessory-without-getting-caught-in-a-microsoft-crypto-scam-would-you-like-help",
-    "title": "It looks like you're buying a Clippy desk accessory without getting caught in a Microsoft crypto scam. Would you like help?",
-    "description": "It looks like you're buying a Clippy desk accessory without getting caught in a crypto scam. Would you like help? Oh yes, Microsoft's iconic mascot is back.",
+    "title": "Microsoft's Clippy may be back in the news over a crypto scam, but this $15 desk toy is pure nostalgia",
+    "description": "It looks like you're pining for Clippy's return. Would you like help? Microsoft's mascot is back in the news after shady crypto scam, but we prefer this version.",
     "categories": [
       "Tech News"
     ],
@@ -987,7 +994,8 @@
     "title": "Anthropic bans ‘needless abusive or cruel behavior’ towards Claude",
     "description": "Anthropic says Claude users must not be \"abusive or cruel\" towards its Claude AI models.",
     "categories": [
-      "AI & Machine Learning"
+      "AI & Machine Learning",
+      "Breaking News"
     ],
     "pub_date": "2026-10-09T17:22:57+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/xaqDvJRDEgfKFzjiseTdLX-1920-80.jpg",
@@ -2284,17 +2292,5 @@
     "pub_date": "2026-10-09T11:05:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/hsp2hXrMRpqTNDhd2ZFJof-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/healthcare-ai-human-context-claims-workers-compensation",
-    "title": "Healthcare AI cannot improve outcomes until it understands the human context behind every claim",
-    "description": "Artificial intelligence is rapidly reshaping healthcare, but many of the industry’s biggest operational problems remain unresolved. Hospitals continue facing administrative bottlenecks. Providers still struggle with documentation burdens. Insurers continue navigating authorization complexity. Patients are still waiting weeks or months for treatment approvals that directly affect their recovery and quality of life. The scale of the challenge",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-10-09T11:04:11+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/doctors-laptop-ai-interface-composite.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
