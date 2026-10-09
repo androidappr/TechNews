@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+    "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+    "description": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-09T21:15:38+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261009/p24#a261009p24",
     "title": "Sources: Ramp raised about $1.85B led by Dragoneer and Thrive Capital at a $60B pre-money valuation, up from $44B in June, when it raised $750M (Rebecca Torrence/Bloomberg)",
     "description": "Rebecca Torrence / Bloomberg:\nSources: Ramp raised about $1.85B led by Dragoneer and Thrive Capital at a $60B pre-money valuation, up from $44B in June, when it raised $750M  —  Fintech startup Ramp has reached a roughly $60 billion valuation with its latest fundraising effort, according to people familiar with the matter.",
@@ -10,6 +22,18 @@
     "pub_date": "2026-10-09T20:50:01+00:00",
     "image_url": "http://www.techmeme.com/img/pml.png",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/ai-holiday-shopping-survey/",
+    "title": "Most US Adults Aren’t Ready for AI to Help With Holiday Shopping, Survey Finds",
+    "description": "Far more people than last year are willing to use AI to help them find the right gift, but few want a bot handling their payment details.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-09T20:48:05+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-1437743132.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://www.techmeme.com/261009/p23#a261009p23",
@@ -2289,28 +2313,5 @@
     "pub_date": "2026-10-09T10:29:51+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/04bQj5dg5dUuTKMfcRXTezJ/hero-image.png",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/sam-altman-vanity-fair-interview-elon-musk-bully",
-    "title": "Sam Altman tells Vanity Fair Elon Musk is a bully he will still work with",
-    "description": "Sam Altman called Elon Musk a bully and said he would still work with him, in an interview with Vanity Fair. The magazine published it on 5 October with its revived New Establishment list. The OpenAI chief executive tops that list. Vanity Fair global editorial director Mark Guiducci recorded the conversation in San Francisco on",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-09T10:20:16+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/sam-altman-openai-devday-podcast-set-armchair-microphone.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/phones/network-providers/starlink-confirms-plans-to-become-the-worlds-most-advanced-mobile-network-and-a-major-us-carrier",
-    "title": "SpaceX plans to turn Starlink into a 'major' US mobile carrier",
-    "description": "SpaceX has acquired new spectrum and plans to launch 15,000 more satellites to help build Starlink Mobile.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-09T10:12:11+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/gwVV6Z8GhPpK3jA669Q6wd-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
