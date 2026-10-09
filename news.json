@@ -1,5 +1,90 @@
 [
   {
+    "link": "https://www.cnet.com/tech/services-and-software/meta-muse-contact-phone-provider-ai-agent-blocked/",
+    "title": "I Asked Meta Muse to Fix an Issue With My Phone Provider. It Got Blocked at Every Turn",
+    "description": "This tech to-do has been on my list for too long. Can an agent do it for me?",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-09T12:41:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2296621165.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/apple-iphone-18-pro-orders-cut-nikkei",
+    "title": "Apple reportedly cuts iPhone 18 Pro component orders by at least 15%",
+    "description": "Apple is asking some suppliers to make fewer parts for its two newest Pro phones, the iPhone 18 Pro and the Pro Max, Nikkei Asia reported on Friday. The two models were the first flagship launch under chief executive John Ternus. Citing several people familiar with the matter, Nikkei Asia said Apple’s October component orders are at least 15% below",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-09T12:39:02+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/iphone-18-pro-and-iphone-18-pro-max.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/meloni-trademark-her-voice-ai-deepfakes",
+    "title": "Giorgia Meloni files to trademark her voice against AI deepfakes",
+    "description": "Italian Prime Minister Giorgia Meloni has applied to trademark her voice at the European Union Intellectual Property Office (EUIPO). The EUIPO record lists a sound mark filed on 5 October in her own name, as an individual, through the Italian firm Praxi Intellectual Property. As of 9 October, the application was still under examination. The",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-09T12:37:26+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/giorgia-meloni-speaking-podium-eu-italian-flags-tokyo.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/10/09/report-apple-cuts-iphone-18-pro-production-due-to-soft-demand/",
+    "title": "Report: Apple cuts iPhone 18 Pro production due to ‘soft demand’",
+    "description": "Apple has reportedly cut orders for the iPhone 18 Pro and iPhone 18 Pro Max due to “soft demand.” A new report from Nikkei Asia says Apple has told select suppliers to cut component production for the device, as price increases allegedly “dampened consumer demand.”\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-09T12:37:23+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-burgundy-official.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/phones/samsung-galaxy/the-galaxy-s27s-rumored-prices-reveal-why-your-next-upgrade-could-cost-more",
+    "title": "The Galaxy S27’s rumored prices reveal why your next upgrade could cost more",
+    "description": "A new rumor outlines preliminary US pricing targets for the Galaxy S27 series alongside key hardware specs, highlighting a clear tier divide across the roster.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-09T12:33:19+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/qpYJXZWkugYfQjXgqxPkA6-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2282035/webb-telescope-detects-galaxy-origin-of-the-farthest-fast-radio-burst-weve-seen-to-date/",
+    "title": "Webb telescope detects galaxy origin of the farthest fast radio burst we've seen to date",
+    "description": "Astronomers used the Webb telescope to see where the farthest fast radio burst we've ever seen had come from.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-09T12:28:24+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/webb-telescope-detects-galaxy-origin-of-the-farthest-fast-radio-burst-weve-seen-to-date/l-intro-1791548424.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/as-memory-costs-spark-raspberry-pi-price-hikes-avoid-this-usd200-standalone-board-trap-canakits-usd260-8gb-bundle-is-the-smarter-buy",
+    "title": "Following Raspberry Pi price hikes, this $260 8GB kit is now the smarter buy",
+    "description": "Raspberry Pi 5 prices are soaring, but this CanaKit 8GB bundle gives you everything you need for just $60 more than a standalone board.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-09T12:25:51+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/nYFtLQ9n38Co745pEoGXCY-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/gemini-flash-lite-free-users-nano-banana-2-1",
     "title": "Google moves free Gemini to Flash-Lite and launches Nano Banana 2.1",
     "description": "From today, Gemini app users without a paid Google AI plan start losing two of its three models. Free personal accounts move to Gemini Flash-Lite only, according to Google’s Gemini Apps Help page. The change comes three days after Google released Nano Banana 2.1, a new image model built on Gemini 3.6 Flash. Subscribers to",
@@ -11,6 +96,17 @@
     "pub_date": "2026-10-09T12:20:12+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/gemini-app-home-screen-ask-gemini-pro-model-picker.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.cnet.com/uncategorized/the-brand-new-apple-watch-ultra-4-is-already-99-off-a-new-low-for-this-model/",
+    "title": "The Brand-New Apple Watch Ultra 4 Is Already $99 Off, A New Low for This Model",
+    "description": "Put Apple’s biggest and best smartwatch on your wrist for its lowest-ever price.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-09T12:13:27+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Watch-Ultra-4-in-black-titanium-on-a-green-and-pink-background.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://www.techradar.com/home/ikeas-new-alarm-clock-will-charge-your-phone-and-give-you-temperature-and-humidity-readings-and-im-hoping-it-launches-worldwide",
@@ -369,8 +465,8 @@
   },
   {
     "link": "https://www.techmeme.com/261009/p8#a261009p8",
-    "title": "Nvidia commits $1B over five years to build out the US' \"capacity for super intelligence research\" in fields including quantum computing, healthcare, and energy (Tobias Mann/The Register)",
-    "description": "Tobias Mann / The Register:\nNvidia commits $1B over five years to build out the US' “capacity for super intelligence research” in fields including quantum computing, healthcare, and energy  —  Commitment comes as GPUzilla prepares to fortify Uncle Sam's arsenal with at least seven AI-optimized supers",
+    "title": "Nvidia commits $1B over five years to build out the US' \"capacity for super intelligence R&D\" in fields like quantum computing, healthcare, and energy security (Tobias Mann/The Register)",
+    "description": "Tobias Mann / The Register:\nNvidia commits $1B over five years to build out the US' “capacity for super intelligence R&D” in fields like quantum computing, healthcare, and energy security  —  Commitment comes as GPUzilla prepares to fortify Uncle Sam's arsenal with at least seven AI-optimized supers",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -1287,8 +1383,8 @@
   },
   {
     "link": "https://www.techmeme.com/261008/p55#a261008p55",
-    "title": "Microsoft denies JD Vance's claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees (Associated Press)",
-    "description": "Associated Press:\nMicrosoft denies JD Vance's claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees  —  President Donald Trump's administration announced Thursday it was suspending Microsoft and several other firms …",
+    "title": "Microsoft denies JD Vance's claim it replaced thousands of US workers with foreign workers in 2025, saying 80% of H-1B applications were for existing employees (Associated Press)",
+    "description": "Associated Press:\nMicrosoft denies JD Vance's claim it replaced thousands of US workers with foreign workers in 2025, saying 80% of H-1B applications were for existing employees  —  President Donald Trump's administration announced Thursday it was suspending Microsoft and several other firms …",
     "categories": [
       "Tech News"
     ],
@@ -1419,8 +1515,8 @@
   },
   {
     "link": "https://www.techmeme.com/261008/p52#a261008p52",
-    "title": "Satya Nadella and Michael Dell were awarded the National Medal of Technology and Innovation by the White House during an appearance alongside other tech leaders (Washington Post)",
-    "description": "Washington Post:\nSatya Nadella and Michael Dell were awarded the National Medal of Technology and Innovation by the White House during an appearance alongside other tech leaders  —  President Donald Trump celebrated tech billionaires such as Microsoft CEO Satya Nadella at an event with arguably awkward timing",
+    "title": "President Trump awards Satya Nadella and Michael Dell the National Medal of Technology and Innovation during a White House summit attended by US tech leaders (Washington Post)",
+    "description": "Washington Post:\nPresident Trump awards Satya Nadella and Michael Dell the National Medal of Technology and Innovation during a White House summit attended by US tech leaders  —  President Donald Trump celebrated tech billionaires such as Microsoft CEO Satya Nadella at an event with arguably awkward timing",
     "categories": [
       "Tech News"
     ],
@@ -2178,94 +2274,5 @@
     "pub_date": "2026-10-08T19:30:00+00:00",
     "image_url": "https://media.wired.com/photos/6ac690e71275a2452d67fafd/master/pass/Model-Behavior-Artist-Behind-Meta-Muse-Logo-Business.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://arstechnica.com/health/2026/10/rfk-jr-unveils-sweeping-federal-initiative-to-find-evidence-of-vaccine-injuries/",
-    "title": "RFK Jr. unveils sweeping federal initiative to find evidence of vaccine injuries",
-    "description": "\"[T]he Trump-RFK Jr. anti-vax agenda keeps getting more corrupt and dangerous.\"",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T19:26:32+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294068904-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/apple-welcome-home-october-13-special-event-announced",
-    "title": "Welcome home: Apple unveils special October event",
-    "description": "Apple just announced a special October event. What new products are on the way?",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T19:20:09+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02XplXJL2gZz7VbnzlbGwlC/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261008/p42#a261008p42",
-    "title": "Nvidia, Oracle, CoreWeave, and other AI stocks fell after a report that OpenAI's annualized revenue at September's end was $20B less than previously reported (CNBC)",
-    "description": "CNBC:\nNvidia, Oracle, CoreWeave, and other AI stocks fell after a report that OpenAI's annualized revenue at September's end was $20B less than previously reported  —  Shares of Nvidia, Oracle, CoreWeave and other artificial intelligence names sank lower on Thursday after the market learned more details about OpenAI's revenue.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T19:20:01+00:00",
-    "image_url": "http://www.techmeme.com/261008/i42.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2281591/google-is-doing-away-with-safety-signal-on-pixel-watch/",
-    "title": "Google is doing away with Safety Signal on Pixel Watch",
-    "description": "Access to the emergency feature for LTE-connected wearables will end by December.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T19:16:12+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/google-is-doing-away-with-safety-signal-on-pixel-watch/l-intro-1791486727.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie",
-    "title": "Paramount is making a Cyberpunk 2077 film",
-    "description": "Cyberpunk 2077 is heading to the big screen. Deadline reports that CD Projekt Red's popular sci-fi video game franchise is being adapted into a live-action film by Paramount Pictures. There's no details just yet on when the film might premiere. But Deadline says that Lorenzo di Bonaventura, who is known for producing the Transformers films,",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-08T19:14:03+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/cyberpunk2077screenshot.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/",
-    "title": "Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe",
-    "description": "“There has been no company in the United States, unfortunately, that has abused this system more than Microsoft,” Vice President JD Vance said on Thursday.",
-    "categories": [
-      "Business & Startups",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-10-08T19:11:45+00:00",
-    "image_url": "https://media.wired.com/photos/6ac7bc49ff9fe01c2a428b56/master/pass/Trump-Cuts-Microsoft-Immigration-Business-2298462056.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/08/heres-everything-new-for-apples-home-app-in-ios-27/",
-    "title": "Apple Home adds two powerful new features in iOS 27",
-    "description": "Apple is launching several new Home products next week, so it’s no surprise that iOS 27 includes big upgrades in the Home app. Here are two powerful new Home features in iOS 27.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T19:11:19+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-home-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-october-prime-day-tech-deals-still-live-2026",
-    "title": "The 17 best Prime Day tech deals still live after the sale: Last chance deals on MacBooks, TVs, headphones, and more",
-    "description": "October Prime Day tech deals are still live. Save 28% on AirPods, get $1,200 off Samsung TVs, and grab Anker chargers starting at $25.99.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T19:02:33+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/060YYjPFaOQ1uSBc98eGTOr/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
