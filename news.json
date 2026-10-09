@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1008658/meta-tiktok-bytedance-ads-ban",
+    "title": "Meta is banning TikTok ads across its platforms",
+    "description": "Meta has banned ads from TikTok's Chinese parent company ByteDance across the US and several other countries as the rivalry between the major social media operators heats up, as reported earlier by Bloomberg. The ban, which went into effect on Thursday, restricts ads and paid marketing messages from ByteDance, along with third-party ads that link",
+    "categories": [
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-09T13:12:45+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_1_Meta-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/microsoft-teams-will-soon-be-able-to-spot-third-party-deepfakes-on-your-morning-meeting",
+    "title": "Microsoft Teams will soon be able to spot third-party deepfakes on your morning meeting",
+    "description": "Teams attacks are decreasing, but they're still a problem, so Microsoft is working on two new features to iron out impersonation.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-09T13:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/JnkKiUetccxhjSuwFcdUPc-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.theverge.com/entertainment/1008441/playdate-season-3",
     "title": "The humble Playdate has become one of gaming’s best deals",
     "description": "The Playdate, Panic's tiny yellow handheld that launched in 2022, has slowly but surely become a great deal - which is a good thing, because everything else in gaming has only gotten more expensive. Despite being a weird device with a black-and-white screen and a crank jutting out the side, the Playdate has managed to",
@@ -10,6 +33,18 @@
     "pub_date": "2026-10-09T13:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23396642/vpavic_220415_5149_0038.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/google-spirit-airlines-data-ombudsman-approval",
+    "title": "Spirit’s privacy ombudsman backs Google’s $10m data deal",
+    "description": "The privacy official in Spirit Airlines’ bankruptcy has recommended approval of the sale of deidentified Spirit Airlines data to Google. In a report filed on 5 October, ombudsman Lucy Thomson said Spirit and Google had taken passenger databases out of the deal. Google won the auction with a $10m bid, Business Insider reported. A hearing",
+    "categories": [
+      "AI & Machine Learning",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-09T12:59:17+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/spirit-airlines-airbus-a321neo-yellow-landing-blue-sky.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://www.techmeme.com/261009/p12#a261009p12",
@@ -133,7 +168,7 @@
   },
   {
     "link": "https://www.cnet.com/uncategorized/the-brand-new-apple-watch-ultra-4-is-already-99-off-a-new-low-for-this-model/",
-    "title": "The Brand-New Apple Watch Ultra 4 Is Already $99 Off, A New Low for This Model",
+    "title": "The Brand-New Apple Watch Ultra 4 Is Already $99 Off, a New Low Price for This Model",
     "description": "Put Apple’s biggest and best smartwatch on your wrist for its lowest-ever price.",
     "categories": [
       "Tech News"
@@ -2239,39 +2274,5 @@
     "pub_date": "2026-10-08T19:44:53+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-1442036678.jpg",
     "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/amazon-leo-1000th-satellite-europe",
-    "title": "Amazon builds 1,000th satellite, says space internet service is weeks away",
-    "description": "Amazon has built its 1,000th broadband satellite and says service is weeks away, having cut production from 27 satellites in six months to 27 a week, while the number in orbit is still 396. That shortfall cost it spectrum priority in July, and the FCC will hand it back early if Amazon proves it has",
-    "categories": [
-      "Business & Startups",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-08T19:41:14+00:00",
-    "image_url": "https://media.thenextweb.com/2026/04/Amazon.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/",
-    "title": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
-    "description": "Editor’s note: This release was updated Oct. 8, 2026 with the formal name of the summit. NASA is launching two new science and technology initiatives to deepen scientific understanding and accelerate the innovation that will shape America’s future in space. The initiatives are announced in conjunction with the White House Office of Science and Technology",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T19:40:00+00:00",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=2048",
-    "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://www.androidcentral.com/wearables/google-pixel-watch/old-pixel-watches-will-lose-safety-signal-support",
-    "title": "Old Pixel Watches will lose 'Safety Signal' support: here's what that means for impacted users",
-    "description": "LTE Pixel Watch 2 and Watch 3 users will lose Safety Signal by the end of the year. Google is preparing to end support for the features, and this is what it means for you.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T19:32:44+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/e43qQdPRHPtyizdhunjdN8-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
   }
 ]
