@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.techradar.com/home/ikeas-new-alarm-clock-will-charge-your-phone-and-give-you-temperature-and-humidity-readings-and-im-hoping-it-launches-worldwide",
+    "title": "IKEA's new alarm clock charges phones and checks temperature and humidity",
+    "description": "The IKEA Stengrönska is an affordable alarm clock packed with features, but it's only on sale in Japan and China right now.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-09T12:07:44+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/YZX4bbETEwj2dzVg8VGH3N-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/im-way-too-excited-for-apples-home-event-and-how-it-will-level-up-my-siri-experience/",
+    "title": "I’m Way Too Excited for Apple’s Home Event and How It Will Level Up My Siri Experience",
+    "description": "But what do we do now with these old “dumb Siri” HomePods?",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-09T12:05:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Opt-1_Clean.png",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
     "title": "Xona’s commercial GPS alternative is about to go live",
     "description": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
@@ -12,6 +35,41 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
+    "link": "https://www.engadget.com/2281840/what-to-expect-at-apples-welcome-home-event-next-week/",
+    "title": "What to expect at Apple's 'Welcome home' event next week",
+    "description": "The company is reportedly rebooting its smart home ambitions with a smart display and a whole bunch of other accessories.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-09T12:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/what-to-expect-at-apples-welcome-home-event-next-week/l-intro-1791500260.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers-to-protect-american-jobs",
+    "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers to 'protect American jobs'",
+    "description": "The Trump administration wants to protect American jobs, and that means suspending skilled worker programs for top US companies.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-09T12:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/KxinhwRz2KvKpopserNiaB-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/dylan-is-an-involuntary-hero-although-he-chooses-to-become-one-he-just-doesnt-know-it-in-the-beginning-control-resonant-composer-explains-the-design-process-for-dylans-theme-song-revealing-his-track-is-essentially-jesses-theme-backwards",
+    "title": "'Dylan is an involuntary hero, although he chooses to become one, he just doesn’t know it in the beginning' — Control Resonant composer explains the design process for Dylan's theme song, revealing his track 'is essentially Jesse's theme backwards'",
+    "description": "Control Resonant composer Petri Alanko has shared his process for developing Dylan's theme song, compared to his sister's, Jesse.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-10-09T12:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Gko5QZthgCcBBKUqAWYoG4-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261009/p11#a261009p11",
     "title": "The Chinese developer of ARTEX says it has converted the AI agent into a closed-source project after CrowdStrike said it was used to hack South Korean banks (Brenda Goh/Reuters)",
     "description": "Brenda Goh / Reuters:\nThe Chinese developer of ARTEX says it has converted the AI agent into a closed-source project after CrowdStrike said it was used to hack South Korean banks  —  The Chinese developer of ARTEX said they have converted the AI agent to a closed-source project after cybersecurity firms identified …",
@@ -22,6 +80,18 @@
     "pub_date": "2026-10-09T11:55:01+00:00",
     "image_url": "http://www.techmeme.com/261009/i11.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/meta-bans-bytedance-tiktok-ads",
+    "title": "Meta blocks TikTok ads on Facebook and Instagram in the US and Japan",
+    "description": "Meta has banned ByteDance, the Chinese parent company of TikTok, from advertising on Facebook and Instagram in seven countries, including the US, Bloomberg News reported. The ban took effect immediately in the US, Canada, Egypt, Indonesia, Japan, Thailand, and Vietnam. It also covers other advertisers whose ads send people to TikTok or other ByteDance apps",
+    "categories": [
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-09T11:54:32+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/meta-avoids-second-addiction-trial-teen-drops-case.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://thenextweb.com/news/zuckerberg-muse-launch-safety-concerns-nyt",
@@ -452,6 +522,7 @@
     "title": "Meta bans TikTok ads from its platforms in tit-for-tat row",
     "description": "Meta has placed a complete ban on ads and marketing from TikTok's US minority owner, ByteDance.",
     "categories": [
+      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-10-09T09:54:24+00:00",
@@ -542,6 +613,7 @@
     "title": "US suspends Microsoft and seven other firms from green card programme",
     "description": "The US government has suspended Microsoft and seven other technology companies from a federal programme that lets employers sponsor foreign workers for green cards. The other firms that are affected are Adobe, Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro, Reuters reported. Vice President JD Vance announced the decision at the White House on Thursday and",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-09T09:34:30+00:00",
@@ -755,8 +827,8 @@
   },
   {
     "link": "https://www.techmeme.com/261009/p5#a261009p5",
-    "title": "OpenAI says it didn't fire three researchers for \"raising safety concerns or speaking out\", but due to violating \"clear policies on handling sensitive\" info (Michael Considine/CNBC)",
-    "description": "Michael Considine / CNBC:\nOpenAI says it didn't fire three researchers for “raising safety concerns or speaking out”, but due to violating “clear policies on handling sensitive” info  —  OpenAI on Friday defended its decision to fire three safety researchers, saying they had committed a “significant breach of trust.”",
+    "title": "OpenAI says it didn't fire three researchers for \"raising safety concerns or speaking out\", but for violating \"clear policies on handling sensitive information\" (Michael Considine/CNBC)",
+    "description": "Michael Considine / CNBC:\nOpenAI says it didn't fire three researchers for “raising safety concerns or speaking out”, but for violating “clear policies on handling sensitive information”  —  OpenAI on Friday defended its decision to fire three safety researchers, saying they had committed a “significant breach of trust.”",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -2191,73 +2263,5 @@
     "pub_date": "2026-10-08T18:52:27+00:00",
     "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/55577377940-a59482db3e-o.jpg?w=2048",
     "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://www.engadget.com/2281551/the-atari-800xl-hybrid-gaming-console-is-back-after-decades-in-obscurity/",
-    "title": "The Atari 800XL hybrid gaming console is back after decades in obscurity",
-    "description": "This updated version connects via HDMI and comes with 25 built-in games.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-08T18:51:28+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/the-atari-800xl-hybrid-gaming-console-is-back-after-decades-in-obscurity/l-intro-1791485375.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo",
-    "title": "Tim Cook says &#8216;I&#8217;m not meddling&#8217; in the new Apple CEO&#8217;s business",
-    "description": "Tim Cook stepped down as Apple CEO in September, handing over the top job to former hardware chief John Ternus and taking an executive chairman role. Cook's still a visible representative of the company, having been recently photographed attending a state dinner at the White House. But in an interview with The Independent, Cook says",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-08T18:48:36+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/gadgets/1008212/pokemon-legends-z-a-switch-deal-sale",
-    "title": "I only bought Pokémon Legends: Z-A during Prime Day, and it’s still on sale",
-    "description": "After covering Amazon’s October sale for the last few days, only one item found its way into my shopping cart, and, lucky for you, it’s still on sale after the event’s conclusion. Pokémon Legends: Z-A for the Nintendo Switch or Switch 2 is $39.88 (usually $59.99 for Switch or $69.99 for Switch 2) at Amazon.",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware",
-      "Gaming"
-    ],
-    "pub_date": "2026-10-08T18:48:11+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_0107.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-october-prime-day-deals-still-live-2026",
-    "title": "October Prime Day is over: 100+ best deals still live, including $200 off MacBooks and $79 AirPods",
-    "description": "Amazon Prime Big Deal Days has ended. See the top Prime Day deals still live, including $200 off MacBooks, 53% off Bose headphones, and $1,200 off Samsung TVs.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T18:45:27+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01gTMGwTNcjNg5DsRf9tKfN/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://arstechnica.com/science/2026/10/suspended-glass-bead-entangled-with-light-maybe-a-quantum-memory/",
-    "title": "An experimental tour-de-force: Entanglement between glass bead and light",
-    "description": "Getting a glass bead to act like a quantum object by entangling it with light.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-08T18:45:23+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2258360221-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/new-study-shows-concerning-rise-in-developer-burnout-and-growing-distrust-in-how-ai-may-affect-their-jobs",
-    "title": "New study shows concerning rise in developer burnout — and growing distrust in how AI may affect their jobs",
-    "description": "Worldwide developer survey reveals growing concerns over AI and an army of coders who feel close to burning out.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T18:45:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Badogw5wgWSHTzzjriBAkJ-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
