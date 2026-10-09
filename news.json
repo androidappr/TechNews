@@ -1,5 +1,89 @@
 [
   {
+    "link": "https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude",
+    "title": "Ohio blogger found guilty of harassment for sending Shrek nude to senator",
+    "description": "A jury found an Ohio political blogger guilty of telecommunications harassment after he sent an explicit image of Shrek to a Republican state senator. On Friday, a judge ordered DJ Byrnes, owner of political commentary blog The Rooster, to pay a $200 fine, according to a report from the Columbus Dispatch. Byrnes texted Ohio Sen.",
+    "categories": [
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-09T19:41:11+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2261816039.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/tablets/kindle/users-find-a-weird-issue-with-the-kindle-2026-amazon-says-it-was-expected",
+    "title": "Users find a weird issue with the Kindle 2026: Amazon says it was 'expected'",
+    "description": "Early Kindle 2026 users reported a \"light bleeding\" issue with the eReader. Amazon got candid about it, and it looks like this was always expected.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-09T19:37:49+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/yy9NdQrQ4HKrmGmnomJcVA-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "description": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-09T19:36:56+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/micro1-1bn-enterprise-data-ai-training-citi-hercules",
+    "title": "micro1 commits $1bn to buy company data for training AI agents",
+    "description": "AI training company micro1 will spend $1bn over the next 12 months buying and licensing operational data from companies. The San Francisco company announced the plan on Friday. Citi and Hercules Capital are providing the capital. The money goes through micro1’s Company Data Partnerships programme. The company uses de-identified company data to build reinforcement learning",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-09T19:34:41+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/micro1-logo-white-on-black-texture.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/apps-software/meta/threads-takes-gems-to-new-places-with-badges-for-users",
+    "title": "Threads takes 'Gems' to new places with badges for users who spur conversation",
+    "description": "Meta's Threads launches a \"Gems\" test that's all about awarding ongoing conversations with bright, shimmering badges.",
+    "categories": [
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-09T19:31:31+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/GUFK9o74dcEshJD8rJSedQ-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+    "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+    "description": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-09T19:28:49+00:00",
+    "image_url": "https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/master/pass/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/anthropic-cyber-mission-critical-infrastructure-oss-scanner",
+    "title": "Anthropic signs CrowdStrike, Hitachi and 9 more to defend power and water",
+    "description": "Anthropic will give its frontier Claude models, engineers and threat research to the companies that guard critical infrastructure. That means power grids, water utilities and transport networks. The Critical Infrastructure Defense Program is the first part of the Anthropic Cyber Mission. The company announced it on Thursday as a long-term effort to support defenders. The",
+    "categories": [
+      "AI & Machine Learning",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-09T19:25:43+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/claude-cowork-sandbox-escape-mac-files-sharedroot.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/msi-pro-max-edge-ai-mini-pc-review",
     "title": "MSI Pro Max Edge AI+ mini PC review",
     "description": "The MSI Pro Max Edge AI+ is a mini PC with a difference. Built for local AI, it features the AMD’s Ryzen AI Max+ 395, Radeon 8060s graphics and a 50-TOPS NPU.",
@@ -58,18 +142,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techradar.com/audio/earbuds-airpods/anker-soundcore-aeroclip-2-review",
-    "title": "Anker Soundcore AeroClip 2 review: a solid pair of ultra-compact, featherweight clip-on earbuds",
-    "description": "Anker’s new clip-on earbuds effortlessly blend a stylish aesthetic with hi-tech features — and they don’t sound half bad, either.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-09T19:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/gRV6DLUN9SJZXiRpK2Y7Bn-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/how-to-watch/tv-shows/watch-boston-blue-season-2",
     "title": "How to watch Boston Blue season 2 online for free – stream police drama from anywhere",
     "description": "Here's how to watch Boston Blue season 2 online no matter where in the world you are.",
@@ -79,6 +151,18 @@
     ],
     "pub_date": "2026-10-09T19:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/hKodyWmjXSMrje5fB4YD4m-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/audio/earbuds-airpods/anker-soundcore-aeroclip-2-review",
+    "title": "Anker Soundcore AeroClip 2 review: a solid pair of ultra-compact, featherweight clip-on earbuds",
+    "description": "Anker’s new clip-on earbuds effortlessly blend a stylish aesthetic with hi-tech features — and they don’t sound half bad, either.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-09T19:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/gRV6DLUN9SJZXiRpK2Y7Bn-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -938,7 +1022,6 @@
     "description": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-09T15:43:33+00:00",
@@ -950,8 +1033,7 @@
     "title": "AI’s Problem Solving Is a ‘Profound Disruption’ for the Math Community",
     "description": "“Mathematics is not a game of chess,” one Fields Medal winner told CNET. Mathematicians worry AI companies are just trying to win.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-09T15:37:41+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/5c412b21-480e-4517-aa62-a5f425e268c1.png",
@@ -2239,85 +2321,5 @@
     "pub_date": "2026-10-09T09:45:02+00:00",
     "image_url": "http://www.techmeme.com/261009/i6.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-9-shark-matrix-robot-vacuum-deal",
-    "title": "The Shark Matrix Plus robot vacuum is at its lowest-ever price — get it for under $200",
-    "description": "Get the best robot vacuum deal. Save 25% on the Shark Matrix Plus at Amazon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-09T09:42:30+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07fgG5CxAdCj3DieRDX2LC0/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/microsoft-perm-green-card-suspension-vance",
-    "title": "US suspends Microsoft and seven other firms from green card programme",
-    "description": "The US government has suspended Microsoft and seven other technology companies from a federal programme that lets employers sponsor foreign workers for green cards. The other firms that are affected are Adobe, Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro, Reuters reported. Vice President JD Vance announced the decision at the White House on Thursday and",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-09T09:34:30+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/jd-vance-lectern-protecting-american-workers.jpg.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/a-new-mexico-community-was-a-place-to-build-a-life-then-a-hypersonic-missile-factory-showed-up/",
-    "title": "A New Mexico Community Was a Place to Build a Life. Then a Hypersonic Missile Factory Showed Up",
-    "description": "Castelion—a next-generation defense tech company—is building a facility in Rio Rancho Estates that documents show could pose a major fire and chemical hazard to neighboring communities.",
-    "categories": [
-      "Business & Startups",
-      "Government & Policy",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-09T09:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6abd1e80dae3985b8f0ee44b/master/pass/093926-New%20Mexico%20Missle.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/life/oct-9-pokemon-tcg-30th-delta-reign-booster-display-box-preorder-deal",
-    "title": "The Pokémon TCG Delta Reign Booster Display Box is way under market price at Walmart — save $30 vs. Amazon",
-    "description": "Preorder the Pokémon TCG Delta Reign Booster Display Box for $239.88 at Walmart, $30 below Amazon and $21 under market price.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-09T09:29:31+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00Ycwj2KBBBlDrNYRRo6UCD/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-9-beats-studio-pro-headphones-deal",
-    "title": "The Beats Studio Pro headphones are 50% off at Amazon right now — save over $150",
-    "description": "Get the best Beats deal. Save 50% on the Beats Studio Pro at Amazon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-09T09:21:54+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02M6n0p4a0xjDzyq34WLtao/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/life/oct-9-cmf-watch-3-pro",
-    "title": "The CMF Watch 3 Pro has dropped below $60 at Amazon — get it for its best-ever price",
-    "description": "Get the best fitness tracker deal. Save 25% on Nothing CMF Watch 3 Pro at Amazon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-09T09:19:20+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02yvhrOeRcrsTLQrpGzX9Kt/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/science/tropical-storm-rachel-tracker-path-forecast",
-    "title": "Tropical Storm Rachel: Track the storm’s path online",
-    "description": "Tropical Storm Rachel is expected to make landfall this weekend. Here's how to track its forecasted path.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-09T09:18:58+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04yo8s7NF1DuCdeccwRXB4O/hero-image.png",
-    "source_name": "MASHABLE.COM"
   }
 ]
