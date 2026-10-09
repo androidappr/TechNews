@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1008833/amazon-kindle-light-leak",
+    "title": "Amazon’s new Kindles appear to have a light leak problem",
+    "description": "Some users are reporting that the new Kindles have a light leak issue that is especially apparent when using dark mode. The latest base-model Kindles have a flush bezel that gives them a sleek appearance and looks great… as long as you keep the lights on. But things can change once you turn down the",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-09T17:25:39+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/P1011582.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/office-suites/microsofts-nifty-new-word-font-is-based-on-michelangelos-handwriting-heres-how-you-can-get-it",
+    "title": "Microsoft's nifty new Office font is based on Michelangelo's handwriting",
+    "description": "'I really don't feel their execution lives up to their intent': new Word font is based on Michelangelo's handwriting, but some think the two are 'wildly' different.",
+    "categories": [
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-09T17:25:16+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/E4j4GieqVoDMbDS2G7bMth-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/ai-platforms-assistants/anthropic-bans-needless-abusive-or-cruel-behavior-towards-claude-and-its-sparked-a-huge-debate-about-anthropomorphizing-ai",
+    "title": "Anthropic bans ‘needless abusive or cruel behavior’ towards Claude",
+    "description": "Anthropic says Claude users must not be \"abusive or cruel\" towards its Claude AI models.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-09T17:22:57+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/xaqDvJRDEgfKFzjiseTdLX-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/tesla-assisted-driving-rename-eu",
+    "title": "Tesla renames Full Self-Driving to Tesla Assisted Driving across Europe",
+    "description": "Tesla has renamed Full Self-Driving to Tesla Assisted Driving across its European websites, days after Germany said the old name was misleading. The page under the new name is unchanged, and the real obstacle to EU approval is speed rather than branding. Tesla has stopped calling its driver-assistance software Full Self-Driving in Europe. The feature",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-09T17:14:18+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/tesla-q2-earnings-high-bar-rivian-r2-valuation.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
     "title": "LumenUs helps automate tedious paperwork in times of grief",
     "description": "\"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about,\" said founder Sara Tashakorinia.",
@@ -47,6 +95,17 @@
     "source_name": "NASA.GOV"
   },
   {
+    "link": "https://mashable.com/tech/sony-playstation-vr-2-patents-meta",
+    "title": "Sony sells hundreds of VR patents to Meta",
+    "description": "A few years after launching (and immediately forgetting about) PlayStation VR 2, Sony offloaded a bunch of patents to Meta.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-09T16:57:30+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01mfaug5sDo5BT7czXDnrWq/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
     "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
     "description": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access",
@@ -81,6 +140,18 @@
     "pub_date": "2026-10-09T16:55:02+00:00",
     "image_url": "http://www.techmeme.com/261009/i19.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://mashable.com/science/hurricane-isaias-beach-webcams-gulf-coast-cams-landfall-live",
+    "title": "Hurricane Isaias: See Gulf Coast webcams live, including Pensacola, Florida",
+    "description": "See webcams along the Gulf Coast area as Hurricane Isaias nears landfall on Friday.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-09T16:53:40+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/006Kqr6lmgUMl3ryt90Fbod/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.theverge.com/policy/1008806/frances-haugen-social-reckoning-facebook-whistleblower",
@@ -261,18 +332,6 @@
     "pub_date": "2026-10-09T16:07:54+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/02oxsobhmnQ70J4TaHbfLsQ/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
-    "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
-    "description": "The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-09T16:07:26+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   },
   {
     "link": "https://9to5mac.com/2026/10/09/apple-welcome-home-event-three-new-products/",
@@ -836,24 +895,11 @@
     "title": "Jev developer TypeSafe AI raised a $870M Series A led by a16z at a $7.5B valuation with Sequoia and others participating, says ~33% of the Fortune 500 use Jev (Bloomberg)",
     "description": "Bloomberg:\nJev developer TypeSafe AI raised a $870M Series A led by a16z at a $7.5B valuation with Sequoia and others participating, says ~33% of the Fortune 500 use Jev  —  TypeSafe AI, the startup behind Jev, a new artificial intelligence model that went viral after it launched only a few weeks ago …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-09T13:25:03+00:00",
     "image_url": "http://www.techmeme.com/261009/i13.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/science/hurricane-isaias-beach-webcams-gulf-coast-cams-landfall-live",
-    "title": "Hurricane Isaias: Watch Gulf Coast webcams live as landfall looms",
-    "description": "See webcams along the Gulf Coast area as Hurricane Isaias nears landfall on Friday.",
-    "categories": [
-      "Breaking News",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-09T13:24:23+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/006Kqr6lmgUMl3ryt90Fbod/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techradar.com/pro/debates-over-ai-sovereignty-could-result-in-a-painful-lesson-for-students",
@@ -872,8 +918,7 @@
     "title": "EU’s cyber agency and research centre are testing Chinese AI models",
     "description": "The EU’s cyber agency, ENISA, and the Commission’s own science service, the Joint Research Centre, have started testing open AI models from China, Politico reported. Three EU officials confirmed the work, the first time either body has spoken about it. These open-weight models are released in full, so anyone can download, run, and study them. Chinese",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-09T13:21:50+00:00",
     "image_url": "https://media.thenextweb.com/2026/08/European-flags-Berlaymont.avif",
@@ -1001,7 +1046,6 @@
     "title": "The Galaxy S27’s rumored prices reveal why your next upgrade could cost more",
     "description": "A new rumor outlines preliminary US pricing targets for the Galaxy S27 series alongside key hardware specs, highlighting a clear tier divide across the roster.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-09T12:33:19+00:00",
@@ -2262,49 +2306,5 @@
     "pub_date": "2026-10-09T04:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/01hW3gQqqKdCPzBFN5qO2xf/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/phones/google-pixel-phones/the-google-pixel-11-might-seem-like-a-boring-upgrade-but-id-still-pick-it-over-the-pixel-11-pro-heres-why",
-    "title": "The Google Pixel 11 might seem like a boring upgrade, but I'd still pick it over the Pixel 11 Pro — here's why",
-    "description": "Google’s entry-level flagship has most of the same core specs and features as the 11 Pro’s base configuration — and also costs $200 / £200 / AU$350 less.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-09T03:34:23+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/FZgZeDzuaXSXMzCRXnv7xN-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/come-see-uncanny-valley-live/",
-    "title": "Livestream Replay: Watch ‘Uncanny Valley’ on Women, Tech, and Power",
-    "description": "Missed our latest WIRED@Night event? Enjoy an evening of podcasting in San Francisco right here.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-09T03:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aa848acc21d50d5e8a9dba9/master/pass/2x1-1.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/wi-fi-broadband/amaysims-aud30-nbn-25-plan-intro-cost-is-so-cheap-i-had-to-do-a-double-take",
-    "title": "Amaysim’s AU$30 NBN 25 plan intro cost is so cheap, I had to do a double take",
-    "description": "It's not uncommon for NBN plan prices to fluctuate, but the latest offers from Amaysim take the crown as being some of the lowest I've seen in a long, long time.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-09T03:25:18+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/PU8H2P9CBAs42YBvKagjtA-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/audio/wireless-bluetooth-speakers/i-was-blown-away-by-jbls-new-cove-wireless-speakers-theyre-finally-available-in-australia-and-with-a-20-percent-discount-via-our-coupon-code",
-    "title": "I was blown away by JBL’s new Cove wireless speakers. They're finally available in Australia — and with a 20% discount via our coupon code",
-    "description": "JBL’s latest speakers promise flexible whole-home audio, Dolby Atmos support and easy integration with existing JBL products",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-09T03:04:48+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/HzXEJUeWGfQF4SnTwKFpra-1920-80.png",
-    "source_name": "TECHRADAR.COM"
   }
 ]
