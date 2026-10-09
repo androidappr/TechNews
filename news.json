@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.theverge.com/entertainment/1008441/playdate-season-3",
+    "title": "The humble Playdate has become one of gaming’s best deals",
+    "description": "The Playdate, Panic's tiny yellow handheld that launched in 2022, has slowly but surely become a great deal - which is a good thing, because everything else in gaming has only gotten more expensive. Despite being a weird device with a black-and-white screen and a crank jutting out the side, the Playdate has managed to",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-09T13:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23396642/vpavic_220415_5149_0038.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261009/p12#a261009p12",
+    "title": "The UK plans to curb non-compete rules that force employees to wait before moving jobs or starting companies, an issue that has drawn complaints from startups (Shona Ghosh/Bloomberg)",
+    "description": "Shona Ghosh / Bloomberg:\nThe UK plans to curb non-compete rules that force employees to wait before moving jobs or starting companies, an issue that has drawn complaints from startups  —  The UK is set to curb hiring restrictions that force employees to wait before moving jobs or starting companies …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-09T12:55:01+00:00",
+    "image_url": "http://www.techmeme.com/261009/i12.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.cnet.com/tech/services-and-software/meta-muse-contact-phone-provider-ai-agent-blocked/",
     "title": "I Asked Meta Muse to Fix an Issue With My Phone Provider. It Got Blocked at Every Turn",
     "description": "This tech to-do has been on my list for too long. Can an agent do it for me?",
@@ -85,6 +108,17 @@
     "source_name": "TECHRADAR.COM"
   },
   {
+    "link": "https://mashable.com/entertainment/andrew-garfield-calling-famous-friends-radio",
+    "title": "Andrew Garfield calling famous friends on the radio is chaotic fun",
+    "description": "Andrew Garfield played \"sit down, stand up\" on BBC Radio One, calling famous friends and guessing if they're sitting down or standing up.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-09T12:22:08+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/videos/01cgdJuFtfNhiiKG256TlC7/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/gemini-flash-lite-free-users-nano-banana-2-1",
     "title": "Google moves free Gemini to Flash-Lite and launches Nano Banana 2.1",
     "description": "From today, Gemini app users without a paid Google AI plan start losing two of its three models. Free personal accounts move to Gemini Flash-Lite only, according to Google’s Gemini Apps Help page. The change comes three days after Google released Nano Banana 2.1, a new image model built on Gemini 3.6 Flash. Subscribers to",
@@ -137,6 +171,7 @@
     "description": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
     "categories": [
       "Breaking News",
+      "Business & Startups",
       "Science & Environment"
     ],
     "pub_date": "2026-10-09T12:00:00+00:00",
@@ -894,7 +929,6 @@
     "title": "From Zuck to Musk: Big Tech’s Scandals and Scammers Are Coming to the Big Screen",
     "description": "Here are the movies to keep an “AI” on through the rest of the year.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-09T09:00:00+00:00",
@@ -2239,40 +2273,5 @@
     "pub_date": "2026-10-08T19:32:44+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/e43qQdPRHPtyizdhunjdN8-1920-80.jpg",
     "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261008/p43#a261008p43",
-    "title": "Anthropic debuts the Critical Infrastructure Defense Program to provide AI models, threat research, and on-site engineers, starting with CrowdStrike and others (Sam Sabin/Axios)",
-    "description": "Sam Sabin / Axios:\nAnthropic debuts the Critical Infrastructure Defense Program to provide AI models, threat research, and on-site engineers, starting with CrowdStrike and others  —  Anthropic is launching a new cybersecurity initiative designed to bring its most powerful AI models and engineers …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T19:30:41+00:00",
-    "image_url": "http://www.techmeme.com/261008/i43.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11",
-    "title": "Microsoft’s new Windows Search is exactly what Windows 11 needs",
-    "description": "Windows Search has been one of the most frustrating parts of Windows 11, and now Microsoft is addressing this with a significant overhaul. A new redesigned Windows Search is now in testing that is much faster, more capable, and a lot more modern. \"This new Windows Search experience is built for speed,\" says Anshul Rawat,",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-08T19:30:21+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/windowssearch.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
-    "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
-    "description": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Social & Media"
-    ],
-    "pub_date": "2026-10-08T19:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ac690e71275a2452d67fafd/master/pass/Model-Behavior-Artist-Behind-Meta-Muse-Logo-Business.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
