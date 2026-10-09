@@ -1,5 +1,88 @@
 [
   {
+    "link": "https://thenextweb.com/news/intel-lga1700-ddr4-memory-europe",
+    "title": "Intel is reportedly launching new CPUs on a five-year-old socket to allow DDR4",
+    "description": "Gigabyte says new Intel processors will arrive on the five-year-old LGA1700 socket in early 2027, and has updated the BIOS across its whole B760 and H610 lineup. The socket takes DDR4, which costs far less than DDR5 in a market where AI has pushed memory prices to records. Gigabyte says new Intel processors will arrive",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-09T17:42:30+00:00",
+    "image_url": "https://media.thenextweb.com/2026/04/Intel.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/10/09/grok-bot-just-got-its-own-email-address-heres-how-to-claim-yours/",
+    "title": "Grok Bot just got its own email address, here’s how to claim yours",
+    "description": "Grok Bot just got a second significant upgrade this week: its own email address. \n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-09T17:42:19+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/grokbot.webp?w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/vittorio-colao-europe-ai-compute-28th-regime-wave-by-vento",
+    "title": "Vittorio Colao: Europe missed the digital wave and must not miss the next",
+    "description": "Europe has less than 2 gigawatts of AI computing capacity and needs more, former Vodafone chief executive Vittorio Colao said. He spoke at a closed-door press Q&A at Wave by Vento in Turin on Friday, the event’s last day. “Europe missed the big digital wave. Fine, 20 years,” Colao said. Europe should not miss the",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-09T17:40:11+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/vittorio-colao-wave-by-vento-turin-press-qa-gesturing.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261009/p20#a261009p20",
+    "title": "Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M (Dominic-Madori Davis/TechCrunch)",
+    "description": "Dominic-Madori Davis / TechCrunch:\nVesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M  —  Vesta, an AI-native software startup that helps lenders originate mortgages, announced on Thursday that it raised a $30 million round led by Conversion Capital.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-09T17:35:02+00:00",
+    "image_url": "http://www.techmeme.com/261009/i20.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/byd-and-leapmotor-power-record-month-for-electric-cars-in-the-uk-but-tariffs-could-soon-put-the-brakes-on-chinese-evs",
+    "title": "UK tariffs could put the brakes on cheap Chinese EVs after record month",
+    "description": "BYD and Leapmotor hit record sales numbers in the UK — but increased tariffs could make Chinese EVs a lot more expensive.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-09T17:34:40+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/s9PscaRnEDVsNzjRWZU8Xi-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/10/09/heres-everything-new-for-apple-mail-in-ios-27/",
+    "title": "Apple Mail added four convenient new features in iOS 27",
+    "description": "iOS 27 brings new features to Apple Wallet, Maps, Notes, Messages, and more—and it packs key upgrades for the Mail app too. Here’s everything new for Apple Mail in iOS 27.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-09T17:32:12+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-mail-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/sam-altman-openai-mission-before-share-price-equity",
+    "title": "Sam Altman says OpenAI will put its mission before its share price",
+    "description": "Sam Altman said OpenAI will put its mission ahead of its share price once it goes public, even if the stock “falls a lot”. The OpenAI chief executive said it in an interview with Vanity Fair, published on 5 October. Vanity Fair global editorial director Mark Guiducci recorded the conversation in San Francisco on 11",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-10-09T17:26:21+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/sam-altman-openai-devday-stage-dark-backdrop-dotted-logo.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1008833/amazon-kindle-light-leak",
     "title": "Amazon’s new Kindles appear to have a light leak problem",
     "description": "Some users are reporting that the new Kindles have a light leak issue that is especially apparent when using dark mode. The latest base-model Kindles have a flush bezel that gives them a sleek appearance and looks great… as long as you keep the lights on. But things can change once you turn down the",
@@ -826,7 +909,6 @@
     "title": "iOS 27.0.1 is now Apple’s recommended update for users still on iOS 26",
     "description": "Apple launched iOS 27 on September 14, but the new OS version was initially minimized in Settings while iOS 26.7 was spotlighted as the recommended update. But now following the release of iOS 27.0.1, that has officially changed.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-09T13:41:06+00:00",
@@ -860,7 +942,6 @@
     "title": "A week with Googlebooks: four notes from our testing so far",
     "description": "Google's new operating system is off to a rocky start. The five newly launched Googlebook laptops have hardware that ranges from great to excellent, but the software in its current state is the weak point. There are four of us on staff at The Verge actively testing Googlebooks and, frankly, our internal Slack discussions have",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-09T13:36:02+00:00",
@@ -2229,82 +2310,5 @@
     "pub_date": "2026-10-09T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/herman-miller-promo-code/",
-    "title": "Herman Miller Promo Codes: 40% Off October 2026",
-    "description": "Whether you’re looking for a Herman Miller promo code or discounts in their sale, here is how to save on the world's best ergonomic office furniture in October 2026.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-09T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/vistaprint-coupon-code/",
-    "title": "30% VistaPrint Coupon & Promo Codes | October 2026",
-    "description": "From personalized gifts to business essentials, WIRED can help you save with our selection of VistaPrint promo codes.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-09T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/ice-agent-at-nyc-shooting-has-history-of-alleged-violence-and-illegal-arrests/",
-    "title": "ICE Agent at NYC Shooting Has History of Alleged Violence and Illegal Arrests",
-    "description": "Brenden Cuni, an ICE supervisor, has been accused of excessive force and tackling a pregnant woman to the ground. Several of his arrests were later found to be unlawful in federal court.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-09T04:46:11+00:00",
-    "image_url": "https://media.wired.com/photos/6ac86cf153985a35c7b2ab41/master/pass/2298652701",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261009/p1#a261009p1",
-    "title": "Anthropic is setting up a \"presidential engagement\" program for the 2028 US elections that will offer AI policy education to candidates in both parties (Emily Forlini/Fortune)",
-    "description": "Emily Forlini / Fortune:\nAnthropic is setting up a “presidential engagement” program for the 2028 US elections that will offer AI policy education to candidates in both parties  —  Anthropic is setting up a “presidential engagement” program ahead of the 2028 elections, building an in-house team …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-09T04:05:01+00:00",
-    "image_url": "http://www.techmeme.com/261009/i1.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/",
-    "title": "APOD: 2026 October 9 – Stickney Crater",
-    "description": "APOD Science APOD APOD: 2026 October 9… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Stickney Crater Explanation: Stickney",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-09T04:05:00+00:00",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/PSP_007769_9010_IRB_Stickney.jpg?w=1836&h=1362&fit=clip&crop=faces%2Cfocalpoint",
-    "source_name": "SCIENCE.NASA.GOV"
-  },
-  {
-    "link": "https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/",
-    "title": "Floodwaters Overwhelm Thailand",
-    "description": "Heavy rains since mid-September have caused widespread flooding that has affected millions of people across the country.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-09T04:01:00+00:00",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/floodwaters-overwhelm-thailand/thailandflooding_oli_20251007.jpg",
-    "source_name": "SCIENCE.NASA.GOV"
-  },
-  {
-    "link": "https://mashable.com/science/moon-phase-today-oct-9-2026",
-    "title": "Moon phase today: What the Moon will look like on October 9, 2026",
-    "description": "See the Moon phase expected for October 9, 2026 as well as when the next Full Moon is expected.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-09T04:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01hW3gQqqKdCPzBFN5qO2xf/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
