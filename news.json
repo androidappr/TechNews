@@ -1,8 +1,31 @@
 [
   {
+    "link": "https://www.wired.com/story/america-hybrid-hype-has-hit-the-used-market/",
+    "title": "America’s Hybrid Hype Has Hit the Used Market",
+    "description": "Demand is so high that some used cars are selling for more than new ones.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-09T09:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ac761317178fc1562f277f4/master/pass/2026_Toyota-RAV4-HEV-Limited_0001H.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.cnet.com/culture/entertainment/hollywood-movies-ai-tech-zuckerberg-musk/",
+    "title": "From Zuck to Musk: Big Tech’s Scandals and Scammers Are Coming to the Big Screen",
+    "description": "Here are the movies to keep an “AI” on through the rest of the year.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-09T09:00:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/social-reckoning-jeremy-strong.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261009/p5#a261009p5",
-    "title": "OpenAI defends its decision to fire three safety researchers, saying an investigation found they \"violated clear policies on handling sensitive information\" (Michael Considine/CNBC)",
-    "description": "Michael Considine / CNBC:\nOpenAI defends its decision to fire three safety researchers, saying an investigation found they “violated clear policies on handling sensitive information”  —  OpenAI on Friday defended its decision to fire three safety researchers, saying they had committed a “significant breach of trust.”",
+    "title": "OpenAI says it didn't fire three researchers for \"raising safety concerns or speaking out\", but due to violating \"clear policies on handling sensitive\" info (Michael Considine/CNBC)",
+    "description": "Michael Considine / CNBC:\nOpenAI says it didn't fire three researchers for “raising safety concerns or speaking out”, but due to violating “clear policies on handling sensitive” info  —  OpenAI on Friday defended its decision to fire three safety researchers, saying they had committed a “significant breach of trust.”",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -177,7 +200,6 @@
     "title": "Sources: SoftBank is seeking to raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech (Financial Times)",
     "description": "Financial Times:\nSources: SoftBank is seeking to raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech  —  Founder and chief executive Masayoshi Son has held talks with senior figures in the UAE in recent weeks",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-09T05:05:01+00:00",
@@ -2223,27 +2245,5 @@
     "pub_date": "2026-10-08T16:45:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268798_Are_you_ready_for_TikTok_2.0_and_3.0_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/microsoft-surface-laptop-ultra-magnetic-usb-c-port",
-    "title": "Microsoft created a magnetic USB-C port, and you need to see it for yourself",
-    "description": "Microsoft just debuted its own take on MagSafe, which also functions as a regular USB-C port.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T16:44:43+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/0397fDcuqdXxB6V0uCapIow/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/how-to-watch/how-to-watch-law-and-order-season-26",
-    "title": "How to watch Law & Order season 26 from anywhere in the world – stream online for free",
-    "description": "Detective Vincent Riley is soon to depart, but new faces are joining the cast to keep things fresh. Here's how to watch Law & Order season 26 from anywhere.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-08T16:36:14+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/MpxBoqJ2tyMCVoynyQhPWY-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
