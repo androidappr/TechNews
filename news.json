@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.techmeme.com/261009/p33#a261009p33",
+    "title": "Sources: Dario Amodei spoke with Meta's Alexandr Wang earlier this year, hoping to source more compute; Meta declined the request (Wall Street Journal)",
+    "description": "Wall Street Journal:\nSources: Dario Amodei spoke with Meta's Alexandr Wang earlier this year, hoping to source more compute; Meta declined the request  —  Bitter rivals are forming alliances and executives are having to personally intervene over the scramble for resources to fuel the AI boom",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-10T01:45:01+00:00",
+    "image_url": "http://www.techmeme.com/261009/i33.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261009/p32#a261009p32",
     "title": "In PA, FBI agents arrested a co-founder of a Canadian cybersecurity firm specializing in ransomware negotiations, as part of the ShinyHunters investigation (Brian Krebs/Krebs on Security)",
     "description": "Brian Krebs / Krebs on Security:\nIn PA, FBI agents arrested a co-founder of a Canadian cybersecurity firm specializing in ransomware negotiations, as part of the ShinyHunters investigation  —  Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection …",
@@ -290,7 +302,6 @@
     "title": "This $30 tool lets you compare 50+ AI models without paying for each one",
     "description": "Harness the power of over 50 AI models with this lifetime subscription to the AskAnyModel AI Pro Plan.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-09T22:00:00+00:00",
@@ -302,7 +313,6 @@
     "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
     "description": "Stylish upcycling, with a retro flare, at Spain's Museo de Historia de la Computación.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-09T21:51:12+00:00",
@@ -314,7 +324,6 @@
     "title": "Decade-old RAM is making a comeback",
     "description": "CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs. Their solution? A return to last-gen DDR4 RAM. Intel and AMD are making new CPUs that'll support the older, more affordable type of memory. On Friday, Gigabyte announced that two of",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-10-09T21:50:00+00:00",
@@ -394,8 +403,7 @@
     "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
     "description": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-09T21:15:38+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100",
@@ -505,7 +513,6 @@
     "title": "Philadelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18 (6abc)",
     "description": "6abc:\nPhiladelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18  —  Watch the 6abc Philadelphia 24/7 stream featuring Action News, AccuWeather and Entertainment  —  ShareFollow 6abc on Google",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-09T20:00:49+00:00",
@@ -517,8 +524,7 @@
     "title": "An Anthropic model submitted a false homicide tip to Philadelphia police",
     "description": "Thankfully, it does not seem to have diverted police resources.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-09T20:00:30+00:00",
     "image_url": "https://www.engadget.com/img/gallery/an-anthropic-model-submitted-a-false-homicide-tip-to-philadelphia-police/l-intro-1791575932.jpg",
@@ -2253,17 +2259,5 @@
     "pub_date": "2026-10-09T12:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/what-to-expect-at-apples-welcome-home-event-next-week/l-intro-1791500260.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
-    "title": "Xona’s commercial GPS alternative is about to go live",
-    "description": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
-    "categories": [
-      "Business & Startups",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-09T12:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
