@@ -1,5 +1,27 @@
 [
   {
+    "link": "https://www.techradar.com/pro/hp-elitebook-x-g2i-14-inch-business-laptop-review",
+    "title": "HP EliteBook X G2i laptop review",
+    "description": "HP EliteBook X G2i 14-inch is a business class laptop with powerful CPU that will suit professionals needing a little more than your average laptop.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-10T18:40:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/yurUmfqh5oBq7NvUmCw76d-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2280016/how-to-check-warranty-samsung-galaxy/",
+    "title": "How to quickly check your Samsung Galaxy's warranty info",
+    "description": "You don't have to guess how long is left on your Samsung device's warranty; the company makes it easy to confirm.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-10T18:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-to-quickly-check-your-samsung-galaxys-warranty-info/l-intro-1791385758.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://mashable.com/tech/walmart-says-it-wont-personalize-prices-despite-patents",
     "title": "Walmart says it wont personalize prices despite personalized pricing patents",
     "description": "A new report alleges that Walmart is developing technology to personalize prices.",
@@ -314,8 +336,7 @@
     "title": "Anthropic is cutting off its internal evaluations from the internet",
     "description": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-10T14:41:16+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100",
@@ -2214,27 +2235,5 @@
     "pub_date": "2026-10-09T19:02:07+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/homepad-white-hello-homepod.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/pre-orders-open-for-nvidias-rtx-spark-workstations-and-these-are-the-3-local-ai-laptops-id-buy-for-business",
-    "title": "Nvidia RTX Spark laptops start at $2,599 — pre-orders are live now",
-    "description": "Pre-orders are now live for Nvidia RTX Spark laptops, but these are the three Blackwell-powered machines I'd buy if you're a small business running local AI.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-09T19:00:45+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/audio/earbuds-airpods/anker-soundcore-aeroclip-2-review",
-    "title": "Anker Soundcore AeroClip 2 review: a solid pair of ultra-compact, featherweight clip-on earbuds",
-    "description": "Anker’s new clip-on earbuds effortlessly blend a stylish aesthetic with hi-tech features — and they don’t sound half bad, either.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-09T19:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/gRV6DLUN9SJZXiRpK2Y7Bn-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
