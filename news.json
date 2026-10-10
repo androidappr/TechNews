@@ -1,5 +1,19 @@
 [
   {
+    "link": "https://thenextweb.com/news/salesforce-aiforce-siforce-trump-super-intelligence",
+    "title": "Salesforce renames AIForce to SIForce as Trump’s AI rebrand spreads",
+    "description": "Salesforce is renaming its AIForce agent platform to SIForce, chief executive Marc Benioff said on Friday, as Katherine Li reported for Business Insider. “The era of Super Intelligence is here. AIForce is officially SIForce,” Benioff wrote on X. The change covers the agent platform only, not the company’s name. Following the president’s lead Benioff is the",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-10T09:48:50+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/marc-benioff-dreamforce-2025-stage-audience.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/ramp-60bn-valuation-1-85bn-round",
     "title": "Ramp hits $60bn valuation in $1.85bn round, Bloomberg reports",
     "description": "Fintech start-up Ramp has raised about $1.85bn at a valuation of roughly $60bn, Rebecca Torrence reported for Bloomberg, citing people familiar with the matter. Dragoneer Investment Group and Thrive Capital led the round, and Founders Fund also wrote a large cheque, the people said. The $60bn figure is before the new money is counted. $16bn",
@@ -21,6 +35,18 @@
     "pub_date": "2026-10-10T09:30:00+00:00",
     "image_url": "https://media.wired.com/photos/6ac6c81bf72dd8f6dfa1d410/master/pass/noirlab2624a.jpg",
     "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://mashable.com/science/james-webb-space-telescope-most-distant-fast-radio-burst-confirmed",
+    "title": "A starquake 10 billion years ago may have just sent a flash to Earth",
+    "description": "NASA's James Webb Space Telescope traces the farthest fast radio burst yet, and its galaxy reveals a clue to what causes them.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-10T09:30:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/07l5qdhnxtTvRN8Q6yE91Y4/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://thenextweb.com/news/quinn-emanuel-ai-data-centre-debt-memo",
@@ -483,17 +509,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.wired.com/story/disney-plus-discounts/",
-    "title": "Disney Plus Discount Codes: 52% Off October 2026",
-    "description": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-10T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/home-depot-promo-code/",
     "title": "Home Depot Promo Codes: 30% Off in October 2026",
     "description": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
@@ -502,6 +517,17 @@
     ],
     "pub_date": "2026-10-10T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/disney-plus-discounts/",
+    "title": "Disney Plus Discount Codes: 52% Off October 2026",
+    "description": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-10T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -2225,28 +2251,5 @@
     "pub_date": "2026-10-09T15:56:15+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-    "title": "a16z’s Olivia Moore on the state of consumer AI",
-    "description": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-09T15:43:33+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/services-and-software/ai-causing-profound-disruption-math-research/",
-    "title": "AI’s Problem Solving Is a ‘Profound Disruption’ for the Math Community",
-    "description": "“Mathematics is not a game of chess,” one Fields Medal winner told CNET. Mathematicians worry AI companies are just trying to win.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-09T15:37:41+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/5c412b21-480e-4517-aa62-a5f425e268c1.png",
-    "source_name": "CNET.COM"
   }
 ]
