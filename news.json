@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.engadget.com/2278574/router-qos-meaning-should-you-use/",
+    "title": "What is QoS on your router, and should you turn it on?",
+    "description": "QoS is another acronym buried in your router's settings that you might have just ignored, but it may be worth turning on in some scenarios.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-10T12:45:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/what-is-qos-on-your-router-and-should-you-turn-it-on/l-intro-1791291355.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/jean-christophe-laloux-eib-scale-in-europe-sovereignty-wave-by-vento",
+    "title": "EIF’s incoming chief says Europe’s Tech Champions funds hold 15 unicorns",
+    "description": "Europe must give its startups the capital to grow without leaving the continent, Jean-Christophe Laloux said. The incoming chief executive of the European Investment Fund spoke at Wave by Vento in Turin on Friday. “It’s not enough to innovate in Europe. You also must be able to scale in Europe. And that is really important",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-10T12:42:18+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/jean-christophe-laloux-eib-wave-by-vento-turin-speaking-gesturing.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261010/p11#a261010p11",
     "title": "Dozens of staff at HarperCollins, Simon & Schuster, Hachette: without author consent, publishers are quietly using AI to make back-cover copy, cover art, more (Adam Morgan/Wired)",
     "description": "Adam Morgan / Wired:\nDozens of staff at HarperCollins, Simon & Schuster, Hachette: without author consent, publishers are quietly using AI to make back-cover copy, cover art, more  —  Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy …",
@@ -388,7 +411,6 @@
     "title": "Amazon’s all-new Kids Tablets ditch Fire OS for parent-managed Google Play — where to preorder",
     "description": "Amazon officially unveiled its all-new Android Kids Tablets in 8.7-inch and 11-inch sizes, featuring parent-managed Google Play access, AI Storybuilder, and kid-proof cases.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-10T09:00:00+00:00",
@@ -400,7 +422,6 @@
     "title": "Artemis II crew witnessed meteor flashes on the moon with their own eyes",
     "description": "NASA's Artemis II astronauts spotted meteor impact flashes on the moon's dark side, likely the faintest ever seen by human eyes.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-10-10T09:00:00+00:00",
@@ -457,7 +478,6 @@
     "title": "The latest Samsung Galaxy S27 Ultra rumors and leaks: Everything we know so far",
     "description": "Samsung's new flagship smartphone, the Samsung Galaxy S27 Ultra, is likely coming in February, and it's already leaking.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-10T09:00:00+00:00",
@@ -469,7 +489,6 @@
     "title": "Super Micro case ‘fixer’ pleads guilty to sending AI servers to China",
     "description": "A former contractor charged alongside Super Micro Computer’s co-founder has pleaded guilty to helping smuggle AI servers to China, Bob Van Voris reported for Bloomberg. Ting-Wei ‘Willy’ Sun entered his plea in a Manhattan federal court on Thursday, as part of a deal with prosecutors. US authorities have described him as a ‘fixer’. A $2.5bn",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy",
       "Gadgets & Hardware",
       "Government & Policy"
@@ -768,17 +787,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.wired.com/story/home-depot-promo-code/",
-    "title": "Home Depot Promo Codes: 30% Off in October 2026",
-    "description": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-10T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/disney-plus-discounts/",
     "title": "Disney Plus Discount Codes: 52% Off October 2026",
     "description": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
@@ -787,6 +795,17 @@
     ],
     "pub_date": "2026-10-10T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/home-depot-promo-code/",
+    "title": "Home Depot Promo Codes: 30% Off in October 2026",
+    "description": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-10T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
     "source_name": "WIRED.COM"
   },
   {
@@ -2227,27 +2246,5 @@
     "pub_date": "2026-10-09T16:59:24+00:00",
     "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0185943.jpg?w=2048",
     "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://mashable.com/tech/sony-playstation-vr-2-patents-meta",
-    "title": "Sony sells hundreds of VR patents to Meta",
-    "description": "A few years after launching (and immediately forgetting about) PlayStation VR 2, Sony offloaded a bunch of patents to Meta.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-09T16:57:30+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01mfaug5sDo5BT7czXDnrWq/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-    "description": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-09T16:56:42+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
