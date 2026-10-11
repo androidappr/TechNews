@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
+    "title": "NASA dumped over 800GB of Artemis II data online",
+    "description": "If you thought you'd seen all there is to see from the Artemis II mission, you're wrong. This week NASA posted over 800GB worth of science data, images, and videos on the Artemis II: Sights & Sounds of Science site. The archive includes over 11,000 photos and videos, over 8.5 hours of audio, and crew-annotated",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-11T15:34:40+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/art002e016252_impactflash_annotation_croppedlarge.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
     "title": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
     "description": "George A. Romero is obviously best known as the father of the modern zombie movie. But between inventing the genre with Night of the Living Dead and his outbreak horror, The Crazies, Romero made two much lesser-known films: There's Always Vanilla, which I'll admit I've never seen, and Season of the Witch, or, as it",
@@ -654,14 +666,14 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.techradar.com/home/smart-lights/a-wakeup-light-is-my-secret-weapon-against-dark-and-depressing-mornings-here-are-9-worth-picking-up-as-we-head-into-autumn",
-    "title": "A wakeup light is my secret weapon against dark and depressing mornings — here are 9 worth picking up as we head into autumn",
-    "description": "Sunrise alarm clocks will rouse you gently from you slumber, so you're alert and ready to face the day.",
+    "link": "https://www.techradar.com/pro/brits-still-arent-comfortable-handing-over-too-much-control-to-ai",
+    "title": "Brits still aren't comfortable handing over too much control to AI",
+    "description": "Brits fear the potential for AI to take over tasks completely, and have concerns about AI agents ignoring laws and morals.",
     "categories": [
       "Tech News"
     ],
     "pub_date": "2026-10-11T06:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/uUK2HCuWTAkVZ7HMLB3xxY-1920-80.jpg",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/4vzQRue5XzmxtzR8UYSdG8-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -676,14 +688,14 @@
     "source_name": "MASHABLE.COM"
   },
   {
-    "link": "https://www.techradar.com/pro/brits-still-arent-comfortable-handing-over-too-much-control-to-ai",
-    "title": "Brits still aren't comfortable handing over too much control to AI",
-    "description": "Brits fear the potential for AI to take over tasks completely, and have concerns about AI agents ignoring laws and morals.",
+    "link": "https://www.techradar.com/home/smart-lights/a-wakeup-light-is-my-secret-weapon-against-dark-and-depressing-mornings-here-are-9-worth-picking-up-as-we-head-into-autumn",
+    "title": "A wakeup light is my secret weapon against dark and depressing mornings — here are 9 worth picking up as we head into autumn",
+    "description": "Sunrise alarm clocks will rouse you gently from you slumber, so you're alert and ready to face the day.",
     "categories": [
       "Tech News"
     ],
     "pub_date": "2026-10-11T06:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/4vzQRue5XzmxtzR8UYSdG8-1920-80.jpg",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/uUK2HCuWTAkVZ7HMLB3xxY-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2221,16 +2233,5 @@
     "pub_date": "2026-10-10T08:30:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/YNqwS5FMPwKsxj8b9VGRQU-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/anthropic-claude-fake-police-tip-unintended-actions",
-    "title": "Anthropic says Claude sent a fake murder tip to police during testing",
-    "description": "An Anthropic SI model submitted a false tip about a murder case to a US police department while it was being tested, the company said in a new report. The Claude Haiku 4.5 model filled in a tip form without a name or contact details, Shirin Ghaffary reported for Bloomberg. The Philadelphia Police Department disclosed the",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-10T08:26:58+00:00",
-    "image_url": "https://media.thenextweb.com/2026/07/anthropic-dario-amodei-open-weights-position-not-ban.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
