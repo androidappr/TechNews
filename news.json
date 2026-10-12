@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://thenextweb.com/news/microsoft-maia-300-ai-chip-2027",
+    "title": "Microsoft says Maia 300 chip will run its AI services from 2027",
+    "description": "Microsoft will make its own Maia chips the primary system for running AI in its products starting in 2027. The company set out the plan on Monday as it unveiled the Maia 300, the third generation of its custom AI chip. Microsoft plans deployments measured in gigawatts starting next year, which could mean more than",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-12T14:39:55+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/microsoft-azure-maia-300-chip-blue-light.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261012/p27#a261012p27",
+    "title": "Cyberattacks on Sunday night targeted Danfoss-managed refrigeration systems across hundreds of French supermarkets, heating them to 50°C for roughly six hours (Jenny Che/Bloomberg)",
+    "description": "Jenny Che / Bloomberg:\nCyberattacks on Sunday night targeted Danfoss-managed refrigeration systems across hundreds of French supermarkets, heating them to 50°C for roughly six hours  —  Hundreds of supermarkets in France were targeted by cyberattacks on Sunday night, disabling refrigeration systems and forcing stores to throw out damaged food.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-12T14:35:00+00:00",
+    "image_url": "http://www.techmeme.com/261012/i27.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/the-new-microsoft-copilot-app-is-getting-the-full-office-experience-heres-what-you-can-look-forward-to-from-word-excel-and-more",
     "title": "The new Microsoft Copilot app is getting the full Office experience — here's what you can look forward to from Word, Excel and more",
     "description": "Microsoft wants you to work from its Copilot app so badly that Word, Excel and PowerPoint documents are now fully supported within it.",
@@ -50,6 +74,7 @@
     "title": "Hackers defrost fridges at hundreds of French supermarkets, Bloomberg says",
     "description": "Hackers broke into the refrigeration systems of hundreds of French supermarkets on Sunday night. Stores had to throw out meat, frozen goods and vegetables. About 150 Intermarché stores were hit, a spokesman for owner Groupement Mousquetaires told Bloomberg. The attackers set the cooling systems to defrost. Fridges and freezers heated to 50°C for around six hours,",
     "categories": [
+      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-10-12T14:20:37+00:00",
@@ -2259,27 +2284,5 @@
     "pub_date": "2026-10-11T16:03:40+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/027yVqU2ee4gs0CbO3pEjxW/hero-image.png",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
-    "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
-    "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-11T16:02:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/unleashing-the-power-of-the-team-is-our-mission-atlassian-ai-heads-tell-us-why-context-and-collaboration-will-be-the-key-to-unlocking-business-success",
-    "title": "“Unleashing the power of the team is our mission”: Atlassian AI heads tell us why context and collaboration will be the key to unlocking business success",
-    "description": "Atlassian AI chiefs lay out their view of the future of collaboration across teams, powered (of course) by AI.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-11T16:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/pvkgvETjmqkheCK3xtsQx9-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
