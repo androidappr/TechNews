@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.engadget.com/2281587/how-to-create-raid-array-your-old-hard-drives/",
+    "title": "How to turn your old hard drives into a RAID array",
+    "description": "Your old hard drives still have some live left in them.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-12T23:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-to-turn-your-old-hard-drives-into-a-raid-array/l-intro-1791486769.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/kioxia-beats-its-own-world-record-with-the-fastest-ssd-ever-produced-new-pcie-6-0-gp1-tops-20m-iops-and-is-part-of-kioxias-plan-to-challenge-dram-in-ai-markets",
+    "title": "Kioxia beats its own world record with the fastest SSD ever produced — new PCIe 6.0 GP1 tops 20M IOPS and is part of Kioxia's plan to challenge DRAM in AI markets",
+    "description": "Kioxia wants to take on DRAM with flash storage, and its newest SSD brings random-read speeds above 20 million IOPS.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-12T22:50:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/6iyyeuyrC4mt7HA73hyCyC-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.engadget.com/2281539/how-to-use-google-gemini-automate-tasks/",
     "title": "How to use Google Gemini to automate tasks",
     "description": "Spark is Google's AI tool that can perform tasks on your behalf.",
@@ -817,7 +841,6 @@
     "description": "Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Social & Media"
     ],
@@ -830,7 +853,6 @@
     "title": "Meta introduces Muse Wonder and Muse Wonder Full, saying they deliver state-of-the-art performance on personal and professional agentic tasks (Meta AI Research)",
     "description": "Meta AI Research:\nMeta introduces Muse Wonder and Muse Wonder Full, saying they deliver state-of-the-art performance on personal and professional agentic tasks  —  Fourteen months ago, we began a ground-up overhaul of our artificial intelligence efforts.  In that time, we've gone from rebuilding our stack from first principles to pushing the frontier.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-12T17:00:13+00:00",
@@ -843,7 +865,6 @@
     "description": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-10-12T17:00:00+00:00",
@@ -1830,6 +1851,17 @@
     "source_name": "THEVERGE.COM"
   },
   {
+    "link": "https://www.wired.com/story/googles-fitbit-edge-debuts-a-replaceable-battery-and-brings-back-the-screen/",
+    "title": "Google Fitbit Edge: Specs, Features, Price, Release Date",
+    "description": "The new $179 tracker features Pixel Watch smarts, week-long battery life, and an OLED screen.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-12T13:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ac96ecca558b57e86829f7c/master/pass/New%20Google%20Fitbit%20Edge%20102026%20top%20art%20SOURCE%20Google.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.cnet.com/tech/mobile/fitbit-edge-google-first-look/",
     "title": "Fitbit Edge May Be the Sweet Spot for Smartwatch Noncommittals",
     "description": "Google’s new $179 tracker sits between the screenless Fitbit Air and Pixel Watch 5, promising some of the best parts of both without fully committing to either.",
@@ -1850,17 +1882,6 @@
     "pub_date": "2026-10-12T13:00:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Fitbit-Air_Metal-Mesh-Gold_Dinner-Lifestyle.jpg",
     "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/googles-fitbit-edge-debuts-a-replaceable-battery-and-brings-back-the-screen/",
-    "title": "Google Fitbit Edge: Specs, Features, Price, Release Date",
-    "description": "The new $179 tracker features Pixel Watch smarts, week-long battery life, and an OLED screen.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-12T13:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ac96ecca558b57e86829f7c/master/pass/New%20Google%20Fitbit%20Edge%20102026%20top%20art%20SOURCE%20Google.jpg",
-    "source_name": "WIRED.COM"
   },
   {
     "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
@@ -2253,28 +2274,5 @@
     "pub_date": "2026-10-12T11:09:26+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/ai-platforms-assistants/chatgpt/i-tried-chatgpts-new-virtual-fitting-room-it-got-the-clothes-right-but-changing-my-body-defeats-the-point",
-    "title": "I tried ChatGPT’s new virtual fitting room — it got the clothes right, but changed my body",
-    "description": "I put ChatGPT’s virtual try-on to the test with jackets, dresses and even a 1920s ballgown. The clothes looked realistic, but there's a catch.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-10-12T11:03:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/dev4MXq3t8qH8odkQYBMAn-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/",
-    "title": "Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon’s Producer",
-    "description": "Investigators also sought permission to use an invasive surveillance tool called a cell-site simulators against journalist Georgia Fort and a Minnesota state Senate candidate.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-12T11:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ac94a7a4676236d922d7944/master/pass/Security_Feds%20Got%20Warrants%20to%20Use%20Fake%20Cell%20Towers%20to%20Hunt%20Down%20Don%20Lemon%E2%80%99s%20Producer_v1.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
