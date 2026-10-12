@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "description": "Meta's Superintelligence Lab released a pair of new state-of-the-art models on Monday, Muse Wonder and Muse Wonder Full, the company's first attempt at a frontier model.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-12T17:56:56+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/meta-muse-wonder-frontier-eu",
+    "title": "Meta says its new Muse model has reached the AI frontier",
+    "description": "Meta has released Muse Wonder, known internally as Watermelon, and says it matches ChatGPT and Claude on coding and professional work. It has not said whether the weights will be published, which decides what it owes under the EU AI Act. Meta has released Muse Wonder, the most capable model to come out of the",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-12T17:51:57+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/threads-meta-ai-dm-global-rollout.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261012/p36#a261012p36",
+    "title": "Muse Wonder Full (max) outperforms Fable 5.1 (max) on Artificial Analysis' Intelligence Index, matches Sonnet 5.5 (max), and is just shy of Opus 5.5 (max) (@artificialanlys)",
+    "description": "@artificialanlys:\nMuse Wonder Full (max) outperforms Fable 5.1 (max) on Artificial Analysis' Intelligence Index, matches Sonnet 5.5 (max), and is just shy of Opus 5.5 (max)  —  Meta has released Muse Wonder and Muse Wonder Full, achieving Artificial Analysis Intelligence Index v4.3 scores of 52 and 56 at max reasoning effort - each a material gain over Muse Spark 1.3 (max) at 48, with a release gap of only 6 weeks Muse Wonder is available for users on Meta's first-party ...",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-12T17:50:01+00:00",
+    "image_url": "http://www.techmeme.com/img/pml.png",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/the-sihoo-b100-is-still-my-favorite-cheap-office-chair-an-affordable-mesh-ergonomic-seat-that-beats-most-cheap-chairs-we-test-with-its-adaptive-lumbar-support",
     "title": "The Sihoo B100 is still my favorite cheap office chair — an affordable mesh ergonomic seat that beats most cheap chairs we test with its adaptive lumbar support",
     "description": "Our office furniture editor recommends this Sihoo B100 ergonomic office chair over other cheap models thanks to the adaptive lumbar support for all-day comfort.",
@@ -498,8 +534,7 @@
     "description": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups"
+      "Breaking News"
     ],
     "pub_date": "2026-10-12T15:27:59+00:00",
     "image_url": null,
@@ -890,7 +925,6 @@
     "description": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-12T14:00:00+00:00",
@@ -902,7 +936,6 @@
     "title": "Android is the best and worst thing about Googlebooks",
     "description": "My first week with the new Android-powered laptops has been about as rocky as anyone's, but I've slowly learned to like them, even if love still feels a ways off. Every moment that's impressed me has been thanks to Android, whether I've been accessing a native version of a useful app or quickly checking my",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-12T14:00:00+00:00",
@@ -926,7 +959,6 @@
     "title": "They War-Gamed Dimming the Sun. It Went Even Worse Than You Think",
     "description": "Solar geoengineering could buy humanity time against climate change—or trigger a dangerous new arms race. A first-of-its-kind simulation offered a glimpse of what happens when geopolitics takes the wheel.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-10-12T14:00:00+00:00",
@@ -973,7 +1005,6 @@
     "title": "Analysis: constructing and equipping a 1GW AI data center in Abilene, Texas, could cost ~$30B, including $17B on chips, $3B on power, and $2.4B on construction (Lynn Doan/Bloomberg)",
     "description": "Lynn Doan / Bloomberg:\nAnalysis: constructing and equipping a 1GW AI data center in Abilene, Texas, could cost ~$30B, including $17B on chips, $3B on power, and $2.4B on construction  —  Roughly $750 billion.  That's how much Meta Platforms Inc., Amazon.com Inc., Microsoft Corp. and Google owner Alphabet Inc …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-12T13:55:13+00:00",
@@ -2268,38 +2299,5 @@
     "pub_date": "2026-10-12T05:40:00+00:00",
     "image_url": "http://www.techmeme.com/261012/i4.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261012/p3#a261012p3",
-    "title": "An interview with ex-DeepMind scientist David Silver on his startup Ineffable, building an AI \"super learner\" using RL as an alternative path to LLMs, and more (Madhumita Murgia/Financial Times)",
-    "description": "Madhumita Murgia / Financial Times:\nAn interview with ex-DeepMind scientist David Silver on his startup Ineffable, building an AI “super learner” using RL as an alternative path to LLMs, and more  —  The architect of Google DeepMind's AlphaGo on building machines that can teach themselves — and why he feels a moral obligation to advance the technology",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-12T05:25:00+00:00",
-    "image_url": "http://www.techmeme.com/261012/i3.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261012/p2#a261012p2",
-    "title": "Sources: TSMC execs in charge of overseas operations met Texas officials and started more serious discussions in H1 2026, after talking on and off for 10+ years (Tim Culpan/Culpium)",
-    "description": "Tim Culpan / Culpium:\nSources: TSMC execs in charge of overseas operations met Texas officials and started more serious discussions in H1 2026, after talking on and off for 10+ years  —  “He said his biggest concern was that nobody would supply him with chips. ”  I told him: 'Don't worry.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-12T04:25:00+00:00",
-    "image_url": "http://www.techmeme.com/261012/i2.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/",
-    "title": "APOD: 2026 October 12 – Jupiter and the Moons",
-    "description": "APOD Science APOD APOD: 2026 October 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Jupiter and the",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-12T04:05:00+00:00",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/JupiterMoons_Upreti_3105.jpg?w=0&h=0&fit=clip&crop=faces%2Cfocalpoint",
-    "source_name": "SCIENCE.NASA.GOV"
   }
 ]
