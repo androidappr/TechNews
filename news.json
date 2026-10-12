@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.engadget.com/2281539/how-to-use-google-gemini-automate-tasks/",
+    "title": "How to use Google Gemini to automate tasks",
+    "description": "Spark is Google's AI tool that can perform tasks on your behalf.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-12T22:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-to-use-google-gemini-to-automate-tasks/l-intro-1791484788.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/10/12/apple-gets-a-360-price-target-from-jp-morgan-despite-iphone-demand-concerns/",
+    "title": "Apple gets a $360 price target from JP Morgan despite iPhone demand concerns",
+    "description": "Just days after Apple’s stock took a hit over reports of iPhone 18 Pro production cuts, JP Morgan has raised its AAPL price target by $20. Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-12T22:23:50+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-stock-up.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261012/p41#a261012p41",
     "title": "Sources: JPMorgan and Goldman, leading a $5B loan sale with a yield of ~11% for AI startup Volta, took a rare move to limit exposure by underwriting just $1.3B (Claire Ruckin/Bloomberg)",
     "description": "Claire Ruckin / Bloomberg:\nSources: JPMorgan and Goldman, leading a $5B loan sale with a yield of ~11% for AI startup Volta, took a rare move to limit exposure by underwriting just $1.3B  —  JPMorgan Chase & Co. and Goldman Sachs Group Inc. have taken a rare move to limit their exposure on a $5 billion loan sale …",
@@ -497,7 +520,6 @@
     "description": "AMD has published Helion, an open rack blueprint for running AI agents rather than training models, with a CPU-only version holding up to 32,768 cores. Partner systems are due in November, and the pitch is how many agents fit in each watt. AMD has published a rack blueprint for running AI agents rather than training",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-12T18:29:03+00:00",
@@ -932,8 +954,7 @@
     "title": "UK says it will again test OpenAI and Anthropic models before release",
     "description": "Britain’s AI Security Institute will keep testing the most powerful AI models before they are released, the UK government said on Monday. AI minister Kanishka Narayan said the UK had worked closely with the US to keep that access, Bloomberg reported. It reverses a US move that put White House checks first. “I want Britain to",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-12T16:19:23+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/kanishka-narayan-portrait.avif",
@@ -2255,27 +2276,5 @@
     "pub_date": "2026-10-12T11:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6ac94a7a4676236d922d7944/master/pass/Security_Feds%20Got%20Warrants%20to%20Use%20Fake%20Cell%20Towers%20to%20Hunt%20Down%20Don%20Lemon%E2%80%99s%20Producer_v1.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/1008023/gm-bcdc-ev-battery-factory-china-tesla",
-    "title": "Inside the mini factory where GM builds its EV future",
-    "description": "If you're driving through GM's sprawling campus in Warren, Michigan, you'd likely ignore the pair of adjacent, anonymous white buildings tucked away in the upper reaches of the 710-acre space. Inside those buildings, which total half a million square feet together, is a massive construction project that's still in progress. Once completed, it will house",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-12T11:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/BCDC.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/gaming/playstation-pulse-explore-earbuds-deal/",
-    "title": "Get Ready for GTA 6 While These PlayStation Pulse Explore Earbuds are Just $149, Their Best Price Yet",
-    "description": "Play games in style with these wireless earbuds for less than we’ve ever seen them sell for.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-12T10:55:34+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/PlayStation-Pulse-Explore-earbuds.jpg",
-    "source_name": "CNET.COM"
   }
 ]
