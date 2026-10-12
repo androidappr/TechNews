@@ -1,5 +1,39 @@
 [
   {
+    "link": "https://thenextweb.com/news/strategy-execution-teams-cant-name-priorities-okrs-tool",
+    "title": "Your company has a strategy, and your team has no idea what it is",
+    "description": "Somewhere in your organisation, right now, a team is making a decision. A product prioritisation call, a budget reallocation, a hiring choice, a client proposal. The people making it are smart, experienced, and acting in good faith. There is a fair chance they are making it with no idea what the company’s strategy says about",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-12T10:38:07+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/team-laptops-wooden-table-headphones-coding.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.wired.com/review/alterme-fitness-and-wellness-program/",
+    "title": "AlterMe Review: Fitness Built Around My DNA",
+    "description": "Six months with AlterMe’s smart ring and a fitness app helped me build better habits, but the genetic insights were less revealing than I’d hoped.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-12T10:34:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ac92d71650e34837a985f2d/master/pass/Review%20AlterMe%20DNA-Powered%20Personalized%20Fitness%20and%20Wellness%20Program%20102026%20top%20art%20SOURCE%20AlterMe.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/new-anti-aging-drug-trial-for-skin/",
+    "title": "A New Anti-Aging Drug Looks to Turn Back the Clock on Skin Age",
+    "description": "After four weeks of using the cream, participants lowered the biological age of their skin by about two years on average.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-12T10:30:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ac637050efe0916b50728f3/master/pass/100726-Reduce%20Skin%20Age.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://mashable.com/tech/oct-12-samsung-galaxy-tablet-10-fe-deal",
     "title": "The best mid-range Android tablet drops to $426.99: Save on the Samsung Galaxy Tab S10 FE",
     "description": "Find the best Samsung tablet deal. Save 11% on the Samsung Galaxy Tab S10 FE at Amazon.",
@@ -9,6 +43,18 @@
     "pub_date": "2026-10-12T10:29:28+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/02GrePNDYfhaEKcAf5wo3Ds/hero-image.png",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/imf-ai-investment-global-growth-asia",
+    "title": "IMF says AI investment is keeping global growth near 3%",
+    "description": "IMF chief Kristalina Georgieva said on Monday that spending on AI infrastructure is helping the world economy grow by about 3% each year, even though energy prices are high. She made these comments in Bangkok at the start of the IMF and World Bank annual meetings, according to Reuters. According to Georgieva, Asian economies that",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-12T10:28:31+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/kristalina-georgieva-seated-speaking-wsj-house-blue-set.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://mashable.com/life/oct-12-ninja-foodi-possiblecooker-pro-plus-deal",
@@ -2190,50 +2236,6 @@
     ],
     "pub_date": "2026-10-10T23:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-11-october-2026",
-    "title": "NYT Strands hints and answers for Sunday, October 11 (game #952)",
-    "description": "Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-10T23:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/XrpFgcngWrtXQscKdLLAZB-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2280136/how-to-lock-app-samsung-galaxy-phone/",
-    "title": "How to lock apps on your Samsung Galaxy phone",
-    "description": "Samsung phones have a couple of features that can keep sensitive apps and files private. One locks your chosen apps, and the other restricts all but one app.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-10T22:45:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/how-to-lock-apps-on-your-samsung-galaxy-phone/l-intro-1791388722.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2280127/backing-up-data-3-2-1-rule-explained/",
-    "title": "What is the 3-2-1 rule for backing up your data?",
-    "description": "Make sure your files are safe in the event of a hard drive disaster.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-10T22:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/what-is-the-3-2-1-rule-for-backing-up-your-data/l-intro-1791388945.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/aws-is-building-a-massive-36-building-1-100-acre-data-center-campus-in-pennsylvania-homer-city-energy-campus-will-create-around-1-500-2-000-jobs-and-be-powered-by-natural-gas",
-    "title": "AWS is building a massive 36-building, 1,100-acre data center campus in Pennsylvania — Homer City Energy Campus will create around 1,500-2,000 jobs  and be powered by natural gas",
-    "description": "AWS plans 36 data centers across 1,100 acres at Homer City, backed by 4.5GW gas generation and thousands of jobs.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-10T22:25:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ETt2Pe3AtJk2ynHY4vkd68-1920-80.png",
     "source_name": "TECHRADAR.COM"
   }
 ]
