@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://thenextweb.com/news/whatsapp-scheduled-messages-europe",
+    "title": "WhatsApp may soon let users schedule messages",
+    "description": "WhatsApp is testing a feature that lets users schedule messages between ten minutes and two weeks ahead, spotted in an Android beta by WaBetaInfo. The main business use for it, sending work messages outside hours, is regulated across much of Europe, and nothing marks a delivered message as scheduled. WhatsApp is testing a way to",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-12T15:45:51+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/meta-whatsapp-privacy-lawsuit-dismissed-encryption-whistleblower.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2281478/how-to-improve-android-phone-location-accuracy/",
+    "title": "How to improve your Android phone's location accuracy",
+    "description": "There are a few settings to check if you're having issues with your map's location accuracy.",
+    "categories": [
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-10-12T15:45:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-to-improve-your-android-phones-location-accuracy/l-intro-1791402093.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2275484/raspberry-pi-how-much-ram-needed/",
+    "title": "How much RAM does a Raspberry Pi actually need?",
+    "description": "Raspberry Pi boards have helped hobbyists get computing projects started for very little money down. However, knowing how much memory is needed can be tricky.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-12T15:45:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-much-ram-does-a-raspberry-pi-actually-need/l-intro-1790936255.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
     "title": "The Yandex outage probably didn’t blitz Russian bots",
     "description": "Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot activity most people associate with Russia. A chart citing Cloudflare data has been circulating around social media platforms, showing a sharp decline",
@@ -12,6 +47,18 @@
     "pub_date": "2026-10-12T15:43:07+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_C.png?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/wearables/fitbit/the-google-fitbit-edge-gives-you-a-week-of-battery-life-and-a-screen-you-can-use",
+    "title": "The Google Fitbit Edge gives you a week of battery life and a screen you can use",
+    "description": "Google's Fitbit Edge undercuts the Pixel Watch with better battery and a swappable cell.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-12T15:42:37+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Z4hxSumLGp9UHoqBsrWuNh-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
   },
   {
     "link": "https://9to5mac.com/2026/10/12/security-bite-this-nifty-privacy-app-blurs-your-mac-screen-the-second-you-look-away/",
@@ -30,6 +77,7 @@
     "title": "PSA: iPhone Duo Preorders open Friday — here’s a useful trick you can use to get ahead of everybody",
     "description": "Apple's 'Get Ready' feature is a useful addition that you can use to pre-save your preferences ahead of Friday.",
     "categories": [
+      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-12T15:36:15+00:00",
@@ -1019,7 +1067,6 @@
     "title": "Loops raises $3.5M to build the AI operating system for commerce",
     "description": "Online shopping has become very good at showing people thousands of products and surprisingly bad at helping them choose one. Loops was built around the idea that AI can collapse those experiences into one continuous journey. The company announced a $3.5 million seed round from a16z speedrun, NTT Docomo, Connecticut Innovations, Alumni Ventures and Monday",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-12T12:00:19+00:00",
@@ -1031,7 +1078,6 @@
     "title": "How Apple can win the smart home",
     "description": "This week, Apple is hosting its first-ever dedicated smart home event. While the company hasn't shared details about what it will reveal at the \"Welcome Home experience\" in New York City on Tuesday, October 13th, it doesn't take an army of internet sleuths to deduce we'll get news about Apple Home - specifically, new hardware.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-12T12:00:00+00:00",
@@ -1266,17 +1312,6 @@
     "pub_date": "2026-10-12T10:45:12+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2283518/whatsapp-users-may-soon-be-able-to-schedule-messages/",
-    "title": "WhatsApp users may soon be able to schedule messages",
-    "description": "WhatsApp is finally allowing message scheduling, a feature that's been available on Telegram since 2019.",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-12T10:44:33+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/whatsapp-users-may-soon-be-able-to-schedule-messages/l-intro-1791801733.jpg",
-    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://mashable.com/entertainment/danny-dyer-snl-uk-monologue",
@@ -2261,41 +2296,5 @@
     "pub_date": "2026-10-11T20:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/xu9kF6jWVhniQgQQsa58vE-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/how-to-watch/tv-shows/how-to-watch-treasure-island-2026-online-stream-swashbuckling-drama-from-anywhere",
-    "title": "How to watch Treasure Island (2026) online — stream swashbuckling drama from anywhere",
-    "description": "Here's how to watch Treasure Island (2026) online and stream every episode from anywhere.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-11T20:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/byvkwbGPfMGSQgX8FcFHsb-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-    "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-    "description": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Crypto & Web3",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-11T19:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2283296/anbernics-next-dual-screen-handheld-has-the-perfect-aspect-ratio-for-3ds-games/",
-    "title": "Anbernic's next dual-screen handheld has the perfect aspect ratio for 3DS games",
-    "description": "The RG DDS's main display has a 5:3 aspect ratio while its bottom screen will be 4:3.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-11T18:54:38+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/anbernics-next-dual-screen-handheld-has-the-perfect-aspect-ratio-for-3ds-games/l-intro-1791743775.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
