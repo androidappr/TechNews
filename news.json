@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.techmeme.com/261012/p3#a261012p3",
+    "title": "An interview with ex-DeepMind scientist David Silver on his startup Ineffable, building an AI \"super learner\" using RL as an alternative path to LLMs, and more (Madhumita Murgia/Financial Times)",
+    "description": "Madhumita Murgia / Financial Times:\nAn interview with ex-DeepMind scientist David Silver on his startup Ineffable, building an AI “super learner” using RL as an alternative path to LLMs, and more  —  The architect of Google DeepMind's AlphaGo on building machines that can teach themselves — and why he feels a moral obligation to advance the technology",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-12T05:25:00+00:00",
+    "image_url": "http://www.techmeme.com/261012/i3.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261012/p2#a261012p2",
     "title": "Sources: TSMC execs in charge of overseas operations met Texas officials and started more serious discussions in H1 2026, after talking on and off for 10+ years (Tim Culpan/Culpium)",
     "description": "Tim Culpan / Culpium:\nSources: TSMC execs in charge of overseas operations met Texas officials and started more serious discussions in H1 2026, after talking on and off for 10+ years  —  “He said his biggest concern was that nobody would supply him with chips. ”  I told him: 'Don't worry.",
@@ -2209,16 +2221,5 @@
     "pub_date": "2026-10-10T14:59:52+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/zEFXeYTtHV8bCodc2TArfH-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-    "title": "Anthropic is cutting off its internal evaluations from the internet",
-    "description": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-10T14:41:16+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
