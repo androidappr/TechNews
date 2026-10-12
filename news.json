@@ -1,5 +1,100 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "description": "Microsoft President Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-12T15:31:19+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "description": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-12T15:27:59+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techradar.com/ai-platforms-assistants/she-lost-a-lot-of-money-she-almost-lost-her-house-how-an-ai-scammer-tricked-one-woman-into-believing-she-was-dating-jon-bon-jovi-for-a-year",
+    "title": "An AI scammer tricked a woman into believing she was dating Jon Bon Jovi",
+    "description": "One in seven Americans have lost money to a romance scam. The new documentary Super Scam Me is switching the focus to the scammers, and away from the victims.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-12T15:26:14+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/rXUY4aY2nuux2FwGMKW8En-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/oct-12-sunseeker-x3-plus-robot-lawn-mower-deal",
+    "title": "This half-priced Sunseeker X3 Plus robot lawn mower is selling out at Amazon",
+    "description": "The Sunseeker X3 Plus robot lawn mower is on sale at Amazon for just $836.98. That's nearly half off and its best price ever.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-12T15:22:49+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/02tMmfW8146AXvhUwZRTNMY/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261012/p29#a261012p29",
+    "title": "Microsoft says Maia 300 racks will hold 96 chips and use ~167 kW of power and plans to roll out \"multi-gigawatt deployments\" of the chip starting next year (Reuters)",
+    "description": "Reuters:\nMicrosoft says Maia 300 racks will hold 96 chips and use ~167 kW of power and plans to roll out “multi-gigawatt deployments” of the chip starting next year  —  Microsoft (MSFT.O) announced the next generation of its custom AI chip on Monday and said it plans to deploy potentially …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-12T15:20:01+00:00",
+    "image_url": "http://www.techmeme.com/261012/i29.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/ai-agents-are-great-at-writing-new-code-but-then-the-human-bottleneck-slows-everything-down",
+    "title": "AI agents are great at writing new code — but then the human bottleneck slows everything down",
+    "description": "While AI has boosted the amount of code we can now produce, it needs substantially more reviewing.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-12T15:20:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ckn7d3d5BqnrKjcXenmBzk-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2281476/why-shouldnt-leave-extension-cord-plugged-in-all-the-time/",
+    "title": "Why you shouldn't leave an extension cord plugged in all the time",
+    "description": "An extension cord may seem like a permanent solution to a problem, but they aren't designed for long-term use, so leaving them plugged in can have consequences.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-12T15:15:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/why-you-shouldnt-leave-an-extension-cord-plugged-in-all-the-time/l-intro-1791481188.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/gpu/gpu-pricing-to-climb-significantly-warns-pc-maker-as-rumor-suggests-its-the-end-of-the-road-for-nvidias-rtx-5090",
+    "title": "'GPU pricing to climb significantly' warns a PC maker in the US",
+    "description": "There's a salvo of worrying rumors for GPUs, including that graphics cards will get 'significantly' pricier.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-12T15:13:14+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/iH6Sehz2iwz8bH5Yrpprb6-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/10/12/apple-confirms-beats-x-pokemon-collaboration-with-pill-speaker-teaser/",
     "title": "Apple confirms Beats x Pokémon collaboration with Pill speaker teaser",
     "description": "It looks like Apple’s Beats and Pokémon are teaming up for a Beats Pill Bluetooth speaker collaboration. \n\n\n\n more…",
@@ -33,6 +128,17 @@
     "pub_date": "2026-10-12T15:06:38+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/zSAz8Lut5xmLNiH9dGbMU7-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/gta-grand-theft-auto-6-cyberleek-lucia-leaked-gameplay-videos",
+    "title": "Cyberleek drops more NSFW Lucia videos, threatens to release GTA 6 in full",
+    "description": "With a month to go before 'GTA 6' releases, infamous leaker Cyberleek is sharing more footage and threatening to spoil the story.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-12T15:00:52+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/03sZ0A4BYrf77U0A6HR6KhF/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
@@ -101,6 +207,17 @@
     "pub_date": "2026-10-12T14:48:02+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/cA8BT5VNDZ4fWppNujg3jT-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2281471/iphone-duo-which-accessories-fit/",
+    "title": "Which accessories actually fit the iPhone Duo?",
+    "description": "The iPhone Duo's foldable design changes what accessories fit. Here's what to know about cases, chargers, screen protectors, mounts, and more.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-12T14:45:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/iphone-duo-which-accessories-fit/l-intro-1791575956.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://mashable.com/tech/oct-12-dji-mini-5-pro-deal",
@@ -616,18 +733,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.engadget.com/2283307/googles-sleek-new-fitbit-edge-is-packed-with-health-features-and-a-replaceable-battery/",
-    "title": "Google's sleek new Fitbit Edge is packed with health features and a replaceable battery",
-    "description": "The Fitbit Edge will be in stores starting October 27 for $179.99.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-12T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/googles-sleek-new-fitbit-edge-is-packed-with-health-features-and-a-replaceable-battery/l-intro-1791748868.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
     "link": "https://www.engadget.com/2283324/google-teams-up-with-menstrual-health-tracker-flo-to-develop-new-wellness-hardware-and-sync-apps/",
     "title": "Google teams up with menstrual health tracker Flo to develop new wellness hardware and sync apps",
     "description": "Flo Health users will able to sync their cycle data with the Google Health app starting early next year.",
@@ -637,6 +742,18 @@
     ],
     "pub_date": "2026-10-12T13:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/google-teams-up-with-menstrual-health-tracker-flo-to-develop-new-wellness-hardware-and-sync-apps/l-intro-1791757297.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2283307/googles-sleek-new-fitbit-edge-is-packed-with-health-features-and-a-replaceable-battery/",
+    "title": "Google's sleek new Fitbit Edge is packed with health features and a replaceable battery",
+    "description": "The Fitbit Edge will be in stores starting October 27 for $179.99.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-12T13:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/googles-sleek-new-fitbit-edge-is-packed-with-health-features-and-a-replaceable-battery/l-intro-1791748868.jpg",
     "source_name": "ENGADGET.COM"
   },
   {
@@ -1206,6 +1323,7 @@
     "title": "As economic and corporate research shows limited AI efficiency gains, surveys by Workday, Google, MIT, and others detail a human \"verification tax\" bottleneck (Sarah Kessler/New York Times)",
     "description": "Sarah Kessler / New York Times:\nAs economic and corporate research shows limited AI efficiency gains, surveys by Workday, Google, MIT, and others detail a human “verification tax” bottleneck  —  As artificial intelligence automates office tasks, it is also creating a new type of human work.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-12T10:25:01+00:00",
@@ -1351,8 +1469,7 @@
     "title": "Microsoft's president says AI is less regulated than a carton of milk",
     "description": "Milk can't hack companies and governments like AI definitely can, but it's still subject to more regulation.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-12T09:28:37+00:00",
     "image_url": "https://www.engadget.com/img/gallery/microsofts-president-says-ai-is-less-regulated-than-a-carton-of-milk/l-intro-1791797091.jpg",
@@ -2176,115 +2293,5 @@
     "pub_date": "2026-10-11T18:30:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/steam-frame-teardown-reveals-one-problem-with-its-future-repairs/l-intro-1791046215.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/phone-communications/oscal-pilot-8-rugged-phone-review",
-    "title": "Oscal Pilot 8 rugged phone review",
-    "description": "Oscal's new rugged smartphone swaps MediaTek for Qualcomm, kept the price sensible, and has plenty of desirable features - all in a slim and light package.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-11T18:25:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/5FJ3Rz7a3k4AiCud3Z3dWK-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/apple-returns-to-smart-home-ecosystem-with-upcoming-welcome-home-event",
-    "title": "Apple returns to smart home ecosystem with upcoming Welcome Home event",
-    "description": "We preview Apple's October 13 event with a look at the smart home products they're expected to announce.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-11T18:23:48+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06Kzc3olTDpLUyRJErgMZQr/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261011/p9#a261011p9",
-    "title": "A look at Anthropic's data center lease economics, as analysts estimate a 245 MW site could yield ~$1.3B per month; sources say it signed a cloud deal with IREN (Ann Davis Vaughan/The Information)",
-    "description": "Ann Davis Vaughan / The Information:\nA look at Anthropic's data center lease economics, as analysts estimate a 245 MW site could yield ~$1.3B per month; sources say it signed a cloud deal with IREN  —  Why is Anthropic driving its partners to speed up the $530 billion of data center leasing deals it has signed?",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-11T18:15:02+00:00",
-    "image_url": "http://www.techmeme.com/261011/i9.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
-    "title": "Review: 4-hour Musk documentary feels like two different films",
-    "description": "Alex Gibney's provocative film is compelling but overlong, and there's not much new here for Ars readers.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-11T18:10:54+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/musk3-1152x648-1791058712.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2281153/playstation-5-game-library-padlock-symbol-meaning-explained/",
-    "title": "The meaning behind the padlock symbol in your PlayStation 5 game library",
-    "description": "Digital game licenses aren't perfect, which is why you might see a padlock icon blocking you from PS5 games.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-11T18:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/the-meaning-behind-the-padlock-symbol-in-your-playstation-5-game-library/l-intro-1791472232.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/how-to-watch/american-football/san-francisco-49ers-vs-seattle-seahawks-nfl-week-5-game-free",
-    "title": "How to watch 49ers vs Seahawks: Free Streams & TV Channels for NFL Week 5 game",
-    "description": "All the ways to watch 49ers vs Seahawks for free online, with Brock Purdy and Leonard Williams set to star in the 2026 NFL Week 5 game at Lumen Field.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-11T18:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/4ydekPoSkCyV2ujG8Bcc3C-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.cnet.com/home/new-apple-homeview-smart-home-hub/",
-    "title": "Apple’s New Smart Home Hub Is Reportedly Called HomeView and Will Ship in November",
-    "description": "Apple is also expected to unveil a new Apple TV set-top box and HomePod Mini on Tuesday.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-11T17:35:39+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-welcome-home.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
-    "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
-    "description": "The latest rumors are that the new Apple TV will have a built-in microphone, while the upgraded remote will get a speaker. The mic would let users control the set-top box using Siri without having to speak into the remote or a connected HomePod device. That could also let the Apple TV serve as a",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-11T17:31:07+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24160553/DSCF0260_2.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/powering-the-ai-revolution-inside-the-grid-thermal-and-interconnect-challenges-limiting-data-center-growth",
-    "title": "Powering the AI revolution: Inside the grid, thermal, and interconnect challenges limiting data center growth",
-    "description": "We take a deep dive into the electrical, thermal, and infrastructural bottlenecks affecting the next-generation computing revolution.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-11T17:20:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/PNHHupwLrzuujcF78JCsDN-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/children-of-blood-and-bone-cast-talk-family-dynamics-nycc",
-    "title": "Children of Blood and Bone cast reveals the family drama at the heart of the fantasy epic",
-    "description": "The 'Children of Blood and Bone' cast revealed new footage at NYCC 2026 and discussed the family drama at the heart of the fantasy adaptation.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-11T17:14:14+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06PzgYhjzf9dmSGFZzrOYez/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
