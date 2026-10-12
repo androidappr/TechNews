@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://thenextweb.com/news/openai-dublin-applied-ai-lab",
+    "title": "OpenAI adds 200 Dublin jobs and builds its second applied AI lab",
+    "description": "OpenAI is adding 200 roles in Dublin and building an applied AI lab at its EU headquarters, taking planned Irish hiring to 450. The move lands two days before Ireland hosts the International AI Summit under its EU presidency. OpenAI is adding 200 jobs in Dublin and building an applied AI lab at its European",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-12T18:07:53+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/openai-dublin-250-jobs-european-headquarters-expansion.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2281493/alkaline-vs-lithium-ion-batteries-difference-between/",
+    "title": "What's the difference between alkaline and lithium-ion batteries?",
+    "description": "Alkaline and lithium-ion batteries serve very different purposes. Here's how they compare on lifespan, cost, rechargeability, and everyday use.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-12T18:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/whats-the-difference-between-alkaline-and-lithium-ion-batteries/l-intro-1791482220.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
     "title": "Meta releases its first frontier model, Muse Wonder",
     "description": "Meta's Superintelligence Lab released a pair of new state-of-the-art models on Monday, Muse Wonder and Muse Wonder Full, the company's first attempt at a frontier model.",
@@ -34,6 +57,18 @@
     "pub_date": "2026-10-12T17:50:01+00:00",
     "image_url": "http://www.techmeme.com/img/pml.png",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/innovation/claude-false-homicide-tip/",
+    "title": "Claude sent a false homicide tip to police – and it’s part of a troubling AI pattern",
+    "description": "Models routinely take shortcuts to pass evaluations. Who gets to decide what incidents are innocuous?",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-12T17:45:44+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/reddarksmallGettyImages-2293940548.jpg",
+    "source_name": "ZDNET.COM"
   },
   {
     "link": "https://www.techradar.com/pro/the-sihoo-b100-is-still-my-favorite-cheap-office-chair-an-affordable-mesh-ergonomic-seat-that-beats-most-cheap-chairs-we-test-with-its-adaptive-lumbar-support",
@@ -518,7 +553,7 @@
   {
     "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
     "title": "Microsoft president says UK is best placed to drive AI regulation",
-    "description": "Microsoft President Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+    "description": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -782,8 +817,8 @@
   },
   {
     "link": "https://www.techmeme.com/261012/p27#a261012p27",
-    "title": "Cyberattacks on Sunday night targeted Danfoss-managed refrigeration systems across hundreds of French supermarkets, heating them to 50°C for roughly six hours (Jenny Che/Bloomberg)",
-    "description": "Jenny Che / Bloomberg:\nCyberattacks on Sunday night targeted Danfoss-managed refrigeration systems across hundreds of French supermarkets, heating them to 50°C for roughly six hours  —  Hundreds of supermarkets in France were targeted by cyberattacks on Sunday night, disabling refrigeration systems and forcing stores to throw out damaged food.",
+    "title": "Cyberattacks on Sunday night targeted Danfoss-managed refrigeration systems across hundreds of French supermarkets, heating them to 50°C for roughly six hours (Bloomberg)",
+    "description": "Bloomberg:\nCyberattacks on Sunday night targeted Danfoss-managed refrigeration systems across hundreds of French supermarkets, heating them to 50°C for roughly six hours  —  Hundreds of supermarkets in France were hit by cyberattacks on Sunday night that disabled refrigeration systems and forced stores …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -1258,18 +1293,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.engadget.com/2283270/google-brings-health-guardian-to-the-fitbit-air-and-edge-and-expands-automatic-activity-tracking/",
-    "title": "Google brings Health Guardian to the Fitbit Air and Edge, and expands automatic activity tracking",
-    "description": "The company announced new health features for its wearables along with a new band for the Fitbit Air.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-12T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/google-brings-health-guardian-to-the-fitbit-air-and-edge-and-expands-automatic-activity-tracking/l-intro-1791748229.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
     "link": "https://www.cnet.com/tech/mobile/fitbit-edge-google-first-look/",
     "title": "Fitbit Edge May Be the Sweet Spot for Smartwatch Noncommittals",
     "description": "Google’s new $179 tracker sits between the screenless Fitbit Air and Pixel Watch 5, promising some of the best parts of both without fully committing to either.",
@@ -1290,6 +1313,18 @@
     "pub_date": "2026-10-12T13:00:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Fitbit-Air_Metal-Mesh-Gold_Dinner-Lifestyle.jpg",
     "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2283270/google-brings-health-guardian-to-the-fitbit-air-and-edge-and-expands-automatic-activity-tracking/",
+    "title": "Google brings Health Guardian to the Fitbit Air and Edge, and expands automatic activity tracking",
+    "description": "The company announced new health features for its wearables along with a new band for the Fitbit Air.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-12T13:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/google-brings-health-guardian-to-the-fitbit-air-and-edge-and-expands-automatic-activity-tracking/l-intro-1791748229.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.engadget.com/2283324/google-teams-up-with-menstrual-health-tracker-flo-to-develop-new-wellness-hardware-and-sync-apps/",
@@ -2265,39 +2300,5 @@
     "pub_date": "2026-10-12T06:54:05+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/04VYrqI5o8OeDLgTK62S5VM/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/pips-nyt-games-hints-answers-easy-medium-hard-october-12-2026",
-    "title": "NYT Pips hints, answers for October 12, 2026",
-    "description": "The New York Times' latest game, Pips, brings domino fun to your desktop. How to play Pips as well as hints in case you get stuck.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-12T06:50:35+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06DdhYaHcTclYU0JwTwzvyJ/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/home/coffee-machines/dont-wait-for-black-friday-ive-found-6-coffee-machines-with-steep-discounts-worth-shouting-about",
-    "title": "Don't wait for Black Friday — I’ve found 6 coffee machines with steep discounts worth shouting about",
-    "description": "Thought a major Amazon sale was the perfect time to pick up a new coffee machine? Apparently not, as these savings on 6 popular models proves.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-12T05:55:10+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/J9T7EUW4AbQG95xFmQ8Qo7-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261012/p4#a261012p4",
-    "title": "Sources: the US restores the UK AISI's access to the latest US models for safety testing, after ordering OpenAI and Anthropic to stop sharing models last month (Tony Diver/Telegraph)",
-    "description": "Tony Diver / Telegraph:\nSources: the US restores the UK AISI's access to the latest US models for safety testing, after ordering OpenAI and Anthropic to stop sharing models last month  —  US had blocked regulators from reviewing frontier models from Anthropic, OpenAI and Google DeepMind",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-12T05:40:00+00:00",
-    "image_url": "http://www.techmeme.com/261012/i4.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
