@@ -1,5 +1,52 @@
 [
   {
+    "link": "https://thenextweb.com/news/ntt-data-anthropic-osaka-data-centre",
+    "title": "NTT Data reportedly nears deal to build Anthropic’s first Japan data centre",
+    "description": "TT Data Group is close to agreeing to a deal with Anthropic for a new data centre in Osaka, Nikkei Asia reported on Tuesday, citing multiple sources. It would be the first site in Japan built just for Anthropic, which makes the Claude AI models. TNW has not independently confirmed the report, and both NTT Data",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-13T08:12:28+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/anthropic-meta-10-billion-compute-deal-talks.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/bumble-go-private-ithaca-holdings-1bn",
+    "title": "Bumble reportedly in talks to go private at a valuation of about $1bn",
+    "description": "Ithaca Holdings is in advanced talks to buy Bumble and take the dating app private, in a deal that would value it at about $1 billion. Reuters reported the talks, citing one source familiar with the matter. We have not independently confirmed the report, and neither company replied when Reuters asked for comment. Investors moved fast,",
+    "categories": [
+      "Business & Startups",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-13T08:05:33+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/whitney-wolfe-herd-onstage-techcrunch-disrupt.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261013/p6#a261013p6",
+    "title": "Singapore-based data center developer DayOne raises ~$3.67B, including a ~$2.4B offshore term loan facility, from seven banks to fund its Malaysia expansion (Jasmeen Ara Shaikh/Reuters)",
+    "description": "Jasmeen Ara Shaikh / Reuters:\nSingapore-based data center developer DayOne raises ~$3.67B, including a ~$2.4B offshore term loan facility, from seven banks to fund its Malaysia expansion  —  Singapore-based data centre developer DayOne on Tuesday said it secured an additional 15 billion ringgit ($3.67 billion) …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-13T08:05:01+00:00",
+    "image_url": "http://www.techmeme.com/img/pml.png",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/character-ai-files-for-bankruptcy-as-disney-bids-20m-for-some-assets",
+    "title": "Character.AI files for bankruptcy as Disney bids $20M for some assets",
+    "description": "Character.AI has filed for Chapter 11 bankruptcy in the US and lined up Disney as the first bidder for some of its assets, the company said on Monday. The AI chatbot platform, owned by Character Technologies, filed in a federal court in Delaware. It plans to sell all or most of its assets through the court.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-13T07:54:17+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/Disney.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/china-linked-hackers-fiji-regional-organisation",
     "title": "US says China-linked hackers breached a regional organisation in Fiji",
     "description": "Hackers linked to China broke into the network of a regional group based in Suva, Fiji, the US Embassy in Fiji said on Monday. They stayed inside for several days in July and August. The embassy, which also covers Kiribati, Nauru, and Tuvalu, did not name the group. Nor did it say what data the hackers",
@@ -127,8 +174,8 @@
   },
   {
     "link": "https://www.techmeme.com/261013/p4#a261013p4",
-    "title": "A global chip stock sell-off deepens after Broadcom's CEO likened AI investing to a casino, with Samsung down as much as 8.8%, SK Hynix 9.2%, and Micron 4% (Financial Times)",
-    "description": "Financial Times:\nA global chip stock sell-off deepens after Broadcom's CEO likened AI investing to a casino, with Samsung down as much as 8.8%, SK Hynix 9.2%, and Micron 4%  —  Declines for Samsung and SK Hynix drag Kospi sharply lower as investors fret over scale of AI investment",
+    "title": "A global chip stock sell-off deepens after Broadcom's CEO likened AI investing to a casino, with Samsung down as much as 8.8%, SK Hynix down 9.2%, and Micron 4% (Financial Times)",
+    "description": "Financial Times:\nA global chip stock sell-off deepens after Broadcom's CEO likened AI investing to a casino, with Samsung down as much as 8.8%, SK Hynix down 9.2%, and Micron 4%  —  Declines for Samsung and SK Hynix drag Kospi sharply lower as investors fret over scale of AI investment",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -301,7 +348,6 @@
     "title": "APOD: 2026 October 13 – Desert Stairway to Heaven",
     "description": "APOD Science APOD APOD: 2026 October 13 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated Desert Stairway",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-13T04:05:00+00:00",
@@ -365,9 +411,10 @@
   },
   {
     "link": "https://www.techmeme.com/261012/p45#a261012p45",
-    "title": "Sources: NTT Data is in advanced talks to build a data center for Anthropic in Osaka of up to 500 MW, among Japan's largest, potentially costing $6.3B (Nikkei Asia)",
-    "description": "Nikkei Asia:\nSources: NTT Data is in advanced talks to build a data center for Anthropic in Osaka of up to 500 MW, among Japan's largest, potentially costing $6.3B  —  TOKYO/OSAKA — NTT Data Group is in the final stages of talks to build a data center in western Japan for U.S. AI company Anthropic, multiple sources have told Nikkei.",
+    "title": "Sources: NTT Data is in advanced talks to build an up to 500 MW data center for Anthropic in Osaka, among Japan's largest, potentially costing $6.3B (Nikkei Asia)",
+    "description": "Nikkei Asia:\nSources: NTT Data is in advanced talks to build an up to 500 MW data center for Anthropic in Osaka, among Japan's largest, potentially costing $6.3B  —  TOKYO/OSAKA — NTT Data Group is in the final stages of talks to build a data center in western Japan for U.S. AI company Anthropic, multiple sources have told Nikkei.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-13T03:15:01+00:00",
@@ -2187,50 +2234,5 @@
     "pub_date": "2026-10-12T14:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/No-Mans-Sky-iPhone-Screen-1.png?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
-    "title": "They War-Gamed Dimming the Sun. It Went Even Worse Than You Think",
-    "description": "Solar geoengineering could buy humanity time against climate change—or trigger a dangerous new arms race. A first-of-its-kind simulation offered a glimpse of what happens when geopolitics takes the wheel.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-12T14:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ac567af1421696ee3c3b7c5/master/pass/NewsFeature_Theywar-gameddimmingthesun.Itwentevenwo-ezgif.com-video-to-gif-converter%20(2).gif",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2283704/no-mans-sky-is-coming-to-iphone-and-ipad-as-the-app-store-celebrates-indie-games-week/",
-    "title": "No Man's Sky is coming to iPhone and iPad as the App Store celebrates Indie Games Week",
-    "description": "Sifu, Vampire Crawlers, Dome Keeper and Little Kitty, Big City are also hitting iOS.",
-    "categories": [
-      "Gadgets & Hardware",
-      "Gaming"
-    ],
-    "pub_date": "2026-10-12T14:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/no-mans-sky-is-coming-to-iphone-and-ipad-as-the-app-store-celebrates-indie-games-week/l-intro-1791813051.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://mashable.com/life/starbucks-bearista-owala-bottle-how-to-buy",
-    "title": "Starbucks’ viral Bearista cup is returning as an Owala bottle — how to buy",
-    "description": "The Starbucks Bearista is back for 2026 — and it’s coming on an Owala bottle. When does it drop? How to buy yours?",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-12T13:59:48+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05HBAeNYlv2rM43hXl756PG/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/phones/iphone/iphone-18-pro-vs-iphone-air",
-    "title": "iPhone 18 Pro vs iPhone Air: which should you choose?",
-    "description": "The iPhone 18 Pro and iPhone Air are similarly priced but aimed at very different buyers.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-12T13:56:40+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/b8QdZn9FV6jZsbnFzsMqcS-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
