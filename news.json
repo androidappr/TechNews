@@ -1,5 +1,18 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+    "description": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-13T23:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
     "title": "Cerebras CEO pushes back on AI doomsday warnings",
     "description": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
@@ -628,7 +641,6 @@
     "title": "Google makes it easier to find apps and listen to YouTube in your car",
     "description": "Google is making its in-car Play Store better, and YouTube finally gets background playback.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-13T19:01:36+00:00",
@@ -653,7 +665,6 @@
     "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
     "description": "The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware"
     ],
@@ -700,7 +711,6 @@
     "title": "Tinder hadnt updated most AI scam detection models in years, Senate report finds",
     "description": "The Joint Economic Committee released a report on how Match Group handles romance scams today.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-13T18:57:01+00:00",
@@ -1107,7 +1117,6 @@
     "title": "Apple Just Declared War on Smart Home Security",
     "description": "Starting this December, Apple’s unleashing its own version of the smart home. We saw what’s in store with our own eyes.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-13T17:45:00+00:00",
@@ -1234,7 +1243,6 @@
     "title": "Apple TV 4K and HomeView: The best and worst of $299",
     "description": "Wow, $299. That’s a very surprising price. For HomeView, Apple’s all-new smart display, $299 feels surprisingly affordable. For Apple TV 4K, $299 feels surprisingly painful.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-13T17:27:18+00:00",
@@ -1372,7 +1380,6 @@
     "title": "Everything announced in Apples Welcome Home release: New smart speakers, displays, and cameras",
     "description": "Apple unveils HomeView, HomePod mini 2, a new Apple TV 4K, and Home Collection accessories in a major push into the smart home.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-13T17:00:46+00:00",
@@ -1385,7 +1392,6 @@
     "description": "Google plans to help turn those personal AI-generated apps into wide releases.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware",
       "Software & Apps"
     ],
@@ -1405,26 +1411,11 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-    "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-    "description": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Gadgets & Hardware",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-13T17:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
     "link": "https://www.engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio/",
     "title": "Google will let you distribute vibe-coded Android apps with just a Google account",
     "description": "The company is revamping the Play Store for the AI era with changes to publishing, recommendations and more.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-10-13T17:00:00+00:00",
@@ -1436,7 +1427,6 @@
     "title": "Google lets you make personal Android apps for free now – with just prompts",
     "description": "It just got a whole lot easier to vibe code the exact Android app you need – no developer experience required.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-13T17:00:00+00:00",
@@ -1464,6 +1454,20 @@
     "pub_date": "2026-10-13T17:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/02fsMR5g84CVHYD3jbdY4fd/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+    "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+    "description": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-13T17:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
   },
   {
     "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
@@ -1520,7 +1524,6 @@
     "description": "Apple has launched HomeView, a $299 smart display built around Siri AI, with shipping from 13 November in eight markets. The European Union is not one of them, because Siri AI is still blocked on iOS there. Apple has launched HomeView, a $299 smart display built around the new Siri, with pre-orders open and shipping",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware"
     ],
@@ -2321,16 +2324,5 @@
     "pub_date": "2026-10-13T14:49:04+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/Hdp5wMnS5rcXfWiYiytxNi-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.cnet.com/home/smart-home/apple-homepod-mini-2-same-look-but-so-much-siri-ai/",
-    "title": "Apple HomePod Mini 2: Hands-On Impressions, Siri AI and More",
-    "description": "We saw and heard Apple’s new HomePod mini today. Here’s what you should know.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-13T14:48:42+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/HomePod-Mini-2-Close-Shot.jpg",
-    "source_name": "CNET.COM"
   }
 ]
