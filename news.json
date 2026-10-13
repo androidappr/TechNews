@@ -1,5 +1,75 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
+    "title": "Apple’s HomeView ad is confusing to everyone except parents",
+    "description": "Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and discarded eggshells. Apple's typical vibe is clean, simple, orderly; this commercial is chaos. But the spot has parents - those",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-13T22:10:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/family_hero.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/everyone-hates-digger-its-perfect-climate-movie/",
+    "title": "Everyone Hates ‘Digger.’ It’s the Perfect Climate Movie",
+    "description": "The deeply uncomfortable film forces audiences to confront what types of stories we tell ourselves about who has economic and political power.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-13T22:08:44+00:00",
+    "image_url": "https://media.wired.com/photos/6ac90dd815a533466f61dc9f/master/pass/MCDDIGG_WB006.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2282226/clever-ways-gemini-automate-everyday-tasks/",
+    "title": "5 clever ways Gemini can automate everyday tasks",
+    "description": "If you're not using some of these skills, you're missing out on a chance to streamline your days, keep up to date and more.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-13T22:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/5-clever-ways-gemini-can-automate-everyday-tasks/l-intro-1791468895.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/streaming/disney-plus/visionquest-tony-stark-cameo-idea",
+    "title": "VisionQuest creator reveals why his Tony Stark cameo dream fell at the first hurdle",
+    "description": "VisionQuest's showrunner floated the idea of a Robert Downey Jr cameo during the Disney+ show's development.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-13T22:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/fqqQY3vxJM94Q5FLVuNKTS-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/oct-13-tcl-qm8l-series-tv-deal",
+    "title": "Our pick for the \"best QLED TV for most people\" is over $1,300 off at Amazon",
+    "description": "Save 52% on the 65-inch TCL QM8L Mini-LED TV at Amazon. Named Mashable’s best QLED TV for most people, this 2026 set is down to $1,197.99.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-13T22:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00aaDxN4vLaW7JoGCu2dHv3/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/mia-goth-ai-image-instagram-fan-account",
+    "title": "An AI image of Mia Goth sparks Instagram fan account controversy",
+    "description": "Mia Goth’s team says a verified Instagram fan account posted AI-generated images of her, raising questions about celebrity likenesses and Meta’s rules.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-13T21:59:23+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/05bWy5DqbOwliTGgrL9NBgG/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261013/p45#a261013p45",
     "title": "A look at OpenAI's safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique (The Information)",
     "description": "The Information:\nA look at OpenAI's safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique  —  OpenAI is grappling with fallout from its use of a controversial innovation in AI design as it works to get its next unreleased model …",
@@ -10,6 +80,28 @@
     "pub_date": "2026-10-13T21:56:04+00:00",
     "image_url": "http://www.techmeme.com/261013/i45.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/",
+    "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
+    "description": "But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-10-13T21:55:49+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anbernic2-1152x648-1791926080.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/openai-employee-arrested-device",
+    "title": "An OpenAI engineer is charged over a listening device in the boardroom",
+    "description": "An OpenAI engineer has been arrested over a listening device found behind a television in an executive conference room, and is charged with endeavouring to intercept oral communications. OpenAI says no model weights, source code or customer data were taken. An OpenAI engineer has been arrested over a listening device found at the company’s San",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-10-13T21:53:52+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/altman-white-house-openai-model-preview-agents.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://www.engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/",
@@ -345,6 +437,17 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
+    "link": "https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/",
+    "title": "Trump commercial railing against his enemies kept airing after court blocked it",
+    "description": "US attorney apologized to court, said government has stopped running Trump ads.",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-13T19:50:37+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/trump-final-battle-ad-1152x648-1790710215.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261013/p39#a261013p39",
     "title": "Sources: self-driving simulation software maker Applied Intuition has received investment offers that would value it at $30B+, up from $15B in June (Stephanie Palazzolo/The Information)",
     "description": "Stephanie Palazzolo / The Information:\nSources: self-driving simulation software maker Applied Intuition has received investment offers that would value it at $30B+, up from $15B in June  —  For the last three years, AI labs like OpenAI, Anthropic and xAI have sucked up a lot of investor attention—as well as nosebleed valuations.",
@@ -410,7 +513,6 @@
     "title": "Apple rolls out new AirPods beta firmware for several models, including AirPods Pro 3",
     "description": "In addition to the rollout of developer beta 4 for macOS 27.2, iOS 27.2, iPadOS 27.2, and more, Apple also rolled out developer and public firmware betas for several AirPods models. Here are the details.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-13T19:24:36+00:00",
@@ -693,6 +795,19 @@
     "source_name": "9TO5MAC.COM"
   },
   {
+    "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+    "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+    "description": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-13T18:23:33+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1167281066-1024x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/10/13/apple-releases-fourth-ios-27-2-developer-beta-for-iphone/",
     "title": "Apple releases fourth iOS 27.2 developer beta for iPhone [U: Public]",
     "description": "Update, 5:56 p.m. ET: The public beta for iOS 27.2 is now available as well.\n\n\n\nApple has released the fourth iOS 27.2 developer beta for iPhone. The update follows the release of iOS 27 to everyone. It also leaps over iOS 27.1, which Apple has shown as an iPhone Duo-focused release.\n\n\n\n more…",
@@ -767,7 +882,6 @@
     "title": "Google Wallet update adds receipt scanning and three other features",
     "description": "Google Wallet is quietly getting four useful upgrades, including new features and refinements to what's already there.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-13T18:10:26+00:00",
@@ -784,6 +898,17 @@
     "pub_date": "2026-10-13T18:10:08+00:00",
     "image_url": "https://www.engadget.com/img/gallery/ryan-cooglers-x-files-reboot-gets-a-full-series-order-from-hulu/l-intro-1791914966.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent/",
+    "title": "Skydance’s Discovery+ prices increase by up to 20 percent",
+    "description": "The higher prices are said to be unrelated to the Skydance merger.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-13T18:06:06+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1238343880-1024x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
@@ -804,7 +929,6 @@
     "title": "Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt 2026",
     "description": "Longshot is trying to build a gun big enough to make space data centers a reality.",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Science & Environment"
     ],
@@ -818,7 +942,6 @@
     "description": "Europe is falling behind the US on AI use at work, and the main reason is not technology, according to a new report.The report from Sifted, sponsored by London Business School, says Europe has an organisational gap rather than a tech gap. Firms struggle with skills, management, trust and the cost of fitting AI into how",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-13T18:02:25+00:00",
@@ -1653,17 +1776,6 @@
     "source_name": "ARSTECHNICA.COM"
   },
   {
-    "link": "https://www.engadget.com/2285023/google-gemini-4-argon-is-now-available-in-the-gemini-app-and-ai-mode-in-search/",
-    "title": "Google's Gemini 4 Argon is now available in the Gemini app and AI Mode in Search",
-    "description": "Google has rolled out Gemini 4 Argon to more users.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-13T16:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/googles-gemini-4-argon-is-now-available-in-the-gemini-app-and-ai-mode-in-search/l-intro-1791893304.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
     "link": "https://mashable.com/entertainment/atletico-madrid-man-united-2026-champions-league-live-stream-for-free",
     "title": "How to watch Atlético Madrid vs. Manchester United online for free",
     "description": "How to watch the Champions League for free. Watch Atlético Madrid vs. Manchester United in the Champions League for free from anywhere in the world.",
@@ -1673,6 +1785,17 @@
     "pub_date": "2026-10-13T16:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/03GmPB3gEQrBQBIrkcgP2uw/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2285023/google-gemini-4-argon-is-now-available-in-the-gemini-app-and-ai-mode-in-search/",
+    "title": "Google's Gemini 4 Argon is now available in the Gemini app and AI Mode in Search",
+    "description": "Google has rolled out Gemini 4 Argon to more users.",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-10-13T16:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/googles-gemini-4-argon-is-now-available-in-the-gemini-app-and-ai-mode-in-search/l-intro-1791893304.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.techradar.com/how-to-watch/football/arsenal-vs-lille-free-champions-league-2026-27",
@@ -2223,134 +2346,5 @@
     "pub_date": "2026-10-13T14:31:03+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/111_472967.jpg",
     "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
-    "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’",
-    "description": "Siri can now learn users' preferred music app, allowing Spotify listeners to request songs, podcasts, and playlists without specifying which app to use.",
-    "categories": [
-      "Gadgets & Hardware",
-      "Social & Media",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-13T14:30:12+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://mashable.com/life/target-pokemon-restock-update-oct-13",
-    "title": "Target Pokémon restock: What we know and 3 no-wait alternatives",
-    "description": "Learn how to track Target Pokémon TCG restocks, plus three Walmart deals on 30th Celebration and Delta Reign you can buy while waiting for the next one.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-13T14:27:09+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03O8FffQ5KZVc6KNRl4BoAV/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/where-to-buy-apple-homeview-preorder",
-    "title": "Where to buy Apple HomeView, Apples new smart home and entertainment hub",
-    "description": "As of Oct. 13, here's where to buy the Apple HomeView, Apple's new smart home and entertainment hub.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-13T14:25:56+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/077FTAYwgklMX9OooftGCxL/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/",
-    "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset",
-    "description": "After years of declining subscriber numbers and falling revenue, Bumble just agreed to a $1.3 billion acquisition.",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-13T14:25:48+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/ahold-delhaize-takes-systems-offline-after-cyberattack-global-retail-giant-says-cybersecurity-incident-hit-systems-but-stores-remain-open",
-    "title": "Ahold Delhaize takes systems offline after cyberattack — global retail giant says 'cybersecurity incident' hit systems, but stores remain open",
-    "description": "Ahold Delhaize loses its hold on cybersecurity once again, as retailers report trouble operating.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-13T14:25:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/zTH6vPrB4yxX7dzdy29Xga-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/apple-homepod-mini-2-preorder-where-to-buy",
-    "title": "Apple just launched the HomePod mini 2 — how to buy this brand-new smart speaker.",
-    "description": "The Apple HomePod mini 2 is available for preorder at Apple for $149. Launch date is set for Oct. 30.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-13T14:24:18+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/024Emst7SjD6HIjQEq1l0j1/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/memory/ram-is-getting-pricier-than-ever-with-ddr4-up-24-percent-in-the-last-quarter-and-intels-ceo-has-reportedly-said-we-have-another-2-to-3-years-of-this",
-    "title": "Intel CEO reportedly predicts RAM shortage will last another 2 to 3 years",
-    "description": "Intel's CEO reckons the RAM shortage will last for pretty much the rest of the decade.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-13T14:21:55+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/nNcBhtRDxWRUemshn4ybB4-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/13/homeview-for-your-wall-doesnt-include-mount-which-costs-59-minimum/",
-    "title": "HomeView for your wall doesn’t include mount, which costs $59 minimum",
-    "description": "Today Apple unveiled its new HomeView product in two models, one with a speaker base and the other built for wall mounting. But if you buy the latter, just know you’ll need to spend more for a separate mount.\n\n\n\n more…",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-13T14:21:39+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-wall-mounted-model.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261013/p25#a261013p25",
-    "title": "Sources: Rockstar plans to release the PC version of GTA VI within the first three months of 2027, after releasing it on PS5 and Xbox Series X/S on November 19 (Alexander Lee/GamesBeat)",
-    "description": "Alexander Lee / GamesBeat:\nSources: Rockstar plans to release the PC version of GTA VI within the first three months of 2027, after releasing it on PS5 and Xbox Series X/S on November 19  —  Become a member of GB MAX to gain exclusive access to the industry and to the most influential global B2B leadership community …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-13T14:20:02+00:00",
-    "image_url": "http://www.techmeme.com/261013/i25.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-13-xfinity-mobile-iphone-duo",
-    "title": "Another iPhone Duo preorder deal just dropped: How to save $1,000",
-    "description": "Xfinity Mobile is offering new and returning customers $1,000 off their iPhone Duo preorder with a qualifying trade-in.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-13T14:19:06+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01daB2h2w5xP1HiFN1TS12d/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/apple-tv-4k-preorder-where-to-buy",
-    "title": "Where to buy the new Apple TV 4K — how to preorder the 4th generation of Apple TV",
-    "description": "Apple just dropped the 4th generation of Apple TV 4K. Here's where to preorder it now before its Nov. 13 release.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-13T14:18:05+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03Vd7L4ZKkDT7BBFFpM1z23/hero-image.png",
-    "source_name": "MASHABLE.COM"
   }
 ]
