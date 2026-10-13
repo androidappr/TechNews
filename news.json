@@ -1,5 +1,52 @@
 [
   {
+    "link": "https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation",
+    "title": "The feds are looking into reports of Tesla’s robotaxis speeding through school zones",
+    "description": "The National Highway Traffic Safety Administration says it's evaluating allegations that Tesla's 1,000 or so robotaxis using its automated driving system are exceeding \"posted speed limits in active school zones.\" Waymo's robotaxis have also faced similar inquiries, including for illegally passing school buses and hitting a child near a California elementary school. NHTSA: The Office",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-13T17:40:15+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265246335.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/google-play-vibe-coded-apps",
+    "title": "Google will let anyone publish an app to the Play Store, for free",
+    "description": "Google will let anyone over 18 with a Google account publish privately listed Android apps built in its AI Studio, with no paid developer account. Apple spent this year tightening its own store against the same kind of software. Google will let anyone over 18 with a Google account publish an Android app to the",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-13T17:35:09+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/Google-logo.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261013/p34#a261013p34",
+    "title": "Google says users with a standard account can now build personal Android apps for free in AI Studio and will be able to share them with friends in coming months (Artie Beaty/ZDNET)",
+    "description": "Artie Beaty / ZDNET:\nGoogle says users with a standard account can now build personal Android apps for free in AI Studio and will be able to share them with friends in coming months  —  It just got a whole lot easier to vibe code the exact Android app you need - no developer experience required.  —  ZDNET's key takeaways",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-13T17:35:02+00:00",
+    "image_url": "http://www.techmeme.com/261013/i34.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/phones/global-phone-shipments-plummet-research-marks-largest-drop-in-over-a-decade",
+    "title": "Global phone shipments plummet—research marks largest drop in over a decade",
+    "description": "Research highlighted the largest drop in the global phone market in over ten years. Analytics suggest the memory crisis exacts a heavy toll, and Q4 remains dire.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-13T17:32:03+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Yc8CwBgcRkjCYQ8L7PMEgF-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
     "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
     "description": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing at TechCrunch Disrupt's Startup Battlefield.",
@@ -11,6 +58,18 @@
     "pub_date": "2026-10-13T17:30:00+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2285602/gta-6-is-reportedly-coming-to-pc-in-early-2027/",
+    "title": "GTA 6 is reportedly coming to PC in early 2027",
+    "description": "That would be a much smaller port time than GTA 5.",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-13T17:27:40+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/gta-6-is-reportedly-coming-to-pc-in-early-2027/l-intro-1791912367.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://9to5mac.com/2026/10/13/apple-tv-4k-and-homeview-the-best-and-worst-of-299/",
@@ -82,6 +141,18 @@
     "pub_date": "2026-10-13T17:18:16+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/volkswagen-chattanooga-plant-flags.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/arsenal-vs-lille-livestream-2026-champions-league-soccer-from-anywhere/",
+    "title": "Arsenal vs. Lille: Livestream 2026 Champions League Soccer From Anywhere",
+    "description": "The Gunners look to make it two UCL wins from two as they host the Ligue 1 outfit at the Emirates.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-13T17:17:11+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2299516915.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://www.techradar.com/pro/security/ai-model-self-replication-is-only-months-away-anthropic-says-and-it-doesnt-even-need-a-data-center-to-happen",
@@ -161,7 +232,6 @@
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
-      "Business & Startups",
       "Gadgets & Hardware",
       "Software & Apps"
     ],
@@ -1145,6 +1215,7 @@
     "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’",
     "description": "Siri can now learn users' preferred music app, allowing Spotify listeners to request songs, podcasts, and playlists without specifying which app to use.",
     "categories": [
+      "Breaking News",
       "Gadgets & Hardware",
       "Social & Media",
       "Software & Apps"
@@ -1539,7 +1610,6 @@
     "title": "Uber's head of autonomous mobility and delivery, Sarfraz Maredia, is leaving on November 16 after 12+ years at Uber, the latest exit from its autonomous unit (Natalie Lung/Bloomberg)",
     "description": "Natalie Lung / Bloomberg:\nUber's head of autonomous mobility and delivery, Sarfraz Maredia, is leaving on November 16 after 12+ years at Uber, the latest exit from its autonomous unit  —  An Uber Technologies Inc. executive overseeing the company's global autonomous efforts across ride-hailing and delivery will depart next month …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-13T13:35:01+00:00",
@@ -2298,74 +2368,5 @@
     "pub_date": "2026-10-13T11:20:23+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/brad-smith-microsoft-president-web-summit-stage.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/cameras/mirrorless-cameras/the-nikon-d500s-mirrorless-successor-is-tipped-for-a-2026-release-and-the-flagship-crop-sensor-camera-could-be-a-big-headache-for-canon-sony-and-fujifilm",
-    "title": "Nikon’s rumored D500 DSLR successor could raise the bar for crop-sensor mirrorless cameras",
-    "description": "Nikon could finally give the mirrorless treatment to its decade-old D500 DSLR — a flagship crop-sensor camera with rugged body and rapid shooting speeds.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-13T11:20:23+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/WVYrtLvpQbiPZcGJmwKSkY-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261013/p16#a261013p16",
-    "title": "Sources: US banking regulators are questioning banks about their deployment of agentic AI, use of Chinese-developed AI models, and autonomous system safeguards (Reuters)",
-    "description": "Reuters:\nSources: US banking regulators are questioning banks about their deployment of agentic AI, use of Chinese-developed AI models, and autonomous system safeguards  —  Banking regulators are stepping up efforts to contain growing AI risks, six people familiar with the matter said …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-13T11:20:08+00:00",
-    "image_url": "http://www.techmeme.com/261013/i16.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/microsofts-rtx-spark-surface-laptop-ultra-pre-orders-open-to-challenge-the-macbook-pro-in-local-ai",
-    "title": "Microsoft Surface Laptop Ultra RTX Spark pre-orders are now live",
-    "description": "Nvidia RTX Spark laptop pre-orders are now live, with the Surface Laptop Ultra offering businesses serious local AI processing power.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-13T11:18:53+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/rdH2giCzCAWn98zkkqKC8d-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/aramco-digital-orbitronai-industrial-ai-partnership",
-    "title": "Aramco Digital teams up with OrbitronAI to build AI for heavy industry",
-    "description": "Aramco Digital, the tech arm of Saudi oil giant Aramco, has teamed up with start-up OrbitronAI to build and sell AI tools for heavy industry, the two firms said. The tools are aimed at oil and gas, power, mining, transport, and factory firms. They are meant to help them find money lost to slow decisions, scattered data,",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-13T11:18:48+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/four-people-dark-suits-grey-studio-backdrop.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/health-fitness/fitness-trackers/this-marks-a-huge-advancement-for-automatic-tracking-googles-screenless-fitbit-air-will-soon-be-able-to-automatically-track-over-100-workouts-and-premium-subscribers-also-get-health-guardian-tools",
-    "title": "Your Fitbit Air is about to get much smarter thanks to Google’s next update",
-    "description": "The Fitbit Air is getting smarter workout detection tools, powered by a new LLM model for improved reliability.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-13T11:17:39+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Huinesp2gWdNj2cW8fmwET-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/health-fitness/smartwatches/we-didnt-set-out-to-build-a-mechanical-watch-garmin-coo-brad-trenkle-on-how-the-new-super-premium-garmin-marq-3rd-gen-range-packs-serious-smarts-into-a-heritage-watch-design",
-    "title": "'We didn't set out to build a mechanical watch': Garmin's  COO on the new Garmin Marq 3rd-Gen range",
-    "description": "An inside look at the new Garmin Marq 3rd Generation series — Garmin's best, most expensive watches.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-13T11:16:30+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/UncwAdquhnz5sLwx3HFZRn-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
