@@ -1,5 +1,54 @@
 [
   {
+    "link": "https://www.engadget.com/2285013/nasa-perseverance-rover-breaks-record-for-off-world-driving-distance/",
+    "title": "NASA's Perseverance rover breaks record for off-world driving distance",
+    "description": "NASA's Perseverance Mars rover just broke the record for the farthest distance traveled by any vehicle on another world.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-13T12:01:37+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/nasas-perseverance-rover-breaks-record-for-off-world-driving-distance/l-intro-1791892664.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/clueso-10m-series-a-video-agents",
+    "title": "Clueso raises $10M for AI agents that make corporate video",
+    "description": "Clueso has raised a $10M Series A led by Dharana Capital for AI agents that script, record and maintain corporate video, bringing total funding to $12M. The market it is entering is led by London’s Synthesia, which was valued at $4B in January after a $200M round. Clueso has raised a $10M Series A for",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-13T12:00:19+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/three-founders-smiling-brick-wall.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/batam-data-centres-water-protest",
+    "title": "Batam residents protest as data centres grow and their taps run dry",
+    "description": "Hundreds of people in Batam, an Indonesian island near Singapore, have protested outside a data centre park. They say their homes have had no running water for months while the facilities have kept their servers cool, the BBC reported. The protest took place on October 5 at the gate of Nongsa Digital Park, according to",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-10-13T11:56:04+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/protester-regulate-ai-placard-london-march.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/broadcom-hock-tan-ai-investors-casino-capital",
+    "title": "Broadcom CEO Hock Tan likens many AI investors to casino gamblers",
+    "description": "Broadcom chief executive Hock Tan compared many AI investors to gamblers who have little idea what they are betting on. He spoke on Monday at the DBS Asia Future Forward Conference in Singapore, Bloomberg reported. “A lot of investors have no clue what they are investing in,” Tan said. They “set very extreme expectations only",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-13T11:55:51+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/hock-tan-broadcom-ceo-portrait.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techradar.com/computing/gaming-laptops/this-rtx-5070-ti-gaming-laptop-with-32gb-of-ram-just-dropped-to-usd1-449-and-its-a-deal-worth-grabbing",
     "title": "This RTX 5070 Ti gaming laptop with 32GB of RAM just dropped to $1,449 — and it's a deal worth grabbing",
     "description": "Don't miss this $700 price cut on the Gigabyte A16 at Walmart - it's one of the best laptop deals I've seen in months.",
@@ -229,17 +278,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.techradar.com/streaming/disney-plus/visionquest-marvel-timeline",
-    "title": "VisionQuest creator reveals where it sits on the Marvel timeline — and it's not 2024",
-    "description": "VisionQuest's showrunner confirms where the Marvel TV series sits on the increasingly complex MCU timeline.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-13T11:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/xuQW6ZoTGohqyPmxoLfXbE-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/computing/windows-laptops/our-top-windows-11-laptops-of-2026-weve-tested-dozens-of-laptops-but-these-were-the-models-that-impressed-us-the-most",
     "title": "Our top Windows 11 laptops of 2026: all the models that impressed us most in our tough tests",
     "description": "If you're in the market for a new Windows laptop, here's a good place to start your search.",
@@ -248,6 +286,17 @@
     ],
     "pub_date": "2026-10-13T11:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/rVhsjamD6AYz28At5MuVo-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/streaming/disney-plus/visionquest-marvel-timeline",
+    "title": "VisionQuest creator reveals where it sits on the Marvel timeline — and it's not 2024",
+    "description": "VisionQuest's showrunner confirms where the Marvel TV series sits on the increasingly complex MCU timeline.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-13T11:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/xuQW6ZoTGohqyPmxoLfXbE-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2226,49 +2275,5 @@
     "pub_date": "2026-10-12T18:21:36+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/12/magsafe-monday-this-aluminum-magsafe-wallet-ejects-your-credit-card-with-one-click/",
-    "title": "MagSafe Monday: This aluminum MagSafe wallet ejects your credit card with one click",
-    "description": "My biggest annoyance with all types of wallets is when it This aluminum MagSafe card wallet takes a different approach with a side-mounted eject button that fans your cards up with a single press, so you can grab the one you need one-handed without pulling them all out. \n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-12T18:18:00+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/bradley.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/openai-dublin-applied-ai-lab",
-    "title": "OpenAI adds 200 Dublin jobs and builds its second applied AI lab",
-    "description": "OpenAI is adding 200 roles in Dublin and building an applied AI lab at its EU headquarters, taking planned Irish hiring to 450. The move lands two days before Ireland hosts the International AI Summit under its EU presidency. OpenAI is adding 200 jobs in Dublin and building an applied AI lab at its European",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-12T18:07:53+00:00",
-    "image_url": "https://media.thenextweb.com/2026/07/openai-dublin-250-jobs-european-headquarters-expansion.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/life/hinge-harassment-educational-warnings",
-    "title": "Hinge wants to re-educate bad daters instead of banning them",
-    "description": "Hinge is making flagged users complete a quick tutorial on basic chat etiquette before they can send another message.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-12T18:05:53+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04dKuBEh1HK4XKe6DTW8cN1/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2281493/alkaline-vs-lithium-ion-batteries-difference-between/",
-    "title": "What's the difference between alkaline and lithium-ion batteries?",
-    "description": "Alkaline and lithium-ion batteries serve very different purposes. Here's how they compare on lifespan, cost, rechargeability, and everyday use.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-12T18:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/whats-the-difference-between-alkaline-and-lithium-ion-batteries/l-intro-1791482220.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
