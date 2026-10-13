@@ -1,5 +1,86 @@
 [
   {
+    "link": "https://9to5mac.com/2026/10/13/apple-wins-early-access-to-openai-documents-and-employee-testimony-in-trade-secrets-lawsuit/",
+    "title": "Apple wins early access to OpenAI documents and employee testimony in trade secrets lawsuit",
+    "description": "Judge Edward Davila today granted some of Apple’s requests for expedited discovery in its trade secrets lawsuit against former employees, OpenAI, and io Products. Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-13T20:45:29+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261013/p42#a261013p42",
+    "title": "Xbox CEO Asha Sharma announces Xbox Labs, a small team to test emerging ideas, citing recent game ports and mashups, many of them built with AI tools (Jon Hicks/GamesIndustry.biz)",
+    "description": "Jon Hicks / GamesIndustry.biz:\nXbox CEO Asha Sharma announces Xbox Labs, a small team to test emerging ideas, citing recent game ports and mashups, many of them built with AI tools  —  New business unit is charged with testing new projects and judging them by user feedback, spurred by recent mashups and ports delivered with AI coding tools",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-13T20:40:59+00:00",
+    "image_url": "http://www.techmeme.com/261013/i42.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/wearables/this-trick-brings-back-google-assistant",
+    "title": "Not ready to give up Google Assistant? There's apparently a way to bring it back",
+    "description": "Someone found a way to bring Google Assistant back from the dead on Android",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-13T20:38:10+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/gUeBYtt4moE3svWBbrCjgA-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+    "description": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-13T20:36:44+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/marina-segal-tamnoon-cloud-remediation-say-no",
+    "title": "Marina Segal wants your cloud to say no",
+    "description": "Cloud security spent a decade learning to see everything. Half of what it found is still open. Tamnoon’s CEO says the next decade belongs to machines that know when not to act, and as of today she is publishing what hers refused. Marina Segal helped build the machines that see everything. She was at Dome9",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-13T20:35:59+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/marina-segal-tamnoon-cloud-remediation-say-no.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261013/p41#a261013p41",
+    "title": "Federal prosecutors say a Saudi national was arrested over bugging an OpenAI executive conference room; OpenAI found the audio recorder around September 30 (The San Francisco Standard)",
+    "description": "The San Francisco Standard:\nFederal prosecutors say a Saudi national was arrested over bugging an OpenAI executive conference room; OpenAI found the audio recorder around September 30  —  An OpenAI engineer has been arrested on suspicion of hiding an audio recording device in an executive conference room …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-13T20:34:10+00:00",
+    "image_url": "http://www.techmeme.com/261013/i41.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/tinygrad-refreshes-tinybox-with-an-old-epyc-cpu-running-ddr4-ram-to-feed-four-amd-9070xt-slaps-a-usd11-000-price-tag-on-a-new-computer-for-deep-learning",
+    "title": "Tinygrad refreshes Tinybox with an 'old' EPYC CPU running DDR4 RAM to feed four AMD 9070XT — slaps a $11,000 price tag on a new 'computer for deep learning'",
+    "description": "The Tinybox offers DDR4 and DDR5 platforms, Nvidia graphics options, optional RAID storage and water cooling, with configurations tailored to demanding deep-learning workloads.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-13T20:30:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/3gSaV5gd3YYghNJzmQvtJN-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
     "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
     "description": "Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.",
@@ -39,8 +120,8 @@
   },
   {
     "link": "https://www.techmeme.com/261013/p40#a261013p40",
-    "title": "OpenAI says the FBI arrested one of its staffers after the company found a hidden recording device in its offices and used its models to identify who placed it (@openainewsroom)",
-    "description": "@openainewsroom:\nOpenAI says the FBI arrested one of its staffers after the company found a hidden recording device in its offices and used its models to identify who placed it  —  We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and where it had come from, identifying that a specific employee had planted it a few days earlier. We referred the matter to the FBI, and we're grateful to the agen...",
+    "title": "OpenAI says the FBI arrested one of its staffers after the company found a hidden recording device in its offices and used its models to understand the device (@openainewsroom)",
+    "description": "@openainewsroom:\nOpenAI says the FBI arrested one of its staffers after the company found a hidden recording device in its offices and used its models to understand the device  —  We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and where it had come from, identifying that a specific employee had planted it a few days earlier. We referred the matter to the FBI, and we're grateful to the agen...",
     "categories": [
       "Tech News"
     ],
@@ -89,7 +170,6 @@
     "title": "Apple TV unveils new heist thriller series coming soon",
     "description": "Apple TV released the trailer today for ‘12 12 12,’ a new heist thriller series premiering next month. Here are the details and the trailer.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-13T19:41:50+00:00",
@@ -1090,7 +1170,6 @@
     "title": "Beta no more: Nothing OS 5 (Android 17) is rolling out for the Phone 3",
     "description": "A General Release is here for Nothing's Phone 3, bringing Android 17 (OS 5.0) to all users. Essential AI feature improvements, deeper customization, and a new typeface are highlighted.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-13T16:44:44+00:00",
@@ -1128,7 +1207,6 @@
     "description": "Jensen Huang says Nvidia will announce $2B of European investments within a week, on top of $8B over the past year, and named four French startups in Paris. Nvidia committed more than $40B to AI equity in the first four months of this year alone. Jensen Huang says Nvidia will announce $2B of European investments",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware"
     ],
@@ -2292,88 +2370,5 @@
     "pub_date": "2026-10-13T13:44:23+00:00",
     "image_url": "https://cdn.ex.co/transformations-account/production/a0be6317-e085-43f9-8cb5-7b125d25af4b/a4570735-5f9f-475e-aaca-20bb45971d9d/master.m3u8",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/pokemon-beats-pill-speaker-collab-where-to-buy",
-    "title": "Pokémon x Beats: Where to buy Pokémon collab that turns the Beats Pill into a Pikachu-themed speaker",
-    "description": "Beats by Dre and The Pokémon Company officially revealed the Pokémon x Beats Pill speaker featuring Pikachu and Mimikyu. Dropping Oct. 15 for $149.99.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-13T13:40:51+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03PamIOtyauPx0XwCGPdyhN/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
-    "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag",
-    "description": "The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30.",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-13T13:38:03+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-will-soon-start-secretly-watermarking-its-answers-heres-what-that-means-for-the-text-you-copy-and-share",
-    "title": "ChatGPT will soon start secretly watermarking its answers — here's what that means for the text you copy and share",
-    "description": "OpenAI is preparing to watermark ChatGPT's text — and you might never even notice it's there.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-10-13T13:37:30+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/EoGmdNQvdM9usyKCgheR6K-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
-    "title": "Apple’s new smart home lineup includes a smart lock, thermostat, and video doorbells",
-    "description": "The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps.",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-13T13:37:19+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techradar.com/ai-platforms-assistants/apple-intelligence/i-tried-the-new-mac-app-that-helps-you-ditch-apple-intelligence-and-it-saved-me-12gb-of-storage-too",
-    "title": "This new Mac app helps you delete Apple Intelligence and saved me 12GB",
-    "description": "The RemoveMacAI app deletes Apple Intelligence and reclaims storage space on your Mac.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-13T13:35:12+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/BRUVfdktiog2wbLP8NGoLY-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261013/p23#a261013p23",
-    "title": "Uber's head of autonomous mobility and delivery, Sarfraz Maredia, is leaving on November 16 after 12+ years at Uber, the latest exit from its autonomous unit (Natalie Lung/Bloomberg)",
-    "description": "Natalie Lung / Bloomberg:\nUber's head of autonomous mobility and delivery, Sarfraz Maredia, is leaving on November 16 after 12+ years at Uber, the latest exit from its autonomous unit  —  An Uber Technologies Inc. executive overseeing the company's global autonomous efforts across ride-hailing and delivery will depart next month …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-13T13:35:01+00:00",
-    "image_url": "http://www.techmeme.com/261013/i23.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/13/apple-unveils-apple-home-collection-smart-home-accessories-developed-with-lg-and-schneider/",
-    "title": "Apple unveils Apple Home Collection smart home accessories developed with LG and Schneider",
-    "description": "Apple today confirmed that it is working with at least two third-party companies to develop a new lineup of smart home accessories, including cameras, thermostats, and a smart lock. Here are the details.\n\n\n\n more…",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-13T13:30:06+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-home-collection.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
