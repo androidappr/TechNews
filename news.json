@@ -1,5 +1,44 @@
 [
   {
+    "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+    "title": "Shopify opens its catalog up to more AI agents",
+    "description": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify's catalog. (The catalog consists",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-13T19:42:42+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/10/13/apple-tv-unveils-new-heist-thriller-series-coming-soon/",
+    "title": "Apple TV unveils new heist thriller series coming soon",
+    "description": "Apple TV released the trailer today for ‘12 12 12,’ a new heist thriller series premiering next month. Here are the details and the trailer.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-13T19:41:50+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/anthony-mackie-snow-12-12-12-2.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+    "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+    "description": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Cybersecurity & Privacy",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-13T19:35:29+00:00",
+    "image_url": "https://media.wired.com/photos/6ace48fd005dc85af95e36ae/master/pass/101326-Big%20Four%20UK%20parliment.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/10/13/homeview-apple-tv-4k-and-more-now-available-for-amazon-pre-order/",
     "title": "HomeView, Apple TV 4K, and more now available for Amazon pre-order",
     "description": "Apple today unveiled its next big foray into the smart home world, including the new HomeView smart display and a new Apple TV 4K. Following Apple’s announcement, the new Apple home gear is also now available for pre-order on Amazon:\n\n\n\n\nHomeView: $299\n\n\n\nApple TV 4K: $299\n\n\n\nApple TV Siri Remote: $59\n\n\n\nHomePod mini 2: $149\n\n\n\n\n more…",
@@ -866,18 +905,6 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://www.theverge.com/tech/1010086/cars-google-built-in-redesigned-play-store",
-    "title": "A redesigned Play Store is coming to cars with Google built-in",
-    "description": "The Google Play Store is getting a big update for cars with Google built-in. On Tuesday, the company announced that the Play Store's layout will now automatically adapt to the size and layout of your car's screen while making it easier to find and download new apps. The update, which is rolling out in the",
-    "categories": [
-      "Breaking News",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-13T17:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/GoogleAuto_Blogpost_Play_HorizontalUI_final-1.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio/",
     "title": "Google will let you distribute vibe-coded Android apps with just a Google account",
     "description": "The company is revamping the Play Store for the AI era with changes to publishing, recommendations and more.",
@@ -924,6 +951,18 @@
     "pub_date": "2026-10-13T17:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/02fsMR5g84CVHYD3jbdY4fd/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1010086/cars-google-built-in-redesigned-play-store",
+    "title": "A redesigned Play Store is coming to cars with Google built-in",
+    "description": "The Google Play Store is getting a big update for cars with Google built-in. On Tuesday, the company announced that the Play Store's layout will now automatically adapt to the size and layout of your car's screen while making it easier to find and download new apps. The update, which is rolling out in the",
+    "categories": [
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-13T17:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/GoogleAuto_Blogpost_Play_HorizontalUI_final-1.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.techradar.com/pro/uplift-4-leg-standing-desk-review",
@@ -1777,14 +1816,14 @@
   },
   {
     "link": "https://www.cnet.com/home/smart-home/apple-homepod-mini-2-same-look-but-so-much-siri-ai/",
-    "title": "Apple HomePod Mini 2: Same Look but So Much Siri AI",
-    "description": "The new Apple smart speaker, announced Tuesday, promises unique Siri interactions.",
+    "title": "Apple HomePod Mini 2: Hands-On Impressions, Siri AI and More",
+    "description": "We saw and heard Apple’s new HomePod mini today. Here’s what you should know.",
     "categories": [
       "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-13T14:48:42+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-HomePod-Mini-2-First-Look.jpg",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/HomePod-Mini-2-Close-Shot.jpg",
     "source_name": "CNET.COM"
   },
   {
@@ -2340,41 +2379,5 @@
     "pub_date": "2026-10-13T13:18:00+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/reader-holding-new-york-times-international-edition.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
-    "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
-    "description": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13.",
-    "categories": [
-      "Breaking News",
-      "Business & Startups",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-13T13:16:11+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/",
-    "title": "Apple makes another push into the smart home market with HomeView",
-    "description": "Apple is taking a big swing at the smart home market with its latest product that competes with Amazon Echo Show and Google Nest Hub.",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-13T13:15:46+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2281992/why-phone-overheating-while-using-android-auto-carplay/",
-    "title": "Why is your phone overheating while using CarPlay or Android Auto?",
-    "description": "CarPlay and Android Auto do a great job of projecting your phone onto your vehicle's dash. However, certain stresses can cause it to overheat and play up.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-13T13:15:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/why-is-your-phone-overheating-while-using-carplay-or-android-auto/l-intro-1791540398.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
