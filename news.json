@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.engadget.com/2282398/mini-displayport-becoming-obsolete/",
+    "title": "Is Mini DisplayPort becoming obsolete?",
+    "description": "Mini DisplayPort was on lots of computers for a time, but it's not nearly as common now thanks to more modern standards.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-13T23:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/is-mini-displayport-becoming-obsolete/l-intro-1791563878.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/russia-resorts-to-desperate-world-war-one-defence-technique-to-protect-its-oil-refineries-floating-barrage-balloons-failed-to-curtail-v1s-and-are-unlikely-to-succeed-against-uavs",
     "title": "Russia resorts to desperate World War One defence technique to protect its oil refineries — floating barrage balloons failed to curtail V1s and are unlikely to succeed against UAVs",
     "description": "Russia’s anti-drone measures take an historical turn as it employs altitude-adjusting balloons, but are they suited to defending unmanned strikes, or simply for show?",
@@ -162,6 +173,17 @@
     "pub_date": "2026-10-13T23:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/XrpFgcngWrtXQscKdLLAZB-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
+    "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+    "description": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-13T22:48:12+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2017/06/GettyImages-803564026-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://mashable.com/tech/robot-sexual-assault-teens-under-investigation",
@@ -707,8 +729,7 @@
     "title": "Shopify opens its catalog up to more AI agents",
     "description": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify's catalog. (The catalog consists",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-13T19:42:42+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0,0,100,100",
@@ -731,7 +752,6 @@
     "description": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Cybersecurity & Privacy",
       "Social & Media"
@@ -1321,7 +1341,6 @@
     "description": "Google will let anyone over 18 with a Google account publish privately listed Android apps built in its AI Studio, with no paid developer account. Apple spent this year tightening its own store against the same kind of software. Google will let anyone over 18 with a Google account publish an Android app to the",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-13T17:35:09+00:00",
@@ -1333,7 +1352,6 @@
     "title": "Google says users with a standard account can now build personal Android apps for free in AI Studio and will be able to share them with friends in coming months (Artie Beaty/ZDNET)",
     "description": "Artie Beaty / ZDNET:\nGoogle says users with a standard account can now build personal Android apps for free in AI Studio and will be able to share them with friends in coming months  —  It just got a whole lot easier to vibe code the exact Android app you need - no developer experience required.  —  ZDNET's key takeaways",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-13T17:35:02+00:00",
@@ -2300,27 +2318,5 @@
     "pub_date": "2026-10-13T15:17:59+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-516604291-1024x648.jpg",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2285334/apple-iphone-market-share-rose-despite-a-downturn-in-smartphone-shipments/",
-    "title": "Apple's iPhone market share rose despite a downturn in smartphone shipments",
-    "description": "Samsung and Apple had decent quarters, while Xiaomi, Oppo and Vivo had a terrible Q3.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-13T15:15:21+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/apples-iphone-market-share-rose-despite-a-downturn-in-smartphone-shipments/l-intro-1791904418.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.cnet.com/home/smart-home/apple-home-event-homeview-homepod-tv-lg-schneider/",
-    "title": "HomeView and More: Everything Apple Announced at Its ‘Welcome Home’ Event",
-    "description": "Apple is making a sweeping new entry into home tech.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-13T15:15:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-HomeView-color-family-261013_big.jpg.large_2x.jpg",
-    "source_name": "CNET.COM"
   }
 ]
