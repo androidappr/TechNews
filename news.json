@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/",
+    "title": "Electric vehicle sales in the U.S. are showing signs of life",
+    "description": "The electric vehicle market in the U.S. has been growing for the last three consecutive quarters.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-14T20:12:07+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261014/p39#a261014p39",
+    "title": "Sources: Apple plans to launch Apple Intelligence in China in December via iOS 27.3, with features first rolled out in 2024; the launch won't include Siri AI (Mark Gurman/Bloomberg)",
+    "description": "Mark Gurman / Bloomberg:\nSources: Apple plans to launch Apple Intelligence in China in December via iOS 27.3, with features first rolled out in 2024; the launch won't include Siri AI  —  Apple Inc. is gearing up to release its artificial intelligence platform in mainland China, following a lengthy regulatory delay …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-14T20:05:02+00:00",
+    "image_url": "http://www.techmeme.com/261014/i39.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
+    "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+    "description": "We've all gotten a scam text about a nonexistent parking ticket or a fake package delivery, but hopefully you'll start seeing fewer of them. Microsoft says it helped dismantle a marketplace for scammers sending phishing messages like those around the world. Through an investigation with Japan's National Police Agency, it tracked scam activity back to",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-14T20:03:43+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318439/akrales_220309_4977_0324.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
     "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
     "description": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
@@ -10,6 +45,17 @@
     "pub_date": "2026-10-14T20:00:00+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/openai-engineer-charged-one-way-ticket",
+    "title": "The charged OpenAI engineer had a one-way ticket out of the US, a filing shows",
+    "description": "Abdulrahman Alfozan, the OpenAI engineer charged over a hidden recording device, had one-way tickets to Saudi Arabia booked for three days after his arrest, according to a court filing. He has entered no reported plea and is presumed innocent. The OpenAI engineer charged over a hidden recording device had a one-way ticket out of the",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-10-14T19:58:31+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/openai-models-escaped-hacked-hugging-face.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://9to5mac.com/2026/10/14/elevationlab-pulls-airtag-silencer-after-backlash-over-stalking-concerns/",
@@ -23,6 +69,17 @@
     "source_name": "9TO5MAC.COM"
   },
   {
+    "link": "https://mashable.com/life/hood-warfare-viral-controversy-rdcworld",
+    "title": "Hood Warfare 2, a $5 gang shooter on Steam, is going viral",
+    "description": "Hood Warfare 2, a $5 Steam shooter set in Chicago, went viral this week.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-14T19:55:29+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/07FuVrsqfZU6EAP8KekIhkc/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
     "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
     "description": "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant.",
@@ -32,6 +89,18 @@
     "pub_date": "2026-10-14T19:51:34+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/gta-6-cyberleek-update-memecoin-crashing-crypto-play-failed",
+    "title": "GTA 6 Cyberleek update: Leaker linked GTA 6 reveals to crypto play. It’s crashing spectacularly.",
+    "description": "Grand Theft Auto VI  leakers failed to hit memecoin goal and will hold off on releasing the game.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-14T19:40:59+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/06UjEW29dJSQirgGT098fMG/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://thenextweb.com/news/huang-cut-off-unsafe-ai-customers",
@@ -812,7 +881,6 @@
     "title": "OpenAI names Uday Ruddarraju, who joined OpenAI last year and was promoted as CTO for compute in July, to lead its infrastructure and compute businesses (Dina Bass/Bloomberg)",
     "description": "Dina Bass / Bloomberg:\nOpenAI names Uday Ruddarraju, who joined OpenAI last year and was promoted as CTO for compute in July, to lead its infrastructure and compute businesses  —  OpenAI has named former xAI executive Uday Ruddarraju to lead its infrastructure and compute businesses, marking the latest leadership shakeup …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-14T16:05:01+00:00",
@@ -1056,6 +1124,7 @@
     "title": "Alibaba AI models cleared for use in Apple Intelligence in China just in time for the iPhone Duo launch",
     "description": "Apple's integrated AI system is still yet to be rolled out in mainland China, despite launching nearly two years ago.",
     "categories": [
+      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-14T15:36:33+00:00",
@@ -1563,7 +1632,6 @@
     "title": "Salience Labs, which develops specialized all-optical circuit switching tech for AI data centers, raised a $125M Series B led by Bullhound Capital (Mike Wheatley/SiliconANGLE)",
     "description": "Mike Wheatley / SiliconANGLE:\nSalience Labs, which develops specialized all-optical circuit switching tech for AI data centers, raised a $125M Series B led by Bullhound Capital  —  A startup called Salience Labs Inc. wants to play a bigger role in speeding up artificial intelligence workloads after raising $125 million in a Series B funding.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-14T14:10:02+00:00",
@@ -2267,74 +2335,5 @@
     "pub_date": "2026-10-14T12:05:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/RS98vpkgSPMeGnEDabKD7d-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/best-standing-desk-deals",
-    "title": "Standing desk deals for October 2026: Top sales on sit-stand workstations from Vari, Uplift, FlexiSpot, and more",
-    "description": "The right setup changes how your whole working day feels — so I've selected the top sit-stand desk deals for the office and home office.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-14T12:03:16+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/7BzM9HCirCpbMKjK6VMH9N-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.cnet.com/home/smart-home/apple-homeview-hands-on/",
-    "title": "Apple Tried Hard to Sell Me on the HomeView as a Seamless Smart Home Experience and Succeeded",
-    "description": "I’m not easily impressed when it comes to smart home hubs, here’s why the HomeView is different.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-14T12:03:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/DSC0909.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261014/p14#a261014p14",
-    "title": "Bengaluru-based Scimplify, which uses AI agents and 500+ partner manufacturing facilities to accelerate chemical production, raised $25M led by Hitachi Ventures (Jagmeet Singh/TechCrunch)",
-    "description": "Jagmeet Singh / TechCrunch:\nBengaluru-based Scimplify, which uses AI agents and 500+ partner manufacturing facilities to accelerate chemical production, raised $25M led by Hitachi Ventures  —  As manufacturers across industries strive to reduce their reliance on Chinese suppliers, Indian startup Scimplify has raised $25 million …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-14T12:00:53+00:00",
-    "image_url": "http://www.techmeme.com/261014/i14.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/forgepoint-9-8m-seed-ai-quoting-manufacturers-frank",
-    "title": "Forgepoint raises $9.8M to help manufacturers quote faster",
-    "description": "American manufacturers can often make a part faster than they can get a quote back to the customer asking for it. That mismatch is the result of decades of automation reaching the shop floor, but rarely the office around it. Forgepoint is tackling that with Frank, an AI Inside Sales Rep built for manufacturing. Frank",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-14T12:00:37+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/forgepoint-founders-factory-floor-forklift.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/evos-9m-pre-seed-autonomous-operators-physical-economy",
-    "title": "Evos raises $9M to bring autonomous operators to industrial businesses",
-    "description": "Evolutionary Operating System, Inc. (Evos), the company building autonomous operators for the physical economy, came out of stealth, announcing $9M in pre-seed funding. Uncork Capital and Field Ventures co-led the round. Crosslink Capital, Utopia Capital Management, Sandwith Ventures, and angel investors also participated. Evos operators learn a job from a company’s most experienced people and",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-14T12:00:34+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/evos-founder-urav-shah-first-employees-office.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2286321/cmfs-first-portable-speakers-are-shaped-like-milk-cartons-and-pair-together-hands-on/",
-    "title": "CMF's first portable speakers are shaped like milk cartons and pair together",
-    "description": "Nothing's sister company CMF announced some playful bluetooth speakers that can be paired together and even work with Auracast.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-14T12:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/cmfs-first-portable-speakers-are-shaped-like-milk-cartons-and-can-be-paired-together/l-intro-1791976332.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
