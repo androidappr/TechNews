@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+    "title": "The AI race is back on",
+    "description": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-14T19:06:03+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
     "title": "Hiyd is a health tracker that attaches to the watch you already wear",
     "description": "Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any magnets or adhesives.",
@@ -10,6 +22,17 @@
     "pub_date": "2026-10-14T19:00:00+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techradar.com/audio/wireless-headphones/sony-wh-ch730n-review",
+    "title": "Sony WH-CH730N review: affordable headphones done right",
+    "description": "I’ve spent weeks testing the Sony WH-CH730N, and their impressive bass, strong feature-set, and long battery life mean that they’re a great value buy.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-14T19:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/AWboqDtVM42ciqFEYJW8S-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://www.techradar.com/pro/as-physical-media-makes-a-massive-comeback-this-frankenstein-7-in-1-dvd-and-ssd-hub-drops-to-usd45-at-amazon",
@@ -24,7 +47,7 @@
   },
   {
     "link": "https://www.androidcentral.com/wearables/samsung-galaxy-watch/samsung-healths-update-sleep-and-running-coaches-get-the-right-changes",
-    "title": "Samsung Health's update is all treats: Sleep and Running Coaches get the right changes",
+    "title": "Samsung Health update is all treats: Sleep and Running Coaches get needed changes",
     "description": "Samsung Health app introduces major updates to its Sleep and Running coaches in October. Training levels increase to 12, and the Sleep Coach offers better insights.",
     "categories": [
       "Breaking News",
@@ -1061,7 +1084,6 @@
     "description": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Crypto & Web3",
       "Science & Environment",
@@ -1112,8 +1134,7 @@
     "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
     "description": "Zenzap is used by organizations including Starbucks and Taco Bell.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-14T15:08:00+00:00",
     "image_url": null,
@@ -2322,27 +2343,5 @@
     "pub_date": "2026-10-14T11:10:01+00:00",
     "image_url": "http://www.techmeme.com/261014/i13.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/ofcom-x-illegal-hate-content-grok-investigation",
-    "title": "Ofcom says it still has concerns over how X removes illegal hate content",
-    "description": "Britain’s online safety regulator, Ofcom, says it still has concerns about how well X removes illegal hate and terror content. This comes even though X is now reviewing these reports more quickly. In May, X promised to review posts reported through its UK illegal content tool within 24 hours on average. The company also said",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-14T11:09:09+00:00",
-    "image_url": "https://media.thenextweb.com/2026/05/xai-cursor-gun-jumping-antitrust-spacex-ipo.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/north-korean-it-workers-doj-charges-laptop-farms",
-    "title": "US charges 14 over North Korean IT worker scheme at more than 70 companies",
-    "description": "The US Justice Department has charged 14 people over a North Korean job scam, announced on Tuesday. North Korean IT workers used stolen names to get remote jobs at more than 70 US firms. The workers earned about $3 million, which went to North Korean groups under US sanctions, prosecutors believe. The firm works in",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-14T11:01:03+00:00",
-    "image_url": "https://media.thenextweb.com/2026/08/The-US-Justice-Department.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
