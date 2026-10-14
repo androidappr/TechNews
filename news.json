@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+    "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+    "description": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and  Peter Diamandis has launched a new fund to back startups who use it.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-14T21:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/",
+    "title": "Trump Aides Admit the House is a Lost Cause",
+    "description": "With the midterm elections just a few weeks away, the White House knows it has to go all in on Senate races—while virtually forfeiting the House.",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-14T21:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ace7cf375ef8eec0d5b4a47/master/pass/politics_white_house_midterms_trump.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/10/14/ios-27-adds-brand-new-widgets-for-your-iphones-home-screen/",
     "title": "iOS 27 adds brand new widgets for your iPhone’s Home Screen",
     "description": "iOS 27 expands the available options to customize your Home Screen with new extra-large widgets that will be especially useful on iPhone Duo. Here’s the full list of 15+ pre-installed widgets iOS 27 introduces.\n\n\n\n more…",
@@ -39,7 +64,7 @@
   {
     "link": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
     "title": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
-    "description": "Flock CEO Garrett Langley said that the surveillance company has not cancelled contracts of any police department or law enforcement agency, despite reports of abuse.",
+    "description": "Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.",
     "categories": [
       "Cybersecurity & Privacy",
       "Government & Policy"
@@ -691,7 +716,6 @@
     "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
     "description": "Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of mosquito-borne disease risks.",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Science & Environment"
     ],
@@ -705,7 +729,6 @@
     "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past 100 days or so, my mornings have had a new rhythm. When I wake up, the first",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-10-14T17:00:00+00:00",
@@ -751,7 +774,6 @@
     "title": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
     "description": "Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef” because its distinct shape strongly resembles the musical symbol. The researchers discovered the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-14T16:46:58+00:00",
@@ -1557,7 +1579,6 @@
     "title": "Netflix to lay off 1,000 staff amid intensifying competition for user attention",
     "description": "Netflix said most of the cuts would affect its product, tech, legal, and human resources departments.",
     "categories": [
-      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-10-14T14:55:47+00:00",
@@ -2310,28 +2331,5 @@
     "pub_date": "2026-10-14T12:46:44+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/three-executives-signing-table-skeleton-siemens-screen.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/inmune-bio-quantum-computing-alzheimers-xpro-partnership",
-    "title": "INmune Bio and Quantum Computing partner to apply quantum optimization and AI to advance Alzheimer’s drug research and explore new applications for XPro",
-    "description": "Boca Raton, Florida, October 14th, 2026, Financewire Collaboration combines INmune Bio’s clinical research with QCi’s Dirac-3S quantum optimization machine to identify potential new treatment indications and biomarkers for XPro. Initial engagement marks QCi’s first commercial customer in pharmaceutical and biotechnology markets, expanding the application of quantum computing to drug development. INmune Bio Inc. (Nasdaq: INMB)",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-14T12:45:43+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/inmune-bio-quantum-computing-alzheimers-xpro-partnership.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261014/p17#a261014p17",
-    "title": "Harmonic Security, which uses small language models to inspect employee interactions with AI tools, raised a $50M Series B, taking its total funding to $76M (Duncan Riley/SiliconANGLE)",
-    "description": "Duncan Riley / SiliconANGLE:\nHarmonic Security, which uses small language models to inspect employee interactions with AI tools, raised a $50M Series B, taking its total funding to $76M  —  Workplace artificial intelligence security startup Harmonic Security Inc. today announced it has raised $50 million in new funding …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-14T12:40:01+00:00",
-    "image_url": "http://www.techmeme.com/261014/i17.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
