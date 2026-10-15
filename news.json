@@ -134,6 +134,18 @@
     "source_name": "CNET.COM"
   },
   {
+    "link": "https://www.techradar.com/computing/internet/united-airlines-now-has-more-than-635-aircraft-equipped-with-starlink-wi-fi-and-its-finally-releasing-a-tool-to-track-if-yours-will",
+    "title": "United Airlines has a new tool to check if your flight has Starlink Wi-Fi — and it’s about time",
+    "description": "The satellite internet now active on more than 635 aircraft across its mainline and regional fleets.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-15T12:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/8TgwRXXMjei6Es4z9yURjK-1920-80.gif",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://mashable.com/life/pokemon-center-holiday-collection-2026-where-to-buy",
     "title": "The Pokémon 2026 holiday collection has dropped — shop now to score a free sticker sheet",
     "description": "The Pokémon Center dropped its 2026 Winter Night Sky holiday line featuring ornaments, knit sweaters, figures, and a free gift with purchase.",
@@ -868,7 +880,6 @@
     "description": "A fleet of AI agents running on Tencent Cloud made more than 2,600 attempts to pull data from Amap, Alibaba’s map service, between 28 September and 8 October. That is the main finding of a full report published on 14 October by independent researchers who track AI agent activity online. The group first shared preliminary",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-10-15T08:18:51+00:00",
@@ -1041,7 +1052,6 @@
     "title": "Your dusty Nest and Home speakers just got a surprise firmware lifeline",
     "description": "Google’s latest Home update gives aging Nest speakers a reason to stick around.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-15T06:20:38+00:00",
@@ -2267,16 +2277,5 @@
     "pub_date": "2026-10-14T20:00:00+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/openai-engineer-charged-one-way-ticket",
-    "title": "The charged OpenAI engineer had a one-way ticket out of the US, a filing shows",
-    "description": "Abdulrahman Alfozan, the OpenAI engineer charged over a hidden recording device, had one-way tickets to Saudi Arabia booked for three days after his arrest, according to a court filing. He has entered no reported plea and is presumed innocent. The OpenAI engineer charged over a hidden recording device had a one-way ticket out of the",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-14T19:58:31+00:00",
-    "image_url": "https://media.thenextweb.com/2026/07/openai-models-escaped-hacked-hugging-face.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
