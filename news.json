@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://9to5mac.com/2026/10/15/apple-svp-greg-joswiak-we-dont-feel-threatened-by-openai-hardware-plans/",
+    "title": "Apple SVP Greg Joswiak: ‘We don’t feel threatened’ by OpenAI hardware plans",
+    "description": "Today in a new story at TIME, the publication interviewed CEO John Ternus but also spoke to Greg “Joz” Joswiak, Apple’s SVP of Worldwide Marketing, who addressed the “lunatic fringe” of AI in Silicon Valley, hardware threats from OpenAI, and more.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-15T15:05:02+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/greg-joz-joswiak-event-sep-2026-1.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+    "title": "AI agents are coming to Rivian’s cars",
+    "description": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-15T15:02:36+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera",
+    "title": "Shelly’s new presence sensor simultaneously detects up to ten people without a camera",
+    "description": "Following the launch of its $50 subscription-free security camera last month, Shelly announced another new accessory for smart home automation today that can keep track of multiple people as they move through rooms or large spaces without recording them. The Shelly Presence Gen4 sensor uses mmWave radar technology instead of a camera to detect the",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-15T15:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/shelly1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai/",
+    "title": "Nvidia’s new Nemotron 3.5 Super VL is another step forward for US open-weight AI",
+    "description": "Nvidia’s new models join a wave of open-weight releases from US labs on the heels of the Hugging Face hack.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-15T15:00:00+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Nemotron-3.5-Super-VL-image.png",
+    "source_name": "ZDNET.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/security/what-appears-to-be-a-simple-scam-message-is-often-the-visible-end-of-a-much-larger-transnational-cybercriminal-operation-microsoft-leads-global-takedown-of-phishing-network-which-sent-over-a-billion-messages",
     "title": "'What appears to be a simple scam message is often the visible end of a much larger transnational cybercriminal operation': Microsoft leads global takedown of phishing network which sent over a billion messages",
     "description": "An investigation into a phishing campaign led researchers to a sprawling underground store for stolen accounts and criminal activity.",
@@ -21,6 +69,18 @@
     "pub_date": "2026-10-15T14:59:02+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/z6mvJCEn7xS3ZVU3rSrT9o-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/",
+    "title": "Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance",
+    "description": "NASA’s Artemis II mission sent four astronauts around the Moon and brought them safely back to Earth, laying a foundation for crewed flights to the Moon’s surface. Additional engineering data analysis of the Orion spacecraft’s heat shield confirmed initial data showing the heat shield performed as expected.   In particular, NASA measured whether the thermal protection",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-15T14:57:21+00:00",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/combineda1anda2-heatshield4k.jpg?w=2048",
+    "source_name": "NASA.GOV"
   },
   {
     "link": "https://www.theverge.com/tech/1012003/microsoft-windows-11-new-photos-app-onedrive-icloud",
@@ -1088,7 +1148,6 @@
     "title": "AI industry extinction warnings are genuine rather than corporate plots for regulatory capture or hype, and they go as far back as the mid-2000s and the 2010s (Scott Alexander/Astral Codex Ten)",
     "description": "Scott Alexander / Astral Codex Ten:\nAI industry extinction warnings are genuine rather than corporate plots for regulatory capture or hype, and they go as far back as the mid-2000s and the 2010s  —  AI companies like Anthropic and OpenAI have long mentioned the possibility that their products could be existentially dangerous …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-15T11:15:01+00:00",
@@ -1527,8 +1586,7 @@
     "title": "Bank of America CEO says 1,000 contractors are fixing AI-exposed flaws",
     "description": "Bank of America brought in about 1,000 outside contractors in the second quarter to repair software weaknesses exposed by AI models, chief executive Brian Moynihan said on 14 October. One of those models, he said, was Anthropic’s Mythos. Moynihan disclosed the figure in an interview with CNBC after the bank reported third-quarter results, and discussed it again",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-15T09:12:00+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/brian-moynihan-portrait-us-dhs-flags.avif",
@@ -2255,62 +2313,5 @@
     "pub_date": "2026-10-15T01:05:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/f4bc45Y5nPZS2UKRydrrYH-1920-80.png",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-    "description": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-15T01:01:32+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/services-and-software/apple-maps-gets-a-ticket-to-austin-for-the-f1-grand-prix/",
-    "title": "Apple Maps Gets a Ticket to Austin for the F1 Grand Prix",
-    "description": "Whether you’re in town for the United States Grand Prix or scoping out a visit, Apple Maps now has more details for Austin.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-15T01:01:12+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/apple-maps-f1-austin-main.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
-    "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
-    "description": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.",
-    "categories": [
-      "Cybersecurity & Privacy",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-15T00:49:31+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261014/p50#a261014p50",
-    "title": "OpenAI agrees not to use trade secrets that Apple claims were stolen while their lawsuit plays out, and to collect forensic images of 14 employees' devices (Bloomberg)",
-    "description": "Bloomberg:\nOpenAI agrees not to use trade secrets that Apple claims were stolen while their lawsuit plays out, and to collect forensic images of 14 employees' devices  —  OpenAI agreed not to use trade secrets that Apple Inc. claims were stolen by employees who defected from the iPhone maker …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-15T00:45:08+00:00",
-    "image_url": "http://www.techmeme.com/261014/i50.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
-    "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
-    "description": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-15T00:30:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
