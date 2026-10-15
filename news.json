@@ -1,5 +1,66 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+    "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+    "description": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-15T14:30:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+    "title": "Google’s Universal Cart shopping tool launches in the US",
+    "description": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-15T14:29:33+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves/",
+    "title": "Chandra Finds Possible Origin of ‘Treble Clef’ Waves",
+    "description": "A formation of radio waves looks remarkably like a treble clef in this Oct. 14, 2026, image from NASA’s Chandra X-Ray Observatory. Researchers used Chandra to find that the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision of two galaxy clusters. Read more about this discovery.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-15T14:19:06+00:00",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/trebleclef-lg.jpg?w=2048",
+    "source_name": "NASA.GOV"
+  },
+  {
+    "link": "https://www.techradar.com/vpn/private-internet-access-adds-10-new-server-locations-to-its-network-but-it-seems-the-truth-is-better-than-pia-lets-on",
+    "title": "Private Internet Access adds 10 new server locations to its network – but it seems the truth is better than PIA lets on",
+    "description": "Private Internet Access has announced a handful of new servers as part of its ongoing expansion – but we think the firm’s actual numbers are even better than it claims",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-15T14:18:58+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/AJPCJ3YJJ4c8qVCqkUv4bZ-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/seagates-16tb-ironwolf-nas-hard-drive-is-a-massive-storage-upgrade-with-usd119-off-at-newegg",
+    "title": "This 16TB Seagate IronWolf NAS hard drive is now 15% cheaper",
+    "description": "This 16TB Seagate IronWolf NAS hard drive packs serious storage capacity, and Newegg has cut the price significantly.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-15T14:17:24+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/CbuuUqPywqRcxWKKpUazd4-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/10/15/john-ternus-talks-iphone-duo-cheap-and-crappy-foldables-in-new-interview/",
     "title": "John Ternus talks iPhone Duo, ‘cheap and crappy’ foldables in new interview",
     "description": "TIME has just published its list of the best inventions of 2026, and iPhone Duo made the list with John Ternus featured on the magazine cover. Here’s what Ternus said in his interview with TIME.\n\n\n\n more…",
@@ -651,19 +712,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android",
-    "title": "Ledger’s new hardware wallet is an Android phone without the phone",
-    "description": "Ledger has announced its latest crypto-centric hardware effort, the Android-based Atom, a device that resembles a phone but is instead designed to be used alongside one. It arrives at a tricky time for Ledger, which has been forced to cease sales of some of its hardware across southeast Asia following hardware tampering in its supply",
-    "categories": [
-      "Breaking News",
-      "Crypto & Web3",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-15T12:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ledger-Atom-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.engadget.com/2287245/bee-frontier-bee-eclipse-bee-pro-launch/",
     "title": "Bee unveils two AI note-taking devices, its first new products since being acquired by Amazon",
     "description": "The Eclipse and Frontier are cheap and colorful, but you'll need a Pro subscription to make the most of them.",
@@ -722,6 +770,19 @@
     "pub_date": "2026-10-15T12:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/8TgwRXXMjei6Es4z9yURjK-1920-80.gif",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android",
+    "title": "Ledger’s new hardware wallet is an Android phone without the phone",
+    "description": "Ledger has announced its latest crypto-centric hardware effort, the Android-based Atom, a device that resembles a phone but is instead designed to be used alongside one. It arrives at a tricky time for Ledger, which has been forced to cease sales of some of its hardware across southeast Asia following hardware tampering in its supply",
+    "categories": [
+      "Breaking News",
+      "Crypto & Web3",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-15T12:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ledger-Atom-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
@@ -2248,60 +2309,5 @@
     "pub_date": "2026-10-14T23:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/XrpFgcngWrtXQscKdLLAZB-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.cnet.com/news/privacy/calls-and-messaging-android-security-options/",
-    "title": "Android Strengthens Scam Defenses for Calls and Texts",
-    "description": "Changes for tools including Google Messages, screen sharing and call forwarding are all aimed at countering mobile fraud.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-14T22:55:04+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/02bfe068-73fd-4cac-aca3-970e07949c97.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261014/p46#a261014p46",
-    "title": "Eight US states sue OpenAI separately in a bipartisan effort, alleging it didn't implement sufficient safeguards to protect kids and other vulnerable users (Cassandre Coyer/Bloomberg Law)",
-    "description": "Cassandre Coyer / Bloomberg Law:\nEight US states sue OpenAI separately in a bipartisan effort, alleging it didn't implement sufficient safeguards to protect kids and other vulnerable users  —  More than half a dozen states sued OpenAI Inc. Wednesday alleging the tech giant didn't implement sufficient safeguards to protect vulnerable users, including kids.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-14T22:55:02+00:00",
-    "image_url": "http://www.techmeme.com/261014/i46.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-    "title": "McKinsey is making job applicants spar with a fake AI client",
-    "description": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-14T22:53:31+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/ibuypower-enters-ai-pc-market-with-gorgeous-usd3-999-amd-gorgon-halo-pc-with-a-leather-strap-and-128gb-ram-shame-that-you-cant-cluster-it-yet",
-    "title": "iBuyPower enters AI PC market with gorgeous $3,999 AMD 'Gorgon Halo' PC with a leather strap and 128GB RAM — shame that you can't cluster it yet",
-    "description": "iBuyPower's upcoming AI mini PC combines AMD's 16-core processor, 128GB memory, integrated graphics, and support for up to 8TB of storage.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-14T22:45:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/pujZP5r8fdCc7aF66zkQt7-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/mobile/iphone-duo-repair-prices-foldable-applecare/",
-    "title": "iPhone Duo Repair Prices Will Fold Your Bank Account Without AppleCare",
-    "description": "Thinking of saving a little money when buying Apple’s new foldable phone? A mishap could cost up to $1,500 in repairs.",
-    "categories": [
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-10-14T22:41:44+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/iPhone-Duo-opening-animation-5.jpg",
-    "source_name": "CNET.COM"
   }
 ]
