@@ -1,5 +1,56 @@
 [
   {
+    "link": "https://9to5mac.com/2026/10/15/heres-apples-official-response-to-openais-trade-secret-theft-allegations/",
+    "title": "Here’s Apple’s official response to OpenAI’s trade secret theft allegations",
+    "description": "Apple has responded to OpenAI’s allegations that one of its former employees who departed for Apple took confidential files along with him. Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-15T19:57:37+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+    "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
+    "description": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-15T19:57:16+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+    "description": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-15T19:55:25+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1012350/withings-plus-subscription-new-users-october-13-2026",
+    "title": "Withings now charges $100 per year to sync your data to other apps",
+    "description": "If you're a new user of Withings' fitness-tracking smartwatches or smart scales and want to sync and access your health data through third party apps like Apple Health or Google Health it's now going to cost you. According to a discussion on Withings' support forums spotted by MacRumors, new Withings accounts created from October 13th,",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-15T19:52:13+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268601_withings_bodyfit_AKrales_0099.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
     "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
     "description": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
@@ -68,6 +119,18 @@
     "pub_date": "2026-10-15T19:14:26+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/",
+    "title": "What did the Liberty Bell sound like? Science is on the case.",
+    "description": "Researchers hunted for clues in modal analysis of 20th-century replica bell at Penn State Behrend.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-15T19:10:03+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/bell-ALT-1152x648-1778533198.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://mashable.com/tech/ai-job-interviews-chatbots-trolling-hiring",
@@ -253,6 +316,18 @@
     "pub_date": "2026-10-15T18:20:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/pcksQT7XfBHEZ8ncyw3mLn-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://arstechnica.com/tech-policy/2026/10/trump-cancels-pentagon-plans-to-livestream-firing-squad-execution/",
+    "title": "Trump cancels Pentagon plans to livestream firing squad execution",
+    "description": "8 in 10 Americans opposed the Pentagon's plans, a Thursday poll showed.",
+    "categories": [
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-15T18:16:36+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2294712564-1024x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
@@ -612,7 +687,7 @@
   },
   {
     "link": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
-    "title": "Rocket Lab announces another delay for its medium-lift Neutron rocket",
+    "title": "Neutron's first launch slips again amid trouble with carbon composites",
     "description": "Rocket Lab announced the Neutron rocket in 2021, aiming for a first flight in 2024.",
     "categories": [
       "Breaking News",
@@ -842,7 +917,6 @@
     "description": "CarbonAI has raised $12M led by Cowboy Ventures for AI agents that handle underwriting, due diligence and post-close monitoring on commercial real estate loans. The EU AI Act treats consumer credit decisions as high-risk but not corporate lending, a line that blurs when a sponsor gives a personal guarantee. CarbonAI has raised $12M for AI",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-15T16:00:23+00:00",
@@ -854,23 +928,10 @@
     "title": "E Ink upgraded the screen found in most color e-readers",
     "description": "E Ink announced the next generation of its Kaleido color e-paper screen technology today, delivering several welcome improvements. The company's existing Kaleido 3 displays can be found in e-readers and tablets from companies like Kobo, PocketBook, and Boox, while Amazon's Kindle Colorsoft uses a customized version to improve performance. The new Kaleido 4 technology addresses",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-15T16:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eink4.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1011705/nvidia-rtx-spark-everything-runs-on-arm",
-    "title": "The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm",
-    "description": "Fourteen years ago this month, Microsoft released an Nvidia-powered Windows PC that would become one of the greatest tech flops in modern history. The original Microsoft Surface, which ran a stripped-down version of Windows on an Nvidia Tegra chip, bombed so hard that Microsoft had to write off $900 million in inventory. The problem was",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-15T16:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20261008_144946.jpg?quality=90&strip=all&crop=12.666665649414,10.133333333333,77.466665649414,78.311116536458",
     "source_name": "THEVERGE.COM"
   },
   {
@@ -900,7 +961,6 @@
     "title": "Street Fighter review: What if its giving Super Mario Bros. live-action, but I love that?",
     "description": "'Street Fighter' is very silly, very '90s, and very good.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-15T16:00:00+00:00",
@@ -908,11 +968,22 @@
     "source_name": "MASHABLE.COM"
   },
   {
+    "link": "https://www.theverge.com/tech/1011705/nvidia-rtx-spark-everything-runs-on-arm",
+    "title": "The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm",
+    "description": "Fourteen years ago this month, Microsoft released an Nvidia-powered Windows PC that would become one of the greatest tech flops in modern history. The original Microsoft Surface, which ran a stripped-down version of Windows on an Nvidia Tegra chip, bombed so hard that Microsoft had to write off $900 million in inventory. The problem was",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-15T16:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20261008_144946.jpg?quality=90&strip=all&crop=12.666665649414,10.133333333333,77.466665649414,78.311116536458",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce/",
     "title": "NASA Awards Enable Research, Technology to Build Future Workforce",
     "description": "NASA has selected 12 U.S. institutions to receive $12 million to accelerate academic research and technology development in support of the agency’s priorities for exploring the Moon, Mars, and deep space. Through NASA’s Minority University Research and Education Project (MUREP) Space Technology Artemis Research (M‑STAR) initiative, selected institutions will each receive up to $1 million",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-15T15:57:47+00:00",
@@ -935,7 +1006,6 @@
     "title": "Ugreen NASync IDX6011 Pro NAS review",
     "description": "Ugreen's IDX6011 Pro is a powerhouse NAS for creatives and small businesses. It packs a Intel Core Ultra 7255H chip, 64GB RAM, dual 10GbE ports, and onboard AI.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-15T15:51:33+00:00",
@@ -1178,6 +1248,7 @@
     "title": "Trump calls off livestream of execution",
     "description": "The execution of Fort Hood shooter Nidal Hasan will not be livestreamed as Secretary of Defense Pete Hegseth had previously announced. Donald Trump announced the plan was off in a post on Truth Social: I think streaming the execution for all to see might have been a strong deterrent for the World to witness how",
     "categories": [
+      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-10-15T14:43:44+00:00",
@@ -2255,75 +2326,5 @@
     "pub_date": "2026-10-15T10:52:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/gWRRWkq9ks7g6ew8BpFwL6-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/hyper-personalizing-european-banking-experience-with-ai",
-    "title": "Hyper-personalizing European banking experience with AI",
-    "description": "Can AI deliver the personalized banking experience European customers expect?",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-15T10:50:57+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/TaxPLZc75WiicpmgZNzWzL-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261015/p17#a261015p17",
-    "title": "Citizen Lab details AdFection, a zero-click spyware campaign where an Israeli ad company routed targets to spyware servers and infected dozens of devices (Wired)",
-    "description": "Wired:\nCitizen Lab details AdFection, a zero-click spyware campaign where an Israeli ad company routed targets to spyware servers and infected dozens of devices  —  Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-15T10:45:08+00:00",
-    "image_url": "http://www.techmeme.com/261015/i17.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/phones/android/google-sparks-privacy-outrage-by-quietly-linking-phone-numbers-to-secondary-accounts-on-android-phones-heres-how-to-disable-it",
-    "title": "Google sparks privacy outrage with new Android phone number default",
-    "description": "Google has started linking phone numbers to every signed in account on Android devices, which could prove a major privacy problem.",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-15T10:43:07+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ZoNP77DeXpUYD5tX5CoY27-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/nvidia-ceo-jensen-huang-hails-openclaw-as-helping-the-future-of-robotics-but-calls-for-controls-so-we-can-realize-the-incredible-future-potential-of-the-technology-that-were-building",
-    "title": "Nvidia CEO Jensen Huang hails OpenClaw as helping the future of robotics, but calls for controls, 'so we can realize the incredible future potential of the technology that we’re building'",
-    "description": "Nvidia CEO Jensen Huang explains what is needed to get OpenClaw running safely - and why it could be the future of robotics.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-15T10:37:51+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/GLTDjBBpybeaNr2mVnzTkj-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261015/p16#a261015p16",
-    "title": "A hack of Internet-connected fridge controllers across ~700 European supermarkets exploited critical vulnerabilities in three models flagged by Claroty and CISA (Dan Goodin/Ars Technica)",
-    "description": "Dan Goodin / Ars Technica:\nA hack of Internet-connected fridge controllers across ~700 European supermarkets exploited critical vulnerabilities in three models flagged by Claroty and CISA  —  Earlier this week, a mass hack of refrigeration systems at an estimated 700 supermarkets throughout France caused them to suddenly malfunction …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-15T10:35:13+00:00",
-    "image_url": "http://www.techmeme.com/261015/i16.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2287345/apple-i-hatfield-sells-for-1-15-million-at-auction/",
-    "title": "Apple I 'Hatfield' computer signed by Woz fetches a record $1.15 million at auction",
-    "description": "The famous Apple I \"Hatfield\" computer signed by Steve Wozniak just sold to an unknown buyer for a record $1,148,200.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-15T10:34:56+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/apple-i-hatfield-computer-signed-by-woz-fetches-a-record-1-15-million-at-auction/l-intro-1792060404.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
