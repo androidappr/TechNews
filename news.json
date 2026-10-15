@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.techmeme.com/261015/p3#a261015p3",
+    "title": "Bloomberg is making its ASKB conversational AI interface available to all Terminal users, letting them integrate their own content with existing financial data (Steven Rosenbush/Wall Street Journal)",
+    "description": "Steven Rosenbush / Wall Street Journal:\nBloomberg is making its ASKB conversational AI interface available to all Terminal users, letting them integrate their own content with existing financial data  —  Allowing users to add their own information to the company's generative AI-based ASKB interface will feed the system with a new level of context",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-15T04:35:04+00:00",
+    "image_url": "http://www.techmeme.com/261015/i3.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
     "title": "Figma announces new features to define how agents work on its platform",
     "description": "Figma is also releasing its code layers feature in open beta.",
@@ -34,6 +46,29 @@
     "pub_date": "2026-10-15T04:05:01+00:00",
     "image_url": "http://www.techmeme.com/261015/i1.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/",
+    "title": "APOD: 2026 October 15 – The Milky Way over Manhattan",
+    "description": "APOD Science APOD APOD: 2026 October 15 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Milky",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-15T04:05:00+00:00",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Manhattan%20Milkyway.jpg?w=1152&h=2048&fit=clip&crop=faces%2Cfocalpoint",
+    "source_name": "SCIENCE.NASA.GOV"
+  },
+  {
+    "link": "https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/",
+    "title": "Fires Arrive in the Amazon Rainforest",
+    "description": "During El Niño, a cascade of fires across the tropics begins in equatorial Asia and continues in the central and eastern Amazon.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-15T04:01:00+00:00",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fires-arrive-in-the-amazon-rainforest/amazofires_amo_20261012.jpg?w=1440&h=960&fit=clip&crop=faces%2Cfocalpoint",
+    "source_name": "SCIENCE.NASA.GOV"
   },
   {
     "link": "https://www.techradar.com/how-to-watch/rugby-league-world-cup-2026-free-streams-tv-channels-schedule",
@@ -2240,45 +2275,5 @@
     "pub_date": "2026-10-14T15:13:34+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/gZAdwY34f6Dn39pPLM7KBf-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-    "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-    "description": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Crypto & Web3",
-      "Science & Environment",
-      "Social & Media",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-14T15:13:24+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1011058/netflix-layoff-six-percent-thousand-employees",
-    "title": "Netflix is laying off around 1,000 employees",
-    "description": "Following a report last week that Netflix was planning to lay off five percent of the company, today the streamer's co-CEOs Ted Sarandos and Greg Peters announced in an email that it would actually be laying off six percent of its workforce, or around 1,000 employees, according to Variety, which obtained a copy of the",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-14T15:12:58+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23923974/acastro_STK072_04.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1011062/apple-homeview-airplay-apps-streaming",
-    "title": "HomeView doesn’t natively support any video apps yet — not even Apple’s",
-    "description": "Apple says HomeView is \"the perfect way\" to enjoy its audio and video entertainment apps, but some notable examples like Apple TV only work if you AirPlay it through your iPhone. As noted on the HomeView spec page, Apple TV, Apple Books audiobooks, Apple Music Classical, and Apple News Plus aren't natively supported on the",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-14T15:10:12+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Apple-TV.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
