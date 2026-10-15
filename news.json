@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+    "title": "ChatGPT can peek at your Chrome tabs now",
+    "description": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-15T22:43:23+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+    "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+    "description": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-15T22:35:55+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/a-piece-of-the-worlds-oddest-network-deployment-has-gone-up-for-auction-if-you-fancy-owning-a-piece-of-pigeon-powered-internet-it-can-be-yours-for-just-usd4-000",
     "title": "A piece of the world's oddest network deployment has gone up for auction — if you fancy owning a piece of pigeon-powered internet, it can be yours for just $4,000",
     "description": "A piece of oddball internet history has been sold at auction at Christie’s, with over $20,000 bid on a relic of an incredible experiment to send internet packets by pigeon",
@@ -744,7 +769,6 @@
     "title": "Google says it has 400+ publications in its News AI pilot, which tests features like overviews; participants include Financial Times, CNN, and The Texas Tribune (Andrew Deck/Nieman Lab)",
     "description": "Andrew Deck / Nieman Lab:\nGoogle says it has 400+ publications in its News AI pilot, which tests features like overviews; participants include Financial Times, CNN, and The Texas Tribune  —  In December, Google launched its News AI pilot program, which licenses content from select publishers and uses it to test new AI features in Google News.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-15T18:45:00+00:00",
@@ -756,7 +780,6 @@
     "title": "E Ink's new Kaleido 4 could inch us closer to the perfect color e-reader",
     "description": "E Ink's new display tech offers improved color reproduction and refresh rates.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-15T18:41:58+00:00",
@@ -2289,27 +2312,5 @@
     "pub_date": "2026-10-15T13:00:07+00:00",
     "image_url": "https://media.thenextweb.com/2026/07/big-tech-2-trillion-ai-spending-commitments-bloomberg.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2287239/nvidia-rtx-spark-good-for-windows-even-if-you-do-not-need-local-ai/",
-    "title": "NVIDIA's RTX Spark is good for Windows, even if you don't need local AI",
-    "description": "NVIDIA's RTX Spark is meant for AI fiends, but it could end up helping Windows PCs in general",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-15T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/nvidias-rtx-spark-is-good-for-windows-even-if-you-dont-need-local-ai/l-intro-1792037724.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2286631/xreals-new-flagship-one-pro-ar-glasses-offer-better-brightness-and-increased-comfort/",
-    "title": "Xreal's new flagship One Pro+ AR glasses offer better brightness and increased comfort",
-    "description": "There's still no camera here, so they won't be confused for pervert specs.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-15T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/xreals-new-flagship-one-pro-ar-glasses-offer-better-brightness-and-increased-comfort/l-intro-1791991823.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
