@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://thenextweb.com/news/anthropic-code-review-ga-eu-residency",
+    "title": "Anthropic makes Code Review generally available, with $50,000 in credits attached",
+    "description": "Anthropic has moved Code Review, its automated pull-request reviewer for Claude Code, out of research preview for Team and Enterprise customers, with up to $50,000 in free credits for eligible enterprises. Organisations running GitHub Enterprise Cloud with data residency, the configuration European firms adopt to keep code in the EU, are excluded from the offer.",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-15T22:45:17+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/anthropic-wordmark-glass-render.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
     "title": "ChatGPT can peek at your Chrome tabs now",
     "description": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video",
@@ -10,6 +22,18 @@
     "pub_date": "2026-10-15T22:43:23+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.cnet.com/science/world-timekeepers-kill-the-leap-second/",
+    "title": "World Timekeepers Decide to Kill the Leap Second",
+    "description": "Doing away with the leap second might prevent time-related computer anomalies in the future.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-15T22:39:14+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/clocks-on-shelves-GettyImages-1473921505.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
@@ -757,8 +781,7 @@
     "title": "The facts matter: Google updates AI Overviews, drawing more attention to linked sources",
     "description": "Google is upgrading Search AI in October with better source links during a query. AI responses will display links more prominently, so users can fact-check.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-15T18:52:50+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/VqzL4eSC6PxUhGRgNJAdrg-1920-80.jpg",
@@ -1194,7 +1217,6 @@
     "title": "Meta launches new Muse Spark Open model, optimized to run on Mac Studio",
     "description": "Meta today unveiled Muse Spark Open, which it says is the “most capable US open-weight model to date.” For Apple users, Meta says Muse Spark Open is optimized to run on the Mac Studio powered by M5 Ultra.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-15T17:00:00+00:00",
@@ -2289,28 +2311,5 @@
     "pub_date": "2026-10-15T13:15:09+00:00",
     "image_url": "http://www.techmeme.com/261015/i28.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/ai-has-a-usd2-5-trillion-problem-and-replacing-250-million-jobs-is-the-only-way-to-solve-it",
-    "title": "AI has a $2.5 trillion problem and replacing 250 million jobs is the only way to solve it",
-    "description": "Infrastructure providers could be left bankrupt unless AI delivers a return on investment far higher than current rates.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-15T13:05:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/MvLY6DdCg7iXz9bLAAhLKA-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/xdc-network-concordium-identity-verification-ai-agents",
-    "title": "XDC Network integrates Concordium identity verification for AI agents",
-    "description": "The integration allows AI agents on XDC AI to verify the individuals or businesses behind them, addressing questions of accountability as autonomous agents gain financial capabilities. XDC Network has selected Concordium as the exclusive identity verification provider for XDC AI, its agent payments marketplace, introducing a system that allows AI agents to prove they are",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-15T13:00:07+00:00",
-    "image_url": "https://media.thenextweb.com/2026/07/big-tech-2-trillion-ai-spending-commitments-bloomberg.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
