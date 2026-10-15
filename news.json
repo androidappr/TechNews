@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://thenextweb.com/news/openai-ex-employee-device-files-apple",
+    "title": "OpenAI says ex-employee took device files before returning to Apple",
+    "description": "OpenAI says a former employee who went back to Apple sent more than 100 secret files about an unreleased OpenAI product to personal accounts, according to a court filing made on Wednesday in San Jose, California, According to the filing, the unnamed employee joined OpenAI from Apple and stayed for six months. Some of the",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-10-15T06:53:11+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/openai-models-escaped-hacked-hugging-face.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261015/p10#a261015p10",
     "title": "Q&A with MIT sociologist Sherry Turkle, who has been studying relationships between humans and machines since the 1970s, on her new book, AI chatbots, and more (New York Times)",
     "description": "New York Times:\nQ&A with MIT sociologist Sherry Turkle, who has been studying relationships between humans and machines since the 1970s, on her new book, AI chatbots, and more  —  This is an edited transcript of “The Ezra Klein Show.”  You can listen to the episode wherever you get your podcasts.",
@@ -488,7 +499,6 @@
     "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
     "description": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy",
       "Gadgets & Hardware"
     ],
@@ -2252,20 +2262,6 @@
     ],
     "pub_date": "2026-10-14T16:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Square-Kiosk-Payment.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
-    "title": "Android is using AI to suss out scammers in Google Messages",
-    "description": "Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Building on the Scam Detection feature in Google Messages, a new \"enhanced protection\" setting will be rolling out in the coming weeks that taps into cloud-based",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Cybersecurity & Privacy",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-14T16:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Android-scam-detection-google-messages.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
   }
 ]
