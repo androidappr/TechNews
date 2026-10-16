@@ -24,6 +24,19 @@
     "source_name": "TECHRADAR.COM"
   },
   {
+    "link": "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/",
+    "title": "Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer",
+    "description": "The pioneering reusable upper stage for Stoke Space's Nova rocket ships out for testing.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-16T11:00:53+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/stoke1-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
     "link": "https://www.wired.com/review/review-awol-vision-aetherion-max-rgb-laser-ust-projector/",
     "title": "AWOL Vision Aetherion Max RGB Laser UST Projector Review: A Top Buy",
     "description": "A top performer in both dark rooms and in bright sunshine, the AWOL Vision Aetherion Max RGB Laser UST Projector gives movie theaters a run for their money.",
@@ -650,7 +663,6 @@
     "title": "Anchor launches Action Index, cutting computer-use agent token costs by 100X",
     "description": "New York, United States / New York, October 15th, 2026, TechnologyWire Anchor, the browser infrastructure company for AI agents, today launched Action Index, a shared memory of web workflows that agents have already completed successfully. Instead of reasoning through every click from scratch, agents on Anchor replay a proven path as deterministic code, and the",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-16T07:28:23+00:00",
@@ -2247,16 +2259,5 @@
     "pub_date": "2026-10-15T17:55:01+00:00",
     "image_url": "http://www.techmeme.com/261015/i43.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/phones/qualcomm/jury-finds-arm-guilty-in-licensing-breach-qualcomm-awarded-just-usd2-in-total",
-    "title": "Jury finds Arm guilty in licensing breach, Qualcomm awarded just $2 in total",
-    "description": "A jury sided with Qualcomm over its allegations that Arm breached a licensing agreement and \"interfered\" with its business relations in 2024.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-15T17:53:55+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/TZk2Z8sFDhzmSjwRii4wCS-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
   }
 ]
