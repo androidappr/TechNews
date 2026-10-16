@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
+    "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
+    "description": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
+    "categories": [
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-16T16:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/epic-games-launcher-vibe-coded-ai-pivot-fortnite-linux",
+    "title": "Epic says it vibe coded its new launcher because ‘programming is hard’",
+    "description": "“Programming is hard. So, instead of doing that, we vibe coded a new Epic Games Launcher.” Epic Games opened its launcher announcement with those lines on 14 October. Epic says the rebuilt app is faster than the old one and has a new look. It is out in Preview for Windows, macOS and, for the",
+    "categories": [
+      "AI & Machine Learning",
+      "Gaming",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-16T15:50:06+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/epic-games-launcher-preview-library-grid-friends-panel.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/10/16/homepod-is-about-to-get-free-upgrade-with-these-new-features/",
+    "title": "HomePod is about to get free upgrade with these new features",
+    "description": "Apple unveiled three new Home products this week: HomeView, HomePod mini 2, and a new Apple TV 4K. While there’s no new full-size HomePod launching, Apple did announce three features coming to the existing HomePod 2 via a free software update.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-16T15:49:06+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2023/10/homepod-2-sale.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/godaddy-unlocks-email-hosting-and-commerce-for-ai-agents",
+    "title": "GoDaddy unlocks email, hosting, and commerce for AI agents",
+    "description": "GoDaddy’s new platform helps developers and AI agents deploy code, configure email, and manage online stores all from one terminal",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-16T15:47:53+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/2pi4kh4FbVkeh8E5ttW7ca-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/computing/meta-spark-open-ai-apple-news/",
+    "title": "Surprise! Meta and Apple Worked Together on a New Open-Source AI Model",
+    "description": "Think of Muse Spark Open as the result of Meta and Apple’s enemies-to-lovers arc.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-16T15:46:33+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/M5-Ultra-Mac-Studio-2026-06.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
     "title": "Apple&#8217;s HomeView has an app problem",
     "description": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always connected to power, and looks like a perfect place to run a bunch of apps. And",
@@ -29,7 +89,7 @@
   {
     "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
     "title": "Jev is Vercel’s fastest-adopted AI model ever",
-    "description": "The data comes from the Vercel's AI gateway, a unified API service similar to OpenRouter.",
+    "description": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News"
@@ -197,6 +257,17 @@
     "source_name": "WIRED.COM"
   },
   {
+    "link": "https://www.techradar.com/pro/security/fake-calendar-invites-hit-thousands-of-businesses-in-microsoft-credential-phishing-campaign",
+    "title": "Fake calendar invites hit thousands of businesses in Microsoft credential phishing campaign",
+    "description": "Hundreds of thousands of spam emails are carrying .ics attachments or calendar invites.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-16T15:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/pNhuQEsYXM8HA7844RaotB-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techradar.com/how-to-watch/boxing/tyson-fury-vs-anthony-joshua-tickets-and-netflix-details",
     "title": "How to watch Tyson Fury vs Anthony Joshua: Tickets and Netflix Details",
     "description": "All the ways to watch Tyson Fury vs Anthony Joshua live streams online, as the British rivals finally meet, in a title fight at the Millennium Stadium, Cardiff.",
@@ -206,17 +277,6 @@
     ],
     "pub_date": "2026-10-16T15:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/X7JACwU6CCvku9nFwveNFc-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/fake-calendar-invites-hit-thousands-of-businesses-in-microsoft-credential-phishing-campaign",
-    "title": "Fake calendar invites hit thousands of businesses in Microsoft credential phishing campaign",
-    "description": "Hundreds of thousands of spam emails are carrying .ics attachments or calendar invites.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-16T15:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/pNhuQEsYXM8HA7844RaotB-1920-80.png",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -1172,8 +1232,7 @@
     "title": "How many jobs is your state losing to AI? This dashboard tracks the cuts – and the cost",
     "description": "CAIS’ Wage Loss Dashboard puts AI-related job cuts into dollars and cents.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-16T11:47:39+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/How-many-jobs-is-your-state-losing-to-AI-This-dashboard-tracks-the-cuts-and-the-cost.jpg",
@@ -2268,60 +2327,5 @@
     "pub_date": "2026-10-16T01:00:14+00:00",
     "image_url": "http://www.techmeme.com/261015/i57.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/how-to-watch/tv-shows/how-to-watch-greys-anatomy-season-23-stream-online-from-anywhere-in-the-world",
-    "title": "How to watch Grey's Anatomy season 23 — stream online from anywhere in the world",
-    "description": "Here's how you can watch Grey's Anatomy season 23 from anywhere in the world.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T01:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/38gcJmHRfy5WjTgJDB9qL9-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/wi-fi-broadband/openreach-self-install-fttp-modem-trial-is-reportedly-going-ahead-it-could-mean-cheaper-fibre-broadband-upgrades-if-some-pitfalls-can-be-avoided",
-    "title": "Openreach self-install FTTP modem trial is reportedly going ahead",
-    "description": "This could save you money on your fibre broadband in the future, if the setup isn't too much of a headache.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T01:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/2VaLZKYva22fTvVbqegPsf-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/home/legos-2026-advent-calendars-such-a-festive-delight-that-theyre-starting-to-sell-out-already-take-a-look-at-the-full-range-here",
-    "title": "Lego's 2026 Advent calendars are selling out already — here are this year's 6 new sets",
-    "description": "From Spider-Man on skis, to Grogu in a Holiday sweater, to a traditional Santa's workshop, there's something for everyone.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T01:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/hYkVQPa2Si6BPZGeQNPAqa-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/la-bola-negra-review",
-    "title": "La Bola Negra review: A magnificent gay epic that transcends time",
-    "description": "An unfinished play, a tragic love story, and an investigation into the past, \"La Bola Negra\" will compel and devastate you. Review.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T01:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05l6svjqszHtNs1nud4ZbJE/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/15/apple-lists-unreleased-ipad-mini-accessory-ahead-of-rumored-launch/",
-    "title": "Apple lists unreleased iPad mini accessory ahead of rumored launch",
-    "description": "While Apple is rumored to be gearing up to introduce an OLED iPad mini later this month, an oversight on the company’s French site might have just confirmed the product’s existence. Here are the details.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T00:49:10+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ipad-mini-6-jb.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
