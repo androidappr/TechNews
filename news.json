@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://mashable.com/tech/meta-confirms-smart-glasses-recording-without-being-activated",
+    "title": "Meta confirms smart glasses were recording without being activated",
+    "description": "Meta says it fixed an issue with its smart glasses where it recorded users' audio without permission.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-16T00:16:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00qxpKzBOY9swwOt1U66td9/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261015/p56#a261015p56",
     "title": "Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital (Stephen Council/Business Insider)",
     "description": "Stephen Council / Business Insider:\nOpsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital  —  AI agents are starting to outnumber humans in many high-tech workplaces, and they can be far trickier to monitor.",
@@ -210,6 +221,18 @@
     "pub_date": "2026-10-15T22:35:55+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
+    "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
+    "description": "KDE celebrates 30 years with a new Plasma release, a farewell to X11, and a movie.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-15T22:21:06+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/KDE_Birthday_30th_Laptop-1070x648.png",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://www.techradar.com/pro/a-piece-of-the-worlds-oddest-network-deployment-has-gone-up-for-auction-if-you-fancy-owning-a-piece-of-pigeon-powered-internet-it-can-be-yours-for-just-usd4-000",
@@ -588,7 +611,6 @@
     "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
     "description": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-10-15T20:32:41+00:00",
@@ -2276,28 +2298,5 @@
     "pub_date": "2026-10-15T13:48:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/videos/01sirieEoSVF3iGOVhh9p1V/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/windows/take-our-personality-quiz-and-find-out-what-version-of-windows-you-are",
-    "title": "Take our personality quiz and find out what version of Windows you are",
-    "description": "Does everyone love you like Windows 7? Or are you an old-school retro throwback like Windows 95? Take our test to find out.",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-15T13:47:49+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/xRFQSJSmmDn8j9uzniGLZi-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/news/1011891/microsoft-windows-11-speed-memory-improvements",
-    "title": "Microsoft says Windows 11 is now &#8216;more responsive&#8217; and runs better on 8GB of RAM",
-    "description": "Earlier this year Microsoft laid out a plan to fix Windows 11, with a focus on performance, reliability, and the overall OS experience. After months of fixes, Microsoft now says the \"result is a Windows experience that's up to 20 percent more responsive.\" Microsoft has made improvements to Start, File Explorer, Search, Edge, and other",
-    "categories": [
-      "Breaking News",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-15T13:41:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-1247086031.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
