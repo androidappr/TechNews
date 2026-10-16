@@ -1,5 +1,66 @@
 [
   {
+    "link": "https://www.techmeme.com/261016/p15#a261016p15",
+    "title": "Reflection AI releases Apache 2.0-licensed weights for Beam, a 501B-parameter model, trained with RL that penalized unnecessary tokens (Matt Marshall/VentureBeat)",
+    "description": "Matt Marshall / VentureBeat:\nReflection AI releases Apache 2.0-licensed weights for Beam, a 501B-parameter model, trained with RL that penalized unnecessary tokens  —  Reflection AI today released the weights of Beam, its first open model, and is pitching it against the Chinese open models that many U.S. companies …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-16T16:40:02+00:00",
+    "image_url": "http://www.techmeme.com/261016/i15.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-flying-tesla-roadster-is-an-overbaked-idea-from-my-least-favorite-person",
+    "title": "The flying Tesla Roadster is an overbaked idea from my least favorite person",
+    "description": "Elon Musk finally unveiled his-long-promised rocket-powered, flying Roadster, and it's exactly what we don't need right now.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-16T16:34:45+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/oJDpWmjSZryfJWtcRuBdFo-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/super-intelligence-force-charter-first-meeting-anthropic",
+    "title": "Trump’s AI task force starts work and tells labs to report rogue behaviour",
+    "description": "“Our message to all SI companies is clear: delayed notification, inadequate corrective action, and a failure to take responsibility will not be tolerated,” the task force’s leaders said. Jay Clayton, Andrew Ferguson, Scott Kupor and Emil Michael lead Donald Trump’s Super Intelligence Force. They sent that warning to AI companies this week. On Thursday, the",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-16T16:33:10+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/jay-clayton-official-portrait-odni-seal-us-flag.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2288908/if-memory-shortages-last-tech-companies-should-offer-cheap-battery-replacements/",
+    "title": "If memory shortages last, tech companies should offer cheap battery replacements",
+    "description": "If a company like Apple could offer $29 batteries before, it can do so again.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-16T16:32:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/if-memory-shortages-last-tech-companies-should-offer-cheap-battery-replacements/l-intro-1792168203.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/how-tesla-made-its-new-230-mph-car-fly/",
+    "title": "Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’",
+    "description": "It turns out the Roadster 2 both sucks and blows.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-16T16:30:12+00:00",
+    "image_url": "https://media.wired.com/photos/6ad23cf9596e9f773d31db35/master/pass/Roadster_94.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
     "title": "A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
     "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.  This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have",
@@ -15,6 +76,28 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
+    "link": "https://www.wired.com/review/razer-barracuda-v2-pro/",
+    "title": "Razer Barracuda V2 Pro Review: A Gaming Headset for the Office",
+    "description": "The Razer Barracuda V2 Pro headset has a place in the office as well as at your gaming battle station.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-10-16T16:30:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ad23b95526f09405ee8956f/master/pass/Razer%20Barracuda%20V2%20Pro%20Review%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/d-link-ubiquiti-devices-hijacked-by-hackers-to-plunder-stolen-bandwidth",
+    "title": "D-Link, Ubiquiti devices hijacked by hackers to plunder stolen bandwidth",
+    "description": "Someone hacked network-attached devices to install... legitimate software? For nefarious purposes, still.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-16T16:30:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/c6nDwMzYYwipHEZpZkRZb4-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.wired.com/story/thank-gen-z-for-the-girls-revival/",
     "title": "Thank Gen Z for the ‘Girls’ Revival",
     "description": "The HBO series served as a stand-in for everything wrong with white millennial women during its original run. Then Gen Z started watching.",
@@ -24,6 +107,18 @@
     "pub_date": "2026-10-16T16:21:38+00:00",
     "image_url": "https://media.wired.com/photos/6acfdbcff99bae5deb44dd4d/master/pass/Thank-Gen-Z-for-Girls-Revival-Culture-TCDGIRL_EC147.jpg",
     "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/apple-nvidia-list-of-tech-companies-that-donated-to-donald-trump-white",
+    "title": "Apple, Nvidia lead list of tech companies that donated to Trump’s White House ballroom project",
+    "description": "Here are the tech companies that gave millions to Donald Trump's White House ballroom – and just how much they donated.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-16T16:15:48+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/07aiRrQEETUSAIB14qRJg5Y/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://thenextweb.com/news/mapquest-flock-surveillance-camera-layer",
@@ -62,6 +157,17 @@
     "source_name": "THENEXTWEB.COM"
   },
   {
+    "link": "https://mashable.com/entertainment/avatar-seven-havens-episode-5-easter-eggs",
+    "title": "Avatar: Seven Havens episode 5 is chock-full of Last Airbender Easter eggs",
+    "description": "In \"Avatar: Seven Havens\" episode 5, Nisha and Pavi discover a secret room with the Blue Spirit mask, Kyoshi Warrior fans, and more.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-16T16:09:47+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/07yqBLkOagQa1Bm0XcQIsIR/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
     "title": "Waymo’s robotaxis are headed to Canada",
     "description": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
@@ -87,9 +193,21 @@
     "source_name": "THENEXTWEB.COM"
   },
   {
+    "link": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
+    "title": "The new Apple TV 4K just got its first (very small) discount",
+    "description": "Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discounting Apple’s new smart display for the first time. Right now, you",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-16T16:02:22+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VergeDealsAppleTV4K.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
     "title": "Elorian’s first AI model wants to reason with images, not just about them",
-    "description": "according to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+    "description": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -479,6 +597,7 @@
     "title": "The Roborock Saros 20 robot vacuum just got its first discount — save $200 now",
     "description": "Get the Roborock Saros 20 robot vacuum for $1,499.99 and save $200. That makes the combo robot vacuum and mop 12% off for the first time ever.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-16T14:34:14+00:00",
@@ -1061,7 +1180,6 @@
     "title": "NASA’s Hubble Spies Spiral’s Edge",
     "description": "This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-16T12:42:08+00:00",
@@ -1605,7 +1723,6 @@
     "title": "China is considering adding 23 AI technologies to its export control list, including LLMs and chip designs, to keep closer control over homegrown advancements (Bloomberg)",
     "description": "Bloomberg:\nChina is considering adding 23 AI technologies to its export control list, including LLMs and chip designs, to keep closer control over homegrown advancements  —  China proposed adding advanced artificial intelligence technologies to its export-control list, potentially restricting overseas transfers …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-16T10:35:02+00:00",
@@ -2199,17 +2316,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://www.wired.com/story/total-wireless-promo-code/",
-    "title": "Total Wireless Promo Codes & Deals: 50% Off Select Plans",
-    "description": "Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/surfshark-coupon/",
     "title": "Surfshark Promo Codes: 87% Off | October 2026",
     "description": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
@@ -2221,6 +2327,17 @@
     "source_name": "WIRED.COM"
   },
   {
+    "link": "https://www.wired.com/story/total-wireless-promo-code/",
+    "title": "Total Wireless Promo Codes & Deals: 50% Off Select Plans",
+    "description": "Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-16T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.wired.com/story/skechers-coupon-codes/",
     "title": "Skechers Coupon Codes 20% Off",
     "description": "Learn how to find, compare, and apply the best Skechers online discounts to save on comfortable sneakers, athletic apparel, and accessories.",
@@ -2229,116 +2346,6 @@
     ],
     "pub_date": "2026-10-16T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/hp-coupon-code/",
-    "title": "HP Coupon Codes and Deals October 2026",
-    "description": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261016/p1#a261016p1",
-    "title": "Taiwan plans US industrial parks costing $2B to $4B each, starting with a Texas complex costing up to $4B, to build a supply chain for Nvidia, TSMC, and Foxconn (Bloomberg)",
-    "description": "Bloomberg:\nTaiwan plans US industrial parks costing $2B to $4B each, starting with a Texas complex costing up to $4B, to build a supply chain for Nvidia, TSMC, and Foxconn  —  Taiwan plans to raise billions of dollars to develop industrial parks in the US that would build a base for a comprehensive supply chain …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T04:55:00+00:00",
-    "image_url": "http://www.techmeme.com/261016/i1.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/tablets/ipad-air/forget-the-iphone-duo-the-m4-ipad-air-is-a-lot-cheaper-even-at-full-price-but-its-now-21-percent-off",
-    "title": "Forget the iPhone Duo — the M4 iPad Air is a lot cheaper even at full price but it's now 21% off",
-    "description": "We called the 2026 iPad Air with the M4 chip the 'pro model tablet for most people’ for its excellent performance, vibrant and sharp screen and great connectivity, and it’s much better value than Apple's AU$3,499 foldable.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T04:54:05+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/3rWgVvB7G3WB8BHsKh9bWU-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/",
-    "title": "APOD: 2026 October 16 – Chasing the International Space Station",
-    "description": "APOD Science APOD APOD: 2026 October 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T04:05:00+00:00",
-    "image_url": null,
-    "source_name": "SCIENCE.NASA.GOV"
-  },
-  {
-    "link": "https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/",
-    "title": "Isaias Dims the Gulf Coast",
-    "description": "High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came back.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T04:00:00+00:00",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/isaias-dims-the-gulf-coast/isaias_bmhd_202608.jpg",
-    "source_name": "SCIENCE.NASA.GOV"
-  },
-  {
-    "link": "https://mashable.com/entertainment/hurdle-hints-answers-october-16-2026",
-    "title": "Hurdle hints and answers for October 16, 2026",
-    "description": "Hints and answers to today's Hurdle all in one place.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T04:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00yi5xZJLZ8ihixvH3A8dKF/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/how-to-watch/rugby/samoa-vs-france-free-rugby-league-world-cup-2026",
-    "title": "How to watch Samoa vs France for FREE: Live streams for Rugby League World Cup 2026 game",
-    "description": "All the ways to watch Samoa vs France live streams for free from anywhere in the world in both sides' Rugby League World Cup 2026 opener.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T03:45:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/yqBqQWexS4dDExvwxYq4Jk-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261015/p61#a261015p61",
-    "title": "Austin-based RapidCanvas, which uses agents to help businesses build custom AI tools, raised a ∼$29M Series B led by Vertex Ventures and Hitachi Ventures (Chris Metinko/Axios)",
-    "description": "Chris Metinko / Axios:\nAustin-based RapidCanvas, which uses agents to help businesses build custom AI tools, raised a ∼$29M Series B led by Vertex Ventures and Hitachi Ventures  —  RapidCanvas, which uses agents to help businesses build and deploy custom AI applications, has raised nearly $29 million in Series B funding, CEO Rahul Pangam tells Axios Pro.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T03:40:00+00:00",
-    "image_url": "http://www.techmeme.com/261015/i61.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/home/robot-vacuums/mova-v70-ultra-complete-robot-vacuum-review",
-    "title": "Mova V70 Ultra Complete review: a full-featured robovac let down by subpar performance",
-    "description": "As a premium robot vacuum, the Mova V70 Ultra Complete has a whole lot of excellent flagship features, but they sadly don't come together as well as you'd expect from the price.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T03:35:08+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/MCHjzUsFRHo365wJBeNAS-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/tesla-flying-car-faa/",
-    "title": "A Tesla Flying Car? I Don’t Know, Man",
-    "description": "The Federal Aviation Administration will likely have thoughts about the Tesla Roadster 2’s ability to leave the ground.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T03:18:30+00:00",
-    "image_url": "https://media.wired.com/photos/6ad1d58314d5ead8303e0748/master/pass/2026-10-16T014239Z_1011196447_RC214OAAWK2R_RTRMADP_3_TESLA-ROADSTER.JPG",
     "source_name": "WIRED.COM"
   }
 ]
