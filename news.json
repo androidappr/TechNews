@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.techradar.com/pro/the-collapse-of-web-coding-gigs-is-getting-ugly-ai-takes-over-routine-website-development-jobs-and-business-owners-are-very-happy-with-its-job-so-far",
+    "title": "The collapse of web coding gigs is getting ugly — AI takes over routine website development jobs, and business owners are very happy with its job so far",
+    "description": "AI website builders are reducing reliance on developers, with freelance postings falling sharply as small businesses increasingly create websites independently.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-16T23:25:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/AyKYL2MTRayWuTsydgHSfm-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261016/p25#a261016p25",
     "title": "Sources: Anthropic pitched its own AI safety bill to US lawmakers; the bill would limit the circumstances in which the government could block a model's release (Owen Dahlkamp/Politico)",
     "description": "Owen Dahlkamp / Politico:\nSources: Anthropic pitched its own AI safety bill to US lawmakers; the bill would limit the circumstances in which the government could block a model's release  —  Representatives for the artificial intelligence giant Anthropic have quietly pitched Capitol Hill lawmakers on a draft bill …",
@@ -55,6 +67,18 @@
     "pub_date": "2026-10-16T22:53:24+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-logo-aluminum-shadow-fi.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+    "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+    "description": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-16T22:51:22+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.techmeme.com/261016/p24#a261016p24",
@@ -489,7 +513,6 @@
     "title": "Five of the web's biggest data-scraping brands now sit under one $3.6 billion umbrella, and AI agents are the reason why",
     "description": "Oxylabs, Decodo, Webshare, ScrapingBee, and Honeygain are now one $3.6 billion family called Source, and it says AI agents have quadrupled demand.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-16T19:20:00+00:00",
@@ -2279,29 +2302,5 @@
     "pub_date": "2026-10-16T12:01:14+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-10.jpeg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
-    "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
-    "description": "Microsoft promises one machine for dev, AI, and gaming, and mostly gets there.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-16T12:00:05+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/MS_Surface_Laptop_Ultra_Feature-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.theverge.com/gadgets/988582/apple-iphone-duo-preorder-buy-foldable",
-    "title": "The iPhone Duo is now available to preorder at $1,999",
-    "description": "Few phones have been more anticipated than a foldable iPhone, but it's finally here. The iPhone Duo was unveiled during Apple's \"Surprise and shine\" event alongside the iPhone 18 Pro and the Apple Watch Series 12 and Ultra 4 models. Apple's first foldable has a 5.4-inch outer screen, and it unfolds to show off its",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware",
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-10-16T12:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0005.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
