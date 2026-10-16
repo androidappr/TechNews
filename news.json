@@ -1,5 +1,44 @@
 [
   {
+    "link": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
+    "title": "Apple&#8217;s HomeView has an app problem",
+    "description": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always connected to power, and looks like a perfect place to run a bunch of apps. And",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-16T15:38:17+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_101626_YTB.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/geoffrey-hinton-alien-beings-jensen-huang-containment-letter",
+    "title": "Geoffrey Hinton tells the Guardian humans are creating ‘alien beings’",
+    "description": "“Now we’re creating alien beings … And the reality is, we only have a couple of years to adapt to that.” Geoffrey Hinton, the Nobel laureate often called a “godfather” of AI, said this to the Guardian. The interview ran on 13 October. Leyland Cecco interviewed him in Toronto. Hinton also answered Nvidia chief Jensen",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-16T15:35:32+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/geoffrey-hinton-portrait-2026-blue-collar.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+    "title": "Jev is Vercel’s fastest-adopted AI model ever",
+    "description": "The data comes from the Vercel's AI gateway, a unified API service similar to OpenRouter.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-16T15:33:49+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/10/16/deals-new-apple-tv-4k-homeview-iphone-duo-airpods/",
     "title": "Deals: New Apple TV 4K first discount, HomeView, iPhone Duo trade offers, AirPods Pro 3, more",
     "description": "Joining the $50 price drop on AirPods Pro 3 to pair with your new Duo, we are now tracking the very first discount on the next-generation Apple TV 4K – Amazon will also ship it to you much faster than Apple can. Those offers join ongoing HomeView deals (you’ll want to get in there quick as they are starting to sell out), the best price in months on Apple’s 24GB/1TB M5 Pro MacBook Pro at $430 off, and what might be the only iPhone Duo pre-order deals you can still lock-in. Scope it all out below. \n\n\n\n more…",
@@ -21,6 +60,41 @@
     "pub_date": "2026-10-16T15:25:18+00:00",
     "image_url": "https://media.wired.com/photos/6acd9562b718d45618194704/master/pass/GettyImages-2180560800.jpg",
     "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/best-iphone-duo-preorder-deals",
+    "title": "The best iPhone Duo preorder deals: How to get Apples foldable for as low as $799",
+    "description": "Apple iPhone Duo preorders began at 8 a.m. ET on Oct. 16 (and sold out fast). The best preorder deals save shoppers up to $1,200.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-16T15:24:43+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00AkZdgHGg16DTKP9xheVOe/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/oct-16-hisense-voyageboom-portable-speaker-deal",
+    "title": "Make sure the Monster Mash is bumping with the Hisense VoyageBoom, now $50 off",
+    "description": "As of Oct. 16, get the Hisense VoyageBoom Bluetooth speaker for $249.97. That saves you $50.02 off its $299.99 list price.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-16T15:21:32+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/06qn50tu04WsdqbeLA9xDaD/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/oct-16-apple-tv-4k-preorder-deal",
+    "title": "The new Apple TV 4K is $10 off at Amazon — score the 1st discount this weekend",
+    "description": "The new Apple TV 4K is available for preorder on Amazon for $289.99. It features an A19 chip, Siri AI, and a remote with Find My.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-16T15:18:09+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01PYEZQx3Nv3jegStcbmOqY/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://9to5mac.com/2026/10/16/iphone-duo-launch-is-a-massive-success-but-apple-has-a-problem/",
@@ -123,17 +197,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.techradar.com/pro/security/fake-calendar-invites-hit-thousands-of-businesses-in-microsoft-credential-phishing-campaign",
-    "title": "Fake calendar invites hit thousands of businesses in Microsoft credential phishing campaign",
-    "description": "Hundreds of thousands of spam emails are carrying .ics attachments or calendar invites.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-16T15:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/pNhuQEsYXM8HA7844RaotB-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/how-to-watch/boxing/tyson-fury-vs-anthony-joshua-tickets-and-netflix-details",
     "title": "How to watch Tyson Fury vs Anthony Joshua: Tickets and Netflix Details",
     "description": "All the ways to watch Tyson Fury vs Anthony Joshua live streams online, as the British rivals finally meet, in a title fight at the Millennium Stadium, Cardiff.",
@@ -143,6 +206,17 @@
     ],
     "pub_date": "2026-10-16T15:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/X7JACwU6CCvku9nFwveNFc-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/fake-calendar-invites-hit-thousands-of-businesses-in-microsoft-credential-phishing-campaign",
+    "title": "Fake calendar invites hit thousands of businesses in Microsoft credential phishing campaign",
+    "description": "Hundreds of thousands of spam emails are carrying .ics attachments or calendar invites.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-16T15:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/pNhuQEsYXM8HA7844RaotB-1920-80.png",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -268,6 +342,17 @@
     "source_name": "9TO5MAC.COM"
   },
   {
+    "link": "https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/",
+    "title": "Polymarket saw $600 million in election trades after the elections were over",
+    "description": "Millions kept changing hands long after the election outcomes were effectively settled.",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-16T14:19:22+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/polymarket-1024x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/qualcomm-cristiano-amon-ai-companies-phones-2028",
     "title": "Qualcomm’s CEO says AI companies want phones running 100-billion-parameter models by 2028",
     "description": "“Some of the companies at the forefront of AI are telling Qualcomm, ‘By 2028, I need to make sure that I have the ability to run at least a hundred billion parameter model into a phone.’” Qualcomm chief executive Cristiano Amon said this on Sources, Alex Heath’s podcast. Heath recorded the interview at Qualcomm’s Snapdragon",
@@ -343,6 +428,17 @@
     "source_name": "TECHRADAR.COM"
   },
   {
+    "link": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
+    "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
+    "description": "If you want to make a car spin in the air, compressed gas is a good way to do it.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-16T14:03:25+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Roadster_87-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
     "title": "Meta’s new terms may allow it to train AI on news sites for free",
     "description": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\"",
@@ -355,6 +451,20 @@
     "pub_date": "2026-10-16T14:02:40+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
+    "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
+    "description": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-16T14:00:59+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/SuperScamMe_UHD_42-1152x597.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
@@ -1074,7 +1184,6 @@
     "title": "Taiwan plans to curb AI server and chip exports to China as part of a US trade deal and make shipping restricted AI hardware to China a criminal offense (Bloomberg)",
     "description": "Bloomberg:\nTaiwan plans to curb AI server and chip exports to China as part of a US trade deal and make shipping restricted AI hardware to China a criminal offense  —  Taiwan is preparing to tighten export controls on AI chips to further align with US restrictions, according to a senior official in Taipei …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-16T11:45:05+00:00",
@@ -1470,7 +1579,6 @@
     "title": "Apple's $2,000 iPhone Duo goes on pre-order today at 8AM ET",
     "description": "The Apple Store is down ahead of pre-orders for the first folding iPhone.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-16T09:36:05+00:00",
@@ -1509,18 +1617,6 @@
     ],
     "pub_date": "2026-10-16T09:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/0680FBx8HHyGuRtiRHoeMQk/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-iphone-duo-preorder-deals",
-    "title": "The best iPhone Duo preorder deals (so far): How to get Apples new foldable for as low as $799",
-    "description": "Apple iPhone Duo preorders begin at 8 a.m. ET on Oct. 16. The best preorder deals save shoppers up to $1,200.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T09:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00AkZdgHGg16DTKP9xheVOe/hero-image.png",
     "source_name": "MASHABLE.COM"
   },
   {
@@ -2227,95 +2323,5 @@
     "pub_date": "2026-10-16T00:49:10+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ipad-mini-6-jb.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/meta-confirms-smart-glasses-recording-without-being-activated",
-    "title": "Meta confirms smart glasses were recording without being activated",
-    "description": "Meta says it fixed an issue with its smart glasses where it recorded users' audio without permission.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T00:16:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00qxpKzBOY9swwOt1U66td9/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261015/p56#a261015p56",
-    "title": "Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital (Stephen Council/Business Insider)",
-    "description": "Stephen Council / Business Insider:\nOpsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital  —  AI agents are starting to outnumber humans in many high-tech workplaces, and they can be far trickier to monitor.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T00:15:02+00:00",
-    "image_url": "http://www.techmeme.com/261015/i56.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/ukraine-uses-cheap-240-year-old-tech-to-increase-uav-range-to-1-000km-aerostat-flew-10km-high-before-setting-mara-free-for-an-extra-60km-flight",
-    "title": "Ukraine uses cheap 240-year-old tech to increase UAV range to 1,000km — aerostat flew 10km high before setting Mara free for an extra 60Km flight",
-    "description": "Ukraine's Mara strike drone uses the Balun aerostat to travel beyond 1,000km, with another 60km of independent flight.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T00:15:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/uV7Ac4bg3mfefBLb9jLL4L-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.cnet.com/culture/entertainment/swedish-tv-challenge-ai-deletion/",
-    "title": "Did AI Just Erase an Entire Swedish TV Show?",
-    "description": "The TV network that airs the show says a backup system failed, but the raw material still exists.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T00:00:21+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/The-Challenge-TV.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/byd-launches-sleek-508-mile-range-nine-minute-charging-lucid-rival-in-china-and-it-costs-a-fraction-of-the-price",
-    "title": "BYD launches slick Lucid rival in China with over 500-miles of range",
-    "description": "The BYD Great Han delivers more than 500-miles of range, nine-minute charging and opulent interiors for a fraction of the price of premium rivals",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T00:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Ck9RF4jGs3EAJEnQx25QzW-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-    "description": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-15T23:44:56+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261015/p55#a261015p55",
-    "title": "Two US officials and a Western official say the order to limit Ukraine's access to SpaceX's Starshield came from inside the White House (Reuters)",
-    "description": "Reuters:\nTwo US officials and a Western official say the order to limit Ukraine's access to SpaceX's Starshield came from inside the White House  —  The order to limit a satellite system used by Ukraine for battlefield communications and drone operations came from inside the White House …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-15T23:35:02+00:00",
-    "image_url": "http://www.techmeme.com/261015/i55.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
-    "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
-    "description": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
-    "categories": [
-      "Business & Startups",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-15T23:33:45+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
