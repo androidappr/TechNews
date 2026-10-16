@@ -1,5 +1,54 @@
 [
   {
+    "link": "https://www.techradar.com/pro/accenture-employees-given-usd29-claude-spend-per-month-after-some-employees-spent-thousands",
+    "title": "Accenture employees will only be able to spend $29 on Claude per month after some ended up splashing out thousands of dollars",
+    "description": "Accenture wants to keep a lid on how much it spends for external AI, and it means Claude usage could be cut.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-16T13:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/eZs7VDaqqgXt5TBmcicAmS-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/mercedes-benz-volvo-nvidia-self-driving",
+    "title": "Mercedes-Benz and Volvo will build their next driving systems on Nvidia",
+    "description": "Mercedes-Benz will develop its next generation of driver assistance and automated driving systems with Nvidia, the two companies said on Friday. The announcement came a day after Volvo Cars expanded its own Nvidia partnership for automated driving. Both carmakers will build on the same Nvidia self-driving stack. It combines the Hyperion computer and sensor architecture,",
+    "categories": [
+      "AI & Machine Learning",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-16T12:55:27+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/JHH-Volvo-1600x900-1.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+    "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+    "description": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-16T12:55:09+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/",
+    "title": "An OpenAI research agent 'stole' test Ethereum to finish a coding task",
+    "description": "An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-16T12:50:24+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/an-openai-research-agent-stole-test-ethereum-to-finish-a-coding-task/l-intro-1792154835.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261016/p9#a261016p9",
     "title": "Waymo plans to launch its robotaxis in Toronto in 2028 in partnership with Element Fleet Management, the company's first deployment in Canada (Prathik Jayaprakash/Reuters)",
     "description": "Prathik Jayaprakash / Reuters:\nWaymo plans to launch its robotaxis in Toronto in 2028 in partnership with Element Fleet Management, the company's first deployment in Canada  —  Google's (GOOGL.O) Waymo said on Friday it plans to bring its autonomous ride-hailing service to Toronto in 2028, marking the self-driving company's …",
@@ -22,6 +71,30 @@
     "pub_date": "2026-10-16T12:38:15+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/brad-smith-microsoft-president-web-summit-stage.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/mobile/iphone-duo-preorders-day-one/",
+    "title": "iPhone Duo Preorders Are Open, but Don’t Expect Delivery Right Away",
+    "description": "Demand is strong for Apple’s first foldable, which will first be available on Oct. 23.",
+    "categories": [
+      "Breaking News",
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-10-16T12:38:03+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-iPhone-Duo-hero.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1012789/sony-xperia-10-vi-smartphone-android-17-update-security",
+    "title": "The Sony Xperia 10 VI won’t be getting a promised update to Android 17",
+    "description": "When the midrange Sony Xperia 10 VI was announced over two years ago with a Qualcomm Snapdragon 6 Gen 1 chipset and Android 14, Sony promised three major OS updates which would have included this year's Android 17 release. However, according to a notice posted to the company's UK support site, the Xperia 10 VI",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-16T12:36:11+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/sonyxperia.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://9to5mac.com/2026/10/16/iphone-duo-pre-orders-now-backordered-to-next-year/",
@@ -588,6 +661,7 @@
     "title": "OpenAI says its model paid for a deployment on an Ethereum test network with a wallet it did not own, after obtaining keys from public recovery phrases (Shaurya Malwa/CoinDesk)",
     "description": "Shaurya Malwa / CoinDesk:\nOpenAI says its model paid for a deployment on an Ethereum test network with a wallet it did not own, after obtaining keys from public recovery phrases  —  An OpenAI research model stuck without funds on an Ethereum test network went looking for someone else's wallet, found one through recovery phrases …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-16T10:10:22+00:00",
@@ -737,7 +811,6 @@
     "title": "Egypt’s Climate-Resilient ‘Super Corals’ Are Starting to Feel the Heat",
     "description": "Scientists can’t agree why reefs in the Red Sea have long been immune to bleaching. The answer could be the key to saving these tough corals as climate change begins taking its toll.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-10-16T09:00:00+00:00",
@@ -888,8 +961,7 @@
     "title": "Faraday Future unveils a $2,490 humanoid robot for developers and schools",
     "description": "Faraday Future and FF EAI Robotics Ecosystem launched two humanoid robots on 15 October: the $2,490 FF Nova for developers and schools, and the $299 FF Nova Mini for children. Nova’s first 100 units are invitation-only. The launch follows FFR’s agreement to buy FF’s robotics business in a $200M all-stock deal. Faraday Future and its",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-16T08:49:44+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/faraday-future-robot-lineup.avif",
@@ -2202,77 +2274,5 @@
     "pub_date": "2026-10-15T19:57:37+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/streaming-tv/amazon/if-youre-forgetful-amazons-bee-frontier-bee-eclipse-launch",
-    "title": "If you're forgetful, Amazon's Bee Frontier, Bee Eclipse use AI to remember for you",
-    "description": "Amazon launched two new Bee products: the Bee Frontier and Bee Eclipse. Each wearable AI device listens in on your conversations to remember and save info for you.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-15T19:57:29+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/mijuWRy28HSq2mV2Ge5PxG-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-    "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
-    "description": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said",
-    "categories": [
-      "AI & Machine Learning",
-      "Social & Media"
-    ],
-    "pub_date": "2026-10-15T19:57:16+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-    "description": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-15T19:55:25+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1012350/withings-plus-subscription-new-users-october-13-2026",
-    "title": "Withings now charges $100 per year to sync your data to other apps",
-    "description": "If you're a new user of Withings' fitness-tracking smartwatches or smart scales and want to sync and access your health data through third party apps like Apple Health or Google Health it's now going to cost you. According to a discussion on Withings' support forums spotted by MacRumors, new Withings accounts created from October 13th,",
-    "categories": [
-      "Gadgets & Hardware",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-15T19:52:13+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268601_withings_bodyfit_AKrales_0099.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
-    "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
-    "description": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
-    "categories": [
-      "Social & Media",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-15T19:29:05+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2288104/ftc-subpoenas-open-ai-and-anthropic-following-safety-failures/",
-    "title": "FTC subpoenas OpenAI and Anthropic following safety failures",
-    "description": "The FTC is investigating possible consumer harms at two major AI companies.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-15T19:28:53+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/ftc-subpoenas-openai-and-anthropic-following-safety-failures/l-intro-1792092416.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
