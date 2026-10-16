@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.techmeme.com/261016/p18#a261016p18",
+    "title": "Sources: Elon Musk approached Trump with the idea of slowing down Starshield in Ukraine; source: Trump agreed, paving the way for DoD to execute the slowdown (Joe Barnes/Telegraph)",
+    "description": "Joe Barnes / Telegraph:\nSources: Elon Musk approached Trump with the idea of slowing down Starshield in Ukraine; source: Trump agreed, paving the way for DoD to execute the slowdown  —  SpaceX founder had publicly blamed president for chaos over restrictions, but sources say he initiated them",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-16T19:05:02+00:00",
+    "image_url": "http://www.techmeme.com/261016/i18.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261016/p17#a261016p17",
     "title": "The PostgreSQL Global Development Group delays the general availability of PostgreSQL 19 after LLM-assisted code reviews uncovered architectural defects (Lindsay Clark/The Register)",
     "description": "Lindsay Clark / The Register:\nThe PostgreSQL Global Development Group delays the general availability of PostgreSQL 19 after LLM-assisted code reviews uncovered architectural defects  —  Core devs revert up to 10 features, push release to November, and blame better tooling rather than vibe coding",
@@ -9,6 +20,18 @@
     "pub_date": "2026-10-16T18:45:00+00:00",
     "image_url": "http://www.techmeme.com/261016/i17.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/billy-evans-elizabeth-holmes-you-can-see-everything",
+    "title": "Billy Evans: What we know about Elizabeth Holmes husband featured in You Can See Everything",
+    "description": "Elizabeth Holmes is the star of 'You Can See Everything,' but her husband Billy Evans draws plenty of attention too.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-16T18:43:28+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00FDJKyWZno3CiutSBaGGyk/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://mashable.com/tech/oct-16-dyson-airwrap-id-deal",
@@ -298,15 +321,14 @@
     "source_name": "THENEXTWEB.COM"
   },
   {
-    "link": "https://www.techradar.com/pro/thousands-of-specialized-engineers-deployed-by-aws-anthropic-to-prove-ai-is-worth-the-investment",
-    "title": "Thousands of specialized engineers deployed by AWS, Anthropic to prove AI is worth the investment",
-    "description": "Multiple AI giants have launched their own FDE schemes, but consultancies are also proving to be a vital part of the chain.",
+    "link": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-the-celebrity-traitors-2026-stream-episode-6-for-free-from-anywhere",
+    "title": "How to watch The Celebrity Traitors 2026 – Stream episode 6 for free from anywhere",
+    "description": "Here's how to watch Episode 5 of The Celebrity Traitors online and for FREE with Claudia Winkleman hosting another 21 celebs at her Scottish castle.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-16T17:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/cvUbbQwxuHbLsEVEuaWGcL-1920-80.jpg",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/6LEDuaQGczfw4ptXQVhzUQ-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -321,14 +343,15 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-the-celebrity-traitors-2026-stream-episode-6-for-free-from-anywhere",
-    "title": "How to watch The Celebrity Traitors 2026 – Stream episode 6 for free from anywhere",
-    "description": "Here's how to watch Episode 5 of The Celebrity Traitors online and for FREE with Claudia Winkleman hosting another 21 celebs at her Scottish castle.",
+    "link": "https://www.techradar.com/pro/thousands-of-specialized-engineers-deployed-by-aws-anthropic-to-prove-ai-is-worth-the-investment",
+    "title": "Thousands of specialized engineers deployed by AWS, Anthropic to prove AI is worth the investment",
+    "description": "Multiple AI giants have launched their own FDE schemes, but consultancies are also proving to be a vital part of the chain.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-16T17:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/6LEDuaQGczfw4ptXQVhzUQ-1920-80.jpg",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/cvUbbQwxuHbLsEVEuaWGcL-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -610,6 +633,7 @@
     "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
     "description": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
     "categories": [
+      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-10-16T16:00:00+00:00",
@@ -839,7 +863,6 @@
     "title": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
     "description": "Analogue announced new versions of its Super Nt and Mega Sg retro consoles today with a \"reworked industrial design\" and built-in wireless connectivity for controllers and accessories. Like the original versions, the new Super Nt Plus and Mega Sg Plus are able to play Nintendo and Sega Genesis cartridges using an FPGA processor that perfectly",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware",
       "Gaming"
     ],
@@ -874,7 +897,6 @@
     "title": "A fake WhatsApp clone is showing up before the real version on the Play Store",
     "description": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has racked up over 500,000 downloads and, at the time of writing, its",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware",
       "Software & Apps"
     ],
@@ -900,7 +922,6 @@
     "description": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware",
       "Gaming",
       "Software & Apps"
@@ -922,17 +943,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.techradar.com/pro/security/fake-calendar-invites-hit-thousands-of-businesses-in-microsoft-credential-phishing-campaign",
-    "title": "Fake calendar invites hit thousands of businesses in Microsoft credential phishing campaign",
-    "description": "Hundreds of thousands of spam emails are carrying .ics attachments or calendar invites.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-16T15:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/pNhuQEsYXM8HA7844RaotB-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/how-to-watch/boxing/tyson-fury-vs-anthony-joshua-tickets-and-netflix-details",
     "title": "How to watch Tyson Fury vs Anthony Joshua: Tickets and Netflix Details",
     "description": "All the ways to watch Tyson Fury vs Anthony Joshua live streams online, as the British rivals finally meet, in a title fight at the Millennium Stadium, Cardiff.",
@@ -941,6 +951,17 @@
     ],
     "pub_date": "2026-10-16T15:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/X7JACwU6CCvku9nFwveNFc-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/fake-calendar-invites-hit-thousands-of-businesses-in-microsoft-credential-phishing-campaign",
+    "title": "Fake calendar invites hit thousands of businesses in Microsoft credential phishing campaign",
+    "description": "Hundreds of thousands of spam emails are carrying .ics attachments or calendar invites.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-16T15:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/pNhuQEsYXM8HA7844RaotB-1920-80.png",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -1381,7 +1402,6 @@
     "title": "iPhone Duo orders are already delayed into 2027",
     "description": "Delivery estimates for the iPhone Duo slipped into next year in less than an hour after Apple opened preorders for it at 8AM ET on Friday. At the time of writing we are seeing late January delivery dates for every configuration on Apple's website. The foldable is slated to launch in stores on October 23rd,",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-16T13:10:11+00:00",
@@ -2310,28 +2330,5 @@
     "pub_date": "2026-10-16T09:00:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Excess-grease-in-need-of-a-good-waste-solution.jpg",
     "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://mashable.com/science/treble-clef-galaxy-cluster-merger-image",
-    "title": "Astronomers spot something positively enormous behind the Milky Way",
-    "description": "NASA's Chandra X-Ray Obervatory helps reveal a treble clef-shaped radio phoenix in a merging galaxy cluster behind the Milky Way.",
-    "categories": [
-      "Breaking News",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-16T09:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/0680FBx8HHyGuRtiRHoeMQk/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-16-updf-pro-lifetime-subscription",
-    "title": "Your PDF headaches could end with this $69.99 lifetime tool",
-    "description": "Get UPDF's lifetime PDF editor and converter for $69.99 (reg. $149.99), with tools to edit, convert, annotate, organize, and secure PDFs across multiple platforms.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T09:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00kPb6qzCvqtS8bdw9NUMEL/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
