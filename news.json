@@ -1,5 +1,52 @@
 [
   {
+    "link": "https://thenextweb.com/news/matters-ai-bank-5m-pre-seed-osterstrom",
+    "title": "Stockholm startup Matters raises $5m pre-seed to build an AI-native bank",
+    "description": "Matters, a Stockholm startup building an AI-powered consumer bank, has raised $5m in pre-seed funding as it comes out of stealth. Swedish angel investor Jakob Johansson led the round. Per Österström founded the company in April. He founded Sambla, a Nordic consumer loan broker, in 2014 and sold it to Nordic Capital in 2021. Matters plans",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-16T08:04:07+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/per-osterstrom-and-lars-ake-norling.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/ai-agents-guess-instead-of-look-fetch-decision",
+    "title": "Why would your AI agent rather guess than look?",
+    "description": "Try asking an AI assistant what a mid-range hotel in Lisbon costs for next weekend. You’ll get a number, usually stated with complete confidence. And if you then ask where it came from, the explanation gets vague fast. Sometimes the agent really did check a booking site a few seconds earlier. And sometimes it checked",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-16T08:02:07+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/ai-eye-magnifying-glass-red-illustration-decodo.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://mashable.com/article/prime-day-vs-black-friday",
+    "title": "Amazon Prime Day vs. Black Friday: When are the deals actually better?",
+    "description": "Amazon goes hard for Prime Day, its own shopping holiday, and for Black Friday, but there are some differences in specific deals.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-16T08:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00AK1K9waBPvcRtbGw06mk6/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/tesla-roadster-reveal-thrusters-2028",
+    "title": "Tesla unveils thruster-equipped Roadster, with production set for 2028",
+    "description": "Tesla revealed its second-generation Roadster on 15 October at a SpaceX site in McGregor, Texas. The car uses cold-gas thrusters built with SpaceX to jump, flip, and land. Reservations cost $50,000 or $250,000 depending on the version, and Musk says production starts in 2028. Tesla unveiled its second-generation Roadster on Thursday at a SpaceX test",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-16T07:59:30+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/tesla-roadster-rear-cold-gas-thrusters.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/nvidia-apple-25m-trump-ballroom-donors",
     "title": "Nvidia and Apple each gave $25M to Trump’s ballroom, Washington Post says",
     "description": "Both Nvidia and Apple have each contributed $25 million to the new White House ballroom being set up by President Donald Trump, the largest amount any donor has given. The numbers are from a donor list obtained confidentially by The Washington Post, which published the list on Thursday. It is an internal spreadsheet used for",
@@ -39,6 +86,7 @@
     "title": "Tesla unveils new Roadster and yes, it can actually fly",
     "description": "Tesla has unveiled its new Roadster after years of delays, but it still managed to surprise us.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-16T07:22:31+00:00",
@@ -220,7 +268,6 @@
     "title": "APOD: 2026 October 16 – Chasing the International Space Station",
     "description": "APOD Science APOD APOD: 2026 October 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-16T04:05:00+00:00",
@@ -627,17 +674,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-16-october-2026",
-    "title": "Quordle hints and answers for Friday, October 16 (game #1726)",
-    "description": "Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-15T23:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-16-october-2026",
     "title": "NYT Strands hints and answers for Friday, October 16 (game #957)",
     "description": "Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.",
@@ -646,6 +682,17 @@
     ],
     "pub_date": "2026-10-15T23:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/XrpFgcngWrtXQscKdLLAZB-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-16-october-2026",
+    "title": "Quordle hints and answers for Friday, October 16 (game #1726)",
+    "description": "Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-15T23:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2205,53 +2252,5 @@
     "pub_date": "2026-10-15T15:48:33+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/zeKbmPE8YTXp5kVggVjN7g-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/policy/1012047/nvidia-apple-google-microsoft-amazon-meta-trump-ballroom",
-    "title": "Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom",
-    "description": "We knew that a number of big tech firms were helping to fund the construction of Trump's ballroom, but we didn't know just how much they were giving to the cause. Now the Washington Post published a list of all the major donors to the White House ballroom project, along with how much each contributed.",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware",
-      "Government & Policy",
-      "Social & Media"
-    ],
-    "pub_date": "2026-10-15T15:46:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-    "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-    "description": "FTC may fine AI firms on par with companies that delay data breach reports.",
-    "categories": [
-      "AI & Machine Learning",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-10-15T15:43:24+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2277824748-1024x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/15/apple-tv-4k-homeview-pre-order-ship-times-now-delayed-to-late-november/",
-    "title": "Apple TV 4K, HomeView pre-order ship times now delayed later in November",
-    "description": "Apple unveiled new Apple TV 4K and HomeView devices this week that won’t be available until November 13. But pre-order shipping times for these products have already started slipping into late November for new orders.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-15T15:39:21+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/new-apple-tv-4k-2026.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/15/deals-homeview-discount-homepod-mini-2-airpods-pro-3/",
-    "title": "Deals: HomeView pre-order discount (more colors), HomePod mini 2, Mac Studio $220 off, AirPods Pro 3, more",
-    "description": "While the $50 price drop on AirPods Pro 3 is still rolling, today’s 9to5Toys Lunch Break is headlined by some new pre-order discounts on the new Apple HomeView – Amazon now has some additional colorways marked down. We also uncovered some pre-order promotions for the new HomePod mini 2 alongside the lowest price we have tracked yet on Apple’s 1TB 2026 M5 Max Mac Studio at $220 off and Amazon’s giant ongoing $600 price drop on this M5 Pro MacBook Pro. Head below for a closer look at the details.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-15T15:33:26+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-HomeView-AirPods-Pro-3.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
