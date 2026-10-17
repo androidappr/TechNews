@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://thenextweb.com/news/daniela-amodei-ai-girlfriends-boyfriends-terrible-use",
+    "title": "Daniela Amodei warns against AI girlfriends, Business Insider reports",
+    "description": "Anthropic president Daniela Amodei has warned that AI romantic partners risk driving people further apart, Business Insider reported. She spoke in a prerecorded interview with Arianna Huffington, founder and chief executive of Thrive Global. It was made for the Think Health conference in Bentonville, Arkansas, on Friday. “I think that’s a terrible use of AI",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-17T18:48:49+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/daniela-amodei-anthropic-president-press-kit.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "description": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-17T18:48:08+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://www.engadget.com/2284102/how-android-auto-used-outside-of-car/",
     "title": "Android Auto can be used outside of your car: Here's how",
     "description": "It might sound weird to use Android Auto outside of a vehicle, but doing so has unexpected productivity benefits.",
@@ -403,7 +428,6 @@
     "title": "DeepSeek releases V4.1-Flash-1017, an update it says offers \"stronger benchmark performance, faster task completion, and shorter outputs\" than its predecessor (Saritha Rai/Bloomberg)",
     "description": "Saritha Rai / Bloomberg:\nDeepSeek releases V4.1-Flash-1017, an update it says offers “stronger benchmark performance, faster task completion, and shorter outputs” than its predecessor  —  DeepSeek released an update of its AI model this weekend that it says is faster and leaner, ramping …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-17T15:00:37+00:00",
@@ -415,7 +439,6 @@
     "title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
     "description": "If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch discounted to $39.88, just over $20 lower than its usual price. This version of the game follows the same puzzle formula",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware",
       "Gaming"
     ],
@@ -450,7 +473,6 @@
     "title": "How to watch Dubois vs Wardley 2: Live Streams",
     "description": "All the ways to watch Dubois vs Wardley 2 live streams online, including PPV options, as the British heavyweights collide again in their rematch at London's O2.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-17T15:00:00+00:00",
@@ -611,7 +633,6 @@
     "title": "Verizon will charge you $10 a month for iPhone Handoff",
     "description": "iPhone Handoff, which lets you share the same number on two devices, will cost you $10 a month on Verizon.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-17T13:45:16+00:00",
@@ -757,7 +778,6 @@
     "title": "Verizon's opening iPhone Duo deal gets you a device for just over $70/mo — oh, and that includes the plan too",
     "description": "Verizon's leading the charge for iPhone Duo preorders this week by including an iPad or Apple Watch alongside an all-in-one deal for just over $70/mo.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-17T13:00:00+00:00",
@@ -2041,17 +2061,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "title": "Replit is no longer working with Anthropic, CEO says",
-    "description": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-16T21:22:28+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
     "link": "https://www.techradar.com/pro/uplift-v3-l-shaped-standing-desk-review",
     "title": "Uplift V3 L-shaped standing desk review",
     "description": "The Uplift V3 L-shaped standing desk is an expansive workstation that's on-point for those that need a broader desk - so long as you have the space.",
@@ -2251,16 +2260,5 @@
     "pub_date": "2026-10-16T19:55:17+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-vs-iphone-duo-fi.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/mapquest-fusers-can-find-nearby-flock-cameras",
-    "title": "MapQuest lets you track Flock cameras",
-    "description": "MapQuest adds new surveillance layer, documenting locations of surveillance cameras in your area.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T19:52:57+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01MJ6zF3OpPaYLZwE1f7Yds/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
