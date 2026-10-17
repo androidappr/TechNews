@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://thenextweb.com/news/anduril-employee-tender-offer-90bn-valuation",
+    "title": "Anduril opens a $1.3bn employee tender at a $90bn valuation",
+    "description": "Anduril is letting current and former employees sell shares in a tender offer that values the defence tech company at about $90bn. The shares are priced at $94.80 each, and the offer is capped at about $1.3bn, according to Bloomberg’s sources. Rebecca Torrence, Edward Ludlow, Natasha Mascarenhas and Katrina Manson first reported the tender for",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-17T16:12:26+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/palmer-luckey-speaking-podium-taipei-forum.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/just-when-we-thought-targeted-ads-couldnt-get-any-worse-these-were-found-serving-malware",
+    "title": "Just when we thought targeted ads couldn't get any worse, these were found serving malware",
+    "description": "Al Jazeera journalists were infected, but the number of victims could be a lot bigger.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-17T16:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/HXjwb27v3qiaB8u9JLsKiT-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2284034/samsung-galaxy-feature-protects-from-untrustworth-apps-auto-blocker/",
+    "title": "This Samsung Galaxy feature can protect you from untrustworthy apps",
+    "description": "Samsung's Auto Blocker protects your Galaxy phone from security threats, but it does have drawbacks. Here's what it does and when you might want to turn it off.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-17T16:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/this-samsung-galaxy-feature-can-protect-you-from-untrustworthy-apps/l-intro-1791578177.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/10/17/iphone-handoff-pricing-details-ee-uk/",
     "title": "EE announces iPhone Handoff pricing details for UK customers",
     "description": "As part of its iPhone Duo preorder announcement, UK carrier EE has announced pricing details for iPhone Handoff – making it the first carrier in the UK to do so. Here are the details.\n\n\n\n more…",
@@ -13,7 +48,7 @@
   {
     "link": "https://thenextweb.com/news/states-sue-openai-chatgpt-children-safety",
     "title": "Eight US states sue OpenAI, alleging ChatGPT harms children",
-    "description": "Attorneys general in Arizona, Arkansas, Idaho, Iowa, Kansas, Montana, Nebraska and West Virginia filed separate lawsuits against OpenAI on 14 October. Each claims ChatGPT has hurt young users and that the company misled the public about its safety. Reuters, which first reported the suits, called them the most significant coordinated state action yet against an",
+    "description": "Attorneys general in Arizona, Arkansas, Idaho, Iowa, Kansas, Montana, Nebraska and West Virginia filed separate lawsuits against OpenAI on 14 October. Each claims ChatGPT has hurt young users and that the company misled the public about its safety. Diana Novak Jones, who first reported the suits for Reuters, called them the most significant coordinated state",
     "categories": [
       "AI & Machine Learning",
       "Cybersecurity & Privacy"
@@ -433,6 +468,17 @@
     "source_name": "ZDNET.COM"
   },
   {
+    "link": "https://www.techradar.com/computing/gaming-pcs/ram-crisis-getting-you-down-heres-how-to-upgrade-your-gaming-pc-without-going-broke",
+    "title": "Nevermind the RAM crisis, these are the 5 things you can do for the best PC gaming experience without overpaying for parts",
+    "description": "Five ways today's PC gamers can keep costs down amid the ongoing RAM crisis.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-17T13:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/a3oga3MbDWd8359JKMMbsR-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techradar.com/phones/iphone/verizons-opening-iphone-duo-deal-gets-you-a-device-for-just-over-usd70-mo-oh-and-that-includes-the-plan-too",
     "title": "Verizon's opening iPhone Duo deal gets you a device for just over $70/mo — oh, and that includes the plan too",
     "description": "Verizon's leading the charge for iPhone Duo preorders this week by including an iPad or Apple Watch alongside an all-in-one deal for just over $70/mo.",
@@ -442,17 +488,6 @@
     ],
     "pub_date": "2026-10-17T13:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/ZPFDRnBuxncXCmPvkFUgVJ-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/gaming-pcs/ram-crisis-getting-you-down-heres-how-to-upgrade-your-gaming-pc-without-going-broke",
-    "title": "Nevermind the RAM crisis, these are the 5 things you can do for the best PC gaming experience without overpaying for parts",
-    "description": "Five ways today's PC gamers can keep costs down amid the ongoing RAM crisis.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-17T13:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/a3oga3MbDWd8359JKMMbsR-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -555,7 +590,6 @@
     "title": "More than Just Storage: 8 Ways To Repurpose Your Old USB Flash Drive",
     "description": "It's time to do something with that drawer full of old USB flash drives. Breathe new life into unused tech with simple, useful tricks spanning an array of uses.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-17T12:15:00+00:00",
@@ -663,17 +697,6 @@
     "source_name": "ARSTECHNICA.COM"
   },
   {
-    "link": "https://www.techradar.com/how-to-watch/football/watch-brentford-vs-liverpool-premier-league-2026-27",
-    "title": "How to watch Brentford vs Liverpool: Live streams and TV channels for Premier League 2026/27",
-    "description": "All the ways to watch Brentford vs Liverpool live streams for free from anywhere in the Premier League 2026/27, as The Bees look to extend their unbeaten run.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-17T11:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/9GDWNsSWvK3VsEeYYVmahU-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/how-to-watch/football/man-city-vs-ipswich-premier-league-2026-27",
     "title": "How to watch Man City vs Ipswich: Live streams and TV channels for Premier League 2026/27",
     "description": "All the ways to watch Man City vs Ipswich live streams for free from anywhere in the Premier League 2026/27, as Enzo Maresca's leaders try to stay perfect.",
@@ -682,6 +705,17 @@
     ],
     "pub_date": "2026-10-17T11:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/Ah5U9UHqKRsNePFsCiQS4M-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/how-to-watch/football/watch-brentford-vs-liverpool-premier-league-2026-27",
+    "title": "How to watch Brentford vs Liverpool: Live streams and TV channels for Premier League 2026/27",
+    "description": "All the ways to watch Brentford vs Liverpool live streams for free from anywhere in the Premier League 2026/27, as The Bees look to extend their unbeaten run.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-17T11:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/9GDWNsSWvK3VsEeYYVmahU-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2223,38 +2257,5 @@
     "pub_date": "2026-10-16T17:35:05+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/bmBwfAjjnb3SV27iRx2b4G-1920-80.jpg",
     "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/phones/something-was-thrown-out-with-the-bathwater-when-we-moved-to-modern-smartphones-clicks-co-founder-jeff-gadway-on-bringing-physical-keyboards-back-to-mobile-phones",
-    "title": "'Something was thrown out with the bathwater when we moved to modern smartphones': Clicks co-founder Jeff Gadway on bringing physical keyboards back to mobile phones",
-    "description": "Clicks aims to remind us what phones are actually supposed to be for.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T17:33:23+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/xfid2RQaCAwCLvKZEu9RAP-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/nobody-told-ecoflow-that-prime-day-is-over-because-its-delta-3-ultra-portable-power-station-is-still-on-sale-with-usd250-off",
-    "title": "EcoFlow's Prime Day sale lives on with $250 off the Delta 3 Ultra power station",
-    "description": "EcoFlow clearly hasn't finished celebrating Prime Day, because its Delta 3 Ultra portable power station is still available with a $250 discount.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T17:23:30+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/9FVNoY7kFmy9QeFwwd2JMT-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/ad/life/how-to-pick-the-right-wellness-gifts-for-everyone-on-your-holiday-list",
-    "title": "How to Pick the Right Wellness Gifts for Everyone on Your Holiday List",
-    "description": "Shopping for a fitness fan, frequent traveler or skincare devotee? From massage guns to LED masks, here's how to choose the Therabody device they'll actually want to use.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T17:15:46+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07MpFofagKK35VS9R16zES8/hero-image.png",
-    "source_name": "MASHABLE.COM"
   }
 ]
