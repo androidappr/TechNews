@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
+    "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
+    "description": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful, ultra-fast-charging electric people-hauler. The AMG GT SUV (say that five times fast) marks",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-17T17:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/26C0332_071.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
     "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
     "description": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery was a fraud. Musk has now agreed to settle the two lawsuits filed in",
@@ -199,17 +210,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.techradar.com/how-to-listen-to-dubois-vs-wardley-ii-from-anywhere-in-the-world",
-    "title": "How to listen to Dubois vs Wardley II from anywhere in the world",
-    "description": "Here's how to listen to Dubois vs Wardley II from anywhere in the world as the two meet again just months after their dramatic first encounter.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-17T15:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/7tcCKKBZCNttzuKuAFFisA-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/how-to-watch/boxing/daniel-dubois-vs-fabio-wardley-2-live-stream-ppv-cost",
     "title": "How to watch Dubois vs Wardley 2: Live Streams",
     "description": "All the ways to watch Dubois vs Wardley 2 live streams online, including PPV options, as the British heavyweights collide again in their rematch at London's O2.",
@@ -219,6 +219,17 @@
     ],
     "pub_date": "2026-10-17T15:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/Uc7Z966oWTPsCAgKukNaAQ-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/how-to-listen-to-dubois-vs-wardley-ii-from-anywhere-in-the-world",
+    "title": "How to listen to Dubois vs Wardley II from anywhere in the world",
+    "description": "Here's how to listen to Dubois vs Wardley II from anywhere in the world as the two meet again just months after their dramatic first encounter.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-17T15:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/7tcCKKBZCNttzuKuAFFisA-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -470,7 +481,6 @@
     "description": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks,",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-10-17T13:00:00+00:00",
@@ -482,7 +492,6 @@
     "title": "Bose’s new wired earbuds are simple in the best way",
     "description": "After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wired counterparts have stuck around, and their sales even went up this year after five years of decline. Part of the resurgence can be tied to the fact that they're cool",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-17T13:00:00+00:00",
@@ -505,12 +514,22 @@
     "title": "Plug-in solar is legal in these 10 states now – how it could save you money",
     "description": "So-called balcony solar setups are becoming legal across the US. Here’s the latest.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-17T13:00:00+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/abc106f7-9ae3-4a45-8de8-2da5b0a9b031.jpg",
     "source_name": "ZDNET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/gaming-pcs/ram-crisis-getting-you-down-heres-how-to-upgrade-your-gaming-pc-without-going-broke",
+    "title": "Nevermind the RAM crisis, these are the 5 things you can do for the best PC gaming experience without overpaying for parts",
+    "description": "Five ways today's PC gamers can keep costs down amid the ongoing RAM crisis.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-17T13:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/a3oga3MbDWd8359JKMMbsR-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://www.techradar.com/phones/iphone/verizons-opening-iphone-duo-deal-gets-you-a-device-for-just-over-usd70-mo-oh-and-that-includes-the-plan-too",
@@ -525,23 +544,11 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techradar.com/computing/gaming-pcs/ram-crisis-getting-you-down-heres-how-to-upgrade-your-gaming-pc-without-going-broke",
-    "title": "Nevermind the RAM crisis, these are the 5 things you can do for the best PC gaming experience without overpaying for parts",
-    "description": "Five ways today's PC gamers can keep costs down amid the ongoing RAM crisis.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-17T13:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/a3oga3MbDWd8359JKMMbsR-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://thenextweb.com/news/gartner-ai-infrastructure-spending-3-5-trillion-write-down-neoclouds",
     "title": "Gartner warns $3.5tn of AI infrastructure spending is at write-down risk",
     "description": "“All of them want to be the full-stack. They can’t all be,” Gartner analyst Will Sommer told Bloomberg. More than $3.5tn of AI infrastructure spending faces possible impairment by the end of 2030, Gartner said on 14 October. That would happen if AI providers keep spending at their current pace. Companies must write down impaired",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-17T12:51:43+00:00",
@@ -2245,16 +2252,5 @@
     "pub_date": "2026-10-16T17:56:09+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/kroger-marketplace-store-exterior-athens-georgia.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "title": "India becomes the latest country to report rogue AI agent activity",
-    "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-16T17:52:24+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
