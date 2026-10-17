@@ -1,5 +1,18 @@
 [
   {
+    "link": "https://thenextweb.com/news/starshield-ukraine-speed-cap-drones-timeline",
+    "title": "Ukraine’s drones still lose Starshield above 161 km/h, Zelenskyy says",
+    "description": "“We lose Starlink and lose the interceptor,” Ukrainian President Volodymyr Zelenskyy told reporters on 17 October, Bloomberg reported. Zelenskyy said speed limits on Starshield, SpaceX’s military satellite network, remained in place across Ukraine. Ukraine’s interceptor drones lose the link above 161 km/h (100 mph), he said in audio messages on WhatsApp. The Russian jet-powered drones",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-17T15:34:34+00:00",
+    "image_url": "https://media.thenextweb.com/2026/05/starlink-price-increase-standby-mode-roam-residential.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
     "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
     "description": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
@@ -9,6 +22,17 @@
     "pub_date": "2026-10-17T15:30:00+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2284032/why-some-places-blurry-google-maps/",
+    "title": "Why are some locations blurred out on Google Maps?",
+    "description": "When using Google Maps, it isn't rare to see blurred locations. Why does this happen? The answer is simple, and it has everything to do with security.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-17T15:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/why-are-some-locations-blurred-out-on-google-maps/l-intro-1791496081.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
@@ -131,6 +155,7 @@
     "title": "Zelenskyy says Starshield restrictions are affecting only Ukraine, leading him to believe they are a \"planned operation\" rather than technical issues (Bloomberg)",
     "description": "Bloomberg:\nZelenskyy says Starshield restrictions are affecting only Ukraine, leading him to believe they are a “planned operation” rather than technical issues  —  Restrictions on Ukraine's military use of SpaceX's Starlink system appear to be deliberate and not the result of any technical problems …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-17T14:25:03+00:00",
@@ -2232,27 +2257,5 @@
     "pub_date": "2026-10-16T17:11:05+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/KC5TE4KsSZ3QKJ4upzaGnK-1920-80.png",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/",
-    "title": "Anthropic gives third-party auditors ’employee-like access’ in AI industry first",
-    "description": "As AI labs continue to self-regulate, external evaluators play a crucial role in spotting risks.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T17:10:27+00:00",
-    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/auditblue-GettyImages-1269457842.jpg",
-    "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
-    "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
-    "description": "FDA scientists said none of the popular drugs have been proven safe or effective.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T17:05:59+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
