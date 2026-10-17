@@ -1,5 +1,88 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+    "title": "Meta removes language that may have allowed it to scrape news sites",
+    "description": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve,",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-17T15:04:36+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261017/p13#a261017p13",
+    "title": "DeepSeek releases V4.1-Flash-1017, an update it says offers \"stronger benchmark performance, faster task completion, and shorter outputs\" than its predecessor (Saritha Rai/Bloomberg)",
+    "description": "Saritha Rai / Bloomberg:\nDeepSeek releases V4.1-Flash-1017, an update it says offers “stronger benchmark performance, faster task completion, and shorter outputs” than its predecessor  —  DeepSeek released an update of its AI model this weekend that it says is faster and leaner, ramping …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-17T15:00:37+00:00",
+    "image_url": "http://www.techmeme.com/261017/i13.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
+    "title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
+    "description": "If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch discounted to $39.88, just over $20 lower than its usual price. This version of the game follows the same puzzle formula",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-17T15:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24018761/Nintendo_Direct_9.13.2022_60_17_screenshot.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2284031/amazon-alexa-common-problems-fixes/",
+    "title": "Common problems with Amazon Alexa and how to fix them",
+    "description": "Amazon Alexa is a very useful gadget to have at home, but it isn't exempt from having some issues. Fortunately, troubleshooting is easy as pie.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-17T15:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/common-problems-with-amazon-alexa-and-how-to-fix-them/l-intro-1791500328.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/how-to-watch/boxing/daniel-dubois-vs-fabio-wardley-2-live-stream-ppv-cost",
+    "title": "How to watch Dubois vs Wardley 2: Live Streams",
+    "description": "All the ways to watch Dubois vs Wardley 2 live streams online, including PPV options, as the British heavyweights collide again in their rematch at London's O2.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-17T15:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Uc7Z966oWTPsCAgKukNaAQ-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/how-to-listen-to-dubois-vs-wardley-ii-from-anywhere-in-the-world",
+    "title": "How to listen to Dubois vs Wardley II from anywhere in the world",
+    "description": "Here's how to listen to Dubois vs Wardley II from anywhere in the world as the two meet again just months after their dramatic first encounter.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-17T15:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/7tcCKKBZCNttzuKuAFFisA-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/gpu/are-we-seeing-the-first-signs-of-nvidia-abandoning-pc-gamers-as-the-rtx-5090-seemingly-disappears-from-shelves-im-getting-more-worried-about-geforce-gpus",
+    "title": "As Nvidia's RTX 5090 seemingly disappears, I'm worried about GeForce GPUs",
+    "description": "Is the plug starting to be pulled on the GeForce GPU range? And is Nvidia turning to cloud gaming instead?",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-17T15:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/b4BaqDTfZg32izULhgfJ2T-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://mashable.com/tech/sennheiser-accentum-clip-open-earbuds-availability",
     "title": "Sennheiser Accentum Clip open earbuds are elite. There’s just one major issue.",
     "description": "Sennheiser finally has open earbuds, the clip-on style Accentum Clip. However, one bad decision stops its momentum.",
@@ -11,17 +94,6 @@
     "source_name": "MASHABLE.COM"
   },
   {
-    "link": "https://www.engadget.com/2284029/both-ethernet-and-wifi-for-home/",
-    "title": "Should you have both Ethernet and Wi-Fi for your home?",
-    "description": "Ethernet will keep your devices connecting online in record time, while Wi-Fi keeps them untethered. But how well can they both work together?",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-17T14:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/should-you-have-both-ethernet-and-wi-fi-for-your-home/l-intro-1791494132.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
     "link": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
     "title": "Jad Abumrad loves a butterfly knife and a good springy pillow",
     "description": "It's hard to overstate Jad Abumrad's impact on the podcasting world. He created and hosted Dolly Parton's America and Fela Kuti: Fear No Man, two Peabody Award-winning shows that offered unprecedented looks at the lives of two of the most important music icons of the last century. Before that, though, he created Radiolab, an experimental",
@@ -31,6 +103,17 @@
     "pub_date": "2026-10-17T14:30:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Jad-WideEyedPortrait-14-Full.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2284029/both-ethernet-and-wifi-for-home/",
+    "title": "Should you have both Ethernet and Wi-Fi for your home?",
+    "description": "Ethernet will keep your devices connecting online in record time, while Wi-Fi keeps them untethered. But how well can they both work together?",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-17T14:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/should-you-have-both-ethernet-and-wi-fi-for-your-home/l-intro-1791494132.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.techmeme.com/261017/p12#a261017p12",
@@ -79,6 +162,21 @@
     "source_name": "MASHABLE.COM"
   },
   {
+    "link": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
+    "title": "SpaceX’s ambitious, expensive gamble to replace AT&#038;T, T-Mobile, and Verizon",
+    "description": "Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed to buy a big chunk of low-band spectrum to expand the Starlink network, spectrum that’s been traded around the telecom business",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Mobile & Telecom",
+      "Science & Environment",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-17T14:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_SpaceX_Telecom.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.engadget.com/2284027/how-many-watts-bluetooth-speaker-need/",
     "title": "How many watts should your Bluetooth speaker have?",
     "description": "If you're confused by Bluetooth speaker wattage, here's what those numbers actually mean. Spoiler: more wattage doesn't necessarily mean a louder speaker.",
@@ -99,21 +197,6 @@
     "pub_date": "2026-10-17T14:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/n7cUNif3gZKmyHgiXuBmAi-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
-    "title": "SpaceX’s ambitious, expensive gamble to replace AT&#038;T, T-Mobile, and Verizon",
-    "description": "Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed to buy a big chunk of low-band spectrum to expand the Starlink network, spectrum that’s been traded around the telecom business",
-    "categories": [
-      "Breaking News",
-      "Business & Startups",
-      "Mobile & Telecom",
-      "Science & Environment",
-      "Social & Media"
-    ],
-    "pub_date": "2026-10-17T14:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_SpaceX_Telecom.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://thenextweb.com/news/globalfoundries-japan-21bn-new-york-fabs-us-stake",
@@ -279,6 +362,17 @@
     "source_name": "ZDNET.COM"
   },
   {
+    "link": "https://www.techradar.com/computing/gaming-pcs/ram-crisis-getting-you-down-heres-how-to-upgrade-your-gaming-pc-without-going-broke",
+    "title": "Nevermind the RAM crisis, these are the 5 things you can do for the best PC gaming experience without overpaying for parts",
+    "description": "Five ways today's PC gamers can keep costs down amid the ongoing RAM crisis.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-17T13:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/a3oga3MbDWd8359JKMMbsR-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techradar.com/phones/iphone/verizons-opening-iphone-duo-deal-gets-you-a-device-for-just-over-usd70-mo-oh-and-that-includes-the-plan-too",
     "title": "Verizon's opening iPhone Duo deal gets you a device for just over $70/mo — oh, and that includes the plan too",
     "description": "Verizon's leading the charge for iPhone Duo preorders this week by including an iPad or Apple Watch alongside an all-in-one deal for just over $70/mo.",
@@ -288,17 +382,6 @@
     ],
     "pub_date": "2026-10-17T13:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/ZPFDRnBuxncXCmPvkFUgVJ-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/gaming-pcs/ram-crisis-getting-you-down-heres-how-to-upgrade-your-gaming-pc-without-going-broke",
-    "title": "Nevermind the RAM crisis, these are the 5 things you can do for the best PC gaming experience without overpaying for parts",
-    "description": "Five ways today's PC gamers can keep costs down amid the ongoing RAM crisis.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-17T13:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/a3oga3MbDWd8359JKMMbsR-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -483,7 +566,6 @@
     "title": "Science says your boss should talk less in meetings",
     "description": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-10-17T11:15:11+00:00",
@@ -2172,83 +2254,5 @@
     "pub_date": "2026-10-16T17:03:29+00:00",
     "image_url": "https://www.engadget.com/img/gallery/analogue-returns-to-the-16-bit-era-with-the-mega-sg-and-super-nt/l-intro-1792170102.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/phones/iphone/well-that-went-fast-apple-iphone-duo-shipping-estimates-have-slipped-to-2027",
-    "title": "Want Apple's first folding iPhone? You might be waiting until 2027",
-    "description": "Apple’s first folding iPhone has seen shipping estimates slip to 2027 just hours after pre-orders went live on the Apple Store, but there are still ways to try to get one sooner.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-16T17:02:47+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/P3WCZtBuCJwVV2TotRtJAK-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/mi5-ai-threat-assessment-centre-openai-mps",
-    "title": "MI5 opens an AI threat centre as OpenAI tells MPs more incidents may come",
-    "description": "“Human history has given us no experience of facing an actor which is smarter than we are. Is capable of out-thinking us.” Sir Ken McCallum, director general of MI5, said this about AI on 13 October. He was giving his annual threat update at MI5’s London headquarters. In the same speech, he announced a new",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-16T17:02:36+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/thames-house-mi5-headquarters-london-arch-facade.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/thousands-of-specialized-engineers-deployed-by-aws-anthropic-to-prove-ai-is-worth-the-investment",
-    "title": "Thousands of specialized engineers deployed by AWS, Anthropic to prove AI is worth the investment",
-    "description": "Multiple AI giants have launched their own FDE schemes, but consultancies are also proving to be a vital part of the chain.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T17:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/cvUbbQwxuHbLsEVEuaWGcL-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/entertainment/how-to-watch/how-to-watch-zdfneo-from-anywhere",
-    "title": "How to watch ZDFneo from anywhere",
-    "description": "How to watch ZDFneo from anywhere with a VPN, for free coverage of the Germany football team and films and TV shows like Under Salt Marsh and Kneecap.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T17:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/v7eqB8wF4s3hUYVTYh9ReW-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-the-celebrity-traitors-2026-stream-episode-6-for-free-from-anywhere",
-    "title": "How to watch The Celebrity Traitors 2026 – Stream episode 6 for free from anywhere",
-    "description": "Here's how to watch Episode 5 of The Celebrity Traitors online and for FREE with Claudia Winkleman hosting another 21 celebs at her Scottish castle.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T17:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/6LEDuaQGczfw4ptXQVhzUQ-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/corsairs-32gb-vengeance-rgb-ddr5-hits-the-amd-and-intel-6000mt-s-sweet-spot-for-usd510",
-    "title": "Corsair’s 32GB Vengeance RGB DDR5 hits the AMD and Intel 6000MT/s sweet spot for $510",
-    "description": "Corsair’s Vengeance RGB is one of our top DDR5 picks. Best Buy has the 32GB DDR5-6000 kit with AMD EXPO and Intel support down to $510.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T16:52:50+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/5GSZTchHE53Rkjh8Qz9Ucm-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.zdnet.com/tech/iphone-duo-preorders-delay-supply/",
-    "title": "Want an iPhone Duo before 2027? Don’t preorder from Apple – try this instead",
-    "description": "Estimates for Duo preorders are now showing a ship date of late January, marking a new wait time record for Apple and its customers.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-16T16:44:50+00:00",
-    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00521.jpeg",
-    "source_name": "ZDNET.COM"
   }
 ]
