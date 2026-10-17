@@ -1,5 +1,43 @@
 [
   {
+    "link": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
+    "title": "SpaceX’s ambitious, expensive gamble to replace AT&#038;T, T-Mobile, and Verizon",
+    "description": "Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed to buy a big chunk of low-band spectrum to expand the Starlink network, spectrum that’s been traded around the telecom business",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Mobile & Telecom",
+      "Science & Environment",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-17T14:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_SpaceX_Telecom.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/xbow-chrome-exploit-gpt-5-6-sol-250000-six-days",
+    "title": "XBOW used GPT-5.6 Sol to build a $250,000 Chrome exploit in six days",
+    "description": "“Pre-LLMs a Chrome full chain would take a team of four around 6-9 months to be produced, our first submission took 2 months. The awarded one? six days,” XBOW researcher Brendan Dolan-Gavitt wrote in a technical write-up. Security company XBOW has won $250,000 from Google’s Chrome bug bounty programme, XBOW said on 13 October. It",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-10-17T13:49:47+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/laptop-browser-google-search-coffee-cup-wooden-table.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2289578/verizon-10-a-month-iphone-handoff/",
+    "title": "Verizon will charge you $10 a month for iPhone Handoff",
+    "description": "iPhone Handoff, which lets you share the same number on two devices, will cost you $10 a month on Verizon.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-17T13:45:16+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/verizon-will-charge-you-10-a-month-for-iphone-handoff/l-intro-1792244603.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261017/p11#a261017p11",
     "title": "As AI giants rack up potential legal liabilities of tens of billions amid safety incidents, insurers worry claims may outpace limits on existing coverage (Jean Eaglesham/Wall Street Journal)",
     "description": "Jean Eaglesham / Wall Street Journal:\nAs AI giants rack up potential legal liabilities of tens of billions amid safety incidents, insurers worry claims may outpace limits on existing coverage  —  The artificial-intelligence industry's phenomenal rate of growth means claims have the potential to outpace the limits on existing coverage",
@@ -10,6 +48,17 @@
     "pub_date": "2026-10-17T13:45:01+00:00",
     "image_url": "http://www.techmeme.com/261017/i11.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2284023/xiaomi-phone-why-so-many-ads/",
+    "title": "Why Xiaomi phones have so many ads (and how to block them)",
+    "description": "Xiaomi phone users know these phones have too many ads, and the reason is very simple. Learn how to remove them so they're not a hassle anymore.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-17T13:45:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/why-xiaomi-phones-have-so-many-ads-and-how-to-block-them/l-intro-1791489762.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.engadget.com/2283984/microsoft-doesnt-want-you-to-buy-office-free-alternative/",
@@ -106,17 +155,6 @@
     "source_name": "ZDNET.COM"
   },
   {
-    "link": "https://www.techradar.com/phones/iphone/verizons-opening-iphone-duo-deal-gets-you-a-device-for-just-over-usd70-mo-oh-and-that-includes-the-plan-too",
-    "title": "Verizon's opening iPhone Duo deal gets you a device for just over $70/mo — oh, and that includes the plan too",
-    "description": "Verizon's leading the charge for iPhone Duo preorders this week by including an iPad or Apple Watch alongside an all-in-one deal for just over $70/mo.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-17T13:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ZPFDRnBuxncXCmPvkFUgVJ-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/computing/gaming-pcs/ram-crisis-getting-you-down-heres-how-to-upgrade-your-gaming-pc-without-going-broke",
     "title": "Nevermind the RAM crisis, these are the 5 things you can do for the best PC gaming experience without overpaying for parts",
     "description": "Five ways today's PC gamers can keep costs down amid the ongoing RAM crisis.",
@@ -126,6 +164,18 @@
     ],
     "pub_date": "2026-10-17T13:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/a3oga3MbDWd8359JKMMbsR-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/phones/iphone/verizons-opening-iphone-duo-deal-gets-you-a-device-for-just-over-usd70-mo-oh-and-that-includes-the-plan-too",
+    "title": "Verizon's opening iPhone Duo deal gets you a device for just over $70/mo — oh, and that includes the plan too",
+    "description": "Verizon's leading the charge for iPhone Duo preorders this week by including an iPad or Apple Watch alongside an all-in-one deal for just over $70/mo.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-17T13:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ZPFDRnBuxncXCmPvkFUgVJ-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -340,18 +390,6 @@
     "source_name": "ARSTECHNICA.COM"
   },
   {
-    "link": "https://www.techradar.com/how-to-watch/football/watch-brentford-vs-liverpool-premier-league-2026-27",
-    "title": "How to watch Brentford vs Liverpool: Live streams and TV channels for Premier League 2026/27",
-    "description": "All the ways to watch Brentford vs Liverpool live streams for free from anywhere in the Premier League 2026/27, as The Bees look to extend their unbeaten run.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-17T11:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/9GDWNsSWvK3VsEeYYVmahU-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/how-to-watch/football/man-city-vs-ipswich-premier-league-2026-27",
     "title": "How to watch Man City vs Ipswich: Live streams and TV channels for Premier League 2026/27",
     "description": "All the ways to watch Man City vs Ipswich live streams for free from anywhere in the Premier League 2026/27, as Enzo Maresca's leaders try to stay perfect.",
@@ -361,6 +399,18 @@
     ],
     "pub_date": "2026-10-17T11:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/Ah5U9UHqKRsNePFsCiQS4M-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/how-to-watch/football/watch-brentford-vs-liverpool-premier-league-2026-27",
+    "title": "How to watch Brentford vs Liverpool: Live streams and TV channels for Premier League 2026/27",
+    "description": "All the ways to watch Brentford vs Liverpool live streams for free from anywhere in the Premier League 2026/27, as The Bees look to extend their unbeaten run.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-17T11:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/9GDWNsSWvK3VsEeYYVmahU-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -414,7 +464,6 @@
     "title": "I Test Home Security Tech. Here Are 4 Devices I Rely on to Guard My Porch",
     "description": "Porch security is the best, easiest safety project for anyone new to smart homes.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-10-17T10:00:00+00:00",
@@ -2207,51 +2256,5 @@
     "pub_date": "2026-10-16T16:21:38+00:00",
     "image_url": "https://media.wired.com/photos/6acfdbcff99bae5deb44dd4d/master/pass/Thank-Gen-Z-for-Girls-Revival-Culture-TCDGIRL_EC147.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/apple-nvidia-list-of-tech-companies-that-donated-to-donald-trump-white",
-    "title": "Apple, Nvidia lead list of tech companies that donated to Trump’s White House ballroom project",
-    "description": "Here are the tech companies that gave millions to Donald Trump's White House ballroom – and just how much they donated.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T16:15:48+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07aiRrQEETUSAIB14qRJg5Y/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/mapquest-flock-surveillance-camera-layer",
-    "title": "MapQuest now shows Flock and other surveillance cameras on its map",
-    "description": "MapQuest has added a surveillance layer to its app that shows known outdoor cameras and licence plate readers, including those made by Flock Safety. Users can switch it on in Map Options, next to the traffic and incidents layers. The update follows a surge in MapQuest downloads in September. MapQuest has added a layer to",
-    "categories": [
-      "Cybersecurity & Privacy",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-16T16:15:28+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/flock-dual-camera-unit-pole.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/how-does-the-new-tesla-roadster-fly-and-is-it-dangerous-to-be-around-its-thrusters",
-    "title": "How does the new Tesla Roadster 'fly', and is it dangerous to be around its thrusters?",
-    "description": "Tesla has shown off a flying car that can do flips and rolls, but it's unlikely to ever become road legal.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T16:14:28+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/mQZAmVmeLXWVhEm4X5oRaF-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/ramp-60bn-valuation-2bn-revenue-uk-europe",
-    "title": "Ramp passes $2bn in revenue as its Europe chief confirms the $60bn round",
-    "description": "“Today, Ramp raised $1.85B at a $60B valuation,” Eric Oancea, who leads Ramp in Europe, wrote on LinkedIn. His post confirms the round that Bloomberg reported on 10 October. Ramp’s co-founders, Eric Glyman and Karim Atiyeh, marked the new valuation with a blog post on 15 October, titled “Ramp at $60B: The End of the",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-16T16:10:45+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/ramp-founders.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
