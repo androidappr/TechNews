@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+    "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+    "description": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the system violated the department's security protocols. While he",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-18T22:20:53+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261018/p12#a261018p12",
     "title": "Sources: Nscale faces investor pushback on its ~$30B IPO valuation, with some urging a lower valuation of $16B to $19B, as Microsoft exits a UK data center deal (Bailey Lipschultz/Bloomberg)",
     "description": "Bailey Lipschultz / Bloomberg:\nSources: Nscale faces investor pushback on its ~$30B IPO valuation, with some urging a lower valuation of $16B to $19B, as Microsoft exits a UK data center deal  —  Nscale Ltd. is facing opposition to the valuation target it's pursuing in its initial public offering, according to people familiar …",
@@ -233,7 +244,6 @@
     "description": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-10-18T18:28:10+00:00",
@@ -245,7 +255,6 @@
     "title": "Watch Japan launch the first ever Mars-bound mission designed to come back",
     "description": "Japan's space agency JAXA will launch a probe to Mars' moon Phobos that will land and grab a sample to return to Earth in 2031.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-10-18T18:19:53+00:00",
@@ -855,6 +864,17 @@
     "source_name": "MASHABLE.COM"
   },
   {
+    "link": "https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises/",
+    "title": "Magnesium May Not Reach Your Brain, Despite Supplement Label Promises",
+    "description": "Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.",
+    "categories": [
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-18T09:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.wired.com/story/best-airpods-case/",
     "title": "The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)",
     "description": "These accessories add personality to your Apple headphones case, make them easy to find, and offer some protection, too.",
@@ -874,17 +894,6 @@
     ],
     "pub_date": "2026-10-18T09:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises/",
-    "title": "Magnesium May Not Reach Your Brain, Despite Supplement Label Promises",
-    "description": "Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-18T09:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -2244,16 +2253,5 @@
     "pub_date": "2026-10-17T13:45:16+00:00",
     "image_url": "https://www.engadget.com/img/gallery/verizon-will-charge-you-10-a-month-for-iphone-handoff/l-intro-1792244603.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261017/p11#a261017p11",
-    "title": "As AI giants rack up potential legal liabilities of tens of billions amid safety incidents, insurers worry claims may outpace limits on existing coverage (Jean Eaglesham/Wall Street Journal)",
-    "description": "Jean Eaglesham / Wall Street Journal:\nAs AI giants rack up potential legal liabilities of tens of billions amid safety incidents, insurers worry claims may outpace limits on existing coverage  —  The artificial-intelligence industry's phenomenal rate of growth means claims have the potential to outpace the limits on existing coverage",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-17T13:45:01+00:00",
-    "image_url": "http://www.techmeme.com/261017/i11.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
