@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
+    "title": "The best gadget I bought this year is a milk frother",
+    "description": "Back in February, I went to Los Angeles to take in some art and stayed in Koreatown. Down the street from my hotel, there was this little coffee shop - Stagger - that is, I think, best known for its matcha, which is good. But the drink I unexpectedly found myself obsessed with was their",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-18T13:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/96D2EEC6-09F7-402B-B1A3-F1030ADD0D90_1_105_c.jpeg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
+    "title": "How overhead projectors took over your classroom",
+    "description": "It used to be so easy to get away with things in school. The teacher, after all, was always turned around writing at the chalkboard! But then came a bit of technology, previously mostly used for military purposes, called the overhead projector. It would change far more than just the disciplinary record of students everywhere.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-18T12:55:01+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VRH_Overhead_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2285211/why-its-important-to-avoid-plugging-in-damaged-hard-drive/",
+    "title": "Why it's important to avoid plugging in a damaged external hard drive",
+    "description": "External hard drives are sensitive, and what seems like a minor drop can cause major damage that should be checked by a professional.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-18T12:45:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/why-its-important-to-avoid-plugging-in-a-damaged-external-hard-drive/l-intro-1791900463.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.engadget.com/2285208/why-internet-upload-speeds-slower-download-comparison/",
     "title": "Why are internet upload speeds so much slower than download speeds?",
     "description": "Uploading data tends to be much slower than downloading, and it turns out there's a very good explanation for it.",
@@ -237,7 +272,6 @@
     "title": "Climate Change Has It In for the World’s Best Surfing",
     "description": "As coastlines change, so do surf breaks. That may spell the end for premier waves and the tourist economies that depend on them.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-10-18T09:00:00+00:00",
@@ -249,7 +283,6 @@
     "title": "Magnesium May Not Reach Your Brain, Despite Supplement Label Promises",
     "description": "Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-10-18T09:00:00+00:00",
@@ -379,8 +412,8 @@
   },
   {
     "link": "https://www.techmeme.com/261018/p4#a261018p4",
-    "title": "Microsoft cancels its deal with Nscale to serve as the anchor tenant and rent 23K Nvidia AI chips at a planned data center facing repeated delays in Essex, UK (James Titcomb/Telegraph)",
-    "description": "James Titcomb / Telegraph:\nMicrosoft cancels its deal with Nscale to serve as the anchor tenant and rent 23K Nvidia AI chips at a planned data center facing repeated delays in Essex, UK  —  US tech giant pulls the plug on Nscale deal in threat to multibillion-dollar listing  —  Microsoft has pulled …",
+    "title": "Microsoft cancels its deal to be the anchor tenant and rent 23K Nvidia AI chips at Nscale's Essex, UK, data center, which may not get grid power until the 2030s (James Titcomb/Telegraph)",
+    "description": "James Titcomb / Telegraph:\nMicrosoft cancels its deal to be the anchor tenant and rent 23K Nvidia AI chips at Nscale's Essex, UK, data center, which may not get grid power until the 2030s  —  US tech giant pulls the plug on Nscale deal in threat to multibillion-dollar listing  —  Microsoft has pulled …",
     "categories": [
       "Tech News"
     ],
@@ -1693,6 +1726,28 @@
     "source_name": "TECHRADAR.COM"
   },
   {
+    "link": "https://9to5mac.com/2026/10/17/how-im-preparing-my-fleet-for-rosettas-removal-in-macos-27/",
+    "title": "Apple @ Work: How I’m preparing my fleet for Rosetta’s removal in macOS 27",
+    "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\n\n\n\nWhen installing macOS 27 (Golden Gate), Rosetta is automatically removed. If you manage a fleet with any legacy Intel-only software still in use, you need a plan in place before your users start experiencing issues. Here is what I’m doing, and I have some thoughts on vendors who are waiting until the last minute to deploy Apple Silicon-native tools.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-17T13:00:00+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/uncategorized/plug-in-solar-balcony-solar-legalization-2026/",
+    "title": "Plug-in solar is legal in these 10 states now – how it could save you money",
+    "description": "So-called balcony solar setups are becoming legal across the US. Here’s the latest.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-17T13:00:00+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/abc106f7-9ae3-4a45-8de8-2da5b0a9b031.jpg",
+    "source_name": "ZDNET.COM"
+  },
+  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
     "title": "Websites are closing their doors to AI agents",
     "description": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks,",
@@ -1714,28 +1769,6 @@
     "pub_date": "2026-10-17T13:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bose-Noise-Cancelling-Wired-Earbuds_1.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/17/how-im-preparing-my-fleet-for-rosettas-removal-in-macos-27/",
-    "title": "Apple @ Work: How I’m preparing my fleet for Rosetta’s removal in macOS 27",
-    "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\n\n\n\nWhen installing macOS 27 (Golden Gate), Rosetta is automatically removed. If you manage a fleet with any legacy Intel-only software still in use, you need a plan in place before your users start experiencing issues. Here is what I’m doing, and I have some thoughts on vendors who are waiting until the last minute to deploy Apple Silicon-native tools.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-17T13:00:00+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.zdnet.com/uncategorized/plug-in-solar-balcony-solar-legalization-2026/",
-    "title": "Plug-in solar is legal in these 10 states now – how it could save you money",
-    "description": "So-called balcony solar setups are becoming legal across the US. Here’s the latest.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-17T13:00:00+00:00",
-    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/abc106f7-9ae3-4a45-8de8-2da5b0a9b031.jpg",
-    "source_name": "ZDNET.COM"
   },
   {
     "link": "https://www.techradar.com/phones/iphone/verizons-opening-iphone-duo-deal-gets-you-a-device-for-just-over-usd70-mo-oh-and-that-includes-the-plan-too",
@@ -2228,38 +2261,5 @@
     "pub_date": "2026-10-17T09:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/TMgAupyQuzkJBh4SAyxoMX-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/kentucky-oklahoma-college-football-2026-live-stream-for-free",
-    "title": "How to watch Kentucky vs. Oklahoma online for free",
-    "description": "How to watch college football for free. Live stream Kentucky vs. Oklahoma in 2026 without cable.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-17T09:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05ecskqLrNOIgBkXW9iTWIa/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/oklahoma-state-houston-college-football-2026-live-stream-for-free",
-    "title": "How to watch Oklahoma State vs. Houston online for free",
-    "description": "How to watch college football for free. Live stream Oklahoma State vs. Houston in 2026 without cable.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-17T09:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01uRNADrPjVALdAxj7gYLyA/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/miss-state-lsu-college-football-2026-live-stream-for-free",
-    "title": "How to watch Miss State vs. LSU online for free",
-    "description": "How to watch college football for free. Live stream Miss State vs. LSU in 2026 without cable.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-17T09:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/060XePaYjB0YFKbzj96iu6R/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
