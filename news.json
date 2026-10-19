@@ -121,7 +121,6 @@
     "title": "Sam Altman's World launches a World ID verification suite for banks, bundling tools to verify human and agent identities, its first industry-specific offering (Zack Abrams/The Block)",
     "description": "Zack Abrams / The Block:\nSam Altman's World launches a World ID verification suite for banks, bundling tools to verify human and agent identities, its first industry-specific offering  —  The identity project co-founded by OpenAI CEO Sam Altman named Bain Capital and VanEck Funds among its design partners but did not name …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-19T03:10:02+00:00",
@@ -232,7 +231,6 @@
     "title": "Is that really your banker? World brings human verification to Zoom calls",
     "description": "As deepfakes grow convincing enough to pass for real people on live video, World is pitching banks a new line of defense. It offers cryptographic proof that the person, or the agent, on the other end of an interaction is genuine. The company launched World ID for banking and finance at Money20/20 on Sunday. It",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-19T01:10:16+00:00",
@@ -427,17 +425,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.techradar.com/how-to-watch/how-to-watch-snapped-killer-moms",
-    "title": "How to watch Snapped: Killer Moms online — stream the true crime series for FREE",
-    "description": "Learn more about these ruthless matriarchs who stop at nothing to protect their kids — here's how to watch Snapped: Killer Moms.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-18T22:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/LTu76UzCLCN8Rr55TfFNzU-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/gaming/ive-played-the-start-of-final-fantasy-vii-revelation-and-it-mixes-up-the-biggest-twist-from-the-originals-finale",
     "title": "I’ve played the first 45 minutes Final Fantasy VII Revelation",
     "description": "Sephiroth might be the cattiest antagonist in gaming history based on my FF7 Revelation demo.",
@@ -446,6 +433,17 @@
     ],
     "pub_date": "2026-10-18T22:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/RS6jte5u7eyMHeT7kDDE3N-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/how-to-watch/how-to-watch-snapped-killer-moms",
+    "title": "How to watch Snapped: Killer Moms online — stream the true crime series for FREE",
+    "description": "Learn more about these ruthless matriarchs who stop at nothing to protect their kids — here's how to watch Snapped: Killer Moms.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-18T22:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/LTu76UzCLCN8Rr55TfFNzU-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -1239,17 +1237,6 @@
     "source_name": "MASHABLE.COM"
   },
   {
-    "link": "https://www.wired.com/story/climate-change-has-it-in-for-the-worlds-best-surfing/",
-    "title": "Climate Change Has It In for the World’s Best Surfing",
-    "description": "As coastlines change, so do surf breaks. That may spell the end for premier waves and the tourist economies that depend on them.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-18T09:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises/",
     "title": "Magnesium May Not Reach Your Brain, Despite Supplement Label Promises",
     "description": "Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.",
@@ -1258,6 +1245,17 @@
     ],
     "pub_date": "2026-10-18T09:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/climate-change-has-it-in-for-the-worlds-best-surfing/",
+    "title": "Climate Change Has It In for the World’s Best Surfing",
+    "description": "As coastlines change, so do surf breaks. That may spell the end for premier waves and the tourist economies that depend on them.",
+    "categories": [
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-18T09:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg",
     "source_name": "WIRED.COM"
   },
   {
