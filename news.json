@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://www.techmeme.com/261019/p44#a261019p44",
+    "title": "The US FTC clears Publicis' $2.2B LiveRamp acquisition, subject to a consent decree requiring equal access to LiveRamp's data connectivity tools for all clients (Leah Nylen/Bloomberg)",
+    "description": "Leah Nylen / Bloomberg:\nThe US FTC clears Publicis' $2.2B LiveRamp acquisition, subject to a consent decree requiring equal access to LiveRamp's data connectivity tools for all clients  —  The US Federal Trade Commission said it will allow Publicis Groupe SA to complete the $2.2 billion acquisition of LiveRamp Holdings Inc …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T21:55:00+00:00",
+    "image_url": "http://www.techmeme.com/261019/i44.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/the-commodore-c64s-spiritual-godson-surfaces-on-hps-online-store-eliteboard-g2a-brings-gorgon-point-ryzen-ai-7-pro-apus-to-a-novel-form-factor-with-a-battery-and-an-eye-watering-usd4-200-price-tag",
+    "title": "The Commodore C64's spiritual godson surfaces on HP's online store — EliteBoard G2a brings 'Gorgon Point' Ryzen AI 7 Pro APUs to a novel form factor with a battery and an eye-watering $4,200 price tag",
+    "description": "HP's EliteBoard G2a keyboard computer costs up to $4,191 and still ships with 32 GB of RAM on a single stick.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T21:55:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/xcU3VKkEzXfPq7fzQsfdnR-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+    "title": "The fossil fuel comeback is here",
+    "description": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-19T21:48:01+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824781/STK438_CLIMATE_CHANGE_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
     "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
     "description": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble.",
@@ -493,7 +529,7 @@
   },
   {
     "link": "https://www.cnet.com/science/japanese-mars-mission-mmx-launch/",
-    "title": "Japan Is Launching a Mission to Mars Moons and Plans to Bring Samples Home",
+    "title": "Japan Launches Mission to Mars Moons and Plans to Bring Samples Home",
     "description": "NASA contributed to this first-of-its-kind mission that may help us understand how our solar system formed.",
     "categories": [
       "Breaking News",
@@ -660,7 +696,6 @@
     "description": "Modal plans to run its Sandboxes product on Nvidia’s Arm-based Vera CPU, its first step away from x86 chips. In Modal’s own tests, Vera handled up to twice as many tasks as an Intel server when packed with containers. The results have not been independently checked. Modal plans to run its AI agent sandboxes on",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-19T18:00:15+00:00",
@@ -954,8 +989,7 @@
     "title": "Homeland Security bans DeepSeek use in federal civilian agencies",
     "description": "The decision comes a couple of days after the release of Deepseek's latest AI model.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-19T16:59:28+00:00",
     "image_url": "https://www.engadget.com/img/gallery/homeland-security-bans-deepseek-use-in-federal-civilian-agencies/l-intro-1792429083.jpg",
@@ -1104,8 +1138,7 @@
     "title": "Amazon’s TorchNeuron lets PyTorch code run on AWS Trainium chips",
     "description": "Amazon has launched TorchNeuron, an open-source backend that lets PyTorch code run on its Trainium AI chips with a one-line change. It goes into public beta on 20 October under the Apache 2.0 licence and supports Trainium2 and Trainium3. Some PyTorch features are not yet supported. Amazon has launched TorchNeuron, a tool that lets developers",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-19T16:21:32+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/amazon-store-sign-smile-logo-facade.avif",
@@ -1335,7 +1368,6 @@
     "title": "Amazon launches TorchNeuron, an open-source framework that lets developers run PyTorch code on Amazon's Trainium chips with no rewriting needed, in public beta (Todd Bishop/GeekWire)",
     "description": "Todd Bishop / GeekWire:\nAmazon launches TorchNeuron, an open-source framework that lets developers run PyTorch code on Amazon's Trainium chips with no rewriting needed, in public beta  —  A new software tool from Amazon aims to make switching from Nvidia to the company's own AI chips about as simple as changing a setting.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-19T15:55:01+00:00",
@@ -2300,40 +2332,5 @@
     "pub_date": "2026-10-19T12:30:10+00:00",
     "image_url": "http://www.techmeme.com/261019/i22.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "description": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-    "categories": [
-      "AI & Machine Learning",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-19T12:30:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware",
-    "title": "Vibe coding is turning the music gear world upside down",
-    "description": "If you spend any time on r/synthesizers or watch a lot of synth videos on YouTube, you've probably noticed the explosion of custom firmware for hardware synthesizers, samplers, and grooveboxes. What unites almost all of them is that they were made possible by increasingly sophisticated vibe-coding tools. These sorts of custom firmware were exceedingly rare",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-19T12:30:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/tenstorrent-1-5bn-series-e-6-2bn-valuation",
-    "title": "Tenstorrent raises $1.5B at a $6.2B valuation to scale its Galaxy servers",
-    "description": "Tenstorrent, the AI chip company run by Jim Keller, has closed a $1.5bn Series E round at a $6.2bn post-money valuation, it announced on Monday. Trace Capital and Innovation X led the round. New and existing investors also took part. They include Agostinelli Group, ARK Invest, Cadence Ventures, Eclipse, Fidelity, Maverick Silicon, Morgan Stanley, Protagonist,",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-10-19T12:28:34+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/tenstorrent-server-front-grille-logo-blue-backdrop.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
