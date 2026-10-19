@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+    "title": "Democrats think cracking down on AI could give them an edge",
+    "description": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands. That",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-19T12:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261019/p19#a261019p19",
+    "title": "Deutsche Telekom, Orange, Telefónica, and Vodafone agree to explore a joint bid to offer \"direct-to-device\" satellite service in Europe, challenging Starlink (Financial Times)",
+    "description": "Financial Times:\nDeutsche Telekom, Orange, Telefónica, and Vodafone agree to explore a joint bid to offer “direct-to-device” satellite service in Europe, challenging Starlink  —  Deutsche Telekom, Orange, Telefónica and Vodafone to explore joint bid for spectrum to provide mobile satellite coverage",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T11:55:02+00:00",
+    "image_url": "http://www.techmeme.com/261019/i19.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261019/p18#a261019p18",
     "title": "AI chip startup Tenstorrent raised a $1.5B Series E led by Trace Capital and Innovation X at a $6.2B valuation, up from $2.6B after raising $700M in 2024 (Bloomberg)",
     "description": "Bloomberg:\nAI chip startup Tenstorrent raised a $1.5B Series E led by Trace Capital and Innovation X at a $6.2B valuation, up from $2.6B after raising $700M in 2024  —  AI chip startup Tenstorrent Inc., after attracting takeover interest earlier this year, has raised $1.5 billion from investors …",
@@ -667,7 +691,6 @@
     "title": "CyberSN: US cybersecurity job postings fell 26.4% YoY to a four-year low of ~236K roles from January to September; AI security engineer demand soared by 200%+ (Kevin Townsend/SecurityWeek)",
     "description": "Kevin Townsend / SecurityWeek:\nCyberSN: US cybersecurity job postings fell 26.4% YoY to a four-year low of ~236K roles from January to September; AI security engineer demand soared by 200%+  —  CyberSN's Cybersecurity Jobs Report provides visibility into the US cybersecurity job market.  It's a mixed bag.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-19T08:00:46+00:00",
@@ -680,7 +703,6 @@
     "description": "Restaurants are no longer just places where people go to enjoy a meal. They have become full businesses and ecosystems, with cooking as only one part of what they do. As our habits and the way we make choices have changed, including where we eat, restaurants have had to adapt to keep up. Working in",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-19T08:00:45+00:00",
@@ -1953,17 +1975,6 @@
     "source_name": "MASHABLE.COM"
   },
   {
-    "link": "https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises/",
-    "title": "Magnesium May Not Reach Your Brain, Despite Supplement Label Promises",
-    "description": "Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-18T09:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/climate-change-has-it-in-for-the-worlds-best-surfing/",
     "title": "Climate Change Has It In for the World’s Best Surfing",
     "description": "As coastlines change, so do surf breaks. That may spell the end for premier waves and the tourist economies that depend on them.",
@@ -1972,6 +1983,17 @@
     ],
     "pub_date": "2026-10-18T09:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises/",
+    "title": "Magnesium May Not Reach Your Brain, Despite Supplement Label Promises",
+    "description": "Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.",
+    "categories": [
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-18T09:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -2214,28 +2236,6 @@
     ],
     "pub_date": "2026-10-18T02:05:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/woNWBJQa5VgCocC8ALjnUi-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261017/p20#a261017p20",
-    "title": "An interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more (Joanna Stern/The New Things)",
-    "description": "Joanna Stern / The New Things:\nAn interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more  —  My exclusive interview with Satya Nadella on the new Surface Laptop Ultra and Microsoft's plan to make Windows safer for AI agents",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-18T01:20:02+00:00",
-    "image_url": "http://www.techmeme.com/261017/i20.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/this-computer-is-going-to-be-incredible-nvidia-ceo-jensen-huang-explains-why-the-new-surface-laptop-ultra-is-really-a-work-of-love",
-    "title": "'This computer is going to be incredible': Nvidia CEO Jensen Huang explains why the new Surface Laptop Ultra is \"really a work of love\"",
-    "description": "It took four years to build, but Jensen Huang has high hopes for the Surface Laptop Ultra.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-18T01:05:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/fynQhWQFGq9twNoU3emBX7-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   }
 ]
