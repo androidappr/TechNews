@@ -106,7 +106,6 @@
     "title": "NYT Connections Sports Edition today: Hints and answers for October 19, 2026",
     "description": "Connections: Sports Edition is a New York Times word game about finding common sports threads between words. How to solve the day's puzzle.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-19T02:00:00+00:00",
@@ -130,7 +129,6 @@
     "title": "NYT Connections hints today: Meanings for each word for Oct. 19, 2026",
     "description": "Why is NYT Connections trending today? Explaining the meanings behind the clues for NYT Connections #1226.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-19T02:00:00+00:00",
@@ -153,7 +151,6 @@
     "title": "Hurdle hints and answers for October 19, 2026",
     "description": "Hints and answers to today's Hurdle all in one place.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-19T02:00:00+00:00",
@@ -287,7 +284,6 @@
     "title": "Quordle hints and answers for Monday, October 19 (game #1729)",
     "description": "Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-10-18T23:00:00+00:00",
@@ -299,7 +295,6 @@
     "title": "NYT Connections hints and answers for Monday, October 19 (game #1226)",
     "description": "Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-10-18T23:00:00+00:00",
@@ -311,7 +306,6 @@
     "title": "NYT Strands hints and answers for Monday, October 19 (game #960)",
     "description": "Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-10-18T23:00:00+00:00",
@@ -374,17 +368,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.techradar.com/how-to-watch/how-to-watch-snapped-killer-moms",
-    "title": "How to watch Snapped: Killer Moms online — stream the true crime series for FREE",
-    "description": "Learn more about these ruthless matriarchs who stop at nothing to protect their kids — here's how to watch Snapped: Killer Moms.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-18T22:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/LTu76UzCLCN8Rr55TfFNzU-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/gaming/ive-played-the-start-of-final-fantasy-vii-revelation-and-it-mixes-up-the-biggest-twist-from-the-originals-finale",
     "title": "I’ve played the first 45 minutes Final Fantasy VII Revelation",
     "description": "Sephiroth might be the cattiest antagonist in gaming history based on my FF7 Revelation demo.",
@@ -393,6 +376,17 @@
     ],
     "pub_date": "2026-10-18T22:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/RS6jte5u7eyMHeT7kDDE3N-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/how-to-watch/how-to-watch-snapped-killer-moms",
+    "title": "How to watch Snapped: Killer Moms online — stream the true crime series for FREE",
+    "description": "Learn more about these ruthless matriarchs who stop at nothing to protect their kids — here's how to watch Snapped: Killer Moms.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-18T22:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/LTu76UzCLCN8Rr55TfFNzU-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -1186,17 +1180,6 @@
     "source_name": "MASHABLE.COM"
   },
   {
-    "link": "https://www.wired.com/story/best-airpods-case/",
-    "title": "The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)",
-    "description": "These accessories add personality to your Apple headphones case, make them easy to find, and offer some protection, too.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-18T09:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ad29851414b688b51c43c42/master/pass/Best%20AirPods%20Cases%20102026%20top%20art%20SOURCE%20Bandolier.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/climate-change-has-it-in-for-the-worlds-best-surfing/",
     "title": "Climate Change Has It In for the World’s Best Surfing",
     "description": "As coastlines change, so do surf breaks. That may spell the end for premier waves and the tourist economies that depend on them.",
@@ -1205,6 +1188,17 @@
     ],
     "pub_date": "2026-10-18T09:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/best-airpods-case/",
+    "title": "The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)",
+    "description": "These accessories add personality to your Apple headphones case, make them easy to find, and offer some protection, too.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-18T09:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ad29851414b688b51c43c42/master/pass/Best%20AirPods%20Cases%20102026%20top%20art%20SOURCE%20Bandolier.jpg",
     "source_name": "WIRED.COM"
   },
   {
