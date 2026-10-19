@@ -1,5 +1,57 @@
 [
   {
+    "link": "https://www.techmeme.com/261019/p32#a261019p32",
+    "title": "Amazon introduces TorchNeuron, an open-source tool that will allow developers to run code written in PyTorch on Amazon's Trainium chips with no rewrite (Todd Bishop/GeekWire)",
+    "description": "Todd Bishop / GeekWire:\nAmazon introduces TorchNeuron, an open-source tool that will allow developers to run code written in PyTorch on Amazon's Trainium chips with no rewrite  —  A new software tool from Amazon aims to make switching from Nvidia to the company's own AI chips about as simple as changing a setting.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T15:55:01+00:00",
+    "image_url": "http://www.techmeme.com/261019/i32.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/nvidia-nvhbm-samsung-tsmc-3nm-base-die-sk-hynix-micron",
+    "title": "Nvidia reportedly wants all its HBM suppliers to use TSMC’s 3nm process",
+    "description": "Samsung Electronics will make a core part of Nvidia’s custom memory chips on TSMC’s 3-nanometre process. The Seoul Economic Daily reported the move on Sunday, citing industry sources. It would be the first time the two have worked together on making high-bandwidth memory (HBM). The part is the base die, the logic layer at the",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-19T15:49:37+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/Nvidia.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/us-bars-deepseek-federal-agencies",
+    "title": "US orders civilian federal agencies to remove DeepSeek from their systems",
+    "description": "The Department of Homeland Security has ordered US civilian federal agencies to remove DeepSeek products from their IT systems and stop buying them, under a 2018 supply chain security law. The order covers third-party tools built on DeepSeek’s models, and cites the risk that sensitive data could be shared with the Chinese government. US government",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-19T15:47:09+00:00",
+    "image_url": "https://media.thenextweb.com/2026/08/Deepseek-chat-interface.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2287812/usb-device-disconnecting-reasons/",
+    "title": "Why your USB device keeps disconnecting (and how to fix it)",
+    "description": "If your USB peripheral is on the fritz, it's worth doing some troubleshooting with the port itself. Give these steps a try.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T15:45:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/why-your-usb-device-keeps-disconnecting-and-how-to-fix-it/l-intro-1792082689.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
     "title": "Amazon is funding a new nuclear plant in Indiana",
     "description": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to provide up to 960 megawatts of carbon-free energy for both the regional",
@@ -22,6 +74,18 @@
     "pub_date": "2026-10-19T15:40:02+00:00",
     "image_url": "http://www.techmeme.com/261019/i31.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/best-early-black-friday-headphones-deals-2026",
+    "title": "11 headphones and earbuds deals you can pick up ahead of Black Friday sales",
+    "description": "Black Friday isn't until Nov. 27, but that doesn't mean you need to wait until then to save on headphones and earbuds. Our audio expert gathered up 11 of the best deals.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T15:37:38+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/02iEQH6hNwAWSGOIVOIqBZN/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
@@ -355,7 +419,7 @@
   {
     "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
     "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-    "description": "Today, I’m talking with Illinois Governor JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming",
+    "description": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -1062,7 +1126,6 @@
     "description": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands. That",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-10-19T12:00:00+00:00",
@@ -2240,60 +2303,5 @@
     "pub_date": "2026-10-18T22:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/LTu76UzCLCN8Rr55TfFNzU-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/ive-played-the-start-of-final-fantasy-vii-revelation-and-it-mixes-up-the-biggest-twist-from-the-originals-finale",
-    "title": "I’ve played the first 45 minutes Final Fantasy VII Revelation",
-    "description": "Sephiroth might be the cattiest antagonist in gaming history based on my FF7 Revelation demo.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-18T22:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/RS6jte5u7eyMHeT7kDDE3N-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-18-microsoft-project-professional-2024-lifetime-license-for-windows",
-    "title": "Keep your projects organized with Microsoft Project 2024 for $39.97",
-    "description": "Get Microsoft Project Professional 2024 for Windows for $39.97 with a lifetime license, Gantt charts, automated scheduling, and resource management tools.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-18T22:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05HcjM1mZxiKowunj7unvZS/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-18-pdf-expert-premium-plan-lifetime",
-    "title": "Edit, sign, and convert PDFs with this $79.99 lifetime Mac app",
-    "description": "Save $60 on PDF Expert for Mac with a lifetime subscription for $79.99, including tools to edit, sign, annotate, merge, and convert PDF files.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-18T22:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03vUAmWVQRxPAdZ2BywJMrY/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/the-gpu-never-reads-the-same-text-twice-belgian-startup-corbenic-wants-to-turn-your-servers-ssd-into-ai-memory-but-its-14x-speedup-owes-more-to-reading-less",
-    "title": "'The GPU never reads the same text twice': Belgian startup Corbenic wants to turn your server's SSD into AI memory, but its 14x speedup owes more to reading less",
-    "description": "Galahad promises exact, encrypted KV cache reuse for vLLM, SGLang, and Llama.cpp, but LMCache, Nvidia, and Phison got to the round table first.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-18T21:30:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/JdkWFNHpKBbyUcYStcmsn-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/18/apple-keeps-making-the-phone-app-better-heres-how/",
-    "title": "Apple keeps making the Phone app better; here’s how",
-    "description": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a month, all on America’s largest 5G network. See all of the available plans at tello.com.\n\n\n\nYou might not think about it often, but the Phone app on your iPhone keeps getting more powerful. Here are two features you can use today, plus one coming next month in iOS 27. \n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-18T21:19:49+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/phone-app-icon-fi-ios-27.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
