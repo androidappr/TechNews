@@ -1,5 +1,54 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+    "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+    "description": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-19T16:55:56+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/europe-carriers-joint-satellite-spectrum-bid-mss",
+    "title": "Four European carriers to explore a joint bid for satellite spectrum",
+    "description": "Deutsche Telekom, Orange, Telefónica and Vodafone have signed a letter of intent to explore a joint bid for satellite spectrum in Europe. The four companies announced it on Monday in a joint release. The spectrum is for mobile satellite services (MSS), the radio frequencies that link satellites with mobile devices. The bid would be for",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Mobile & Telecom",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-19T16:54:26+00:00",
+    "image_url": "https://media.thenextweb.com/2026/05/European-flag.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2287906/video-doorbell-distance-stop-detecting-motion/",
+    "title": "At what distance does a video doorbell stop detecting motion?",
+    "description": "Your video doorbell might see a visitor without sending an alert. Detection depends on more than distance, and some surprising factors can affect its reach.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T16:45:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/at-what-distance-does-a-video-doorbell-stop-detecting-motion/l-intro-1792085683.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/how-to-watch-10-things-i-hate-about-you",
+    "title": "How to watch 10 Things I Hate About You for free",
+    "description": "How to watch '10 Things I Hate About You' for free ahead of Julia Stiles' 'Dancing With the Stars' tribute to Heath Ledger.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T16:40:50+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/05pK1czX8fd4dO250YVZCKC/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
     "title": "Huge DMV data breach impacted current and former Florida residents",
     "description": "Florida issues alerts after statewide DMV data breach linked to ShinyHunters.",
@@ -23,6 +72,18 @@
     "source_name": "THENEXTWEB.COM"
   },
   {
+    "link": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/",
+    "title": "Instrumentation",
+    "description": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software. Rotating Rake",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T16:37:45+00:00",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/rotatingmicrophonerake.jpg?w=330",
+    "source_name": "NASA.GOV"
+  },
+  {
     "link": "https://www.techradar.com/home/smart-home-hubs/apples-homeview-costs-usd299-gbp299-but-that-doesnt-unlock-all-of-its-best-features-heres-what-you-actually-need-to-use-options-like-personal-context-and-video-analysis",
     "title": "Apple’s HomeView costs $299 / £299 — but that doesn't unlock all of its best features",
     "description": "Apple’s $299 HomeView can show your security cameras, but you’ll need an iPhone and an iCloud+ subscription before its AI can tell you what happened.",
@@ -33,6 +94,18 @@
     "pub_date": "2026-10-19T16:37:11+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/qXvinDtpADRTAv7nUF7zVQ-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/best-early-black-friday-airpods-deals-2026",
+    "title": "Three AirPods deals worth picking up before Black Friday, plus one to wait on",
+    "description": "Black Friday is just over a month away, but three AirPods deals are already live. Mashable's guide breaks down what Apple earbuds deals are worth shopping early, and who might want to wait instead.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T16:31:54+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00yBivNxvUxQmtoSPzTi12m/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://thenextweb.com/news/amazon-torchneuron-pytorch-trainium",
@@ -84,8 +157,8 @@
   },
   {
     "link": "https://www.techmeme.com/261019/p33#a261019p33",
-    "title": "Apple announces a \"Pro and tell\" event on October 28 10am PT in LA, where its first touchscreen MacBook, a 14\" MacBook Pro with M6, and more are expected (Chance Miller/9to5Mac)",
-    "description": "Chance Miller / 9to5Mac:\nApple announces a “Pro and tell” event on October 28 10am PT in LA, where its first touchscreen MacBook, a 14\" MacBook Pro with M6, and more are expected  —  Apple today announced its second experience of the month, taking place next Wednesday, October 28 at 10 a.m. PT. The tagline for this event is: “Pro and tell.”",
+    "title": "Apple announces a \"Pro and tell\" event on October 28 at 10am PT in LA, where its first touchscreen MacBook, a 14-inch MacBook Pro with M6, and more are expected (Chance Miller/9to5Mac)",
+    "description": "Chance Miller / 9to5Mac:\nApple announces a “Pro and tell” event on October 28 at 10am PT in LA, where its first touchscreen MacBook, a 14-inch MacBook Pro with M6, and more are expected  —  Apple today announced its second experience of the month, taking place next Wednesday, October 28 at 10 a.m. PT. The tagline for this event is: “Pro and tell.”",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -864,8 +937,8 @@
   },
   {
     "link": "https://www.techmeme.com/261019/p25#a261019p25",
-    "title": "Source: Anthropic is preparing a model with superior intuition and reasoning that can discern unstated intentions and is better at thinking outside of the box (Stephanie Palazzolo/The Information)",
-    "description": "Stephanie Palazzolo / The Information:\nSource: Anthropic is preparing a model with superior intuition and reasoning that can discern unstated intentions and is better at thinking outside of the box  —  In the last month, OpenAI, Anthropic and Google have released more than a dozen new models.  If you thought that pace was crazy …",
+    "title": "Source: Anthropic is preparing a model with better intuition and reasoning that can discern underlying intentions and is better at thinking outside of the box (Stephanie Palazzolo/The Information)",
+    "description": "Stephanie Palazzolo / The Information:\nSource: Anthropic is preparing a model with better intuition and reasoning that can discern underlying intentions and is better at thinking outside of the box  —  In the last month, OpenAI, Anthropic and Google have released more than a dozen new models.  If you thought that pace was crazy …",
     "categories": [
       "Tech News"
     ],
@@ -1149,7 +1222,6 @@
     "title": "Wyze moved the screen on its new smart scale to the handle so it’s easier to read at eye level",
     "description": "Wyze announced a new version of its Ultra BodyScan smart scale that debuted nearly a year ago with additional electrodes on a retractable handle, allowing it to provide a breakdown of various health metrics across your arms, legs, and torso. With the new Ultra BodyScan Plus, Wyze is introducing a redesign that moves the scale's",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware",
       "Science & Environment"
     ],
@@ -1175,7 +1247,6 @@
     "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
     "description": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware",
       "Software & Apps"
     ],
@@ -1224,7 +1295,8 @@
     "description": "Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new \"public benefit fund,\" which it intends to use to make \"large donations to traditional nonprofits or direct distributions to specific populations\" after its upcoming IPO.",
     "categories": [
       "Breaking News",
-      "Business & Startups"
+      "Business & Startups",
+      "Social & Media"
     ],
     "pub_date": "2026-10-19T12:42:55+00:00",
     "image_url": null,
@@ -2260,71 +2332,5 @@
     "pub_date": "2026-10-19T04:05:00+00:00",
     "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/trebleclef.jpg?w=2048&h=1525&fit=clip&crop=faces%2Cfocalpoint",
     "source_name": "SCIENCE.NASA.GOV"
-  },
-  {
-    "link": "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/",
-    "title": "Autumn Paints Poland’s Bieszczady Mountains",
-    "description": "Fall color covers the forested slopes of Bieszczady National Park, while patches of polonina, a type of high-mountain meadow, have turned tan.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T04:01:00+00:00",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/autumn-paints-poland",
-    "source_name": "SCIENCE.NASA.GOV"
-  },
-  {
-    "link": "https://www.techmeme.com/261018/p18#a261018p18",
-    "title": "Intel unveils its GPU D-series for data centers, featuring up to 480GB of LPDDR5X memory, an unusually large capacity to support demanding inference workloads (Efosa Udinmwen/TechRadar)",
-    "description": "Efosa Udinmwen / TechRadar:\nIntel unveils its GPU D-series for data centers, featuring up to 480GB of LPDDR5X memory, an unusually large capacity to support demanding inference workloads  —  Intel GPU D-series uses laptop LPDDR5X with 480GB memory  — Intel's GPU D-series sets a new GPU memory record with 480GB of LPDDR5X",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T03:50:01+00:00",
-    "image_url": "http://www.techmeme.com/261018/i18.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261018/p17#a261018p17",
-    "title": "China's GDP is set to grow 4.5% YoY in Q3, up from Q2's three-year-low growth rate of 4.3%, as AI-driven exports helped offset weak domestic spending (Osmond Chia/BBC)",
-    "description": "Osmond Chia / BBC:\nChina's GDP is set to grow 4.5% YoY in Q3, up from Q2's three-year-low growth rate of 4.3%, as AI-driven exports helped offset weak domestic spending  —  China's economic growth picked up in the three months to the end of September, rebounding from a three-year low as the artificial intelligence (AI) boom helped boost exports.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T03:30:00+00:00",
-    "image_url": "http://www.techmeme.com/261018/i17.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261018/p16#a261018p16",
-    "title": "Sam Altman's World launches a World ID verification suite for banks, bundling tools to verify human and agent identities, its first industry-specific offering (Zack Abrams/The Block)",
-    "description": "Zack Abrams / The Block:\nSam Altman's World launches a World ID verification suite for banks, bundling tools to verify human and agent identities, its first industry-specific offering  —  The identity project co-founded by OpenAI CEO Sam Altman named Bain Capital and VanEck Funds among its design partners but did not name …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T03:10:02+00:00",
-    "image_url": "http://www.techmeme.com/261018/i16.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261018/p15#a261018p15",
-    "title": "Analysis: 795 accounts funded by ADI Predictstreet's own fee-collecting wallet drove 99% of the FIFA-partnered prediction market's activity since late August (Wall Street Journal)",
-    "description": "Wall Street Journal:\nAnalysis: 795 accounts funded by ADI Predictstreet's own fee-collecting wallet drove 99% of the FIFA-partnered prediction market's activity since late August  —  ADI Predictstreet, backed by Abu Dhabi's royal family, paid close to $150 million for advertising rights during the World Cup",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T02:20:01+00:00",
-    "image_url": "http://www.techmeme.com/261018/i15.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/18/new-revamped-iphone-lineup-coming-in-2027/",
-    "title": "Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming next year",
-    "description": "iPhone Duo preorders just begun, and iPhone 18 Pro has been on the market for about a month. Of course, iPhone Duo is backordered through January right now, so whether or not you’re considering buying these phones – it makes it really easy to think about what’s coming next.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T02:16:00+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/iPhone-20th-anniversary-mockup-ios26-03.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
