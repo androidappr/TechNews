@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.techradar.com/pro/microsoft-ditches-residency-plans-at-uks-largest-data-center-over-power-supply-concerns",
+    "title": "Microsoft ditches residency plans at UK's largest data center over power supply concerns",
+    "description": "Concerns over power supply and revelations that development of Nscale Essex site has not started prompted Microsoft's withdrawal.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T13:32:14+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261019/p24#a261019p24",
     "title": "Microsoft unveils new security tools in its 365 E7 bundle and Project Perception system to treat AI agents as potential insider threats via risk assessments (Todd Bishop/GeekWire)",
     "description": "Todd Bishop / GeekWire:\nMicrosoft unveils new security tools in its 365 E7 bundle and Project Perception system to treat AI agents as potential insider threats via risk assessments  —  Microsoft is coming out with new security tools that treat AI agents as potential insider threats, continuously assessing their risk …",
@@ -754,17 +765,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.wired.com/story/the-story-of-billy-evans-and-theranos-20/",
-    "title": "The Story of Billy Evans and ‘Theranos 2.0’",
-    "description": "Elizabeth Holmes’ husband is a major figure in Nathan Fielder’s new documentary. But who is Billy Evans—and is he really working on a second blood-testing company?",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-19T10:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ad117bb762b59cd2aa2c04f/master/pass/NathanFielder_BillyEvans_v1.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/how-elizabeth-holmes-tricked-wired-and-everyone-else/",
     "title": "How Elizabeth Holmes Tricked WIRED—and Everyone Else",
     "description": "WIRED was the first magazine to cover Theranos and its enticing billionaire founder. There were warning signs even then.",
@@ -775,6 +775,17 @@
     ],
     "pub_date": "2026-10-19T10:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6ad121e60c71c19c1b37d6c8/master/pass/NathanFielder_Theranos-1.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/the-story-of-billy-evans-and-theranos-20/",
+    "title": "The Story of Billy Evans and ‘Theranos 2.0’",
+    "description": "Elizabeth Holmes’ husband is a major figure in Nathan Fielder’s new documentary. But who is Billy Evans—and is he really working on a second blood-testing company?",
+    "categories": [
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-19T10:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ad117bb762b59cd2aa2c04f/master/pass/NathanFielder_BillyEvans_v1.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -2243,17 +2254,5 @@
     "pub_date": "2026-10-18T11:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/ck3qwWiJeoCpKv7AcMv7xK-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
-    "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
-    "description": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
-    "categories": [
-      "AI & Machine Learning",
-      "Social & Media"
-    ],
-    "pub_date": "2026-10-18T10:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ad240695195eb0dd6087017/master/pass/101626_Naughty%20Meta%20Muse%20OnlyFans.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
