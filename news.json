@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://mashable.com/tech/apple-reveals-iphone-duo-battery-size-screen-scratch-resistance-hardness",
+    "title": "Apple reveals iPhone Duo battery size, screen hardness details",
+    "description": "Apple has now confirmed some more specs before the official iPhone Duo launch later this week.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T20:13:02+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/03PbNijlrDC1KL54KsXki0j/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
     "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
     "description": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
@@ -12,6 +24,17 @@
     "pub_date": "2026-10-19T20:09:24+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/meta-no-kings-account-suspension-explanation",
+    "title": "Meta: Were sorry for banning No Kings Instagram account",
+    "description": "Meta has apologized for blocking the No King Coalition account, citing an unintentional enforcement error due to suspected bot activity.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T20:04:47+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/04KamGGMs1Pp8dBdn9EAdXr/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techmeme.com/261019/p42#a261019p42",
@@ -431,7 +454,7 @@
   },
   {
     "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-    "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
+    "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
     "description": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
     "categories": [
       "Breaking News",
@@ -523,6 +546,17 @@
     "pub_date": "2026-10-19T17:45:08+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/00iq89dTvcsCwsmAu5AkZ5J/hero-image.png",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
+    "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
+    "description": "Founder and CEO RJ Scaringe said he thinks autonomy will allow his company to build radically different kinds of vehicles than the outdoorsy SUVs and trucks it currently makes.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T17:39:51+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
   },
   {
     "link": "https://www.techradar.com/pro/ai-is-no-longer-just-supporting-the-business-it-has-become-the-business-model-ibm-vp-tells-us-how-your-business-can-balance-ai-excitement-with-realism-as-governance-becomes-more-important-than-ever",
@@ -634,7 +668,6 @@
     "title": "Elon Musk says he’ll give every kid in America a SpaceX share in 2027",
     "description": "Elon Musk claims he will donate one of his SpaceX shares to every child in the U.S. in 2027.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-19T17:07:59+00:00",
@@ -909,7 +942,6 @@
     "description": "Launching an AI pilot is relatively straightforward. But integrating it reliably and at scale into business operations is a far greater challenge. McKinsey’s global 2026 survey found that only 37% of respondents said AI had improved their company’s earnings, unchanged from the previous year. Yet eight in ten said AI had helped them become more",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-19T16:20:46+00:00",
@@ -1621,7 +1653,6 @@
     "title": "Major European mobile carriers are teaming up for a &#8216;direct&#8217; satellite program without Starlink",
     "description": "Deutsche Telekom, Orange, Telefónica, and Vodafone signed a letter of intent saying they're considering a joint bid for spectrum that would support European direct-to-device satellite competition for SpaceX's Starlink. The four telecom companies say they would handle the ground infrastructure while a separate, unannounced satellite partner provides the satellite constellation: The joint initiative by Deutsche",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Government & Policy",
       "Mobile & Telecom",
@@ -1684,7 +1715,6 @@
     "title": "Elon Musk promises to give one SpaceX share to every child in the US",
     "description": "Elon Musk says he plans to give one of his SpaceX shares to every child in the US starting next year. With around 72 million children in the US as of July 2025, Musk would be giving away about $10.5 billion worth of shares, according to a report from CNBC. Musk, who runs SpaceX and",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Government & Policy",
       "Science & Environment"
@@ -2321,39 +2351,5 @@
     "pub_date": "2026-10-19T11:34:02+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/24UwJgyxKCGvKtzZH5ckmN-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/health-fitness/smartwatches/this-garmin-feature-is-killing-users-battery-life-heres-how-to-disable-it-and-get-more-juice-from-your-smartwatch",
-    "title": "This Garmin feature is killing users’ battery life — here’s how to disable it",
-    "description": "Garmin’s new voice activation feature seems to be killing users’ battery life.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T11:32:11+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/9rHkimZKL5AFmn7NNqJAF6-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.cnet.com/home/kitchen-and-household/glass-air-fryer-slow-cooker-combo-is-the-best-kitchen-review/",
-    "title": "This Glass Air Fryer-Slow Cooker Combo Is the Best Kitchen Tool I’ve Tested All Year",
-    "description": "Magnifique’s new cooker combines two of my favorite kitchen appliances in one nontoxic, easy-to-use machine.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T11:30:07+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-10-18-at-11.24.11-AM.png",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261019/p17#a261019p17",
-    "title": "Analysis: companies are set for a massive acceleration of 50GW+ in data center capacity additions in 2027; 24GW+ across 40 campuses are in the advanced stages (Jeremie Eliahou Ontiveros/SemiAnalysis)",
-    "description": "Jeremie Eliahou Ontiveros / SemiAnalysis:\nAnalysis: companies are set for a massive acceleration of 50GW+ in data center capacity additions in 2027; 24GW+ across 40 campuses are in the advanced stages  —  60GW Under Construction, SemiAnalysis Leading Indicators, 1.3T of Lease Contracts Signed YTD, The Shortage Could Move to Chips",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T11:30:01+00:00",
-    "image_url": "http://www.techmeme.com/261019/i17.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
