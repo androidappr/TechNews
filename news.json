@@ -73,6 +73,7 @@
     "title": "Sam Altman's World launches a World ID verification suite for banks, bundling tools to verify human and agent identities, its first industry-specific offering (Zack Abrams/The Block)",
     "description": "Zack Abrams / The Block:\nSam Altman's World launches a World ID verification suite for banks, bundling tools to verify human and agent identities, its first industry-specific offering  —  The identity project co-founded by OpenAI CEO Sam Altman named Bain Capital and VanEck Funds among its design partners but did not name …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-19T03:10:02+00:00",
@@ -179,6 +180,18 @@
     "pub_date": "2026-10-19T01:32:09+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-7.jpeg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/world-id-banking-finance-zoom-ai-agents-money2020",
+    "title": "Is that really your banker? World brings human verification to Zoom calls",
+    "description": "As deepfakes grow convincing enough to pass for real people on live video, World is pitching banks a new line of defense. It offers cryptographic proof that the person, or the agent, on the other end of an interaction is genuine. The company launched World ID for banking and finance at Money20/20 on Sunday. It",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T01:10:16+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/hand-holding-phone-selfie-check-screen-laptop.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://www.techmeme.com/261018/p13#a261018p13",
@@ -1180,14 +1193,14 @@
     "source_name": "MASHABLE.COM"
   },
   {
-    "link": "https://www.wired.com/story/climate-change-has-it-in-for-the-worlds-best-surfing/",
-    "title": "Climate Change Has It In for the World’s Best Surfing",
-    "description": "As coastlines change, so do surf breaks. That may spell the end for premier waves and the tourist economies that depend on them.",
+    "link": "https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises/",
+    "title": "Magnesium May Not Reach Your Brain, Despite Supplement Label Promises",
+    "description": "Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.",
     "categories": [
       "Science & Environment"
     ],
     "pub_date": "2026-10-18T09:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg",
+    "image_url": "https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -1202,14 +1215,14 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises/",
-    "title": "Magnesium May Not Reach Your Brain, Despite Supplement Label Promises",
-    "description": "Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.",
+    "link": "https://www.wired.com/story/climate-change-has-it-in-for-the-worlds-best-surfing/",
+    "title": "Climate Change Has It In for the World’s Best Surfing",
+    "description": "As coastlines change, so do surf breaks. That may spell the end for premier waves and the tourist economies that depend on them.",
     "categories": [
       "Science & Environment"
     ],
     "pub_date": "2026-10-18T09:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg",
+    "image_url": "https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -2229,17 +2242,5 @@
     "pub_date": "2026-10-17T15:54:02+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-burgundy-rc.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/states-sue-openai-chatgpt-children-safety",
-    "title": "Eight US states sue OpenAI, alleging ChatGPT harms children",
-    "description": "Attorneys general in Arizona, Arkansas, Idaho, Iowa, Kansas, Montana, Nebraska and West Virginia filed separate lawsuits against OpenAI on 14 October. Each claims ChatGPT has hurt young users and that the company misled the public about its safety. Diana Novak Jones, who first reported the suits for Reuters, called them the most significant coordinated state",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-17T15:52:22+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/openai-about-page-laptop-screen-close-up.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
