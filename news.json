@@ -1,5 +1,54 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+    "title": "Amazon is funding a new nuclear plant in Indiana",
+    "description": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to provide up to 960 megawatts of carbon-free energy for both the regional",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-19T15:44:20+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Amazon-nuclear-power-plant-Indiana-.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261019/p31#a261019p31",
+    "title": "AI infrastructure startup Modal says it plans to start using Nvidia's Vera CPUs for the first time for hosting agents, alongside existing Intel and AMD chips (Stephen Nellis/Reuters)",
+    "description": "Stephen Nellis / Reuters:\nAI infrastructure startup Modal says it plans to start using Nvidia's Vera CPUs for the first time for hosting agents, alongside existing Intel and AMD chips  —  Nvidia (NVDA.O) has won central processor chip business with another fast-growing AI startup that until now relied entirely on chips …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T15:40:02+00:00",
+    "image_url": "http://www.techmeme.com/261019/i31.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+    "description": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-19T15:37:09+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2290313/tp-link-moves-to-assemble-routers-in-the-us-following-an-import-ban/",
+    "title": "TP-Link moves to assemble routers in the US following an import ban",
+    "description": "Routers could start rolling off a Missouri production line as soon as early 2027.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T15:31:22+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/tp-link-moves-to-assemble-routers-in-the-us-following-an-import-ban/l-intro-1792423831.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261019/p30#a261019p30",
     "title": "MiniMax launches M3.1 Flash, saying it delivers \"a generational leap\" in agentic tasks, coding, computer use, and cybersecurity, with weights due October 23 (MiniMax)",
     "description": "MiniMax:\nMiniMax launches M3.1 Flash, saying it delivers “a generational leap” in agentic tasks, coding, computer use, and cybersecurity, with weights due October 23  —  Space Bunny 🐰, which processed more than 200 trillion tokens while operating anonymously, was an early version of MiniMax M3.1 Flash.",
@@ -1059,7 +1108,6 @@
     "title": "AI chip startup Tenstorrent raised a $1.5B Series E led by Trace Capital and Innovation X at a $6.2B valuation, up from $2.6B after raising $700M in 2024 (Bloomberg)",
     "description": "Bloomberg:\nAI chip startup Tenstorrent raised a $1.5B Series E led by Trace Capital and Innovation X at a $6.2B valuation, up from $2.6B after raising $700M in 2024  —  AI chip startup Tenstorrent Inc., after attracting takeover interest earlier this year, has raised $1.5 billion from investors …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-19T11:45:00+00:00",
@@ -2247,49 +2295,5 @@
     "pub_date": "2026-10-18T21:19:49+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/phone-app-icon-fi-ios-27.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
-    "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
-    "description": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-18T21:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-    "description": "Anthropic said that it will commit 5% of its shares to the fund.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-18T20:37:40+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2289805/after-five-years-inscryption-is-finally-coming-to-mobile/",
-    "title": "After five years, Inscryption is finally coming to mobile",
-    "description": "The studio celebrated Inscryption's five-year anniversary with a Twitch stream.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-18T20:27:30+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/after-five-years-inscryption-is-finally-coming-to-mobile/l-intro-1792354834.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
-    "title": "PhoneBot uses an old $50 Android smartphone brain with its cameras as eyes — tech Frankenstein is an open source humanoid robot platform for makers",
-    "description": "UCLA researchers developed PhoneBot, a $400 open source humanoid robot using inexpensive Android smartphones for sensing, computing, vision, and walking control.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-18T20:20:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/NrNz34KY7yBu3XmCiyowEg-1920-80.png",
-    "source_name": "TECHRADAR.COM"
   }
 ]
