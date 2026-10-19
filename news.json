@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://thenextweb.com/news/amazon-torchneuron-pytorch-trainium",
+    "title": "Amazon’s TorchNeuron lets PyTorch code run on AWS Trainium chips",
+    "description": "Amazon has launched TorchNeuron, an open-source backend that lets PyTorch code run on its Trainium AI chips with a one-line change. It goes into public beta on 20 October under the Apache 2.0 licence and supports Trainium2 and Trainium3. Some PyTorch features are not yet supported. Amazon has launched TorchNeuron, a tool that lets developers",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-19T16:21:32+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/amazon-store-sign-smile-logo-facade.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/successful-ai-pilot-ai-strategy-zacharie-lahmi-ellis-partners",
+    "title": "A successful AI pilot doesn’t mean your AI strategy is working",
+    "description": "Launching an AI pilot is relatively straightforward. But integrating it reliably and at scale into business operations is a far greater challenge. McKinsey’s global 2026 survey found that only 37% of respondents said AI had improved their company’s earnings, unchanged from the previous year. Yet eight in ten said AI had helped them become more",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-19T16:20:46+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/zacharie-lahmi-ellis-partners-founder-portrait.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261019/p34#a261019p34",
+    "title": "SCOTUS rejects an appeal by BMG, Sony Music, UMG, and Warner Music, upholding a decision that copyright termination rights apply globally, not just in the US (Blake Brittain/Reuters)",
+    "description": "Blake Brittain / Reuters:\nSCOTUS rejects an appeal by BMG, Sony Music, UMG, and Warner Music, upholding a decision that copyright termination rights apply globally, not just in the US  —  The US Supreme Court rejected on Monday a challenge by a group of music labels to a judicial decision that said a law allowing creators …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T16:20:00+00:00",
+    "image_url": "http://www.techmeme.com/261019/i34.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/trump-google-maps-kiss-my-ass-gulf-of-mexico-call",
+    "title": "“Now they kiss my ass”: Trump says he called Google about the Gulf",
+    "description": "Donald Trump described his call to Google to a crowd at Northern Kentucky University on Saturday. “I called Google, Google Maps. See, Google wouldn’t have taken my call in the first. Now they kiss my ass.” Donald Trump, at a rally in Highland Heights, Kentucky He was speaking at the university’s Truist Arena in Highland",
+    "categories": [
+      "Government & Policy",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-19T16:15:51+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/trump-walks-tarmac-joint-base-elmendorf-richardson-anchorage.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261019/p33#a261019p33",
     "title": "Apple announces a \"Pro and tell\" event on October 28 10am PT in LA, where its first touchscreen MacBook, a 14\" MacBook Pro with M6, and more are expected (Chance Miller/9to5Mac)",
     "description": "Chance Miller / 9to5Mac:\nApple announces a “Pro and tell” event on October 28 10am PT in LA, where its first touchscreen MacBook, a 14\" MacBook Pro with M6, and more are expected  —  Apple today announced its second experience of the month, taking place next Wednesday, October 28 at 10 a.m. PT. The tagline for this event is: “Pro and tell.”",
@@ -10,6 +58,28 @@
     "pub_date": "2026-10-19T16:15:02+00:00",
     "image_url": "http://www.techmeme.com/261019/i33.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2287870/fiber-vs-cable-internet-difference-between/",
+    "title": "Fiber vs. cable internet: What's the difference between them?",
+    "description": "Fiber internet is more modern than cable, but the older technology still works well for today's connection needs.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T16:15:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/fiber-vs-cable-internet-whats-the-difference-between-them/l-intro-1792085043.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/logitech-g-pro-x2-rapid-review",
+    "title": "Logitech G Pro X2 Rapid review: rapid by nature",
+    "description": "The Logitech G Pro X2 Rapid is a highly specialized esports keyboard that delivers top performance at a hefty price.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-10-19T16:14:33+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/AA6BtSx7DywP2m4ugFiUmg-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
@@ -23,6 +93,30 @@
     "pub_date": "2026-10-19T16:13:22+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/oct-19-mac-studio-max-deal",
+    "title": "The new Apple Mac Studio M5 Max is already on sale at Amazon — save $200",
+    "description": "The Apple Mac Studio M5 Max is on sale at Amazon for $2,299, down from the list price of $2,499. That's an 8% discount that matches the lowest.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T16:12:10+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00VcjNp0mzlwRQwgyTMFOje/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/vpn/vpn-privacy-security/russias-next-tool-to-fight-vpns-appears-to-be-ai-and-the-numbers-suggest-its-scarily-effective",
+    "title": "Russia's next tool to fight VPNs appears to be AI — and the numbers suggest it's scarily effective",
+    "description": "A new draft national plan proposes using artificial intelligence to hunt down circumvention tools, but industry experts warn legitimate traffic could end up in the crossfire.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T16:11:26+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/kR5NMftCpqXHUzLxyQTKyF-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://www.wired.com/story/all-clad-factory-seconds-sale-october-2026/",
@@ -84,6 +178,18 @@
     "source_name": "THENEXTWEB.COM"
   },
   {
+    "link": "https://mashable.com/tech/oct-19-lg-55-inch-tv-deal",
+    "title": "Score the 55-inch LG C6 OLED TV at a record-low price ahead of Black Friday",
+    "description": "Save $400 on the 55-inch LG C6 Series OLED evo 4K Smart TV during Amazon's early Black Friday sales.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T16:05:48+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/04Zc9JoLJddamaoaXlUq6JU/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
     "title": "Apple teases MacBook Pro event next week",
     "description": "Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomberg. The big announcement is expected to be a new MacBook Pro with an OLED",
@@ -118,6 +224,17 @@
     "pub_date": "2026-10-19T16:02:47+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/pro-and-tell.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/cyberpunk-edgerunners-2-review",
+    "title": "Cyberpunk: Edgerunners 2 review: A beautiful reminder of what makes us human",
+    "description": "'Cyberpunk: Edgerunners 2' is a stunning, surprisingly hopeful sequel that is even better than its predecessor.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T16:02:27+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/003MXGuPpXrYEuBJRs9pW8G/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
@@ -158,6 +275,18 @@
     "pub_date": "2026-10-19T15:49:37+00:00",
     "image_url": "https://media.thenextweb.com/2026/08/Nvidia.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://mashable.com/life/best-early-black-friday-dyson-deals-2026",
+    "title": "The best early Black Friday Dyson deals to shop right now",
+    "description": "Save big on the Dyson PencilVac, Dyson V16 Piston Animal, and HushJet air purifier during Amazon's early Black Friday 2026 sales.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T15:48:20+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01VEVO6JzvwxcWJPkTu0Spl/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://thenextweb.com/news/us-bars-deepseek-federal-agencies",
@@ -228,7 +357,6 @@
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
-      "Business & Startups",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-19T15:37:09+00:00",
@@ -1120,7 +1248,6 @@
     "title": "Vibe coding is turning the music gear world upside down",
     "description": "If you spend any time on r/synthesizers or watch a lot of synth videos on YouTube, you've probably noticed the explosion of custom firmware for hardware synthesizers, samplers, and grooveboxes. What unites almost all of them is that they were made possible by increasingly sophisticated vibe coding tools. These sorts of custom firmware were exceedingly",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-19T12:30:00+00:00",
@@ -1222,8 +1349,8 @@
   },
   {
     "link": "https://www.techmeme.com/261019/p20#a261019p20",
-    "title": "Vinted faces an influx of listings suspected of containing stolen goods following widespread French riots, which targeted Sephora, Louis Vuitton, and Burberry (Yazhou Sun/Bloomberg)",
-    "description": "Yazhou Sun / Bloomberg:\nVinted faces an influx of listings suspected of containing stolen goods following widespread French riots, which targeted Sephora, Louis Vuitton, and Burberry  —  France to Set Partial Curfews Following Protests, Riots  —  Video Player is loading.  —  Unmute  —  Current Time 0:00 Loaded: 38.01% Playback Rate",
+    "title": "Vinted sees an influx of listings suspected of containing stolen goods following widespread French riots, which hit Sephora, Louis Vuitton, Burberry, and others (Yazhou Sun/Bloomberg)",
+    "description": "Yazhou Sun / Bloomberg:\nVinted sees an influx of listings suspected of containing stolen goods following widespread French riots, which hit Sephora, Louis Vuitton, Burberry, and others  —  France to Set Partial Curfews Following Protests, Riots  —  Video Player is loading.  —  Unmute  —  Current Time 0:00 Loaded: 38.01% Playback Rate",
     "categories": [
       "Tech News"
     ],
@@ -2197,126 +2324,5 @@
     "pub_date": "2026-10-19T02:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/03dbPGtNgk41szsLiMYrdDh/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/hurdle-hints-answers-october-19-2026",
-    "title": "Hurdle hints and answers for October 19, 2026",
-    "description": "Hints and answers to today's Hurdle all in one place.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T02:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02WVQnWsNRHYNI4ugi3pZ5s/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261018/p14#a261018p14",
-    "title": "Europe's three biggest industrial companies are cashing in on the AI boom, as Schneider and Siemens expand further into software, while ABB focuses on equipment (Aaron Kirchfeld/Financial Times)",
-    "description": "Aaron Kirchfeld / Financial Times:\nEurope's three biggest industrial companies are cashing in on the AI boom, as Schneider and Siemens expand further into software, while ABB focuses on equipment  —  Schneider Electric and Siemens move further into software as rival ABB bets on physical equipment",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T01:40:00+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/18/iphone-duo-battery-capacity-comparison/",
-    "title": "Here’s how iPhone Duo’s battery capacity compares to other iPhones",
-    "description": "After pre-orders for iPhone Duo opened, Apple uploaded an EU regulatory document that finally revealed the true battery capacity for iPhone Duo: 4883mAh. Here’s how that compares to other iPhones.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T01:32:09+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-7.jpeg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/world-id-banking-finance-zoom-ai-agents-money2020",
-    "title": "Is that really your banker? World brings human verification to Zoom calls",
-    "description": "As deepfakes grow convincing enough to pass for real people on live video, World is pitching banks a new line of defense. It offers cryptographic proof that the person, or the agent, on the other end of an interaction is genuine. The company launched World ID for banking and finance at Money20/20 on Sunday. It",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T01:10:16+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/hand-holding-phone-selfie-check-screen-laptop.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261018/p13#a261018p13",
-    "title": "Home insurer Stand, which uses digital twins of homes to price wildfire risk and insures $10B+ of property, raised a $70M Series C at a $1B valuation (Nick Lichtenberg/Fortune)",
-    "description": "Nick Lichtenberg / Fortune:\nHome insurer Stand, which uses digital twins of homes to price wildfire risk and insures $10B+ of property, raised a $70M Series C at a $1B valuation  —  Matt DiStefano shares his screen and rotates a gray 3D model of a California neighborhood.  He zooms in on one house and overlays a heat map.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T00:40:01+00:00",
-    "image_url": "http://www.techmeme.com/261018/i13.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2287059/netgear-router-lights-what-they-mean/",
-    "title": "What do all the lights on your Netgear router mean, and which ones actually matter?",
-    "description": "Some router symbols are obvious, while others take a bit of work to decipher. Their lights can vary, too.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T00:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/what-do-all-the-lights-on-your-netgear-router-mean-and-which-ones-actually-matter/l-intro-1792009377.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/arm-agi-cpu-crushes-amd-in-new-agentic-ai-benchmark-but-what-does-its-2x-rack-level-performance-advantage-mean-for-the-future-of-x86-data-centers",
-    "title": "Arm AGI CPU crushes AMD in new agentic AI benchmark — but what does its 2x rack-level performance advantage mean for the future of x86 data centers?",
-    "description": "Arm’s AGI CPU delivers nearly twice AMD’s modelled rack-level performance across seven agentic AI workloads, although production validation remains outstanding.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T00:30:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/LJiLEMa769tLHbMg8ahzT5-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
-    "title": "What does the orange dot on your Samsung Galaxy Watch mean?",
-    "description": "You might sometimes see an orange dot on the left side of your Galaxy Watch's screen. Here's what is tells you.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-19T00:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/what-does-the-orange-dot-on-your-samsung-galaxy-watch-mean/l-intro-1792007262.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/how-to-watch/how-to-watch-catfish-murders-online-stream-the-true-crime-series-for-free",
-    "title": "How to watch Catfish Murders online — stream the true crime series for FREE",
-    "description": "You can never really know who you're talking to online — here's how to watch Catfish Murders.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T00:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/VPUTtzyqAXKhWxsTfoYDck-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2286993/why-never-point-laser-pointer-at-security-camera/",
-    "title": "Why you should never point a laser pointer at a security camera",
-    "description": "Laser pointers are known to damage security cameras, but do they really? Here's what damage can actually be done.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-18T23:45:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/why-you-should-never-point-a-laser-pointer-at-a-security-camera/l-intro-1792005987.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2286802/how-to-use-google-ai-detection-website-synthid/",
-    "title": "How to use Google's SynthID AI detection website",
-    "description": "It's a simple way to check whether an image has been created or manipulated, with a few caveats.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-18T23:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/how-to-use-googles-synthid-ai-detection-website/l-intro-1791998472.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
