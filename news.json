@@ -1,5 +1,42 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+    "description": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-19T13:58:41+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/10/19/jason-sudeikis-gives-update-on-ted-lasso-seasons-5-and-6/",
+    "title": "Jason Sudeikis gives update on Ted Lasso seasons 5 and 6",
+    "description": "Ted Lasso season 4 wrapped up earlier this month, and there’s still no official word on the show’s future. But on a recent podcast appearance, Jason Sudeikis shared a new update on Ted Lasso season 5 and beyond.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T13:54:05+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ted-lasso-s4-coaching-trio.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2287587/what-playstation-5-orange-light-means/",
+    "title": "What the orange light on your PlayStation 5 is actually telling you",
+    "description": "The PS5 shows a variety of light colors to indicate its status, and orange thankfully isn't the alert you might expect from that color.",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-19T13:45:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/what-the-orange-light-on-your-playstation-5-is-actually-telling-you/l-intro-1792075033.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/microsoft-ditches-residency-plans-at-uks-largest-data-center-over-power-supply-concerns",
     "title": "Microsoft ditches residency plans at UK's largest data center over power supply concerns",
     "description": "Concerns over power supply and revelations that development of Nscale Essex site has not started prompted Microsoft's withdrawal.",
@@ -9,6 +46,29 @@
     "pub_date": "2026-10-19T13:32:14+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://mashable.com/life/burger-king-hello-kitty-price-collectibles-how-to-buy",
+    "title": "Burger King’s new Hello Kitty collab features 6 exclusive toys inside blind boxes — how to get yours",
+    "description": "Burger King has launched a new Hello Kitty collaboration that features six exclusive toys and a special golden Hello Kitty toy.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T13:31:10+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/02tya5wzXGNN3nzafqPRRrH/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/",
+    "title": "Review: Lanterns is a truly unique twist on the superhero genre",
+    "description": "Gritty HBO series is a beacon for what's possible when one is allowed to get creative with the tropes.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T13:31:08+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/lanterns1-1152x648-1790363326.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://www.techmeme.com/261019/p24#a261019p24",
@@ -191,6 +251,18 @@
     "pub_date": "2026-10-19T12:42:46+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/disney-and-co-art-deco-storefront-sign-unsplash.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to/",
+    "title": "DIY VR: How to build your own headset, and why you probably won't want to",
+    "description": "A primer on the joys and pains of building your own head-mounted display.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-19T12:33:34+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/DIY-VR-header-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://www.techradar.com/gaming/playstation/the-playstation-6-could-cost-over-usd1-000-as-leaker-claims-its-memory-and-storage-alone-will-cost-sony-usd680",
@@ -757,7 +829,6 @@
     "title": "Foxconn agrees to acquire a 50% stake in Mitsubishi's automotive components unit for ~$727M; Mitsubishi will provide autonomous tech for Foxconn's EV platforms (Reed Stevenson/Bloomberg)",
     "description": "Reed Stevenson / Bloomberg:\nFoxconn agrees to acquire a 50% stake in Mitsubishi's automotive components unit for ~$727M; Mitsubishi will provide autonomous tech for Foxconn's EV platforms  —  Hon Hai Precision Industry Co. is paying ¥115 billion ($727 million) for a 50% stake in Mitsubishi Electric Corp.'s automotive-components unit …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-19T10:00:49+00:00",
@@ -769,7 +840,6 @@
     "title": "How Elizabeth Holmes Tricked WIRED—and Everyone Else",
     "description": "WIRED was the first magazine to cover Theranos and its enticing billionaire founder. There were warning signs even then.",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Science & Environment"
     ],
@@ -2188,71 +2258,5 @@
     "pub_date": "2026-10-18T11:57:28+00:00",
     "image_url": "https://media.thenextweb.com/2026/05/australia-fair-work-commission-ai-workload-generative-tribunals.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/world-bank-small-ai-developing-countries",
-    "title": "World Bank backs ‘small AI’ on phones for poorer nations, Guardian reports",
-    "description": "The World Bank wants developing countries to build “small AI”, compact models that run on a mobile phone with a weak signal. Paschal Donohoe, the bank’s chief knowledge officer, said AI could speed up growth in emerging economies, but only if it fits local needs, the Guardian reported. Small AI uses specialised models trained on narrower",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-18T11:48:29+00:00",
-    "image_url": "https://media.thenextweb.com/2013/07/world-bank.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/pet-biotech-longevity-cloning-cryonics",
-    "title": "Biotech now sells pet cloning and cryonics, MIT Technology Review finds",
-    "description": "Pet owners who cannot face losing an animal now have a growing menu of biotech options. They range from longevity drugs to cloning and cryonics. MIT Technology Review laid out the options this week, and questioned whether some of them are wise. Pills for older dogs US startup Loyal is developing three drugs aimed at helping",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-18T11:39:43+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/tabby-cat-open-mouth-close-up.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/supreme-court-video-privacy-salazar-paramount",
-    "title": "Supreme Court appears open to wider video privacy law in Paramount case",
-    "description": "The US Supreme Court appeared ready to side with a man who says a Paramount website shared his video history with Facebook. The case could expose many websites to privacy lawsuits.The justices heard arguments in Salazar v. Paramount Global on Wednesday, CNET reported. Paramount’s case did not seem to persuade them, Bloomberg Law reported. The case In",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-18T11:31:59+00:00",
-    "image_url": "https://media.thenextweb.com/2026/07/Paramount.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261018/p7#a261018p7",
-    "title": "An interview with Apple's new VP of the App Store, Carson Oliver, on Apple's gaming vision, Apple Arcade, providing tools for indie game developers, and more (Giovanni Colantonio/Polygon)",
-    "description": "Giovanni Colantonio / Polygon:\nAn interview with Apple's new VP of the App Store, Carson Oliver, on Apple's gaming vision, Apple Arcade, providing tools for indie game developers, and more  —  Back when Apple Arcade launched in 2019, there was a resounding belief among gamers that the mobile gaming service wasn't long for this world.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-18T11:15:00+00:00",
-    "image_url": "http://www.techmeme.com/261018/i7.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.wired.com/gallery/best-gifts-for-manly-men-2026/",
-    "title": "20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)",
-    "description": "When you need something that’s as mannishly masculinized as you can get for the Man™ in your life, we have you covered.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-18T11:01:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ad2adfc85712117ad7fac60/master/pass/The%20Best%20Gifts%20for%20Men,%20Manly%20Men,%20and%20Menly%20Man%20Men%20top%20art%20SOURCE%20Amazon-Home%20Depot.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techradar.com/entertainment/can-you-escape-the-island-this-30-question-lost-quiz-will-test-everything-you-know-about-the-hit-mystery-show",
-    "title": "How well do you know the classic TV show Lost? Take the quiz now",
-    "description": "This 30-question Lost quiz will challenge your knowledge about the show, and the media franchise surrounding it.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-18T11:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ck3qwWiJeoCpKv7AcMv7xK-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
