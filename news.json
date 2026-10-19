@@ -1,5 +1,38 @@
 [
   {
+    "link": "https://www.techmeme.com/261019/p29#a261019p29",
+    "title": "Sources: DHS officials asked CISA to hack a voting machine to report vulnerabilities to the White House without telling the vendor; the request wasn't acted on (ProPublica)",
+    "description": "ProPublica:\nSources: DHS officials asked CISA to hack a voting machine to report vulnerabilities to the White House without telling the vendor; the request wasn't acted on  —  Reporting Highlights  — An Unusual Request: Political appointees at the Department of Homeland Security wanted the agency …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T15:10:04+00:00",
+    "image_url": "http://www.techmeme.com/261019/i29.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/memory/analysts-forecast-chinese-ram-surge-through-2028-but-its-not-likely-to-help-the-average-consumer-as-dell-ceo-warns-the-memory-crisis-could-last-until-2030",
+    "title": "Chinese RAM surge through 2028 isn't likely to help the average consumer",
+    "description": "As Dell's CEO joins the chorus of those warning the RAM crisis will last until 2030, don't expect a predicted memory rally from China to help.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T15:06:48+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/usHwZaRSu5KnAjSPZDWDta-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/this-is-the-cheapest-4tb-ssd-you-can-buy-team-group-t-force-g50-evo-gen4-ssd-costs-usd370-or-usd0-09-per-gb-usd554-less-than-samsung-990-pro",
+    "title": "This is the cheapest 4TB SSD you can buy — Team Group T-Force G50 EVO Gen4 SSD costs $370 or $0.09 per GB, $554 less than Samsung 990 Pro",
+    "description": "The Team Group T-Force G50 EVO Gen4 SSD is the cheapest 4TB solid-state drive I can find, and it's much cheaper than Samsung's 'stellar' 990 Pro.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-19T15:00:31+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/i3Seyy97BgXEFJyDAcKUBG-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261019/p28#a261019p28",
     "title": "The US DHS orders all federal civilian agencies to remove any DeepSeek tech from their IT systems and prohibits future procurement of its products and services (Connor Hart/Wall Street Journal)",
     "description": "Connor Hart / Wall Street Journal:\nThe US DHS orders all federal civilian agencies to remove any DeepSeek tech from their IT systems and prohibits future procurement of its products and services  —  The Department of Homeland Security has ordered federal civilian agencies to remove artificial-intelligence technology developed …",
@@ -1008,7 +1041,6 @@
     "title": "Character.AI's Chapter 11 court filings indicate a two-part deal with Disney to transfer talent and tech, shielding Disney from Character.AI's legal liabilities (Maddy Varner/Wired)",
     "description": "Maddy Varner / Wired:\nCharacter.AI's Chapter 11 court filings indicate a two-part deal with Disney to transfer talent and tech, shielding Disney from Character.AI's legal liabilities  —  The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-19T11:10:02+00:00",
@@ -1043,7 +1075,6 @@
     "title": "Stratospheric airship flew from US to Japan to test sky cell tower concept",
     "description": "Tests showed Sceye’s high-flying platform can deliver connectivity in disasters.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-19T11:05:49+00:00",
@@ -2253,38 +2284,5 @@
     "pub_date": "2026-10-18T18:10:01+00:00",
     "image_url": "http://www.techmeme.com/261018/i9.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2286505/how-modern-foldable-phone-evolved-from-royole-flexpai-to-iphone-duo/",
-    "title": "From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved",
-    "description": "Apple's iPhone Duo likely forecasts a shift in the market toward foldables becoming more common. But it took a while to get here.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-18T18:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/from-the-royole-flexpai-to-the-iphone-duo-how-the-modern-foldable-phone-has-evolved/l-intro-1791988871.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/18/apple-redesigned-health-app-one-suggestion-series-12/",
-    "title": "Apple Watch Series 12 is excellent, but I find myself missing this one software feature",
-    "description": "Apple Watch Series 12 has been a marvel of an upgrade, at least for me. I’ve written about it WHOOP. That said, in my past month testing it, there’s one WHOOP feature I’ve found myself missing.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-18T17:56:43+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12.webp?w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/fake-vpn-download-site-steals-administrator-credentials-to-give-attackers-direct-access-to-corporate-networks-but-delivers-official-signed-software-so-victims-never-suspect-a-thing",
-    "title": "Fake VPN download site steals administrator credentials to give attackers direct access to corporate networks — but delivers official signed software so victims never suspect a thing",
-    "description": "A fake WatchGuard VPN download website stole administrator credentials before delivering the genuine signed installer, potentially exposing corporate networks without deploying malware.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-18T17:05:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/natgb5M8TLEd5x6jw9mHSd-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
