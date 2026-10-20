@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://www.zdnet.com/tech/microsoft-october-windows-update-disables-security-setting-workaround/",
+    "title": "Latest Windows update disables key security setting – but there’s a workaround",
+    "description": "A bug in Microsoft’s October Windows update prevents you from turning on a security setting that blocks malicious or suspicious apps. A Registry hack fixes the glitch.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T14:26:05+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/mshq2GettyImages-1408775753.jpg",
+    "source_name": "ZDNET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/nas-vs-external-hard-drive-what-are-the-differences",
+    "title": "NAS vs external hard drive: What are the differences?",
+    "description": "We compare NAS systems and external hard drives across key features, costs, and performance to help you decide which storage solution best suits your needs.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T14:25:53+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/xFRTiKiDPktxjG5VVu4d4b-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+    "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+    "description": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday, which says Spotify has also made changes to its recommendation system to highlight more music made by human artists. \"Our editors hold the same standard and",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-20T14:18:37+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
     "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
     "description": "Figma said it plans to support as many standards as possible without exposing all of its data",
@@ -49,6 +85,17 @@
     "pub_date": "2026-10-20T14:06:02+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/Yun3kDt3wnpcQxHd4jNzb5-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/yaga-review-hudson-williams",
+    "title": "Yaga isnt the show Hudson Williams fans want it to be",
+    "description": "Hudson Williams stars alongside Noah Reid, Carrie-Anne Moss, and Clark Backo in the disappointing dark fairy tale \"Yaga.\"",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T14:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01xDCSQbGSprH7A2sJG8NnX/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://9to5mac.com/2026/10/20/tvos-27-2-adds-three-new-features-to-your-apple-tv-4k/",
@@ -1319,7 +1366,6 @@
     "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
     "description": "Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by 9to5Google and several Reddit users over the last week, may be caused by the speakers failing to correctly download and install a firmware update,",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-20T10:16:47+00:00",
@@ -2275,50 +2321,5 @@
     "pub_date": "2026-10-20T02:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/026jOEBZbF3UiU6LBZbZf1N/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/hurdle-hints-answers-october-20-2026",
-    "title": "Hurdle hints and answers for October 20, 2026",
-    "description": "Hints and answers to today's Hurdle all in one place.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T02:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02nDXMnDwEEFwT7ingYy8UC/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261019/p51#a261019p51",
-    "title": "Inception debuts Mercury 3, a diffusion LLM that it says tops GPT-6 Luna, Claude Haiku 5.5, and GLM-5.3 Flash on agentic benchmarks while being 4x to 8x faster (Jason Hiner/The Deep View)",
-    "description": "Jason Hiner / The Deep View:\nInception debuts Mercury 3, a diffusion LLM that it says tops GPT-6 Luna, Claude Haiku 5.5, and GLM-5.3 Flash on agentic benchmarks while being 4x to 8x faster  —  W  —  hile the AI industry has bet heavily on LLMs and the massive data centers needed to scale them, one of the neolabs betting …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T01:45:01+00:00",
-    "image_url": "http://www.techmeme.com/261019/i51.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-    "description": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-    "categories": [
-      "AI & Machine Learning",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-10-20T01:27:03+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/",
-    "title": "Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By",
-    "description": "Written by Alex Innanen, Atmospheric Scientist at York University Earth planning date: Friday, Oct. 9, 2026 Happy New Mars Year! We mark the start of a new year on Mars at the beginning of the northern hemisphere spring, or the vernal equinox. We then keep track of the seasons by counting degrees of solar longitude",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T01:21:38+00:00",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05037_opgs_edr_ncam_NRB_844669907EDR_S1250558NCAM00543M_.JPG?w=1022&h=1022&fit=clip&crop=faces%2Cfocalpoint",
-    "source_name": "SCIENCE.NASA.GOV"
   }
 ]
