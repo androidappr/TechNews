@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.cnet.com/news/social-media/tiktok-trial-child-safety-warning/",
+    "title": "Investigation Reveals How TikTok Executives Ignored Internal Child-Safety Warnings",
+    "description": "NPR reports that TikTok staff raised the alarm on youth bypassing age restrictions as well as being sexually exploited on the platform.",
+    "categories": [
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-20T22:42:22+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-1993700745.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/supermicro-revenue-q1-fy2027-preliminary-19-5bn-ai-demand",
+    "title": "Supermicro expects up to $19.5bn in quarterly revenue, $4bn above guidance",
+    "description": "Supermicro expects to report revenue of $18.5bn to $19.5bn for the three months to September, against the $14.5bn to $15.5bn it had guided. The AI server maker put the gap down to “increased demand for AI platforms”. The company published the preliminary figures in a business update after the US market closed on Tuesday. At",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-20T22:38:24+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/supermicro-blade-server-chassis-front-logo.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261020/p53#a261020p53",
     "title": "Google says it is rolling out Personal Intelligence for Gemini on Android Auto now and to cars with Google built-in in the coming months as an opt-in feature (Abner Li/9to5Google)",
     "description": "Abner Li / 9to5Google:\nGoogle says it is rolling out Personal Intelligence for Gemini on Android Auto now and to cars with Google built-in in the coming months as an opt-in feature  —  Google is beginning to roll out Personal Intelligence for Gemini on Android Auto and Android Automotive (cars with Google built-in).",
@@ -24,6 +48,31 @@
     "source_name": "ENGADGET.COM"
   },
   {
+    "link": "https://www.techradar.com/entertainment/streaming/your-tv-should-do-what-you-paid-for-people-are-vibe-coding-apps-to-banish-ads-from-their-smart-tvs-and-android-tv-and-its-catching-on",
+    "title": "People are using AI vibe coding to remove ads and trackers from smart TVs",
+    "description": "Developers are using AI vibe coding tools to remove ads, tracking and bloat from their smart TVs.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T22:30:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/nfteXx4c6FNguq8M3fCMcW-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/elice-ipo-32-percent-debut-korea-ai-data-centre-neocloud",
+    "title": "Korean AI data centre firm Elice sinks 32% in a record-worst IPO debut",
+    "description": "Shares in Elice, a South Korean AI data centre company, fell 32% on their first day of trading in Seoul on Tuesday. It was the worst debut on record for a Korean IPO of $100m or more, according to data compiled by Bloomberg, as Yoolim Lee and Youkyung Lee reported. Elice raised 201.1bn won ($151m)",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-20T22:24:15+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/elice-logo-cloud-city-key-visual-purple.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
     "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
     "description": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
@@ -35,6 +84,18 @@
     "pub_date": "2026-10-20T22:24:02+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
+    "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
+    "description": "Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to report fraud. In December 2025, Shirley published a viral video alleging fraud at daycares in Minnesota that were operated by members",
+    "categories": [
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-20T22:20:11+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300641963.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.techradar.com/pro/this-silent-all-flash-nas-with-10gbe-and-dual-usb4-is-cheaper-if-you-buy-it-bare-bone-and-add-your-own-ssds",
@@ -283,7 +344,7 @@
       "Breaking News"
     ],
     "pub_date": "2026-10-20T21:05:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin/l-intro-1792530123.jpg",
+    "image_url": "https://www.engadget.com/img/gallery/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin/l-intro-1792535723.jpg",
     "source_name": "ENGADGET.COM"
   },
   {
@@ -1024,7 +1085,6 @@
     "description": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware"
     ],
@@ -2283,66 +2343,5 @@
     "pub_date": "2026-10-20T13:48:08+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/05NqCAzVIyV0PZeG2NGk08y/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2288734/amazon-prime-alexa-upgrade-you-should-know-about/",
-    "title": "Amazon Prime comes with an Alexa upgrade you should know about",
-    "description": "Amazon's Echo Show and Dot devices, tablets and website all have new capabilities that you might want to take for a spin.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T13:45:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/amazon-prime-comes-with-an-alexa-upgrade-you-should-know-about/l-intro-1792159763.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://mashable.com/life/pokemon-plantopia-switch-2-collection-where-to-buy",
-    "title": "The new Pokémon Plantopia Switch 2 collection is live: Where to buy the wireless controller and gear",
-    "description": "PowerA has launched the floral Pokémon Plantopia Switch 2 collection for the 30th anniversary. Where to buy wireless controller and more.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T13:38:57+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04xRBmI7QGUFLlhiMBBH9mQ/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/at-usd500-this-intel-core-ultra-7-bundle-with-free-extras-is-the-ideal-foundation-for-your-next-pc-build",
-    "title": "At $500, this Intel Core Ultra 7 bundle with free extras is the ideal foundation for your next PC build",
-    "description": "Get an Intel Core Ultra 7 processor and Gigabyte Z890 motherboard for $500, plus a free MSI liquid cooler and software.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T13:37:52+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/3tfFEXzNYfgSCqYpXxo34V-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261020/p24#a261020p24",
-    "title": "TikTok staff depositions: TikTok executives ignored internal warnings about child sexual exploitation on Live, where staff said minors appeared in livestreams (Katie McQue/NPR)",
-    "description": "Katie McQue / NPR:\nTikTok staff depositions: TikTok executives ignored internal warnings about child sexual exploitation on Live, where staff said minors appeared in livestreams  —  TikTok employees repeatedly raised concerns internally about the risks the short-form video app posed to children …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T13:35:03+00:00",
-    "image_url": "http://www.techmeme.com/261020/i24.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/nvidia-rtx-pro-5500-china-orders-bytedance-alibaba-tencent",
-    "title": "ByteDance, Alibaba and Tencent order $35bn of Nvidia chips, Reuters reports",
-    "description": "ByteDance, Alibaba and Tencent have ordered more than 3 million of Nvidia’s RTX PRO 5500 graphics cards. Their combined sticker price is over $35bn. Reuters reported the orders on Tuesday, citing two people familiar with the matter. TNW has not independently verified the report. Nvidia has told customers and partners it cannot guarantee it will",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups",
-      "Gadgets & Hardware",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-10-20T13:32:50+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/geforce-rtx-graphics-card-inside-pc.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
