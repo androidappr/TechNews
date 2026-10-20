@@ -1,8 +1,45 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+    "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+    "description": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-20T17:12:48+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2291954/spotify-is-dancing-around-its-ai-slop-and-spam-problem/",
+    "title": "Spotify is dancing around its AI 'slop and spam' problem",
+    "description": "The company said it removed 50 million such tracks from recommendations, but hasn't necessarily wiped them entirely.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T17:11:26+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/spotify-is-dancing-around-its-ai-slop-and-spam-problem/l-intro-1792516193.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/waymo-20000-robotaxis-2027",
+    "title": "Waymo plans to grow its robotaxi fleet fivefold to 20,000 by 2027",
+    "description": "Waymo plans to grow its fleet from about 4,000 robotaxis today to 8,000 by the end of 2026 and 20,000 by the end of 2027, Semafor reported. The push follows a $5B loan this month. Much of the new fleet will be Ojai vans built on Chinese Zeekr cars. Waymo also announced plans for Madrid.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T17:05:46+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/waymo-ojai-robotaxi-intersection-dusk.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1014446/google-chrome-suspicious-website-warning",
     "title": "Chrome will now show a warning before you visit ‘suspicious’ sites",
-    "description": "Google is launching a new browser safety feature for Chrome that aims to keep you better informed about how malicious a website might be before you open it. The suspicious site warnings build on a similar two-stage system introduced for Chrome file downloads in 2024, which provides visually different notifications for blocked files based on",
+    "description": "Google is launching a new browser safety feature for Chrome that aims to keep you better informed about how malicious a website might be before you open it. The new suspicious site warnings, available when Chrome's Enhanced Protection is on, build on a similar two-stage system introduced for Chrome file downloads in 2024, which provides",
     "categories": [
       "Breaking News",
       "Cybersecurity & Privacy"
@@ -138,7 +175,6 @@
     "title": "Google Cloud outage: Revolut down as multiple services experience issues",
     "description": "Google reported that \"multiple\" Cloud services have been experiencing issues on Tuesday morning",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-20T16:16:39+00:00",
@@ -158,9 +194,10 @@
   },
   {
     "link": "https://www.techmeme.com/261020/p29#a261020p29",
-    "title": "Mark Zuckerberg says Joel Kaplan, Meta's chief global affairs officer and his top DC adviser for 15+ years, is set to leave in 2027; Kaplan had close Trump ties (Mike Allen/Axios)",
-    "description": "Mike Allen / Axios:\nMark Zuckerberg says Joel Kaplan, Meta's chief global affairs officer and his top DC adviser for 15+ years, is set to leave in 2027; Kaplan had close Trump ties  —  Joel Kaplan, Meta's chief global affairs officer, will leave Meta next year after 15+ years as Mark Zuckerberg's top Washington adviser.",
+    "title": "Joel Kaplan, Meta's chief global affairs officer, plans to leave in 2027 after 15+ years as Mark Zuckerberg's top DC adviser; Kaplan has close Trump ties (Mike Allen/Axios)",
+    "description": "Mike Allen / Axios:\nJoel Kaplan, Meta's chief global affairs officer, plans to leave in 2027 after 15+ years as Mark Zuckerberg's top DC adviser; Kaplan has close Trump ties  —  Joel Kaplan, Meta's chief global affairs officer, will leave Meta next year after 15+ years as Mark Zuckerberg's top Washington adviser.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-20T16:12:27+00:00",
@@ -745,11 +782,10 @@
   {
     "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
     "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-    "description": "Figma said it plans to support as many standards as possible without exposing all of its data",
+    "description": "Figma said it plans to support as many standards as possible without exposing all of its data.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
-      "Business & Startups",
       "Software & Apps"
     ],
     "pub_date": "2026-10-20T14:13:32+00:00",
@@ -1060,7 +1096,6 @@
     "description": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-10-20T13:07:24+00:00",
@@ -1073,7 +1108,6 @@
     "description": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Software & Apps"
     ],
     "pub_date": "2026-10-20T13:06:44+00:00",
@@ -1625,6 +1659,7 @@
     "title": "Qualcomm reportedly plans global job cuts after annual staff reviews",
     "description": "Qualcomm plans to cut jobs around the world after its yearly staff reviews, with affected employees due to be told from November. Chief executive Cristiano Amon set out the plan to staff on Monday, according to an internal memo seen by Reuters. The memo calls the move a “performance-focused reduction” but gives no number of jobs. Reuters",
     "categories": [
+      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-20T11:37:52+00:00",
@@ -1776,7 +1811,6 @@
     "title": "iPhone Duo orders limited to two per customer as Apple tackles scalping",
     "description": "Apple is limiting iPhone Duo orders to a maximum of two per customer in the US, UK, and elsewhere after shipping dates slipped into January of next year within minutes of pre-orders opening.\n\n\n\nThe move appears to be an attempt to tackle the problem of scalping, where people buy large volumes of supply-constrained devices in order to resell them on eBay for well above the retail price …\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-20T11:05:13+00:00",
@@ -2311,39 +2345,5 @@
     "pub_date": "2026-10-20T09:30:43+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/cristian-dina-ivan-burazin-interview-humanx-amsterdam.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/how-to-see-the-orionid-meteor-shower-and-other-upcoming-astronomical-events/",
-    "title": "How to See the Orionid Meteor Shower and Other Upcoming Astronomical Events",
-    "description": "Made up of small fragments left behind by Halley’s Comet, these meteors are known for being especially bright and speedy.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-20T09:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ad642584427daea1862e237/master/pass/2255213382",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techradar.com/news/live/revolut-lloyds-bank-down-october-2026",
-    "title": "Revolut and Lloyds Bank are down for many —here's all the latest on the outage",
-    "description": "Thousands of Revolut and Lloyds Bank customers are reporting issues with their online banking services —here's all the latest on the outage, which Revolut has now confirmed.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T09:23:40+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Ka8ZdadeHuWbRBddsRPZJY-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/companies-are-spending-nearly-a-third-of-it-budgets-on-software-upgrades",
-    "title": "Companies are spending nearly a third of IT budgets on software upgrades",
-    "description": "Software isn't just about a one-time purchase or an ongoing subscription – frequent updates are costing money and time.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T09:21:13+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/7AYTBfUyRzN5Xh9QbcLidW-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
