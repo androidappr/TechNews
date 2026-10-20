@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://thenextweb.com/news/germany-nvidia-ai-partnership-berlin-summit",
+    "title": "Germany signs AI partnership with Nvidia at Berlin investment summit",
+    "description": "At the Invest in Germany Summit in Berlin, the German government entered into an agreement with Nvidia on Monday, when Chancellor Friedrich Merz opened the two-day event by addressing Jensen Huang, Nvidia’s CEO. The economy ministry has entered into a memorandum of understanding with the chipmaker but has provided no further details; the agreement comes",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-20T07:12:42+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/friedrich-merz-jensen-huang-on-stage-industrial-ai-panel.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
     "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
     "description": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
@@ -2239,16 +2251,5 @@
     "pub_date": "2026-10-19T15:44:20+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Amazon-nuclear-power-plant-Indiana-.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261019/p31#a261019p31",
-    "title": "AI infrastructure startup Modal says it plans to start using Nvidia's Vera CPUs for the first time for hosting agents, alongside its current Intel and AMD chips (Stephen Nellis/Reuters)",
-    "description": "Stephen Nellis / Reuters:\nAI infrastructure startup Modal says it plans to start using Nvidia's Vera CPUs for the first time for hosting agents, alongside its current Intel and AMD chips  —  Nvidia (NVDA.O) has won central processor chip business with another fast-growing AI startup that until now relied entirely …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T15:40:02+00:00",
-    "image_url": "http://www.techmeme.com/261019/i31.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
