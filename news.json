@@ -1,5 +1,66 @@
 [
   {
+    "link": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+    "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+    "description": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-20T15:07:43+00:00",
+    "image_url": "https://media.wired.com/photos/6ad2cc7064b24534a6bc5044/master/pass/culture_ai_agent_internet_research_listserv.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
+    "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
+    "description": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.",
+    "categories": [
+      "Breaking News",
+      "Social & Media",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-20T15:03:41+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261020/p27#a261020p27",
+    "title": "Daytona, which is building cloud infrastructure for AI agents, raised a $60M Series B led by FirstMark at a $1B valuation, bringing its total funding to $91M (Jeremy Kahn/Fortune)",
+    "description": "Jeremy Kahn / Fortune:\nDaytona, which is building cloud infrastructure for AI agents, raised a $60M Series B led by FirstMark at a $1B valuation, bringing its total funding to $91M  —  AI agents need somewhere to work—and Ivan Burazin thinks the existing cloud providers aren't the right answer.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T15:00:48+00:00",
+    "image_url": "http://www.techmeme.com/261020/i27.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/",
+    "title": "NASA Provides Progress Update on Moon Base Rovers",
+    "description": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospecting. Data from these early missions will inform future mobility systems and infrastructure needed for astronauts to live and work on the Moon.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T15:00:10+00:00",
+    "image_url": "https://www.youtube.com/embed/Zezt6EsG9WE",
+    "source_name": "NASA.GOV"
+  },
+  {
+    "link": "https://9to5mac.com/2026/10/20/perplexitys-computer-can-now-run-entirely-on-your-mac-even-offline/",
+    "title": "Perplexity’s Computer can now run entirely on your Mac, even offline",
+    "description": "Perplexity is adding a new local-first mode to its Mac app that lets Computer work entirely on the device. This includes running tasks without an internet connection.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T15:00:00+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/perplexity-mac-app.webp?w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
     "link": "https://www.theverge.com/entertainment/1014276/professional-sports-authenticator-psa-stolen-graded-sports-pokemon-cards-fedex",
     "title": "Over $963,000 worth of graded Pokémon and sports cards were stolen from Fedex",
     "description": "Last week over 200 packages of graded trading cards being shipped back to their owners were stolen from a Fedex truck parked outside the headquarters of Professional Sports Authenticator (PSA) in Santa Ana, California, according to a report by The Athletic. PSA is one of the largest third-party sports and hobby card grading companies in",
@@ -43,6 +104,18 @@
     "pub_date": "2026-10-20T14:45:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/ram-prices-are-crazy-high-but-do-not-settle-for-an-8gb-laptop/l-intro-1792164591.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.nasa.gov/image-article/webb-captures-stellar-jets/",
+    "title": "Webb Captures Stellar Jets",
+    "description": "An image from NASA’s James Webb Space Telescope released on Oct. 6, 2026, reveals a cauldron of cosmic creation. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Learn more about this region – and tour it in",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T14:44:09+00:00",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/55572978759-545472774e-o.png?w=2048",
+    "source_name": "NASA.GOV"
   },
   {
     "link": "https://thenextweb.com/news/anthropic-leaked-ai-safety-bill-backlash-frontier",
@@ -501,8 +574,8 @@
   },
   {
     "link": "https://www.techmeme.com/261020/p21#a261020p21",
-    "title": "DeepSeek open-sources DeepInfer, its internal production stack designed to accelerate inference, optimize chip performance, and reduce energy and compute costs (Saritha Rai/Bloomberg)",
-    "description": "Saritha Rai / Bloomberg:\nDeepSeek open-sources DeepInfer, its internal production stack designed to accelerate inference, optimize chip performance, and reduce energy and compute costs  —  DeepSeek is opening up the software it uses to run its artificial intelligence models at scale, potentially making its technology cheaper and easier for businesses to run.",
+    "title": "DeepSeek open-sources DeepInfer, its high-performance inference framework that powers its production services, starting with support for DeepSeek-V4.1-Flash (Saritha Rai/Bloomberg)",
+    "description": "Saritha Rai / Bloomberg:\nDeepSeek open-sources DeepInfer, its high-performance inference framework that powers its production services, starting with support for DeepSeek-V4.1-Flash  —  DeepSeek is opening up the software it uses to run its artificial intelligence models at scale, potentially making its technology cheaper and easier for businesses to run.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -1161,8 +1234,8 @@
   },
   {
     "link": "https://www.techmeme.com/261020/p13#a261020p13",
-    "title": "Google says Cloud services in its London region \"are experiencing issues\", starting Monday at 23:08 PDT; Revolut says its major outage is due to Google Cloud (Bloomberg)",
-    "description": "Bloomberg:\nGoogle says Cloud services in its London region “are experiencing issues”, starting Monday at 23:08 PDT; Revolut says its major outage is due to Google Cloud  —  An outage at Google Cloud knocked out online services including digital bank Revolut Ltd. for several hours through Tuesday …",
+    "title": "Google says Cloud services in its London region are recovering after a \"power event\" caused a multi-hour outage that affected Revolut and several European banks (Bloomberg)",
+    "description": "Bloomberg:\nGoogle says Cloud services in its London region are recovering after a “power event” caused a multi-hour outage that affected Revolut and several European banks  —  A Google Cloud outage in Europe that knocked out digital bank Revolut Ltd. and other online services for several hours …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -1826,7 +1899,6 @@
     "title": "The Apple Store will only let you check out two iPhone Duos",
     "description": "Apple is limiting iPhone Duo purchases to two per customers around the world.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-20T09:07:59+00:00",
@@ -2161,17 +2233,6 @@
     "source_name": "ARSTECHNICA.COM"
   },
   {
-    "link": "https://www.wired.com/story/chewy-promo-code/",
-    "title": "Chewy Promo Codes: $20 Off October 2026",
-    "description": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/adorama-promo-code/",
     "title": "Adorama Camera Coupon Codes & Promo Codes: October 2026",
     "description": "Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.",
@@ -2202,6 +2263,17 @@
     ],
     "pub_date": "2026-10-20T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/chewy-promo-code/",
+    "title": "Chewy Promo Codes: $20 Off October 2026",
+    "description": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -2258,71 +2330,5 @@
     "pub_date": "2026-10-20T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/ebay-coupon-code/",
-    "title": "eBay Coupons: 20% Off in October 2026",
-    "description": "Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261020/p1#a261020p1",
-    "title": "Chinese robovan maker Neolix raised a $400M Series E led by Boyu, taking total funding to $1.4B+; it operates 30K+ vehicles in 300+ cities across 20 countries (Saritha Rai/Bloomberg)",
-    "description": "Saritha Rai / Bloomberg:\nChinese robovan maker Neolix raised a $400M Series E led by Boyu, taking total funding to $1.4B+; it operates 30K+ vehicles in 300+ cities across 20 countries  —  Neolix Technologies Co., a Chinese maker of driverless delivery vehicles, raised $400 million to fuel its global expansion.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T04:45:01+00:00",
-    "image_url": "http://www.techmeme.com/261020/i1.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/entertainment/disney-plus/hurry-disney-subscriptions-are-set-to-go-back-to-full-price-tomorrow-save-30-percent-off-annual-plans-across-australia-and-new-zealand",
-    "title": "Hurry, Disney+ subscriptions are set to go back to full price tomorrow — save 30% off annual plans across Australia and New Zealand",
-    "description": "Disney+ has seen a swathe of price increases over the past few years, but this deal for the Standard and Premium annual plans represents up to 42% in savings compared to month-to-month payments — but be quick before it disappears.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T04:26:07+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/3vMvFLwRnkNgRoCD2tYqoG-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/",
-    "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
-    "description": "APOD Science APOD APOD: 2026 October 20 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. An Anticrepuscular",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T04:05:00+00:00",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/AntiRainbow_Esposti_5120.jpg?w=2048&h=1536&fit=clip&crop=faces%2Cfocalpoint",
-    "source_name": "SCIENCE.NASA.GOV"
-  },
-  {
-    "link": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/",
-    "title": "The Human Fingerprint on Earth’s Water Cycle",
-    "description": "Human activities have become intertwined with how water is distributed across the continents. A new study brings their effects into sharper focus.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T04:01:00+00:00",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-human-fingerprint-on-earth’s-water-cycle/terrestrialwaterstorage_trends.jpg?w=2000&h=1380&fit=clip&crop=faces%2Cfocalpoint",
-    "source_name": "SCIENCE.NASA.GOV"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
-    "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
-    "description": "Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording and alerting you to their presence. The Baseus Security PrimeSentinel U2 Pro Outdoor 3K Dual Camera introduces a motorized spotlight that shines directly on a moving target, even as they're running across",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-20T04:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/baseus1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
