@@ -1,5 +1,42 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+    "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+    "description": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-20T16:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/1014255/arturias-minifreak-49-synthesizer",
+    "title": "Arturia’s MiniFreak 49 makes its Freak synths more professional",
+    "description": "Arturia is adding to its Freak line of proudly weird digital synths with the MiniFreak 49. Under the hood, it's almost identical to the current MiniFreak, but it adds a number of more professional features and some interface improvements. The most noticeable change is that, rather than the MiniFreak's 37 minikeys or the MicroFreak's 25",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-20T16:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Playful2.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261020/p28#a261020p28",
+    "title": "ASI, which makes AI tools for the military and air traffic controllers, raised a $325M Series C at a $3B valuation, after winning an $875M FAA contract in June (Bloomberg)",
+    "description": "Bloomberg:\nASI, which makes AI tools for the military and air traffic controllers, raised a $325M Series C at a $3B valuation, after winning an $875M FAA contract in June  —  Startup ASI raised $325 million in new funding from investors, allowing the company to expand an artificial intelligence system …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T15:55:04+00:00",
+    "image_url": "http://www.techmeme.com/261020/i28.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
     "title": "The Gospel according to Peter (Thiel)",
     "description": "It's a time of apocalyptic worldviews in Silicon Valley. The latest AI doom cycle is driven by effective altruism, a philosophy that has lurked around the fringes for years but recently burst into the mainstream because its adherents are embedded across the AI industry, from Anthropic to newly appointed AI safety watchdog METR. EA is",
@@ -10,6 +47,39 @@
     "pub_date": "2026-10-20T15:45:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/258014_Peter_Thiel_LKantrowitz.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2288921/ways-make-old-iphone-feel-faster/",
+    "title": "5 ways to make your old iPhone feel faster",
+    "description": "Your iPhone will slow down over time, but some changes can help it run at its best for longer.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-20T15:45:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/5-ways-to-make-your-old-iphone-feel-faster/l-intro-1792168459.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/early-black-friday-gift-guides-2026",
+    "title": "Early Black Friday 2026 deals: See holiday gift guides from Amazon, The Home Depot, Nordstrom, Ulta, and more",
+    "description": "Early Black Friday gift guides from Target, Costco, Amazon, Walmart, and more on available with savings on the best gifts.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T15:44:57+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/05MuOdJjIH2NNKjgTqP6NVk/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/one-of-the-great-things-about-star-wars-is-it-has-all-kinds-of-other-opportunities-to-tell-stories-in-different-genres-lucasfilm-vp-says-the-goal-is-to-find-the-best-partner-to-make-more-games-like-galactic-racer-and-zero-company",
+    "title": "'One of the great things about Star Wars is it has all kinds of other opportunities to tell stories in different genres' — Lucasfilm VP says 'the goal' is 'to find the best partner' to make more games like Galactic Racer and Zero Company",
+    "description": "It sounds like Lucasfilm Games wants to release more Star Wars games following the success of Galactic Racer and Zero Company.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-10-20T15:43:47+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/5sGUP3UpqKHriEJvFmUPUd-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac/",
@@ -367,7 +437,7 @@
   {
     "link": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
     "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-    "description": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday, which says Spotify has also made changes to its recommendation system to highlight more music made by human artists. \"Our editors hold the same standard and",
+    "description": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists. \"Our editors hold the same standard and",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -1861,17 +1931,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://9to5mac.com/2026/10/20/a-look-at-recent-apple-security-updates/",
-    "title": "Apple @ Work Podcast: A look at recent Apple security updates",
-    "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\n\n\n\nIn this episode of Apple @ Work, Adam Boynton from Jamf joins the show to talk about Apple’s recent security updates and the importance of patching older devices.\n\n\n\n\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T10:00:00+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
     "link": "https://www.cnet.com/home/security/baseus-primesentinel-w1-i-tried-amazing-security-tech-for-renters-from-a-company-youve-never-heard-of/",
     "title": "I Tried Amazing Security Tech for Renters From a Company You’ve Never Heard Of",
     "description": "It’s the year of window cams, and Baseus has my favorite model yet. Here’s why renters and second-story homes should consider it.",
@@ -1881,6 +1940,17 @@
     "pub_date": "2026-10-20T10:00:00+00:00",
     "image_url": null,
     "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/10/20/a-look-at-recent-apple-security-updates/",
+    "title": "Apple @ Work Podcast: A look at recent Apple security updates",
+    "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\n\n\n\nIn this episode of Apple @ Work, Adam Boynton from Jamf joins the show to talk about Apple’s recent security updates and the importance of patching older devices.\n\n\n\n\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T10:00:00+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
   },
   {
     "link": "https://www.techmeme.com/261020/p5#a261020p5",
@@ -2271,74 +2341,6 @@
     ],
     "pub_date": "2026-10-20T07:41:21+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/MuH6FdnCJqsnobznT3LSEM-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/eric-schmidt-anthropic-stake-ipo",
-    "title": "Former Google CEO Eric Schmidt reportedly owns about 1% of Anthropic ahead of its IPO",
-    "description": "Eric Schmidt, Google’s former CEO, owns about 1% of Anthropic, according to Bloomberg. If the AI company goes public at the valuations now being discussed, the stake could be worth billions of dollars. Schmidt invested tens of millions of dollars in Anthropic’s Series A round in 2021, Bloomberg reported, citing people familiar with the matter.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-20T07:30:33+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/eric-schmidt-speaking-microphone-the-grove.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/germany-nvidia-ai-partnership-berlin-summit",
-    "title": "Germany signs AI partnership with Nvidia at Berlin investment summit",
-    "description": "At the Invest in Germany Summit in Berlin, the German government entered into an agreement with Nvidia on Monday, when Chancellor Friedrich Merz opened the two-day event by addressing Jensen Huang, Nvidia’s CEO. The economy ministry has entered into a memorandum of understanding with the chipmaker but has provided no further details; the agreement comes",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-20T07:12:42+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/friedrich-merz-jensen-huang-on-stage-industrial-ai-panel.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
-    "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
-    "description": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
-    "categories": [
-      "Business & Startups",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-20T07:01:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261020/p2#a261020p2",
-    "title": "Leaked documents detail ECHOTRIBBLE, a nascent US Army Cyber Command program for agentic AI to autonomously spread across networks to find and eliminate targets (Sam Biddle/The Intercept)",
-    "description": "Sam Biddle / The Intercept:\nLeaked documents detail ECHOTRIBBLE, a nascent US Army Cyber Command program for agentic AI to autonomously spread across networks to find and eliminate targets  —  Documents obtained by The Intercept show the military is trying to deploy autonomous AI agents to hack its adversaries.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T06:15:01+00:00",
-    "image_url": "http://www.techmeme.com/261020/i2.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/coherence-quantum-raises-2-78m-cryogenic-quantum-control",
-    "title": "Exclusive: Coherence Quantum raises €2.78M to cut the heat inside quantum computers",
-    "description": "Think of a quantum computer as a very delicate machine that needs to operate in extreme cold. The processor is the part that does the actual computing, but it needs a lot of supporting equipment to work. The processor sits inside a special refrigerator that cools it to temperatures close to absolute zero. Cables run",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T06:00:50+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/Coherence-Quantum-team-founders.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/we-love-a-good-challenge-logitech-head-tells-us-why-the-ai-age-could-revolutionize-collaboration-as-we-know-it-as-it-reveals-its-biggest-product-overhaul-in-years",
-    "title": "'We love a good challenge': Logitech head tells us why the AI age could revolutionize collaboration as we know it, as it reveals its biggest product overhaul in years",
-    "description": "With workers now spread everywhere, having collaboration technology that works effectively has never been more important.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T06:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Lysi3Kt86wXiiqTz9m2Msd-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   }
 ]
