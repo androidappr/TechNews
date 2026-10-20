@@ -1,5 +1,66 @@
 [
   {
+    "link": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+    "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
+    "description": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees have not reached agreement on the terms of any transaction - and that there's no guarantee that they will. That",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-20T21:30:24+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261020/p49#a261020p49",
+    "title": "Eight intermediate TLS certificates from eMudhra with private key sizes of just 3 to 8 bits were compromised; browser makers and major apps have blocked them (Dan Goodin/Ars Technica)",
+    "description": "Dan Goodin / Ars Technica:\nEight intermediate TLS certificates from eMudhra with private key sizes of just 3 to 8 bits were compromised; browser makers and major apps have blocked them  —  Security personnel around the world are on high alert Tuesday following the discovery of eight TLS certificates with private keys …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T21:30:01+00:00",
+    "image_url": "http://www.techmeme.com/261020/i49.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+    "title": "Anthropic’s cloud partnerships are getting messy",
+    "description": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-20T21:25:22+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/teamgroup-unveils-128gb-cqdimm-ddr5-memory-stick-for-anyone-ready-to-second-mortgage-their-house-for-ram",
+    "title": "Teamgroup unveils 128GB CQDIMM DDR5 memory stick for anyone ready to second-mortgage their house for RAM",
+    "description": "Teamgroup's 128GB DDR5 CQDIMM wins Japanese design award, offers 8,000 MT/s, and targets AI workloads without announced retail pricing.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T21:25:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/4pEFQHupU2xeoP7MBJqyW7-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/publicis-liveramp-ftc-consent-order-equal-access",
+    "title": "FTC clears Publicis’ $2.2bn LiveRamp deal if rivals keep equal access",
+    "description": "The US Federal Trade Commission will let Publicis Groupe buy LiveRamp for $2.2bn, but only if the data company keeps serving the agency’s rivals on equal terms. The proposed consent order, announced on Monday, binds both companies for five years. Publicis must give every LiveRamp customer “non-discriminatory access and support on fair and reasonable terms”.",
+    "categories": [
+      "Cybersecurity & Privacy",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-20T21:21:43+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/ftc-headquarters-entrance-washington-dc.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/meta-prometheus-supercluster-1-million-gpus-muse",
     "title": "Meta details Prometheus, the Ohio supercluster heading for 1 million GPUs",
     "description": "Meta’s Prometheus supercluster in New Albany, Ohio, already runs hundreds of thousands of Nvidia GPUs across several buildings, and Meta plans to grow it to about 1 million. The company set out the details in an engineering blog post on Monday. The first phase of the gigawatt-scale cluster is finished. Meta used it to train",
@@ -48,6 +109,17 @@
     "pub_date": "2026-10-20T21:02:53+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/oct-20-samemovie-all-in-one-video-downloader-windows",
+    "title": "Download shows from Netflix, Hulu, and more with this $100 lifetime tool",
+    "description": "Pay once and download videos from streaming sites for life with this Windows lifetime license for SameMovie All-In-One Video Downloader.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T21:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/05B2CmhoIfuMH4idPx4joAI/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://thenextweb.com/news/arda-bob-mcgrew-232m-1-5bn-ai-manufacturing",
@@ -349,8 +421,8 @@
   },
   {
     "link": "https://www.techmeme.com/261020/p41#a261020p41",
-    "title": "Netflix reports Q3 revenue up 12% YoY to $12.87B, vs. $12.87B est., net income up 44% to $3.66B, due to the timing of expenses; NFLX drops 4%+ after hours (Sarah Whitten/CNBC)",
-    "description": "Sarah Whitten / CNBC:\nNetflix reports Q3 revenue up 12% YoY to $12.87B, vs. $12.87B est., net income up 44% to $3.66B, due to the timing of expenses; NFLX drops 4%+ after hours  —  Netflix on Tuesday reported third-quarter earnings that topped analyst estimates and revenue that was in line as Wall Street eyes …",
+    "title": "Netflix reports Q3 revenue up 12% YoY to $12.87B, in line with est., net income up 44% YoY to $3.66B, in part due to expenses timing; NFLX drops 5%+ after hours (Sarah Whitten/CNBC)",
+    "description": "Sarah Whitten / CNBC:\nNetflix reports Q3 revenue up 12% YoY to $12.87B, in line with est., net income up 44% YoY to $3.66B, in part due to expenses timing; NFLX drops 5%+ after hours  —  Netflix on Tuesday reported third-quarter earnings that topped analyst estimates and revenue that was in line as Wall Street eyes …",
     "categories": [
       "Tech News"
     ],
@@ -676,17 +748,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.theverge.com/gadgets/1014565/amazon-fire-hd-10-tablet-deal-sale",
-    "title": "Amazon is phasing out Fire HD tablets, but not without some big discounts first",
-    "description": "Amazon recently announced it’s phasing out its Fire HD tablets in favor of much pricier Alexa Tablets. While the days of getting an affordable, but good tablet from Amazon seem to be coming to an end, you can still get a fantastic deal on the ad-supported Amazon Fire HD 10. It has dropped to a",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-20T19:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/amazonfirehd.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.techradar.com/televisions/reaches-the-heights-of-mid-range-tvs-at-a-lower-price-point-i-tested-hisenses-vibrant-mini-led-tv-and-was-wowed-by-what-it-offers-for-its-relatively-affordable-price",
     "title": "Hisense U6SF Pro review: a richly hued mini-LED TV with strong features, especially for the price",
     "description": "The Hisense U6SF Pro is a solid TV that gets you most of the way there for a good price.",
@@ -696,6 +757,17 @@
     "pub_date": "2026-10-20T19:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/HPuU6xWsFnvtjFhaM38TyJ-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/1014565/amazon-fire-hd-10-tablet-deal-sale",
+    "title": "Amazon is phasing out Fire HD tablets, but not without some big discounts first",
+    "description": "Amazon recently announced it’s phasing out its Fire HD tablets in favor of much pricier Alexa Tablets. While the days of getting an affordable, but good tablet from Amazon seem to be coming to an end, you can still get a fantastic deal on the ad-supported Amazon Fire HD 10. It has dropped to a",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-20T19:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/amazonfirehd.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.theverge.com/entertainment/1014640/justwatch-tv-plus-free-store-streaming-service-movie-rental",
@@ -1081,7 +1153,6 @@
     "description": "Otter.ai has raised $320 million in growth financing from General Catalyst’s Customer Value Fund. The AI meeting notetaker announced the deal on Tuesday. It will use the money for enterprise growth, its go-to-market strategy, international expansion and product development. Otter says more than 40 million people now use its product. That includes teams at over",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Software & Apps"
     ],
@@ -2280,73 +2351,5 @@
     "pub_date": "2026-10-20T13:00:54+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/jooba-4m-ai-native-recruiting-a16z-speedrun.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/postquant-labs-quip-virtual-machine-quantum",
-    "title": "Postquant Labs launches a virtual machine for different quantum computers",
-    "description": "Quantum computers don’t all work the same way, and that creates a problem for developers. Code written for one machine may need to be rewritten before it can run on another. Postquant Labs wants to change that. The US startup has launched the Quip Virtual Machine (QVM), a software layer that lets developers write code",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T13:00:41+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/postquant-labs-team-backyard-blue-shirts.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/mobile/textnows-150-moto-g-play-is-customized-for-kids-and-pairs-up-with-a-20-monthly-plan/",
-    "title": "TextNow’s $150 Yello Phone Is Customized for Kids and Pairs Up With a $20 Monthly Plan",
-    "description": "The lower-cost phone has a parent portal for managing calls and texts, checking the phone’s location, and enabling games.",
-    "categories": [
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-10-20T13:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Yello-TextNow-box-and-phone-compressed.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-    "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-    "description": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
-    "categories": [
-      "AI & Machine Learning",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-20T13:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/",
-    "title": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull",
-    "description": "The raise comes as venture dollars pile up on the West Coast.",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-20T13:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2289029/antigravity-a1-drone-follow-me-bundle-hands-on/",
-    "title": "Antigravity's Follow Me bundle adds accurate tracking and gesture controls to its A1 drone",
-    "description": "Antigravity's watch and ring remote are available as an accessory bundle or as a full kit with the A1 drone.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/antigravitys-follow-me-bundle-adds-accurate-tracking-and-gesture-controls-to-its-a1-drone/l-intro-1792172648.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.theverge.com/entertainment/1013753/nintendo-switch-sports-resort-review-switch-2",
-    "title": "Wii Sports is back on the Switch 2, and it rules",
-    "description": "Wii Sports holds an important place in Nintendo's history. It's the best-selling piece of software the company has ever made, one that permeated culture in surprising ways, and its success helped rejuvenate Nintendo after a period of steady decline. It also kicked off one of the company's most important and unassuming franchises. While subsequent sports",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-20T13:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NS2_NintendoSwitchSportsResort_scrn_17.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
