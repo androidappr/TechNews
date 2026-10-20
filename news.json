@@ -77,7 +77,7 @@
       "Tech News"
     ],
     "pub_date": "2026-10-20T03:45:01+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
+    "image_url": "http://www.techmeme.com/261019/i53.jpg",
     "source_name": "TECHMEME.COM"
   },
   {
@@ -107,7 +107,6 @@
     "title": "Today’s NYT Mini Crossword Answers for Tuesday, Oct. 20",
     "description": "Here are hints and the answers for today’s NYT Mini Crossword for Oct. 20, 2026.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-10-20T02:33:44+00:00",
@@ -201,7 +200,6 @@
     "title": "Hurdle hints and answers for October 20, 2026",
     "description": "Hints and answers to today's Hurdle all in one place.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-20T02:00:00+00:00",
@@ -210,8 +208,8 @@
   },
   {
     "link": "https://www.techmeme.com/261019/p51#a261019p51",
-    "title": "Inception launches Mercury 3, a diffusion-based LLM it claims is \"comparable to Luna and Haiku models\" but 4x to 8x faster, generating ~1,000 tokens per second (Jason Hiner/The Deep View)",
-    "description": "Jason Hiner / The Deep View:\nInception launches Mercury 3, a diffusion-based LLM it claims is “comparable to Luna and Haiku models” but 4x to 8x faster, generating ~1,000 tokens per second  —  W  —  hile the AI industry has bet heavily on LLMs and the massive data centers needed to scale them …",
+    "title": "Inception launches Mercury 3, a diffusion-based LLM that it claims outperforms GPT-6 Luna, Claude Haiku 5.5, and GLM-5.3 Flash while being 4x to 8x faster (Jason Hiner/The Deep View)",
+    "description": "Jason Hiner / The Deep View:\nInception launches Mercury 3, a diffusion-based LLM that it claims outperforms GPT-6 Luna, Claude Haiku 5.5, and GLM-5.3 Flash while being 4x to 8x faster  —  W  —  hile the AI industry has bet heavily on LLMs and the massive data centers needed to scale them, one of the neolabs betting …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -445,23 +443,10 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-20-october-2026",
-    "title": "Quordle hints and answers for Tuesday, October 20 (game #1730)",
-    "description": "Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.",
-    "categories": [
-      "Breaking News",
-      "Gaming"
-    ],
-    "pub_date": "2026-10-19T23:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-20-october-2026",
     "title": "NYT Connections hints and answers for Tuesday, October 20 (game #1227)",
     "description": "Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-10-19T23:00:00+00:00",
@@ -473,11 +458,21 @@
     "title": "NYT Strands hints and answers for Tuesday, October 20 (game #961)",
     "description": "Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-10-19T23:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/XrpFgcngWrtXQscKdLLAZB-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-20-october-2026",
+    "title": "Quordle hints and answers for Tuesday, October 20 (game #1730)",
+    "description": "Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-10-19T23:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
