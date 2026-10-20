@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1014446/google-chrome-suspicious-website-warning",
+    "title": "Chrome will now show a warning before you visit ‘suspicious’ sites",
+    "description": "Google is launching a new browser safety feature for Chrome that aims to keep you better informed about how malicious a website might be before you open it. The suspicious site warnings build on a similar two-stage system introduced for Chrome file downloads in 2024, which provides visually different notifications for blocked files based on",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-20T17:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Google-Chrome-suspicious-website-warning-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261020/p30#a261020p30",
+    "title": "Sources: Polymarket investors pressured CEO Shayne Coplan to add stricter financial and operational controls; Elon Musk's lawyer, Alex Spiro, joined its board (Bloomberg)",
+    "description": "Bloomberg:\nSources: Polymarket investors pressured CEO Shayne Coplan to add stricter financial and operational controls; Elon Musk's lawyer, Alex Spiro, joined its board  —  When Founders Fund considered investing in Polymarket in 2025, it learned that the prediction-market startup's young chief executive …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T16:50:02+00:00",
+    "image_url": "http://www.techmeme.com/261020/i30.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/homebase-ai-assistant-fills-shifts",
     "title": "Homebase’s new AI assistant fills shifts for small business owners",
     "description": "Homebase, which makes scheduling and payroll software for hourly teams, has launched Homebase Assistant. The AI tool finds and contacts staff to cover missed shifts, builds schedules, screens job candidates and flags timecard errors before payroll. It is available to a limited number of businesses, and pricing has not been disclosed. Homebase, which makes scheduling",
@@ -1154,18 +1177,6 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://www.theverge.com/tech/1014063/antigravity-a1-drone-follow-me-watch-ring-control",
-    "title": "Antigravity just halved the price of its drone — by swapping its headset for wristwatch control",
-    "description": "Last year's Antigravity A1 is the best beginner drone I've ever tried. I put a friend who'd never flown into its virtual cockpit and didn't worry one bit. The A1's also nice for people who'd prefer to think about flying rather than filming, because you can reframe its 360-degree footage after. But until today, that",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T13:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-antigravity-a1-sean-hollister-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.engadget.com/2289029/antigravity-a1-drone-follow-me-bundle-hands-on/",
     "title": "Antigravity's Follow Me bundle adds accurate tracking and gesture controls to its A1 drone",
     "description": "Antigravity's watch and ring remote are available as an accessory bundle or as a full kit with the A1 drone.",
@@ -1186,6 +1197,18 @@
     "pub_date": "2026-10-20T13:00:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Yello-TextNow-box-and-phone-compressed.jpg",
     "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1014063/antigravity-a1-drone-follow-me-watch-ring-control",
+    "title": "Antigravity just halved the price of its drone — by swapping its headset for wristwatch control",
+    "description": "Last year's Antigravity A1 is the best beginner drone I've ever tried. I put a friend who'd never flown into its virtual cockpit and didn't worry one bit. The A1's also nice for people who'd prefer to think about flying rather than filming, because you can reframe its 360-degree footage after. But until today, that",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T13:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-antigravity-a1-sean-hollister-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://mashable.com/entertainment/final-fantasy-resonance-review",
@@ -1511,7 +1534,6 @@
     "title": "Note-taking tool Otter.ai raised $320M in non-dilutive capital from General Catalyst's Customer Value Fund; PitchBook says it raised $50M prior to this round (Ivan Mehta/TechCrunch)",
     "description": "Ivan Mehta / TechCrunch:\nNote-taking tool Otter.ai raised $320M in non-dilutive capital from General Catalyst's Customer Value Fund; PitchBook says it raised $50M prior to this round  —  Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst's Customer Value Fund …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-20T11:55:02+00:00",
@@ -1778,7 +1800,6 @@
     "description": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Software & Apps"
     ],
@@ -1791,8 +1812,7 @@
     "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
     "description": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-20T11:00:00+00:00",
     "image_url": null,
@@ -1825,8 +1845,7 @@
     "title": "Yelp’s AI Assistant Can Call a Restaurant and Join the Waitlist for You",
     "description": "The updated agent also can tell you if it’s going to rain and maybe you shouldn’t book that outdoor table.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-20T11:00:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Yelp-Assistant-Keep-Me-Posted.png",
@@ -2325,30 +2344,6 @@
     ],
     "pub_date": "2026-10-20T09:21:13+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/7AYTBfUyRzN5Xh9QbcLidW-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/openai-30bn-round-before-anthropic-ipo",
-    "title": "OpenAI reportedly races to close $30bn round before Anthropic’s IPO",
-    "description": "OpenAI is trying to speed up a funding round of about $30bn to secure investor commitments before Anthropic lists its shares in mid-November. The round could value the ChatGPT maker at more than $ 1.4 trillion. Reuters reported the plan on Monday, citing two people familiar with the matter. OpenAI and SoftBank declined to comment",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-20T09:16:17+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/sam-altman-on-stage-openai-logo-devday-2026.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/vpn/vpn-services/nordvpn-patches-clumsy-windows-bug-that-let-attackers-disable-system-services",
-    "title": "NordVPN patches \"clumsy\" Windows bug that let attackers disable system services",
-    "description": "NordVPN has rolled out a fix for a Windows app vulnerability (CVE-2026-106030) that allowed local attackers to interfere with system services. Update to version 8.12 now to stay secure.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T09:11:25+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/kEn3wXDv34dPV6X2rbZfFW-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   }
 ]
