@@ -1,5 +1,67 @@
 [
   {
+    "link": "https://thenextweb.com/news/meta-prometheus-supercluster-1-million-gpus-muse",
+    "title": "Meta details Prometheus, the Ohio supercluster heading for 1 million GPUs",
+    "description": "Meta’s Prometheus supercluster in New Albany, Ohio, already runs hundreds of thousands of Nvidia GPUs across several buildings, and Meta plans to grow it to about 1 million. The company set out the details in an engineering blog post on Monday. The first phase of the gigawatt-scale cluster is finished. Meta used it to train",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-20T21:08:11+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/meta-prometheus-data-centre-gpu-racks-aisle-new-albany.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261020/p48#a261020p48",
+    "title": "Super Micro reports preliminary Q1 revenues of $18.5B to $19.5B, vs. $15B est., and gross margins of 12% to 12.5%; SMCI jumps 11%+ after hours (Dina Bass/Bloomberg)",
+    "description": "Dina Bass / Bloomberg:\nSuper Micro reports preliminary Q1 revenues of $18.5B to $19.5B, vs. $15B est., and gross margins of 12% to 12.5%; SMCI jumps 11%+ after hours  —  Super Micro Computer Inc. jumped in late trading after reporting preliminary quarterly results that topped analysts' estimates.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T21:05:07+00:00",
+    "image_url": "http://www.techmeme.com/261020/i48.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2292365/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin/",
+    "title": "ChatGPT now lets you lock sensitive chats behind a PIN",
+    "description": "OpenAI has introduced a new \"locked chats\" feature to protect users' more sensitive conversations with ChatGPT.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-20T21:05:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin/l-intro-1792530123.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
+    "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
+    "description": "SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the attempt would mark the first time in history an orbital launch vehicle has been fully recovered. \"This is a",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-20T21:02:53+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/arda-bob-mcgrew-232m-1-5bn-ai-manufacturing",
+    "title": "Ex-OpenAI research chief Bob McGrew’s Arda raises $232M for US factories",
+    "description": "Arda Industries, founded by OpenAI’s former research chief Bob McGrew, has come out of stealth with $232 million in funding, the company announced on Tuesday. Its AI software turns new product designs into working assembly lines. The total includes a $160 million Series A at a $1.5 billion valuation, co-led by Altimeter, Accel and Khosla",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-20T20:55:10+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/arda-industries-logo-factory-robots-cover.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261020/p47#a261020p47",
     "title": "SpaceX reports Q3 capex of $19.6B, up from $6.9B a year earlier, and Q3 connectivity revenue, which includes Starlink, up 69% YoY to $5.2B (Becky Peterson/Wall Street Journal)",
     "description": "Becky Peterson / Wall Street Journal:\nSpaceX reports Q3 capex of $19.6B, up from $6.9B a year earlier, and Q3 connectivity revenue, which includes Starlink, up 69% YoY to $5.2B  —  Artificial intelligence revenue surges around 830% while capital spending on data center build-out and developing new technology continues",
@@ -54,6 +116,18 @@
     "pub_date": "2026-10-20T20:47:46+00:00",
     "image_url": "https://media.wired.com/photos/6ad7d2fa4d0edca385d0d9e6/master/pass/Rocco%20The%20Essential%20sale%20102026%20top%20art%20SOURCE%20Rocco.jpg",
     "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/gaming/xbox-game-pass-october-pt-2/",
+    "title": "Cloud Strife, Sephiroth and Other FF7 Characters Land on Xbox Game Pass Soon",
+    "description": "It wouldn’t be Halloween without some spooky games, too, and Xbox Game Pass has you covered.",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-20T20:46:56+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/game_pass_october_second_half.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://9to5mac.com/2026/10/20/sensor-tower-metas-muse-app-tops-10-million-us-downloads-in-40-days/",
@@ -123,7 +197,6 @@
     "title": "Sources: Elon Musk ordered Starshield slowdown in Ukraine and discussed it with Trump after the issue became public; some US officials say he acted unilaterally (Wall Street Journal)",
     "description": "Wall Street Journal:\nSources: Elon Musk ordered Starshield slowdown in Ukraine and discussed it with Trump after the issue became public; some US officials say he acted unilaterally  —  The SpaceX founder authorized the move and has been discussing Ukraine with Trump, but the president has denied ordering the restrictions",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-20T20:35:03+00:00",
@@ -2275,76 +2348,5 @@
     "pub_date": "2026-10-20T13:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NS2_NintendoSwitchSportsResort_scrn_17.png?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/games/1013958/final-fantasy-resonance-review",
-    "title": "Final Fantasy dips back into the SNES golden era with Resonance",
-    "description": "Final Fantasy is a lot different than it used to be. While many of the early Final Fantasy titles look and play similarly to each other, the series has since grown to encompass blockbuster games like Final Fantasy XVI and the gargantuan Final Fantasy VII Remake trilogy, which don't play much like the classics. But",
-    "categories": [
-      "Breaking News",
-      "Gaming"
-    ],
-    "pub_date": "2026-10-20T13:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ss_a5850396e3aaf971ce506069bb412e9deb805391.1920x1080-2.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1014063/antigravity-a1-drone-follow-me-watch-ring-control",
-    "title": "Antigravity just halved the price of its drone — by swapping its headset for wristwatch control",
-    "description": "Last year's Antigravity A1 is the best beginner drone I've ever tried. I put a friend who'd never flown into its virtual cockpit and didn't worry one bit. The A1's also nice for people who'd prefer to think about flying rather than filming, because you can reframe its 360-degree footage after. But until today, that",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T13:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-antigravity-a1-sean-hollister-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/final-fantasy-resonance-review",
-    "title": "Final Fantasy Resonance doesnt hit as hard as the classics, but its still a fun throwback",
-    "description": "'Final Fantasy Resonance' doesn't have the same narrative weight as the best games in the series, but it's still worthwhile.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T13:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/reviews/05xdaH9jF4H8X4FJygFBBfs/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/antigravity-a1-360-drone-follow-me-bundle",
-    "title": "Antigravity A1 unveils Watch Remote for 360-degree drone",
-    "description": "The Antigravity A1 drone now has new Wrist and Ring Remotes, allowing users to fly the 360-degree video drone without a headset.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T13:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07upp48j13fJCJixTO5GOhC/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/nintendo-switch-sports-resort-wuhu-island-setting-minigames",
-    "title": "The best part of Nintendo Switch Sports Resort is the setting, not the minigames",
-    "description": "'Nintendo Switch Sports Resort' is a nicely fleshed out sequel to 'Nintendo Switch Sports,' but Wuhu Island is the real star.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T13:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01rWmwgYX6dSSmXMOFf7C87/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/final-fantasy-resonance-best-character-cameos",
-    "title": "The 6 best character cameos in Final Fantasy Resonance",
-    "description": "'Final Fantasy Resonance' has characters from all throughout the series in it. Here are some of the coolest ones.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T13:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07fW7tNrSdEFl1r0mcPCT5t/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
