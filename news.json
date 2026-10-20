@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.engadget.com/2291486/uk-antitrust-regulartor-wants-apple-to-open-up-iphone-nfc-access/",
+    "title": "UK antitrust regulator wants Apple to open up iPhone NFC access",
+    "description": "The UK is taking aim at Apple's near-monopoly on contactless NFC smartphone payments.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-20T12:42:27+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/uk-antitrust-regulator-wants-apple-to-open-up-iphone-nfc-access/l-intro-1792500056.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261020/p20#a261020p20",
+    "title": "Salesforce agrees to acquire AI-powered marketing platform Braze for nearly $5.7B in enterprise value, paying $47.50 per share, set to close from February 2027 (Dana Wollman/Bloomberg)",
+    "description": "Dana Wollman / Bloomberg:\nSalesforce agrees to acquire AI-powered marketing platform Braze for nearly $5.7B in enterprise value, paying $47.50 per share, set to close from February 2027  —  Salesforce Inc. has agreed to buy Braze Inc., an artificial intelligence-powered platform for marketers, for almost $5.7 billion in enterprise value.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T12:35:01+00:00",
+    "image_url": "http://www.techmeme.com/261020/i20.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/data-centers-ai-climate-change-hyperscale/",
+    "title": "Data Centers Are Burning Fossil Fuels. It’s Destroying Big Tech’s Climate Goals",
+    "description": "In his new book, Paris Marx explores how global anti-data center movements are fighting Big Tech’s power over us.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-20T12:30:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/image-2-4.png",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261020/p19#a261020p19",
     "title": "Spotify launches paid podcast memberships in 34 markets, including the US; creators can offer perks like bonus content or fewer ads and keep 90% of revenue (Sarah Perez/TechCrunch)",
     "description": "Sarah Perez / TechCrunch:\nSpotify launches paid podcast memberships in 34 markets, including the US; creators can offer perks like bonus content or fewer ads and keep 90% of revenue  —  Spotify on Tuesday launched paid memberships, a new way for podcasters to make money from their biggest fans beyond paywalled bonus episodes.",
@@ -374,7 +409,7 @@
   {
     "link": "https://www.techmeme.com/261020/p13#a261020p13",
     "title": "Google says Cloud in its London region is \"experiencing issues\" starting on Monday at 23:08 PDT; a source says a major Revolut outage is due to Google Cloud (Bloomberg)",
-    "description": "Bloomberg:\nGoogle says Cloud in its London region is “experiencing issues” starting on Monday at 23:08 PDT; a source says a major Revolut outage is due to Google Cloud  —  An outage at Google Cloud knocked out banking services in the UK including Revolut Ltd. early on Tuesday.",
+    "description": "Bloomberg:\nGoogle says Cloud in its London region is “experiencing issues” starting on Monday at 23:08 PDT; a source says a major Revolut outage is due to Google Cloud  —  An outage at Google Cloud knocked out online services including digital bank Revolut Ltd. for several hours through Tuesday …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -482,7 +517,7 @@
   {
     "link": "https://www.cnet.com/tech/services-and-software/yelps-ai-assistant-can-call-a-restaurant-and-join-the-waitlist-for-you/",
     "title": "Yelp’s AI Assistant Can Call a Restaurant and Join the Waitlist for You",
-    "description": "The updated agent can tell you if it’s going to rain and maybe you shouldn’t book that outdoor table.",
+    "description": "The updated agent also can tell you if it’s going to rain and maybe you shouldn’t book that outdoor table.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News"
@@ -622,17 +657,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.wired.com/story/final-fantasy-vii-revelation/",
-    "title": "How ‘Final Fantasy VII Revelation’ Strikes the Balance Between Old and New",
-    "description": "Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-20T10:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/the-big-interview-mary-anne-franks/",
     "title": "Sexual Assault Is a Free Speech Issue",
     "description": "Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”",
@@ -641,6 +665,17 @@
     ],
     "pub_date": "2026-10-20T10:30:00+00:00",
     "image_url": "https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/final-fantasy-vii-revelation/",
+    "title": "How ‘Final Fantasy VII Revelation’ Strikes the Balance Between Old and New",
+    "description": "Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-10-20T10:30:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png",
     "source_name": "WIRED.COM"
   },
   {
@@ -2244,38 +2279,5 @@
     "pub_date": "2026-10-19T20:55:15+00:00",
     "image_url": "https://media.wired.com/photos/6ad6814fc2cc5f3eed50f4a6/master/pass/Power%20Bank%20Deals%20Post%20102026%20top%20art%20SOURCE%20Amazon.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
-    "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
-    "description": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-19T20:54:17+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ICEYE_assembling_satellite_06_3x2-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/kasperskys-vpn-and-password-manager-went-dark-for-days-worldwide-and-the-timing-has-raised-awkward-questions-about-russias-drone-hit-data-centers",
-    "title": "Kaspersky's VPN and password manager went dark for days worldwide — and the timing has raised awkward questions about Russia's drone-hit data centers",
-    "description": "Kaspersky outage began within hours of Ukrainian drones shutting down a third Yandex data center, but no link has been confirmed.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-19T20:45:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ZcRSDQuJZS7Ri3PRF8UExf-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/services-and-software/meta-bot-traffic-no-kings-day-instagram-suspension/",
-    "title": "Meta Blames Bot Traffic for No Kings Day Instagram Suspension",
-    "description": "The No Kings Coalition says that even after the account was visible again, they couldn’t access it for hours.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-19T20:39:50+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/No-Kings-oct-2026-getty.webp",
-    "source_name": "CNET.COM"
   }
 ]
