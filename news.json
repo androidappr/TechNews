@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.techradar.com/news/live/revolut-lloyds-bank-down-october-2026",
+    "title": "Revolut and Lloyds Bank are down for many —here's all the latest on the outage",
+    "description": "Thousands of Revolut and Lloyds Bank customers are reporting issues with their online banking services —here's all the latest on the outage, which Revolut has now confirmed.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T09:23:40+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Ka8ZdadeHuWbRBddsRPZJY-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/companies-are-spending-nearly-a-third-of-it-budgets-on-software-upgrades",
+    "title": "Companies are spending nearly a third of IT budgets on software upgrades",
+    "description": "Software isn't just about a one-time purchase or an ongoing subscription – frequent updates are costing money and time.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T09:21:13+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/7AYTBfUyRzN5Xh9QbcLidW-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/openai-30bn-round-before-anthropic-ipo",
+    "title": "OpenAI reportedly races to close $30bn round before Anthropic’s IPO",
+    "description": "OpenAI is trying to speed up a funding round of about $30bn to secure investor commitments before Anthropic lists its shares in mid-November. The round could value the ChatGPT maker at more than $ 1.4 trillion. Reuters reported the plan on Monday, citing two people familiar with the matter. OpenAI and SoftBank declined to comment",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-20T09:16:17+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/sam-altman-on-stage-openai-logo-devday-2026.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techradar.com/vpn/vpn-services/nordvpn-patches-clumsy-windows-bug-that-let-attackers-disable-system-services",
     "title": "NordVPN patches \"clumsy\" Windows bug that let attackers disable system services",
     "description": "NordVPN has rolled out a fix for a Windows app vulnerability (CVE-2026-106030) that allowed local attackers to interfere with system services. Update to version 8.12 now to stay secure.",
@@ -58,6 +93,85 @@
     "source_name": "TECHRADAR.COM"
   },
   {
+    "link": "https://mashable.com/roundup/best-wireless-earbuds-hands-on-tested-2026",
+    "title": "The best wireless earbuds weve ever tested (and continue to love)",
+    "description": "Mashable tested the best wireless, in-ear, open, and noise-cancelling earbuds at every price point. See how Apple AirPods, Sony XM6, Bose QuietComfort Ultra 2 earbuds, and more compare.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T09:01:06+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/roundups/06IWFHfJ7yAAffPn0vTjQpE/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/roundup/best-noise-cancelling-earbuds-2026-expert-tested",
+    "title": "We tested dozens of earbuds: These 8 are the best for noise-cancelling",
+    "description": "Our headphones expert and Mashable team members tested the best noise-cancelling earbuds to find the truly elite. Here are the top buds from Bose, Sony, Apple, Beats, and our favorite budget brands.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T09:00:43+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/roundups/01lgX9lodCNLFP6HFHF4rrt/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/roundup/best-tablets-2026-expert-tested-reviewed",
+    "title": "The 7 best tablets of 2026: Comparing iPad, Samsung, and Lenovo",
+    "description": "See how the new M4 iPad Air compares to the best tablets from Lenovo, Samsung, Microsoft, and Amazon Fire.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T09:00:11+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/roundups/04oNXR8PKkI8kV5z6J2R2Nf/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/roundup/best-echo-devices-2026-tested",
+    "title": "The 7 best Amazon Echo devices for 2026",
+    "description": "Find the best Amazon Echo devices, from the new Echo Dot to the most-loved Echo Show. See which devices are right for you.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T09:00:08+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/roundups/01SnDSgZfCRVaSrtM2CTdzr/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/roundup/best-ipads-2026-tested",
+    "title": "The 4 best iPads of 2026: Should you buy the 2026 iPad Air with M4 chip?",
+    "description": "Air, Pro, mini, or original flavor? After testing all the latest Apple tablets, we picked the top iPads for every use case.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T09:00:01+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/roundups/05H5uZ9Xs7C6plr5Za754E0/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/movies-like-10-things-i-hate-about-you",
+    "title": "10 movies like 10 Things I Hate About You, and where to watch them",
+    "description": "Julia Stiles got you craving more teen movies? We've got you covered.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T09:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/03Ho0CSaCjioq8HkYrXGERF/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/oct-20-caveat-ai-standard-plan-lifetime-subscription",
+    "title": "Don’t take AI’s word for it — this $60 tool double-checks its answers",
+    "description": "Get a second opinion on AI answers with this lifetime subscription to Caveat AI Standard Plan.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T09:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/016w0SUuuivjb1Yyj24XCDA/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/when-the-model-takes-away-the-moat",
     "title": "When the model takes away the moat",
     "description": "The ability to train an AI model should be fully democratized.",
@@ -68,6 +182,17 @@
     "pub_date": "2026-10-20T08:58:44+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/jon-stewart-trump-deal-russia",
+    "title": "Jon Stewart has a blunt response to Trumps deal with Russia",
+    "description": "Jon Stewart has responded to the diesel deal Trump announced with Russia, shortly after the US placed fresh sanctions on the import of oil and gas from the country.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T08:57:56+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/videos/01gMYUgk0uLvu89LKiNBeO8/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://thenextweb.com/news/revolut-outage-app-card-payments",
@@ -268,6 +393,17 @@
     "source_name": "ARSTECHNICA.COM"
   },
   {
+    "link": "https://www.wired.com/story/chewy-promo-code/",
+    "title": "Chewy Promo Codes: $20 Off October 2026",
+    "description": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.wired.com/story/adorama-promo-code/",
     "title": "Adorama Camera Coupon Codes & Promo Codes: October 2026",
     "description": "Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.",
@@ -320,17 +456,6 @@
     ],
     "pub_date": "2026-10-20T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/chewy-promo-code/",
-    "title": "Chewy Promo Codes: $20 Off October 2026",
-    "description": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -2121,128 +2246,5 @@
     "pub_date": "2026-10-19T16:37:11+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/qXvinDtpADRTAv7nUF7zVQ-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-early-black-friday-airpods-deals-2026",
-    "title": "Three AirPods deals worth picking up before Black Friday, plus one to wait on",
-    "description": "Black Friday is just over a month away, but three AirPods deals are already live. Mashable's guide breaks down what Apple earbuds deals are worth shopping early, and who might want to wait instead.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T16:31:54+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00yBivNxvUxQmtoSPzTi12m/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/amazon-torchneuron-pytorch-trainium",
-    "title": "Amazon’s TorchNeuron lets PyTorch code run on AWS Trainium chips",
-    "description": "Amazon has launched TorchNeuron, an open-source backend that lets PyTorch code run on its Trainium AI chips with a one-line change. It goes into public beta on 20 October under the Apache 2.0 licence and supports Trainium2 and Trainium3. Some PyTorch features are not yet supported. Amazon has launched TorchNeuron, a tool that lets developers",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-19T16:21:32+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/amazon-store-sign-smile-logo-facade.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/successful-ai-pilot-ai-strategy-zacharie-lahmi-ellis-partners",
-    "title": "A successful AI pilot doesn’t mean your AI strategy is working",
-    "description": "Launching an AI pilot is relatively straightforward. But integrating it reliably and at scale into business operations is a far greater challenge. McKinsey’s global 2026 survey found that only 37% of respondents said AI had improved their company’s earnings, unchanged from the previous year. Yet eight in ten said AI had helped them become more",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-19T16:20:46+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/zacharie-lahmi-ellis-partners-founder-portrait.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261019/p34#a261019p34",
-    "title": "SCOTUS rejects an appeal by BMG, Sony Music, UMG, and Warner Music, upholding a decision that copyright termination rights apply globally, not just in the US (Blake Brittain/Reuters)",
-    "description": "Blake Brittain / Reuters:\nSCOTUS rejects an appeal by BMG, Sony Music, UMG, and Warner Music, upholding a decision that copyright termination rights apply globally, not just in the US  —  The US Supreme Court rejected on Monday a challenge by a group of music labels to a judicial decision that said a law allowing creators …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T16:20:00+00:00",
-    "image_url": "http://www.techmeme.com/261019/i34.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/trump-google-maps-kiss-my-ass-gulf-of-mexico-call",
-    "title": "“Now they kiss my ass”: Trump says he called Google about the Gulf",
-    "description": "Donald Trump described his call to Google to a crowd at Northern Kentucky University on Saturday. “I called Google, Google Maps. See, Google wouldn’t have taken my call in the first. Now they kiss my ass.” Donald Trump, at a rally in Highland Heights, Kentucky He was speaking at the university’s Truist Arena in Highland",
-    "categories": [
-      "Government & Policy",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-19T16:15:51+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/trump-walks-tarmac-joint-base-elmendorf-richardson-anchorage.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261019/p33#a261019p33",
-    "title": "Apple announces a \"Pro and tell\" event on October 28 at 10am PT in LA, where its first touchscreen MacBook, a 14-inch MacBook Pro with M6, and more are expected (Chance Miller/9to5Mac)",
-    "description": "Chance Miller / 9to5Mac:\nApple announces a “Pro and tell” event on October 28 at 10am PT in LA, where its first touchscreen MacBook, a 14-inch MacBook Pro with M6, and more are expected  —  Apple today announced its second experience of the month, taking place next Wednesday, October 28 at 10 a.m. PT. The tagline for this event is: “Pro and tell.”",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T16:15:02+00:00",
-    "image_url": "http://www.techmeme.com/261019/i33.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2287870/fiber-vs-cable-internet-difference-between/",
-    "title": "Fiber vs. cable internet: What's the difference between them?",
-    "description": "Fiber internet is more modern than cable, but the older technology still works well for today's connection needs.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T16:15:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/fiber-vs-cable-internet-whats-the-difference-between-them/l-intro-1792085043.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/logitech-g-pro-x2-rapid-review",
-    "title": "Logitech G Pro X2 Rapid review: rapid by nature",
-    "description": "The Logitech G Pro X2 Rapid is a highly specialized esports keyboard that delivers top performance at a hefty price.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-19T16:14:33+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/AA6BtSx7DywP2m4ugFiUmg-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-19-mac-studio-max-deal",
-    "title": "The new Apple Mac Studio M5 Max is already on sale at Amazon — save $200",
-    "description": "The Apple Mac Studio M5 Max is on sale at Amazon for $2,299, down from the list price of $2,499. That's an 8% discount that matches the lowest.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T16:12:10+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00VcjNp0mzlwRQwgyTMFOje/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/vpn/vpn-privacy-security/russias-next-tool-to-fight-vpns-appears-to-be-ai-and-the-numbers-suggest-its-scarily-effective",
-    "title": "Russia's next tool to fight VPNs appears to be AI — and the numbers suggest it's scarily effective",
-    "description": "A new draft national plan proposes using artificial intelligence to hunt down circumvention tools, but industry experts warn legitimate traffic could end up in the crossfire.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T16:11:26+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/kR5NMftCpqXHUzLxyQTKyF-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/all-clad-factory-seconds-sale-october-2026/",
-    "title": "All-Clad Factory Seconds Sale: Cookware Deals for Fall Cooking",
-    "description": "Upgrade your cold-weather cooking setup with discounted cookware for soups, stews, and roasts.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-19T16:10:40+00:00",
-    "image_url": "https://media.wired.com/photos/6ad63be5ae9c6872d8862277/master/pass/Get%20Your%20Kitchen%20Thanksgiving-Ready%20With%20All-Clad%E2%80%99s%20Factory%20Seconds%20Sale%20102026%20top%20art%20SOURCE%20All-Clad.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
