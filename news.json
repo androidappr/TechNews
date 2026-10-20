@@ -1,5 +1,61 @@
 [
   {
+    "link": "https://www.techmeme.com/261020/p47#a261020p47",
+    "title": "SpaceX reports Q3 capex of $19.6B, up from $6.9B a year earlier, and Q3 connectivity revenue, which includes Starlink, up 69% YoY to $5.2B (Becky Peterson/Wall Street Journal)",
+    "description": "Becky Peterson / Wall Street Journal:\nSpaceX reports Q3 capex of $19.6B, up from $6.9B a year earlier, and Q3 connectivity revenue, which includes Starlink, up 69% YoY to $5.2B  —  Artificial intelligence revenue surges around 830% while capital spending on data center build-out and developing new technology continues",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T20:55:01+00:00",
+    "image_url": "http://www.techmeme.com/261020/i47.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2292346/judge-tosses-sexual-abuse-lawsuit-from-sam-altmans-sister/",
+    "title": "Judge tosses sexual abuse lawsuit from Sam Altman's sister",
+    "description": "A lawsuit brought by the OpenAI CEO's sister was dismissed after Anne Altman refused a medical exam.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-20T20:53:25+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/judge-tosses-sexual-abuse-lawsuit-from-sam-altmans-sister/l-intro-1792529383.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time",
+    "title": "Netflix is telling investors not to worry, even though you&#8217;re watching less and less",
+    "description": "Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday, Netflix lists improvements to monetization as one of its main focuses going forward, alongside efforts to boost entertainment value and leverage new technology. The streaming giant doesn't say exactly how it plans to",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T20:52:07+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23923972/acastro_STK072_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261020/p46#a261020p46",
+    "title": "Report: Anthropic's draft S-1 shows it spent ~$9B on compute and infrastructure in H1, up from $2.3B a year earlier, and could spend $750B in the coming years (David Morris/Bloomberg)",
+    "description": "David Morris / Bloomberg:\nReport: Anthropic's draft S-1 shows it spent ~$9B on compute and infrastructure in H1, up from $2.3B a year earlier, and could spend $750B in the coming years  —  Anthropic PBC could spend $750 billion on additional computing power in the coming years, according to a Wall Street Journal report …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T20:50:03+00:00",
+    "image_url": "http://www.techmeme.com/261020/i46.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/rocco-sale-october-2026/",
+    "title": "A New Rocco Smart Fridge Just Dropped. So Did the Prices (2026)",
+    "description": "Save $100 on the new Essential or $200 on the original, and give your holiday drinks a place of their own.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T20:47:46+00:00",
+    "image_url": "https://media.wired.com/photos/6ad7d2fa4d0edca385d0d9e6/master/pass/Rocco%20The%20Essential%20sale%20102026%20top%20art%20SOURCE%20Rocco.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/10/20/sensor-tower-metas-muse-app-tops-10-million-us-downloads-in-40-days/",
     "title": "Sensor Tower: Meta’s Muse app tops 10 million US downloads in 40 days",
     "description": "According to a new report from Sensor Tower, not only did Meta’s Muse become the 12th app ever to reach 10 million US downloads in 40 days, but it is also outpacing its peers in user retention. Here are the details.\n\n\n\n more…",
@@ -26,15 +82,27 @@
   {
     "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
     "title": "SpaceX’s AI business is beating expectations",
-    "description": "SpaceX’s data centers and Grok agents have been more profitable than investors expected in second quarter of the year, as the company leaves its roots as a space company behind to focus on artificial intelligence, which now makes up 52% of its income. Elon Musk’s deep conglomerate reported on Tuesday $14.6 billion in third-quarter revenue.",
+    "description": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
+      "Business & Startups",
       "Science & Environment"
     ],
     "pub_date": "2026-10-20T20:40:41+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/flock-camera-warrant-used-to-appeal-conviction",
+    "title": "Judge asked to toss 60-year prison sentence over use of Flock cameras",
+    "description": "A Texas man convicted of armed robbery is seeking to overturn his prison sentence, citing unconstitutional use of Flock cameras to profile his movements.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-20T20:35:59+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/03JDfZQoNd80ss7FEoabbdH/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
@@ -658,6 +726,7 @@
     "title": "A US judge dismisses a civil sexual abuse lawsuit brought against Sam Altman by his sister, after she refused to appear for an independent medical examination (Luc Cohen/Reuters)",
     "description": "Luc Cohen / Reuters:\nA US judge dismisses a civil sexual abuse lawsuit brought against Sam Altman by his sister, after she refused to appear for an independent medical examination  —  Sam Altman on Tuesday won the dismissal of a civil lawsuit filed by his sister accusing the OpenAI co-founder and chief executive …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-20T18:35:01+00:00",
@@ -717,7 +786,6 @@
     "title": "Nearly $1 million worth of PSA-graded trading cards stolen in FedEx heist",
     "description": "New details about the PSA-graded trading card theft reveal more about the nature of the heist.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-20T18:23:10+00:00",
@@ -1426,8 +1494,7 @@
     "title": "Perplexity makes it easier to run AI workflows entirely on your own Mac",
     "description": "A Mac with at least 36GB of RAM can now run Perplexity AI workflows locally.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-20T15:42:45+00:00",
     "image_url": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg",
@@ -1576,7 +1643,6 @@
     "title": "Perplexity’s Computer can now run entirely on your Mac, even offline",
     "description": "Perplexity is adding a new local-first mode to its Mac app that lets Computer work entirely on the device. This includes running tasks without an internet connection.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-20T15:00:00+00:00",
@@ -2280,76 +2346,5 @@
     "pub_date": "2026-10-20T13:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/07fW7tNrSdEFl1r0mcPCT5t/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/nintendo-switch-sports-resort-review",
-    "title": "Nintendo Switch Sports Resort review: multiplayer mayhem in motion",
-    "description": "Nintendo Switch Sports Resort is a considerable improvement over its predecessor with fun new modes and sports — but it’s not quite perfect.",
-    "categories": [
-      "Breaking News",
-      "Gaming"
-    ],
-    "pub_date": "2026-10-20T13:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/YYCNcajqyyNrZhGQK8kk2a-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/apple-perryman-titanium-iphone-duo",
-    "title": "Apple to buy up to $100M of US titanium for the iPhone Duo",
-    "description": "Apple will buy up to $100M of titanium from Perryman, a family-owned producer in Pennsylvania, over the next three years, the company announced. The metal will be used in several Apple products, including the casing of the iPhone Duo, its first foldable phone. The deal is part of Apple’s push to source more parts in the",
-    "categories": [
-      "Breaking News",
-      "Business & Startups",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-20T12:49:39+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/Apple-iPhone-Duo-display-sizes.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2288619/how-to-know-time-to-replace-router/",
-    "title": "How to know it's time to replace your router",
-    "description": "One of the issues with internet routers is that it's not always obvious when it's not working as it should. Here's how to check if it could be on its way out.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T12:45:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/how-to-know-its-time-to-replace-your-router/l-intro-1792149452.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/sony-m6-custom-nfl-headphones-how-to-buy",
-    "title": "Sony is giving away custom team-edition XM6 headphones for free  — how to claim",
-    "description": "Sony launched limited-edition custom NFL WH-1000XM6 headphones for 5 teams. Enter the official sweepstakes by Nov. 30 for a chance to score a pair.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T12:42:41+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02uFBYex932XCl50qNJjHI4/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2291486/uk-antitrust-regulartor-wants-apple-to-open-up-iphone-nfc-access/",
-    "title": "UK antitrust regulator wants Apple to open up iPhone NFC access",
-    "description": "The UK is taking aim at Apple's near-monopoly on contactless NFC smartphone payments.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-20T12:42:27+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/uk-antitrust-regulartor-wants-apple-to-open-up-iphone-nfc-access/l-intro-1792504983.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/at-7-250mb-s-the-samsung-990-just-became-our-best-value-2tb-ssd-right-now-as-amazon-drops-the-price-by-usd200",
-    "title": "At 7,250MB/s, the Samsung 990 just became our best-value 2TB SSD right now as Amazon drops the price by $200",
-    "description": "Samsung's ever-reliable line of internal SSDs see discounts, and with super-fast read and write speeds, the 2TB Samsung 990 is my best-value pick.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T12:40:21+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/6FoZP3CQ6VBFu3m6N9eHUi-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
