@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.techmeme.com/261020/p58#a261020p58",
+    "title": "An interview with Goodfire researcher Nick Cammarata, whose viral blog post claimed LLMs are easier to understand than thought, as other researchers push back (Will Douglas Heaven/MIT Technology Review)",
+    "description": "Will Douglas Heaven / MIT Technology Review:\nAn interview with Goodfire researcher Nick Cammarata, whose viral blog post claimed LLMs are easier to understand than thought, as other researchers push back  —  “I think I have good news about the nature of neural networks.”  With those simple words of optimism, Nick Cammarata …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-21T02:10:01+00:00",
+    "image_url": "http://www.techmeme.com/261020/i58.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/10/20/apple-is-looking-for-a-cellular-modem-engineer-to-help-shape-its-transition-to-6g/",
     "title": "Apple is looking for a cellular modem engineer to help shape its transition to 6G",
     "description": "Apple is looking for an experienced cellular modem systems engineer to help develop its next generation of cellular modems as the company transitions toward 6G. Here are the details.\n\n\n\n more…",
@@ -84,7 +95,6 @@
     "title": "Reliable Robotics, which develops an autonomous flight system, raised a $115M extension for its $160M Series D, pushing its valuation to $1B+ (Kirsten Korosec/TechCrunch)",
     "description": "Kirsten Korosec / TechCrunch:\nReliable Robotics, which develops an autonomous flight system, raised a $115M extension for its $160M Series D, pushing its valuation to $1B+  —  Reliable Robotics has been working for nearly a decade to commercialize autonomous flying technology that can be installed on existing aircraft.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-21T00:05:13+00:00",
@@ -367,7 +377,6 @@
     "title": "This silent all-flash NAS with 10GbE and dual USB4 is cheaper if you buy it bare-bone and add your own SSDs",
     "description": "Minisforum’s fanless S5 combines five NVMe slots, 10GbE networking, dual USB4 and local AI, with SSD choices determining potential savings.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-20T22:15:00+00:00",
@@ -379,8 +388,7 @@
     "title": "Google’s more personalized Gemini AI is heading to your car",
     "description": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-20T22:11:34+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&strip=all&crop=0,0,100,100",
@@ -391,8 +399,7 @@
     "title": "Ex-DeepMind researcher Thore Graepel launches London AI lab Metis Reasoning",
     "description": "Thore Graepel, who helped build Google DeepMind’s AlphaGo, has launched Metis Reasoning in London. The company’s founding claim is that large language models cannot be trusted to reason. Its founders want to apply the lessons of AlphaGo to general reasoning instead. The company set out its thesis in a white paper titled “The Age of",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-20T22:08:30+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/metis-reasoning-logo-go-board-cover.avif",
@@ -931,7 +938,6 @@
     "title": "Reliable Robotics tops a $1bn valuation with $115M for self-flying planes",
     "description": "Reliable Robotics has raised $115 million, taking its valuation past $1 billion, the company announced on Tuesday. The Mountain View, California, startup builds systems that let existing aircraft taxi, take off, fly and land on their own. The money extends the Series D it announced in April at $160 million, bringing the round to $275",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-20T20:13:44+00:00",
@@ -2290,16 +2296,5 @@
     "pub_date": "2026-10-20T14:57:15+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/03QPAkR5IGyZi2wEw4sK3zR/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/",
-    "title": "Polestar tries to quantify what it’s like to drive a performance car",
-    "description": "Drivers had electrodes strapped to their heads as they tested EVs on track.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T14:53:07+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/HERO_The-anatomy-of-performance-18-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
