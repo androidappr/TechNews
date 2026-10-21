@@ -11,6 +11,18 @@
     "source_name": "TECHMEME.COM"
   },
   {
+    "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "title": "PHP warns it plans to release 2 emergency patches imminently",
+    "description": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-21T02:12:18+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261020/p58#a261020p58",
     "title": "An interview with Goodfire researcher Nick Cammarata, whose viral blog post claimed LLMs are easier to understand than thought, as other researchers push back (Will Douglas Heaven/MIT Technology Review)",
     "description": "Will Douglas Heaven / MIT Technology Review:\nAn interview with Goodfire researcher Nick Cammarata, whose viral blog post claimed LLMs are easier to understand than thought, as other researchers push back  —  “I think I have good news about the nature of neural networks.”  With those simple words of optimism, Nick Cammarata …",
@@ -531,6 +543,7 @@
     "title": "PHP development team plans to release updates tomorrow to address two vulnerabilities, each rated 9.2; security researchers at watchTowr say they are RCE flaws (Lawrence Abrams/BleepingComputer)",
     "description": "Lawrence Abrams / BleepingComputer:\nPHP development team plans to release updates tomorrow to address two vulnerabilities, each rated 9.2; security researchers at watchTowr say they are RCE flaws  —  The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-20T21:55:01+00:00",
@@ -599,7 +612,6 @@
     "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
     "description": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees were formed at the request of shareholders and consist of independent directors (though he did not name them). He also",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Science & Environment"
     ],
@@ -2278,16 +2290,5 @@
     "pub_date": "2026-10-20T15:12:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/04N0AROYYEdWq1y6LGtLQeW/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
-    "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
-    "description": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-20T15:07:43+00:00",
-    "image_url": "https://media.wired.com/photos/6ad2cc7064b24534a6bc5044/master/pass/culture_ai_agent_internet_research_listserv.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
