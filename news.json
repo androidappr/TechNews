@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+    "title": "YouTube might be testing hiding the dislike button",
+    "description": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike button being absent for them. Right now,",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-21T00:00:56+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.engadget.com/2289282/apple-watch-ultra-4-action-button-uses-explained/",
     "title": "What can you use your Apple Watch Ultra 4 action button for?",
     "description": "Here's what your Apple Watch Ultra 4 action button can really do, from launching workouts and retracing routes to controlling smart home devices with one tap.",
@@ -46,7 +57,7 @@
   {
     "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
     "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-    "description": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the last year, Ann had failed to appear for an independent medical examination or",
+    "description": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -894,18 +905,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale",
-    "title": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off",
-    "description": "Looking for a way to try the haptics-equipped G Pro X2 Superstrike wireless gaming mouse without spending full price? You probably aren’t alone. Logitech’s now-last-gen right-handed mouse is a great PC gaming companion that mimics the feel of mechanical switches with nothing but haptics. You can grab it refurbished through Logitech’s official eBay store for",
-    "categories": [
-      "Gadgets & Hardware",
-      "Gaming"
-    ],
-    "pub_date": "2026-10-20T20:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.engadget.com/2292027/google-brings-gemini-personal-intelligence-to-android-auto/",
     "title": "Google brings Gemini Personal Intelligence to Android Auto",
     "description": "In the coming months, the feature will also roll out to cars with Google built-in.",
@@ -969,7 +968,6 @@
     "title": "How to watch The Terminal List season 2 online – stream the Chris Pratt thriller from anywhere for free",
     "description": "Chris Pratt returns as Lieutenant Commander Reece. Here's how to watch The Terminal List season 2 online with Prime, from anywhere.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-20T20:00:00+00:00",
@@ -977,11 +975,22 @@
     "source_name": "TECHRADAR.COM"
   },
   {
+    "link": "https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale",
+    "title": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off",
+    "description": "Looking for a way to try the haptics-equipped G Pro X2 Superstrike wireless gaming mouse without spending full price? You probably aren’t alone. Logitech’s now-last-gen right-handed mouse is a great PC gaming companion that mimics the feel of mechanical switches with nothing but haptics. You can grab it refurbished through Logitech’s official eBay store for",
+    "categories": [
+      "Gadgets & Hardware",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-20T20:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/PXL_20260213_153451513.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/",
     "title": "OpenBSD 8.0 arrives with security record still intact",
     "description": "OpenBSD 8.0 lands with Intel Arc support, ARM64 hibernation, and 64-vCPU guests",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-20T19:57:18+00:00",
@@ -1004,7 +1013,6 @@
     "title": "'Some agents exhibited unintended web-browsing behavior': Tencent admits AI agents it was testing made more than 2,600 attempts in 11 days to slip past Alibaba's map defenses, just to find out which zoo gate people use",
     "description": "Researchers hid a message for a live fleet of rogue AI agents, and the agents wrote back.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-10-20T19:50:00+00:00",
@@ -1016,7 +1024,6 @@
     "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
     "description": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-10-20T19:47:35+00:00",
@@ -1028,7 +1035,6 @@
     "title": "Anthropic's IPO prospectus: H1 2026 revenue of $16.3B, ~20% from two customers, vs. $1.1B in H1 2025, and an $80.7B net loss driven by accounting charges (Anissa Gardizy/Wall Street Journal)",
     "description": "Anissa Gardizy / Wall Street Journal:\nAnthropic's IPO prospectus: H1 2026 revenue of $16.3B, ~20% from two customers, vs. $1.1B in H1 2025, and an $80.7B net loss driven by accounting charges  —  In a new draft prospectus viewed by the Journal, the AI giant disclosed an $80.7 billion net loss for the first half of 2026 and a long list of risk factors",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-20T19:46:50+00:00",
@@ -1435,7 +1441,6 @@
     "title": "How often should you restart your Apple Watch?",
     "description": "Your Apple Watch doesn't need frequent restarts like a computer, but you might still want to shut down when something's off.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-20T18:00:00+00:00",
@@ -1470,7 +1475,6 @@
     "title": "How to watch the 2026-2027 NBA season: Your guide to streaming every game",
     "description": "Everything you need to know about how to watch the 2026-2027 NBA season without cable, including the best streaming deals.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-20T17:50:31+00:00",
@@ -2327,16 +2331,5 @@
     "pub_date": "2026-10-20T14:31:46+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/04qZT2rJgVj231dNTxSNzKZ/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/vpn/vpn-services/the-newest-adguard-vpn-update-makes-catching-discounts-and-toggling-connections-faster-than-ever",
-    "title": "The newest AdGuard VPN update makes catching discounts and toggling connections faster than ever",
-    "description": "AdGuard VPN has just rolled out version 2.17 for both iOS and Android. The synchronized release introduces one-tap Shortcuts and Siri support for Apple users, plus in-app discount alerts for Android.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T14:30:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/PpsvDkSBde935kq74ozEvW-1920-80.png",
-    "source_name": "TECHRADAR.COM"
   }
 ]
