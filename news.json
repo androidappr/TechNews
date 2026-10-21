@@ -1,5 +1,63 @@
 [
   {
+    "link": "https://thenextweb.com/news/ea-shuts-bioware-400-job-cuts",
+    "title": "Electronic Arts to cut 400 jobs and shut down Mass Effect studio BioWare",
+    "description": "Electronic Arts will close BioWare, the studio behind Mass Effect and Dragon Age, and cut about 400 jobs, roughly 3% of staff, Bloomberg reported. The next Mass Effect game and a planned Sims project are cancelled. EA went private in a $55B buyout in August. Electronic Arts will shut down BioWare, the studio behind the",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-21T17:39:48+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/electronic-arts-headquarters-sign-redwood-city.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/gaming/virtual-reality/get-ready-for-mw4-rayneos-gt-max-reloads-with-call-of-duty-for-a-striking-limited-edition",
+    "title": "Get ready for MW4: RayNeo's GT Max reloads with Call of Duty for a striking limited edition",
+    "description": "RayNeo's GT Max gets a stellar black-and-gold paint job in the Call of Duty: Modern Warfare 4 collaboration.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-10-21T17:38:51+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/9qsBPsCN78y3FGcRKdB323-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2293262/theres-a-new-apple-music-logo-and-it-looks-like-ripples-in-water/",
+    "title": "There's a new Apple Music logo and it looks like ripples in water",
+    "description": "Maybe they should use it as the app logo instead.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-21T17:35:47+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/theres-a-new-apple-music-logo-and-it-looks-like-ripples-in-water/l-intro-1792604071.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261021/p42#a261021p42",
+    "title": "A New Mexico court orders Meta to pay $25B in penalties after a jury found Meta misled residents about its data practices in the Cambridge Analytica scandal (Jonathan Vanian/CNBC)",
+    "description": "Jonathan Vanian / CNBC:\nA New Mexico court orders Meta to pay $25B in penalties after a jury found Meta misled residents about its data practices in the Cambridge Analytica scandal  —  Meta was ordered to pay $25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy case that stemmed …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-21T17:33:39+00:00",
+    "image_url": "http://www.techmeme.com/261021/i42.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/djis-power-1000-v2-delivers-all-day-drone-charging-with-2-600w-of-home-backup-and-amazon-dropped-the-price-to-usd400",
+    "title": "DJI’s Power 1000 V2 delivers all-day drone charging with 2,600W of home backup — and Amazon dropped the price to $400",
+    "description": "This $400 DJI Power 1000 V2 can power drones, devices, appliances, and provide backup electricity when the lights go out.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-21T17:27:33+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ti6xnbgzSjcdLZZccs3Kzc-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/phones/google-wants-your-pixel-to-see-you-in-the-dark-and-its-fix-is-almost-blindingly-obvious/",
     "title": "Google wants your Pixel to see you in the dark, and its fix is almost blindingly obvious",
     "description": "Code in an Android 17 beta suggests Pixels could light your face with the screen, but Google hasn’t announced it.",
@@ -13,7 +71,7 @@
   {
     "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
     "title": "EA is shutting down BioWare",
-    "description": "BioWare, the legendary studio behind RPGs like Mass Effect, Dragon Age, and Star Wars: Knights of the Old Republic, is shutting down, the company confirmed in a statement. Alongside the closure, Electronic Arts has also chosen not to continue development on the next Mass Effect game that was in the works, according to an announcement",
+    "description": "BioWare, the legendary studio behind RPGs like Mass Effect, Dragon Age, and Star Wars: Knight of the Old Republic, is shutting down, the company confirmed in a statement. Alongside the closure, EA has also chosen not to continue development on the next Mass Effect game that was in the works, according to an announcement sent",
     "categories": [
       "Gaming"
     ],
@@ -693,8 +751,8 @@
   },
   {
     "link": "https://www.techmeme.com/261021/p37#a261021p37",
-    "title": "The PHP Foundation details how it found and fixed the two flaws, and says it had to release patches a day early after the CVE IDs began circulating online (The PHP Foundation)",
-    "description": "The PHP Foundation:\nThe PHP Foundation details how it found and fixed the two flaws, and says it had to release patches a day early after the CVE IDs began circulating online  —  Earlier today, the PHP project released PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35.  These releases fix two critical vulnerabilities that …",
+    "title": "The PHP Foundation details how it found and fixed the two flaws, and says it had to release patches a day early after the two CVE IDs began circulating online (The PHP Foundation)",
+    "description": "The PHP Foundation:\nThe PHP Foundation details how it found and fixed the two flaws, and says it had to release patches a day early after the two CVE IDs began circulating online  —  Earlier today, the PHP project released PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35.  These releases fix two critical vulnerabilities that …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -1523,7 +1581,6 @@
     "title": "Telehealth Giant Hims Wants to Test Every Dude for Low Testosterone",
     "description": "The company plans to offer testosterone replacement therapy, marking its first foray into prescribing controlled substances.",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Science & Environment"
     ],
@@ -2316,62 +2373,5 @@
     "pub_date": "2026-10-21T10:53:36+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Video-shows-French-Apple-store-being-emptied-by-looters.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2292644/openai-agents-disabled-own-safety-monitoring-systems/",
-    "title": "OpenAI's agents disabled their own safety monitoring systems",
-    "description": "OpenAI reveals that its agents misbehaved by switching off the system monitoring them for misbehaviors.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-21T10:53:21+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/openais-agents-disabled-their-own-safety-monitoring-systems/l-intro-1792579899.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/spacex-quarterly-revenue-ai-starlink-q3",
-    "title": "SpaceX revenue rises 161% to $14.6B as AI business overtakes Starlink",
-    "description": "SpaceX made more money from artificial intelligence than from Starlink in the third quarter, as total revenue rose 161% to $14.6bn. The company also swung to a net profit of $4.4bn, from a $1.1bn loss a year earlier, according to its quarterly results, the second it has published since its listing. Both numbers beat Wall Street",
-    "categories": [
-      "Breaking News",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-21T10:51:08+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/spacex-logo-sign-office-building.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/audio/earbuds-airpods/4-cheap-headphones-and-earbuds-weve-tested-to-avoid-headphone-dodger-fines-theyre-all-cheaper-than-the-gbp100-youll-pay-if-youre-caught",
-    "title": "4 cheap headphones and earbuds we've tested to avoid 'headphone dodger' fines — they're all cheaper than the £100 you'll pay if you're caught",
-    "description": "UK legislation now means people who play audio aloud on their phone could face £100 fines on buses.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-21T10:49:25+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/65Ua2t9b3HbCgcLzW4qhSe-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/when-technology-becomes-part-of-the-talent-infrastructure",
-    "title": "When technology becomes part of the talent infrastructure",
-    "description": "AI-ready PCs and smarter device strategies improve employee experience, productivity, and retention.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-21T10:49:10+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/TaxPLZc75WiicpmgZNzWzL-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/bud-light-boycotters-are-still-waiting-for-their-woke-free-beer/",
-    "title": "Bud Light Boycotters Are Still Waiting for Their ‘Woke-Free’ Beer",
-    "description": "Ultra Right Beer, a brand launched in 2023 by MAGA political consultant Seth Weathers, has vanished from the internet with many deliveries unfulfilled.",
-    "categories": [
-      "Government & Policy"
-    ],
-    "pub_date": "2026-10-21T10:45:00+00:00",
-    "image_url": "https://media.wired.com/photos/6acfffd479c07b8988eb427e/master/pass/culture_anti_woke_ultra_right_beer.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
