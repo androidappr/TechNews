@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.techmeme.com/261020/p56#a261020p56",
+    "title": "Sources: Nvidia is in talks to invest hundreds of millions of dollars in Firmus, which pulled its IPO earlier this month, citing market volatility (Phoebe Liu/The Information)",
+    "description": "Phoebe Liu / The Information:\nSources: Nvidia is in talks to invest hundreds of millions of dollars in Firmus, which pulled its IPO earlier this month, citing market volatility  —  Nvidia is in talks to invest hundreds of millions of dollars in Australian AI cloud provider Firmus, which abruptly pulled its initial public offering early …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-21T00:10:01+00:00",
+    "image_url": "http://www.techmeme.com/261020/i56.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261020/p55#a261020p55",
+    "title": "Reliable Robotics, which develops an autonomous flight system, raised a $115M extension for its $160M Series D, pushing its valuation to $1B+ (Kirsten Korosec/TechCrunch)",
+    "description": "Kirsten Korosec / TechCrunch:\nReliable Robotics, which develops an autonomous flight system, raised a $115M extension for its $160M Series D, pushing its valuation to $1B+  —  Reliable Robotics has been working for nearly a decade to commercialize autonomous flying technology that can be installed on existing aircraft.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-21T00:05:13+00:00",
+    "image_url": "http://www.techmeme.com/261020/i55.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
     "title": "YouTube might be testing hiding the dislike button",
     "description": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike button being absent for them. Right now,",
@@ -9,6 +33,29 @@
     "pub_date": "2026-10-21T00:00:56+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2289290/wind-turbine-for-home-1kw-power/",
+    "title": "How much power can a 1kW wind turbine produce for your home?",
+    "description": "A 1 kW wind turbine can help with your electric bill, but the wind determines how much.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-21T00:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-much-power-can-a-1kw-wind-turbine-produce-for-your-home/l-intro-1792074246.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/tablets/ereaders/should-i-buy-a-kindle-scribe-or-a-kindle-scribe-colorsoft-heres-what-you-need-to-know",
+    "title": "Should I buy a Kindle Scribe or a Kindle Scribe Colorsoft? Here's what you need to know",
+    "description": "A Kindle, but with added writing features? Sounds great — but there are a few downsides to be aware of.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-21T00:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/HU2NMWEcpuNEskGnKU8FHf-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://www.engadget.com/2289282/apple-watch-ultra-4-action-button-uses-explained/",
@@ -97,6 +144,7 @@
     "title": "Five things you should know before buying the iPhone Duo",
     "description": "From software limitations to the pre-sale deals, here's what you need to know ahead of the iPhone Duo launch.",
     "categories": [
+      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-20T23:00:00+00:00",
@@ -838,6 +886,7 @@
     "title": "Reliable Robotics tops a $1bn valuation with $115M for self-flying planes",
     "description": "Reliable Robotics has raised $115 million, taking its valuation past $1 billion, the company announced on Tuesday. The Mountain View, California, startup builds systems that let existing aircraft taxi, take off, fly and land on their own. The money extends the Series D it announced in April at $160 million, bringing the round to $275",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-20T20:13:44+00:00",
@@ -861,7 +910,6 @@
     "description": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Government & Policy",
       "Social & Media"
     ],
@@ -885,7 +933,6 @@
     "title": "Meta suspends Muse chats sharing feature after it left private details exposed",
     "description": "Researchers accessed 6,800 shared conversations with the AI agent, including internal company documents.",
     "categories": [
-      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-10-20T20:00:43+00:00",
@@ -953,17 +1000,6 @@
     "source_name": "ZDNET.COM"
   },
   {
-    "link": "https://www.techradar.com/computing/laptops/acer-googlebook-14-review",
-    "title": "Acer Googlebook 14 review",
-    "description": "The Acer Googlebook 14 is the most affordable of this new breed of laptops — but is it the MacBook Air killer Android users have been waiting for?",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-20T20:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/MejHKCcTpminrLSfxzo866-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-the-terminal-list-season-2",
     "title": "How to watch The Terminal List season 2 online – stream the Chris Pratt thriller from anywhere for free",
     "description": "Chris Pratt returns as Lieutenant Commander Reece. Here's how to watch The Terminal List season 2 online with Prime, from anywhere.",
@@ -972,6 +1008,17 @@
     ],
     "pub_date": "2026-10-20T20:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/Q3VGXmv2MG7FJpXPBF4wXY-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/laptops/acer-googlebook-14-review",
+    "title": "Acer Googlebook 14 review",
+    "description": "The Acer Googlebook 14 is the most affordable of this new breed of laptops — but is it the MacBook Air killer Android users have been waiting for?",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-20T20:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/MejHKCcTpminrLSfxzo866-1920-80.png",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2287,49 +2334,5 @@
     "pub_date": "2026-10-20T14:37:14+00:00",
     "image_url": "https://media.thenextweb.com/2026/08/anthropic-in-house-chip-team-custom-silicon-claude.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261020/p26#a261020p26",
-    "title": "Firefly, whose AI software connects with existing cameras, radios, and sensors to detect incidents and coordinate real-time responses, raised a $20M Series A (Chris Metinko/Axios)",
-    "description": "Chris Metinko / Axios:\nFirefly, whose AI software connects with existing cameras, radios, and sensors to detect incidents and coordinate real-time responses, raised a $20M Series A  —  Firefly, a physical AI safety startup, emerged from stealth with a $20 million Series A led by Definition Capital, CEO James Batt Buckley tells Axios Pro exclusively.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T14:35:03+00:00",
-    "image_url": "http://www.techmeme.com/261020/i26.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-early-black-friday-amazon-device-deals-2026",
-    "title": "10 Amazon devices on sale for up to 70% off way ahead of Black Friday",
-    "description": "Several staple Amazon devices are on sale ahead of Black Friday. Save on Fire tablets, Echo devices, Fire TV Sticks, and more.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T14:34:11+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/026wISnSTDlCaHDVML0gbtM/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/life/arbys-12-foot-skeleton-meat-sweats-tracksuit-where-to-buy",
-    "title": "Arbys made a Meat Sweats tracksuit for 12-foot skeletons: How to buy it before Halloween",
-    "description": "Arby's is launching a \"Meat Sweats\" tracksuit for 12-foot skeletons. It will be available online at noon ET on Oct. 21 for $46.66.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-20T14:33:10+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06ViPNZDp0AxMJlAVNnhBgR/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/science/moon-phase-today-oct-20-2026",
-    "title": "Moon phase today: What the Moon will look like on October 20, 2026",
-    "description": "See the Moon phase expected for October 20, 2026 as well as when the next Full Moon is expected.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-20T14:31:46+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04qZT2rJgVj231dNTxSNzKZ/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
