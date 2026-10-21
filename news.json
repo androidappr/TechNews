@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+    "title": "Airbnb bans making guests do dishes and take out the trash",
+    "description": "Checking out of your next Airbnb might be less of a hassle now that the company is banning hosts from including time-consuming chores in their house rules. Airbnb's updated house rules policy, which starts with reservations booked on or after November 20th, says hosts can't ask guests to \"complete tasks that require significant effort or",
+    "categories": [
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-21T19:54:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+    "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+    "description": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-21T19:53:20+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+    "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+    "description": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-21T19:52:20+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261021/p45#a261021p45",
+    "title": "OpenAI, PerturbAI, and Scripps say thousands of GPT-Rosalind agents analyzed data on millions of mouse brain cells in 32 minutes, a job that takes humans months (OpenAI)",
+    "description": "OpenAI:\nOpenAI, PerturbAI, and Scripps say thousands of GPT-Rosalind agents analyzed data on millions of mouse brain cells in 32 minutes, a job that takes humans months  —  How OpenAI, PerturbAI, and Scripps Research used distributed AI agents to help scientists identify promising research leads in data from millions of brain cells",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-21T19:45:01+00:00",
+    "image_url": "http://www.techmeme.com/261021/i45.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
     "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
     "description": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
@@ -120,17 +168,6 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://www.techradar.com/entertainment/clayface-review",
-    "title": "Clayface review: Tom Rhys Harries shines in DCU body horror gamble that largely pays off",
-    "description": "As the DC Universe continues to take shape, Clayface proves there's room for big, creative swings in James Gunn's cinematic franchise.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-21T19:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Ug24r74LxmEd2nhKQnFZDX-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/entertainment/how-to-watch/how-to-watch-ellie-natasia-season-2",
     "title": "How to watch Ellie & Natasia season 2 for free online from anywhere",
     "description": "Here's how to watch the sketch show Ellie & Natasia season 2 online from anywhere in the world FOR FREE.",
@@ -140,6 +177,17 @@
     ],
     "pub_date": "2026-10-21T19:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/tSe7CDoGTGDQEUSQbSh7rC-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/entertainment/clayface-review",
+    "title": "Clayface review: Tom Rhys Harries shines in DCU body horror gamble that largely pays off",
+    "description": "As the DC Universe continues to take shape, Clayface proves there's room for big, creative swings in James Gunn's cinematic franchise.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-21T19:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Ug24r74LxmEd2nhKQnFZDX-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -465,7 +513,7 @@
   {
     "link": "https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av",
     "title": "GM promises smarter cars, faster updates, and autonomous dry-cleaning runs",
-    "description": "General Motors is still very much in the business of selling gas-guzzling trucks and massive SUVs. But if you listen to its leadership, the Detroit giant is rapidly transforming into a nimble, software-defined tech player with a tightened grip on AI. That was the pitch today, when GM hosted its tech-focused Onward event to unveil",
+    "description": "General Motors is still very much in the business of selling gas-guzzling trucks and massive SUVs. But if you listen to its leadership, the Detroit giant is rapidly transforming into a nimble, software-defined tech player with a tightened grip on AI. That was the pitch today, when GM hosted its tech-focused Forward event to unveil",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -1060,7 +1108,6 @@
     "description": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-21T16:00:00+00:00",
@@ -1094,7 +1141,6 @@
     "title": "Stranger Than Heaven director says Makoto Daito's life story is 'not just entertainment' and hopes it will break the barriers of racism — 'I hope that Makoto’s life journey really speaks to people around the globe who have had similar experiences'",
     "description": "Stranger Than Heaven director Mikinobu Abe hopes the game's multi-era narrative resonates with players and those who have experienced discrimination.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-10-21T16:00:00+00:00",
@@ -1142,7 +1188,6 @@
     "description": "Intel has started installing equipment at Fab 62, its new chip plant near Phoenix, which is due to open in early 2028. It has also put up the first major roof truss at its long-delayed Ohio site. The progress comes as demand for its data centre processors outpaces supply. Intel has started installing equipment at",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-21T15:51:59+00:00",
@@ -1154,7 +1199,6 @@
     "title": "Tracks Along the Longest Drive on Another World",
     "description": "Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA’s Jet Propulsion Laboratory Oct. 12, 2026 Since the last blog update, Perseverance has achieved a major milestone on Mars. On Sol 2006 (Oct. 11, 2026), its odometer reached 45.22 kilometers (28.10 miles), setting a new record for the farthest distance driven on another celestial",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-21T15:50:44+00:00",
@@ -1699,8 +1743,8 @@
   },
   {
     "link": "https://www.techmeme.com/261021/p33#a261021p33",
-    "title": "Mach9, which develops AI-powered CAD software trained on proprietary, in-house AI models using multimodal image and laser scan datasets, raised a $34M Series A (Sean O'Kane/TechCrunch)",
-    "description": "Sean O'Kane / TechCrunch:\nMach9, which develops AI-powered CAD software trained on proprietary, in-house AI models using multimodal image and laser scan datasets, raised a $34M Series A  —  When Alex Baikovitz co-founded Mach9 Robotics in 2021, his goal was to build a better, faster, and cheaper way for civil engineers to do visual inspections.",
+    "title": "Mach9, which pivoted from robotics hardware to AI-powered CAD software for civil engineering, raised a $34M Series A co-led by First Round and Bessemer (Sean O'Kane/TechCrunch)",
+    "description": "Sean O'Kane / TechCrunch:\nMach9, which pivoted from robotics hardware to AI-powered CAD software for civil engineering, raised a $34M Series A co-led by First Round and Bessemer  —  When Alex Baikovitz co-founded Mach9 Robotics in 2021, his goal was to build a better, faster, and cheaper way for civil engineers to do visual inspections.",
     "categories": [
       "Tech News"
     ],
@@ -1942,7 +1986,6 @@
     "title": "Stranger Than Heaven builds its identity as Like A Dragon's more relentless spin-off",
     "description": "We played several hours of Sega's next big crime-thriller, and so far the Like a Dragon series is getting its most bold entry to date.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-10-21T14:00:00+00:00",
@@ -2324,49 +2367,5 @@
     "pub_date": "2026-10-21T12:22:16+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/k2SxPcYMeT7qWB8dU7ZK46-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/anomalith-producer-reveals-that-liminal-spaces-including-things-like-the-backrooms-inspired-the-upcoming-third-person-survival-shooter",
-    "title": "Anomalith producer reveals that 'liminal spaces, including things like the Backrooms' inspired the upcoming third-person survival shooter",
-    "description": "We dive into the weird world of Anomalith, FuRyu's upcoming survival shooter, with its producer.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-21T12:20:57+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/FfBRVEp25X4D3dfYcEGNTW-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2292685/heres-how-spacex-plans-to-catch-starships-upper-stage-for-the-first-time/",
-    "title": "Here's how SpaceX plans to catch Starship's upper stage for the first time",
-    "description": "SpaceX has released a demo showing how it intends to catch Starship's upper stage, which could happen as soon as next month.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-21T12:19:58+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/heres-how-spacex-plans-to-catch-starships-upper-stage-for-the-first-time/l-intro-1792584880.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/",
-    "title": "NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface",
-    "description": "From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure. NASA’s CASALS instrument will blend machine learning with an ultra-compact lidar instrument to adaptively ‘sweep’ large swaths of Earth’s surface. This",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-21T12:17:58+00:00",
-    "image_url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/extratropical-cyclone-whips-past-iceland/icelandstorm_vir2_20261014_th.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
-    "source_name": "SCIENCE.NASA.GOV"
-  },
-  {
-    "link": "https://thenextweb.com/news/orange-mobile-outage-france",
-    "title": "Orange outage cuts mobile calls and data for customers across France",
-    "description": "Orange, the largest telecoms operator in France, lost much of its mobile network on Wednesday. From about 11:20 CEST, customers nationwide could not make calls, send texts or use mobile data, and by early afternoon the company had not named a cause. An Orange spokesperson told Reuters that the fault was causing major problems for customers",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-21T12:16:45+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/orange-headquarters-issy-les-moulineaux.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
