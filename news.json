@@ -23,6 +23,19 @@
     "source_name": "TECHRADAR.COM"
   },
   {
+    "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+    "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+    "description": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-22T20:32:05+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.cnet.com/news/privacy/ftc-alert-phone-impersonation-scam/",
     "title": "FTC Imposter Scam Threatens to Unplug Your Phone Number",
     "description": "Trust this genuine FTC warning. And maybe just don’t answer your phone.",
@@ -67,7 +80,7 @@
       "Social & Media"
     ],
     "pub_date": "2026-10-22T20:24:04+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0,0,100,100",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
   },
   {
@@ -114,6 +127,18 @@
     "pub_date": "2026-10-22T20:18:23+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2214660967.jpg",
     "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+    "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+    "description": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-22T20:17:52+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://www.digitaltrends.com/phones/kindle-unlimited-is-now-kindle-with-a-bigger-audiobook-lineup-and-ai-narrators/",
@@ -200,7 +225,7 @@
   {
     "link": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
     "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
-    "description": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polska’s Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
+    "description": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
     "categories": [
       "Breaking News",
       "Business & Startups"
@@ -208,6 +233,18 @@
     "pub_date": "2026-10-22T20:00:00+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/",
+    "title": "Leaked Mass Effect: Universe trailer gives a taste of what we're all missing",
+    "description": "We can't have nice things, but at least we can get trailers for them.",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-22T19:59:37+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/meuniverse-1152x648.png",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
@@ -274,7 +311,7 @@
   },
   {
     "link": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
-    "title": "Meet the 2026 winner of Nikon's Small World photomicrography contest",
+    "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
     "description": "Ole Bielfeldt of Germany captured a microscopic view of an inkjet printer depositing ink onto paper.",
     "categories": [
       "Breaking News",
@@ -1138,7 +1175,6 @@
     "description": "SpaceX has launched the Super Intelligence Partner Network for companies that deploy or build on Grok, with Apollo, Nvidia, Snowflake, Databricks, Bain and more than 130 firms joining early. It follows a quarter in which SpaceX’s AI unit turned a profit, mostly from renting out computing power. SpaceX has launched a partner programme to help",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware"
     ],
@@ -1186,7 +1222,6 @@
     "description": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-10-22T16:47:17+00:00",
@@ -2311,42 +2346,5 @@
     "pub_date": "2026-10-22T13:26:52+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/google-voltus-1gw-virtual-power-plant-pjm",
-    "title": "Google funds a 1GW virtual power plant with Voltus on the PJM grid",
-    "description": "Google will fund a 1 gigawatt virtual power plant run by Voltus on the PJM grid, to supply capacity for its operations there. The deal adds 1,070 megawatts to the 100 megawatts the two agreed in June, the companies said on Thursday. PJM serves 67 million customers across 13 states and the District of Columbia.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-22T13:24:25+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/google-voltus-logos-white-background.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store",
-    "title": "Apple will label apps that are ‘Made for iPhone Duo’",
-    "description": "Apple is rolling out a new badge in the App Store to indicate whether an app is optimized for its new foldable. The new \"Made for iPhone Duo\" badge will appear across apps and games that work with the device's extra screen real estate. Though Apple doesn't include an image of what this badge might",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-22T13:20:37+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_0239.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/emudhra-exits-global-tls-certificate-business",
-    "title": "eMudhra drops TLS certificates days after browsers blocked its keys",
-    "description": "eMudhra is leaving the global SSL/TLS certificate business, days after browsers blocked eight of its certificates. The Indian certificate authority’s board decided to withdraw voluntarily, the company said on Thursday. The business brings in about 1% of eMudhra’s global revenue, its chairman, V. Srinivasan, said. Data sovereignty and compliance rules have made it more complex",
-    "categories": [
-      "Breaking News",
-      "Business & Startups",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-22T13:18:41+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/laptop-keyboard-blue-light-dark-closeup.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
