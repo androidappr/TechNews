@@ -1,5 +1,64 @@
 [
   {
+    "link": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
+    "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
+    "description": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone shipments also hit a 14-year low. Counterpoint linked the",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-22T21:30:39+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/cool-tech/scientists-send-smells-over-internet-scentronic/",
+    "title": "Scientists have figured out how to send smells over the internet, and coffee is just the beginning",
+    "description": "Scientists develop Scentronic, an AI-powered system that transmits smells over the internet and recreates aromas using wearable scent generators.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-22T21:21:33+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Woman-smelling-sniffing-drinking-a-cup-of-coffee.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/russias-b-1-bomber-clone-set-to-get-new-avionics-and-a-modular-architecture-new-kit-can-be-added-later-to-boost-longevity-not-unlike-the-b-52-stratofortress",
+    "title": "Russia's B-1 bomber clone set to get new avionics and a 'modular' architecture — new kit can be added later to boost longevity, not unlike the B-52 Stratofortress",
+    "description": "Russia's Tu-160M bomber features modular avionics designed for future upgrades, with Tupolev claiming that approximately 80% of its onboard equipment has been modernized.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T21:20:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Ytvv6b8tXuypsezA2oeMcW-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/anthropic-claude-duet-ai-agent-app-professional/",
+    "title": "Anthropic Introduces Claude Duet: A New Agentic AI App for Professionals",
+    "description": "It’s nothing we haven’t seen before, but it’s hyper specificity toward business owners and professionals.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-22T21:19:09+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Claude-Duet-Press-03.png",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
+    "title": "Fall 2026 earnings watch",
+    "description": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T21:15:16+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS501_STOCKS_CVIRGINIA_E.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/computing/mori-might-be-the-cutest-ai-companion-robot-yet-and-it-reacts-to-you-like-a-pet/",
     "title": "Mori might be the cutest AI companion robot yet, and it reacts to you like a pet",
     "description": "With the speed at which AI is progressing, it’s only a matter of time before we start getting AI companions akin to what we used to see in movies like R2-D2, Wall-E, or Baymax. Now, Singapore-based OKA Technology has unveiled Mori, a cute little AI companion that looks less like a conventional home robot and",
@@ -21,6 +80,28 @@
     "pub_date": "2026-10-22T21:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/EMCCms7CHvESMa4DM3PHv7-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/oct-22-anker-solix-c200-dc-portable-power-station-deal",
+    "title": "Anker Solix C200 DC power station is now $129.98 at Amazon — save over $20 before Black Friday",
+    "description": "As of Oct. 22, the Anker Solix C200 DC portable power station is discounted to $129.98 at Amazon. That's a 13% discount off its list price of $149.99.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T21:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/05yvX0gs9Ag9Gzo6UOXGIFh/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/oct-22-microsoft-office-2024-home-for-mac-or-pc",
+    "title": "MS Office 2024 Home for Mac or Windows is on sale for just $114.97",
+    "description": "Get Word, Excel, PowerPoint, and OneNote for Mac or PC with Microsoft Office 2024 Home, now $114.97 (regularly $149.99) through 10/25 — no ongoing fees required.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T21:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/05hRbvdseMkSboWJmk6xlAY/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.engadget.com/2294854/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/",
@@ -168,7 +249,6 @@
     "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
     "description": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-10-22T20:17:52+00:00",
@@ -519,7 +599,6 @@
     "title": "Daft Punk is getting an official Lego set",
     "description": "A fan-built model of the Alive tour pyramid got the green light to become a real product.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-22T18:59:09+00:00",
@@ -830,6 +909,7 @@
     "title": "New York and T-Mobile Settle Dispute Over 4G Plan Price Hikes. How to Get a Credit",
     "description": "Customers on T-Mobile One accounts from 2017 through 2019 could get a free 5G phone, credit toward a more expensive 5G phone or their last month’s payment and $25 gift card.",
     "categories": [
+      "Breaking News",
       "Mobile & Telecom"
     ],
     "pub_date": "2026-10-22T18:08:41+00:00",
@@ -849,7 +929,7 @@
   },
   {
     "link": "https://www.wired.com/story/anker-soundcore-space-2-deal-october-2026/",
-    "title": "Anker Soundcore Space 2 Are Their Lowest Price Ever",
+    "title": "Anker Soundcore Space 2 Are at Their Lowest Price Ever",
     "description": "The Anker Soundcore Space 2 are a good deal even at full price. The fact they’re 18 percent off is just icing on the cake.",
     "categories": [
       "Breaking News",
@@ -1027,8 +1107,8 @@
   },
   {
     "link": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
-    "title": "Elon Musk made a $1 billion investment in Skydance, report says",
-    "description": "The investment will provide a much needed financial boost as the company seeks to cut costs and lift its stock price.",
+    "title": "Elon Musk made a $1B investment in Skydance, report says",
+    "description": "The investment will provide a much-needed financial boost as the company seeks to cut costs and lift its stock price.",
     "categories": [
       "Breaking News",
       "Social & Media"
@@ -1077,7 +1157,6 @@
     "description": "Nvidia has launched Minerva, AI operations software that combines data from GPUs, networks, storage and workloads to spot failing parts in large AI data centres early. It groups alerts into single incidents and has an AI assistant. IREN uses it, and Lambda, IBM and Tesla plan to. Nvidia has launched Minerva, software that watches over",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-22T17:25:00+00:00",
@@ -1607,6 +1686,7 @@
     "title": "PC shipments are in the toilet, plunging over 20 percent from last year",
     "description": "This could reach 27 percent throughout the end of 2026 as prices continue to rise.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-22T15:56:26+00:00",
@@ -1780,7 +1860,6 @@
     "title": "Lego and Daft Punk just announced an electric collab: Everything you need to know",
     "description": "Lego and Daft Punk collaboration has been announced. Everything you need to know, including new film and product launch.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-22T15:29:05+00:00",
@@ -1804,7 +1883,6 @@
     "title": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
     "description": "Spotify told investors its rollout of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
     "categories": [
-      "Breaking News",
       "Social & Media",
       "Software & Apps"
     ],
@@ -2260,87 +2338,6 @@
     ],
     "pub_date": "2026-10-22T13:53:27+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/bcjLgwWUkB9svavys4tCbN-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-    "title": "Claude Duet app is Anthropic’s bet on agents",
-    "description": "Claude Duet is available through waitlist for Pro and Max plan users.",
-    "categories": [
-      "AI & Machine Learning",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-22T13:53:26+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/22/first-iphone-duo-pre-orders-now-say-shipped-ahead-of-launch/",
-    "title": "First iPhone Duo pre-orders now say ‘shipped’ ahead of launch",
-    "description": "iPhone Duo arrives in stores tomorrow (details on availability here), and Apple has started marking early pre-orders with launch day delivery as “shipped.”\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T13:52:51+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-ios-27-fold.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/1password-for-agents-ai-agent-logins",
-    "title": "1Password lets AI agents sign in for users without seeing their passwords",
-    "description": "1Password has launched 1Password for Agents, a platform that lets personal AI agents sign in to accounts on a person’s behalf without ever seeing the password. Agents from Meta, OpenAI, Anthropic and SpaceXSI are among the first to plug in, the Toronto-based company said on Thursday. Agents now book holidays, pay recurring bills and prepare expense",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-10-22T13:45:28+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/1password-authorize-ai-agent-login-graphic.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261022/p29#a261022p29",
-    "title": "Minneapolis-based Slingshot, which uses AI to help businesses offer embedded insurance, emerges from stealth with a $27M seed co-led by Rally and Skyward Group (Mary Ann Azevedo/Crunchbase News)",
-    "description": "Mary Ann Azevedo / Crunchbase News:\nMinneapolis-based Slingshot, which uses AI to help businesses offer embedded insurance, emerges from stealth with a $27M seed co-led by Rally and Skyward Group  —  Slingshot Insurance, an AI-native embedded insurance startup, is emerging from stealth with $27 million in seed funding, it tells Crunchbase News exclusively.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T13:45:07+00:00",
-    "image_url": "http://www.techmeme.com/261022/i29.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/xona-250m-series-d-gps-rival-low-earth-orbit",
-    "title": "Xona raises $250M at a $2.45B valuation to build a rival to GPS",
-    "description": "Xona, a California startup building a satellite navigation network in low Earth orbit, has raised $250 million at a $2.45 billion valuation. Steve Jurvetson’s Future Ventures led the Series D, Xona said on Thursday. The round comes seven months after a $170 million Series C. It takes Xona’s total funding since 2019 past $570 million.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-22T13:39:20+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/xona-logo-mission-control-screens-satellite-stats.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261022/p28#a261022p28",
-    "title": "Apple is rolling out a new \"Made for iPhone Duo\" badge in the App Store, and touts Netflix, Prime Video, Zoom, Word, and Outlook as Duo-optimized apps at launch (Emma Roth/The Verge)",
-    "description": "Emma Roth / The Verge:\nApple is rolling out a new “Made for iPhone Duo” badge in the App Store, and touts Netflix, Prime Video, Zoom, Word, and Outlook as Duo-optimized apps at launch  —  Many apps, including Netflix, Microsoft Word, and Zoom, are taking advantage of the Duo's extra screen real estate.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T13:35:07+00:00",
-    "image_url": "http://www.techmeme.com/261022/i28.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/vpn/vpn-services/hide-me-vpns-latest-android-update-brings-a-new-dashboard-and-smartguard-for-android-tv-heres-what-you-need-to-know",
-    "title": "Hide.me VPN's latest Android update brings a new dashboard and SmartGuard for Android TV - here's what you need to know",
-    "description": "Hide.me VPN's latest Android update delivers a redesigned dashboard for both mobile and TV, while finally bringing its powerful SmartGuard ad and tracker blocker to Android TV devices. Here’s what you need to know about the newest features keeping your streams safe.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T13:33:05+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/3xx89cHAS2DUBERNDjerV5-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   }
 ]
