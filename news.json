@@ -1,5 +1,102 @@
 [
   {
+    "link": "https://www.theverge.com/gadgets/1016792/amazon-fire-tv-stick-4k-2026-deal-sale",
+    "title": "The new Fire TV Stick 4K is already half off",
+    "description": "Despite being announced just a few weeks ago, both Amazon and Best Buy are now offering the latest Amazon Fire TV Stick 4K for 50 percent off, bringing the price down to an all-time low of $29.99. The most notable new feature is that the Fire TV Stick 4K no longer requires a separate power",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-22T18:43:57+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/fire-tv-stick-4k_ftv-remote_hero_1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+    "description": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-22T18:43:53+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261022/p49#a261022p49",
+    "title": "Amazon issues refunds from a 2025 settlement, crediting \"President Trump's Federal Trade Commission,\" the first time an FTC refund has been tied to a president (Alfred Ng/Politico)",
+    "description": "Alfred Ng / Politico:\nAmazon issues refunds from a 2025 settlement, crediting “President Trump's Federal Trade Commission,” the first time an FTC refund has been tied to a president  —  Millions of Americans are expected to receive a settlement check from Amazon credited to “President Trump's Federal Trade Commission” …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T18:40:02+00:00",
+    "image_url": "http://www.techmeme.com/261022/i49.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/1016959/refurbished-playstation-5-ps5-console-dualsense-deal-sale-bundle",
+    "title": "Refurbished PS5 consoles include second controller for an extra $18",
+    "description": "A lot of people are snagging a PlayStation 5 ahead of Grand Theft Auto VI’s November 19th launch. You could pay full price at one of many retailers, but why do that when you can save $100 on a Sony-refurbished console that has the same one-year warranty? It’s a great time to consider one because",
+    "categories": [
+      "Gadgets & Hardware",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-22T18:38:50+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072864/110923_new_Playstation_5_Slim_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+    "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+    "description": "The new startup raised a $215 million round led by Lightspeed.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-22T18:38:47+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261022/p48#a261022p48",
+    "title": "Microsoft says its GPT-5-powered Diagnostic Orchestrator uses agents that mimic panels of experts to diagnose conditions up to 4x more accurately than doctors (Robert Hart/The Verge)",
+    "description": "Robert Hart / The Verge:\nMicrosoft says its GPT-5-powered Diagnostic Orchestrator uses agents that mimic panels of experts to diagnose conditions up to 4x more accurately than doctors  —  'We're going to build something that is indistinguishable from human performance ... in the next couple of years,' Microsoft AI CEO Mustafa Suleyman tells The Verge.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T18:35:21+00:00",
+    "image_url": "http://www.techmeme.com/261022/i48.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/claude-flags-nearly-500-worrying-open-source-security-issues-c-java-and-python-code-all-at-risk-as-one-flaw-wasnt-spotted-for-21-years",
+    "title": "Claude flags nearly 500 worrying open source security issues — C, Java, and Python code all at risk as one flaw wasn't spotted for 21 years",
+    "description": "Hunting for individual vulnerabilities will get us nowhere, Anthropic argues. Instead, businesses should reduce accessible code.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-22T18:35:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/UVoJtVCqMw4zd4UHG7SaYa-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/uber-chatgpt-work-30000-employees",
+    "title": "Uber gives more than 30,000 staff OpenAI’s ChatGPT Work agent",
+    "description": "Uber is rolling out ChatGPT Work, OpenAI’s office-task agent, to more than 30,000 employees after a 1,000-person pilot, OpenAI said. It connects to Gmail, Drive and Slack and runs on GPT-6.1 Sol by default. The move comes as Uber tries to rein in its AI spending. Uber is giving more than 30,000 employees access to",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-22T18:34:54+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/uber-logo-3d-app-icon-clock-phone-dark.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261022/p47#a261022p47",
     "title": "Sources: Datadog offered to buy Israeli cloud cybersecurity startup Upwind Security for ~$4B; Upwind is finalizing a $300M funding round at a ~$3.8B valuation (The Information)",
     "description": "The Information:\nSources: Datadog offered to buy Israeli cloud cybersecurity startup Upwind Security for ~$4B; Upwind is finalizing a $300M funding round at a ~$3.8B valuation  —  Enterprise software firm Datadog recently offered to buy Israeli cloud cybersecurity startup Upwind Security for nearly $4 billion …",
@@ -50,8 +147,8 @@
   },
   {
     "link": "https://www.techmeme.com/261022/p45#a261022p45",
-    "title": "Sources: SoftBank's SB Energy is considering going public in December or possibly waiting until next year as it monitors Anthropic's IPO, expected next month (The Information)",
-    "description": "The Information:\nSources: SoftBank's SB Energy is considering going public in December or possibly waiting until next year as it monitors Anthropic's IPO, expected next month  —  SB Energy, the SoftBank Group-controlled developer of a massive planned Ohio data center project for OpenAI …",
+    "title": "Sources: SoftBank's SB Energy is considering going public as soon as December or waiting until 2027, as it closely watches Anthropic's IPO, expected in November (The Information)",
+    "description": "The Information:\nSources: SoftBank's SB Energy is considering going public as soon as December or waiting until 2027, as it closely watches Anthropic's IPO, expected in November  —  SB Energy, the SoftBank Group-controlled developer of a massive planned Ohio data center project for OpenAI …",
     "categories": [
       "Tech News"
     ],
@@ -354,8 +451,8 @@
   },
   {
     "link": "https://www.techmeme.com/261022/p42#a261022p42",
-    "title": "The Browser Company plans to shut down its Arc browser on December 22, as it shifts attention to the AI-focused Dia browser (Jay Peters/The Verge)",
-    "description": "Jay Peters / The Verge:\nThe Browser Company plans to shut down its Arc browser on December 22, as it shifts attention to the AI-focused Dia browser  —  New feature development for the innovative web browser ended last year.  Now The Browser Company is telling users to try Dia, Arc's replacement.",
+    "title": "The Browser Company says it will shut down its Arc browser on December 22, launched in 2023, shifting attention to its AI-focused Dia browser, launched in 2025 (Jay Peters/The Verge)",
+    "description": "Jay Peters / The Verge:\nThe Browser Company says it will shut down its Arc browser on December 22, launched in 2023, shifting attention to its AI-focused Dia browser, launched in 2025  —  New feature development for the innovative web browser ended last year.  Now The Browser Company is telling users to try Dia, Arc's replacement.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -901,6 +998,7 @@
     "title": "This Flock Camera map shows more than 300,000 devices",
     "description": "Proton is hosting a free map of Flock surveillance cameras and devices after legal threats against its creator. Search your ZIP code to explore.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-22T15:57:13+00:00",
@@ -1338,7 +1436,6 @@
     "title": "Meta reports $825B in future lease and contract commitments",
     "description": "Meta has signed up to about $825bn in future leases and contracts, most of them for the data centres and computing power behind its AI push. The figures are in its quarterly filing with US regulators, dated October 22, 2026. Bloomberg reported the total by adding together three items in the filing. In July, the news agency put",
     "categories": [
-      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-10-22T14:44:18+00:00",
@@ -1386,7 +1483,6 @@
     "title": "Forget seasoning, your music playlist might be the secret ingredient to a tastier meal",
     "description": "Can the right soundtrack make food more enjoyable? A new study suggests music can influence how your brain processes taste.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-22T14:40:24+00:00",
@@ -1663,6 +1759,7 @@
     "title": "Microsoft says China-aligned hackers used AI agents in ConnectWise attack",
     "description": "Microsoft says a China-aligned hacking group used AI agents to breach ConnectWise’s Cloud Backup service, opening a route into customers’ Microsoft 365 accounts. Microsoft Threat Intelligence published its findings on Storm-0940 on October 21. ConnectWise disclosed the breach in a security advisory on October 16, the same day security firm Huntress published its initial account",
     "categories": [
+      "Breaking News",
       "Cybersecurity & Privacy",
       "Government & Policy"
     ],
@@ -1974,7 +2071,6 @@
     "title": "Samsung Galaxy Fit 4 leaks in three colors, and it's a familiar sight",
     "description": "Samsung’s Galaxy Fit 4 may look the same, but here’s what could change.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-22T12:57:52+00:00",
@@ -2033,7 +2129,6 @@
     "title": "Samsung’s Galaxy Fit 4 surfaces in new leak showing a familiar design",
     "description": "Samsung's Galaxy Fit 4 has surfaced in leaked videos showing three color options and a familiar design. The fitness tracker could retain the Galaxy Fit 3's basic look, but its specifications and potential upgrades remain unconfirmed.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-22T12:44:18+00:00",
@@ -2257,98 +2352,5 @@
     "pub_date": "2026-10-22T12:09:16+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/05SMswqst1rLov6NyQEkciY/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/entertainment/how-to-watch/how-to-watch-stacey-dooley-down-the-k-hole",
-    "title": "How to watch Stacey Dooley: Down the K Hole for free online from anywhere",
-    "description": "Here's how to watch the documentary Stacey Dooley: Down the K Hole online from anywhere in the world FOR FREE.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T12:05:56+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/oCPakjkbfRDKTBhwRignph-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/agility-robotics-digit-5-nvidia-igx-thor",
-    "title": "Agility’s Digit 5 humanoid robot will run on Nvidia as it heads for Nasdaq",
-    "description": "Agility Robotics will use Nvidia’s IGX Thor modules as the only onboard computer in Digit 5, the next version of its humanoid robot. The company announced the deal on Thursday. Nvidia will be the exclusive supplier of onboard compute for the version that goes on general sale. Agility expects early access to Digit 5 to",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-22T12:05:31+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/agility-digit-humanoid-robot-logo-grey-background.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/this-32gb-corsair-vengeance-ddr5-6000-cl30-kit-is-the-sweet-spot-ram-id-put-in-a-new-amd-build",
-    "title": "This 32GB Corsair Vengeance DDR5-6000 CL30 kit is the sweet-spot RAM I’d put in a new AMD build",
-    "description": "Corsair’s Vengeance DDR5-6000 CL30 kit hits the speed-and-latency sweet spot for AMD Ryzen systems, with a low-profile heat spreader for $560.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T12:04:03+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/4ZuGg92BzQRt8TLSMMQjs8-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-22-roborock-qrevo-2-pro-set-robot-vacuum-mop-deal",
-    "title": "The Roborock Qrevo 2 Pro robot vacuum hits best-ever price at Amazon — save $250.01 ahead of Black Friday",
-    "description": "As of Oct. 22, the Roborock Qrevo 2 Pro Set robot vacuum and mop is down to its lowest-ever price of $649.98 at Amazon, 28% off its list price of $899.99.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T12:03:09+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02C8eUeZA95y9EP5n4xwSaj/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/phones/the-oppo-find-x10-pro-max-is-one-of-the-years-top-cameraphones-these-photos-prove-it",
-    "title": "The Oppo Find X10 Pro Max is one of the year's top cameraphones — these photos prove it",
-    "description": "Oppo joins the Pro Max phone party with its latest handset, the triple-camera flagship Find X10 Pro Max. I've spent three solid days shooting with it, and here are my favorite shots so far",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T12:00:35+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/GkWXpWDkV6UxEtvMCZhTBJ-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/home/home-security/amazon-is-giving-its-blink-lineup-a-boost-with-5-new-devices-including-the-companys-farthest-reaching-camera-yet",
-    "title": "Amazon announces five new Blink home security cameras",
-    "description": "The Blink Frontier XR+ works 7,000 feet away from the main hub, and the Blink Spotlight Cam 2K+ marks the company's first battery-powered spotlight.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T12:00:32+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Qv7hmRbHf6JGfvCSAFV5WK-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/adobe-bwt-alpine-f1-ai-partnership",
-    "title": "Adobe becomes AI fan experience partner of BWT Alpine F1 team",
-    "description": "Adobe and the BWT Alpine Formula One Team have signed a global premium partnership. Under the deal, Adobe becomes the team’s official AI fan experience partner, providing software to create fan content and understand how fans engage. The partnership starts with the 2027 Formula One season, and neither side gave financial terms. Adobe said the",
-    "categories": [
-      "Breaking News",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-22T12:00:04+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/bwt-alpine-f1-car-adobe-logo-partnership.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/mobile/test-iphone-duo-things-to-try-at-apple-store/",
-    "title": "Test Driving an iPhone Duo? 6 Things to Try at the Apple Store",
-    "description": "Apple’s first foldable has a lot going for it, but there may be some compromises you aren’t expecting. See for yourself if the Duo is for you.",
-    "categories": [
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-10-22T12:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/iPhone-Duo-still-4.jpg",
-    "source_name": "CNET.COM"
   }
 ]
