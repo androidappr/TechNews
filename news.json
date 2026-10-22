@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.techradar.com/computing/macbooks/it-doesnt-work-steve-jobs-on-why-there-was-never-a-touchscreen-macbook-and-why-i-think-hed-totally-love-whats-coming-next",
+    "title": "'It doesn't work': Steve Jobs on why there was never a touchscreen MacBook and why I think he'd totally love what's coming next",
+    "description": "Steve Jobs hated the idea of touchscreen MacBooks, but I bet he'd love what Apple's probably introducing next week.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T00:45:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/M9xtnowzuwuArgZsCaSxpM-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.cnet.com/tech/services-and-software/meta-muse-ai-agent-shopping-earnings/",
     "title": "Tons of People Are Apparently Asking Meta’s Muse AI Agent to Shop for Them",
     "description": "A quarter of Meta Muse’s 10 million users are shopping online via the AI agent with an average spend of $200 per purchase, according to Mark Zuckerberg.",
@@ -80,6 +91,18 @@
     "pub_date": "2026-10-22T00:05:01+00:00",
     "image_url": "http://www.techmeme.com/261021/i57.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
+    "title": "Faster to Science: A Letter to the Science Community",
+    "description": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T00:00:16+00:00",
+    "image_url": null,
+    "source_name": "SCIENCE.NASA.GOV"
   },
   {
     "link": "https://www.techradar.com/televisions/soundbars/wiim-bar-review",
@@ -260,7 +283,6 @@
     "title": "9to5Mac Daily: October 21, 2026 – New iPhone Duo features, more",
     "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\n\n\n\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.\n\n\n\n\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-21T22:44:33+00:00",
@@ -551,7 +573,6 @@
     "title": "BioWare is closing, and the next Mass Effect is going with it",
     "description": "Electronic Arts is shutting down BioWare after more than three decades, bringing the curtain down on the studio behind Mass Effect, Dragon Age, Baldur’s Gate, and Star Wars: Knights of the Old Republic. EA also canceled the next Mass Effect in early development, and the closure is part of a wider restructuring that will reportedly eliminate around",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-10-21T21:26:09+00:00",
@@ -672,7 +693,6 @@
     "title": "Before you bid on vintage gadgets, find out how much retro tech you can really handle with this quiz",
     "description": "Everyone loves the idea of retro tech. But what about rewinding tapes and changing batteries? Take our quiz to find out how much old school inconvenience you can really handle.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-21T21:00:00+00:00",
@@ -695,7 +715,6 @@
     "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
     "description": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
     "categories": [
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-21T20:57:40+00:00",
@@ -707,7 +726,6 @@
     "title": "Government websites in the EU and Canada taken offline over PHP vulnerability",
     "description": "All websites using PHP should update to the latest security patch.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-10-21T20:56:47+00:00",
@@ -719,7 +737,6 @@
     "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
     "description": "NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket. During",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-21T20:51:50+00:00",
@@ -743,7 +760,6 @@
     "title": "New York’s first microdrama film festival searches for its audience",
     "description": "It remains to be seen if people really want to watch vertical content on horizontal TV screens, but many filmmakers and creators were confident that their latest projects would play well at Alza - New York City's first microdrama film festival. Founded by former Tribeca Festival chief operating officer Pete Torres, Alza, which took place",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-21T20:49:07+00:00",
@@ -894,7 +910,7 @@
   {
     "link": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
     "title": "Automattic begins layoffs following board upheaval and executive departures",
-    "description": "Automattic has begun laying off employees across multiple teams, including WordPress.com and its enterprise business, following a board shakeup and a series of executive departures. Sources say more cuts could follow as the company looks to improve its finances.",
+    "description": "Sources say more cuts could follow as the company looks to improve its finances.",
     "categories": [
       "Social & Media"
     ],
@@ -1180,7 +1196,6 @@
     "title": "EA shuts down BioWare, the gaming studio behind Mass Effect and Dragon Age",
     "description": "After more than three decades of producing beloved RPGs, EA is shutting down BioWare.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-21T18:56:26+00:00",
@@ -1214,7 +1229,6 @@
     "title": "Hands too small for the new iPhone Duo? Apple is working on a fix",
     "description": "Apple reportedly plans to bring Reachability to the iPhone Duo later this year, adapting the familiar accessibility feature to make its wide left and right edges easier to reach.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-21T18:49:11+00:00",
@@ -2280,29 +2294,5 @@
     "pub_date": "2026-10-21T15:41:22+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/03JCnJbNfSnN51bsBvsPRYk/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/claude-attack-surface-reduction-493-issues-openssh",
-    "title": "Anthropic set Claude on 25 open-source projects and it found 493 flaws",
-    "description": "Anthropic pointed its Claude models at 25 widely used open-source projects and set them a different task: not finding individual bugs, but finding code that attackers can reach when they should not be able to. Claude flagged 493 such issues. One of them had sat in the software for 21 years. The work is a",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-21T15:39:42+00:00",
-    "image_url": "https://media.thenextweb.com/2026/08/anthropic-in-house-chip-team-custom-silicon-claude.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/website-admins-across-the-world-bracing-for-impact-following-major-php-flaw-reveal",
-    "title": "Website admins across the world bracing for impact following major PHP flaw reveal",
-    "description": "PHP notifies the community of two critical RCE flaws, says patch is coming imminently.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-21T15:36:33+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/pL5rBKGq88cnoqgdJgCXGS-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
