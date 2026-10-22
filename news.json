@@ -1,5 +1,103 @@
 [
   {
+    "link": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+    "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+    "description": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The turbulent AI era is",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-22T14:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bill_Gates_NQuamina-Woo_0007_a8ca1f.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/ai-chatbots-are-falling-prey-to-manipulative-prompts-that-could-help-stalkers-spy-on-victims/",
+    "title": "AI chatbots are falling prey to manipulative prompts that could help stalkers spy on victims",
+    "description": "Spyware, tracking and shared accounts need human help. Here’s what to do before trusting a chatbot’s tech-safety advice.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-22T13:57:30+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/AI-chatbots.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techradar.com/vpn/vpn-privacy-security/exclusive-hundreds-of-shady-chrome-vpn-extensions-target-russians-including-fakes-of-windscribe-and-expressvpn",
+    "title": "Exclusive: Hundreds of shady Chrome VPN extensions target Russians — including fakes of Windscribe and ExpressVPN",
+    "description": "Shady VPNs are giving people a ‘false sense of security.’ But why are Russians being targeted?",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T13:53:27+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/bcjLgwWUkB9svavys4tCbN-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+    "title": "Claude Duet app is Anthropic’s bet on agents",
+    "description": "Claude Duet is available through waitlist for Pro and Max plan users",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-22T13:53:26+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/10/22/first-iphone-duo-pre-orders-now-say-shipped-ahead-of-launch/",
+    "title": "First iPhone Duo pre-orders now say ‘shipped’ ahead of launch",
+    "description": "iPhone Duo arrives in stores tomorrow (details on availability here), and Apple has started marking early pre-orders with launch day delivery as “shipped.”\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T13:52:51+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-ios-27-fold.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/1password-for-agents-ai-agent-logins",
+    "title": "1Password lets AI agents sign in for users without seeing their passwords",
+    "description": "1Password has launched 1Password for Agents, a platform that lets personal AI agents sign in to accounts on a person’s behalf without ever seeing the password. Agents from Meta, OpenAI, Anthropic and SpaceXSI are among the first to plug in, the Toronto-based company said on Thursday. Agents now book holidays, pay recurring bills and prepare expense",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-22T13:45:28+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/1password-authorize-ai-agent-login-graphic.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261022/p29#a261022p29",
+    "title": "Minneapolis-based Slingshot, which uses AI to help businesses offer embedded insurance, emerges from stealth with a $27M seed co-led by Rally and Skyward Group (Mary Ann Azevedo/Crunchbase News)",
+    "description": "Mary Ann Azevedo / Crunchbase News:\nMinneapolis-based Slingshot, which uses AI to help businesses offer embedded insurance, emerges from stealth with a $27M seed co-led by Rally and Skyward Group  —  Slingshot Insurance, an AI-native embedded insurance startup, is emerging from stealth with $27 million in seed funding, it tells Crunchbase News exclusively.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T13:45:07+00:00",
+    "image_url": "http://www.techmeme.com/261022/i29.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/xona-250m-series-d-gps-rival-low-earth-orbit",
+    "title": "Xona raises $250M at a $2.45B valuation to build a rival to GPS",
+    "description": "Xona, a California startup building a satellite navigation network in low Earth orbit, has raised $250 million at a $2.45 billion valuation. Steve Jurvetson’s Future Ventures led the Series D, Xona said on Thursday. The round comes seven months after a $170 million Series C. It takes Xona’s total funding since 2019 past $570 million.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-22T13:39:20+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/xona-logo-mission-control-screens-satellite-stats.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261022/p28#a261022p28",
     "title": "Apple is rolling out a new \"Made for iPhone Duo\" badge in the App Store, and touts Netflix, Prime Video, Zoom, Word, and Outlook as Duo-optimized apps at launch (Emma Roth/The Verge)",
     "description": "Emma Roth / The Verge:\nApple is rolling out a new “Made for iPhone Duo” badge in the App Store, and touts Netflix, Prime Video, Zoom, Word, and Outlook as Duo-optimized apps at launch  —  Many apps, including Netflix, Microsoft Word, and Zoom, are taking advantage of the Duo's extra screen real estate.",
@@ -565,6 +663,7 @@
     "title": "Xona, which plans to deploy a 258-satellite low-Earth orbit constellation as a commercial alternative to GPS, raised a $250M Series D at a $2.45B valuation (Monica Hunter-Hart/Forbes)",
     "description": "Monica Hunter-Hart / Forbes:\nXona, which plans to deploy a 258-satellite low-Earth orbit constellation as a commercial alternative to GPS, raised a $250M Series D at a $2.45B valuation  —  The U.S. government built GPS.  Now Silicon Valley is funding a rival developed by the startup Xona, which just raised $250 million in venture funding.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-22T12:20:01+00:00",
@@ -2221,93 +2320,5 @@
     "pub_date": "2026-10-21T23:46:45+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_03.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
-    "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
-    "description": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-21T23:36:31+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/computing/google-chrome-enhanced-protection-mode/",
-    "title": "Google Chrome Will Notify You If You’re on a Scam Website",
-    "description": "You’ll need to opt into Chrome’s Enhanced Protection mode to use the new features.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-21T23:32:54+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/1bccfa72-3fc5-48b6-990a-55c83ad57ca0.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/services-and-software/coco-serve-robots-biometric-data-lawsuit/",
-    "title": "Lawsuits Allege Delivery Robots Recorded Biometric Data Without Permission",
-    "description": "As delivery robots roll through cities like Chicago, they’re fueling fears about unregulated surveillance in public spaces.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-21T23:30:33+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Serve-robot-16x9-1.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/21/giant-iphone-duo-installations-spotted-at-apple-fifth-avenue-ahead-of-friday-launch/",
-    "title": "Giant iPhone Duo installations spotted at Apple Fifth Avenue ahead of Friday launch",
-    "description": "While the iPhone Duo doesn’t launch until Friday, preparations are already underway at Apple’s flagship Fifth Avenue store in New York for the big day. Here are the details.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-21T23:16:18+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-fifth-avenue-iphone-launch-day.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/lenovos-macbook-neo-rival-has-landed-a-month-early-but-is-it-worth-your-money",
-    "title": "Lenovo's MacBook Neo rival has landed a month early — but is it worth your money?",
-    "description": "At $799.99, the Lenovo IdeaPad Vibe costs $100 more than the MacBook Neo it was built to match.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-21T23:10:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/UCWTaTTLy72yFJQW7zmQP3-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/mice/steelseries-sensei-pro-review",
-    "title": "SteelSeries Sensei Pro review: clever battery management meets high performance",
-    "description": "SteelSeries' new wireless gaming mouse ensures you’ll never need to go wired to charge — but how well does its unusual battery system actually work?",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-21T23:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/JskiUkg5CSCWZRVLwu3QdM-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-22-october-2026",
-    "title": "Quordle hints and answers for Thursday, October 22 (game #1732)",
-    "description": "Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-21T23:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-22-october-2026",
-    "title": "NYT Connections hints and answers for Thursday, October 22 (game #1229)",
-    "description": "Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-21T23:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
