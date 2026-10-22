@@ -1,5 +1,52 @@
 [
   {
+    "link": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
+    "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
+    "description": "Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. My first reaction: The next Xbox is dead on arrival. It's DOA. My second thought: Microsoft knows people won't pay that",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-22T23:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23516635/adbenedetto_220508_5192_0047.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/home-theater/youtube-home-custom-feeds-subscriptions-redesign/",
+    "title": "YouTube is reworking the Home page with Custom Feeds and quicker access to Subscriptions",
+    "description": "YouTube is changing how its Home page works, giving viewers more control over what shows up there and making some of the app’s most-used sections easier to reach. Custom Feeds are now replacing the existing topic chips for eligible users, while YouTube is also testing a redesigned top bar on mobile that moves Subscriptions closer",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T22:58:11+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Youtube-custom-feeds.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/ai-agents-are-acting-like-rogues-and-causing-a-huge-headache-for-us-banks/",
+    "title": "AI agents are acting like rogues and causing a huge headache for US banks",
+    "description": "US banks are restricting third-party AI agents over concerns that automated tools could access accounts or initiate financial actions without clear customer control.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T22:47:45+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/DT-2026-10-17T114903.465.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.cnet.com/science/hugging-face-announces-ai-model-to-chat-with-dna/",
+    "title": "Hugging Face Announces AI Model to ‘Chat’ With DNA",
+    "description": "Carbon-X can analyze DNA sequences while running on your laptop at home.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-22T22:44:42+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/unnamed_aae71d.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/10/22/macbook-neo-helps-apple-soften-the-blow-of-global-pc-market-downturn-per-report/",
     "title": "MacBook Neo helps Apple soften the blow of global PC market downturn, per report",
     "description": "A new Counterpoint Research report on global PC shipments for Q3 2026 shows Apple outperforming the broader market, with the MacBook Neo helping cushion the impact of declining demand. Here are the details.\n\n\n\n more…",
@@ -38,7 +85,6 @@
     "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
     "description": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
     "categories": [
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-22T22:34:54+00:00",
@@ -764,8 +810,7 @@
     "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
     "description": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-22T19:00:00+00:00",
     "image_url": null,
@@ -833,7 +878,6 @@
     "title": "Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales",
     "description": "Searches for Samsung foldables just happened to skyrocket following iPhone Duo unveiling.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-22T18:49:14+00:00",
@@ -1530,7 +1574,6 @@
     "title": "1Password wants AI agents to handle logins without ever taking a peek at your passwords",
     "description": "The next chapter of AI is knocking on our doors, as AI agents like Meta Muse, OpenAI Dots, Gemini Spark, among others, are becoming mainstream, and they are genuinely quite useful for a lot of things, ranging from being your personal assistant all the way to helping you manage a small business. However, many are",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-22T16:46:47+00:00",
@@ -2276,52 +2319,5 @@
     "pub_date": "2026-10-22T14:45:01+00:00",
     "image_url": "http://www.techmeme.com/261022/i32.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/meta-825b-future-spending-commitments",
-    "title": "Meta reports $825B in future lease and contract commitments",
-    "description": "Meta has signed up to about $825bn in future leases and contracts, most of them for the data centres and computing power behind its AI push. The figures are in its quarterly filing with US regulators, dated October 22, 2026. Bloomberg reported the total by adding together three items in the filing. In July, the news agency put",
-    "categories": [
-      "Social & Media"
-    ],
-    "pub_date": "2026-10-22T14:44:18+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/meta-logo-terracotta-tile-wall-arch.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/vpn/vpn-privacy-security/microsoft-admits-its-windows-update-to-fix-always-on-vpn-issue-didnt-actually-work",
-    "title": "Microsoft admits its Windows update to fix 'Always on VPN' issue didn't actually work",
-    "description": "IT admins are stuck with temporary workarounds as the tech giant admits the bug was \"mistakenly updated to Resolved status.\"",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T14:41:31+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/vUENLgpmE9SAJMUqFSigSF-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/gadgets/1015984/aura-smart-bird-feeder-jbl-charge-6-speaker-deal-sale",
-    "title": "Coolfly’s solar-powered Aura Smart Bird Feeder is nearly 50 percent off",
-    "description": "I’m not sure when bird-watching became so popular, but it seems everybody’s getting into it these days. If you want to see what all the fuss is about without leaving your couch, both Coolfly and Birdfy are discounting their camera-equipped bird feeders for a limited time. Right now, you can buy Coolfy’s Aura Smart Bird",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-22T14:41:02+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Coofly-Aura-Smart-Bird-Feeder.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/walmart-black-friday-2026-everything-to-know",
-    "title": "Everything you need to know about Walmarts Black Friday 2026 sale: Store hours, early access, best deals",
-    "description": "Here's everything you need to know about Walmart's Black Friday sale in 2026, including when to shop and the best early deals.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T14:40:37+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04e1KDN7bV6y0srT4sXjoEH/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
