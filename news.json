@@ -1,5 +1,90 @@
 [
   {
+    "link": "https://9to5mac.com/2026/10/22/1password-launches-solution-for-safely-using-logins-with-ai-agents/",
+    "title": "1Password launches solution for safely using logins with AI agents",
+    "description": "1Password has been focused on building password management tools that make sense in the age of agentic AI. In July, the company launched a special integration with Claude. Today, 1Password is going further with the arrival of 1Password for Agents.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T17:15:01+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/1password-app-icon-FI.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/arc-browser-is-shutting-down-in-december-long-live-ya-trailblazer/",
+    "title": "Arc browser is shutting down in December. Long live, ya trailblazer!",
+    "description": "The Browser Company has announced that the beloved web browser will ride into the sunset on December 2022, but will continue development of Dia browser.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T17:13:09+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Screenshot-2026-10-22-at-10.40.52-PM-scaled.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/openai-agents-turned-off-their-own-guardrails-and-then-told-researchers-they-were-still-on-ai-agents-lying-about-their-behavior-should-concern-everyone",
+    "title": "OpenAI agents turned off their own guardrails and then told researchers they were still on — AI agents lying about their behavior should concern everyone",
+    "description": "Turning off guardrails and lying about it is very concerning behavior, but OpenAI doesn't have an explanation.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-22T17:10:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/PnmNd8HFBHVjfxzYJpPNQi-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/wearables/samsung-galaxy-watch/galaxy-watch-user-wakes-up-to-an-awful-blister-after-apparent-burn-overnight",
+    "title": "Galaxy Watch user wakes up to an awful blister after apparent 'burn' overnight",
+    "description": "A Galaxy Watch user reported a painful blister and skin burn after the device overheated while they were resting.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T17:05:59+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/tAJKCadqrcWZpUnJhezB76-1920-80.jpeg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1016832/arc-browser-shutting-down",
+    "title": "Arc browser is shutting down",
+    "description": "The Browser Company plans to \"sunset\" its Arc browser on December 22nd, according to a post on the Arc website. The company moved on to developing its AI-focused Dia browser last year, but it had continued to maintain Arc. Now, the innovative browser will be going away for good. The shutdown is happening in a",
+    "categories": [
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-22T17:03:37+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-12.56.25-PM.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261022/p41#a261022p41",
+    "title": "Microsoft says it is closing The Garage, which gave employees around the world space and tools for side projects and ran the company's Global Hackathon (Todd Bishop/GeekWire)",
+    "description": "Todd Bishop / GeekWire:\nMicrosoft says it is closing The Garage, which gave employees around the world space and tools for side projects and ran the company's Global Hackathon  —  Microsoft is winding down The Garage as a companywide program, ending a 17-year run for the effort that gave employees space and tools …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T17:02:01+00:00",
+    "image_url": "http://www.techmeme.com/261022/i41.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/spacex-grok-partner-network-apollo-nvidia",
+    "title": "SpaceX signs up Apollo and Nvidia for a new Grok partner network",
+    "description": "SpaceX has launched the Super Intelligence Partner Network for companies that deploy or build on Grok, with Apollo, Nvidia, Snowflake, Databricks, Bain and more than 130 firms joining early. It follows a quarter in which SpaceX’s AI unit turned a profit, mostly from renting out computing power. SpaceX has launched a partner programme to help",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-22T17:00:39+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/spacex-falcon-heavy-launch-pad-39a-hangar.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1016798/php-vulnerabilities-exploit-patch",
     "title": "The disastrous PHP vulnerabilities were exploited days before the patch",
     "description": "Hackers attempted to exploit the PHP flaws impacting sites across the web days before they were patched, according to a report from Amazon Threat Intelligence. CJ Moses, Amazon chief information security officer, writes that the company's security team found a PHP2Shell exploit attempt on October 17th through a monitoring system designed to bait hackers, as",
@@ -283,7 +368,7 @@
   {
     "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
     "title": "Uber puts all 30,000 employees on ChatGPT Work",
-    "description": "The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide.",
+    "description": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News"
@@ -423,8 +508,8 @@
   },
   {
     "link": "https://www.techmeme.com/261022/p35#a261022p35",
-    "title": "Sources: US banks are restricting third-party AI agents from accessing customer accounts, after some agents appeared to act independently of user instructions (Madison Mills/Axios)",
-    "description": "Madison Mills / Axios:\nSources: US banks are restricting third-party AI agents from accessing customer accounts, after some agents appeared to act independently of user instructions  —  Major U.S. banks are detecting unauthorized third-party AI agents operating inside customer accounts, with some agents attempting …",
+    "title": "Sources: US banks are restricting third-party AI agents from accessing customer accounts, after some agents appeared to act independently of users' instructions (Madison Mills/Axios)",
+    "description": "Madison Mills / Axios:\nSources: US banks are restricting third-party AI agents from accessing customer accounts, after some agents appeared to act independently of users' instructions  —  Major U.S. banks are detecting unauthorized third-party AI agents operating inside customer accounts, with some agents attempting …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -661,17 +746,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://www.techradar.com/gaming/stranger-than-heaven-director-says-the-games-combat-was-inspired-by-old-ninkyo-yakuza-movies-because-the-raw-and-gritty-action-scenes-fit-daitos-character-as-an-inexperienced-fighter-we-felt-that-atmosphere-was-what-made-those-genres-special",
-    "title": "Stranger Than Heaven director says the game's combat was inspired by old 'Ninkyo' Yakuza movies because the 'raw and gritty' action scenes fit Daito's character as an inexperienced fighter — 'We felt that atmosphere was what made those genres special'",
-    "description": "Stranger Than Heaven director Mikinobu Abe has revealed that classic \"Ninkyo\" yakuza movies inspired the upcoming action game's combat system.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-22T15:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/uFoycZW2Q9dr7vK9cfCSC-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/gaming/secretlabs-new-league-of-legends-k-da-firestarter-collection-is-a-gorgeous-new-addition-to-its-titan-evo-and-magnus-pro-series-heres-where-to-get-your-matching-set",
     "title": "Secretlab's new League of Legends K/DA Firestarter collection is a gorgeous new addition to its Titan Evo and Magnus Pro series — here's where to get your matching set",
     "description": "Secretlab is expanding its Secretlab Titan Evo and Magnus Pro series with a new League of Legends collection inspired by the game's virtual pop group, K/DA.",
@@ -680,6 +754,17 @@
     ],
     "pub_date": "2026-10-22T15:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/uHUX9CYbgBZtGwBYYYhr4C-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/stranger-than-heaven-director-says-the-games-combat-was-inspired-by-old-ninkyo-yakuza-movies-because-the-raw-and-gritty-action-scenes-fit-daitos-character-as-an-inexperienced-fighter-we-felt-that-atmosphere-was-what-made-those-genres-special",
+    "title": "Stranger Than Heaven director says the game's combat was inspired by old 'Ninkyo' Yakuza movies because the 'raw and gritty' action scenes fit Daito's character as an inexperienced fighter — 'We felt that atmosphere was what made those genres special'",
+    "description": "Stranger Than Heaven director Mikinobu Abe has revealed that classic \"Ninkyo\" yakuza movies inspired the upcoming action game's combat system.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-10-22T15:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/uFoycZW2Q9dr7vK9cfCSC-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -896,7 +981,6 @@
     "title": "iPhone Duo's next-gen prototypes are trying to cram in Face ID",
     "description": "Apple's first foldable phone opted for a feature it replaced on most iPhone models nearly 10 years ago.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-22T14:06:33+00:00",
@@ -1174,7 +1258,6 @@
     "title": "Sources: the Pentagon quietly established the Technology Support Office (TSO), a sabotage agency for executing cyberattacks, supply chain disruptions, and more (Politico)",
     "description": "Politico:\nSources: the Pentagon quietly established the Technology Support Office (TSO), a sabotage agency for executing cyberattacks, supply chain disruptions, and more  —  The Pentagon has spent months quietly building an elite new tech agency to help covertly disrupt and sabotage foreign technology …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-22T13:15:01+00:00",
@@ -1187,7 +1270,6 @@
     "description": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-22T13:11:13+00:00",
@@ -1993,7 +2075,6 @@
     "title": "Apple is apparently testing iPhone Duo 2 with Face ID instead of the Touch ID button",
     "description": "Apple may bring under-display Face ID to the iPhone Duo 2, addressing a key complaint about its first foldable.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-22T11:05:04+00:00",
@@ -2267,87 +2348,5 @@
     "pub_date": "2026-10-22T10:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6ad9279b7f825128a68bc73a/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter.gif",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/22/gurman-iphone-duo-2-face-id/",
-    "title": "Gurman: iPhone Duo 2 prototypes with Face ID are already being tested inside Apple",
-    "description": "The iPhone Duo comes out tomorrow but, given the strong pre-order demand, it is already looking to be a smash hit. And we are all expecting Apple to follow up with a second-generation model next fall, which means the company has to be already working on the next-gen hardware.\n\n\n\nOn his Power On podcast, Mark Gurman reports that iPhone Duo 2 prototypes inside Apple include Face ID, with the Face ID sensor being integrated beneath the display on the outer screen.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T09:56:28+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-round-2-01.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261022/p12#a261022p12",
-    "title": "A look at Huawei and DeepSeek's mutual reliance, where Huawei provides compute hardware while DeepSeek contributes model workloads and kernel optimization (SemiAnalysis)",
-    "description": "SemiAnalysis:\nA look at Huawei and DeepSeek's mutual reliance, where Huawei provides compute hardware while DeepSeek contributes model workloads and kernel optimization  —  Huawei Ascend 950PR Deep dive & µbenchmarks, DSv4.1 Flash Analysis, DeepSeek support for Ascend, AICPU, Tilelang Ascend",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T09:55:01+00:00",
-    "image_url": "http://www.techmeme.com/261022/i12.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/enterprise-ai-footprint-visibility-security-zscaler",
-    "title": "Your enterprise has more AI than you think, and security can’t see it all",
-    "description": "Over the years, enterprises have been in an all-out sprint to adopt the latest and greatest AI models. In that sprint, the average AI stack has grown quickly to include an array of platforms. These include developer tools, AI agents, employee-used services, and AI features embedded in existing applications. Zscaler, a cloud-native cybersecurity platform, published",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T09:45:12+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/zscaler-threatlabz-2026-ai-security-report-laptop.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261022/p11#a261022p11",
-    "title": "Barclays plans to cut 5,000 jobs, or ~5% of its workforce, by the end of 2026 as part of AI-driven cost cutting, with ~60% coming from support and developers (William Shaw/Bloomberg)",
-    "description": "William Shaw / Bloomberg:\nBarclays plans to cut 5,000 jobs, or ~5% of its workforce, by the end of 2026 as part of AI-driven cost cutting, with ~60% coming from support and developers  —  Barclays to Cut 5,000 Jobs as AI Starts to Create Efficiency  —  Video Player is loading.  —  Unmute  —  Current Time 0:00 Loaded: 69.77% Playback Rate",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T09:45:01+00:00",
-    "image_url": "http://www.techmeme.com/261022/i11.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/patriots-bears-nfl-2026-live-stream-for-free",
-    "title": "How to watch Patriots vs. Bears in the NFL online for free",
-    "description": "How to watch NFL for free. Live stream the NFL for free from anywhere in the world.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T09:39:33+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04teBi5Xq7QvqUrgnjekSAM/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/what-does-it-actually-mean-to-treat-data-as-an-asset",
-    "title": "What does it actually mean to treat data as an asset?",
-    "description": "What businesses need to establish before data can become a trusted, valuable and usable asset.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T09:35:37+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/wZAaq2s2qH4tHBJTEBNZXM-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/barclays-5000-job-cuts-ai",
-    "title": "Barclays to cut 5,000 jobs this year as AI makes the bank more efficient",
-    "description": "Barclays expects to have cut around 5,000 jobs by the end of 2026, roughly 5% of its staff. The bank said artificial intelligence and other technology now let it do the same work with fewer people. The British lender gave the figure on Thursday alongside its third-quarter results, adding to a broader shift at European banks. About",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-22T09:31:41+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/barclays-logo-tower.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
