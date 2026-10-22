@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://mashable.com/tech/robert-downey-jr-snap-specs-ar-glasses",
+    "title": "Robert Downey Jr. has a new tech job, and it’s very Tony Stark",
+    "description": "Robert Downey Jr. joins Snap's Specs as honorary chief customer experience officer, collaborating on content, AR experiences, and hardware.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T00:11:02+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/06Q3bXpiHRMFX9U2pd1GTRl/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/us-army-moves-away-from-dedicated-laser-vehicles-modular-locust-x3-laser-turns-standard-army-trucks-into-speed-of-light-counter-drone-rigs-for-usd5-a-shot",
+    "title": "US Army moves away from dedicated laser vehicles — modular LOCUST X3 laser turns standard army trucks into speed-of-light counter-drone rigs for $5 a shot",
+    "description": "The US Army is pursuing modular LOCUST X3 lasers for flexible counter-drone defence, despite reliability, range and power limitations.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T00:10:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/oS2U7enHygTUXPpcocUXmc-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261021/p57#a261021p57",
+    "title": "Cloud provider Railway says an unauthorized party may have accessed customer encrypted environment variables and, for some, obtained the decrypted contents (Jacob Cooper/Railway Blog)",
+    "description": "Jacob Cooper / Railway Blog:\nCloud provider Railway says an unauthorized party may have accessed customer encrypted environment variables and, for some, obtained the decrypted contents  —  Earlier this morning, Railway detected anomalous activity involving systems that store customer environment variables.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T00:05:01+00:00",
+    "image_url": "http://www.techmeme.com/261021/i57.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/televisions/soundbars/wiim-bar-review",
+    "title": "WiiM Bar review: a worthy Sonos rival?",
+    "description": "Can WiiM rival Sonos in the world of Dolby Atmos soundbars? Here’s my view after testing out the company’s first ever soundbar.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T00:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/njn69XKMH5qobcFmuVu6b4-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261021/p56#a261021p56",
     "title": "AuxoAI, which helps large businesses build and deploy AI systems, raised a $20.7M Series A led by NTTVC to accelerate growth and scale (Kyt Dotson/SiliconANGLE)",
     "description": "Kyt Dotson / SiliconANGLE:\nAuxoAI, which helps large businesses build and deploy AI systems, raised a $20.7M Series A led by NTTVC to accelerate growth and scale  —  AuxoAI Inc., an enterprise engineering and consulting company that helps large businesses build and deploy artificial intelligence systems …",
@@ -808,7 +853,6 @@
     "title": "Bose acquires Skullcandy to help it reach a wider audience",
     "description": "Bose announced today it has acquired Skullcandy. Although the two companies are competitors in the consumer audio space, Skullcandy recently partnered with its new owner to bring several of Bose's audio technologies - including its head-tracking spatial audio and excellent active noise cancellation (ANC) - to products like the Skullcandy Crusher 1080 ANC headphones and",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-21T20:15:00+00:00",
@@ -853,7 +897,6 @@
     "title": "iOS 27.2 reveals Apple’s Messages app could soon get highly requested change",
     "description": "iOS 27.2 launches next week, and the update includes code that points to a forthcoming Messages app change: the ability to exclude muted conversations from the unread badge count.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-21T20:05:13+00:00",
@@ -1057,17 +1100,6 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://www.techradar.com/entertainment/how-to-watch/how-to-watch-ellie-natasia-season-2",
-    "title": "How to watch Ellie & Natasia season 2 for free online from anywhere",
-    "description": "Here's how to watch the sketch show Ellie & Natasia season 2 online from anywhere in the world FOR FREE.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-21T19:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/tSe7CDoGTGDQEUSQbSh7rC-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/entertainment/clayface-review",
     "title": "Clayface review: Tom Rhys Harries shines in DCU body horror gamble that largely pays off",
     "description": "As the DC Universe continues to take shape, Clayface proves there's room for big, creative swings in James Gunn's cinematic franchise.",
@@ -1076,6 +1108,17 @@
     ],
     "pub_date": "2026-10-21T19:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/Ug24r74LxmEd2nhKQnFZDX-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/entertainment/how-to-watch/how-to-watch-ellie-natasia-season-2",
+    "title": "How to watch Ellie & Natasia season 2 for free online from anywhere",
+    "description": "Here's how to watch the sketch show Ellie & Natasia season 2 online from anywhere in the world FOR FREE.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-21T19:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/tSe7CDoGTGDQEUSQbSh7rC-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -1393,7 +1436,6 @@
     "description": "Flapping Airplanes, a San Francisco AI research lab founded in late 2025, has raised $1B at a $6B valuation, led by Index Ventures and Lux Capital, Bloomberg reported. Its valuation has quadrupled since January. It is working on ways to train AI with less data and compute, and has no product yet. Flapping Airplanes, an",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-21T18:11:41+00:00",
@@ -2271,54 +2313,5 @@
     "pub_date": "2026-10-21T15:25:17+00:00",
     "image_url": "http://www.techmeme.com/261021/i36.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/php2shell-php-rce-ai-openai-wiz",
-    "title": "PHP rushes out emergency patches for two critical bugs AI found first",
-    "description": "PHP shipped emergency security updates on Wednesday. They fix two critical flaws that let an unauthenticated attacker run code on almost any server running the language. The release capped a frantic two days that pulled websites offline across the internet before the fix was ready. The patched releases are PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Cybersecurity & Privacy",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-21T15:25:13+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/php-elephant-plush-laptop-code.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/vpn/vpn-services/has-windscribe-quietly-completed-the-first-ever-ai-vpn-audit",
-    "title": "Has Windscribe quietly completed the first-ever AI VPN audit?",
-    "description": "An efficient, secure future, or a security risk waiting to happen?",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-21T15:23:20+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/dTPDs7MHgjoQE9rXcB8uzE-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/home/amazon-refreshes-blink-lineup-with-first-4k-pan-tilt-and-battery-powered-spotlight-cameras/",
-    "title": "Amazon refreshes Blink lineup with first 4K, pan-tilt, and battery-powered spotlight cameras",
-    "description": "Amazon has just launched the Blink Mini 4K+, Blink Mini Pan-Tilt 2K+, Blink Spotlight Cam 2K+, Blink Outdoor 2K XR+, and Blink Frontier XR+ security cameras in the US.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-21T15:22:20+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/amazon-blink-cameras-2.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-early-black-friday-anker-deals-2026",
-    "title": "Anker Black Friday deals are live: Save on earbuds, headphones, power banks, and more",
-    "description": "Anker deals from Soundcore, Solix, Eufy, and more take up to 35% off before Black Friday.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-21T15:20:20+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/037yH9QPNfuttlLXXXe4gR1/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
