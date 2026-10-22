@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.digitaltrends.com/phones/caldo-ai-turns-study-notes-into-learning-games-with-mindfulness/",
+    "title": "Caldo wants to fix study stress by combining learning games with guided breathing",
+    "description": "Caldo lets you play learning games and practice guided breathing without switching apps, so stress doesn’t get in the way of studying.",
+    "categories": [
+      "Gadgets & Hardware",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-22T08:23:24+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Caldo-app.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2293801/fortnite-is-back-on-apple-australian-app-store-following-court-ruling/",
+    "title": "Fortnite is back on Apple's Australian App Store following court ruling",
+    "description": "Fortnite is back on the App Store in Australia after a federal court ordered Apple to open its iOS ecosystem up to competition.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T08:18:58+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/fortnite-is-back-on-apples-australian-app-store-following-court-ruling/l-intro-1792656974.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261022/p10#a261022p10",
     "title": "iPhone Duo review: the outer device is by far the worst iPhone Apple has ever made, while the inner device is a splendid tablet with a UI that bests the iPad's (John Gruber/Daring Fireball)",
     "description": "John Gruber / Daring Fireball:\niPhone Duo review: the outer device is by far the worst iPhone Apple has ever made, while the inner device is a splendid tablet with a UI that bests the iPad's  —  The very nature of the iPhone Duo raises numerous obvious questions about what it's like to use.  Does it not feel thick and heavy, awkward both to pocket and unpocket?",
@@ -310,8 +334,8 @@
   },
   {
     "link": "https://www.techmeme.com/261021/p60#a261021p60",
-    "title": "AWS analysts claim that at least one actor started to exploit the PHP2Shell bugs on October 17, four days prior to the vulnerabilities' public disclosure (Lily Hay Newman/Wired)",
-    "description": "Lily Hay Newman / Wired:\nAWS analysts claim that at least one actor started to exploit the PHP2Shell bugs on October 17, four days prior to the vulnerabilities' public disclosure  —  Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago.  They're now being “broadly exploited” across the internet.",
+    "title": "AWS analysts say that at least one actor attempted to exploit the PHP2Shell vulnerabilities on October 17, four days before their public disclosure and patching (Lily Hay Newman/Wired)",
+    "description": "Lily Hay Newman / Wired:\nAWS analysts say that at least one actor attempted to exploit the PHP2Shell vulnerabilities on October 17, four days before their public disclosure and patching  —  Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago.  They're now being “broadly exploited” across the internet.",
     "categories": [
       "Tech News"
     ],
@@ -2221,29 +2245,5 @@
     "pub_date": "2026-10-21T17:00:15+00:00",
     "image_url": "https://media.wired.com/photos/6ad8d105b20b46511fb6b20d/master/pass/Best%20Time%20to%20Buy%20an%20Art%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.theverge.com/column/1015563/blood-death-clock-longevity-apps-health-tech",
-    "title": "They want your blood",
-    "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. It's an overcast Saturday morning when I give my 12th vial of blood for testing in six weeks. It's my",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-21T17:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268812_Everybody_wants_my_blood_CVirginia4.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
-    "title": "Waymo starts offering rides at the Las Vegas airport",
-    "description": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-21T16:59:44+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
