@@ -1,5 +1,54 @@
 [
   {
+    "link": "https://www.digitaltrends.com/gaming/nintendo-switch-2-jailbreak-ai-codex/",
+    "title": "Nintendo Switch 2 jailbreak breakthrough shows what AI can do, but it’s not a one-click hack",
+    "description": "The Nintendo Switch 2 has reportedly been jailbroken with help from OpenAI's Codex, opening the door to homebrew and game modding, but limitations remain.",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-22T11:58:55+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/03/DT-100.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/nebius-loan-citi-3-5-billion-gpus-data-centres",
+    "title": "Nebius borrows $3.5bn from Citi as it says AI compute prices keep rising",
+    "description": "Nebius has signed a $3.5 billion loan facility with Citi to build more data centres and buy GPUs. The Amsterdam-based AI cloud company announced the deal on Thursday. The secured facility runs for 364 days. Interest starts at the Term SOFR benchmark rate plus 2.75% a year. That margin can rise to 3.50%, subject to",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-22T11:56:11+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/marc-boroditsky-nebius-chief-revenue-officer-speaking-yellow-screen.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/tangerine-for-mac-makes-file-conversions-seamless-with-a-simple-drag-and-drop-gesture/",
+    "title": "Tangerine for Mac makes file conversions seamless with a simple drag-and-drop gesture",
+    "description": "Tangerine makes converting and editing files on your Mac easier with a handy radial menu that appears when you drag files while holding Shift. It offers a wide range of tools, but its $29.99 price tag might be hard to justify.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T11:53:44+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Tangerine-file-conversion-utility-for-mac-featured-1.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/tesla-optimus-academy-training-toddler-musk",
+    "title": "Musk says training Tesla’s Optimus robots is like raising a toddler",
+    "description": "Tesla needs to build between 10,000 and 20,000 Optimus humanoid robots so they can learn to perform tasks through practice, Elon Musk said during the company’s third-quarter earnings call on 21 October. Tesla has only recently started production on a new Optimus line in Fremont, California. “In order for Optimus to get the training data",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T11:49:28+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/elon-musk-microphone-stage-signature-t-shirt.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/10/22/iphone-duo-reviews-the-absolute-best-foldable-phone-but-not-without-compromise/",
     "title": "iPhone Duo reviews: The absolute best foldable phone, but not without compromise",
     "description": "We posted our own review of the iPhone Duo yesterday, and Chance Miller was left convinced that “this form factor represents the future of the iPhone,” while acknowledging that the first-gen iPhone Duo comes with trade-offs.\n\n\n\nI think what surprised me most is the degree of consensus found across the reviews, given the generally polarized appeal of foldable phones. That’s not to say reviewers think everyone should buy one, but there is widespread agreement on the pros and cons – starting with five key takeouts …\n\n\n\n more…",
@@ -23,6 +72,18 @@
     "source_name": "DIGITALTRENDS.COM"
   },
   {
+    "link": "https://thenextweb.com/news/spotify-subscribers-q3-306-million-podcast-memberships",
+    "title": "Spotify hits 306 million subscribers and expects 316 million by year end",
+    "description": "Spotify ended the third quarter with 306 million paying subscribers, up 9% from a year earlier, according to its third-quarter update, published on Thursday. Monthly active users rose 11% to 788 million. Revenue grew 16% to €4.97 billion, or 14% at constant exchange rates. Spotify subscribers grew by 6 million in the quarter, a million",
+    "categories": [
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-22T11:42:56+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/alex-norstrom-gustav-soderstrom-spotify-co-ceos-investor-day-2026.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/nordvpns-black-friday-deal-gives-business-travelers-3-bonus-months",
     "title": "NordVPN’s Black Friday deal gives business travelers 3 bonus months",
     "description": "NordVPN’s running its Black Friday sale, and its Prime / Ultimate Max plan with Cyber Insurance it's a must for business travelers working on the move.",
@@ -43,6 +104,17 @@
     "pub_date": "2026-10-22T11:35:02+00:00",
     "image_url": "http://www.techmeme.com/261022/i19.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+    "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+    "description": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-22T11:30:33+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1237260150-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://www.techradar.com/pro/ai-isnt-having-much-of-an-effect-on-company-profits-which-is-putting-more-scrutiny-on-why-bosses-should-pay-for-it",
@@ -78,6 +150,19 @@
     "pub_date": "2026-10-22T11:16:13+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/elon-musk-vivatech-2023-steepled-hands-black-background.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/",
+    "title": "UN says we're going to blow past 1.5º warming, offers a \"now what?\" answer",
+    "description": "Best case is now an overshoot to 1.8º C, accompanied by massive carbon removal.",
+    "categories": [
+      "Breaking News",
+      "Government & Policy",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-22T11:15:36+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2170672849-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://mashable.com/tech/anthropic-claude-duet-announced",
@@ -555,6 +640,7 @@
     "title": "Musk says you can’t just buy the Cybercab. It’s primarily for Tesla-owned cab service",
     "description": "Tesla hopes to deliver Cybercabs to customers this year, but Musk says almost all will stay in its own fleet.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-22T09:01:27+00:00",
@@ -2181,84 +2267,5 @@
     "pub_date": "2026-10-21T20:10:00+00:00",
     "image_url": "http://www.techmeme.com/261021/i46.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/21/ios-27-2-reveals-apples-messages-app-could-soon-get-highly-requested-change/",
-    "title": "iOS 27.2 reveals Apple’s Messages app could soon get highly requested change",
-    "description": "iOS 27.2 launches next week, and the update includes code that points to a forthcoming Messages app change: the ability to exclude muted conversations from the unread badge count.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-21T20:05:13+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
-    "title": "Airbnb bans making guests do dishes and take out the trash",
-    "description": "Checking out of your next Airbnb might be less of a hassle now that the company is banning hosts from including time-consuming chores in their house rules. Airbnb's updated house rules policy, which starts with reservations booked on or after November 20th, says hosts can't ask guests to \"complete tasks that require significant effort or",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-21T19:54:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-    "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-    "description": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-10-21T19:53:20+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
-    "title": "GM is betting compute and AI will help it compete with Chinese automakers",
-    "description": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-21T19:52:20+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.cnet.com/science/space/euclid-telescope-accidentally-found-comet/",
-    "title": "The ESA’s Euclid Telescope Discovered a New Comet Completely by Accident",
-    "description": "It was identified in Euclid telescope imagery using software designed to detect moving objects.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-21T19:50:39+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Euclid_looking_into_the_Universe_ESA24697255.jpeg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261021/p45#a261021p45",
-    "title": "OpenAI, PerturbAI, and Scripps say thousands of GPT-Rosalind agents analyzed data on millions of mouse brain cells in 32 minutes, a job that takes humans months (OpenAI)",
-    "description": "OpenAI:\nOpenAI, PerturbAI, and Scripps say thousands of GPT-Rosalind agents analyzed data on millions of mouse brain cells in 32 minutes, a job that takes humans months  —  How OpenAI, PerturbAI, and Scripps Research used distributed AI agents to help scientists identify promising research leads in data from millions of brain cells",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-21T19:45:01+00:00",
-    "image_url": "http://www.techmeme.com/261021/i45.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
-    "title": "The new human-crafted Apple Music brand matters in an AI world",
-    "description": "Opinion: In a world of AI slop, showing the human hands making things helps.",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-21T19:44:40+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/apple-music-rebrand-icon-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
