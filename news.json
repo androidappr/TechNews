@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.techmeme.com/261021/p60#a261021p60",
+    "title": "AWS analysts claim that at least one actor started to exploit the PHP2Shell bugs on October 17, four days prior to the vulnerabilities' public disclosure (Lily Hay Newman/Wired)",
+    "description": "Lily Hay Newman / Wired:\nAWS analysts claim that at least one actor started to exploit the PHP2Shell bugs on October 17, four days prior to the vulnerabilities' public disclosure  —  Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago.  They're now being “broadly exploited” across the internet.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T02:50:01+00:00",
+    "image_url": "http://www.techmeme.com/261021/i60.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
     "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
     "description": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They're now being “broadly exploited” across the internet.",
@@ -412,7 +423,6 @@
     "description": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-21T22:51:22+00:00",
@@ -448,7 +458,6 @@
     "description": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Social & Media"
     ],
@@ -817,7 +826,6 @@
     "title": "Anthropic unveils Claude Duet, a proactive agent app on iOS, Android, and the web that works in the background, in research preview for US Pro and Max users (Claude)",
     "description": "Claude:\nAnthropic unveils Claude Duet, a proactive agent app on iOS, Android, and the web that works in the background, in research preview for US Pro and Max users  —  A research preview is available by waitlist today, starting with US Pro and Max subscribers.  —  Join the waitlist … ShareCopy link",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-21T21:01:02+00:00",
@@ -895,7 +903,6 @@
     "title": "Filing: Mark Zuckerberg commits to staying in Meta's HQ jurisdiction in return for nonvoting shares; he weighed leaving California over a proposed wealth tax (Bloomberg)",
     "description": "Bloomberg:\nFiling: Mark Zuckerberg commits to staying in Meta's HQ jurisdiction in return for nonvoting shares; he weighed leaving California over a proposed wealth tax  —  Meta Platforms Inc. signed an agreement with Mark Zuckerberg to keep him living in the same jurisdiction as the company's headquarters …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-21T20:50:03+00:00",
@@ -918,7 +925,6 @@
     "title": "Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement",
     "description": "Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings report released on Wednesday, which says Meta's income from operations would have been $22.89 billion without the settlement. In August, Meta agreed to pay $17.1",
     "categories": [
-      "Breaking News",
       "Government & Policy",
       "Social & Media"
     ],
@@ -2268,16 +2274,5 @@
     "pub_date": "2026-10-21T16:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/supernaturals-vr-exercise-app-has-relaunched-on-meta-vr-headsets/l-intro-1792598064.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/computing/supernatural-restart-the-vr-fitness-app-is-back-as-vr-itself-starts-to-change/",
-    "title": "Supernatural Restart: The VR Fitness App Is Back as VR Itself Starts to Change",
-    "description": "Exclusive: Supernatural is relaunching in early access and could expand beyond Meta Quest headsets. Meanwhile, Meta VR Glasses could shape what comes next for fitness.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-21T16:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/SN_Leanne_Glasses_5.png",
-    "source_name": "CNET.COM"
   }
 ]
