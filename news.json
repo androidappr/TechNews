@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.digitaltrends.com/gaming/xbox-cloud-gaming-gets-a-standalone-pay-as-you-go-option/",
+    "title": "Xbox Cloud Gaming gets a standalone pay-as-you-go option",
+    "description": "Microsoft may already be putting pieces of its rumored Game Pass overhaul into place. A recent report claimed that Xbox CEO Asha Sharma is planning a major rethink of the subscription service that could let players pay separately for features such as cloud gaming, multiplayer, and console-only games. Xbox has now started testing a pay-as-you-go",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-22T03:38:53+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Xbox-Cloud-Gaming-Official.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/nyt-connections-sports-edition-hint-answer-today-october-22-2026",
+    "title": "NYT Connections Sports Edition today: Hints and answers for October 22, 2026",
+    "description": "Connections: Sports Edition is a New York Times word game about finding common sports threads between words. How to solve the day's puzzle.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T03:16:48+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/06o3Cni1Ny7Q3JX8MVQxpBP/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://mashable.com/entertainment/pips-nyt-games-hints-answers-easy-medium-hard-october-22-2026",
     "title": "NYT Pips hints, answers for October 22, 2026",
     "description": "The New York Times' latest game, Pips, brings domino fun to your desktop. How to play Pips as well as hints in case you get stuck.",
@@ -49,7 +73,7 @@
   {
     "link": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
     "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
-    "description": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They're now being “broadly exploited” across the internet.",
+    "description": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
     "categories": [
       "AI & Machine Learning",
       "Cybersecurity & Privacy"
@@ -114,18 +138,6 @@
     ],
     "pub_date": "2026-10-22T02:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/00iN0YSBn0tjVM57bGZGS9D/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-october-22-2026",
-    "title": "NYT Connections hints today: Clues, answers for October 22, 2026",
-    "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T02:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03SFPjpahvTv4gN3Xju6Uvd/hero-image.jpg",
     "source_name": "MASHABLE.COM"
   },
   {
@@ -605,6 +617,7 @@
     "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
     "description": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
     "categories": [
+      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-10-21T22:06:07+00:00",
@@ -2253,19 +2266,5 @@
     "pub_date": "2026-10-21T16:05:51+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268305_Supernatural_Sherry_LPhilomene_0024.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/php-foundation-structural-failure-2024-flaw-leak",
-    "title": "PHP knew about one of the flaws in 2024 but could not agree a fix",
-    "description": "The PHP Foundation has given an unusually frank account of the emergency behind this week’s patches. It said it had found one of the two critical flaws two years ago, in 2024. Then it spent months unable to agree on how to repair it. The admission came in a blog post from the Foundation on",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Cybersecurity & Privacy",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-21T16:02:04+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/php-foundation-wordmark-6758f5.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
