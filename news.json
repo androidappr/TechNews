@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.cnet.com/tech/services-and-software/meta-muse-ai-agent-shopping-earnings/",
+    "title": "Tons of People Are Apparently Asking Meta’s Muse AI Agent to Shop for Them",
+    "description": "A quarter of Meta Muse’s 10 million users are shopping online via the AI agent with an average spend of $200 per purchase, according to Mark Zuckerberg.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-22T00:30:25+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/mark-zuckerberg-meta-muse-GettyImages-2296209094.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/computing/anthropic-unveils-claude-duet-ai-agent/",
     "title": "Anthropic unveils Claude Duet, its answer to AI agents like Dots",
     "description": "The AI race has taken an interesting turn lately, with frontier labs now competing to build agents that can keep working even when you are not actively talking to them. Meta helped push that idea into the spotlight with Muse, OpenAI followed soon after with Dots, and now Anthropic is throwing its hat in the",
@@ -10,6 +22,18 @@
     "pub_date": "2026-10-22T00:25:54+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Claude-Duet.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.cnet.com/news/politics/polls-experts-ai-data-centers-midterm-voting/",
+    "title": "AI and Data Centers Will Impact Midterm Voting, According to Experts",
+    "description": "Americans are mostly negative on AI and oppose new data centers near them, another poll shows.",
+    "categories": [
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-22T00:24:08+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2298703465.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
@@ -756,7 +780,6 @@
     "title": "Trump Isn’t Even Good at TV Anymore",
     "description": "From Trump TV to a Shark Tank knockoff, the president’s latest entertainment ventures are a steep decline from his days on The Apprentice.",
     "categories": [
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-10-21T20:38:01+00:00",
@@ -793,7 +816,6 @@
     "title": "Tesla starts Optimus robot production in California as profit falls 43%",
     "description": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-21T20:33:09+00:00",
@@ -1226,7 +1248,6 @@
     "title": "YouTube is making the dislike button harder to find on regular videos",
     "description": "Some YouTube users are seeing the dislike button tucked away in a menu, raising questions about whether the platform is limiting how easily viewers can express negative feedback.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-21T18:43:13+00:00",
@@ -1282,7 +1303,6 @@
     "title": "The best iPhone Duo cases for protecting your precious new foldable, starting from just $30",
     "description": "Are you getting Apple's new foldable? We've rounded up a list of the best iPhone Duo cases from brands like Casetify and OtterBox.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-21T18:35:53+00:00",
@@ -1306,7 +1326,6 @@
     "title": "PHP vulnerability: Which websites and services are affected?",
     "description": "PHP security flaws have prompted websites and gaming services to go offline. Here’s which disruptions are linked to the vulnerabilities.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-21T18:32:30+00:00",
@@ -2285,27 +2304,5 @@
     "pub_date": "2026-10-21T15:36:33+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/pL5rBKGq88cnoqgdJgCXGS-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/21/apple-music-unveils-new-design-rebrand-with-logo-made-by-sound/",
-    "title": "Apple Music unveils new design rebrand, with logo ‘made by sound’",
-    "description": "Apple Music has officially launched its rebrand with a new design, logo, and more. And in a video detailing the rebrand, Apple reveals the new look was actually “made by sound.”\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-21T15:35:18+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-music-rebrand-logo-new.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261021/p37#a261021p37",
-    "title": "The PHP Foundation details how it found and fixed the two flaws, and says it had to release patches a day early after the two CVE IDs began circulating online (The PHP Foundation)",
-    "description": "The PHP Foundation:\nThe PHP Foundation details how it found and fixed the two flaws, and says it had to release patches a day early after the two CVE IDs began circulating online  —  Earlier today, the PHP project released PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35.  These releases fix two critical vulnerabilities that …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-21T15:35:04+00:00",
-    "image_url": "http://www.techmeme.com/261021/i37.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
