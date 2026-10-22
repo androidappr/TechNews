@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.techradar.com/pro/microsoft-helped-shut-down-an-app-store-for-criminals-linked-to-over-a-billion-malicious-messages",
+    "title": "Microsoft helped shut down an “App Store” for criminals linked to over a billion malicious messages",
+    "description": "Microsoft’s joint op with the Japanese National Police Agency uncovered an illegal “app store” that provided fake websites, cybercrime tools, and even accounts to cybercriminals.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-22T19:20:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/cAewSdXkrLEUsD8muVzGX9-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
     "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
     "description": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
@@ -59,6 +70,18 @@
       "Breaking News",
       "Business & Startups",
       "Software & Apps"
+    ],
+    "pub_date": "2026-10-22T19:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "description": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
     ],
     "pub_date": "2026-10-22T19:00:00+00:00",
     "image_url": null,
@@ -1354,7 +1377,6 @@
     "description": "Hackers were already probing the bug before defenders were told it existed.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-10-22T15:25:02+00:00",
@@ -1366,7 +1388,6 @@
     "title": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
     "description": "Spotify told investors its rollout of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
     "categories": [
-      "Breaking News",
       "Social & Media",
       "Software & Apps"
     ],
@@ -1379,7 +1400,6 @@
     "title": "The latest PowerToys gives your mouse 2 new tricks for free – how to use them",
     "description": "PowerToys is one of my favorite free Windows utilities. With more than 30 tools, it offers something for everyone from beginners to power users. Here’s what’s new for mousing.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-22T15:17:56+00:00",
@@ -1392,7 +1412,6 @@
     "description": "Universal Music Group (UMG) will license music from its artists and songwriters to TYGER. The service uses AI to make songs follow the action in a video game as people play. The two companies announced the deal today, with UMG the first major music company to license the service, they said. Under the agreement, selected recordings",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Gaming"
     ],
@@ -1927,7 +1946,6 @@
     "title": "Apple reportedly boosts iPhone Duo orders by more than 40% given strong demand",
     "description": "Supply chain reports suggest that Apple has increased iPhone Duo orders by more than 40% in response to what the company described as “extraordinary” pre-order demand.\n\n\n\nDelivery dates started slipping literally within a minute or so of pre-orders opening, and it wasn’t immediately clear whether this reflected high demand or poor supply. This latest report seems to point firmly to the former … \n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-22T13:29:29+00:00",
@@ -2332,27 +2350,5 @@
     "pub_date": "2026-10-22T12:37:15+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/01TZlbabAeBhVrt2iu7CQ3z/hero-image.png",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261022/p22#a261022p22",
-    "title": "Israeli security company Lava finds 32 Nvidia Blackwell Ultra B300 chips connected to systems linked to state-owned operator China Telecom, despite US controls (Qianer Liu/The Information)",
-    "description": "Qianer Liu / The Information:\nIsraeli security company Lava finds 32 Nvidia Blackwell Ultra B300 chips connected to systems linked to state-owned operator China Telecom, despite US controls  —  Israeli security firm Lava said it found 32 Nvidia Blackwell Ultra B300 chips through monitoring systems linked to the network of China Telecom …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T12:35:08+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/were-removing-the-friction-between-creator-vision-and-spatial-execution-audeze-and-audiokinetic-are-introducing-native-head-tracking-support-for-the-maxwell-2-anc-headset-directly-inside-wwise",
-    "title": "'We’re removing the friction between creator vision and spatial execution' — Audeze and Audiokinetic are introducing native head-tracking support for the Maxwell 2 ANC headset directly inside Wwise",
-    "description": "Audeze has announced a new partnership with Audiokinetic to introduce native head-tracking support for the Audeze Maxwell 2 ANC headset directly inside Wwise.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-22T12:32:15+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ckwmE98MES8vMVBh676Ujg-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
