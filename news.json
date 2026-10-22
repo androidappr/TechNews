@@ -1,5 +1,42 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1016798/php-vulnerabilities-exploit-patch",
+    "title": "The disastrous PHP vulnerabilities were exploited days before the patch",
+    "description": "Hackers attempted to exploit the PHP flaws impacting sites across the web days before they were patched, according to a report from Amazon Threat Intelligence. CJ Moses, Amazon chief information security officer, writes that the company's security team found a PHP2Shell exploit attempt on October 17th through a monitoring system designed to bait hackers, as",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-22T16:49:48+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+    "description": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-22T16:47:17+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/1password-wants-ai-agents-to-handle-logins-without-ever-taking-a-peek-at-your-passwords/",
+    "title": "1Password wants AI agents to handle logins without ever taking a peek at your passwords",
+    "description": "The next chapter of AI is knocking on our doors, as AI agents like Meta Muse, OpenAI Dots, Gemini Spark, among others, are becoming mainstream, and they are genuinely quite useful for a lot of things, ranging from being your personal assistant all the way to helping you manage a small business. However, many are",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T16:46:47+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/1Password-for-Agents.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261022/p40#a261022p40",
     "title": "Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively (Lauren Feiner/The Verge)",
     "description": "Lauren Feiner / The Verge:\nFilings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively  —  Collectively, they spent nearly $6 million around cybersecurity, child safety, and more. … It was a busy summer for AI lobbyists.",
@@ -10,6 +47,18 @@
     "pub_date": "2026-10-22T16:40:00+00:00",
     "image_url": "http://www.techmeme.com/261022/i40.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/best-early-black-friday-walmart-deals-2026",
+    "title": "Early Walmart Black Friday deals 2026: Shop the best deals on Apple, LG, Dyson, and more",
+    "description": "Early Walmart Black Friday deals are officially live. Save up to $1,300 on LG OLED TVs, AirPods Pro 3, Dyson vacuums, Apple Watch Series 11, and more before Black Friday.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T16:37:36+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/02hcHW67SxH91cTP0J4Q948/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techmeme.com/261022/p39#a261022p39",
@@ -24,6 +73,17 @@
     "source_name": "TECHMEME.COM"
   },
   {
+    "link": "https://mashable.com/entertainment/cyberpunk-edgerunners-2-ending-explained",
+    "title": "Cyberpunk: Edgerunners 2 ending, explained: Who dies, and who lives to tell their story?",
+    "description": "Who dies in \"Cyberpunk: Edgerunners 2,\" and who survives? We unpack D and Capri's ambiguous fate, Talia's future, and Roman's final moments.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T16:30:37+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/05f9wgXSqiLH3OLozw1JtMT/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-the-celebrity-traitors-season-2-episode-7-stream-free-from-anywhere",
     "title": "How to watch The Celebrity Traitors season 2 episode 7  – Stream free from anywhere",
     "description": "Here's how to watch Episode 7 of The Celebrity Traitors online and for FREE with Claudia Winkleman hosting another 21 celebs at her Scottish castle.",
@@ -33,6 +93,18 @@
     "pub_date": "2026-10-22T16:30:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/9NZHmgZMQmecTKymbnJbj9-1920-80.png",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/php-vulnerability-security-update-explained",
+    "title": "PHP vulnerability: PHP security issues today explained",
+    "description": "The PHP Foundation released emergency fixes for two critical security flaws, which leaked before websites could be secured. Here’s what happened.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T16:26:24+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/04Uaguf0cPth1KEDpksoGHy/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techmeme.com/261022/p38#a261022p38",
@@ -79,6 +151,18 @@
     "pub_date": "2026-10-22T16:22:50+00:00",
     "image_url": "https://www.engadget.com/img/gallery/sundar-pichai-allegedly-draws-the-line-at-oceans/l-intro-1792685934.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
+    "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses",
+    "description": "This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T16:20:37+00:00",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/gravitational-lens/Hubble_Gravitational-Lens_DES%20J194.5345+03.5358_callout.jpg?w=2048&h=1583&fit=clip&crop=faces%2Cfocalpoint",
+    "source_name": "SCIENCE.NASA.GOV"
   },
   {
     "link": "https://www.techmeme.com/261022/p37#a261022p37",
@@ -164,7 +248,7 @@
   {
     "link": "https://www.theverge.com/policy/1016751/trump-rename-atlantic-ocean-sundar-pichai-google",
     "title": "Trump says Sundar Pichai talked him out of renaming the Atlantic Ocean",
-    "description": "After renaming Lake Ontario and the Gulf of Mexico on Google Maps following Trump's executive orders, Google CEO Sundar Pichai might be drawing the line at the Atlantic Ocean. As reported earlier by the Washington Post, Trump said at a Wednesday night rally that he would \"probably pass\" on renaming the Atlantic after he contacted",
+    "description": "After renaming Lake Ontario and the Gulf of Mexico on Google Maps following Trump's executive orders, Google CEO Sundar Pichai might be drawing the line at the Atlantic Ocean. As reported earlier by The Washington Post, Trump said at a Wednesday night rally that he would \"probably pass\" on renaming the Atlantic after he contacted",
     "categories": [
       "Breaking News",
       "Government & Policy"
@@ -245,9 +329,10 @@
   },
   {
     "link": "https://www.digitaltrends.com/phones/someone-folded-the-iphone-duo-over-11000-times-and-the-crease-did-exactly-what-many-feared/",
-    "title": "Someone folded the iPhone Duo over 11,000 times, and the crease did exactly what many feared",
+    "title": "iPhone Duo’s foldable screen is not perfect, after all. But the crease might take a few years to become an eyesore.",
     "description": "Two fold tests say Apple’s hinge is built to last, but the matte screen can’t fully hide a growing crease.",
     "categories": [
+      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-22T15:59:16+00:00",
@@ -329,6 +414,7 @@
     "title": "VPN Deal of the Week: NordVPN's Black Friday VPN deal has landed — and I'm not sure another deal will offer more",
     "description": "VPN, password management, cloud storage, and identity security in one package",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-22T15:49:56+00:00",
@@ -350,7 +436,7 @@
   {
     "link": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
     "title": "Tesla is prepping a Cybercab onslaught",
-    "description": "The company is looking to roll the gold two-seater robotaxis out to other U.S. cities this year, even as it goes mum on the number of paid rides.",
+    "description": "The company is looking to roll out the gold two-seater robotaxis to other U.S. cities this year, even as it goes mum on the number of paid rides.",
     "categories": [
       "Tech News"
     ],
@@ -393,18 +479,6 @@
     "source_name": "9TO5MAC.COM"
   },
   {
-    "link": "https://mashable.com/tech/php-vulnerability-security-update-explained",
-    "title": "PHP vulnerability: PHP security issues today explained",
-    "description": "The PHP Foundation released emergency fixes for two critical security flaws, which leaked before websites could be secured. Here’s what happened.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T15:36:02+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04Uaguf0cPth1KEDpksoGHy/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
     "link": "https://www.techradar.com/pro/security/security-breach-at-ai-aggregator-exposes-over-18-million-files-including-some-very-embarrassing-chat-records",
     "title": "Security breach at AI aggregator exposes over 18 million files, including some very embarrassing chat records",
     "description": "An AI aggregator kept an open database unprotected on the internet containing personally identifiable information and some embarassing chat logs.",
@@ -421,6 +495,7 @@
     "title": "Deals: MacBook Pro $900 off, Apple Pencil (USB-C) from $61, Apple TV 4K, MacBook Neo, more",
     "description": "You can still lock in your Apple TV 4K pre-order discount before delivery dates slip ever further, much like the new HomeView, and we also have AirPods Pro 3 at $50 off. But today’s 9to5Toys Lunch Break is headlined by iPhone Duo-ready Apple Pencil (USB-C) as low as $61 at Amazon (more details here), alongside a giant $900 price drop at Amazon on this 36GB M5 Max MacBook Pro (the lowest price ever). We have MacBook Neo at $120 off courtesy of the Apple refurb store, these 240W USB-C cables with mini displays at just $12 each, and much more below. \n\n\n\n more…",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-22T15:32:25+00:00",
@@ -465,7 +540,7 @@
   {
     "link": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
     "title": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
-    "description": "Spotify told investors its roll out of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
+    "description": "Spotify told investors its rollout of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
     "categories": [
       "Breaking News",
       "Social & Media",
@@ -586,17 +661,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://www.techradar.com/gaming/secretlabs-new-league-of-legends-k-da-firestarter-collection-is-a-gorgeous-new-addition-to-its-titan-evo-and-magnus-pro-series-heres-where-to-get-your-matching-set",
-    "title": "Secretlab's new League of Legends K/DA Firestarter collection is a gorgeous new addition to its Titan Evo and Magnus Pro series — here's where to get your matching set",
-    "description": "Secretlab is expanding its Secretlab Titan Evo and Magnus Pro series with a new League of Legends collection inspired by the game's virtual pop group, K/DA.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-22T15:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/uHUX9CYbgBZtGwBYYYhr4C-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/gaming/stranger-than-heaven-director-says-the-games-combat-was-inspired-by-old-ninkyo-yakuza-movies-because-the-raw-and-gritty-action-scenes-fit-daitos-character-as-an-inexperienced-fighter-we-felt-that-atmosphere-was-what-made-those-genres-special",
     "title": "Stranger Than Heaven director says the game's combat was inspired by old 'Ninkyo' Yakuza movies because the 'raw and gritty' action scenes fit Daito's character as an inexperienced fighter — 'We felt that atmosphere was what made those genres special'",
     "description": "Stranger Than Heaven director Mikinobu Abe has revealed that classic \"Ninkyo\" yakuza movies inspired the upcoming action game's combat system.",
@@ -605,6 +669,17 @@
     ],
     "pub_date": "2026-10-22T15:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/uFoycZW2Q9dr7vK9cfCSC-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/secretlabs-new-league-of-legends-k-da-firestarter-collection-is-a-gorgeous-new-addition-to-its-titan-evo-and-magnus-pro-series-heres-where-to-get-your-matching-set",
+    "title": "Secretlab's new League of Legends K/DA Firestarter collection is a gorgeous new addition to its Titan Evo and Magnus Pro series — here's where to get your matching set",
+    "description": "Secretlab is expanding its Secretlab Titan Evo and Magnus Pro series with a new League of Legends collection inspired by the game's virtual pop group, K/DA.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-10-22T15:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/uHUX9CYbgBZtGwBYYYhr4C-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -874,6 +949,17 @@
     "source_name": "TECHMEME.COM"
   },
   {
+    "link": "https://mashable.com/life/le-sserafim-huh-yunjin-emily-fan-spotify-fandom-podcasting-interview",
+    "title": "LE SSERAFIMs Huh Yunjin and creator Emily Fan know that fandom is personal",
+    "description": "LE SSERAFIM's HUH YUNJIN and creator Emily Fan talk exclusively with Mashable about Spotify's Show Notes, K-pop podcasting, and building lasting fan communities.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-22T14:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01MqsEP1oDvmPFcnlm1aVzY/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
     "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
     "description": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The turbulent AI era is",
@@ -886,17 +972,6 @@
     "pub_date": "2026-10-22T14:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bill_Gates_NQuamina-Woo_0007_a8ca1f.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://mashable.com/life/le-sserafim-huh-yunjin-emily-fan-spotify-fandom-podcasting-interview",
-    "title": "LE SSERAFIMs Huh Yunjin and creator Emily Fan know that fandom is personal",
-    "description": "LE SSERAFIM's HUH YUNJIN and creator Emily Fan talk exclusively with Mashable about Spotify's Show Notes, K-pop podcasting, and building lasting fan communities.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T14:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01MqsEP1oDvmPFcnlm1aVzY/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.digitaltrends.com/computing/ai-chatbots-are-falling-prey-to-manipulative-prompts-that-could-help-stalkers-spy-on-victims/",
@@ -1173,7 +1248,6 @@
     "description": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy",
       "Science & Environment"
     ],
@@ -1208,8 +1282,7 @@
     "title": "1Password will let you hand your data security over to your preferred AI agent",
     "description": "If you're willing to let AI book or buy things on your behalf, 1Password just made that easier.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-22T13:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/1password-opens-up-ai-agents-muse-dots-grok/l-intro-1792677756.jpg",
@@ -1232,7 +1305,6 @@
     "title": "The Mori Is a Mushroom-Shaped AI Lamp Companion, and I’m Smitten",
     "description": "The $849 Mori is designed to respond to your environment, knowing when to play and when to stay quiet.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-22T13:00:00+00:00",
@@ -1244,8 +1316,7 @@
     "title": "EXCLUSIVE: How Klara and the Sun warns of a future where humans compete with AI",
     "description": "Taika Waititi and Jenna Ortega's sci-fi film, Klara and the Sun, offers a chilling warning about AI being used to replace people in a society obsessed with perfection.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-22T13:00:00+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Jenna-Ortega-in-the-2026-film-Klara-and-the-Sun-scaled.jpg?resize=440%2C292&ssl=1",
@@ -2278,73 +2349,5 @@
     "pub_date": "2026-10-22T09:31:41+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/barclays-logo-tower.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/goldmund-preamp-costs-more-than-a-sports-car/",
-    "title": "This Preamp Costs More Than a Fancy Sports Car",
-    "description": "Goldmund’s $240,000 Mimesis Statement is an exercise in extreme Swiss sound engineering—and only one part of a $1.5 million audio setup.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T09:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ad8a5e5a9fa5fe98ee99914/master/pass/Mimesis%20Statement%20_%20Telos%209800%20_%20Theia%20Passive%20SOURCE%20Simon%20Lucas.jpeg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/ai-entry-level-work-finance-basware",
-    "title": "What happens when AI takes over the entry-level work?",
-    "description": "Finance professionals used to learn their jobs by doing the work themselves. They processed invoices, reconciled accounts, investigated exceptions, chased approvals, and gradually developed the judgment needed to handle more complex situations. The work was often repetitive, but it trained the next generation of finance leaders. Artificial intelligence is changing that process. Across finance departments,",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T09:21:37+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/blue-fibre-optic-light-strands-abstract.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-22-anker-solix-c300-power-station-deal",
-    "title": "The Anker Solix C300 power station is under $200 at Amazon — save $50.01",
-    "description": "Get the best portable power station deal. Save 20% on the Anker Solix C300 at Amazon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T09:15:13+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02Ia7w7aoJXNw6ZsfZiJSjr/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-22-shokz-openrun-headphones-deal",
-    "title": "Running in the dark? The Shokz OpenRun Pro headphones are $70 off at Amazon.",
-    "description": "Get the best running headphones deal. Save 39% on the SHOKZ OpenRun Pro at Amazon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T09:10:56+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07BzAwq33mk5GUSuDWcNdUE/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/publishers-eu-uk-regulators-meta-ai-terms",
-    "title": "European publishers ask EU and UK regulators to stop Meta’s AI terms",
-    "description": "Europe’s biggest news publishers are asking regulators in the EU and UK to stop Meta from introducing new business terms that they fear could allow the company to copy content from their websites for use in AI products. The changes are due to take effect on 30 October. The European Publishers Council (EPC) sent a",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-10-22T09:08:06+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/eu-flags-waving-blue-sky.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-22-amazon-fire-stick-4k-deal",
-    "title": "The Fire TV Stick 4K is 50% off before Black Friday — shop for $29.99 at Amazon",
-    "description": "Get the best streaming deal at Amazon. Save 50% on the Amazon Fire Stick 4K.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T09:06:07+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/073VPw2TMZjoKaMIjXJ7VzI/hero-image.png",
-    "source_name": "MASHABLE.COM"
   }
 ]
