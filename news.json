@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://www.wired.com/story/the-exotic-physics-behind-a-mysterious-1000-mile-cloud-on-mars/",
+    "title": "The ‘Exotic Physics’ Behind a Mysterious 1,000-Mile Cloud on Mars",
+    "description": "The cloud has baffled astronomers since its discovery in 2018. Now, a new study offers a possible cause for its appearance.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-23T09:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ad9cc2f43ef58c4a17cefed/master/pass/Mars_Express_views_the_most_striking_cloud_on_Mars.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/apple-iphone-duo-on-sale-supply-reviews",
+    "title": "Apple’s iPhone Duo goes on sale with tight supply and mixed reviews",
+    "description": "Apple’s first foldable phone, the iPhone Duo, went on sale on Friday, October 23, at a starting price of $1,999. Sydney was the first Apple Store to sell it, opening its doors at 08:00 local time (21:00 GMT on Thursday) to a queue of buyers. The launch will show whether Apple can grow a niche",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-23T08:54:10+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/foldable-iphone-3d-render-dual-camera.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/walmart-ai-agents-shop-agent-profiles",
+    "title": "Walmart will let AI agents shop for you, with their own spending limits",
+    "description": "Walmart will let AI agents shop for customers on Walmart.com and at Sam’s Club, each with its own profile, spending limit and purchase history. The retailer announced Agent Profiles, a gateway built for agents and a set of terms they must follow on Wednesday. Chief executive John Furner presented the plans at the Masters of",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-23T08:52:27+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/walmart-ceo-john-furner-portrait-blue-blazer.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/litellm-hack-github-tokens-logs-claude-code",
+    "title": "LiteLLM says hackers poisoned it with GitHub tokens leaked via Claude Code",
+    "description": "LiteLLM says hackers took the keys they needed from its own logs. They used them to publish a poisoned version of its software on Wednesday. The open-source AI gateway explained it in an incident report. Its chief executive, chief technology officer and director of security signed it. Its engineers found that Anthropic’s coding agent, Claude",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-23T08:40:52+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/macbook-keyboard-code-editor-dark-screen.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techradar.com/vpn/vpn-privacy-security/you-thought-your-chatgpt-conversations-were-private-the-courts-disagree",
     "title": "You thought your ChatGPT conversations were private. The courts disagree.",
     "description": "A growing number of cases show your LLM chats are anything but private",
@@ -48,6 +98,17 @@
     "pub_date": "2026-10-23T08:26:12+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/meta-muse-for-small-business.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/tesla-cybertruck-australia-new-zealand-launch-cancelled",
+    "title": "Tesla cancels Cybertruck launch in Australia and New Zealand",
+    "description": "Tesla has cancelled its Cybertruck launch in Australia and New Zealand, telling customers that their preorders will be refunded.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T08:23:42+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/04JGWyD8X5NqdeEcsXfhdJw/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techradar.com/entertainment/clayface-final-form-exclusive",
@@ -157,7 +218,6 @@
     "title": "Chinese state media: DeepSeek and MiniMax completed registration and won approval to open-source and deploy AI models overseas under proposed export controls (Bloomberg)",
     "description": "Bloomberg:\nChinese state media: DeepSeek and MiniMax completed registration and won approval to open-source and deploy AI models overseas under proposed export controls  —  DeepSeek and MiniMax Group Inc. have won approval to deploy models overseas, part of a wave of homegrown AI technologies that Beijing …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-23T04:50:55+00:00",
@@ -2200,61 +2260,5 @@
     "pub_date": "2026-10-22T16:49:48+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-    "description": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-22T16:47:17+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/1password-wants-ai-agents-to-handle-logins-without-ever-taking-a-peek-at-your-passwords/",
-    "title": "1Password wants AI agents to handle logins without ever taking a peek at your passwords",
-    "description": "The next chapter of AI is knocking on our doors, as AI agents like Meta Muse, OpenAI Dots, Gemini Spark, among others, are becoming mainstream, and they are genuinely quite useful for a lot of things, ranging from being your personal assistant all the way to helping you manage a small business. However, many are",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T16:46:47+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/1Password-for-Agents.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261022/p40#a261022p40",
-    "title": "Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively (Lauren Feiner/The Verge)",
-    "description": "Lauren Feiner / The Verge:\nFilings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively  —  Collectively, they spent nearly $6 million around cybersecurity, child safety, and more. … It was a busy summer for AI lobbyists.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T16:40:00+00:00",
-    "image_url": "http://www.techmeme.com/261022/i40.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-early-black-friday-walmart-deals-2026",
-    "title": "Early Walmart Black Friday deals 2026: Shop the best deals on Apple, LG, Dyson, and more",
-    "description": "Early Walmart Black Friday deals are officially live. Save up to $1,300 on LG OLED TVs, AirPods Pro 3, Dyson vacuums, Apple Watch Series 11, and more before Black Friday.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T16:37:36+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02hcHW67SxH91cTP0J4Q948/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled/",
-    "title": "US-backed vaccine trial on babies canceled after international outcry",
-    "description": "The decried trial was canceled last week before police seized vaccine doses.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T16:37:00+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-629400903-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
