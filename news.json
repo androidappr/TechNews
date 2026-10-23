@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://www.engadget.com/2295143/greece-enacts-social-media-ban-for-kids-under-15/",
+    "title": "Greece enacts social media ban for kids under 15",
+    "description": "Greece has passed a social media ban for kids under 15 after after announcing the measure earlier this year.",
+    "categories": [
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-23T13:12:47+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/greece-enacts-social-media-ban-for-kids-under-15/l-intro-1792761065.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+    "title": "People are vibe coding their way to better TVs",
+    "description": "Vibe coding has reached TVs. Social media is awash with posts from people using LLMs and open-source tools to remove ads and tracking, trim bloat so the OS runs faster, and even completely change the look and organization of their homescreens. While a lot of it is fun - one user turned their TV homescreen",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-23T13:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/cleanyourtv-home-page.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad",
+    "title": "Netflix can’t fire its way out of this downward spiral",
+    "description": "Netflix co-CEOs Ted Sarandos and Greg Peters assured investors this week that they have nothing to be concerned about. Sure, the company was going to lay off 1,000 employees, downsizing its product, tech, and legal departments, and was ousting its chief content officer, film chairman, and film vice president. But it had also hired a",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-23T13:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2275802864.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/openai-ai-agents-mouse-brain-crispr-atlas",
     "title": "OpenAI’s AI agents analyse a mouse brain gene atlas in 32 minutes",
     "description": "OpenAI, PerturbAI and Scripps Research have used close to 2,000 AI agents to analyse a large mouse brain dataset in 32 minutes. The team estimates that researchers working by hand would need months to a year for the same analysis, which OpenAI published on Wednesday. The agents ran on OpenAI’s GPT-Rosalind, a model built for life",
@@ -904,8 +940,8 @@
   },
   {
     "link": "https://www.techmeme.com/261023/p6#a261023p6",
-    "title": "Greece's parliament passes a bill to ban social media platforms for children under 15 from 2027 and gives companies two months to verify users' ages (Angeliki Koutantou/Reuters)",
-    "description": "Angeliki Koutantou / Reuters:\nGreece's parliament passes a bill to ban social media platforms for children under 15 from 2027 and gives companies two months to verify users' ages  —  Greece's parliament approved a bill on Friday that bans the use of social media platforms for children under 15 amid growing concerns …",
+    "title": "Greece's parliament passes a bill to ban social media platforms for children under 15 from January 1, 2027, and gives companies 2.5 months to verify users' ages (Angeliki Koutantou/Reuters)",
+    "description": "Angeliki Koutantou / Reuters:\nGreece's parliament passes a bill to ban social media platforms for children under 15 from January 1, 2027, and gives companies 2.5 months to verify users' ages  —  Greece's parliament approved a bill on Friday that bans the use of social media platforms for children under 15 amid growing concerns …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -1054,9 +1090,10 @@
   },
   {
     "link": "https://www.techmeme.com/261023/p5#a261023p5",
-    "title": "Anthropic says it partnered with Theorem to use Claude to formally prove security properties at the assembly level across 100+ real-world open-source libraries (Anthropic)",
-    "description": "Anthropic:\nAnthropic says it partnered with Theorem to use Claude to formally prove security properties at the assembly level across 100+ real-world open-source libraries  —  Introduction  —  Even mature, heavily tested software contains bugs, and LLMs are increasingly adept at finding them.",
+    "title": "Anthropic says it partnered with Theorem to use Claude to formally prove useful security properties at the assembly code level across 123 open-source libraries (Anthropic)",
+    "description": "Anthropic:\nAnthropic says it partnered with Theorem to use Claude to formally prove useful security properties at the assembly code level across 123 open-source libraries  —  Introduction  —  Even mature, heavily tested software contains bugs, and LLMs are increasingly adept at finding them.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-23T09:15:03+00:00",
@@ -1916,8 +1953,8 @@
   },
   {
     "link": "https://www.techmeme.com/261022/p56#a261022p56",
-    "title": "a16z rebrands a16z Crypto as a16z Frontier and expands the fund's scope to back startups developing AI, robotics, and other emerging technologies (Camila Grigera Naón/Fortune)",
-    "description": "Camila Grigera Naón / Fortune:\na16z rebrands a16z Crypto as a16z Frontier and expands the fund's scope to back startups developing AI, robotics, and other emerging technologies  —  In 2018, Andreessen Horowitz made a splash in the venture capital world by launching a spin-off dedicated to digital assets called a16z Crypto.",
+    "title": "a16z rebrands \"a16z Crypto\" as \"a16z Frontier\" and expands the $2.2B fund's scope to back startups developing AI, robotics, and other emerging technologies (Camila Grigera Naón/Fortune)",
+    "description": "Camila Grigera Naón / Fortune:\na16z rebrands “a16z Crypto” as “a16z Frontier” and expands the $2.2B fund's scope to back startups developing AI, robotics, and other emerging technologies  —  In 2018, Andreessen Horowitz made a splash in the venture capital world by launching a spin-off dedicated to digital assets called a16z Crypto.",
     "categories": [
       "Tech News"
     ],
@@ -2256,38 +2293,5 @@
     "pub_date": "2026-10-22T21:21:33+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Woman-smelling-sniffing-drinking-a-cup-of-coffee.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/russias-b-1-bomber-clone-set-to-get-new-avionics-and-a-modular-architecture-new-kit-can-be-added-later-to-boost-longevity-not-unlike-the-b-52-stratofortress",
-    "title": "Russia's B-1 bomber clone set to get new avionics and a 'modular' architecture — new kit can be added later to boost longevity, not unlike the B-52 Stratofortress",
-    "description": "Russia's Tu-160M bomber features modular avionics designed for future upgrades, with Tupolev claiming that approximately 80% of its onboard equipment has been modernized.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T21:20:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Ytvv6b8tXuypsezA2oeMcW-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/services-and-software/anthropic-claude-duet-ai-agent-app-professional/",
-    "title": "Anthropic Introduces Claude Duet: A New Agentic AI App for Professionals",
-    "description": "It’s nothing we haven’t seen before, but it’s hyper specificity toward business owners and professionals.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-22T21:19:09+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Claude-Duet-Press-03.png",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
-    "title": "Fall 2026 earnings watch",
-    "description": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T21:15:16+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS501_STOCKS_CVIRGINIA_E.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
