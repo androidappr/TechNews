@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.techradar.com/pro/32-tb-ram-for-your-gpus-marvell-shows-revolutionary-photonic-fabric-memory-module-that-uses-light-to-link-up-to-16-gpus-and-slash-capex-but-nvidia-wont-stick-around-doing-nothing",
+    "title": "32 TB RAM for your GPUs: Marvell shows revolutionary Photonic Fabric Memory Module that uses light to link up to 16 GPUs and slash CAPEX — but Nvidia won't stick around doing nothing",
+    "description": "Marvell wants to stop GPUs acting as \"the world's most expensive memory controller\" with 32TB of optically pooled memory, but sampling doesn't start until 2027.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T21:35:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/UgtKFmktsVFP6sZJXur5gG-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/mobile/iphone-duo-how-we-test-folds/",
+    "title": "The iPhone Duo Is Now in Our Custom-Made Foldable Phone Test Machine. Will It Beat the Galaxy Fold 8?",
+    "description": "We’ll fold Apple’s iPhone Duo 900 times an hour to see how its hinge holds up.",
+    "categories": [
+      "Breaking News",
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-10-23T21:30:35+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/image-3_b6d85e.png",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261023/p22#a261023p22",
     "title": "Mave, which is developing an AI-driven tool to automate security investigations, raised a $28M Series A led by Red Dot, bringing its total funding to $34M (Meir Orbach/CTech)",
     "description": "Meir Orbach / CTech:\nMave, which is developing an AI-driven tool to automate security investigations, raised a $28M Series A led by Red Dot, bringing its total funding to $34M  —  The funding, led by Red Dot Capital Partners, brings Mave's total funding to $34 million.  The company is developing AI …",
@@ -36,8 +59,8 @@
   },
   {
     "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
-    "title": "VCs, Superhuman Mail founder share red flags about product market fit",
-    "description": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail share the do's and don'ts for building hit products.",
+    "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+    "description": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
     "categories": [
       "Business & Startups"
     ],
@@ -672,7 +695,6 @@
     "description": "Cambricon’s revenue doubled to 3.53B yuan in the third quarter, well short of the 6.26B analysts expected, Bloomberg reported. Profit rose 148%, and the company kept its 2026 target. Chinese AI chipmakers face shortages of high-bandwidth memory and limited access to advanced manufacturing. Cambricon, one of China’s main makers of AI chips, missed sales forecasts",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware",
       "Government & Policy"
     ],
@@ -697,7 +719,6 @@
     "title": "Elon Musk’s dangerous grip on outer space",
     "description": "Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's interceptors, which counter Russian drones carrying bombs, suddenly stopped working at high speeds, making it easier for Russia to attack the country's energy infrastructure",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Government & Policy",
       "Science & Environment"
@@ -723,7 +744,6 @@
     "title": "Crows can evaluate visual info twice as fast as mammals",
     "description": "Birds' compact nervous system seems to help them handle tasks very quickly.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-10-23T17:32:58+00:00",
@@ -2278,28 +2298,5 @@
     "pub_date": "2026-10-23T11:00:57+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/reaction-dynamics-1152x648.jpg",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/split-tunneling-is-your-vpns-best-feature-heres-how-to-make-the-most-of-it/",
-    "title": "Split Tunneling Is Your VPN’s Best Feature. Here’s How to Make the Most of It",
-    "description": "This feature common to VPN services gives you protection and privacy specifically when and where you need it.",
-    "categories": [
-      "Cybersecurity & Privacy",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-23T11:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ad8c933572fecfc421778e0/master/pass/102126-Split%20Tunneling.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/services-and-software/ios-27-cheat-sheet/",
-    "title": "iOS 27 Cheat Sheet: Quickly Become an Expert on the New iPhone Update",
-    "description": "From new features to updates, here’s everything you should know about iOS 27.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T11:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/cnet-ios27-6.jpg",
-    "source_name": "CNET.COM"
   }
 ]
