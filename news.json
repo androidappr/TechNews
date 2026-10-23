@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://thenextweb.com/news/openai-nask-poland-ai-safety-research",
+    "title": "OpenAI signs AI safety research deal with Poland’s NASK institute",
+    "description": "OpenAI has partnered with Poland’s NASK National Research Institute to research AI safety and security, as concerns grow over AI agents behaving in ways their developers did not intend. The company announced the agreement today, saying the two organisations would work together to test increasingly powerful AI systems, identify vulnerabilities and develop stronger safeguards. The",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-23T09:24:42+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/openai-logo-silhouette-hand-smartphone.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://mashable.com/life/oct-23-pokemon-tcg-30th-celebration-sylveon-ex-box-deal",
+    "title": "The Pokémon TCG 30th Celebration Sylveon ex Box is (almost) down to market price at Walmart — save $20",
+    "description": "Save $20 on the Pokémon TCG 30th Celebration Sylveon ex Box at Walmart, now just $59.95 and nearly down to market price.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T09:17:32+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/07yRGxYeMV18FgOKv9psFlR/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/ai-is-rewriting-the-c-suite-playbook",
+    "title": "AI is rewriting the C-suite playbook",
+    "description": "Progressive leaders should look beyond mere resilience and begin to harness the power of AI.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T09:17:02+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261023/p5#a261023p5",
     "title": "Anthropic says it partnered with Theorem to use Claude to formally prove security properties at the assembly level across 100+ real-world open-source libraries (Anthropic)",
     "description": "Anthropic:\nAnthropic says it partnered with Theorem to use Claude to formally prove security properties at the assembly level across 100+ real-world open-source libraries  —  Introduction  —  Even mature, heavily tested software contains bugs, and LLMs are increasingly adept at finding them.",
@@ -11,6 +47,53 @@
     "source_name": "TECHMEME.COM"
   },
   {
+    "link": "https://www.wired.com/story/8-things-to-know-about-the-apple-iphone-duo/",
+    "title": "8 Things to Know About the iPhone Duo",
+    "description": "Did you manage to score Apple’s first folding phone on launch day? Are you still mulling it over? Here are a few things to keep in mind.",
+    "categories": [
+      "Gadgets & Hardware",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-23T09:15:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ada893690bbef8397f3e8ae/master/pass/DSC_9451.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://mashable.com/life/oct-23-pokemon-tcg-30th-delta-reign-booster-display-box-preorder-deal",
+    "title": "The Pokémon TCG Delta Reign Booster Display Box is close to market price at Amazon — save over $15",
+    "description": "Amazon has dropped the Pokémon TCG Delta Reign Booster Display Box to $252.47, saving you $16.74 ahead of its Nov. 6 release.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T09:14:19+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00gchn7MxqFuATXynjv4oD1/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/nvidia-170bn-neoclouds-firmus",
+    "title": "Nvidia has put $170bn on the line for neoclouds, The Information reports",
+    "description": "Jensen Huang told CNBC on Thursday that demand for neoclouds is “off the charts”, Business Insider reported. His company has put more than $170bn on the line for them and other large customers, according to an analysis of its filings by The Information. The publication also reported that Nvidia is in talks to back one",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-23T09:12:18+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/jensen-huang-nvidia-gtc-2026-gesturing-stool-san-jose.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://mashable.com/science/moon-phase-today-oct-23-2026",
+    "title": "Moon phase today: What the Moon will look like on October 23, 2026",
+    "description": "See the Moon phase expected for October 23, 2026 as well as when the next Full Moon is expected.",
+    "categories": [
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-23T09:09:40+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/07FvphQ2bN6HKbXDd8xEf2F/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.wired.com/story/dyson-week-deals-oct-2026/",
     "title": "Best Dyson Week Deals (2026): Dyson V15 Detect, Dyson Airwrap",
     "description": "Dyson’s sale event is happening now, and you can save up to $300 on vacuums, hair tools, and more.",
@@ -20,6 +103,17 @@
     "pub_date": "2026-10-23T09:07:00+00:00",
     "image_url": "https://media.wired.com/photos/6ada50bf2d0fbd1c13e18ce2/master/pass/Dyson%20Week%20Has%20Some%20of%20Our%20Favorite%20Dyson%20Technology%20on%20Sale%20102026%20top%20art%20SOURCE%20Dyson.jpg",
     "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://mashable.com/life/apple-influencers-tech-events-brand-trips",
+    "title": "Apple is embracing creators for its Pro and Tell event. And its not alone.",
+    "description": "Apple reportedly offers influencers flights and hotel stays. See how its approach fits a wider push by Samsung, OpenAI, and Anthropic.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T09:05:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00osGs5g0z7TjvakFJIlDU9/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/",
@@ -34,6 +128,28 @@
     "source_name": "ENGADGET.COM"
   },
   {
+    "link": "https://mashable.com/tech/oct-23-anker-soundcore-2-speaker-deal",
+    "title": "Ankers budget-friendly Soundcore 2 speaker is under $30 at Amazon",
+    "description": "Find the best power station deal at Amazon. Save 33% on the Anker Soundcore 2 at Amazon.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T09:00:56+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01QG3rPS3gLiUYAS02d44r3/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/article/how-to-use-apple-pay-amazon",
+    "title": "How to set up and use Apple Pay on Amazon for Black Friday shopping",
+    "description": "Here's how to use Apple Pay on Amazon as your go-to payment method for seamless shopping during Black Friday 2026.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T09:00:36+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/04CyblyFG8VZGmvu8YaITGv/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.wired.com/story/the-exotic-physics-behind-a-mysterious-1000-mile-cloud-on-mars/",
     "title": "The ‘Exotic Physics’ Behind a Mysterious 1,000-Mile Cloud on Mars",
     "description": "The cloud has baffled astronomers since its discovery in 2018. Now, a new study offers a possible cause for its appearance.",
@@ -44,6 +160,106 @@
     "pub_date": "2026-10-23T09:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6ad9cc2f43ef58c4a17cefed/master/pass/Mars_Express_views_the_most_striking_cloud_on_Mars.jpg",
     "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/avatar-seven-havens-cabbage-merchant-tribute",
+    "title": "Avatar: Seven Havens pays tribute to The Last Airbenders cabbage merchant, with a twist",
+    "description": "\"Avatar: Seven Havens\" riffs on \"The Last Airbender\"s cabbage merchant running gag in its eighth episode.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T09:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/02t5KdmnUqn9az3U52K8rIv/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/apple-ipad-mini-8-rumors-news-everything-we-know",
+    "title": "Everything we know about the rumored iPad Mini 8",
+    "description": "Apple is supposedly launching a new iPad Mini, but what can we expect from the new tablet? Well, rumor has it...",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T09:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/05YKII6buXlMZEBMMFzGGIY/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/life/starbucks-holiday-menu-2026-release-date-bearista-cups-full-lineup",
+    "title": "Starbucks holiday menu 2026: Release dates, Bearista cups, and full lineup",
+    "description": "The Starbucks holiday menu is launching on Nov. 5. How to dodge lines and score the viral Bearista glass cup.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T09:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/017T4rmx6suyEGZtNfWa7tA/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/united-states-gp-f1-live-stream-for-free",
+    "title": "Free F1 livestream: How to watch the United States GP for free this weekend",
+    "description": "How to watch F1 for free. Live stream the United States GP in the 2026 F1 season for free from anywhere in the world.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T09:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/04tzubLgh4YinaeOpfz4K0Y/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/oct-23-microsoft-office-2024-professional-plus",
+    "title": "Get Word, Excel, PowerPoint, and all the rest for $50",
+    "description": "Microsoft Office 2024 comes with Word, Excel, PowerPoint, and more, and lifetime access is only $50.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T09:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/04EIVrBYLVnbyr5kjEVWI9z/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/oct-23-drime-secure-cloud-storage-lifetime-subscription-6tb",
+    "title": "Store your biggest files with 6TB of lifetime cloud storage for $250",
+    "description": "Drime Advanced offers 6TB of lifetime cloud storage with encrypted files, team collaboration, and compliance tracking for a one-time payment of $249.97.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T09:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/04DtQ2d43JDSQIEj94ZYfIn/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/shows-like-yaga",
+    "title": "5 shows like Yaga for your spooky season viewing",
+    "description": "If AMC's new witchy series \"Yaga: has you seeking more sexy, scary thrills, we've got you covered.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T09:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01QGPPIPVaLWSW4SHhJSW4F/hero-image.webp",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/avatar-seven-havens-akasha-new-ba-sing-se",
+    "title": "Avatar: Seven Havens introduces several new Havens. Heres what we learned.",
+    "description": "\"Avatar: Seven Havens\" introduces us to new Havens like New Ba Sing Se, Akasha, Republic Forest, and more.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T09:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/02AFSW9ORIy20GjnUq5XAO7/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/avatar-seven-havens-seven-chakras-theory-explained",
+    "title": "Avatar: Seven Havens may have just confirmed a massive fan theory",
+    "description": "\"Avatar: Seven Havens\" fans have long theorized the havens represent each chakra. Episode 9 may have just confirmed that.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T09:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/070fgZTQz26SWpM6jWU3ssm/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://thenextweb.com/news/apple-iphone-duo-on-sale-supply-reviews",
@@ -183,6 +399,7 @@
     "title": "How to watch A Course Called Ireland online for free – stream Bill Murray golf show from anywhere",
     "description": "Golf addict Bill Murray links up with Tom Coyne, author of the bestselling A Course Called Ireland travel memoir. Here's how to watch A Course Called Ireland online for free and from anywhere.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-23T07:00:00+00:00",
@@ -340,17 +557,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://mashable.com/entertainment/hurdle-hints-answers-october-23-2026",
-    "title": "Hurdle hints and answers for October 23, 2026",
-    "description": "Hints and answers to today's Hurdle all in one place.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T04:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06WRbQNU4frl2cVC3rIpcWR/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
     "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/",
     "title": "El Niño Then and Now",
     "description": "A 35-year satellite altimetry record lets scientists hold this year’s El Niño up against its strongest predecessors.",
@@ -360,6 +566,17 @@
     "pub_date": "2026-10-23T04:00:00+00:00",
     "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-then-and-now/elninocomp_sen6_19971013.jpg",
     "source_name": "SCIENCE.NASA.GOV"
+  },
+  {
+    "link": "https://mashable.com/entertainment/hurdle-hints-answers-october-23-2026",
+    "title": "Hurdle hints and answers for October 23, 2026",
+    "description": "Hints and answers to today's Hurdle all in one place.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T04:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/06WRbQNU4frl2cVC3rIpcWR/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://9to5mac.com/2026/10/22/greg-joswiak-talks-iphone-duo-in-store-availability-and-demand-ahead-of-launch/",
@@ -2043,222 +2260,5 @@
     "pub_date": "2026-10-22T17:45:35+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Apple-iPhone-Duo-optimized-apps-badge.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/22/pages-keynote-numbers-just-added-powerful-new-ai-features/",
-    "title": "Pages, Keynote, Numbers just added powerful new AI features",
-    "description": "Apple is rolling out AI-centric updates to its iWork suite—Pages, Keynote, Numbers—that include a brand new ‘Intelligent Assistant’ with powerful capabilities. Here’s what it can do.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T17:44:43+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/1016055/elon-musk-tesla-5-million-cars-2030-reality-check",
-    "title": "Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise",
-    "description": "On Tesla's earnings call Wednesday, Elon Musk made one of his patented pie-in-the-sky predictions that typically sends his fans into paroxysms of ecstasy: 5 million vehicle deliveries by 2030. \"We were aiming for 5 million vehicles a year by approximately 2030,\" he said. \"And I think we've got a good shot of achieving that goal.\"",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T17:42:52+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE001_STK086_Tesla_Robotaxi_3_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/donald-trump-sundar-pichai-call-rename-atlantic-ocean",
-    "title": "President Trump says he called Googles CEO to rename the Atlantic Ocean",
-    "description": "President Trump says that he called Google's CEO Sundar Pichai to get Google Maps to change the name of the Atlantic Ocean.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T17:37:10+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/058hui6btS8OawN2ACfDv6O/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
-    "title": "Elon Musk made a $1B investment in Skydance, report says",
-    "description": "The investment will provide a much-needed financial boost as the company seeks to cut costs and lift its stock price.",
-    "categories": [
-      "Social & Media"
-    ],
-    "pub_date": "2026-10-22T17:36:38+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/22/arc-browser-gets-a-sunset-date-and-users-have-two-months-to-move-on/",
-    "title": "Arc browser gets a sunset date, and users have two months to move on",
-    "description": "The Browser Company announced plans to discontinue its flagship Arc browser in favor of a new browser project called Dia. Today, Arc received a sunset date that gives users exactly two months to move on from the discontinued app.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T17:28:58+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2024/09/Arc-Browser.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/phones/oppo-find-x10-pro-max-hands-on/",
-    "title": "Oppo Find X10 Pro Max hands-on: Knocking on the flagship ceiling with three 200MP cameras",
-    "description": "Oppo's Find X10 Pro Max packs three 200MP cameras, a massive battery, and refined software into a striking flagship, although its missing 10x optical camera leaves room for an Ultra.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T17:26:48+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Oppo-Find-X10-Pro-Max-Hands-on-15.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261022/p42#a261022p42",
-    "title": "The Browser Company says it will shut down its Arc browser on December 22, launched in 2023, shifting attention to its AI-focused Dia browser, launched in 2025 (Jay Peters/The Verge)",
-    "description": "Jay Peters / The Verge:\nThe Browser Company says it will shut down its Arc browser on December 22, launched in 2023, shifting attention to its AI-focused Dia browser, launched in 2025  —  New feature development for the innovative web browser ended last year.  Now The Browser Company is telling users to try Dia, Arc's replacement.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T17:25:01+00:00",
-    "image_url": "http://www.techmeme.com/261022/i42.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/nvidia-minerva-aiops-ai-factory-monitoring",
-    "title": "Nvidia launches Minerva to catch failing parts in giant AI data centres",
-    "description": "Nvidia has launched Minerva, AI operations software that combines data from GPUs, networks, storage and workloads to spot failing parts in large AI data centres early. It groups alerts into single incidents and has an AI assistant. IREN uses it, and Lambda, IBM and Tesla plan to. Nvidia has launched Minerva, software that watches over",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-22T17:25:00+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/nvidia-logo-3d-green-glass-icon-dark-background.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-    "title": "Someone hacked the Switch 2 by using an old game and AI",
-    "description": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. OpenAI's Codex helped make this \"ns2jb\" jailbreak, according to Sammy Hajhamid, aka \"pepsipu.\" It's a",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Gaming"
-    ],
-    "pub_date": "2026-10-22T17:21:31+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/apple-iphone-duo-2-face-id-testing-mark-gurman-report",
-    "title": "iPhone Duo 2 prototypes are already circulating at Apple, report says",
-    "description": "Bloomberg's resident Apple oracle Mark Gurman reports that iPhone Duo 2 prototypes fix an early complaint with the new foldable.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T17:18:12+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04bMwoA1VaiFuDNTdgOAc4f/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/22/1password-launches-solution-for-safely-using-logins-with-ai-agents/",
-    "title": "1Password launches solution for safely using logins with AI agents",
-    "description": "1Password has been focused on building password management tools that make sense in the age of agentic AI. In July, the company launched a special integration with Claude. Today, 1Password is going further with the arrival of 1Password for Agents.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T17:15:01+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/1password-app-icon-FI.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/arc-browser-is-shutting-down-in-december-long-live-ya-trailblazer/",
-    "title": "Arc browser is shutting down in December. Long live, ya trailblazer!",
-    "description": "The Browser Company has announced that the beloved web browser will ride into the sunset on December 2022, but will continue development of Dia browser.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T17:13:09+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Screenshot-2026-10-22-at-10.40.52-PM-scaled.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/openai-agents-turned-off-their-own-guardrails-and-then-told-researchers-they-were-still-on-ai-agents-lying-about-their-behavior-should-concern-everyone",
-    "title": "OpenAI agents turned off their own guardrails and then told researchers they were still on — AI agents lying about their behavior should concern everyone",
-    "description": "Turning off guardrails and lying about it is very concerning behavior, but OpenAI doesn't have an explanation.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-22T17:10:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/PnmNd8HFBHVjfxzYJpPNQi-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/services-and-software/i-tried-automating-my-relationships-using-ai-agents-muse-and-dots-overstepped/",
-    "title": "I Tried Automating My Relationships Using AI Agents. Muse and Dots Overstepped",
-    "description": "If it takes more time to review and approve a simple email than it would for me to write it myself, the whole promise of agentic AI falls flat.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-22T17:08:31+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Dots-Hero-Image.png",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/wearables/samsung-galaxy-watch/galaxy-watch-user-wakes-up-to-an-awful-blister-after-apparent-burn-overnight",
-    "title": "Galaxy Watch user wakes up to an awful blister after apparent 'burn' overnight",
-    "description": "A Galaxy Watch user reported a painful blister and skin burn after the device overheated while they were resting.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T17:05:59+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/tAJKCadqrcWZpUnJhezB76-1920-80.jpeg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/",
-    "title": "Meta shocked by $25B fine after N.M. refused to join multistate settlement",
-    "description": "Meta will appeal a ruling imposing the largest fine Mark Zuckerberg has ever seen.",
-    "categories": [
-      "Government & Policy",
-      "Social & Media"
-    ],
-    "pub_date": "2026-10-22T17:04:31+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1968308632-1024x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1016832/arc-browser-shutting-down",
-    "title": "Arc browser is shutting down",
-    "description": "The Browser Company plans to \"sunset\" its Arc browser on December 22nd, according to a post on the Arc website. The company moved on to developing its AI-focused Dia browser last year, but it had continued to maintain Arc. Now, the innovative browser will be going away for good. The shutdown is happening in a",
-    "categories": [
-      "Breaking News",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-22T17:03:37+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-12.56.25-PM.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261022/p41#a261022p41",
-    "title": "Microsoft says it is closing The Garage, which for 17 years gave employees worldwide space and tools for side projects and ran the company's Global Hackathon (Todd Bishop/GeekWire)",
-    "description": "Todd Bishop / GeekWire:\nMicrosoft says it is closing The Garage, which for 17 years gave employees worldwide space and tools for side projects and ran the company's Global Hackathon  —  Microsoft is winding down The Garage as a companywide program, ending a 17-year run for the effort that gave employees space …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T17:02:01+00:00",
-    "image_url": "http://www.techmeme.com/261022/i41.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/spacex-grok-partner-network-apollo-nvidia",
-    "title": "SpaceX signs up Apollo and Nvidia for a new Grok partner network",
-    "description": "SpaceX has launched the Super Intelligence Partner Network for companies that deploy or build on Grok, with Apollo, Nvidia, Snowflake, Databricks, Bain and more than 130 firms joining early. It follows a quarter in which SpaceX’s AI unit turned a profit, mostly from renting out computing power. SpaceX has launched a partner programme to help",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-22T17:00:39+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/spacex-falcon-heavy-launch-pad-39a-hangar.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
