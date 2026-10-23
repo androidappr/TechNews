@@ -1,5 +1,39 @@
 [
   {
+    "link": "https://www.techmeme.com/261023/p5#a261023p5",
+    "title": "Anthropic says it partnered with Theorem to use Claude to formally prove security properties at the assembly level across 100+ real-world open-source libraries (Anthropic)",
+    "description": "Anthropic:\nAnthropic says it partnered with Theorem to use Claude to formally prove security properties at the assembly level across 100+ real-world open-source libraries  —  Introduction  —  Even mature, heavily tested software contains bugs, and LLMs are increasingly adept at finding them.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T09:15:03+00:00",
+    "image_url": "http://www.techmeme.com/261023/i5.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/dyson-week-deals-oct-2026/",
+    "title": "Best Dyson Week Deals (2026): Dyson V15 Detect, Dyson Airwrap",
+    "description": "Dyson’s sale event is happening now, and you can save up to $300 on vacuums, hair tools, and more.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T09:07:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ada50bf2d0fbd1c13e18ce2/master/pass/Dyson%20Week%20Has%20Some%20of%20Our%20Favorite%20Dyson%20Technology%20on%20Sale%20102026%20top%20art%20SOURCE%20Dyson.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/",
+    "title": "A startup called Warhound is genetically engineering dogs for the military",
+    "description": "Warhound is genetically engineering dogs for the military, law enforcement and first responder operations.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-23T09:01:01+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/a-startup-called-warhound-is-genetically-engineering-dogs-for-the-military/l-intro-1792745868.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.wired.com/story/the-exotic-physics-behind-a-mysterious-1000-mile-cloud-on-mars/",
     "title": "The ‘Exotic Physics’ Behind a Mysterious 1,000-Mile Cloud on Mars",
     "description": "The cloud has baffled astronomers since its discovery in 2018. Now, a new study offers a possible cause for its appearance.",
@@ -2226,39 +2260,5 @@
     "pub_date": "2026-10-22T17:00:39+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/spacex-falcon-heavy-launch-pad-39a-hangar.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/heated-rivalry-movie-theaters-screenings-tickets",
-    "title": "Heated Rivalry is coming to theaters, so you can go to the cottage together",
-    "description": "Regal is screening ‘Heated Rivalry’ Nov. 6–30, with episodes paired for $9.99 per screening. Here’s how to get tickets.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T17:00:05+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06GTZIQd8Dj7OhN5LvO61fh/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/home/momcozy-d8-review/",
-    "title": "Momcozy D8 review: I handed my twins’ bottles to a machine, and the daily routine got easier",
-    "description": "The Momcozy D8 is a countertop solution that washes, steam-sterilizes, dries, and stores up to eight bottles in one run. It's big, though, and the clean-up job takes some time.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T17:00:00+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/momcozy-d8-3.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1016798/php-vulnerabilities-exploit-patch",
-    "title": "The disastrous PHP vulnerabilities were exploited days before the patch",
-    "description": "Hackers attempted to exploit the PHP flaws impacting sites across the web days before they were patched, according to a report from Amazon Threat Intelligence. CJ Moses, Amazon chief information security officer, writes that the company's security team found a PHP2Shell exploit attempt on October 17th through a monitoring system designed to bait hackers, as",
-    "categories": [
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-22T16:49:48+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
