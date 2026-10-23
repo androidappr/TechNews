@@ -1,5 +1,18 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "description": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-23T00:45:37+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/10/22/apple-wins-again-in-copyright-infringement-battle-over-apple-tv-thriller-series/",
     "title": "Apple wins again in copyright infringement battle over Apple TV thriller series",
     "description": "The United States Court of Appeals for the Ninth Circuit today upheld a verdict from early last year that cleared Apple of allegations that one of its hit thriller series was copied from an independent film. Here are the details.\n\n\n\n more…",
@@ -644,7 +657,6 @@
     "title": "Anthropic donates the Agent Skills open standard to the Agentic AI Foundation and says 70+ platforms have integrated it, after donating MCP to the AAIF in 2025 (Anthropic)",
     "description": "Anthropic:\nAnthropic donates the Agent Skills open standard to the Agentic AI Foundation and says 70+ platforms have integrated it, after donating MCP to the AAIF in 2025  —  Today, we're donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation (AAIF).",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-22T20:40:10+00:00",
@@ -668,7 +680,6 @@
     "description": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-10-22T20:32:05+00:00",
@@ -1191,7 +1202,6 @@
     "description": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-10-22T18:43:53+00:00",
@@ -1249,7 +1259,6 @@
     "title": "Microsoft says its GPT-5-powered Diagnostic Orchestrator uses agents that mimic panels of experts to diagnose conditions up to 4x more accurately than doctors (Robert Hart/The Verge)",
     "description": "Robert Hart / The Verge:\nMicrosoft says its GPT-5-powered Diagnostic Orchestrator uses agents that mimic panels of experts to diagnose conditions up to 4x more accurately than doctors  —  'We're going to build something that is indistinguishable from human performance ... in the next couple of years,' Microsoft AI CEO Mustafa Suleyman tells The Verge.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-22T18:35:21+00:00",
@@ -2286,16 +2295,5 @@
     "pub_date": "2026-10-22T15:36:11+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macbook-ultra-pro-mockup.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/security-breach-at-ai-aggregator-exposes-over-18-million-files-including-some-very-embarrassing-chat-records",
-    "title": "Security breach at AI aggregator exposes over 18 million files, including some very embarrassing chat records",
-    "description": "An AI aggregator kept an open database unprotected on the internet containing personally identifiable information and some embarassing chat logs.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-22T15:35:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/2GxzxstGJJpm8aJiATXE26-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
