@@ -1,5 +1,63 @@
 [
   {
+    "link": "https://thenextweb.com/news/openai-ai-agents-mouse-brain-crispr-atlas",
+    "title": "OpenAI’s AI agents analyse a mouse brain gene atlas in 32 minutes",
+    "description": "OpenAI, PerturbAI and Scripps Research have used close to 2,000 AI agents to analyse a large mouse brain dataset in 32 minutes. The team estimates that researchers working by hand would need months to a year for the same analysis, which OpenAI published on Wednesday. The agents ran on OpenAI’s GPT-Rosalind, a model built for life",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-23T12:56:30+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/brain-neuron-line-drawings-blue-green-artwork.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch",
+    "title": "Brick’s new app blocker is designed for bedtime doomscrolling",
+    "description": "Brick, the company behind the $59 gadget that blocks you from using apps on your phone, has launched a new device that's designed to help you cut back on doomscrolling in bed. The $129 Brick Night introduces a location-based element: instead of requiring you to tap your phone against the device, like the OG Brick,",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-23T12:50:17+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Brick-Night-app-blocker-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/best-samsung-refurbished-phones-amazon-deals-2026",
+    "title": "Samsung is beating the tech price hikes: Shop the new selection of certified renewed phones on Amazon",
+    "description": "Get the best refurbished Samsung Galaxy phone deals. Save over $390 on a high-spec Samsung Galaxy",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T12:45:40+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/05BmPyaOLk4CnApIMQk2jXe/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/eka-robotics-150m-series-a-vision-force-robots",
+    "title": "Eka Robotics raises $150M to teach robots to grip by feel",
+    "description": "Eka Robotics, a Cambridge, Massachusetts startup building robots that handle objects by touch as well as sight, has raised a $150M Series A. Andreessen Horowitz (a16z) and F-Prime led the round, Eka announced on its blog on Tuesday. The round values the company at $1.45B post-money, Tim Fernholz reported for TechCrunch. F-Prime is a venture",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-10-23T12:44:27+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/eka-robotics-team-group-photo-office.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/capcom-data-breach-confirmed-around-11-7-million-accounts-thought-to-have-been-affected",
+    "title": "Capcom data breach confirmed — around 11.7 million accounts thought to have been affected",
+    "description": "Threat actors broke into one of Capcom's services and even tried to change user passwords.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-23T12:44:04+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/x4SmwpYXk8yGgDmYCVeckL-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261023/p9#a261023p9",
     "title": "Pathos AI, which uses AI to develop oncology drugs, raised a $237M Series E at a $3B post-money valuation, up from a $1.6B valuation in May 2025 (Katherine Davis/Axios)",
     "description": "Katherine Davis / Axios:\nPathos AI, which uses AI to develop oncology drugs, raised a $237M Series E at a $3B post-money valuation, up from a $1.6B valuation in May 2025  —  Precision oncology biotech Pathos AI said Friday it raised a $237 million Series E round at a $3 billion post-money valuation.",
@@ -22,6 +80,17 @@
     "pub_date": "2026-10-23T12:33:45+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/5th-ave-bridget.webp",
     "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/maria-bamford-stand-up-paralyzed-by-hope",
+    "title": "Maria Bamford on showbiz and Paralyzed by Hope",
+    "description": "Stand-up comedian Maria Bamford's new documentary, \"Paralyzed by Hope,\" is now on Netflix.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T12:32:06+00:00",
+    "image_url": "https://cdn.ex.co/transformations-account/production/a0be6317-e085-43f9-8cb5-7b125d25af4b/c9aff0d2-eb09-4643-b24c-8ad4dcc4cd63/master.m3u8",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://9to5mac.com/2026/10/23/best-iphone-duo-cases-now-available-purchase/",
@@ -209,6 +278,7 @@
     "title": "Brick’s new device automatically blocks your bedroom doomscrolling: How to buy",
     "description": "Brick Night uses Bluetooth to automatically block distracting apps when you enter your bedroom during set hours. Available now for $129 with no charging needed.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-23T11:39:16+00:00",
@@ -1101,7 +1171,6 @@
     "title": "The ‘Exotic Physics’ Behind a Mysterious 1,000-Mile Cloud on Mars",
     "description": "The cloud has baffled astronomers since its discovery in 2018. Now, a new study offers a possible cause for its appearance.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-10-23T09:00:00+00:00",
@@ -2220,71 +2289,5 @@
     "pub_date": "2026-10-22T21:15:16+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS501_STOCKS_CVIRGINIA_E.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/mori-might-be-the-cutest-ai-companion-robot-yet-and-it-reacts-to-you-like-a-pet/",
-    "title": "Mori might be the cutest AI companion robot yet, and it reacts to you like a pet",
-    "description": "With AI progressing so fast, it’s only a matter of time before we start getting AI companions like the ones we used to see in movies like R2-D2, Wall-E, or Baymax. Now, Singapore-based OKA Technology has unveiled Mori, a cute little AI companion that looks less like a conventional home robot and more like someone",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-22T21:12:38+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Mori.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
-    "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
-    "description": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
-    "categories": [
-      "Government & Policy"
-    ],
-    "pub_date": "2026-10-22T21:07:09+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
-    "title": "Rivian buys world model startup to accelerate self-driving ambitions",
-    "description": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T21:05:05+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-22-anker-solix-c200-dc-portable-power-station-deal",
-    "title": "Anker Solix C200 DC power station is now $129.98 at Amazon — save over $20 before Black Friday",
-    "description": "As of Oct. 22, the Anker Solix C200 DC portable power station is discounted to $129.98 at Amazon. That's a 13% discount off its list price of $149.99.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T21:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05yvX0gs9Ag9Gzo6UOXGIFh/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-22-microsoft-office-2024-home-for-mac-or-pc",
-    "title": "MS Office 2024 Home for Mac or Windows is on sale for just $114.97",
-    "description": "Get Word, Excel, PowerPoint, and OneNote for Mac or PC with Microsoft Office 2024 Home, now $114.97 (regularly $149.99) through 10/25 — no ongoing fees required.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T21:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05hRbvdseMkSboWJmk6xlAY/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-last-one-laughing-halloween-special",
-    "title": "How to watch Last One Laughing: Halloween online – stream the Halloween special from anywhere for free",
-    "description": "Join Jimmy Carr for more silliness around spooky season. Here's how to watch Last One Laughing: Halloween online with Prime, from anywhere.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T21:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/EMCCms7CHvESMa4DM3PHv7-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
