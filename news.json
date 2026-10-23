@@ -1,8 +1,69 @@
 [
   {
+    "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+    "title": "The iPhone Duo should have been an iPad",
+    "description": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-23T17:00:18+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_102326_Site_attempt.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261023/p13#a261023p13",
+    "title": "UK's AISI finds Mythos 5 kept targeting real people in a July cyber eval despite evidence they were uninvolved, and other models make such attacks in simulation (AI Security Institute)",
+    "description": "AI Security Institute:\nUK's AISI finds Mythos 5 kept targeting real people in a July cyber eval despite evidence they were uninvolved, and other models make such attacks in simulation  —  We examine why Mythos 5 pursued an unsanctioned supply-chain attack and identify broader learnings about model behaviour and oversight.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T16:55:01+00:00",
+    "image_url": "http://www.techmeme.com/261023/i13.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+    "description": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-23T16:52:55+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/phones/apple-music-is-hiding-a-playable-ipod-easter-egg-and-brick-game/",
+    "title": "Apple Music is hiding the original iPod as an easter egg, and there’s a secret game too",
+    "description": "Apple Music is celebrating the iPod’s 25th anniversary with a playable replica of the original click-wheel player hidden on its 404 page. There’s even a secret Brick game tucked inside.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-23T16:50:17+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/apple-music-hidden-ipod-easter-egg.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/carrie-season-2",
+    "title": "Carrie Season 2: Everything we know about Mike Flanagans Stephen King-inspired miniseries",
+    "description": "Everything we know about Mike Flanagan's Stephen King-inspired miniseries, \"Carrie\" Season 2. Plus, what other King novels could come into play?",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T16:39:35+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01YuDuCzqSiOmg1097hlao9/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
     "title": "The first broken iPhone Duos are here",
-    "description": "The iPhone Duo is officially going on sale today, but a few units already have broken screens. Based on posts about the affected units on Reddit, the issue appears to be happening at a similar spot on all of them: some kind of problem shows up on the inner screen along the hinge and a",
+    "description": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge and a strange",
     "categories": [
       "Breaking News",
       "Gadgets & Hardware",
@@ -38,10 +99,8 @@
   {
     "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
     "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-    "description": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor and others as angels, it says.",
+    "description": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-23T16:26:29+00:00",
@@ -884,7 +943,6 @@
     "title": "People are vibe coding their way to better TVs",
     "description": "Vibe coding has reached TVs. Social media is awash with posts from people using LLMs and open-source tools to remove ads and tracking, trim bloat so the OS runs faster, and even completely change the look and organization of their homescreens. While a lot of it is fun - one user turned their TV homescreen",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-23T13:00:00+00:00",
@@ -919,8 +977,7 @@
     "title": "OpenAI’s AI agents analyse a mouse brain gene atlas in 32 minutes",
     "description": "OpenAI, PerturbAI and Scripps Research have used close to 2,000 AI agents to analyse a large mouse brain dataset in 32 minutes. The team estimates that researchers working by hand would need months to a year for the same analysis, which OpenAI published on Wednesday. The agents ran on OpenAI’s GPT-Rosalind, a model built for life",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-23T12:56:30+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/brain-neuron-line-drawings-blue-green-artwork.avif",
@@ -992,6 +1049,18 @@
     "pub_date": "2026-10-23T12:40:01+00:00",
     "image_url": "http://www.techmeme.com/261023/i9.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/mobile/iphone-duo-lines-at-apple-store-sold-out-2/",
+    "title": "The iPhone Duo Hit Stores Friday. Next Came Long Lines, Sellouts and Resellers",
+    "description": "Crowds camped outside of stores before Apple’s first folding phone became available.",
+    "categories": [
+      "Breaking News",
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-10-23T12:33:45+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/first-iPhone-Duo.webp",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://www.cnet.com/tech/mobile/iphone-duo-lines-at-apple-store-sold-out/",
@@ -1385,7 +1454,6 @@
     "title": "iOS 27 Cheat Sheet: Quickly Become an Expert on the New iPhone Update",
     "description": "From new features to updates, here’s everything you should know about iOS 27.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-23T11:00:00+00:00",
@@ -2253,79 +2321,5 @@
     "pub_date": "2026-10-23T08:34:29+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/DT-2026-07-21T092825.375.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/japan-ai-hacker-team-php-flaws-softbank",
-    "title": "Japan to set up AI hacker team as PHP flaws knock services offline",
-    "description": "Japan plans to create a team of ethical hackers that will use AI to attack the country’s own systems and find vulnerabilities before criminals can exploit them. The announcement comes as banks, rail operators and government agencies take online services offline to patch two critical flaws in PHP, a programming language used across the web.",
-    "categories": [
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-23T08:28:12+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/japanese-flags-city-buildings.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/meta-muse-sharing-back-on-dns-leak",
-    "title": "Meta fixes Muse links that let anyone find loan files and revenue data",
-    "description": "Meta has switched Muse sharing back on. It paused the feature on Tuesday. That came after Ars Technica asked about research showing that anyone could find pages shared from its AI agent. David Singleton, who works on Muse at Meta, announced the fix on Thursday in a post on X. He said Meta disabled sharing",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Cybersecurity & Privacy",
-      "Social & Media",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-23T08:26:12+00:00",
-    "image_url": "https://media.thenextweb.com/2026/09/meta-muse-for-small-business.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/tesla-cybertruck-australia-new-zealand-launch-cancelled",
-    "title": "Tesla cancels Cybertruck launch in Australia and New Zealand",
-    "description": "Tesla has cancelled its Cybertruck launch in Australia and New Zealand, telling customers that their preorders will be refunded.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T08:23:42+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04JGWyD8X5NqdeEcsXfhdJw/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/entertainment/clayface-final-form-exclusive",
-    "title": "Clayface director reveals how many times he had to redesign the DC villain's final form",
-    "description": "Clayface has been designed countless times for the page and screen — so what inspired his final form in his self-titled DCU movie?",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T08:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/sVjiJ8KHTihh493xLrD8dT-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/microsoft-ai-diagnosis-mai-dxo-science-study",
-    "title": "Microsoft AI tool beat generalist doctors at step-by-step diagnosis",
-    "description": "Microsoft has developed an AI diagnostic tool that solved complex medical cases more than twice as accurately as generalist doctors in a study published in Science. Unlike many medical AI systems, it works through a case step by step, deciding which questions to ask and which tests to order before reaching a diagnosis. The tool,",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-10-23T07:53:34+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/microsoft-logo-experience-center-new-york.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/greece-passes-law-banning-social-media",
-    "title": "Greece passes law banning social media for children under 15",
-    "description": "Greece has passed a law banning children under 15 from using social media, with the restrictions set to take effect on January 1, 2027. Parliament approved the bill late on October 22, following a debate that lasted more than 16 hours, state broadcaster ERT reported. The governing New Democracy party was the only party to",
-    "categories": [
-      "Breaking News",
-      "Social & Media"
-    ],
-    "pub_date": "2026-10-23T07:12:22+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/social-media-apps-folder-smartphone-screen.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
