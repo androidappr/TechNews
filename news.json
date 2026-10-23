@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+    "title": "Etsy is cracking down on AI slop listings",
+    "description": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your work appearing alongside items that use",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T00:09:58+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-5.03.44-PM.png?quality=90&strip=all&crop=0,0,100,82.725656291205",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/norwegian-firm-pitches-new-undersea-cable-which-will-bypass-the-us-entirely-2-800-mile-link-will-connect-europe-and-canada",
+    "title": "Norwegian firm pitches new undersea cable which will bypass the US entirely — 2,800-mile link aims to connect Europe and Canada",
+    "description": "Canada is exploring a 2,800-mile undersea cable connecting directly with Europe, reducing reliance on American infrastructure amid worsening diplomatic relations.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T00:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Xbzc5gbBbmLqQPDucDTVq4-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
     "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
     "description": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
@@ -693,7 +716,6 @@
     "title": "This New Device ‘Bricks’ Your Phone When You Enter Your Bedroom",
     "description": "If you struggle with doomscrolling when you should be sleeping, this new Brick could help.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-22T20:15:10+00:00",
@@ -750,7 +772,6 @@
     "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
     "description": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Software & Apps"
     ],
@@ -1302,7 +1323,6 @@
     "title": "Amazon rebrands Kindle Unlimited to Kindle+",
     "description": "The service still offers a library of books, magazines and comics, and now includes a larger selection of audiobooks.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-22T18:10:00+00:00",
@@ -1314,7 +1334,6 @@
     "title": "New York and T-Mobile Settle Dispute Over 4G Plan Price Hikes. How to Get a Credit",
     "description": "Customers on T-Mobile One accounts from 2017 through 2019 could get a free 5G phone, credit toward a more expensive 5G phone or their last month’s payment and $25 gift card.",
     "categories": [
-      "Breaking News",
       "Mobile & Telecom"
     ],
     "pub_date": "2026-10-22T18:08:41+00:00",
@@ -2281,30 +2300,5 @@
     "pub_date": "2026-10-22T15:17:56+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/PowerToys-Mouse-Button-Lock-in-action.jpg",
     "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/universal-music-group-tyger-licensing-deal-gaming",
-    "title": "Universal Music Group licenses songs to AI gaming music service TYGER",
-    "description": "Universal Music Group (UMG) will license music from its artists and songwriters to TYGER. The service uses AI to make songs follow the action in a video game as people play. The two companies announced the deal today, with UMG the first major music company to license the service, they said. Under the agreement, selected recordings",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Gaming"
-    ],
-    "pub_date": "2026-10-22T15:15:58+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/nick-venti-tyger-ceo-portrait.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261022/p33#a261022p33",
-    "title": "Cloudflare's Matthew Prince says PHP2Shell exploit attempts on its network rose from thousands in the 10 hours before the disclosure to millions afterward (Matthew Prince/@eastdakota)",
-    "description": "Matthew Prince / @eastdakota:\nCloudflare's Matthew Prince says PHP2Shell exploit attempts on its network rose from thousands in the 10 hours before the disclosure to millions afterward  —  Some stats on #php2shell. In the 10 hours before it was publicly announced, across the @Cloudflare network we saw thousands of attempts to exploit it. That jumped to tens of thousands in the 45 minutes post announcement, hundreds of thousands within 2 hours, and millions now.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T15:15:01+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
-    "source_name": "TECHMEME.COM"
   }
 ]
