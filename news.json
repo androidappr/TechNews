@@ -1,5 +1,32 @@
 [
   {
+    "link": "https://thenextweb.com/news/japan-ai-hacker-team-php-flaws-softbank",
+    "title": "Japan to set up AI hacker team as PHP flaws knock services offline",
+    "description": "Japan plans to create a team of ethical hackers that will use AI to attack the country’s own systems and find vulnerabilities before criminals can exploit them. The announcement comes as banks, rail operators and government agencies take online services offline to patch two critical flaws in PHP, a programming language used across the web.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-23T08:28:12+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/japanese-flags-city-buildings.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/meta-muse-sharing-back-on-dns-leak",
+    "title": "Meta fixes Muse links that let anyone find loan files and revenue data",
+    "description": "Meta has switched Muse sharing back on. It paused the feature on Tuesday. That came after Ars Technica asked about research showing that anyone could find pages shared from its AI agent. David Singleton, who works on Muse at Meta, announced the fix on Thursday in a post on X. He said Meta disabled sharing",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Social & Media",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-23T08:26:12+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/meta-muse-for-small-business.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techradar.com/entertainment/clayface-final-form-exclusive",
     "title": "Clayface director reveals how many times he had to redesign the DC villain's final form",
     "description": "Clayface has been designed countless times for the page and screen — so what inspired his final form in his self-titled DCU movie?",
@@ -2228,28 +2255,6 @@
     ],
     "pub_date": "2026-10-22T16:30:37+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/05f9wgXSqiLH3OLozw1JtMT/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-the-celebrity-traitors-season-2-episode-7-stream-free-from-anywhere",
-    "title": "How to watch The Celebrity Traitors season 2 episode 7  – Stream free from anywhere",
-    "description": "Here's how to watch Episode 7 of The Celebrity Traitors online and for FREE with Claudia Winkleman hosting another 21 celebs at her Scottish castle.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T16:30:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/9NZHmgZMQmecTKymbnJbj9-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/php-vulnerability-security-update-explained",
-    "title": "PHP vulnerability: PHP security issues today explained",
-    "description": "The PHP Foundation released emergency fixes for two critical security flaws, which leaked before websites could be secured. Here’s what happened.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T16:26:24+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04Uaguf0cPth1KEDpksoGHy/hero-image.jpg",
     "source_name": "MASHABLE.COM"
   }
 ]
