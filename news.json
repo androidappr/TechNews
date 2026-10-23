@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/",
+    "title": "OpenAI says it's cutting off internet access for frontier model training",
+    "description": "OpenAI says it will no longer allow frontier models to access the internet during training in an effort to put in new safety measures after a series of incidents.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-23T22:37:02+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/openai-says-its-cutting-off-internet-access-for-frontier-model-training/l-intro-1792794862.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/plucky-chinese-startup-claims-to-beat-nvidia-dgx-spark-mac-mini-on-qwen-says-its-256-tops-beats-1000-tops-in-prefill-running-16-core-cortex-a55-soc-on-40w",
     "title": "Plucky Chinese startup claims to beat Nvidia DGX Spark, Mac Mini on Qwen — says its '256 TOPS beats 1000 TOPS in prefill', running 16-core Cortex-A55 SoC on 40w",
     "description": "Sipeed claims its 256 TOPS MaixStation can outperform Nvidia's DGX Spark on Qwen workloads despite lower advertised computing capacity and consumption.",
@@ -150,7 +162,7 @@
   },
   {
     "link": "https://www.cnet.com/tech/mobile/iphone-duo-how-we-test-folds/",
-    "title": "The iPhone Duo Is Now in Our Custom-Made Foldable Phone Test Machine. Will It Beat the Galaxy Fold 8?",
+    "title": "The iPhone Duo Is Now in Our Custom-Made Foldable Phone Test Machine. Will It Beat the Galaxy Z Fold 8?",
     "description": "We’ll fold Apple’s iPhone Duo 900 times an hour to see how its hinge holds up.",
     "categories": [
       "Breaking News",
@@ -349,7 +361,7 @@
     "source_name": "9TO5MAC.COM"
   },
   {
-    "link": "https://www.cnet.com/tech/services-and-software/a-fallout-competition-series-is-coming-to-prime-video/",
+    "link": "https://www.cnet.com/tech/services-and-software/fallout-shelter-experiment-competition-series-prime-video/",
     "title": "A ‘Fallout’ Competition Series Is Coming to Prime Video",
     "description": "Get your Pip-Boy ready, Vault Dweller! Fallout Shelter: The Experiment is coming soon.",
     "categories": [
@@ -679,7 +691,6 @@
     "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
     "description": "My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, albeit with a $30 price increase. Thankfully, the Soundcore Space 2 are currently on sale at Amazon, Best Buy, and Walmart",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-23T18:43:30+00:00",
@@ -2283,16 +2294,5 @@
     "pub_date": "2026-10-23T11:31:18+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/TCb67U42CG6eFBuj4FXEr7-1920-80.jpeg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
-    "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
-    "description": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-23T11:30:22+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Starlink-terminal-in-Ukraine-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
