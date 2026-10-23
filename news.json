@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.techradar.com/entertainment/clayface-final-form-exclusive",
+    "title": "Clayface director reveals how many times he had to redesign the DC villain's final form",
+    "description": "Clayface has been designed countless times for the page and screen — so what inspired his final form in his self-titled DCU movie?",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T08:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/sVjiJ8KHTihh493xLrD8dT-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/microsoft-ai-diagnosis-mai-dxo-science-study",
+    "title": "Microsoft AI tool beat generalist doctors at step-by-step diagnosis",
+    "description": "Microsoft has developed an AI diagnostic tool that solved complex medical cases more than twice as accurately as generalist doctors in a study published in Science. Unlike many medical AI systems, it works through a case step by step, deciding which questions to ask and which tests to order before reaching a diagnosis. The tool,",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-23T07:53:34+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/microsoft-logo-experience-center-new-york.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/greece-passes-law-banning-social-media",
     "title": "Greece passes law banning social media for children under 15",
     "description": "Greece has passed a law banning children under 15 from using social media, with the restrictions set to take effect on January 1, 2027. Parliament approved the bill late on October 22, following a debate that lasted more than 16 hours, state broadcaster ERT reported. The governing New Democracy party was the only party to",
@@ -157,7 +180,6 @@
     "description": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-23T04:00:00+00:00",
@@ -169,7 +191,6 @@
     "title": "I tested my Apple Watch Ultra 4 against Casio's cheap step-counting retro watch, the Casio F-B100W",
     "description": "Running a 5km with both watches, the step count difference between both the cheap Casio and expensive Apple Watch was tiny — a terrific win for thrifty retro-tech fans.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-23T04:00:00+00:00",
@@ -2231,27 +2252,5 @@
     "pub_date": "2026-10-22T16:26:24+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/04Uaguf0cPth1KEDpksoGHy/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261022/p38#a261022p38",
-    "title": "METR says a pilot test of OpenAI's monitoring system found vulnerabilities, including an exploit that could have let AI agents hide hundreds of recent actions (Anzar Mehraj/Reuters)",
-    "description": "Anzar Mehraj / Reuters:\nMETR says a pilot test of OpenAI's monitoring system found vulnerabilities, including an exploit that could have let AI agents hide hundreds of recent actions  —  AI safety research group METR said on Thursday a pilot exercise to stress-test OpenAI's internal monitoring system uncovered several …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T16:25:01+00:00",
-    "image_url": "http://www.techmeme.com/261022/i38.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/victoria-mcclune-ai-industry-users-silent-downgrade",
-    "title": "Victoria McClune is challenging how the AI industry understands its users",
-    "description": "Victoria McClune’s career has followed the evolution of digital technology, from interactive children’s books on the first iPads to artificial intelligence systems reshaping how people work and communicate. A creative director by training, she entered technology with an interest in how people engage with digital experiences. Today, that interest informs her work at Current Futures",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-22T16:24:51+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/victoria-mcclune-speaking-on-stage-armchair.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
