@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://www.techradar.com/pro/security/aws-says-hackers-tried-to-exploit-php-security-issues-days-before-fix-as-cloudflare-ceo-says-it-saw-a-huge-rise-in-targeted-attack-attempts",
+    "title": "AWS says hackers tried to exploit PHP security issues days before fix — as Cloudflare CEO says it saw a huge rise in targeted attack attempts",
+    "description": "There have been millions of attempts to target PHP flaws following disclosure of major vulnerabilities.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-23T14:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/t5swVJor4haSjMRKQ2b6pi-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe",
+    "title": "Our best tips for using the iPhone Duo",
+    "description": "The Duo is an entirely new kind of iPhone, so it comes with a bit of a learning curve. That's a wild thing to imagine, since the iPhone has had very few fundamental changes since its inception. But the Duo is built different. If you won the preorder lottery and managed to get your hands",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-23T14:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1057.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/entertainment/streaming/7-new-movies-and-tv-shows-to-watch-on-netflix-prime-video-hbo-max-and-more-this-weekend-october-23",
+    "title": "7 new movies and TV shows to watch at home this weekend (October 23)",
+    "description": "From the live-action Moana remake to the return of hit TV shows, here's what's worth watching this weekend.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T14:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/43jLeTuXiqzaxDFF29Ujq-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/tech/techradars-weekly-crossword-puzzle-9-friday-october-23",
+    "title": "TechRadar's weekly crossword is here — puzzle #9, Friday, October 23",
+    "description": "This week's TechRadar Crossword puzzle is here, so come test your general tech knowledge and see where you place on the leaderboard.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T14:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/kVmb7xgSU8K2roLXx3Xumh-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page",
+    "title": "Apple revives the original iPod as an Apple Music easter egg",
+    "description": "If you've been feeling nostalgic for your old iPod, you can head over to Apple Music's 404 page to listen to music on a virtual recreation of the first-generation iPod. The hidden iPod was spotted by users on social media on Friday. It's appropriately stocked with music from the early 2000s, like Coldplay's \"Viva La",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-23T13:58:43+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-23-at-9.37.49-AM.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.techradar.com/gaming/call-of-duty-modern-warfare-4-review",
     "title": "Call of Duty: Modern Warfare 4 review: blockbuster gaming at its best",
     "description": "Call of Duty: Modern Warfare 4 delivers across the board with its excellent campaign, strong multiplayer, and exhilarating DMZ modes.",
@@ -33,6 +93,17 @@
     "pub_date": "2026-10-23T13:49:57+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/peter-steinberger-office-desk-selfie.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
+    "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
+    "description": "A contractor fell into a reactor cavity and a bundle of fuel rods almost fell over.",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-23T13:43:21+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/palisades-nuke-1024x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://9to5mac.com/2026/10/23/apple-overtakes-nvidia-as-most-valuable-company-in-the-world-on-iphone-duo-launch-day/",
@@ -100,6 +171,7 @@
     "title": "Cloudflare sees millions of attempts to exploit critical PHP flaws",
     "description": "Cloudflare has recorded millions of attempts to exploit two critical PHP vulnerabilities since details became public on Wednesday, according to CEO Matthew Prince. The flaws affect PHP, a programming language used to power much of the web. Some stats on #php2shell. In the 10 hours before it was publicly announced, across the @Cloudflare network we",
     "categories": [
+      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-10-23T13:28:46+00:00",
@@ -500,7 +572,7 @@
   {
     "link": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
     "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
-    "description": "Ukraine has changed drones and war-fighting tech to reduce reliance on Starlink.",
+    "description": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
     "categories": [
       "Breaking News",
       "Gadgets & Hardware"
@@ -994,6 +1066,7 @@
     "title": "Apple's hidden a fully functional original iPod in the new Apple Music site",
     "description": "What a blast from the past — take yourself back to 2001 with the right URL",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-23T10:02:18+00:00",
@@ -2236,72 +2309,5 @@
     "pub_date": "2026-10-22T22:44:42+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/unnamed_aae71d.jpg",
     "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/22/macbook-neo-helps-apple-soften-the-blow-of-global-pc-market-downturn-per-report/",
-    "title": "MacBook Neo helps Apple soften the blow of global PC market downturn, per report",
-    "description": "A new Counterpoint Research report on global PC shipments for Q3 2026 shows Apple outperforming the broader market, with the MacBook Neo helping cushion the impact of declining demand. Here are the details.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T22:35:38+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo_eaaffa.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261022/p55#a261022p55",
-    "title": "Sources: OpenAI has cut its valuation target to $1.25T, down from the $1.4T valuation it pitched earlier in October, after facing resistance from some investors (Financial Times)",
-    "description": "Financial Times:\nSources: OpenAI has cut its valuation target to $1.25T, down from the $1.4T valuation it pitched earlier in October, after facing resistance from some investors  —  AI lab floated $1.4tn price tag earlier this month, according to documents seen by the FT  —  OpenAI has cut its valuation target …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T22:35:33+00:00",
-    "image_url": "http://www.techmeme.com/261022/i55.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/nvidia-breaches-new-quantum-computing-milestone-using-90-fewer-qubits-and-it-could-now-improve-drug-discovery-financial-modeling-and-more",
-    "title": "Nvidia breaches new quantum computing milestone, using 90% fewer qubits — and it could now improve drug discovery, financial modeling and more",
-    "description": "Nvidia simulated 104 qubits on JUPITER, validating a quantum computing technique that reportedly reduces physical qubit requirements by 90% under realistic noise.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-22T22:35:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/uyNmZxDkKhiLjM7ieeaSKC-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
-    "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
-    "description": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-22T22:34:54+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/what-to-about-shamonda-virus-following-the-first-reported-human-infection/",
-    "title": "What to Know About Shamonda Virus Following the First Reported Human Infection",
-    "description": "Although the case is considered exceptional, investigators are working to determine how the infection occurred and whether the pathogen played a role in the patient’s death.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-22T22:26:57+00:00",
-    "image_url": "https://media.wired.com/photos/6ada6dba4d7b986a1aaeb09e/master/pass/virus%20Shamonda%20Francia%201298348369.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
-    "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
-    "description": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter.",
-    "categories": [
-      "Cybersecurity & Privacy",
-      "Gaming"
-    ],
-    "pub_date": "2026-10-22T22:25:33+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/switch2hack-1152x648-1792704912.png",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
