@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.zdnet.com/tech/php2shell-php-patch-mitigation-critical-exploit/",
+    "title": "PHP2Shell: Haven’t patched yet? Take these steps now to mitigate",
+    "description": "The PHP Project provides instructions to stop further RCE exploits in limited settings.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-23T15:09:47+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/digitallockGettyImages-2300746116.jpg",
+    "source_name": "ZDNET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/us-banks-have-detected-unvetted-ai-agents-accessing-customer-bank-accounts",
+    "title": "US banks have detected unvetted AI agents accessing customer bank accounts",
+    "description": "Banks are worried that customers are granting AI agents permission to access their entire accounts – and things could go wrong.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-23T15:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/jEWfTVMH8eDJgQhYh5ofdb-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
     "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
     "description": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
@@ -11,6 +34,19 @@
     "pub_date": "2026-10-23T15:00:09+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/how-many-billions-would-it-take-to-hold-meta-accountable/",
+    "title": "How Many Billions Would It Take to Hold Meta Accountable?",
+    "description": "Meta got hit this week with its biggest fine yet, the latest in a mounting pile of court-ordered payments.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-23T15:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ada8957133035a6bb08c0f2/master/pass/Business_How%20Many%20Billions%20Would%20It%20Take%20to%20Hold%20Meta%20Accountable_v1.jpg",
+    "source_name": "WIRED.COM"
   },
   {
     "link": "https://www.techradar.com/vpn/vpn-services/greece-passes-under-15-social-media-ban-and-every-user-may-soon-have-to-prove-their-age",
@@ -170,7 +206,6 @@
     "title": "The truth about iPhone Duo problems: The shoddy-looking apps, FaceTime camera, and the hinge",
     "description": "The iPhone Duo has some problems, particularly poorly optimized third-party apps. But are the issues really that bad?",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-23T14:24:31+00:00",
@@ -248,18 +283,6 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://www.techradar.com/tech/techradars-weekly-crossword-puzzle-9-friday-october-23",
-    "title": "TechRadar's weekly crossword is here — puzzle #9, Friday, October 23",
-    "description": "This week's TechRadar Crossword puzzle is here, so come test your general tech knowledge and see where you place on the leaderboard.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T14:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/kVmb7xgSU8K2roLXx3Xumh-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/entertainment/streaming/7-new-movies-and-tv-shows-to-watch-on-netflix-prime-video-hbo-max-and-more-this-weekend-october-23",
     "title": "7 new movies and TV shows to watch at home this weekend (October 23)",
     "description": "From the live-action Moana remake to the return of hit TV shows, here's what's worth watching this weekend.",
@@ -269,6 +292,18 @@
     ],
     "pub_date": "2026-10-23T14:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/43jLeTuXiqzaxDFF29Ujq-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/tech/techradars-weekly-crossword-puzzle-9-friday-october-23",
+    "title": "TechRadar's weekly crossword is here — puzzle #9, Friday, October 23",
+    "description": "This week's TechRadar Crossword puzzle is here, so come test your general tech knowledge and see where you place on the leaderboard.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T14:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/kVmb7xgSU8K2roLXx3Xumh-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -1575,7 +1610,6 @@
     "title": "8 Things to Know About the iPhone Duo",
     "description": "Did you manage to score Apple’s first folding phone on launch day? Are you still mulling it over? Here are a few things to keep in mind.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware",
       "Software & Apps"
     ],
@@ -2287,38 +2321,5 @@
     "pub_date": "2026-10-23T00:30:02+00:00",
     "image_url": "http://www.techmeme.com/261022/i58.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261022/p57#a261022p57",
-    "title": "German energy company PreussenElektra says it is working with Nvidia to assess whether the country's idle nuclear plants could be turned into data centers (Eva Brendel/Bloomberg)",
-    "description": "Eva Brendel / Bloomberg:\nGerman energy company PreussenElektra says it is working with Nvidia to assess whether the country's idle nuclear plants could be turned into data centers  —  Germany's idle nuclear plants could find a new life as data centers, with operators looking for ways to redevelop the sites while dismantling of the reactors continues.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T00:15:02+00:00",
-    "image_url": "http://www.techmeme.com/261022/i57.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
-    "title": "Etsy is cracking down on AI slop listings",
-    "description": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your work appearing alongside items that use",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T00:09:58+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-5.03.44-PM.png?quality=90&strip=all&crop=0,0,100,82.725656291205",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/norwegian-firm-pitches-new-undersea-cable-which-will-bypass-the-us-entirely-2-800-mile-link-will-connect-europe-and-canada",
-    "title": "Norwegian firm pitches new undersea cable which will bypass the US entirely — 2,800-mile link aims to connect Europe and Canada",
-    "description": "Canada is exploring a 2,800-mile undersea cable connecting directly with Europe, reducing reliance on American infrastructure amid worsening diplomatic relations.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T00:05:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Xbzc5gbBbmLqQPDucDTVq4-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
