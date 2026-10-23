@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.techmeme.com/261023/p22#a261023p22",
+    "title": "Mave, which is developing an AI-driven tool to automate security investigations, raised a $28M Series A led by Red Dot, bringing its total funding to $34M (Meir Orbach/CTech)",
+    "description": "Meir Orbach / CTech:\nMave, which is developing an AI-driven tool to automate security investigations, raised a $28M Series A led by Red Dot, bringing its total funding to $34M  —  The funding, led by Red Dot Capital Partners, brings Mave's total funding to $34 million.  The company is developing AI …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T21:15:02+00:00",
+    "image_url": "http://www.techmeme.com/261023/i22.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+    "title": "OpenAI now trains its frontier AI models with no internet access",
+    "description": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-23T21:11:07+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
     "title": "VCs, Superhuman Mail founder share red flags about product market fit",
     "description": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail share the do's and don'ts for building hit products.",
@@ -46,6 +70,17 @@
     "source_name": "CNET.COM"
   },
   {
+    "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
+    "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
+    "description": "Pentagon memo: Insider trading gives US enemies key intel on military operations.",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-23T20:28:43+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261023/p21#a261023p21",
     "title": "Sources: Instacart, currently valued at $12B, is in talks to sell itself and held preliminary conversations with DoorDash and Uber; CART jumps 9%+ (The Information)",
     "description": "The Information:\nSources: Instacart, currently valued at $12B, is in talks to sell itself and held preliminary conversations with DoorDash and Uber; CART jumps 9%+  —  Instacart is in talks to sell itself in a transaction that would cap the grocery delivery app's 14-year run as a standalone company.",
@@ -84,6 +119,7 @@
     "title": "OpenAI plans to restrict internet access for its frontier models during training until adequate alignment, monitoring, and security safeguards are established (Rachel Metz/Bloomberg)",
     "description": "Rachel Metz / Bloomberg:\nOpenAI plans to restrict internet access for its frontier models during training until adequate alignment, monitoring, and security safeguards are established  —  OpenAI has begun cutting off internet access for its most capable artificial intelligence models during the training process …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-23T20:20:00+00:00",
@@ -101,6 +137,20 @@
     "pub_date": "2026-10-23T20:20:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/FMwRmCw7wxB7F6AQgqzqnX-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+    "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+    "description": "Turning on Personal Intelligence gives the company more data for ad targeting.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-23T20:19:55+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://9to5mac.com/2026/10/23/daily-october-23-2026/",
@@ -299,6 +349,18 @@
     "pub_date": "2026-10-23T19:25:01+00:00",
     "image_url": "http://www.techmeme.com/img/pml.png",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/",
+    "title": "Spotify ramps up policy enforcement on family plans",
+    "description": "If you share Spotify sub with family, you may need to scan QR code to prove it.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-23T19:20:27+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2016/07/spotify-1152x648.png",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://9to5mac.com/2026/10/23/watchos-27-2-gets-new-rc-ahead-of-next-weeks-launch/",
@@ -697,7 +759,6 @@
     "title": "Wayve, Stellantis and Nvidia team up with France on self-driving cars",
     "description": "Wayve, Stellantis and Nvidia announced a collaboration with the French government to deploy self-driving vehicles in France and across the EU. Stellantis supplies L4-ready platforms, Wayve its AI Driver and Nvidia its Hyperion system. Uber is also involved, a French trade paper reported. No launch date was given. Wayve, Stellantis and Nvidia will work with",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-23T17:08:23+00:00",
@@ -812,7 +873,8 @@
     "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
     "description": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous",
     "categories": [
-      "AI & Machine Learning"
+      "AI & Machine Learning",
+      "Breaking News"
     ],
     "pub_date": "2026-10-23T16:52:55+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
@@ -2239,66 +2301,5 @@
     "pub_date": "2026-10-23T10:58:03+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Warhound-Palmer-Luckey-startup-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/windows/windows-11-could-get-a-very-different-take-on-recall-but-context-vault-feature-doesnt-seem-likely-to-persuade-ai-skeptics",
-    "title": "Windows 11 could get an alternative to Recall, but AI skeptics aren't fans",
-    "description": "A classic case of 'solving a problem that doesn't exist': Windows 11 could get a reined-in alternative to Recall, but AI skeptics still aren't fans.",
-    "categories": [
-      "Breaking News",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-23T10:55:33+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-23-shark-ultracyclone-pet-pro-plus-cordless-handheld-vacuum-deal",
-    "title": "Sharks UltraCyclone Pet Pro Plus has never been cheaper — save $20 ahead of Black Friday",
-    "description": "As of Oct. 23, the Shark UltraCyclone Pet Pro Plus cordless handheld vacuum has returned to its lowest-ever price of $79.99 at Amazon, 20% off its MSRP.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T10:54:36+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01dVpDYbFChos4zNlK0N9mM/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/entertainment/how-to-watch-maa-inti-bangaaram-online-from-anywhere",
-    "title": "How to watch Maa Inti Bangaaram online from anywhere",
-    "description": "Here’s how to watch Maa Inti Bangaaram online from anywhere, following Samantha Ruth Prabhu as a newly married woman whose violent past threatens her family life.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T10:52:40+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/YsyQEDNXiFRoCJUnNuiLQe-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/entertainment/how-to-watch-kinare-kinare-online-from-anywhere",
-    "title": "How to watch Kinare Kinare online from anywhere",
-    "description": "Here’s how to watch Kinare Kinare online from anywhere and follow Raju and Maya’s romantic journey in this Hindi-dubbed Telugu drama.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T10:49:44+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/WqGGFEkEnMRyRgdXwSpyAZ-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/meta-muse-10-million-users-stripe-limits-profit",
-    "title": "Meta had to ask Stripe to raise limits as Muse shoppers poured in",
-    "description": "Purchase volumes on Muse came in “above what any of us expected”, Mark Zuckerberg said. Meta had to ask Stripe to raise its credit limits. He spoke on Meta’s third-quarter earnings call on Wednesday. More than 10 million people in the US and Canada have set up the AI agent since its 8 September launch.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Social & Media",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-23T10:47:26+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/mark-zuckerberg-on-stage-meta-connect-2026.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
