@@ -1,5 +1,75 @@
 [
   {
+    "link": "https://9to5mac.com/2026/10/23/iphone-duo-has-hidden-trick-that-solves-a-common-complaint/",
+    "title": "iPhone Duo has hidden trick that solves a common complaint",
+    "description": "iPhone Duo is officially out in the wild, and users keep discovering new details about the device. The latest: there’s a hidden trick that makes opening Control Center significantly easier.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T19:43:08+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-front-home-screen-chm.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
+    "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
+    "description": "Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the \"Netflix of Piracy\" software is still installed on millions of devices that are just waiting to join a bot",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-23T19:35:15+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15706750/CE_tJ_AUIAA9JV-.0.0.1456496896.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261023/p19#a261023p19",
+    "title": "Moonshot says it removed cyber-related data from training phases for Kimi K3.1 Pro \"to reduce potential misuse risk while preserving general usefulness\" (Matthias Bastian/The Decoder)",
+    "description": "Matthias Bastian / The Decoder:\nMoonshot says it removed cyber-related data from training phases for Kimi K3.1 Pro “to reduce potential misuse risk while preserving general usefulness”  —  Key Points … Ask about this article...  The model scores 55 points on the Artificial Analysis Intelligence Index …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T19:35:02+00:00",
+    "image_url": "http://www.techmeme.com/261023/i19.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/nato-jammers-will-block-out-gps-for-miles-around-and-they-could-be-the-secret-weapon-in-the-next-big-conflict",
+    "title": "NATO jammers will block out GPS for miles around — and they could be the secret weapon in the next big conflict",
+    "description": "After three years of Russian GPS jamming over Europe's eastern flank, NATO has decided its crews need to train against the real thing.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T19:35:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/U8EMRgNDt3a9Cv8iNUaaNE-1920-80.jpeg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+    "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+    "description": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-23T19:32:39+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/health-fitness/smartwatches/apple-watch-ultra-4-review",
+    "title": "Apple Watch Ultra 4 review: Another triumph",
+    "description": "The Apple Watch Ultra 4 retains its crown for another year, with the addition of the long-requested Readiness score",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T19:30:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/MEqHhmQzBWQVD52a7Vuk5j-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
     "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
     "description": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
@@ -524,8 +594,8 @@
   },
   {
     "link": "https://www.techmeme.com/261023/p13#a261023p13",
-    "title": "AISI finds Mythos 5 pushed a GitHub maintainer to accept malicious code in a July eval despite evidence he was real; other models behaved the same in simulation (AI Security Institute)",
-    "description": "AI Security Institute:\nAISI finds Mythos 5 pushed a GitHub maintainer to accept malicious code in a July eval despite evidence he was real; other models behaved the same in simulation  —  We examine why Mythos 5 pursued an unsanctioned supply-chain attack and identify broader learnings about model behaviour and oversight.",
+    "title": "AISI finds Mythos 5 attempted a supply-chain attack by submitting malicious code and creating fake accounts to pressure a GitHub maintainer into accepting it (AI Security Institute)",
+    "description": "AI Security Institute:\nAISI finds Mythos 5 attempted a supply-chain attack by submitting malicious code and creating fake accounts to pressure a GitHub maintainer into accepting it  —  We examine why Mythos 5 pursued an unsanctioned supply-chain attack and identify broader learnings about model behaviour and oversight.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -874,7 +944,6 @@
     "description": "An engineer at Nscale’s Stavanger data centre has sued the AI cloud firm and subcontractor CloudBrothers, Bloomberg reported. He claims Nscale directed his work like an employer and that he was fired after raising pay concerns. The case comes as Nscale prepares a contested IPO. An engineer at Nscale’s data centre in Stavanger, Norway, has",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-23T15:36:32+00:00",
@@ -1565,7 +1634,7 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.cnet.com/tech/mobile/iphone-duo-lines-at-apple-store-sold-out-2/",
+    "link": "https://www.cnet.com/tech/mobile/iphone-duo-lines-at-apple-store-sold-out/",
     "title": "The iPhone Duo Hit Stores Friday. Next Came Long Lines, Sellouts and Resellers",
     "description": "Crowds camped outside of stores before Apple’s first folding phone became available.",
     "categories": [
@@ -1573,18 +1642,6 @@
     ],
     "pub_date": "2026-10-23T12:33:45+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/first-iPhone-Duo.webp",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/mobile/iphone-duo-lines-at-apple-store-sold-out/",
-    "title": "The iPhone Duo Is Selling Out Within Minutes of Apple Stores’ Doors Opening",
-    "description": "Crowds camped outside of stores up to two days before the iPhone Duo became available on Friday.",
-    "categories": [
-      "Breaking News",
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-10-23T12:33:45+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/5th-ave-bridget.webp",
     "source_name": "CNET.COM"
   },
   {
@@ -2258,62 +2315,5 @@
     "pub_date": "2026-10-23T10:08:01+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/060LRkmq67fZwXUoQ0rFXQI/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/mattress-types-explained-2026/",
-    "title": "What Type of Mattress Is Right for You? (2026)",
-    "description": "Here’s how to pick the best mattress for your sleep needs, straight from a professional mattress tester.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T10:08:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ada561615aedf0df959752a/master/pass/What%20Type%20of%20Mattress%20Is%20Right%20for%20You%20102026.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-23-apple-iphone-duo-best-preorder-deal",
-    "title": "The iPhone Duo has launched: How to save $1,000 without a trade-in",
-    "description": "Find the best iPhone Duo preorder deal. Get the new Apple iPhone Duo for $1,000 off when you switch to T-Mobile and bring your number.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T10:03:53+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07shU4GUy1wJpAVSDH8RF0k/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/audio/apple-music/apples-hidden-a-fully-functional-original-ipod-in-the-new-apple-music-site-heres-how-you-can-give-this-a-spin",
-    "title": "Apple's hidden a fully functional original iPod in the new Apple Music site",
-    "description": "What a blast from the past — take yourself back to 2001 with the right URL",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T10:02:18+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/4KvYjXxhxJtyYfBECiTaUK-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.cnet.com/roadshow/personal-mobility/onyx-rcr-80v-review/",
-    "title": "Beyond the Review: Inside the Onyx RCR 80V E-Bike",
-    "description": "The Onyx RCR 80V can hit motorcycle speeds, but after hundreds of miles in the saddle, I found there’s a lot more to this compact e-bike than going fast.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T10:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Onyx-Bike-10.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
-    "title": "No, the iPhone Duo isn’t a small phone",
-    "description": "When we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. \"Is this… a small phone that turns into a tablet?\" they asked. And I'm sorry to be the bearer of bad news, but no.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-23T10:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04350_processed.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
