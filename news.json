@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
+    "title": "RS-25 Engine Tests at NASA Stennis",
+    "description": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket, with a 111% power level. For each",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T18:57:04+00:00",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg?w=2048",
+    "source_name": "NASA.GOV"
+  },
+  {
+    "link": "https://www.digitaltrends.com/photography/sigma-fp2-smallest-full-frame-camera/",
+    "title": "Sigma FP2 is the world’s smallest full-frame camera built for photographers and filmmakers",
+    "description": "Sigma FP2 launches with a 24.5MP full-frame sensor, 6K video, 20fps shooting, 70GB internal storage, and a compact modular design.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T18:53:30+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Sigma-FP2-featured.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/hindsight-ai-content-moderation-perspective-api-shutdown",
+    "title": "Hindsight puts up to $1M behind its AI content moderation as Google shuts down Perspective API",
+    "description": "Starting January 1, any moderation pipeline calling Perspective will fail. Google’s Jigsaw unit shuts the service down on December 31, ending one of the most widely used tools for scoring online comments for toxicity. For platforms, publishers, marketplaces, and communities built on it, the next few months bring an unwelcome decision. Find a replacement, and",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-23T18:49:15+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/dean-gebert-hindsight-founder.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/etsy-ai-rules-generated-images-recipes-patterns",
+    "title": "Etsy is cracking down on AI slop. Here’s what’s changing.",
+    "description": "Etsy is banning AI-generated recipes and patterns, requiring real product photos for most listings, and targeting misleading AI imagery.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T18:46:30+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/004WkM1bYxVb21VTRivk2U6/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
     "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
     "description": "My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, albeit with a $30 price increase. Thankfully, the Soundcore Space 2 are currently on sale at Amazon, Best Buy, and Walmart",
@@ -10,6 +58,17 @@
     "pub_date": "2026-10-23T18:43:30+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268498_Soundcore_Space_2_AKrales_0084.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://mashable.com/article/what-is-kindle-plus",
+    "title": "What is Kindle+? A library of books at your fingertips for just $12 a month.",
+    "description": "Formerly known as Kindle Unlimited, Kindle+ is a monthly subscription to Amazon's digital library. It provides access to millions of books, all at your disposable.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-23T18:32:57+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00YKdPUXunHLA7VlYTuQPQ5/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.wired.com/story/revival-rugs-birthday-sale-october-2026/",
@@ -132,9 +191,8 @@
   {
     "link": "https://www.techmeme.com/261023/p15#a261023p15",
     "title": "Kimi unveils K3.1 Pro, a 3T-class open-weight model with a 1M-token context window, and K3.1 Pro Highspeed, with full weights to be released by November 4 (Kimi)",
-    "description": "Kimi:\nKimi unveils K3.1 Pro, a 3T-class open-weight model with a 1M-token context window, and K3.1 Pro Highspeed, with full weights to be released by November 4  —  - Terminal-Bench 4.0. … - Terminal-Bench Science 0.1. … - DeepSWE v1.1. … - SWE-Marathon v1.1. … - PostTrainBench.",
+    "description": "Kimi:\nKimi unveils K3.1 Pro, a 3T-class open-weight model with a 1M-token context window, and K3.1 Pro Highspeed, with full weights to be released by November 4  —  We're introducing Kimi K3.1 Pro, the first model in our new K3.1 series and our most capable 3T-class open-weight model to date, with a 1-million-token context window.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-23T17:45:05+00:00",
@@ -826,7 +884,6 @@
     "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
     "description": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy",
       "Science & Environment"
     ],
@@ -839,7 +896,6 @@
     "title": "How Many Billions Would It Take to Hold Meta Accountable?",
     "description": "Meta got hit this week with its biggest fine yet, the latest in a mounting pile of court-ordered payments.",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Social & Media"
     ],
@@ -924,6 +980,7 @@
     "title": "The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera",
     "description": "Seven years after Sigma claimed its original fp was the world's smallest and lightest full-frame mirrorless camera, the company has announced a similarly compact follow-up with several welcome upgrades, including an improved sensor, an articulating LCD display, and longer battery life. But this time around, Sigma is only claiming its new FP2 is the \"world's",
     "categories": [
+      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-23T14:42:46+00:00",
@@ -2258,62 +2315,6 @@
     ],
     "pub_date": "2026-10-23T09:41:08+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/05jnjiXo3haWUSOyzY9xrQI/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/best-scary-movies-paramount-plus-update",
-    "title": "The scariest movies on Paramount+ to run a chill down your spine",
-    "description": "From '90s classics like \"The Faculty\" to recent hits like \"Smile 2,\" this list of scary movies streaming on Paramount+ has something for everyone.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T09:41:07+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01BwVUylhjoUavP4paWzDgw/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/best-horror-movies-amazon-prime-video-update",
-    "title": "31 best horror movies on Prime Video thatll give you nightmares",
-    "description": "\"Train to Busan,\" \"Saint Maud,\" and \"Nope\" are among the best horror movies streaming now on Amazon Prime Video.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T09:39:28+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07zueKLWU6RCk28l4u0iOyw/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/john-collison-microsoft-board-nadella-pay",
-    "title": "Microsoft nominates Stripe’s Collison to its board and trims Nadella’s pay",
-    "description": "Microsoft has nominated Stripe co-founder and president John Collison to its board, the company disclosed on Wednesday in its annual proxy statement. The same filing asks shareholders to approve a $90.6m pay package for chief executive Satya Nadella, down about 6% from $96.4m a year earlier, The Information reported. Collison, 36, would take one of",
-    "categories": [
-      "Business & Startups",
-      "Gaming"
-    ],
-    "pub_date": "2026-10-23T09:38:45+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/john-collison-stripe-cofounder-president.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-23-roborock-qrevo-robot-vacuum-deal",
-    "title": "The Roborock Qrevo CurvX robot vacuum has dropped to its lowest-ever price at Amazon — save $750",
-    "description": "Get the best robot vacuum deal on Amazon. Save 50% on the roborock Qrevo CurvX at Amazon right now.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T09:36:45+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07l7l0mxz64lTw9pC1fhIkN/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/best-horror-movies-hbo-max-updated",
-    "title": "The best horror movies on HBO Max thatll keep you up at night",
-    "description": "A list of the best horror movies now streaming on HBO Max, including \"The Blob,\" \"Scanners,\" \"Sinners,\" \"Weapons,\" and more.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T09:36:36+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05bXYzZmYVD61DwGI1EdNQZ/hero-image.jpg",
     "source_name": "MASHABLE.COM"
   }
 ]
