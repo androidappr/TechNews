@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "title": "Block’s new voice model sounds eerily human",
+    "description": "Block said that the voice model can run locally on a MacBook M4 Max",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-24T16:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261024/p6#a261024p6",
     "title": "An interview with Ciena CEO Gary Smith, a veteran of the 2001 telecoms crash, on AI demand outpacing supply for Ciena's optical networking chips, and more (Steven Rosenbush/Wall Street Journal)",
     "description": "Steven Rosenbush / Wall Street Journal:\nAn interview with Ciena CEO Gary Smith, a veteran of the 2001 telecoms crash, on AI demand outpacing supply for Ciena's optical networking chips, and more  —  Ciena CEO Gary Smith is ‘suitably paranoid,’ but optimistic  —  The historic telecommunications crash of 2001 is burned indelibly …",
@@ -10,6 +22,17 @@
     "pub_date": "2026-10-24T15:40:01+00:00",
     "image_url": "http://www.techmeme.com/261024/i6.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/critical-musk-documentary-ends-theatrical-run-after-just-two-weeks",
+    "title": "Critical Musk documentary pulled from theatres after just two weeks",
+    "description": "Alex Gibney's four-hour-long \"Musk\" doc will end its theatrical run after just two weeks. It can be streamed on Prime Video.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-24T15:34:10+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/03CDcsSgbSJg7oydzhxOfF9/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
@@ -386,7 +409,6 @@
     "title": "It’s time to find a new browser",
     "description": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Demis",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-24T12:00:00+00:00",
@@ -411,7 +433,6 @@
     "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
     "description": "A new model suggests Mars may host ice-forming physics never directly observed before.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-10-24T11:50:28+00:00",
@@ -2215,29 +2236,5 @@
     "pub_date": "2026-10-23T18:20:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/mBxmnLnpbAuepmei5vxvLf-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/moonshot-kimi-k3-1-pro-open-weight-cyber",
-    "title": "Moonshot releases Kimi K3.1 Pro and says it cut its hacking skills",
-    "description": "Moonshot has released Kimi K3.1 Pro, an upgraded version of its open-weight Kimi K3, with full weights due by 4 November. It says the model nearly matches Claude Opus 5.5 on a coding test. Moonshot also says it removed hacking-related training data to limit misuse of the open release. Chinese AI lab Moonshot has released",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-10-23T18:19:34+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/kimi-logo-construction-grid-black-background.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/contributor-content/the-next-phase-of-the-glp-1-boom-is-about-choice-access-and-follow-up/",
-    "title": "The Next Phase of the GLP-1 Boom Is About Choice, Access, and Follow-Up",
-    "description": "The first wave of the GLP-1 era in the U.S. was defined by scarcity. Patients often waited for backlogged prescriptions, pharmacies rationed supply, and demand outpaced what manufacturers could deliver. That period is largely over. Tirzepatide and semaglutide are now regularly available, the range of clinical options has widened, and platforms such as Mochi Health",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T18:10:59+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/glp1-care-1350x810-1.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
   }
 ]
