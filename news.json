@@ -1,17 +1,5 @@
 [
   {
-    "link": "https://www.techradar.com/entertainment/rugby/watch-england-vs-france-free-rugby-league-world-cup-2026",
-    "title": "How to watch England vs France: FREE live streams, TV channels and kick-off time for Rugby League World Cup 2026",
-    "description": "All the ways to watch England vs France live streams for free from anywhere in the world as Brian McDermott seeks a first Rugby League World Cup 2026 win.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-24T04:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/rcCpofpd9omX7ZNfLQQZ74-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/entertainment/sport/watch-alpine-ski-world-cup-2026-27",
     "title": "How to watch Alpine Ski World Cup 2026/27: FREE live streams, TV channels, schedule",
     "description": "All the ways to watch Alpine Ski World Cup 2026/27 live streams for free from anywhere in the world, with TV channels and the season schedule included.",
@@ -21,6 +9,18 @@
     ],
     "pub_date": "2026-10-24T04:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/GxqJeoikv65fvoDnynE3bP-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/entertainment/rugby/watch-england-vs-france-free-rugby-league-world-cup-2026",
+    "title": "How to watch England vs France: FREE live streams, TV channels and kick-off time for Rugby League World Cup 2026",
+    "description": "All the ways to watch England vs France live streams for free from anywhere in the world as Brian McDermott seeks a first Rugby League World Cup 2026 win.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-24T04:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/rcCpofpd9omX7ZNfLQQZ74-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -362,7 +362,6 @@
     "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
     "description": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-10-23T22:48:25+00:00",
@@ -374,7 +373,6 @@
     "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
     "description": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers. Since NASA established initial contracts with Blue Origin and SpaceX",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-23T22:39:39+00:00",
@@ -386,7 +384,6 @@
     "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
     "description": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history.  Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano aboard the Orion spacecraft into low Earth orbit",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-23T22:37:53+00:00",
@@ -409,8 +406,7 @@
     "title": "OpenAI says it's cutting off internet access for frontier model training",
     "description": "OpenAI says it will no longer allow frontier models to access the internet during training in an effort to put in new safety measures after a series of incidents.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-23T22:37:02+00:00",
     "image_url": "https://www.engadget.com/img/gallery/openai-says-its-cutting-off-internet-access-for-frontier-model-training/l-intro-1792794862.jpg",
