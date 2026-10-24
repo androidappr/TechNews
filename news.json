@@ -1,5 +1,76 @@
 [
   {
+    "link": "https://www.digitaltrends.com/computing/openai-is-locking-its-most-advanced-ai-models-offline-after-a-string-of-security-scares/",
+    "title": "OpenAI is locking its most advanced AI models offline after a string of security scares",
+    "description": "After a model briefly reached the live web, OpenAI’s most advanced systems will now practice only on a simulated internet.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-24T10:40:00+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/openai-anthropic-logo-on-screen.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/phones/google-messages-is-getting-a-powerful-new-weapon-against-sneaky-text-scams/",
+    "title": "Google Messages is getting a powerful new weapon against sneaky text scams",
+    "description": "Suspicious texts and dangerous links are about to have a harder time slipping through Google Messages, thanks to a new layer of AI-powered security.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-24T10:35:53+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/09/Scam-Detection-in-Google-Messages.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261024/p3#a261024p3",
+    "title": "Inside Meta's law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings (Rachel Monroe/New Yorker)",
+    "description": "Rachel Monroe / New Yorker:\nInside Meta's law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings  —  Algorithmic social media, which has helped create the conditions for the spread of such violence, is reckoning with how it can be part of the solution.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-24T10:35:01+00:00",
+    "image_url": "http://www.techmeme.com/261024/i3.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/openai-frontier-training-no-live-internet",
+    "title": "OpenAI cuts live internet from all frontier model training",
+    "description": "OpenAI has cut live web access from all training of its most advanced AI models. The models now browse and search a cached copy of the web instead, the company wrote in a blog post on Friday. “Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure,” OpenAI wrote, it believes",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-24T10:30:20+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/sam-altman-on-stage-openai-logo-devday-2026.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/joybird-semi-annual-sale-2026/",
+    "title": "My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale",
+    "description": "The Joybird Eliot Sleeper, plus hundreds of other options, are up to 40 percent off during the brand’s Semiannual sale.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-24T10:30:00+00:00",
+    "image_url": "https://media.wired.com/photos/6adba966042fe07bfaca19da/master/pass/Joybird%20Deals%20Post%20102026%20top%20art%20SOURCE%20Joybird.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/malaysia-may-extend-waze-ban-to-the-public-anwar-says",
+    "title": "Malaysia may extend Waze ban to the public, Anwar says",
+    "description": "Malaysia could extend its ban on the Waze maps app from civil servants to the whole country, Prime Minister Anwar Ibrahim said on Friday. A full ban would come only after officials look at other apps, he said. Anwar spoke to reporters in Kuala Lumpur, according to Bernama, the national news agency. Officials will check if",
+    "categories": [
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-24T10:22:27+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/waze-app-icon-phone-screen.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.engadget.com/2296124/meta-delaying-controversial-business-terms-scraping-concerns/",
     "title": "Meta is delaying its controversial new business terms amid scraping concerns",
     "description": "Meta drew flak for an upcoming change to its business terms that would allow it to scrape business accounts' content for AI training.",
@@ -454,7 +525,6 @@
     "title": "A look at OpenAI's Project Daybreak, which lets vetted partners use its top hacking models to find and fix vulnerabilities and helped uncover PHP2Shell RCE bugs (Thomas Brewster/Forbes)",
     "description": "Thomas Brewster / Forbes:\nA look at OpenAI's Project Daybreak, which lets vetted partners use its top hacking models to find and fix vulnerabilities and helped uncover PHP2Shell RCE bugs  —  This voice experience is generated by AI.  Learn more.  —  Using the latest GPT model, cyber researchers …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-24T06:35:01+00:00",
@@ -2176,72 +2246,5 @@
     "pub_date": "2026-10-23T16:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/L6J7srNJYSFwfznupmyi36-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/apple-iphone-duo-samsung-foldable-sales",
-    "title": "The iPhone Duo could be boosting Samsung Galaxy foldable sales",
-    "description": "Samsung is boasting about high foldable sales, and Apple could be partially responsible.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T15:59:51+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00riAVPgetELJP1wf6NthEj/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/exclusive-weve-got-a-first-look-at-two-new-star-trek-magic-the-gathering-cards-including-a-red-tolarian-terror-that-im-very-glad-isnt-common",
-    "title": "A Red Tolarian Terror is coming in Star Trek Universes Beyond",
-    "description": "A Red Tolarian Terror, and a Green Landfall Commander are our Star Trek previews.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-23T15:59:10+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/hddradeAQkJtxff2LU9HEf-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/maybe-you-win-the-battle-but-lose-the-war-because-you-put-all-your-resources-into-one-battle-warhammer-40-000-dawn-of-war-4-creative-director-says-king-art-games-wanted-battles-to-take-a-while-so-borrowed-from-the-original-strategy-games-systems",
-    "title": "'Maybe you win the battle but lose the war because you put all your resources into one battle' — Warhammer 40,000: Dawn of War 4 creative director says King Art Games 'wanted battles to take a while' so borrowed from the original strategy game's systems",
-    "description": "Warhammer 40,000: Dawn of War 4 creative director Jan Theysen has described how the game manifests the classic RTS experience of the original Dawn of War.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-23T15:56:08+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/bHw6SQ3cTxUc56jLcsALwR-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-23-roborock-rockmow-deal",
-    "title": "This beast of a robot lawn mower from Roborock is $500 off at Amazon — get the RockMow X130H for under $2,000",
-    "description": "As of Oct. 23, you can get the Roborock RockMow X130H for $1,999.98, down from $2,499.99, at Amazon. That's a 20% discount.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T15:53:43+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/029lfHliaqRZud51ZdtQDd1/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/oracle-1b-partner-ecosystem-ai-world",
-    "title": "Oracle pledges $1B over four years to partners that sell its AI tools",
-    "description": "Oracle announced a $1B, four-year commitment to its partner ecosystem at AI World in Las Vegas, covering training, test and demo environments, cloud migration funding and Marketplace sales. It also changed Marketplace rules. The pledge comes as Oracle cuts costs to fund its AI data centres. Oracle will spend $1B over the next four years",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-23T15:49:07+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/oracle-logo-3d-letters-pink-blue-light.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261023/p12#a261023p12",
-    "title": "Sources: Kalshi is targeting a December rollout for exchange-traded futures contracts tracking US inflation, rivaling exchanges like CME and ICE (Greg Ritchie/Bloomberg)",
-    "description": "Greg Ritchie / Bloomberg:\nSources: Kalshi is targeting a December rollout for exchange-traded futures contracts tracking US inflation, rivaling exchanges like CME and ICE  —  Kalshi Inc. is opening up a new frontier in its rivalry with traditional financial exchanges by pitching the world's largest banks and hedge funds on a futures market tied to US inflation.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T15:45:01+00:00",
-    "image_url": "http://www.techmeme.com/261023/i12.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
