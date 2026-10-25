@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://mashable.com/tech/pennsylvania-enacts-law-regulating-ai-generated-advertisements",
+    "title": "Pennsylvania enacts law regulating AI-generated advertisements",
+    "description": "It's called the AI Deceptive Advertising Act and it's casting a very wide net.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-25T18:48:21+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/04k0dWTzyTY1R26IFHqWnOv/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.engadget.com/2293911/what-bell-icon-means-carplay-announce-notifications-feature/",
     "title": "What does the bell icon mean on your CarPlay screen?",
     "description": "Even as a simplified interface, CarPlay has a few icons that aren't so obvious, like its bell that appears on the app switcher.",
@@ -22,17 +34,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.techradar.com/computing/websites-apps/ultimate-planner",
-    "title": "Always late for meetings or failing at life goals? This affordable planning app was made for you",
-    "description": "Homescreen Heroes: Ultimate Planner is the most customizable digital planner app I’ve ever seen",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-25T18:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/fpuqZgSit44GF7425jSKNa-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/audio/dacs/topping-dx1-ii-review",
     "title": "Topping DX1 II review: a well-built DAC with great specification that just fails grab you by the lapels",
     "description": "The Topping DX1 II is a big step up from the original DX1 DAC, at least where specification is concerned, but it's a little laid-back to truly excite.",
@@ -52,6 +53,17 @@
     ],
     "pub_date": "2026-10-25T18:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/fHJr8hAhvsiQACHZf9qJKo-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/websites-apps/ultimate-planner",
+    "title": "Always late for meetings or failing at life goals? This affordable planning app was made for you",
+    "description": "Homescreen Heroes: Ultimate Planner is the most customizable digital planner app I’ve ever seen",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-25T18:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/fpuqZgSit44GF7425jSKNa-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -280,7 +292,6 @@
     "title": "How well do you know classic TV show Lost?",
     "description": "Breaking Bad, Better Call Saul, El Camino, more; we'll find out how much you know about the Gilliverse.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-25T15:00:00+00:00",
@@ -2227,17 +2238,5 @@
     "pub_date": "2026-10-24T10:59:22+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/london-bus-westminster-bridge.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/",
-    "title": "9 Unique Apps to Try on the iPhone Duo",
-    "description": "Apple’s first folding phone is inspiring indie developers to create fun, quirky apps that take advantage of the screen and the hinge. Here are a few to try as you explore the Duo.",
-    "categories": [
-      "Gadgets & Hardware",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-24T10:45:00+00:00",
-    "image_url": "https://media.wired.com/photos/6adb699efc34ba9fae2279b4/master/pass/Top%20Art%20SOURCE%20Julian%20Chokkattu.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
