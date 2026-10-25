@@ -11,6 +11,39 @@
     "source_name": "ENGADGET.COM"
   },
   {
+    "link": "https://www.techradar.com/audio/dacs/topping-dx1-ii-review",
+    "title": "Topping DX1 II review: a well-built DAC with great specification that just fails grab you by the lapels",
+    "description": "The Topping DX1 II is a big step up from the original DX1 DAC, at least where specification is concerned, but it's a little laid-back to truly excite.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-25T18:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ALaa8oaJ3gCRbcVnKnwodQ-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-adultery",
+    "title": "How to watch Adultery online for FREE: stream steamy new thriller from anywhere",
+    "description": "Dominic Cooper & Romola Garai star in this sultry romantic thriller — here's how to watch Adultery online and for free, from anywhere.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-25T18:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/fHJr8hAhvsiQACHZf9qJKo-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/websites-apps/ultimate-planner",
+    "title": "Always late for meetings or failing at life goals? This affordable planning app was made for you",
+    "description": "Homescreen Heroes: Ultimate Planner is the most customizable digital planner app I’ve ever seen",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-25T18:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/fpuqZgSit44GF7425jSKNa-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techradar.com/entertainment/how-to-watch/how-to-watch-this-city-is-ours-season-2",
     "title": "How to watch This City Is Ours — Watch season 2 for free online from anywhere",
     "description": "Michael and Diana are dragged back into Liverpool's criminal underworld. Here's how to watch This City Is Ours season 2 online and completely FREE.",
@@ -330,7 +363,6 @@
     "description": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-25T14:10:00+00:00",
@@ -2209,39 +2241,5 @@
     "pub_date": "2026-10-24T10:40:00+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/openai-anthropic-logo-on-screen.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/phones/google-messages-is-getting-a-powerful-new-weapon-against-sneaky-text-scams/",
-    "title": "Google Messages is getting a powerful new weapon against sneaky text scams",
-    "description": "Suspicious texts and dangerous links are about to have a harder time slipping through Google Messages, thanks to a new layer of AI-powered security.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-24T10:35:53+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/09/Scam-Detection-in-Google-Messages.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261024/p3#a261024p3",
-    "title": "Inside Meta's law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings (Rachel Monroe/New Yorker)",
-    "description": "Rachel Monroe / New Yorker:\nInside Meta's law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings  —  Algorithmic social media, which has helped create the conditions for the spread of such violence, is reckoning with how it can be part of the solution.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-24T10:35:01+00:00",
-    "image_url": "http://www.techmeme.com/261024/i3.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/openai-frontier-training-no-live-internet",
-    "title": "OpenAI cuts live internet from all frontier model training",
-    "description": "OpenAI has cut live web access from all training of its most advanced AI models. The models now browse and search a cached copy of the web instead, the company wrote in a blog post on Friday. “Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure,” OpenAI wrote, it believes",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-24T10:30:20+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/sam-altman-on-stage-openai-logo-devday-2026.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
