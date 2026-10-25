@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.techmeme.com/261024/p10#a261024p10",
+    "title": "A look at Meta's role in Brazil's runoff, where Lula da Silva alleges Meta restricts his content and a court ordered it not to interfere; Meta cites glitches (Augusta Saraiva/Bloomberg)",
+    "description": "Augusta Saraiva / Bloomberg:\nA look at Meta's role in Brazil's runoff, where Lula da Silva alleges Meta restricts his content and a court ordered it not to interfere; Meta cites glitches  —  A new villain is emerging in the closing stretch of Brazil's bitterly contested presidential election: Meta Platforms Inc.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-25T01:30:05+00:00",
+    "image_url": "http://www.techmeme.com/261024/i10.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
     "title": "Here's what you need to know before buying a wireless CarPlay adapter",
     "description": "Wireless CarPlay doesn't require a new car or head unit; with the right adapter, you can enjoy a cable-free connection.",
@@ -182,7 +193,6 @@
     "title": "Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens (Torsten Slok/Apollo Global Management)",
     "description": "Torsten Slok / Apollo Global Management:\nOutside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens  —  Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-24T21:30:01+00:00",
@@ -195,7 +205,6 @@
     "description": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-10-24T21:29:12+00:00",
@@ -207,7 +216,6 @@
     "title": "Samsung's archrival wants to spread 100 special CPUs in every SSD controller ahead of PCIe 8.0, High Bandwidth Flash onslaught",
     "description": "SK Hynix plans to deploy over 100 specialized processors in SSD controllers, reducing power consumption and chip area.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-24T21:20:00+00:00",
@@ -2213,16 +2221,5 @@
     "pub_date": "2026-10-23T21:15:02+00:00",
     "image_url": "http://www.techmeme.com/261023/i22.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-    "title": "OpenAI now trains its frontier AI models with no internet access",
-    "description": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-23T21:11:07+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
