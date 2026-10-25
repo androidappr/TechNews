@@ -1,5 +1,27 @@
 [
   {
+    "link": "https://thenextweb.com/news/openai-funding-round-1-25tn-uae-coatue",
+    "title": "OpenAI cuts its valuation target to $1.25tn as it nears a $30bn round",
+    "description": "OpenAI has lowered the valuation it is seeking for its new funding round to $1.25tn, from the $1.4tn it pitched earlier this month. Some investors had pushed back on the higher price, the Financial Times reported, citing documents it had seen. The company is close to raising up to $30bn at that valuation, which does",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-10-25T10:17:55+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/sam-altman-grey-sweater-stage-openai-logo-devday-2026.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/apple-carplay-and-android-auto-make-your-phone-hot-heres-how-to-keep-it-cool/",
+    "title": "Apple CarPlay and Android Auto Make Your Phone Hot. Here’s How to Keep It Cool",
+    "description": "Powering a car dashboard is more demanding on your handset than you might think. These tips will save battery life and help your phone chill out.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-25T10:15:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ada0a2fe1636641cd0c0f13/master/pass/Car%20Wired.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/apple-rival-app-stores-australia-epic-ruling",
     "title": "Australian court orders Apple to open the iPhone to rival app stores",
     "description": "Fortnite is back on the App Store in Australia, Epic Games said on Friday. That came a day after the Federal Court of Australia ordered Apple to let the game return. G’day, Australia. 🇦🇺 We’re back on the App Store. Drop in! https://t.co/7AUJ81BUSy Fortnite (@Fortnite) October 23, 2026 The same ruling forces Apple to let",
@@ -37,6 +59,52 @@
     "pub_date": "2026-10-25T10:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6adbe4fc594ddd5d406f1b4a/master/pass/102326-Power%20Play-What%20the%20US%20Anti-Data%20Center%20Movement%20Can%20Learn%20From%20Everywhere%20Else-v2.jpg",
     "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.cnet.com/home/kitchen-and-household/tiktok-cooking-bacon-in-water-trend-results/",
+    "title": "I Caved to the TikTok Trend of Cooking Bacon in Water. Here’s How It Went",
+    "description": "Water and greasy bacon sound like a recipe for hot splatter. Here’s how the viral hack actually works.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-25T10:00:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-10-23-at-12.05.29-PM.png",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/pakcers-lions-nfl-2026-live-stream-for-free",
+    "title": "How to watch Packers vs. Lions in the NFL for free",
+    "description": "How to watch NFL for free. Live stream the NFL for free from anywhere in the world.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-25T10:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/06e2HheQvJf16Qc4ucZHU2S/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/oct-25-adguard-family-plan-lifetime-subscription",
+    "title": "Keep the content, lose the clutter — lifetime access to the AdGuard Family Plan is just $14.97",
+    "description": "Get AdGuard Family Plan lifetime access for $14.97 (reg. $169.99) through Nov. 1, with ad blocking, privacy protection, and parental controls.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-25T10:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/05RiS44unpkgjIsUf7ce0Sz/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/life/oct-25-askanymodel-ai-pro-plan-lifetime-subscription",
+    "title": "Get many AI opinions with this multi-AI tool — lifetime access is on sale for just $29.97",
+    "description": "Get lifetime AskAnyModel AI Pro for $29.97 with code SAVE10 through Oct. 25, featuring 50-plus models, side-by-side comparisons, and monthly premium credits.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-25T10:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/02rbNr3JCwUYZxx24mjD1ba/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.wired.com/story/we-linked-150-ikea-speakers-to-make-a-wall-of-sound/",
@@ -2169,71 +2237,5 @@
     "pub_date": "2026-10-23T23:50:49+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/safari.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/this-ai-tool-can-now-turn-ordinary-household-photos-into-location-clues-so-could-law-forces-use-the-technology-to-scope-out-your-home",
-    "title": "This AI tool can now turn ordinary household photos into location clues — so could law forces use the technology to scope out your home?",
-    "description": "US police are using an AI tool to detect the location of properties based on interior photos, but the way tool accumulates its data drawn concern from Airbnb, Zillow, and others",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-23T23:25:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/WKVN3Uzoxhu5ER4WDhPDuT-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available/",
-    "title": "Apple’s official DIY repair guides for the iPhone Duo now available",
-    "description": "Following today’s launch of the iPhone Duo, Apple has now published multiple repair guides and manuals for users and independent technicians looking to replace or repair individual components in the device. Here are the details.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T23:12:21+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-repair-guide.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261023/p24#a261023p24",
-    "title": "Utopai, an AI film studio that says it has more than 20 projects in the works, raised $60M at a $1B valuation (Rocket Drew/The Information)",
-    "description": "Rocket Drew / The Information:\nUtopai, an AI film studio that says it has more than 20 projects in the works, raised $60M at a $1B valuation  —  While much of the AI industry has fixated on new personal AI assistants from Meta and OpenAI, video AI is enjoying a quiet renaissance.  Hollywood mogul Jeffrey Katzenberg …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-23T23:10:05+00:00",
-    "image_url": "http://www.techmeme.com/261023/i24.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
-    "title": "Startups don’t need to go viral to win customers",
-    "description": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-23T23:07:45+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-    "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-23T23:05:49+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-24-october-2026",
-    "title": "Quordle hints and answers for Saturday, October 24 (game #1734)",
-    "description": "Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-23T23:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
