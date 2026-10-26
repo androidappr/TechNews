@@ -1,5 +1,87 @@
 [
   {
+    "link": "https://9to5mac.com/2026/10/26/tvos-27-2-just-launched-for-apple-tv-4k-heres-whats-new/",
+    "title": "tvOS 27.2 just launched for Apple TV 4K, here’s what’s new",
+    "description": "Apple has just released tvOS 27.2 for Apple TV 4K users, here’s what’s new in the latest software update.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T17:45:30+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-tv-4k-2022-model-big.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/10/26/homepod-27-2-is-available-now-with-four-new-features/",
+    "title": "HomePod 27.2 is available now with four new features",
+    "description": "Apple has released HomePod 27.2, its latest software update for HomePod users. Here’s what’s new.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T17:45:21+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homepod-2-sound-glow.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261026/p39#a261026p39",
+    "title": "Anthropic S-1: it spent just $482M on capex in H1 2026, leasing most of its compute, and its capex is almost entirely outsourced via $782B in lease obligations (Tim Culpan/Culpium)",
+    "description": "Tim Culpan / Culpium:\nAnthropic S-1: it spent just $482M on capex in H1 2026, leasing most of its compute, and its capex is almost entirely outsourced via $782B in lease obligations  —  [Opinion] Anthropic owns almost nothing.  Revenue per employee hit $6.6 million.  Obligations pass $780 billion.  —  Good Evening from Taipei,",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T17:45:01+00:00",
+    "image_url": "http://www.techmeme.com/261026/i39.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+    "title": "This startup’s self-driving excavators help dig up $600M in new funding",
+    "description": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T17:45:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techradar.com/vpn/vpn-privacy-security/fake-tiktok-shops-now-fuel-one-in-five-phishing-blocks-and-black-friday-could-make-it-worse",
+    "title": "Fake TikTok Shops now fuel one in five phishing blocks — and Black Friday could make it worse",
+    "description": "Surfshark data shows blocks of one fake TikTok Shop domain rose 638% between May and September, as phishing exposure climbs across Europe and the US ahead of Black Friday.",
+    "categories": [
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-26T17:37:09+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/5MSXdSD3SMd8dCNawoqX4b-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/wearables/fitbit/fitbit-air-health-guardian-spearheads-a-huge-google-health-update-in-october",
+    "title": "Fitbit Air finally gets 'Health Guardian' in a huge Google Health update in October",
+    "description": "Fitbit Air users are finally receiving Health Guardian in a major Android update for automatic activity and sleep tracking and more.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T17:35:59+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/eGzky4gVpTtm3iimTKWun8-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261026/p38#a261026p38",
+    "title": "Cohere says during an evaluation Qwen3.8-Flash-Next inventoried its host machine and tried to upload a probe file to an Alibaba Cloud storage bucket in Beijing (Cohere)",
+    "description": "Cohere:\nCohere says during an evaluation Qwen3.8-Flash-Next inventoried its host machine and tried to upload a probe file to an Alibaba Cloud storage bucket in Beijing  —  For nearly two years, one comforting idea has shaped how companies and government contractors adopt open-weight AI models that anyone can download and run.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T17:35:01+00:00",
+    "image_url": "http://www.techmeme.com/261026/i38.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
     "title": "The RealReal won’t let AI agents hog designer clothing",
     "description": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website,",
@@ -27,7 +109,7 @@
   },
   {
     "link": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
-    "title": "Apple acknowledges iPhone Duo display &#8216;issues&#8217; after reports of cracked screens",
+    "title": "Apple acknowledges iPhone Duo display &#8216;issue&#8217; after reports of cracked screens",
     "description": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an issue impacting the inner display\" on a \"small number of iPhone Duo units.\" If your iPhone Duo",
     "categories": [
       "Breaking News",
@@ -37,6 +119,17 @@
     "pub_date": "2026-10-26T17:28:07+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1230.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/faraday-future-robotics-ffr-deal-closes",
+    "title": "Faraday Future spins its robot business into a separate Nasdaq company",
+    "description": "Faraday Future has completed the sale of its robotics business to FF EAI Robotics Ecosystem (FFR), which trades on Nasdaq, in an all-share deal valued at about $200M. Founder YT Jia becomes FFR’s CEO. FFR expects October shipments above 300 robots and about 2,000 for 2026. Faraday Future has completed the sale of its robotics",
+    "categories": [
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-26T17:27:54+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/ff-robotics-robot-lineup-humanoids-robot-dogs.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
@@ -1300,7 +1393,6 @@
     "title": "Apple teases an ‘exciting week’ of new products ahead",
     "description": "Today Apple introduced a big update to the iPad mini, but it’s only the start of what the company has planned, as Greg Joswiak just teased an exciting week ahead.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T13:36:02+00:00",
@@ -2263,94 +2355,5 @@
     "pub_date": "2026-10-26T10:03:57+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/instacart-logo-smartphone-wooden-table.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/life/oct-26-pokemon-tcg-ascended-heroes-mega-meganium-ex-box-deal",
-    "title": "The Pokémon TCG Ascended Heroes Mega Meganium ex Box is close to best-ever price on Amazon — save $20",
-    "description": "Save 25% on the Pokémon TCG Ascended Heroes Mega Meganium ex Box at Amazon, now $59.99 and nearly its lowest-ever price.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T10:02:19+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01pu7mTRkfifPrNogyszhRV/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261026/p9#a261026p9",
-    "title": "A look at TSMC's first plant in Phoenix that has achieved chip output rates comparable to its Taiwan facilities, as its Taiwanese engineers teach US workers (New York Times)",
-    "description": "New York Times:\nA look at TSMC's first plant in Phoenix that has achieved chip output rates comparable to its Taiwan facilities, as its Taiwanese engineers teach US workers  —  On July 5 the Northwest Chinese Baptist Church in Phoenix opened its weekly Mandarin service with a verse from the Old Testament.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T10:00:36+00:00",
-    "image_url": "http://www.techmeme.com/261026/i9.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/preparing-for-a-quantum-safe-future",
-    "title": "Preparing for a quantum-safe future",
-    "description": "Quantum computing still feels like uncharted territory - yet like AI, the threat it poses is significant.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T10:00:05+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/d4oN2QTeNf8QYJDmjZnAKE-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.wired.com/review/lykyn-automated-mushroom-grow-box/",
-    "title": "Lykyn Review: A Mushroom Garden Worth Showing Off",
-    "description": "Dramatic lighting and fog make this countertop fruiting chamber a conversation starter. The mushrooms are pretty good too.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T10:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/",
-    "title": "The Tragedy of Having a Wikipedia Page—and Then Losing It",
-    "description": "Every day, Wikipedia biographies of living people are flagged for deletion because the subjects are not “notable” enough. How do these poor souls take the news?",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-26T10:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure",
-    "title": "The city that fought Flock",
-    "description": "It was about to be a long night in Huntington, West Virginia. Mayor Patrick Farrell stood before 10 members of city council in a white dress shirt and dark blazer studded with an American flag pin. Behind him sat his constituents and residents from neighboring towns. Some had their arms crossed, while others held a",
-    "categories": [
-      "Government & Policy"
-    ],
-    "pub_date": "2026-10-26T10:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268752_Flock_camera_photos_CAlo_25.jpeg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/cyber-security/are-passkeys-more-secure-than-passwords",
-    "title": "Are passkeys more secure than passwords?",
-    "description": "What makes them safer – and where they fall short.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T10:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/dpYpu4kURRoCpERiFgAv8o-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-26-lenovo-idea-tab-deal",
-    "title": "Lenovo’s student-ready Idea Tab bundle comes with a pen and case for under $230",
-    "description": "Save 11% on the Lenovo Idea Tab bundle at Amazon. Get an 11-inch 2.5K display, 256GB storage, stylus, and folio case for $229.99.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T09:57:09+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04tbkRa9tIU6nV74o1crBWl/hero-image.png",
-    "source_name": "MASHABLE.COM"
   }
 ]
