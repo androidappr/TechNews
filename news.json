@@ -1,5 +1,66 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
+    "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
+    "description": "The new iPad mini features a thinner and lighter design than its predecessor.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-26T14:25:43+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/mobile/iphone-duo-ifixit-teardown-cracked-screens-culprit/",
+    "title": "As iPhone Duo Cracked Screen Reports Surface, a New Teardown Shows a Possible Culprit",
+    "description": "In spite of its display issues, iFixit declares the iPhone Duo “the most repairable foldable” it’s ever tinkered with.",
+    "categories": [
+      "Breaking News",
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-10-26T14:22:30+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/unnamed-1.webp",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/tablets/apples-new-ipad-mini-has-speakers-built-into-its-screen-an-a20-pro-chip-and-ip67-protection/",
+    "title": "Apple’s new iPad mini has speakers built into its screen, an A20 Pro chip, and IP67 protection",
+    "description": "Apple’s new iPad mini ditches speaker holes, adds an OLED screen and IP67 resistance, but battery life remains a question.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-26T14:18:40+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/iPad-mini-8-in-hand.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/openai-discounts-anthropic-customers-replit-rippling",
+    "title": "OpenAI’s discounts win Anthropic customers, The Information reports",
+    "description": "Replit moved most of its AI spending from Anthropic to OpenAI in recent months after OpenAI offered a discount of more than 30%, The Information reported on Saturday. The contract is worth over $100M a year, a person familiar with the deal told The Information, in a story by Laura Bratton and Stephanie Palazzolo. Replit",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-26T14:17:22+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/amjad-masad-replit-techcrunch-disrupt-2026-stage.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/apple-ipad-mini-8-announced",
+    "title": "Apples new iPad Mini has a bigger display, a newer chip, and a higher price",
+    "description": "Apple unveiled the new 2026 iPad Mini model, and everything about it seems better than before, except for the price.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T14:10:58+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/077o9BGvCfzliNvdq2gEfxx/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
     "title": "The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans",
     "description": "Two US senators say the Trump administration is breaking the law by withholding the FISA court decision while it presses Congress to renew America’s most sweeping surveillance program.",
@@ -58,7 +119,7 @@
       "Tech News"
     ],
     "pub_date": "2026-10-26T14:03:35+00:00",
-    "image_url": "http://www.techmeme.com/261026/i27.jpg",
+    "image_url": "http://www.techmeme.com/img/pml.png",
     "source_name": "TECHMEME.COM"
   },
   {
@@ -175,7 +236,7 @@
       "Breaking News"
     ],
     "pub_date": "2026-10-26T13:41:26+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/anthropic-has-filed-to-go-public/l-intro-1793021975.jpg",
+    "image_url": "https://www.engadget.com/img/gallery/anthropic-files-to-go-public/l-intro-1793024822.jpg",
     "source_name": "ENGADGET.COM"
   },
   {
@@ -217,9 +278,8 @@
   {
     "link": "https://www.techmeme.com/261026/p23#a261026p23",
     "title": "Anthropic S-1: of its $80.7B net loss in H1 2026, nearly $9B came from computing power and infrastructure, and it has nearly $800B in commitments over 10 years (Financial Times)",
-    "description": "Financial Times:\nAnthropic S-1: of its $80.7B net loss in H1 2026, nearly $9B came from computing power and infrastructure, and it has nearly $800B in commitments over 10 years  —  AI company sets out its pitch to investors as the debate over the safety of the technology intensifies",
+    "description": "Financial Times:\nAnthropic S-1: of its $80.7B net loss in H1 2026, nearly $9B came from computing power and infrastructure, and it has nearly $800B in commitments over 10 years  —  240,000-word prospectus lays out explosive growth alongside steep losses and daunting risk factors",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T13:30:05+00:00",
@@ -229,7 +289,7 @@
   {
     "link": "https://www.techmeme.com/261026/p22#a261026p22",
     "title": "Anthropic S-1: an $80.7B net loss on revenue of $16.3B in H1 2026, up from a $13B net loss on revenue of $1.2B in H1 2025, and a net revenue retention of 900% (Bailey Lipschultz/Bloomberg)",
-    "description": "Bailey Lipschultz / Bloomberg:\nAnthropic S-1: an $80.7B net loss on revenue of $16.3B in H1 2026, up from a $13B net loss on revenue of $1.2B in H1 2025, and a net revenue retention of 900%  —  Anthropic PBC filed for an IPO, moving a step closer to being the first company focused primarily on developing the most advanced artificial intelligence models to go public.",
+    "description": "Bailey Lipschultz / Bloomberg:\nAnthropic S-1: an $80.7B net loss on revenue of $16.3B in H1 2026, up from a $13B net loss on revenue of $1.2B in H1 2025, and a net revenue retention of 900%  —  Anthropic PBC filed for an IPO, warning its technology carried existential risks even as it moved a step closer …",
     "categories": [
       "Tech News"
     ],
@@ -444,7 +504,7 @@
       "Gaming"
     ],
     "pub_date": "2026-10-26T12:59:27+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ovpz8NJYeb4eLB84hdoWYd-1920-80.jpg",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Rhv2wwgcQHKiFKWHuvJzd5-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -1056,7 +1116,6 @@
     "title": "The shift to decision intelligence: Move beyond analytics to real time activation",
     "description": "AI is freeing up time specifically for strategic decision-making, not just automating routine tasks.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T10:31:13+00:00",
@@ -2239,61 +2298,5 @@
     "pub_date": "2026-10-25T16:45:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/what-features-do-you-lose-if-you-use-apple-airpods-with-a-samsung-galaxy-phone/l-intro-1792607815.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2296362/8bitdos-latest-button-only-arcade-controller-is-now-up-for-preorder/",
-    "title": "8BitDo's latest button-only arcade controller is now up for pre-order",
-    "description": "The Arcade Controller Pro starts at $119.99 and will start shipping in late November.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-25T16:42:46+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/8bitdos-latest-button-only-arcade-controller-is-now-up-for-pre-order/l-intro-1792946449.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/we-ended-up-with-four-really-big-campaigns-and-70-missions-its-insane-warhammer-40-000-dawn-of-war-4-creative-director-says-king-arts-ideas-snowballed-after-deciding-on-four-faction-campaigns-with-branching-stories",
-    "title": "'We ended up with four really big campaigns and 70 missions. It's insane' — Warhammer 40,000: Dawn of War 4 creative director says King Art's ideas 'snowballed' after deciding on four faction campaigns with branching stories",
-    "description": "Warhammer 40,000: Dawn of War 4 is a huge RTS game featuring four campaigns, because King Art was admittedly really enthusiastic about centering the factions.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-25T16:30:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/fNrceR4iomcjY7srMuNz2H-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
-    "title": "Now you can watch Instagram Reels on your Apple TV",
-    "description": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew of new features",
-    "categories": [
-      "Gadgets & Hardware",
-      "Social & Media"
-    ],
-    "pub_date": "2026-10-25T16:20:17+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/1286x724bb.webp?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2293285/internet-home-network-needs-ipv6/",
-    "title": "The internet needs IPv6 and so does your home network",
-    "description": "IPv6 has more available addresses than we could ever hope to use, but not all devices are taking advantage yet.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-25T16:15:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/the-internet-needs-ipv6-and-so-does-your-home-network/l-intro-1792604641.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/25/ipad-mini-8-redesign-with-oled-coming-this-week/",
-    "title": "OLED iPad mini 8 debuting this week: Here’s what’s coming, and how much it’ll cost",
-    "description": "For the first time since 2021, Apple will be overhauling the iPad mini with new display technology. It also marks the first chip refresh since 2024. Here’s what Apple has in store for this all-new iPad mini.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-25T16:06:33+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ipad-mini-touch-id-button-top.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
