@@ -1,5 +1,64 @@
 [
   {
+    "link": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+    "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
+    "description": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton just left the",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-26T14:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_Kevin_Roose.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/entertainment/football/watch-galatasaray-vs-fenerbahce-turkish-super-lig-2026-27",
+    "title": "How to watch Galatasaray vs Fenerbahce: Live streams",
+    "description": "All the ways to watch Galatasaray vs Fenerbahce live streams from anywhere in the first Intercontinental Derby of the Turkish Super Lig 2026/27 season.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T14:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/mwFN46PZfMMRShTeUDKYbb-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/experts-reveal-another-major-php2shell-bug-and-its-not-getting-an-emergency-patch-this-time",
+    "title": "Experts reveal another major PHP2Shell bug — and it's not getting an emergency patch this time",
+    "description": "The bug can trigger remote code execution but only under certain, \"unlikely\" conditions.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-26T14:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/x4SmwpYXk8yGgDmYCVeckL-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261026/p26#a261026p26",
+    "title": "Anthropic S-1: post-IPO governance will retain Public Benefit Corporation status, giving its seven co-founders 50.1% voting control via a single Class F share (Deborah Mary Sophia/Reuters)",
+    "description": "Deborah Mary Sophia / Reuters:\nAnthropic S-1: post-IPO governance will retain Public Benefit Corporation status, giving its seven co-founders 50.1% voting control via a single Class F share  —  Anthropic unveiled its US initial public offering paperwork on Monday, setting up for a blockbuster market debut …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T13:55:04+00:00",
+    "image_url": "http://www.techmeme.com/261026/i26.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/collection/seasonal-sales/amazons-early-black-friday-deals-include-up-to-60-percent-off-blink-ring-fire-tv-and-more-ive-picked-the-16-best-offers",
+    "title": "Amazon's early Black Friday deals include up to 60% off Blink, Ring, Fire TV, and more — I've picked the 16 best offers",
+    "description": "Several Amazon devices are already on sale ahead of this year's Black Friday sales, so I've searched through the retailer's latest offers and picked out the 16 best deals that are worth buying now.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T13:47:18+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/mewToRVV6eHS4YM3ufqmBH-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261026/p25#a261026p25",
     "title": "SpaceX agrees to a ~$40B equipment finance lease with Apollo to fund purchases of Nvidia GPUs for its AI initiatives, set to close before the end of 2026 (Carmen Arroyo/Bloomberg)",
     "description": "Carmen Arroyo / Bloomberg:\nSpaceX agrees to a ~$40B equipment finance lease with Apollo to fund purchases of Nvidia GPUs for its AI initiatives, set to close before the end of 2026  —  SpaceX signed a roughly $40 billion equipment-finance lease with Apollo Global Management Inc. to pay for the chips needed to fuel its artificial intelligence ambitions.",
@@ -10,6 +69,29 @@
     "pub_date": "2026-10-26T13:45:01+00:00",
     "image_url": "http://www.techmeme.com/261026/i25.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2294295/how-to-declutter-phone-address-book-remove-unnecessary-contacts/",
+    "title": "How to declutter your phone's address book and remove unnecessary contacts",
+    "description": "Clean up your contacts list to prioritize the people you actually want to talk to.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T13:45:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-to-declutter-your-phones-address-book-and-remove-unnecessary-contacts/l-intro-1791835912.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2296724/anthropic-files-to-go-public/",
+    "title": "Anthropic files to go public",
+    "description": "The company may be valued as high as $2 trillion.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-26T13:41:26+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/anthropic-has-filed-to-go-public/l-intro-1793021975.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.techmeme.com/261026/p24#a261026p24",
@@ -81,6 +163,18 @@
     "pub_date": "2026-10-26T13:28:14+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/iPhone-Duo-on-MagSafe-mount-with-screen-half-open-scaled.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/computing/apples-new-ipad-mini-gets-oled-and-water-resistance/",
+    "title": "Apple’s New iPad Mini Gets OLED and Water Resistance",
+    "description": "On the heels of the Duo, here comes the Mini. It’s arriving Nov. 6.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T13:27:29+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-iPad-mini-hero-261026.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://thenextweb.com/news/amazon-youth-promise-30000-entry-level-jobs-uk",
@@ -1045,7 +1139,6 @@
     "title": "The city that fought Flock",
     "description": "It was about to be a long night in Huntington, West Virginia. Mayor Patrick Farrell stood before 10 members of city council in a white dress shirt and dark blazer studded with an American flag pin. Behind him sat his constituents and residents from neighboring towns. Some had their arms crossed, while others held a",
     "categories": [
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-10-26T10:00:00+00:00",
@@ -1068,7 +1161,6 @@
     "title": "The Tragedy of Having a Wikipedia Page—and Then Losing It",
     "description": "Every day, Wikipedia biographies of living people are flagged for deletion because the subjects are not “notable” enough. How do these poor souls take the news?",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-10-26T10:00:00+00:00",
@@ -1102,6 +1194,7 @@
     "title": "Amazon’s Fire HD 10 tablet is matching its Prime Day low ahead of Black Friday",
     "description": "Save 53% on the Amazon Fire HD 10 tablet. Score the Mashable Choice-winning 10.1-inch entertainment slate for $72.99 on Amazon.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T09:55:39+00:00",
@@ -2194,94 +2287,5 @@
     "pub_date": "2026-10-25T15:00:32+00:00",
     "image_url": "http://www.techmeme.com/261025/i8.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/entertainment/do-you-know-the-gilliverse-this-ultimate-breaking-bad-quiz-will-find-out",
-    "title": "How well do you know classic TV show Lost?",
-    "description": "Breaking Bad, Better Call Saul, El Camino, more; we'll find out how much you know about the Gilliverse.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-25T15:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Ygk4r4AmVVf3ARn73Xx6DT-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/phones/apple-has-built-a-device-that-can-inspect-an-iphone-without-opening-its-box/",
-    "title": "Apple has built a device that can inspect an iPhone without opening its box",
-    "description": "Apple is rolling out a new retail device that can run diagnostics on iPhones inside sealed boxes, helping stores detect tampering and reduce unnecessary inventory processing.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-25T14:54:45+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/DT-2026-10-25T201005.799.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/25/macbook-pro-redesign-oled-touch-launching-this-week/",
-    "title": "Touchscreen OLED MacBook Pro launches this week, here’s how the lineup will look",
-    "description": "This week, Apple will be reversing a decades-long decision to exclude touchscreens from its laptop lineup, and we’ll be getting our first ever touchscreen MacBook in just a number of days. This MacBook Pro will fetch quite a premium, though. Here’s what we know so far.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-25T14:48:28+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-mockup-blue-red.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-    "title": "Get the ultimate security for your MacBook by changing these privacy settings",
-    "description": "Your Mac comes with a fairly robust suite of built-in privacy tools.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-25T14:45:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/get-the-ultimate-security-for-your-macbook-by-changing-these-privacy-settings/l-intro-1792599428.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/amazon-settles-former-aws-managers-kickback-lawsuit",
-    "title": "Amazon settles with ex-AWS managers in kickback lawsuit, GeekWire reports",
-    "description": "Amazon has settled its lawsuit against two former Amazon Web Services real estate managers it accused of taking kickbacks on data centre deals, GeekWire reported. Amazon told the court on 20 October, less than two weeks before trial. The two men, Carl Nelson and Casey Kirschner, admitted breaking Amazon’s code of conduct in a joint statement,",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-25T14:38:30+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/amazon-logo-smartphone-wooden-table.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/western-australia-deloitte-refund-ai-university-report",
-    "title": "Western Australia seeks refund from Deloitte over flawed AI-aided report",
-    "description": "Western Australia’s government is seeking a fast refund from Deloitte over a flawed report on merging three of the state’s universities. The report contained AI-generated references to sources that do not exist, as well as wrong cost totals. A government spokesperson told Guardian Australia that the state was very disappointed and had written to Deloitte to speed",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-25T14:24:55+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/deloitte-office-glass-facade.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/movies/youtube-av2-video-codec-2027/",
-    "title": "YouTube’s next big upgrade could make videos use 30% less data",
-    "description": "YouTube plans to introduce AV2 streaming in early 2027. The new codec promises around 30% better compression than AV1, potentially improving video quality and reducing data use.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-25T14:19:07+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/10/youtube-feature-upgrade-TV-4k.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2293014/why-earbuds-cheaper-than-headphones/",
-    "title": "Why are earbuds usually cheaper than headphones?",
-    "description": "Earbuds tend to be smaller and less complex to build than headphones.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-25T14:15:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/why-are-earbuds-usually-cheaper-than-headphones/l-intro-1792596068.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
