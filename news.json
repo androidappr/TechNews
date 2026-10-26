@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1018115/sony-wh-1000xm4c-headphones-review",
+    "title": "The Sony WH-1000XM4C bring back a beloved headphone design",
+    "description": "When Sony announced the WH-1000XM4C headphones, I was perplexed. A product revamp usually includes at least one or two significant improvements. Or if it's a nostalgia play, it's from a decades-old product and not one that came out in 2020. Beyond a few minor tweaks, though, the XM4C are remarkably similar to their six-year-old namesake,",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T16:45:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268823_Sony_XM4C_JHiggins_0003.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261026/p35#a261026p35",
+    "title": "Microsoft and others push out emergency patches for a critical flaw in Brotli, the C decoder library built into Node.js, that could allow remote code execution (Bill Toulas/BleepingComputer)",
+    "description": "Bill Toulas / BleepingComputer:\nMicrosoft and others push out emergency patches for a critical flaw in Brotli, the C decoder library built into Node.js, that could allow remote code execution  —  A critical flaw dubbed ‘HTTP2Shell’ in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T16:45:00+00:00",
+    "image_url": "http://www.techmeme.com/261026/i35.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/microsoft-buyouts-60000-employees-voluntary-exit-offer",
+    "title": "Microsoft offers buyouts to 60,000 employees, about a quarter of its staff",
+    "description": "Amy Coleman, Microsoft’s chief people officer, announced the Voluntary Exit Offer in a memo to employees on Monday. It is open to eligible staff in participating teams in Canada, India, the UK and the US, at level 70 and below on Microsoft’s internal scale. The offer is voluntary and time-limited, and comes with financial support",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-26T16:34:33+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/microsoft-office-logo-voluntary-exit-offer.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/as-anthropic-goes-public-it-warns-of-ais-catastrophic-and-existential-risks-to-humanity/",
+    "title": "As Anthropic goes public, it warns of AI’s catastrophic and existential risks to humanity",
+    "description": "Anthropic has officially filed to go public, and buried inside its S-1 is a blunt warning about the technology at the center of its business. The maker of Claude AI says advanced AI could cause everything from large-scale cyberattacks and geopolitical instability to catastrophic or even existential risks for humanity. The warnings take up a",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-26T16:31:31+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/09/Anthropic-Featured-Logo.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techradar.com/phones/network-providers/ofcom-reveals-league-table-of-the-worst-broadband-providers-and-bt-ee-talktalk-and-vodafone-have-topped-its-list-of-shame",
+    "title": "Ofcom reveals league table of the worst broadband providers",
+    "description": "The results for the quarter are in, and some providers have done better than others in terms of complaint figures.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T16:29:02+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/7F4LZgpcc6VGN59kMmxnN9-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/freedom-holding-2bn-sovereign-ai-hub-kazakhstan",
     "title": "Freedom Holding is developing a $2bn sovereign AI hub in Kazakhstan",
     "description": "Freedom Holding Corp. is developing the $2bn hub under an agreement signed in November 2025 with Kazakhstan’s Ministry of Artificial Intelligence and Digital Development, the Nasdaq-listed group said in a statement on Monday. The site is planned with 100MW of available power. Freedom is the main financing and delivery partner and will run the hub.",
@@ -1679,7 +1739,6 @@
     "title": "iPhone Duo is here. Let’s take a moment to appreciate the Galaxy Z Fold 8 and all the things it didn’t break",
     "description": "The iPhone Duo is a brave new chapter for Apple, but seeing it struggle with the fundamentals across hardware and software has me appreciating the Galaxy Z Fold 8 a lot more.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-26T10:44:45+00:00",
@@ -1889,17 +1948,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure",
-    "title": "The city that fought Flock",
-    "description": "It was about to be a long night in Huntington, West Virginia. Mayor Patrick Farrell stood before 10 members of city council in a white dress shirt and dark blazer studded with an American flag pin. Behind him sat his constituents and residents from neighboring towns. Some had their arms crossed, while others held a",
-    "categories": [
-      "Government & Policy"
-    ],
-    "pub_date": "2026-10-26T10:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268752_Flock_camera_photos_CAlo_25.jpeg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.wired.com/review/lykyn-automated-mushroom-grow-box/",
     "title": "Lykyn Review: A Mushroom Garden Worth Showing Off",
     "description": "Dramatic lighting and fog make this countertop fruiting chamber a conversation starter. The mushrooms are pretty good too.",
@@ -1920,6 +1968,17 @@
     "pub_date": "2026-10-26T10:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg",
     "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure",
+    "title": "The city that fought Flock",
+    "description": "It was about to be a long night in Huntington, West Virginia. Mayor Patrick Farrell stood before 10 members of city council in a white dress shirt and dark blazer studded with an American flag pin. Behind him sat his constituents and residents from neighboring towns. Some had their arms crossed, while others held a",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-26T10:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268752_Flock_camera_photos_CAlo_25.jpeg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.techradar.com/computing/cyber-security/are-passkeys-more-secure-than-passwords",
@@ -2277,61 +2336,5 @@
     "pub_date": "2026-10-26T05:05:00+00:00",
     "image_url": "http://www.techmeme.com/261026/i2.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/hurdle-hints-answers-october-26-2026",
-    "title": "Hurdle hints and answers for October 26, 2026",
-    "description": "Hints and answers to today's Hurdle all in one place.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T05:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03X9k6NRBlDmYwnXqwSkF05/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/science/moon-phase-today-oct-26-2026",
-    "title": "Moon phase today: What the Moon will look like on October 26, 2026",
-    "description": "See the Moon phase expected for October 26, 2026 as well as when the next Full Moon is expected.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-26T05:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06DGnAk32q238E6g4XluQo6/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/3-mac-apps-i-discovered-in-2026-that-prove-useful-software-doesnt-have-to-be-boring/",
-    "title": "3 Mac apps I discovered in 2026 that prove useful software doesn’t have to be boring",
-    "description": "Useful apps don’t have to be boring. Here are three Mac apps I found in 2026 that hang your screenshots on a clothesline, make your screen feel like paper, and keep your cat off the keyboard.",
-    "categories": [
-      "Gadgets & Hardware",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-26T04:43:14+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Fun-mac-apps.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261026/p1#a261026p1",
-    "title": "A look at Toyota's robotics expansion, including its Walden spinoff and a $6.4B annual plan to deploy 400K factory robots, as it competes with Tesla and China (Financial Times)",
-    "description": "Financial Times:\nA look at Toyota's robotics expansion, including its Walden spinoff and a $6.4B annual plan to deploy 400K factory robots, as it competes with Tesla and China  —  Japanese group uses 20 years of research to commercialise intelligent robots  —  Toyota is setting its sights on becoming …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T04:40:01+00:00",
-    "image_url": "http://www.techmeme.com/261026/i1.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/televisions/home-theater/i-tried-sonos-clever-new-surround-setup-trick-and-it-delivers-the-home-theater-flexibility-ive-always-wanted",
-    "title": "I tried Sonos’ clever new surround setup trick — and it delivers the home theater flexibility I’ve always wanted",
-    "description": "Sonos has forever been synonymous with wireless, multi-room audio, but it's latest endeavour transforms a surround sound setup into something much more versatile.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T04:34:28+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/4UTWxBpHneNTV89o2n3Qde-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
