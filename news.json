@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.digitaltrends.com/wearables/huawei-watch-gt-7-pro-review/",
+    "title": "HUAWEI Watch GT 7 Pro review: I took a chance on the loud one, and it wowed me in unexpected ways",
+    "description": "The HUAWEI Watch GT 7 Pro combines a premium titanium design, a bright AMOLED display, reliable GPS tracking, and excellent battery life. After two months of testing, here's what stood out, and what could be better.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T19:03:11+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Featured-HUAWEI-Watch-GT-7-Pro-review.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/uk-130m-ai-cyber-defence-national-cyber-shield-budget",
+    "title": "UK puts £130m into AI cyber defence in a £600m+ AI package",
+    "description": "The UK government will spend £130m on AI cyber defence, including a National Cyber Shield that uses agentic AI to protect critical infrastructure. The money is part of a package of more than £600m for AI that the Chancellor, John Healey, will put in this week’s Budget. HM Treasury set out the plans in a",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-26T19:02:32+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/hm-treasury-goods-entrance-sign-westminster-street.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
     "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
     "description": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
@@ -1374,8 +1398,7 @@
     "title": "Meta Muse Makes Marketplace Better. How I Set It Up to Help Me Shop Online",
     "description": "It’s no surprise that Muse really shines within Meta apps like Facebook.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-26T15:06:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2296214136.jpg",
@@ -2352,29 +2375,5 @@
     "pub_date": "2026-10-26T11:35:03+00:00",
     "image_url": "http://www.techmeme.com/261026/i16.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/chatgpt-and-claude-blocked-by-swedish-government-over-problematic-security-concerns",
-    "title": "ChatGPT and Claude blocked by Swedish government over \"problematic\" security concerns",
-    "description": "ChatGPT and Anthropic join DeepSeek in Swedish government AI ban.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-26T11:35:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/fX4NR7kPWSKw3xXvR6eR8g-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/26/claude-code-ai-finds-a-cryptominer-on-a-mac-says-it-didnt-put-it-there/",
-    "title": "Claude Code AI finds a cryptominer on a Mac; says it didn’t put it there",
-    "description": "A Redditor used Claude Code AI to build a Mac temperature monitor app and found that the machine was running much hotter than expected. Claude reported that it found a crypto miner using more than 1,000% of the CPU cycles – then added an unprompted comment denying having installed it.\n\n\n\nSome Redditors were understandably suspicious of Claude’s spontaneous comment that it wasn’t responsible for installing the rogue app …\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T11:34:41+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Claude-Code-AI-finds-a-cryptominer-on-a-Mac-–-says-it-didnt-put-it-there.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
