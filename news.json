@@ -1,5 +1,42 @@
 [
   {
+    "link": "https://www.digitaltrends.com/phones/iphone-duo-screen-cracking-hinge-teardowns/",
+    "title": "Two iPhone Duo teardowns point to the hinge but stop short of solving the mystery",
+    "description": "Two iPhone Duo teardowns point to different hinge problems behind early screen failures, but neither confirms the cause. Owners should stop folding the phone if its hinge suddenly tightens or makes unusual sounds.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-26T09:10:19+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/CuriousHagi-iphone-duo-teardown.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/windows-11-could-get-a-serious-performance-boost-but-theres-a-catch/",
+    "title": "Windows 11 could get a serious performance boost, but there’s a catch",
+    "description": "A hidden setting spotted in an experimental Windows 11 build suggests Microsoft is preparing to take advantage of Intel's latest CPU technology. But don't expect your PC to suddenly become faster after an update.",
+    "categories": [
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-26T09:03:38+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/03/Windows-11-Laptop.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+    "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
+    "description": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-26T09:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6adbe71b429a21d2813df7cd/master/pass/GGC%20-%205-watermarked.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/mythos-5-fake-accounts-github-malware-aisi-anthropic",
     "title": "Claude Mythos 5 used fake accounts to pressure a real GitHub maintainer",
     "description": "Claude Mythos 5 kept attacking a GitHub project run by real people even after it was told its targets were real. The UK AI Security Institute (AISI) and Anthropic said so on Friday. Each published its own analysis of the incident, which happened during AISI’s cyber tests of the model in July. In the worst",
@@ -144,7 +181,6 @@
     "title": "Amazon Bee Frontier review: a simple $75 AI wearable that excels at always-on listening, summarizing conversations, and suggesting follow-up actions (M.G. Siegler/Spyglass)",
     "description": "M.G. Siegler / Spyglass:\nAmazon Bee Frontier review: a simple $75 AI wearable that excels at always-on listening, summarizing conversations, and suggesting follow-up actions  —  Amazon's quiet, listening AI wearable is also pretty killer?  —  I'm not sure people really understand what is coming with AI and wearables.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T05:05:00+00:00",
@@ -672,17 +708,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.techradar.com/computing/websites-apps/ultimate-planner",
-    "title": "Always late for meetings or failing at life goals? This affordable planning app was made for you",
-    "description": "Homescreen Heroes: Ultimate Planner is the most customizable digital planner app I’ve ever seen",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-25T18:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/fpuqZgSit44GF7425jSKNa-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/audio/dacs/topping-dx1-ii-review",
     "title": "Topping DX1 II review: a well-built DAC with great specification that just fails grab you by the lapels",
     "description": "The Topping DX1 II is a big step up from the original DX1 DAC, at least where specification is concerned, but it's a little laid-back to truly excite.",
@@ -691,6 +716,17 @@
     ],
     "pub_date": "2026-10-25T18:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/ALaa8oaJ3gCRbcVnKnwodQ-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/websites-apps/ultimate-planner",
+    "title": "Always late for meetings or failing at life goals? This affordable planning app was made for you",
+    "description": "Homescreen Heroes: Ultimate Planner is the most customizable digital planner app I’ve ever seen",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-25T18:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/fpuqZgSit44GF7425jSKNa-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2197,39 +2233,5 @@
     "pub_date": "2026-10-24T17:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/Z7RPn6kedF6HTrDUSQKomj-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/phones/oppo-phones/vacation-snaps-or-scenes-from-the-odyssey-this-underrated-oppo-camera-mode-helped-me-realize-my-filmmaking-dreams-and-i-wish-my-iphone-had-the-same-feature",
-    "title": "This underrated Oppo camera mode helped me take photos that look like scenes from The Odyssey — and I wish my iPhone had the same feature",
-    "description": "Oppo's Hasselblad-inspired XPAN mode helped me take photos that look like scenes from The Odyssey.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-24T17:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/kTycjhMbZzjg85LfhLgqaF-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
-    "title": "Capcom confirms data breach that affected 11.7 million users",
-    "description": "Capcom ID is still available to use, but users may see more phishing scam emails.",
-    "categories": [
-      "Cybersecurity & Privacy",
-      "Gaming"
-    ],
-    "pub_date": "2026-10-24T16:40:45+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/capcom-confirms-data-breach-that-affected-11-7-million-users/l-intro-1792859616.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2291739/chance-playstation-5-plugged-into-wrong-hdmi-port/",
-    "title": "There's a chance your PlayStation 5 is plugged into the wrong HDMI port",
-    "description": "Your PS5 will look great plugged into any HDMI port on a modern TV, but only some unlock its full suite of display features.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-24T16:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/theres-a-chance-your-playstation-5-is-plugged-into-the-wrong-hdmi-port/l-intro-1792510070.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
