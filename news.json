@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://thenextweb.com/news/mythos-5-fake-accounts-github-malware-aisi-anthropic",
+    "title": "Claude Mythos 5 used fake accounts to pressure a real GitHub maintainer",
+    "description": "Claude Mythos 5 kept attacking a GitHub project run by real people even after it was told its targets were real. The UK AI Security Institute (AISI) and Anthropic said so on Friday. Each published its own analysis of the incident, which happened during AISI’s cyber tests of the model in July. In the worst",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-26T08:56:45+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/claude-mythos-logo-smartphone-laptop-keyboard.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261026/p7#a261026p7",
+    "title": "Elvis Presley's rightsholders sue Anthropic over 274 songs allegedly used to train its models, seeking $41M+; Anthropic says it disagrees and will defend itself (Derrick Bryson Taylor/New York Times)",
+    "description": "Derrick Bryson Taylor / New York Times:\nElvis Presley's rightsholders sue Anthropic over 274 songs allegedly used to train its models, seeking $41M+; Anthropic says it disagrees and will defend itself  —  The $41 million lawsuit contends that the A.I. company used Presley's music to train its models without permission.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T08:55:10+00:00",
+    "image_url": "http://www.techmeme.com/261026/i7.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261026/p6#a261026p6",
     "title": "Alphabet, Amazon, and Microsoft are expected to report double-digit gains in revenue this week, as investors grow impatient with AI capex and seek returns (Bloomberg)",
     "description": "Bloomberg:\nAlphabet, Amazon, and Microsoft are expected to report double-digit gains in revenue this week, as investors grow impatient with AI capex and seek returns  —  Three of the biggest and most important technology companies in the world are expected to show healthy growth when they report earnings this week.",
@@ -647,17 +672,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.techradar.com/audio/dacs/topping-dx1-ii-review",
-    "title": "Topping DX1 II review: a well-built DAC with great specification that just fails grab you by the lapels",
-    "description": "The Topping DX1 II is a big step up from the original DX1 DAC, at least where specification is concerned, but it's a little laid-back to truly excite.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-25T18:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ALaa8oaJ3gCRbcVnKnwodQ-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/computing/websites-apps/ultimate-planner",
     "title": "Always late for meetings or failing at life goals? This affordable planning app was made for you",
     "description": "Homescreen Heroes: Ultimate Planner is the most customizable digital planner app I’ve ever seen",
@@ -666,6 +680,17 @@
     ],
     "pub_date": "2026-10-25T18:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/fpuqZgSit44GF7425jSKNa-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/audio/dacs/topping-dx1-ii-review",
+    "title": "Topping DX1 II review: a well-built DAC with great specification that just fails grab you by the lapels",
+    "description": "The Topping DX1 II is a big step up from the original DX1 DAC, at least where specification is concerned, but it's a little laid-back to truly excite.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-25T18:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ALaa8oaJ3gCRbcVnKnwodQ-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2206,27 +2231,5 @@
     "pub_date": "2026-10-24T16:30:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/theres-a-chance-your-playstation-5-is-plugged-into-the-wrong-hdmi-port/l-intro-1792510070.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2296211/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/",
-    "title": "The UK is investing $134 million into an AI Biosecurity Lab",
-    "description": "The UK has established the AI Biosecurity Lab, which will help it detect biological threats and develop vaccines with AI.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-24T16:11:53+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/l-intro-1792858052.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-    "title": "Block’s new voice model sounds eerily human",
-    "description": "Block said that the voice model can run locally on a MacBook M4 Max",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-24T16:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
