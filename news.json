@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+    "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+    "description": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-26T21:27:15+00:00",
+    "image_url": "https://media.wired.com/photos/6adf8a425d1e509438fb58ec/master/pass/Anthropic3.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/you-cant-currently-order-a-tinybox-with-nvidia-gpus-and-tiny-corps-new-192gb-six-gpu-amd-build-just-got-usd3-000-pricier",
+    "title": "You can't currently order a Tinybox with Nvidia GPUs — and Tiny Corp's new 192GB six-GPU AMD build just got $3,000 pricier",
+    "description": "Less than two weeks after its $11,000 headline, the configurable deep learning workstation has dropped every Nvidia option and the tinybox pro, added two Radeon AI Pro R9700 builds, and raised their price.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T21:20:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/UXUoBz2xYzpVLMMrg7S6Te-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261026/p46#a261026p46",
     "title": "Intel agrees to acquire Tel Aviv-based quantum computing startup Classiq; Classiq has raised more than $200M in funding and has about 130 employees (Ian King/Bloomberg)",
     "description": "Ian King / Bloomberg:\nIntel agrees to acquire Tel Aviv-based quantum computing startup Classiq; Classiq has raised more than $200M in funding and has about 130 employees  —  Intel Corp. agreed to buy Israeli startup Classiq Technologies Ltd. as part of a push to capitalize on quantum computing, a still-nascent field that is seeking commercial applications.",
@@ -56,6 +80,18 @@
     "pub_date": "2026-10-26T20:56:15+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/tech/apple-ios-27-2-update-siri-ai-facetime-dual-cameras/",
+    "title": "Apple’s iOS 27.2 update offers major Siri AI upgrades, dual camera support for FaceTime",
+    "description": "iOS 27.2 is the first major update for the current OS. Here’s what’s inside and what happened to iOS 27.1.",
+    "categories": [
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-26T20:52:35+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00852.jpeg",
+    "source_name": "ZDNET.COM"
   },
   {
     "link": "https://mashable.com/tech/la-speed-cameras",
@@ -400,8 +436,8 @@
   },
   {
     "link": "https://www.techmeme.com/261026/p41#a261026p41",
-    "title": "Anthropic's S-1 shows a governance structure that suits a \"fun quirky little mission-driven worker cooperative\" seeking to raise billions as a public company (Matt Levine/Bloomberg)",
-    "description": "Matt Levine / Bloomberg:\nAnthropic's S-1 shows a governance structure that suits a “fun quirky little mission-driven worker cooperative” seeking to raise billions as a public company  —  Also share classes and fake polls.  —  Happy Anthropic S-1 day  —  Here's the draft prospectus for Anthropic PBC's initial public offering.",
+    "title": "Anthropic's S-1 shows a governance structure that suits a fun quirky little mission-driven worker cooperative that needs to raise billions as a public company (Matt Levine/Bloomberg)",
+    "description": "Matt Levine / Bloomberg:\nAnthropic's S-1 shows a governance structure that suits a fun quirky little mission-driven worker cooperative that needs to raise billions as a public company  —  Also share classes and fake polls.  —  Happy Anthropic S-1 day  —  Here's the draft prospectus for Anthropic PBC's initial public offering.",
     "categories": [
       "Tech News"
     ],
@@ -1061,7 +1097,6 @@
     "description": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website,",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Social & Media"
     ],
@@ -1111,7 +1146,6 @@
     "description": "Investigators explain how highway thieves stole $100M in data center equipment.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-10-26T17:26:36+00:00",
@@ -1853,7 +1887,6 @@
     "title": "Apple will only give you the fastest iPad mini chip if you pay $999, or more",
     "description": "Apple has just launched its latest iPad mini with a notable set of upgrades, including an OLED screen, improved speakers, and a more resilient build. It also gets a new chip, and the whole package costs $200 more than its predecessor. But if you look closely at Apple’s online store, you’ll realize that $699 isn’t",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-26T15:18:51+00:00",
@@ -1865,7 +1898,6 @@
     "title": "Amazon is dropping early Black Friday beauty tech deals way ahead of schedule",
     "description": "Save on top-rated beauty tech ahead of Black Friday. Shop early deals on the Shark FlexStyle and Wavytalk red light therapy masks.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T15:16:09+00:00",
@@ -2323,39 +2355,5 @@
     "pub_date": "2026-10-26T13:45:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/how-to-declutter-your-phones-address-book-and-remove-unnecessary-contacts/l-intro-1791835912.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2296724/anthropic-files-to-go-public/",
-    "title": "Anthropic files to go public",
-    "description": "The company may be valued as high as $2 trillion.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-10-26T13:41:26+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/anthropic-files-to-go-public/l-intro-1793025062.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261026/p24#a261026p24",
-    "title": "S-1: Anthropic outlines its mission to revolutionize sectors like medicine and warns its corporate behavior may diverge from traditional profit-maximization (Robert Hart/The Verge)",
-    "description": "Robert Hart / The Verge:\nS-1: Anthropic outlines its mission to revolutionize sectors like medicine and warns its corporate behavior may diverge from traditional profit-maximization  —  The company said it plans to list on the Nasdaq exchange under the ticker ‘ANT.’  —  Anthropic has filed its S-1 prospectus …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T13:40:01+00:00",
-    "image_url": "http://www.techmeme.com/261026/i24.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/26/apple-teases-an-exciting-week-of-new-products-ahead/",
-    "title": "Apple teases an ‘exciting week’ of new products ahead",
-    "description": "Today Apple introduced a big update to the iPad mini, but it’s only the start of what the company has planned, as Greg Joswiak just teased an exciting week ahead.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T13:36:02+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/pro-and-tell.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
