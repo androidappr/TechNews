@@ -1,5 +1,101 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+    "title": "Databricks co-founder shares his secrets for winning big enterprises customers",
+    "description": "Turns out selling to big companies isn’t about having the shiniest tech: it’s about hitching a ride on a giant’s sales team.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-26T22:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
+    "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+    "description": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&H Photo) and the 512GB version $99 (Amazon, B&H Photo). The smaller card typically sells for around $80, and the larger option usually sells between $150 and",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-26T21:56:36+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Samsung-P9-MicroSD-Express-Card.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/apples-pro-and-tell-october-28-event-everything-we-expect-from-touchscreen-macbooks-to-a-new-imac/",
+    "title": "Apple’s “Pro and Tell” October 28 event: Everything we expect from touchscreen MacBooks to a new iMac",
+    "description": "Two touchscreen MacBook Pro models are likely, but the price and the unchanged chip might disappoint a few buyers.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T21:56:31+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/M5-MacBook-Air-on-a-table-outdoor-scaled.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261026/p48#a261026p48",
+    "title": "OpenAI announces three breakthroughs in computer science, math, and physics, including that the Exponential Time Hypothesis, a longstanding conjecture, is false (OpenAI)",
+    "description": "OpenAI:\nOpenAI announces three breakthroughs in computer science, math, and physics, including that the Exponential Time Hypothesis, a longstanding conjecture, is false  —  We are announcing three new discoveries in mathematics, computer science, and physics about harmonic analysis, complexity theory, and quantum field theory.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T21:55:02+00:00",
+    "image_url": "http://www.techmeme.com/261026/i48.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/cohere-alibaba-qwen-beijing-bucket-upload-test",
+    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing in a test",
+    "description": "An Alibaba Qwen model tried to upload a file to an Alibaba Cloud storage bucket in Beijing during a security test, Cohere says. Just before it did, the model’s own reasoning said it would not use any tools. The Canadian AI company published the findings on Monday in a blog post. Cohere’s sandbox blocked the",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-26T21:54:04+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/nick-frosst-cohere-portrait-glasses-black-jacket.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/next-time-you-see-a-delivery-robot-maybe-hide-your-face/",
+    "title": "Those cute delivery robots could be the new Flock surveillance menace",
+    "description": "Food delivery robots from Coco Robotics and Serve Robotics face lawsuits alleging they collected facial and hand measurements without consent, raising questions about biometric privacy and public surveillance.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T21:53:37+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/DT-2026-10-27T031558.825.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://mashable.com/life/dictionary-com-maxxing-word-of-the-year-2026",
+    "title": "Maxxing named Dictionary.coms 2026 Word of the Year",
+    "description": "Dictionary.com named \"maxxing\" its 2026 Word of the Year. Here’s what it means, and its ties to looksmaxxing.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T21:48:14+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/06nXAIuhUvtoqRXttj4bGVK/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/life/why-french-and-japanese-users-are-beefing-on-x-explained",
+    "title": "Why French and Japanese users are beefing on X, explained",
+    "description": "French and Japanese X users are trading insults over One Piece flags at France’s protests. Here’s why.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T21:46:54+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01mmyBc37CUHKEdyRHP7wzd/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
     "title": "Anthropic is burning gas to feed the AI boom",
     "description": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\"",
@@ -11,6 +107,18 @@
     "pub_date": "2026-10-26T21:45:31+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/phones/samsung-galaxy-phones/apple-iphone-duo-vs-samsung-galaxy-z-fold-8-ive-tested-both-passport-style-foldables-and-i-still-cant-tell-you-which-i-prefer-but-thats-a-good-thing",
+    "title": "Apple iPhone Duo vs Samsung Galaxy Z Fold 8: a big battle of small differences",
+    "description": "Samsung was first — by a mile — with its Z Fold lineup, but is Apple's iPhone Duo now the best? The answer isn't so simple.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T21:45:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/wwTAk4vr9Vg2Ue8enddfwD-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://www.techmeme.com/261026/p47#a261026p47",
@@ -97,7 +205,7 @@
   },
   {
     "link": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
-    "title": "Watch out, YouTube; Instagram goes from short-form to 90-minute videos",
+    "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
     "description": "As Instagram rolls out long form videos of up to 90 minutes, the platform has an opportunity to challenge YouTube if it plays its cards right.",
     "categories": [
       "Breaking News",
@@ -112,6 +220,7 @@
     "title": "Are We All Maxxed Out? Dictionary.com Names ‘Maxxing’ Its 2026 Word of the Year",
     "description": "Data center and unc were on the shortlist of words considered for the tribute.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T20:59:20+00:00",
@@ -242,7 +351,6 @@
     "title": "From iPhone Duo to Mac, Craft shows what a native productivity app can do",
     "description": "It’s been a busy fall for Apple. iOS and macOS 27 arrived in September, iPhone Duo went on sale just a few days ago, and more Mac announcements are expected later this week. Between the new software and hardware, there’s plenty for Apple users to explore.\n\n\n\nOf all these announcements, the iPhone Duo has arguably attracted the most attention. As the first iPhone with a fundamentally different form factor, it introduces new possibilities for how we use our phones. But new hardware is only part of the story. Just as important is how apps take advantage of it. For an app like Craft, which brings notes, tasks, and documents together in one place, the larger display and new multitasking capabilities open up interesting new ways to work.\n\n\n\nCraft is ready for iPhone Duo from day one, with an interface designed to take advantage of its new form factor. And while the Duo is getting much of the attention right now, Craft has also seen a steady stream of improvements across iPhone, iPad, and Mac over the past few months.\n\n\n\nAnd there’s an additional bonus for anyone looking to give Craft a try: 40% off for life with code 9to5Mac40, available through this exclusive 9to5Mac offer.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T20:26:07+00:00",
@@ -322,7 +430,7 @@
   {
     "link": "https://www.wired.com/story/anker-halloween-sale-oct-2026/",
     "title": "Anker’s Halloween Sale Takes 20% Off Our Favorite Chargers and Power Banks",
-    "description": "Anker is serving up 20 percent off all charging gear for Halloween, plus … Labubus?",
+    "description": "Avoid the scariest thing this Halloween (your phone at 1 percent) with Anker's 20 percent off sale on all charging gear.",
     "categories": [
       "Tech News"
     ],
@@ -1041,7 +1149,6 @@
     "title": "Oppo Pad 5 Pro review: a premium, big-screen tablet without the price tag",
     "description": "Oppo’s latest flagship tablet boasts a huge display, a massive battery, and a slick design — but with a price increase over its predecessor, does it still deliver value for money?",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T17:51:20+00:00",
@@ -1064,7 +1171,6 @@
     "title": "This concept EV shows the Chinese are getting serious about car design",
     "description": "Lepas unveils the Aura and this fresh concept should give European automakers cause for concern.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T17:48:38+00:00",
@@ -1100,7 +1206,6 @@
     "title": "macOS 27.2 Golden Gate now available, here’s everything new [U]",
     "description": "Mac users can now install macOS 27.2 Golden Gate, which expands the new Siri AI to five additional languages, making it available to millions more users. Here are the details.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T17:46:14+00:00",
@@ -1206,6 +1311,7 @@
     "title": "Cohere says during an evaluation Qwen3.8-Flash-Next inventoried its host machine and tried to upload a probe file to an Alibaba Cloud storage bucket in Beijing (Cohere)",
     "description": "Cohere:\nCohere says during an evaluation Qwen3.8-Flash-Next inventoried its host machine and tried to upload a probe file to an Alibaba Cloud storage bucket in Beijing  —  For nearly two years, one comforting idea has shaped how companies and government contractors adopt open-weight AI models that anyone can download and run.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T17:35:01+00:00",
@@ -1787,7 +1893,6 @@
     "title": "Early Black Friday home improvement deals save big on power tools, smart lights, home security, and more.",
     "description": "Home improvement deals like a Dreo space heater, Govee lights, and DeWalt power tools are on sale for early Black Friday",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T15:58:42+00:00",
@@ -1812,7 +1917,6 @@
     "title": "iPhone Duo screens are already cracking: What buyers need to know",
     "description": "A handful of first-hand reports show similar damage, suggesting a bad batch of hinges. Here’s what to do if your Duo screen fails.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-26T15:56:38+00:00",
@@ -2254,111 +2358,5 @@
     "pub_date": "2026-10-26T14:29:12+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/00mhqeuVPBSOvFgeyUt7VJk/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
-    "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
-    "description": "The new iPad mini features a thinner and lighter design than its predecessor.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-26T14:25:43+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/mobile/iphone-duo-ifixit-teardown-cracked-screens-culprit/",
-    "title": "As iPhone Duo Cracked Screen Reports Surface, a New Teardown Shows a Possible Culprit",
-    "description": "In spite of some display issues, iFixit declares the iPhone Duo “the most repairable foldable” it’s ever tinkered with.",
-    "categories": [
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-10-26T14:22:30+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/unnamed-1.webp",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/tablets/apples-new-ipad-mini-has-speakers-built-into-its-screen-an-a20-pro-chip-and-ip67-protection/",
-    "title": "Apple’s new iPad mini has speakers built into its screen, an A20 Pro chip, and IP67 protection",
-    "description": "Apple’s new iPad mini ditches speaker holes, adds an OLED screen and IP67 resistance, but battery life remains a question.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-26T14:18:40+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/iPad-mini-8-in-hand.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/openai-discounts-anthropic-customers-replit-rippling",
-    "title": "OpenAI’s discounts win Anthropic customers, The Information reports",
-    "description": "Replit moved most of its AI spending from Anthropic to OpenAI in recent months after OpenAI offered a discount of more than 30%, The Information reported on Saturday. The contract is worth over $100M a year, a person familiar with the deal told The Information, in a story by Laura Bratton and Stephanie Palazzolo. Replit",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-26T14:17:22+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/amjad-masad-replit-techcrunch-disrupt-2026-stage.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/apple-ipad-mini-8-announced",
-    "title": "Apples new iPad Mini has a bigger display, a newer chip, and a higher price",
-    "description": "Apple unveiled the new 2026 iPad Mini model, and everything about it seems better than before, except for the price.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T14:10:58+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/077o9BGvCfzliNvdq2gEfxx/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-    "title": "The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans",
-    "description": "Two US senators say the Trump administration is breaking the law by withholding the FISA court decision while it presses Congress to renew America’s most sweeping surveillance program.",
-    "categories": [
-      "Cybersecurity & Privacy",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-10-26T14:09:00+00:00",
-    "image_url": "https://media.wired.com/photos/6adbe0039bde53c96a68d73b/master/pass/Security_Trump%20Officials%20are%20Sitting%20on%20a%20Secret%20Surveillance%20Court%20Ruling_v1.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
-    "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
-    "description": "Matiks has introduced a new platform for users to create games using AI.",
-    "categories": [
-      "Gaming",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-26T14:08:04+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261026/p28#a261026p28",
-    "title": "Sources: Anthropic is aiming to go public the week of November 16 and could raise ~$100B at a $1.5T to $2T valuation, after initially preparing for October (Wall Street Journal)",
-    "description": "Wall Street Journal:\nSources: Anthropic is aiming to go public the week of November 16 and could raise ~$100B at a $1.5T to $2T valuation, after initially preparing for October  —  Anthropic didn't reveal the valuation it is targeting or the number of shares it plans to sell  —  Anthropic filed its IPO paperwork …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T14:06:20+00:00",
-    "image_url": "http://www.techmeme.com/261026/i28.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/apollo-ai-payoff-outside-tech-slok",
-    "title": "Apollo’s Slok says US companies now treat AI spending as a cost, not growth",
-    "description": "Artificial intelligence has delivered “zero financial payoff” to corporate America outside the tech sector. That is the finding of Torsten Slok, chief economist at Apollo Global Management, in a note on Saturday. Slok compared the Magnificent Seven, the biggest US tech companies, with the other 493 companies in the S&P 500. Revenue per worker and",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-26T14:05:15+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/new-york-stock-exchange-entrance-wall-street-sign.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
