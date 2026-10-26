@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://thenextweb.com/news/sweden-government-blocks-chatgpt-claude",
+    "title": "Sweden’s Government Offices block ChatGPT and Claude on work computers",
+    "description": "Sweden’s Government Offices, which runs the work of the prime minister and the ministries, has blocked staff from using OpenAI’s ChatGPT and Anthropic’s Claude on their work computers. The block took effect today. Ekot, the news service of public broadcaster Sveriges Radio, first reported the plan on 23 October. Staff will no longer be able to",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-26T15:09:38+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/rosenbad-swedish-government-building-stockholm.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/anthropic-unveils-plans-for-largest-stock-market-listing-in-history-including-investments-that-may-seem-irresponsibly-large-at-first-glance-despite-losses-of-over-usd80-billion-this-year",
+    "title": "Anthropic unveils plans for largest stock market listing in history —  including investments 'that may seem irresponsibly large at first glance' despite losses of over $80 billion this year",
+    "description": "Anthropic has reported losses of over $80 billion in the first half of 2026.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T15:01:40+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/scxFkyfYSQbrtGvqrmFqgU-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/nevis-70m-series-b-ai-wealth-management",
+    "title": "Nevis raises $70M to expand its AI platform for wealth advisers",
+    "description": "New York-based Nevis, which builds AI software for wealth management firms, has raised $70M in a Series B round led by EQT Ventures. The company announced the funding on Monday. Two new backers joined: Charles Schwab, one of the largest US brokers, and QuantumLight, the venture fund set up by Revolut founder Nik Storonsky. Existing investors",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T14:56:16+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/nevis-70m-funding-graphic-investor-logos.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techradar.com/tablets/ipad-mini/apples-new-oled-ipad-mini-is-here-and-its-a-much-bigger-upgrade-than-i-expected",
     "title": "Apple’s new iPad mini packs big upgrades into an even smaller design — and I’m loving the results",
     "description": "Apple's new iPad mini gets an OLED screen, the A20 Pro chipset, a new audio system, and IP67 water and dust resistance, but it comes with a higher starting price.",
@@ -21,7 +56,7 @@
       "Business & Startups"
     ],
     "pub_date": "2026-10-26T14:50:47+00:00",
-    "image_url": "https://media.wired.com/photos/6adf541e68b92dce121f585d/master/pass/102626-Anthropic%20IPO.jpg",
+    "image_url": "https://media.wired.com/photos/6adf6c00ca47359863df5ba5/master/pass/102626-Anthropic%20IPO.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -35,6 +70,17 @@
     "pub_date": "2026-10-26T14:48:59+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/061sicHYKZMmcUAMb2cgZy9/hero-image.png",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
+    "title": "F1 in Texas: The American race that fans love to attend",
+    "description": "Ars spends the weekend with the Audi Revolut F1 team at the Circuit of the Americas.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T14:48:24+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/A2621582-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://mashable.com/tech/apple-iphone-duo-crack-bend-test",
@@ -141,6 +187,19 @@
     "pub_date": "2026-10-26T14:32:59+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/034wYnDfY8jrmNV8Iea3I44/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
+    "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race",
+    "description": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-26T14:30:27+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/roadster-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://mashable.com/tech/oct-26-apple-ipad-mini-preorder-where-to-buy",
@@ -302,17 +361,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.techradar.com/pro/security/experts-reveal-another-major-php2shell-bug-and-its-not-getting-an-emergency-patch-this-time",
-    "title": "Experts reveal another major PHP2Shell bug — and it's not getting an emergency patch this time",
-    "description": "The bug can trigger remote code execution but only under certain, \"unlikely\" conditions.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-26T14:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/x4SmwpYXk8yGgDmYCVeckL-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/entertainment/football/watch-galatasaray-vs-fenerbahce-turkish-super-lig-2026-27",
     "title": "How to watch Galatasaray vs Fenerbahce: Live streams",
     "description": "All the ways to watch Galatasaray vs Fenerbahce live streams from anywhere in the first Intercontinental Derby of the Turkish Super Lig 2026/27 season.",
@@ -322,6 +370,17 @@
     ],
     "pub_date": "2026-10-26T14:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/mwFN46PZfMMRShTeUDKYbb-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/experts-reveal-another-major-php2shell-bug-and-its-not-getting-an-emergency-patch-this-time",
+    "title": "Experts reveal another major PHP2Shell bug — and it's not getting an emergency patch this time",
+    "description": "The bug can trigger remote code execution but only under certain, \"unlikely\" conditions.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-26T14:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/x4SmwpYXk8yGgDmYCVeckL-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -1039,7 +1098,7 @@
       "Breaking News"
     ],
     "pub_date": "2026-10-26T11:23:48+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/elvis-presleys-estate-is-suing-anthropic-over-copyright-infringement/l-intro-1793013810.jpg",
+    "image_url": "https://www.engadget.com/img/gallery/elvis-presley-estate-suing-ai-company-for-copyright-infringement/l-intro-1793026770.jpg",
     "source_name": "ENGADGET.COM"
   },
   {
@@ -1059,7 +1118,6 @@
     "title": "iPhone Duo tested to destruction, including removing nanotexture layer",
     "description": "It’s kind of wild that there’s an entire YouTube niche in which people buy the latest expensive gadgets and then find creative ways to destroy them. JerryRigEverything is one of the bigger names, and he didn’t hold back when it came to a destruction test of the iPhone Duo.\n\n\n\nIn addition to subjecting the display to everything from a knife to chainmail armor, he removed the nanotexture layer and said that it kind of looks better … \n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T11:12:44+00:00",
@@ -1119,7 +1177,6 @@
     "title": "Microsoft Teams will soon use AI to warn you of sneaky phishing scams",
     "description": "Microsoft Teams is adding AI-powered phishing detection to help keep you safe from threats.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-10-26T11:05:00+00:00",
@@ -2252,60 +2309,5 @@
     "pub_date": "2026-10-25T21:08:09+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/a1635465713_10.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
-    "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
-    "description": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen. Tellingly, the cracks all seem to happen in the",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-25T20:16:19+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/this-crowdfunded-usd109-hub-wants-to-pool-the-ram-in-your-old-pcs-macs-and-phones-to-run-bigger-ai-models-but-the-engine-underneath-is-software-you-can-already-get-for-free",
-    "title": "This crowdfunded $109 hub wants to pool the RAM in your old PCs, Macs, and phones to run bigger AI models — but the engine underneath is software you can already get for free",
-    "description": "Can't stomach DDR5 at five times last year's price? RAMDeck wants to borrow your other devices' memory instead, and it admits that won't be fast.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-25T19:30:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/sTBjr37ftwL8aDtGAbAG78-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
-    "title": "Zen Browser is the Arc replacement I was looking for",
-    "description": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused browser. And",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-25T19:24:50+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_4433.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/beelink-me-pro-creator-edition-nas-review",
-    "title": "Beelink ME Pro Creator Edition NAS review",
-    "description": "The Beelink ME Pro 4-Bay Creator Edition packs a mobile Intel 13th Gen Core i5 in a compact, fully metal enclosure as a FygoOS NAS platform.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-25T19:20:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Z4mjhtwvu3ogPD3DFtu3JY-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261025/p10#a261025p10",
-    "title": "Data center tenants now demand $5M+ per day in late-delivery fees, up from $1M in spring 2026, spawning new \"delay-in-delivery\" coverage from brokers like Marsh (Ann Davis Vaughan/The Information)",
-    "description": "Ann Davis Vaughan / The Information:\nData center tenants now demand $5M+ per day in late-delivery fees, up from $1M in spring 2026, spawning new “delay-in-delivery” coverage from brokers like Marsh  —  This spring, Mike Mathews, who leads the global digital infrastructure practice at insurance broker Marsh …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-25T19:10:13+00:00",
-    "image_url": "http://www.techmeme.com/261025/i10.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
