@@ -1,5 +1,67 @@
 [
   {
+    "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+    "title": "The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans",
+    "description": "Two US senators say the Trump administration is breaking the law by withholding the FISA court decision while it presses Congress to renew America’s most sweeping surveillance program.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-26T14:09:00+00:00",
+    "image_url": "https://media.wired.com/photos/6adbe0039bde53c96a68d73b/master/pass/Security_Trump%20Officials%20are%20Sitting%20on%20a%20Secret%20Surveillance%20Court%20Ruling_v1.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
+    "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
+    "description": "Matiks has introduced a new platform for users to create games using AI.",
+    "categories": [
+      "Breaking News",
+      "Gaming",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-26T14:08:04+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261026/p28#a261026p28",
+    "title": "Sources: Anthropic is aiming to go public the week of November 16 and could raise ~$100B at a $1.5T to $2T valuation, after initially preparing for October (Wall Street Journal)",
+    "description": "Wall Street Journal:\nSources: Anthropic is aiming to go public the week of November 16 and could raise ~$100B at a $1.5T to $2T valuation, after initially preparing for October  —  Anthropic didn't reveal the valuation it is targeting or the number of shares it plans to sell  —  Anthropic filed its IPO paperwork …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T14:06:20+00:00",
+    "image_url": "http://www.techmeme.com/261026/i28.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/apollo-ai-payoff-outside-tech-slok",
+    "title": "Apollo’s Slok says US companies now treat AI spending as a cost, not growth",
+    "description": "Artificial intelligence has delivered “zero financial payoff” to corporate America outside the tech sector. That is the finding of Torsten Slok, chief economist at Apollo Global Management, in a note on Saturday. Slok compared the Magnificent Seven, the biggest US tech companies, with the other 493 companies in the S&P 500. Revenue per worker and",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-26T14:05:15+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/new-york-stock-exchange-entrance-wall-street-sign.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261026/p27#a261026p27",
+    "title": "Anthropic's S-1 lists 94 pages of risk factors and warns that the \"scale of harm\" from a \"catastrophic\" AI incident might mean it is unable to obtain insurance (Wall Street Journal)",
+    "description": "Wall Street Journal:\nAnthropic's S-1 lists 94 pages of risk factors and warns that the “scale of harm” from a “catastrophic” AI incident might mean it is unable to obtain insurance  —  94 pages  —  Nearly a quarter of Anthropic's S1, or 94 pages, was dedicated to risk factors …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T14:03:35+00:00",
+    "image_url": "http://www.techmeme.com/261026/i27.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
     "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
     "description": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton just left the",
@@ -11,6 +73,28 @@
     "pub_date": "2026-10-26T14:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_Kevin_Roose.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2295406/even-realities-launches-a-brown-version-of-its-g2-smart-glasses/",
+    "title": "Even Realities launches a brown version of its G2 smart glasses",
+    "description": "It also released a couple of new accessories, including a wearable chain.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T14:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/even-realities-now-offers-a-brown-version-of-its-g2-smart-glasses/l-intro-1792771151.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/experts-reveal-another-major-php2shell-bug-and-its-not-getting-an-emergency-patch-this-time",
+    "title": "Experts reveal another major PHP2Shell bug — and it's not getting an emergency patch this time",
+    "description": "The bug can trigger remote code execution but only under certain, \"unlikely\" conditions.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-26T14:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/x4SmwpYXk8yGgDmYCVeckL-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://www.techradar.com/entertainment/football/watch-galatasaray-vs-fenerbahce-turkish-super-lig-2026-27",
@@ -25,17 +109,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techradar.com/pro/security/experts-reveal-another-major-php2shell-bug-and-its-not-getting-an-emergency-patch-this-time",
-    "title": "Experts reveal another major PHP2Shell bug — and it's not getting an emergency patch this time",
-    "description": "The bug can trigger remote code execution but only under certain, \"unlikely\" conditions.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-26T14:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/x4SmwpYXk8yGgDmYCVeckL-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techmeme.com/261026/p26#a261026p26",
     "title": "Anthropic S-1: post-IPO governance will retain Public Benefit Corporation status, giving its seven co-founders 50.1% voting control via a single Class F share (Deborah Mary Sophia/Reuters)",
     "description": "Deborah Mary Sophia / Reuters:\nAnthropic S-1: post-IPO governance will retain Public Benefit Corporation status, giving its seven co-founders 50.1% voting control via a single Class F share  —  Anthropic unveiled its US initial public offering paperwork on Monday, setting up for a blockbuster market debut …",
@@ -45,6 +118,18 @@
     "pub_date": "2026-10-26T13:55:04+00:00",
     "image_url": "http://www.techmeme.com/261026/i26.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/",
+    "title": "NASA, USDA Sign Agreement Advancing Earth Science, Agriculture",
+    "description": "NASA and the U.S. Department of Agriculture (USDA) have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced data technologies, supporting USDA’s data modernization plan for United States agriculture. “NASA develops some of the most advanced sensing, computing, and analytical capabilities in the world, and we should put those tools",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T13:54:25+00:00",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/mou10242026.jpg?w=1829",
+    "source_name": "NASA.GOV"
   },
   {
     "link": "https://www.techradar.com/collection/seasonal-sales/amazons-early-black-friday-deals-include-up-to-60-percent-off-blink-ring-fire-tv-and-more-ive-picked-the-16-best-offers",
@@ -2210,82 +2295,5 @@
     "pub_date": "2026-10-25T16:06:33+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ipad-mini-touch-id-button-top.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
-    "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
-    "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-25T16:05:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/the-next-macbook-air-could-arrive-early-next-year-but-oled-will-have-to-wait/",
-    "title": "The next MacBook Air could arrive early next year, but OLED will have to wait",
-    "description": "Apple may be about to give the MacBook Pro one of its biggest upgrades in years, but the MacBook Air apparently has to wait a little longer for its turn. According to Bloomberg’s Mark Gurman, Apple is planning to refresh the MacBook Air in early 2027. The upcoming model is expected to stick with a",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-25T16:00:35+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/MacBook-Air-in-midnight-finish-on-a-table-top-scaled.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2293248/how-much-playstation-plus-cost-2010-vs-2026/",
-    "title": "Here's how much PlayStation Plus cost in 2010 vs. 2026",
-    "description": "Sony's gaming service has changed a lot in recent years, and the price reflects that.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-25T15:45:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/heres-how-much-playstation-plus-cost-in-2010-vs-2026/l-intro-1792603440.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/why-google-is-linking-your-phone-number-to-all-your-signed-in-accounts",
-    "title": "Why Google is linking your phone number to all your signed-in accounts",
-    "description": "You should be aware of this opt-out Google setting that might compromise your privacy.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-25T15:30:31+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05uButlb97FzArO4KE96ODS/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2293112/meta-ray-ban-settings-change-before-wearing/",
-    "title": "4 Ray-Ban Meta privacy settings you should change before wearing them",
-    "description": "Ray-Ban Meta smart glasses have rightly been criticized for the many ways they can violate people's privacy.",
-    "categories": [
-      "Social & Media"
-    ],
-    "pub_date": "2026-10-25T15:15:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/4-ray-ban-meta-privacy-settings-you-should-change-before-wearing-them/l-intro-1792599800.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/apple-macbook-pro-lineup-confusing/",
-    "title": "Apple wants touchscreens on Macs, but its MacBook lineup could get weird",
-    "description": "Apple's growing MacBook lineup could become confusing as entry-level Pro models, premium touchscreen MacBooks, and future OLED displays blur the boundaries.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-25T15:11:19+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Apple-MacBook-Air-Pro-logo-sunlight.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261025/p8#a261025p8",
-    "title": "Sources: Apple tweaked macOS for its OLED touch MacBook Pro, due Wednesday, with a dynamic interface that adapts to whether touch or the trackpad was last used (Mark Gurman/Bloomberg)",
-    "description": "Mark Gurman / Bloomberg:\nSources: Apple tweaked macOS for its OLED touch MacBook Pro, due Wednesday, with a dynamic interface that adapts to whether touch or the trackpad was last used  —  Also: The company rolls out a retail store tool to reduce wasted inventory.  —  Apple's touch-screen MacBook Pro will arrive on Wednesday …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-25T15:00:32+00:00",
-    "image_url": "http://www.techmeme.com/261025/i8.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
