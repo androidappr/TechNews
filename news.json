@@ -1,5 +1,18 @@
 [
   {
+    "link": "https://thenextweb.com/news/microsoft-net-emergency-patch-brotli-flaw-node2shell",
+    "title": "Microsoft ships emergency .NET fixes for a critical Brotli flaw",
+    "description": "Microsoft shipped out-of-band updates for .NET, Visual Studio and PowerShell on Sunday. They fix CVE-2026-111497, a buffer overflow in Brotli, Google’s widely used compression library, which OpenAI’s Codex Security team reported. Node.js, Python packages, proxies and other tools that bundle the library are shipping fixes too. In a .NET blog post, Microsoft said the buffer",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-26T22:08:14+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/source-code-terminal-dark-monitor-close-up.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/tablets/the-ipad-is-finally-getting-the-affinity-app-creatives-have-been-asking-for/",
     "title": "The iPad is finally getting the Affinity app creatives have been asking for",
     "description": "Affinity’s new all-in-one creative app is finally coming to the iPad, nearly a year after Canva launched the redesigned desktop version for Mac and Windows. Creatives have been asking for the iPad release ever since, especially because files created in the new Affinity app cannot be opened in the older V2 iPad apps. Affinity already",
@@ -22,6 +35,18 @@
     "pub_date": "2026-10-26T22:06:38+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/instagram-app-icon-new.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/come-back-to-firefox-campaign-internet-personalities-memes",
+    "title": "Firefox brings back internet icons for new anti-tracking, anti-AI campaign",
+    "description": "Firefox has gathered some of the internet's biggest stars from 15-20 years ago in a new ad campaign.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T22:05:17+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/06XGVBgJMUVEeCHPIGP20by/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techradar.com/pro/security/a-16-year-old-bug-could-be-putting-millions-of-routers-at-risk-despite-broadcom-saying-it-patched-the-issue-years-ago",
@@ -79,6 +104,29 @@
     "pub_date": "2026-10-26T22:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/8dqSKTr4qT9XhHRpw3N7BK-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/oct-26-anker-soundcore-space-one-pro-deal",
+    "title": "Skip the $300 Bose price tag: Anker’s foldable Space One Pro headphones are under $140",
+    "description": "Save 30% on the Soundcore by Anker Space One Pro headphones at Amazon. Get adaptive ANC, 60-hour battery, and Hi-Res audio for $139.99.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T22:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01fGanpOtusei9J5Yhz5hch/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/oct-26-fire-tablet-8-deal",
+    "title": "The Amazon Fire HD 8 tablet has dropped to its lowest-ever price at Amazon — save $50",
+    "description": "Get the best tablet deal. Save 38% on the Amazon Fire HD 8 tablet.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T22:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/06aMkSb40MdXKmGw8tzE3iY/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
@@ -441,8 +489,8 @@
   },
   {
     "link": "https://www.techmeme.com/261026/p45#a261026p45",
-    "title": "Anthropic's IPO outlines an unusual succession plan: confidential, ranked lists of up to ten successors per founder, subject to approval from five cofounders (Anna Tong/Forbes)",
-    "description": "Anna Tong / Forbes:\nAnthropic's IPO outlines an unusual succession plan: confidential, ranked lists of up to ten successors per founder, subject to approval from five cofounders  —  Anthropic's IPO includes a private line of succession: confidential lists of would-be heirs to its founders' voting power, chosen by the founders and approved by one another.",
+    "title": "Anthropic's IPO outlines an unusual succession plan: confidential, ranked lists of up to 10 successors per co-founder, subject to approval from five co-founders (Anna Tong/Forbes)",
+    "description": "Anna Tong / Forbes:\nAnthropic's IPO outlines an unusual succession plan: confidential, ranked lists of up to 10 successors per co-founder, subject to approval from five co-founders  —  Anthropic's IPO includes a private line of succession: confidential lists of would-be heirs to its founders' voting power …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -548,7 +596,6 @@
     "title": "My iPhone Duo In-Store Experience Almost Has Me Convinced I Need One",
     "description": "Quite simply, you’ve got to play with Apple’s folding iPhone to really understand its appeal.",
     "categories": [
-      "Breaking News",
       "Mobile & Telecom"
     ],
     "pub_date": "2026-10-26T20:06:05+00:00",
@@ -1077,7 +1124,6 @@
     "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
     "description": "From the bright minds that brought you FTX Arena and NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843), the NBA announced Monday that it has new \"preferred\" prediction market deals for Kalshi and Polymarket, as well as",
     "categories": [
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-26T18:22:06+00:00",
@@ -1229,6 +1275,7 @@
     "title": "Oppo Pad 5 Pro review: a premium, big-screen tablet without the price tag",
     "description": "Oppo’s latest flagship tablet boasts a huge display, a massive battery, and a slick design — but with a price increase over its predecessor, does it still deliver value for money?",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T17:51:20+00:00",
@@ -1262,7 +1309,6 @@
     "title": "watchOS 27.2 available now for Apple Watch, here’s what’s new",
     "description": "watchOS 27.2 is rolling out now for Apple Watch users alongside visionOS 27.2 and more. Here’s what’s new.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T17:47:47+00:00",
@@ -1344,7 +1390,6 @@
     "title": "This startup’s self-driving excavators help dig up $600M in new funding",
     "description": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T17:45:00+00:00",
@@ -1557,7 +1602,6 @@
     "title": "This Pixel 10 deal will be hard to beat on Black Friday — save £370, get double storage, and a pair of earbuds for £1",
     "description": "EE has the Google Pixel 10 for a fantastic price, thanks to a substantial £370 saving available on the budget-friendly smartphone, making it one of the best Android phone deals available right now.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T17:06:00+00:00",
@@ -1770,6 +1814,7 @@
     "title": "Microsoft and others push out emergency patches for a critical flaw in Brotli, the C decoder library built into Node.js, that could allow remote code execution (Bill Toulas/BleepingComputer)",
     "description": "Bill Toulas / BleepingComputer:\nMicrosoft and others push out emergency patches for a critical flaw in Brotli, the C decoder library built into Node.js, that could allow remote code execution  —  A critical flaw dubbed ‘HTTP2Shell’ in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T16:45:00+00:00",
@@ -1841,7 +1886,6 @@
     "title": "Apple’s new OLED iPad Mini is the upgrade I’ve been waiting for – here’s why",
     "description": "Starting at $799, the 8th-generation iPad mini is up for preorder on October 27 and hits stores on November 6. It’s already on my shopping list.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T16:25:16+00:00",
@@ -1853,7 +1897,6 @@
     "title": "I found over 15 earbuds deals worth shopping ahead of Black Friday: Nothing earbuds lead the way",
     "description": "Mashable's headphones and earbuds expert rounded up the best early Black Friday deals on earbuds found at Amazon, Walmart, Target, Best Buy, and audio brands' websites.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T16:25:08+00:00",
@@ -1876,7 +1919,6 @@
     "title": "Early Black Friday speaker deals are trickling in, but were still waiting for more notable price drops",
     "description": "Save up to $50 on portable Bluetooth speakers from JBL, Ultimate Ears, Beats, and Sony during these early Black Friday 2026 sales.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T16:22:17+00:00",
@@ -1888,7 +1930,6 @@
     "title": "Worried about iPhone Duo screen cracking? Watch a robot fold one until it breaks",
     "description": "A phone-folding robot is being used to take the iPhone Duo to its breaking point, and you can watch it happen live.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T16:21:29+00:00",
@@ -2311,50 +2352,5 @@
     "pub_date": "2026-10-26T14:48:24+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/A2621582-1152x648.jpg",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/apple-iphone-duo-crack-bend-test",
-    "title": "Apple iPhone Duo screen crack: See the phone fail JerryRigEverything’s bend test",
-    "description": "Apple's iPhone Duo was put to a very tough bend test, and it didn't fare great.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T14:46:49+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06qiAOKWNk2YzVFOcYQWnMy/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261026/p29#a261026p29",
-    "title": "S-1: Anthropic warns prospective investors that its AI safety and advocacy stances risk disproportionate and selective targeting from the Trump administration (Maria Curi/Axios)",
-    "description": "Maria Curi / Axios:\nS-1: Anthropic warns prospective investors that its AI safety and advocacy stances risk disproportionate and selective targeting from the Trump administration  —  Anthropic is warning investors that it may continue to be a target of the Trump administration as it seeks one of the biggest IPOs in history …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T14:45:02+00:00",
-    "image_url": "http://www.techmeme.com/261026/i29.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/eu-accepts-temus-plan-to-curb-illegal-products-after-e200m-fine",
-    "title": "EU accepts Temu’s plan to curb illegal products after €200M fine",
-    "description": "The European Commission has accepted Temu’s plan to improve its compliance with the Digital Services Act (DSA), five months after fining the online marketplace €200 million over its failure to properly assess the risk of illegal products on its platform. The Commission announced the decision today, as Temu’s plan sets out five areas of work, including",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T14:42:35+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/woman-speaking-european-commission-podium.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.theverge.com/gadgets/1018528/remarkable-paper-pro-move-nintendo-switch-2-fujifilm-deal-sale",
-    "title": "Remarkable’s refurbished Paper Pro Move bundle is over $100 off",
-    "description": "The Remarkable Paper Pro Move is essentially a digital notepad, with a skinny 7.3-inch E Ink screen that’s easy to hold one-handed to jot down notes or ideas. At $449 new, it’s not exactly cheap, but buying refurbished is a way to save, as always. Remarkable itself offers the refurbished Paper Pro Move for that",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-26T14:41:43+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/remarkabledeal.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
