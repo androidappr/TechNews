@@ -1,11 +1,58 @@
 [
   {
+    "link": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
+    "title": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
+    "description": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T22:40:37+00:00",
+    "image_url": "https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/master/pass/MCDODYS_UV008.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills",
+    "title": "OpenAI says its AI model has disproved the Exponential Time Hypothesis",
+    "description": "Hundreds of computer science papers rest on a conjecture that an internal OpenAI model now claims to have refuted, the company said on Monday. OpenAI announced two more results the same day, one in mathematics and one in physics. In a blog post, OpenAI said the Exponential Time Hypothesis (ETH) has been “widely believed to",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-26T22:30:09+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/boy-writing-formulas-on-large-chalkboard.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.cnet.com/culture/walter-koenig-star-trek-chekov-dies/",
+    "title": "Walter Koenig, Star Trek’s Original Chekov, Dies at 90: ‘He Loved You Too’",
+    "description": "Raise a glass of “wodka” to the Enterprise’s navigator. The actor not only starred in the original series, but in all six original-cast movies.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T22:27:28+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/walter-koenig-wrath-of-khan-GettyImages-691253452.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/computing/apple-pro-and-tell-event-macbook-oled-touchscreen-ipad-mini/",
+    "title": "Apple’s ‘Pro and Tell’ Event: Everything Announced So Far This Week",
+    "description": "A new iPad Mini and possible upgrades to the MacBook Pro and iMac are coming. Here’s what we’re anticipating in another big week for Apple.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-26T22:21:38+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/image-8-4.png",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/microsoft-net-emergency-patch-brotli-flaw-node2shell",
     "title": "Microsoft ships emergency .NET fixes for a critical Brotli flaw",
     "description": "Microsoft shipped out-of-band updates for .NET, Visual Studio and PowerShell on Sunday. They fix CVE-2026-111497, a buffer overflow in Brotli, Google’s widely used compression library, which OpenAI’s Codex Security team reported. Node.js, Python packages, proxies and other tools that bundle the library are shipping fixes too. In a .NET blog post, Microsoft said the buffer",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-10-26T22:08:14+00:00",
@@ -1077,7 +1124,6 @@
     "title": "Proton has launched its Black Friday VPN prices – and they might have restored my faith in this year's deals",
     "description": "Proton's Black Friday deals give you a chance to save on its VPN or alternatively, on its entire suite of privacy-first tools.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T18:34:01+00:00",
@@ -1814,7 +1860,6 @@
     "title": "Microsoft and others push out emergency patches for a critical flaw in Brotli, the C decoder library built into Node.js, that could allow remote code execution (Bill Toulas/BleepingComputer)",
     "description": "Bill Toulas / BleepingComputer:\nMicrosoft and others push out emergency patches for a critical flaw in Brotli, the C decoder library built into Node.js, that could allow remote code execution  —  A critical flaw dubbed ‘HTTP2Shell’ in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-26T16:45:00+00:00",
@@ -2306,51 +2351,5 @@
     "pub_date": "2026-10-26T14:56:16+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/nevis-70m-funding-graphic-investor-logos.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/tablets/ipad-mini/apples-new-oled-ipad-mini-is-here-and-its-a-much-bigger-upgrade-than-i-expected",
-    "title": "Apple’s new iPad mini packs big upgrades into an even smaller design — and I’m loving the results",
-    "description": "Apple's new iPad mini gets an OLED screen, the A20 Pro chipset, a new audio system, and IP67 water and dust resistance, but it comes with a higher starting price.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T14:54:55+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/h4kNv3NfTYBY9zinbGPXy7-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
-    "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
-    "description": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-26T14:50:47+00:00",
-    "image_url": "https://media.wired.com/photos/6adf6c00ca47359863df5ba5/master/pass/102626-Anthropic%20IPO.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-early-black-friday-noise-cancelling-headphones-deals-2026",
-    "title": "Early Black Friday noise-cancelling headphones deals are here: Get Sony headphones for under $90",
-    "description": "The best early Black Friday noise-cancelling headphones deals include Sony, Soundcore, AirPods, and more.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T14:48:59+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/061sicHYKZMmcUAMb2cgZy9/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
-    "title": "F1 in Texas: The American race that fans love to attend",
-    "description": "Ars spends the weekend with the Audi Revolut F1 team at the Circuit of the Americas.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T14:48:24+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/A2621582-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
