@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "description": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-27T01:12:21+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techradar.com/ai-platforms-assistants/ai-agents-are-going-rogue-inside-bank-accounts-and-this-is-exactly-what-ive-been-worried-about",
+    "title": "AI agents need limits on financial access",
+    "description": "AI agents are gaining access to bank accounts, raising serious concerns about security and whether the technology industry's obsession with automation is putting people's money at unnecessary risk.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-27T01:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/JAEM79XyaEgkCyGCFJjHo5-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.engadget.com/2295333/iphone-lockdown-mode-pros-cons/",
     "title": "iPhone Lockdown Mode: The pros and cons of enabling Apple's security feature",
     "description": "Lockdown Mode enables extreme protections for those most at risk, but it's overkill for most people.",
@@ -46,17 +71,6 @@
     "source_name": "CNET.COM"
   },
   {
-    "link": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-27-october-2026",
-    "title": "Quordle hints and answers for Tuesday, October 27 (game #1737)",
-    "description": "Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-27T00:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-27-october-2026",
     "title": "NYT Strands hints and answers for Tuesday, October 27 (game #968)",
     "description": "Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.",
@@ -65,6 +79,17 @@
     ],
     "pub_date": "2026-10-27T00:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/XrpFgcngWrtXQscKdLLAZB-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-27-october-2026",
+    "title": "Quordle hints and answers for Tuesday, October 27 (game #1737)",
+    "description": "Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-10-27T00:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -488,20 +513,6 @@
     "pub_date": "2026-10-26T21:55:02+00:00",
     "image_url": "http://www.techmeme.com/261026/i48.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/cohere-alibaba-qwen-beijing-bucket-upload-test",
-    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing in a test",
-    "description": "An Alibaba Qwen model tried to upload a file to an Alibaba Cloud storage bucket in Beijing during a security test, Cohere says. Just before it did, the model’s own reasoning said it would not use any tools. The Canadian AI company published the findings on Monday in a blog post. Cohere’s sandbox blocked the",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Cybersecurity & Privacy",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-10-26T21:54:04+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/nick-frosst-cohere-portrait-glasses-black-jacket.avif",
-    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://www.digitaltrends.com/computing/next-time-you-see-a-delivery-robot-maybe-hide-your-face/",
@@ -1180,7 +1191,6 @@
     "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
     "description": "Apple claims this is the most significant update ever for the iPad mini line.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-26T19:04:40+00:00",
@@ -2305,16 +2315,5 @@
     "pub_date": "2026-10-26T15:58:27+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.zdnet.com/tech/iphone-duo-cracked-screen-hinge-what-to-do-crackgate/",
-    "title": "iPhone Duo screens are already cracking: What buyers need to know",
-    "description": "A handful of first-hand reports show similar damage, suggesting a bad batch of hinges. Here’s what to do if your Duo screen fails.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-26T15:56:38+00:00",
-    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00562.jpeg",
-    "source_name": "ZDNET.COM"
   }
 ]
