@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.techmeme.com/261027/p36#a261027p36",
+    "title": "Anthropic expands its US GSA partnership to give federal, state, local, tribal, and territorial governments a 40% discount on Claude, estimated to save $1B (Anthropic)",
+    "description": "Anthropic:\nAnthropic expands its US GSA partnership to give federal, state, local, tribal, and territorial governments a 40% discount on Claude, estimated to save $1B  —  We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-27T23:35:01+00:00",
+    "image_url": "http://www.techmeme.com/261027/i36.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "description": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-27T23:34:27+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261027/p35#a261027p35",
     "title": "Infisical, which helps companies use AI agents without handing over their private credentials, raised a $40M Series B led by Elad Gil at a $600M valuation (Rashi Shrivastava/Forbes)",
     "description": "Rashi Shrivastava / Forbes:\nInfisical, which helps companies use AI agents without handing over their private credentials, raised a $40M Series B led by Elad Gil at a $600M valuation  —  Infisical is helping companies like Airbus and Volkswagen use agents without handing over their private credentials.",
@@ -46,7 +70,7 @@
     "source_name": "MASHABLE.COM"
   },
   {
-    "link": "https://www.cnet.com/tech/mobile/att-is-paying-out-its-177-million-data-breach-settlement-you-might-get-a-check-soon/",
+    "link": "https://www.cnet.com/tech/mobile/att-177-million-data-breach-settlement-payouts-checks/",
     "title": "AT&#038;T Is Paying Out Its $177 Million Data Breach Settlement. You Might Get a Check Soon",
     "description": "If you filed a claim by Dec. 18, 2025, a check for up to $7,500 could be on its way within the next few months.",
     "categories": [
@@ -766,8 +790,7 @@
     "title": "Oracle bundles AI video tools and streaming into one media platform",
     "description": "Oracle announced Media Fabric at AI World, a platform that combines its own AI video and image models, an AI production suite and a live-streaming network. It lets brands make many versions of one ad. Oracle says it will be available within 12 months. Oracle has announced Media Fabric, a platform that uses AI to",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-27T19:45:26+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/oracle-building-san-jose-sobrato-tower.avif",
@@ -778,7 +801,6 @@
     "title": "Report: iPhone 18 Pro sales down 4% in the US, but China drives 3.1% global growth",
     "description": "Counterpoint Research’s latest report offers a look at global iPhone 18 Pro sales during the first three weeks of availability. Here are the details.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-27T19:44:07+00:00",
@@ -815,7 +837,6 @@
     "title": "Google begins certifying Registered App Stores for Android, but not in the US",
     "description": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-27T19:32:07+00:00",
@@ -1212,7 +1233,6 @@
     "title": "Apple Creator Studio adds new AI-powered tools, upgrades to Final Cut Pro and Logic Pro",
     "description": "Apple debuts new content hub for Final Cut Pro, adds Liquid Glass to Logic Pro, and introduces a new AI assistant that can help you edit just about anything.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-27T17:39:31+00:00",
@@ -2260,27 +2280,5 @@
     "pub_date": "2026-10-27T14:19:32+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/nKpyMkjn7WBTUvTgkLL4g5-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2298214/anthropics-political-problem-will-get-worse-before-it-gets-better/",
-    "title": "Anthropic's political problem will get worse before it gets better",
-    "description": "With the midterms closing in, its IPO paperwork reveal a company rightly worried about its regulatory future.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-27T14:16:27+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/anthropics-political-problem-will-get-worse-before-it-gets-better/l-intro-1793110492.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://mashable.com/life/oct-27-magic-the-gathering-avatar-last-airbender-play-booster-box-deal",
-    "title": "Magic: The Gatherings Avatar The Last Airbender Play Booster Box is down to a record-low price on Amazon — save $10",
-    "description": "Amazon has dropped MTG's Avatar: The Last Airbender Play Booster Box to a record-low $122.95, letting you save $10 on 30 packs.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-27T14:11:22+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/073Lfn0Xj2vSdcEeerRdAAS/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
