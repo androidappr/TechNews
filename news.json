@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.cnet.com/tech/services-and-software/php-warning-web-vulnerability/",
+    "title": "Last Week’s Critical PHP Warning Was the Tip of the Web Vulnerability Iceberg",
+    "description": "AI is finding new holes in the infrastructure of the internet. Is anyone around to patch them?",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-27T18:39:30+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2301068370.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2295625/old-nokia-phone-ai-upgrade-never-designed-for/",
+    "title": "This old Nokia phone got an AI Upgrade it was never designed for",
+    "description": "The GOAT of dumb phones gets a new lease on life.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-27T18:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/l-intro-1792779965.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/10/27/astropad-workbench-1-4-adds-terminal-access-iphone-duo-support-and-more/",
     "title": "Astropad Workbench 1.4 adds terminal access, iPhone Duo support, and more",
     "description": "Astropad is out today with Workbench 1.4, the latest update to its remote desktop app for Mac. The release adds a built-in terminal, native iPhone Duo support, and a new way to transfer files between Macs.\n\n\n\n more…",
@@ -1094,6 +1118,7 @@
     "title": "US government says hackers are now exploiting critical PHP web bugs",
     "description": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
     "categories": [
+      "Breaking News",
       "Cybersecurity & Privacy",
       "Government & Policy"
     ],
@@ -1129,7 +1154,6 @@
     "title": "Fujifilm’s Instax Mini Evo 2 makes instant photography more digital with touchscreen and video capture",
     "description": "The new Fujifilm Instax Mini Evo 2 brings touchscreen controls, 100 creative effect combinations, and a clever way to capture moments before the shutter clicks.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-27T14:37:21+00:00",
@@ -1153,7 +1177,6 @@
     "title": "London-based Machenta, which is building an AI model that can teach robots new physical tasks after seeing them performed just once, raised a $40M seed (Rya Jetha/Business Insider)",
     "description": "Rya Jetha / Business Insider:\nLondon-based Machenta, which is building an AI model that can teach robots new physical tasks after seeing them performed just once, raised a $40M seed  —  A London-based robotics startup is betting it can teach robots new tricks without collecting the mountains of real-world data its much bigger rivals are chasing.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-27T14:35:01+00:00",
@@ -2314,29 +2337,5 @@
     "pub_date": "2026-10-27T11:10:03+00:00",
     "image_url": "http://www.techmeme.com/261027/i10.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-    "description": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-27T11:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
-    "title": "AI Agents Are Media’s New Favorite Audience",
-    "description": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-27T11:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6adfd6269b54dbfcc0225ffd/master/pass/business_ai_agents_media_audience.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
