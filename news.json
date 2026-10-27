@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://thenextweb.com/news/apple-macbook-pro-m6-14-inch",
+    "title": "Apple launches 14-inch MacBook Pro with M6 and 24-hour battery",
+    "description": "Apple has updated its 14-inch MacBook Pro with the M6 chip, promising faster graphics, better on-device AI performance, and up to 24 hours of battery life, the longest runtime the company has offered in a Mac. The new MacBook Pro was announced today alongside a refreshed iMac. Pre-orders open on Wednesday in 35 countries, with",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-27T15:07:27+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/macbook-pro-m6-side-view-glowing-m6.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2298300/nintendo-sets-an-indie-world-showcase-for-october-28/",
+    "title": "Nintendo sets an Indie World showcase for October 28",
+    "description": "The stream will run for around 15 minutes and feature games coming to Switch and Switch 2.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-10-27T15:06:04+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/nintendo-sets-an-indie-world-showcase-for-october-28/l-intro-1793113525.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
     "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
     "description": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
@@ -1307,7 +1330,6 @@
     "title": "Sovereign AI is about more than where data resides",
     "description": "Why sovereign AI depends on resilient, secure infrastructure designed for control and flexibility.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-27T11:10:10+00:00",
@@ -2300,28 +2322,5 @@
     "pub_date": "2026-10-27T01:42:06+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/kvakg4rjHW6GMDA4xf3mKd-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/71-207-drones-broke-world-record-in-texas-using-chinese-expertise-and-intriguing-drone-in-a-box-concept-shenzhen-based-damoda-teamed-with-sky-elements-to-bring-10000-strong-dragon-to-life",
-    "title": "71,207 drones broke world record in Texas using Chinese expertise and intriguing 'drone-in-a-box' concept — Shenzhen-based Damoda teamed with Sky Elements to bring 10000-strong dragon to life",
-    "description": "Sky Elements and Damoda used 71,207 drones in Texas to break two Guinness records, including one for a giant aerial dragon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-27T01:20:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/q7tTWTUMvVCFJcwp4ukyhh-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-    "description": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-27T01:12:21+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
