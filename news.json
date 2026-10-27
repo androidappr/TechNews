@@ -1,9 +1,33 @@
 [
   {
+    "link": "https://www.techradar.com/pro/security/watch-out-that-microsoft-teams-chat-might-be-hackers-impersonating-your-it-support",
+    "title": "Watch out — that Microsoft Teams chat might be hackers impersonating your IT support",
+    "description": "Fake IT support pushes victims into granting hands-on access via remote management tools.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-27T23:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/JnkKiUetccxhjSuwFcdUPc-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2299126/discord-server-messages-google-searchable-opt-out/",
+    "title": "Discord public server messages may be soon searchable on Google, but you can opt out",
+    "description": "The platform's Discoverable Servers are about to get a lot more discoverable.",
+    "categories": [
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-27T23:04:49+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/discord-public-server-messages-may-be-soon-searchable-on-google-but-you-can-opt-out/l-intro-1793141144.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.cnet.com/tech/mobile/att-is-paying-out-its-177-million-data-breach-settlement-you-might-get-a-check-soon/",
     "title": "AT&#038;T Is Paying Out Its $177 Million Data Breach Settlement. You Might Get a Check Soon",
     "description": "If you filed a claim by Dec. 18, 2025, a check for up to $7,500 could be on its way within the next few months.",
     "categories": [
+      "Breaking News",
       "Mobile & Telecom"
     ],
     "pub_date": "2026-10-27T22:56:47+00:00",
@@ -13,7 +37,7 @@
   {
     "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
     "title": "The data center boom has an upside: innovation for the US grid",
-    "description": "As the AI boom stresses the existing power grid, all sort of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+    "description": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News"
@@ -405,6 +429,7 @@
     "title": "Discord is making its public communities more searchable, and people have concerns",
     "description": "In December, messages from Discord's public discoverable servers will begin appearing in search engine results.",
     "categories": [
+      "Breaking News",
       "Cybersecurity & Privacy",
       "Software & Apps"
     ],
@@ -850,7 +875,6 @@
     "title": "Memo: Amazon says measuring AI adoption solely by token usage or code generation is \"deeply flawed,\" as it discourages staff from tokenmaxxing (Annie Palmer/CNBC)",
     "description": "Annie Palmer / CNBC:\nMemo: Amazon says measuring AI adoption solely by token usage or code generation is “deeply flawed,” as it discourages staff from tokenmaxxing  —  Amazon laid out its AI usage guidelines for software engineers in a memo to staffers, and discouraged employees from turning to …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-27T19:15:34+00:00",
@@ -862,7 +886,6 @@
     "title": "\"AI threats are real - it's not some kind of urban myth\": Microsoft UK security head on why your business should be prepared for a new generation of AI cyber threats",
     "description": "In the AI security age, responsibility for security lies on everyone in an organization, Microsoft warns.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-10-27T19:05:00+00:00",
@@ -2263,28 +2286,5 @@
     "pub_date": "2026-10-27T14:10:01+00:00",
     "image_url": "http://www.techmeme.com/261027/i20.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/life/oct-27-pokemon-tcg-delta-reign-3-pack-blister-preorder-deal",
-    "title": "The Pokémon TCG Delta Reign 3-Pack Blister is already on sale at Amazon — save nearly $5",
-    "description": "The Pokémon TCG Delta Reign Three-Booster Blister is already 12% off at Amazon, saving you nearly $5 ahead of its Nov. 6 release.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-27T14:06:15+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/001sdxD0hI2uZI5Xf63Kpy9/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/apple-imac-m6-price-release-date",
-    "title": "Apples new M6 iMac is a powerful and colorful all-in-one computer",
-    "description": "Apple unveiled a new iMac with a variety of color choices and plenty of horsepower for all your AI needs.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-27T14:03:31+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00vAl3NLIOWyNib9AuO5Us5/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
