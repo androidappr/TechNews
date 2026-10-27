@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://9to5mac.com/2026/10/27/ios-27-2-adds-new-app-icon-for-apple-music-more-design-updates/",
+    "title": "iOS 27.2 adds new app icon for Apple Music, more design updates",
+    "description": "iOS 27.2 launched this week, and the update includes a new app icon for Apple Music alongside other small design changes in the Music app.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-27T20:57:05+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-2-apple-music-app-icon-new.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+    "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+    "description": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-27T20:48:58+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/10/27/ios-27-2-new-features-release-date/",
     "title": "iOS 27.2 now available: Here’s everything new for iPhone",
     "description": "iOS 27.2 is now available to everyone after six weeks of beta testing. The update was released on Monday, bringing multiple new iPhone features. Here’s everything you need to know. \n\n\n\n more…",
@@ -10,6 +34,17 @@
     "pub_date": "2026-10-27T20:45:46+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27.2-guide.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261027/p30#a261027p30",
+    "title": "Robinhood reports Q3 revenue up 12% YoY to $1.42B, in line with est., crypto revenue down 55% to $120M, and profit down 14% to $476M; HOOD drops 5%+ after hours (Reuters)",
+    "description": "Reuters:\nRobinhood reports Q3 revenue up 12% YoY to $1.42B, in line with est., crypto revenue down 55% to $120M, and profit down 14% to $476M; HOOD drops 5%+ after hours  —  Robinhood Markets (HOOD.O) reported a drop in third-quarter profit on Tuesday as slower cryptocurrency trading weighed on growth …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-27T20:45:37+00:00",
+    "image_url": "http://www.techmeme.com/261027/i30.jpg",
+    "source_name": "TECHMEME.COM"
   },
   {
     "link": "https://www.digitaltrends.com/movies/ai-movie-sanxingdui-future-past-flopped-in-china-and-hollywood-must-take-notes/",
@@ -35,6 +70,17 @@
     "pub_date": "2026-10-27T20:37:07+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/AC8_lede.jpg",
     "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/tech/iphone-duo-cracked-screen-hinge-what-to-do-crackgate/",
+    "title": "iPhone Duo screen cracks: Serious issue or overblown? What we know",
+    "description": "Some displays are failing within hours of unboxing. Apple is offering replacements, but is the issue really that widespread?",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-27T20:33:59+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00524.jpeg",
+    "source_name": "ZDNET.COM"
   },
   {
     "link": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
@@ -68,6 +114,17 @@
     "pub_date": "2026-10-27T20:27:38+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/anthropic-wordmark-3d-render-purple-glass.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+    "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+    "description": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-27T20:25:55+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://www.techmeme.com/261027/p29#a261027p29",
@@ -214,7 +271,7 @@
   },
   {
     "link": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
-    "title": "Google's Android Registered App Stores program launches Dec. 1, applications now open",
+    "title": "Google begins certifying Registered App Stores for Android, but not in the US",
     "description": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
     "categories": [
       "Breaking News",
@@ -791,7 +848,6 @@
     "title": "The Super Mouse puts a touchscreen macro pad under your hand",
     "description": "A company called Arctic Fox Technologies has announced a new multifunction mouse that forgoes a myriad of customizable shortcut buttons peppered across its surface for a compact touchscreen sitting beneath your hand. The Super Mouse may not prioritize ergonomics with its boxy design, but it can replace other peripherals on your desk, like a trackpad,",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-27T17:00:00+00:00",
@@ -825,8 +881,7 @@
     "title": "This tool can recover deleted AI chats from your phone – how it works",
     "description": "This new tool proves it’s still best to limit the info you share with chatbots.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-27T16:55:54+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/bluecubes3GettyImages-2279412518.jpg",
@@ -838,7 +893,6 @@
     "description": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-10-27T16:51:22+00:00",
@@ -1492,7 +1546,6 @@
     "title": "How to pre-order Apple’s new M6 iMac and 14-inch MacBook Pro",
     "description": "Apple’s new M6 iMac and 14-inch MacBook Pro arrive in stores on November 6, with pre-orders opening October 28 at 10:10 AM PT.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-27T14:51:42+00:00",
@@ -2246,65 +2299,5 @@
     "pub_date": "2026-10-27T13:00:42+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/hyphenate-cofounders-leather-armchairs-horse-sculpture.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/black-ore-small-firms-ai-tax-autopilot",
-    "title": "Black Ore launches its AI tax preparation platform for small firms",
-    "description": "Black Ore, the AI platform for financial services, launched Black Ore for Small Firms. It is a version of its Tax Autopilot platform built for small and mid-sized accounting practices. The announcement was made at Intuit Connect in Las Vegas. Black Ore for Small Firms gives practices of any size autonomous return preparation. The largest",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-27T13:00:27+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/black-ore-homepage-tax-autopilot-screenshot.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/27/opera-one-now-lets-mac-users-run-apples-foundation-model-directly-in-the-browser/",
-    "title": "Opera One now lets Mac users run Apple’s foundation model directly in the browser",
-    "description": "Starting today, Opera One users can access a preview feature that lets them tap into local AI models through WebAI, a proposed web standard. Here are the details.\n\n\n\n more…",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-27T13:00:18+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/opera-webai.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
-    "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
-    "description": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
-    "categories": [
-      "Business & Startups",
-      "Gadgets & Hardware",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-10-27T13:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-    "description": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-27T13:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-    "description": "The new standard, WebAI, is designed to work with a variety of AI models.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-27T13:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
