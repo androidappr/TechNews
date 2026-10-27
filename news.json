@@ -1,5 +1,64 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+    "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+    "description": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-27T21:44:34+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/10/27/firefoxs-ai-powered-smart-window-gets-form-autofill-and-website-monitoring/",
+    "title": "Firefox’s AI-powered Smart Window gets form autofill and website monitoring",
+    "description": "Mozilla today announced two new features for Smart Window, its opt-in AI-powered browsing experience in Firefox. Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-27T21:43:14+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/firefox-smart-window.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+    "title": "Who’s really in charge at Anthropic after the IPO?",
+    "description": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-27T21:38:28+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/ive-used-enough-touchscreen-laptops-for-years-and-i-hope-apple-gets-one-thing-right/",
+    "title": "I’ve used enough touchscreen laptops for years, and I hope Apple gets one thing right",
+    "description": "After years of using touchscreen Windows laptops like the Dell XPS 14 and Asus Zenbook Duo, I'm eager to see Apple's take, provided it keeps the MacBook experience intact.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-27T21:36:13+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/M6-MacBook-Pro-lifestyle.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2299052/why-is-there-a-random-arm-taking-over-the-x-composer/",
+    "title": "Why is there a random arm taking over the X composer?",
+    "description": "The animation is pushing users to pay to promote their posts.",
+    "categories": [
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-27T21:35:22+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/why-is-there-a-random-arm-taking-over-the-x-composer/l-intro-1793136636.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.engadget.com/2299043/iphone-18e-reportedly-comes-with-2nm-a20-chip-and-60hz-screen/",
     "title": "iPhone 18e reportedly comes with 2nm A20 chip and 60Hz screen",
     "description": "The leaks suggest the front camera could also see a boost.",
@@ -9,6 +68,18 @@
     "pub_date": "2026-10-27T21:26:20+00:00",
     "image_url": "https://www.engadget.com/img/gallery/iphone-18e-reportedly-comes-with-2nm-a20-chip-and-60hz-screen/l-intro-1793135835.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/anthropic-suno-sued-using-songs-madonna-johnny-cash-joni-mitchell/",
+    "title": "Anthropic, Suno Sued for Unlawfully Using Songs by Madonna, Johnny Cash, Joni Mitchell",
+    "description": "Companies are accused of training their AI models using copyrighted music and lyrics.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-27T21:22:44+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/johnny-cash-GettyImages-109365611.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/",
@@ -1218,7 +1289,8 @@
     "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
     "description": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. You",
     "categories": [
-      "AI & Machine Learning"
+      "AI & Machine Learning",
+      "Breaking News"
     ],
     "pub_date": "2026-10-27T16:14:18+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/firefox-fill.png?quality=90&strip=all&crop=0,0,100,100",
@@ -2222,72 +2294,5 @@
     "pub_date": "2026-10-27T13:26:38+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-Creator-Studio-gets-powerful-new-AI-features-using-OpenAI.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2298132/apples-imac-with-m6-arrives-promising-a-huge-leap-in-ai-performance/",
-    "title": "Apple's iMac with M6 arrives promising a 'huge leap' in AI performance",
-    "description": "It offers more cores and more performance per core than the iMac M5.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-27T13:25:44+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/apples-imac-with-m6-arrives-promising-a-huge-leap-in-ai-performance/l-intro-1793110400.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
-    "title": "US officials want Section 702 renewed before damaging court ruling goes public",
-    "description": "Senators say officials hid a ruling on warrantless searches past its release deadline.",
-    "categories": [
-      "Government & Policy"
-    ],
-    "pub_date": "2026-10-27T13:22:16+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/court-spy-1024x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/bitdefender-gravityzone-exposure-management-attack-paths",
-    "title": "Bitdefender’s new tool maps how attackers could reach critical systems",
-    "description": "Bitdefender has launched GravityZone Exposure Management, which combines vulnerability discovery, internet-facing asset scanning, attack-path mapping and per-user hardening. It is available now on Windows, as an add-on or standalone. Bitdefender did not give prices. Bitdefender has launched a tool that shows how hackers could link small weak spots to reach a firm’s most important systems.",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-27T13:21:35+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/bitdefender-headquarters-orhideea-towers-bucharest.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261027/p17#a261027p17",
-    "title": "Anduril and Qualcomm unveil BlueChip, a line of laptops designed and assembled in the US for defense and government; Anduril will begin taking orders in 2027 (Bloomberg)",
-    "description": "Bloomberg:\nAnduril and Qualcomm unveil BlueChip, a line of laptops designed and assembled in the US for defense and government; Anduril will begin taking orders in 2027  —  Anduril and Qualcomm Plan US Supply Chain Laptop  —  Video Player is loading.  —  Unmute  —  Current Time 0:00 Loaded: 44.16% Playback Rate",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-27T13:20:01+00:00",
-    "image_url": "http://www.techmeme.com/261027/i17.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/over-525-000-hit-in-massive-university-of-copenhagen-data-breach",
-    "title": "Over 525,000 hit in massive University of Copenhagen data breach",
-    "description": "Even some PIN codes were stolen, forcing the University to reset them.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-27T13:15:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/pVCXKrhThqmUjYVSZBjV5Z-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261027/p16#a261027p16",
-    "title": "Apple updates the 24-inch iMac with an M6, which has up to a 12-core CPU and up to a 12-core GPU, and a dual 16-core Neural Engine, for $1,499+ from November 6 (Apple)",
-    "description": "Apple:\nApple updates the 24-inch iMac with an M6, which has up to a 12-core CPU and up to a 12-core GPU, and a dual 16-core Neural Engine, for $1,499+ from November 6  —  With blazing-fast performance, enhanced connectivity, Siri AI, and macOS 27, all in a stunning design in seven vibrant colors, the world's best all-in-one gets even better",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-27T13:10:01+00:00",
-    "image_url": "http://www.techmeme.com/261027/i16.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
