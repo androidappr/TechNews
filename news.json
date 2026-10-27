@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+    "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+    "description": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. You",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-27T16:14:18+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/firefox-fill.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261027/p23#a261027p23",
+    "title": "Google launches Genie 4, a world model powered by Gemini 3.8 Flash designed to generate interactive AI simulations, initially as a preview to trusted testers (Jay Peters/The Verge)",
+    "description": "Jay Peters / The Verge:\nGoogle launches Genie 4, a world model powered by Gemini 3.8 Flash designed to generate interactive AI simulations, initially as a preview to trusted testers  —  The Genie 4 world model offers more realism and can create audio to accompany its interactive worlds.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-27T16:10:01+00:00",
+    "image_url": "http://www.techmeme.com/261027/i23.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers",
+    "title": "Major League Baseball is looking for a new kind of fan",
+    "description": "On October 2nd, just as Major League Baseball's Division Series was kicking off, the main MLB Instagram and TikTok accounts posted a video hyping up the teams still in the running for the World Series. It featured clips of players from the Milwaukee Brewers, Los Angeles Dodgers, Chicago White Sox, and more sliding into home",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-27T16:02:43+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2301861042.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
     "title": "Google’s next Genie AI model generates more realistic experiences",
     "description": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help",
@@ -22,6 +58,17 @@
     "pub_date": "2026-10-27T16:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/matic_yoga_serene-20.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/entertainment/how-to-watch/how-to-watch-the-future-with-hannah-fry-season-2",
+    "title": "How to watch The Future with Hannah Fry season 2 for free online from anywhere",
+    "description": "Here's how to watch the documentary series The Future with Hannah Fry season 2 online from anywhere in the world FOR FREE.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-27T15:59:15+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/jQMJjQf2b7V62Szvd7aKHH-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://www.zdnet.com/tech/apple-imac-m6-vs-m4-whats-new/",
@@ -1180,6 +1227,18 @@
     "source_name": "THEVERGE.COM"
   },
   {
+    "link": "https://www.digitaltrends.com/computing/opera-wants-websites-to-run-ai-on-your-laptop-instead-of-sending-your-data-to-the-cloud/",
+    "title": "Opera wants websites to run AI on your laptop instead of sending your data to the cloud",
+    "description": "Opera’s WebAI preview lets websites and extensions use AI models running locally on supported computers, avoiding cloud processing and separate subscriptions while leaving access under the user’s control through site-specific permissions.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-27T13:00:00+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.theverge.com/transportation/1018784/ford-fathom-bidirectional-charging-inverter-power-station-cost",
     "title": "Ford’s sub-$30K electric truck puts the home backup inverter right inside the vehicle",
     "description": "We're still a few months away from the official reveal of the Ford Fathom, the automaker's first next-generation electric vehicle. While we wait, Ford has been whetting our appetite with news about the sub-$30,000 pickup - including today's announcement about the Fathom's bidirectional charging capabilities. With an increasing number of EVs coming out with bidirectional",
@@ -1202,18 +1261,6 @@
     "pub_date": "2026-10-27T13:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-BlueChip-InField-11-Web.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/opera-wants-websites-to-run-ai-on-your-laptop-instead-of-sending-your-data-to-the-cloud/",
-    "title": "Opera wants websites to run AI on your laptop instead of sending your data to the cloud",
-    "description": "Opera’s WebAI preview lets websites and extensions use AI models running locally on supported computers, avoiding cloud processing and separate subscriptions while leaving access under the user’s control through site-specific permissions.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-10-27T13:00:00+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
   },
   {
     "link": "https://thenextweb.com/news/deepseeks-latest-model-still-resists-shutdown-in-safety-tests",
@@ -1242,8 +1289,8 @@
   },
   {
     "link": "https://www.techmeme.com/261027/p14#a261027p14",
-    "title": "The FCC warns TP-Link that three routers exceeded power limits and it may have submitted \"false or incorrect information\", a move that could allow further bans (Bloomberg)",
-    "description": "Bloomberg:\nThe FCC warns TP-Link that three routers exceeded power limits and it may have submitted “false or incorrect information”, a move that could allow further bans  —  The Federal Communications Commission has told TP-Link Systems Inc. that some of its Wi-Fi routers are violating power level limits …",
+    "title": "The FCC warns TP-Link that three of its routers violate power limits, which could bring more bans, and it may have submitted \"false or incorrect information\" (Bloomberg)",
+    "description": "Bloomberg:\nThe FCC warns TP-Link that three of its routers violate power limits, which could bring more bans, and it may have submitted “false or incorrect information”  —  The Federal Communications Commission has told TP-Link Systems Inc. that some of its Wi-Fi routers are violating power level limits …",
     "categories": [
       "Tech News"
     ],
@@ -1395,7 +1442,6 @@
     "title": "AI isn’t replacing thinking; it’s changing where we need to think",
     "description": "AI accelerates answers, but trusted data and human discernment determine whether they drive value.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-27T12:11:12+00:00",
@@ -1862,7 +1908,6 @@
     "title": "The iPhone 18e could get a shiny new chip while Apple keeps rationing smooth scrolling",
     "description": "A new iPhone 18e leak points to a 2nm A20 chip and a possible 24MP selfie camera, but buyers hoping for smoother scrolling could face another year with a 60Hz display.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware",
       "Mobile & Telecom"
     ],
@@ -2284,50 +2329,5 @@
     "pub_date": "2026-10-27T08:10:37+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/mozfest-barcelona-main-stage-panel.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261027/p3#a261027p3",
-    "title": "Nvidia and Meta expand their Muse partnership, including Meta deploying more Vera Rubin and Vera CPUs; Nvidia will invest $3B in Meta's planned equity fundraise (Wall Street Journal)",
-    "description": "Wall Street Journal:\nNvidia and Meta expand their Muse partnership, including Meta deploying more Vera Rubin and Vera CPUs; Nvidia will invest $3B in Meta's planned equity fundraise  —  Investment comes as Facebook's parent seeks up to $95 billion via stock offerings  —  Nvidia and Meta Platforms are expanding …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-27T08:10:00+00:00",
-    "image_url": "http://www.techmeme.com/261027/i3.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/life/ethan-hila-klein-h3-podcast-affair-allegations-explained",
-    "title": "What’s happening with Ethan and Hila Klein? The H3 Podcast fallout, explained",
-    "description": "Hila’s affair allegations have put H3’s future in question — and sent viewers digging through years of podcast clips.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-27T07:20:50+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01IcjJKGNbaHvO6QdHwmB4A/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/idx-complete-identity-theft-protection-review",
-    "title": "IDX Complete identity theft protection review",
-    "description": "A detailed review of the IDX complete package, covering its features, setup, customer support, pros, and cons.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-27T07:15:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/KuHm2pPPZACeAG2TK3k59e-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
-    "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
-    "description": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation & Control (GN&C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he answered, “You decide what’s important.”  In honor of National Mentoring Day on Oct. 27, Bhardwaj reflects on how Cohen’s",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-27T07:07:51+00:00",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/image.jpg?w=1536",
-    "source_name": "NASA.GOV"
   }
 ]
