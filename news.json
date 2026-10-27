@@ -1,5 +1,89 @@
 [
   {
+    "link": "https://www.digitaltrends.com/computing/apple-refreshes-the-imac-with-m6-chip-faster-ai-performance-and-wi-fi-7/",
+    "title": "Apple refreshes the iMac with M6 chip, faster AI performance, and Wi-Fi 7",
+    "description": "Apple’s refreshed iMac brings M6 power, faster AI, Wi-Fi 7, and improved connectivity, starting at $1,499.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-27T13:30:21+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/New-iMac.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/10/27/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models/",
+    "title": "Apple Creator Studio gets powerful new AI features using OpenAI models",
+    "description": "Apple Creator Studio updates have today been announced, with what the company describes as “powerful new AI features” using a combination of Apple Intelligence and OpenAI models.\n\n\n\nFinal Cut Pro for Mac will also include built-in MotionVFX to provide a large collection of visual effects, transitions, and motion graphics tools … \n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-27T13:26:38+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-Creator-Studio-gets-powerful-new-AI-features-using-OpenAI.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2298132/apples-imac-with-m6-arrives-promising-a-huge-leap-in-ai-performance/",
+    "title": "Apple's iMac with M6 arrives promising a 'huge leap' in AI performance",
+    "description": "It offers more cores and more performance per core than the iMac M5.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-27T13:25:44+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/apples-imac-with-m6-arrives-promising-a-huge-leap-in-ai-performance/l-intro-1793107663.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2298120/apple-has-updated-the-14-inch-macbook-pro-with-an-m6-chip/",
+    "title": "Apple has updated the 14-inch MacBook Pro with an M6 chip",
+    "description": "Sadly, the 16-inch MBP is still stuck with older M5 silicon.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-27T13:23:27+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/apple-has-updated-the-14-inch-macbook-pro-with-an-m6-chip/l-intro-1793107374.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/bitdefender-gravityzone-exposure-management-attack-paths",
+    "title": "Bitdefender’s new tool maps how attackers could reach critical systems",
+    "description": "Bitdefender has launched GravityZone Exposure Management, which combines vulnerability discovery, internet-facing asset scanning, attack-path mapping and per-user hardening. It is available now on Windows, as an add-on or standalone. Bitdefender did not give prices. Bitdefender has launched a tool that shows how hackers could link small weak spots to reach a firm’s most important systems.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-27T13:21:35+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/bitdefender-headquarters-orhideea-towers-bucharest.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261027/p17#a261027p17",
+    "title": "Anduril and Qualcomm unveil BlueChip, a line of laptops designed and assembled in the US for defense and government; Anduril will begin taking orders in 2027 (Bloomberg)",
+    "description": "Bloomberg:\nAnduril and Qualcomm unveil BlueChip, a line of laptops designed and assembled in the US for defense and government; Anduril will begin taking orders in 2027  —  Defense tech startup Anduril Industries Inc. has joined forces with chipmaker Qualcomm Inc. to produce laptops that are designed …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-27T13:20:01+00:00",
+    "image_url": "http://www.techmeme.com/261027/i17.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/over-525-000-hit-in-massive-university-of-copenhagen-data-breach",
+    "title": "Over 525,000 hit in massive University of Copenhagen data breach",
+    "description": "Even some PIN codes were stolen, forcing the University to reset them.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-27T13:15:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/pVCXKrhThqmUjYVSZBjV5Z-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261027/p16#a261027p16",
     "title": "Apple updates the 24-inch iMac with an M6 chip, with up to a 12-core CPU, up to a 12-core GPU, and a dual 16-core Neural Engine, from $1,499 on November 6 (Apple)",
     "description": "Apple:\nApple updates the 24-inch iMac with an M6 chip, with up to a 12-core CPU, up to a 12-core GPU, and a dual 16-core Neural Engine, from $1,499 on November 6  —  With blazing-fast performance, enhanced connectivity, Siri AI, and macOS 27, all in a stunning design in seven vibrant colors, the world's best all-in-one gets even better",
@@ -36,6 +120,17 @@
     "source_name": "TECHMEME.COM"
   },
   {
+    "link": "https://mashable.com/roundup/best-laptops-2026-expert-reviewed",
+    "title": "The best laptops of 2026: Out of the 90+ models weve tried, these are our 9 favorites",
+    "description": "We tested over 90 laptops in the past two years to find the best laptop for every budget. See how the top MacBooks compare to our favorite Windows PCs.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-27T13:06:24+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/roundups/07B25zibpGnHbWHFwBfeK1n/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1018467/apple-imac-m6-chip-announced-price-release",
     "title": "Apple refreshes the iMac with M6 chips",
     "description": "Apple is updating the iMac with M6 chips. The new iMac generation was introduced today, ahead of Apple's \"Pro and Tell\" event that's scheduled to take place on Wednesday, giving Apple's all-in-one desktop computer a performance boost via the same chipset it launched with the Mac Mini in August. Prices start from $1,499, and the",
@@ -70,6 +165,17 @@
     "pub_date": "2026-10-27T13:03:20+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/sandisk-sd-memory-card-held-in-hand.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://mashable.com/roundup/best-headphones-2026-expert-reviewed-tested",
+    "title": "The 13 best headphones of 2026: We tested the top contenders from Sony, Apple, Bose, and Beats",
+    "description": "Mashable's audio experts tested headphones and earbuds from Sony, Bose, Sonos, Beats, Technics, and more — here are the 13 that made our cut as the best of the best.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-27T13:02:37+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/roundups/00qrsf3wCFjMiU3WmxGY9h9/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://9to5mac.com/2026/10/27/apple-launches-new-imac-with-powerful-m6-chip/",
@@ -231,6 +337,17 @@
     "pub_date": "2026-10-27T12:59:40+00:00",
     "image_url": "https://media.thenextweb.com/2026/04/DeepSeek.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://mashable.com/roundup/best-ninja-kitchen-appliances-2026",
+    "title": "We tested the most popular Ninja appliances, and these are our favorites",
+    "description": "We tested the most popular Ninja kitchen appliances in our own homes, including the Creami, Foodi, and Slushi. These are our favorites.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-27T12:58:48+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/roundups/04QA3W1YMGWtAzrwftzbQSY/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techmeme.com/261027/p14#a261027p14",
@@ -1129,7 +1246,6 @@
     "description": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-10-27T09:30:00+00:00",
@@ -2182,116 +2298,5 @@
     "pub_date": "2026-10-26T21:20:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/UXUoBz2xYzpVLMMrg7S6Te-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://science.nasa.gov/blog/tingas-tale/",
-    "title": "Tinga’s Tale",
-    "description": "Written by Margaret Deahn, Ph.D. candidate at Purdue University Oct. 19, 2026 Once upon a time, NASA’s Mars 2020 rover investigated the southern border of “Idubi,” an outcrop composed primarily of an igneous mineral geologists call olivine. The rover’s “eyes” captured a very exciting geologic feature during its traverse — a contact between distinct rock",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T21:17:02+00:00",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2009_0845281389_428EBY_N0911496ZCAM10039_1100LMJ.jpg?w=1648&h=1200&fit=clip&crop=faces%2Cfocalpoint",
-    "source_name": "SCIENCE.NASA.GOV"
-  },
-  {
-    "link": "https://www.techmeme.com/261026/p46#a261026p46",
-    "title": "Intel agrees to acquire Tel Aviv-based quantum computing startup Classiq; Classiq has raised more than $200M in funding and has about 130 employees (Ian King/Bloomberg)",
-    "description": "Ian King / Bloomberg:\nIntel agrees to acquire Tel Aviv-based quantum computing startup Classiq; Classiq has raised more than $200M in funding and has about 130 employees  —  Intel Corp. agreed to buy Israeli startup Classiq Technologies Ltd. as part of a push to capitalize on quantum computing, a still-nascent field that is seeking commercial applications.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T21:15:01+00:00",
-    "image_url": "http://www.techmeme.com/261026/i46.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
-    "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
-    "description": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will be published Tuesday, Oct. 27, in the Proceedings of",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T21:07:28+00:00",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26816-pano-resized-for-web-feature.jpg?w=2048",
-    "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
-    "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
-    "description": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.",
-    "categories": [
-      "Social & Media"
-    ],
-    "pub_date": "2026-10-26T21:05:11+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.cnet.com/culture/internet/maxxing-word-of-the-year-dictionary-com/",
-    "title": "Are We All Maxxed Out? Dictionary.com Names ‘Maxxing’ Its 2026 Word of the Year",
-    "description": "Data center and unc were on the shortlist of words considered for the tribute.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T20:59:20+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/person-looking-in-mirror-GettyImages-1837113949.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/26/apple-addressed-at-least-329-unique-security-vulnerabilities-across-todays-system-updates/",
-    "title": "Apple addressed at least 329 unique security vulnerabilities across today’s system updates",
-    "description": "Apple has updated its security releases page with details of the vulnerabilities addressed in today’s updates to iOS, iPadOS, macOS, watchOS, tvOS, visionOS, and Safari. Here are the details.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T20:56:15+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
-    "title": "NEO Surveyor’s Sunshade Gets Inspected",
-    "description": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space & Mission Systems in Boulder, Colorado, in July 2026.  The sunshade structure stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base. Its two flat",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T20:53:13+00:00",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26780/PIA26780.jpg?w=1024&h=1536&fit=clip&crop=faces%2Cfocalpoint",
-    "source_name": "SCIENCE.NASA.GOV"
-  },
-  {
-    "link": "https://www.zdnet.com/tech/apple-ios-27-2-update-siri-ai-facetime-dual-cameras/",
-    "title": "Apple’s iOS 27.2 update offers major Siri AI upgrades, dual camera support for FaceTime",
-    "description": "iOS 27.2 is the first major update for the current OS. Here’s what’s inside and what happened to iOS 27.1.",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-26T20:52:35+00:00",
-    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00852.jpeg",
-    "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
-    "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
-    "description": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July.  Built by Applied Aerospace in Stockton, California, the sunshade structure was outfitted with its solar cells by SolAero Technologies in Albuquerque, New Mexico, in January. Environmental",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T20:52:24+00:00",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26715/PIA26715.jpg?w=1536&h=1024&fit=clip&crop=faces%2Cfocalpoint",
-    "source_name": "SCIENCE.NASA.GOV"
-  },
-  {
-    "link": "https://mashable.com/tech/la-speed-cameras",
-    "title": "With hundreds dying in crashes, LA turns to speed cameras for change",
-    "description": "Will the cameras lead to changed behavior — and fewer deaths?",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-26T20:43:51+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05WHXcKFYpMxHUfEUzDt2jA/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
