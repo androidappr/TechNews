@@ -1,5 +1,89 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+    "description": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-27T17:08:08+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/phone-communications/this-is-a-wow-moment-t-mobile-has-made-the-worlds-first-ai-ran-call-and-it-could-mean-huge-changes-for-the-next-generation-of-staying-in-touch",
+    "title": "'This is a wow moment': T-Mobile has made the world's first AI-RAN call, and it could mean huge changes for the next generation of staying in touch",
+    "description": "T-Mobile just announced what it calls the world's first AI-RAN call, but the AI component will arrive in the next phase.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-27T17:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/YxbVxk7yFhoVTjFFA6J8QH-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261027/p25#a261027p25",
+    "title": "Avante, which builds an AI platform to help companies manage employee healthcare and other benefits, raised a $30M Series A, following a $10M seed in 2024 (Kurt Schlosser/GeekWire)",
+    "description": "Kurt Schlosser / GeekWire:\nAvante, which builds an AI platform to help companies manage employee healthcare and other benefits, raised a $30M Series A, following a $10M seed in 2024  —  Chronicling the Seattle and Pacific Northwest startup scene.  —  Avante, the maker of an AI platform to help companies manage employee health care …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-27T17:02:17+00:00",
+    "image_url": "http://www.techmeme.com/261027/i25.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
+    "title": "The Super Mouse puts a touchscreen macro pad under your hand",
+    "description": "A company called Arctic Fox Technologies has announced a new multifunction mouse that forgoes a myriad of customizable shortcut buttons peppered across its surface for a compact touchscreen sitting beneath your hand. The Super Mouse may not prioritize ergonomics with its boxy design, but it can replace other peripherals on your desk, like a trackpad,",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-27T17:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/supermouse1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/phantom-blade-zero-review",
+    "title": "Phantom Blade Zero review: S-Game makes its debut in style with one of the year's best action games",
+    "description": "After 20 hours with S-Game's debut release, it's clear that Phantom Blade Zero is one of the best action games in recent memory, with thrilling combat, incredible weapon variety, and an absorbing (if sometimes obtuse) atmosphere.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-10-27T17:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/P5tfAmNV6Pa2hBxj7VqN6e-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/innovation/orisa-tool-recovers-deleted-local-ai-chats-android-phones/",
+    "title": "This tool can recover deleted AI chats from your phone – how it works",
+    "description": "This new tool proves it’s still best to limit the info you share with chatbots.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-27T16:55:54+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/bluecubes3GettyImages-2279412518.jpg",
+    "source_name": "ZDNET.COM"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+    "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+    "description": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-27T16:51:22+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2280291188.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.engadget.com/2296043/why-does-the-fcc-hate-minions-routers/",
     "title": "Why does the FCC hate Minions routers?",
     "description": "These themed routers are surprisingly (inexplicably) capable, but they are under threat by the FCC.",
@@ -1356,8 +1440,7 @@
     "title": "Memory and storage stocks keep sliding despite blowout earnings",
     "description": "Sandisk, Micron, Seagate and Western Digital were among the top stocks of early 2026 but have dropped to the S&P 500’s bottom 10% since July, Bloomberg reported. Western Digital fell even after beating forecasts. Investors doubt how long debt-funded AI spending can last. Sandisk, Micron, Seagate and Western Digital were among the stock market’s biggest",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-27T13:03:20+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/sandisk-sd-memory-card-held-in-hand.avif",
@@ -1473,6 +1556,17 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
+    "link": "https://www.digitaltrends.com/computing/opera-wants-websites-to-run-ai-on-your-laptop-instead-of-sending-your-data-to-the-cloud/",
+    "title": "Opera wants websites to run AI on your laptop instead of sending your data to the cloud",
+    "description": "Opera’s WebAI preview lets websites and extensions use AI models running locally on supported computers, avoiding cloud processing and separate subscriptions while leaving access under the user’s control through site-specific permissions.",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-10-27T13:00:00+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1018679/twelve-south-airfly-view-screen-display-wireless-headphone-earbuds-airplane-adapter",
     "title": "AirFly’s wireless headphone dongle adds a screen to guide you through the pairing process",
     "description": "Twelve South has announced a new version of its Airfly dongle that simplifies the pairing process when connecting wireless headphones to devices that don't natively support Bluetooth. Instead of having to decode flashing or color-changing LEDs, the new Airfly View adds a built-in screen that displays instructions for each step of the pairing process in",
@@ -1494,17 +1588,6 @@
     "pub_date": "2026-10-27T13:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ford-Fathom-Camo.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/opera-wants-websites-to-run-ai-on-your-laptop-instead-of-sending-your-data-to-the-cloud/",
-    "title": "Opera wants websites to run AI on your laptop instead of sending your data to the cloud",
-    "description": "Opera’s WebAI preview lets websites and extensions use AI models running locally on supported computers, avoiding cloud processing and separate subscriptions while leaving access under the user’s control through site-specific permissions.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-27T13:00:00+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
   },
   {
     "link": "https://www.theverge.com/gadgets/1019274/anduril-qualcomm-bluechip-laptops-american-made-military",
@@ -2250,91 +2333,5 @@
     "pub_date": "2026-10-27T10:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/00C7UrAyVQM2C1WwjOIzMWL/hero-image.png",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-27-the-1tb-cloud-storage-file-transfer-lifetime-subscription-bundle",
-    "title": "Replace recurring storage and transfer fees with this $89.99 purchase",
-    "description": "Get lifetime Drime 1TB cloud storage and Transfr Pro file transfers for $89.99 (reg. $748), with encrypted storage, collaboration, and transfer tracking.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-27T10:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00S3vmPO72z6orYEBaOyOqm/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/whitespace-hires-former-meta-product-manager-mike-howard-as-cpo",
-    "title": "Whitespace hires former Meta product manager Mike Howard as CPO",
-    "description": "Whitespace, a UK company that builds AI for defence and government, has hired former Meta product manager Mike Howard as its chief product officer. He will set the direction for its products and build the team behind them as the company prepares for its next funding round. Mike Howard has worked in technology and data",
-    "categories": [
-      "Breaking News",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-27T09:58:57+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/mike-howard-whitespace-cpo.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-27-apple-airpods-pro-3-deal",
-    "title": "Apple AirPods Pro 3 are under $200 at Amazon — save $50 before Black Friday",
-    "description": "Find the best AirPods deal. Save 20% on the Apple AirPods Pro 3 at Amazon.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-27T09:57:15+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05FVYhzsE5t0ngDB2Ze7QrM/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/cars/byds-12000-qin-plus-dm-i-shows-how-much-us-buyers-are-overpaying-for-their-cars/",
-    "title": "BYD’s $12,000 Qin Plus DM-i shows how much US buyers are overpaying for their cars",
-    "description": "BYD’s third-gen Qin Plus DM-i starts at just $11,980, offers up to 137 miles of electric range, and can cover over 1,400 miles with a full tank and battery.",
-    "categories": [
-      "Government & Policy"
-    ],
-    "pub_date": "2026-10-27T09:57:08+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/BYD-Qin-Plus-DM-i-feature.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261027/p5#a261027p5",
-    "title": "S-1: Anthropic spent ~$2.50 on compute and infrastructure for every $1 of revenue in Q1 2025, falling to under 50 cents in Q2 2026, as it seeks profitability (Financial Times)",
-    "description": "Financial Times:\nS-1: Anthropic spent ~$2.50 on compute and infrastructure for every $1 of revenue in Q1 2025, falling to under 50 cents in Q2 2026, as it seeks profitability  —  Prospectus details AI lab's ‘mission’, $800bn data centre commitments and extraordinary governance structure",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-27T09:55:01+00:00",
-    "image_url": "http://www.techmeme.com/261027/i5.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price",
-    "title": "Acer is bringing a Predator gaming handheld to the US for the first time",
-    "description": "It's been several months since Acer unveiled its Predator Atlas 8 gaming handheld, but now we finally know that it's coming to the US, and how much it'll cost. The Intel Arc G3 Extreme variant - the more powerful of the two models announced in May - will be available exclusively at Best Buy on",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware",
-      "Gaming"
-    ],
-    "pub_date": "2026-10-27T09:54:22+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Acer-Predator-Atlas-8-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/ios-27-2-siri-ai-memory-languages-excluded-apps-eu",
-    "title": "Apple’s iOS 27.2 gives Siri AI a memory and five more languages",
-    "description": "Apple released iOS 27.2 on Monday, the first big update to iOS 27, alongside new versions of iPadOS, macOS, watchOS, visionOS and tvOS. Most of the new features are for Siri AI, the rebuilt assistant Apple released in beta in September. Siri AI now works in French, Japanese, Korean, Portuguese and Spanish as well as",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Cybersecurity & Privacy",
-      "Gadgets & Hardware",
-      "Mobile & Telecom",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-27T09:52:26+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/apple-siri-ai-macbook-iphone-ipad-apple-watch-vision-pro.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
