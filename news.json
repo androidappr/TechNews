@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+    "title": "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History",
+    "description": "ICE’s Homeland Security Investigations is engaged in far-reaching spying against left-wing activists that rivals the FBI and CIA crackdowns on the Civil Rights and anti-war movements.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-28T09:30:00+00:00",
+    "image_url": "https://media.wired.com/photos/6adf8486990ea20354efad62/master/pass/Security_ICE%20Is%20Carrying%20Out%20%E2%80%98Cointelpro%202.0%E2%80%99_v2.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/fec-hacker-breach-filing-system-offline",
     "title": "US Federal Election Commission filing system down before midterms",
     "description": "The US Federal Election Commission (FEC) has taken its electronic filing system offline following an attempted cyberattack, Reuters reported on Tuesday, citing an internal email. The disruption comes a week before the November 3 midterm elections and has temporarily blocked political groups from submitting campaign finance reports. According to them, an FEC electronic filings officer",
@@ -222,7 +233,6 @@
     "title": "Industry insiders say PCBs and chip substrates are key supply constraints for consumer electronics makers, as AI demand increasingly eats up production capacity (Nikkei Asia)",
     "description": "Nikkei Asia:\nIndustry insiders say PCBs and chip substrates are key supply constraints for consumer electronics makers, as AI demand increasingly eats up production capacity  —  TAIPEI — As executives at PC makers, including HP and Dell, map out their supply needs for 2027, a mundane component has emerged as an unlikely concern.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-28T05:40:01+00:00",
@@ -234,7 +244,6 @@
     "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
     "description": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill campaign. “Chiu Chiu” itself wasn’t a good candidate for",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-28T05:39:46+00:00",
@@ -409,17 +418,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
-    "title": "Dyson Promo Codes: 25% Off in October 2026",
-    "description": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/samsung-promo-codes/",
     "title": "20% Off Samsung Promo Code | October 2026",
     "description": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
@@ -428,6 +426,17 @@
     ],
     "pub_date": "2026-10-28T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+    "title": "Dyson Promo Codes: 25% Off in October 2026",
+    "description": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
     "source_name": "WIRED.COM"
   },
   {
@@ -2219,16 +2228,5 @@
     "pub_date": "2026-10-27T17:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/P5tfAmNV6Pa2hBxj7VqN6e-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.zdnet.com/tech/microsoft-is-finally-adding-an-integrated-network-speed-test-tool-to-windows-how-to-try-it/",
-    "title": "Windows finally gets a built-in internet speed test tool – how to try it",
-    "description": "Available to Windows Insiders, the built-in tool measures your upload and download speeds over Ethernet or Wi-Fi.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-27T16:59:12+00:00",
-    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Windows-Insider-build-internet-speed-test.jpg",
-    "source_name": "ZDNET.COM"
   }
 ]
