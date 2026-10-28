@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+    "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+    "description": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-28T14:44:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2289399619.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/10/28/ios-27-2-just-upgraded-apple-photos-in-two-ways-heres-whats-new/",
+    "title": "iOS 27.2 just upgraded Apple Photos in two ways, here’s what’s new",
+    "description": "Apple Photos got a lot of new features in iOS 27 last month, but this week’s release of iOS 27.2 brought even more improvements. Here’s what’s new.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T14:40:17+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-photos-app-icon-ios-27-colors.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261028/p32#a261028p32",
+    "title": "Foundry, a manufacturing-as-a-service startup that builds factories with robots powered by physical AI models, raised a $100M Series A led by Marlinspike (Rocket Drew/The Information)",
+    "description": "Rocket Drew / The Information:\nFoundry, a manufacturing-as-a-service startup that builds factories with robots powered by physical AI models, raised a $100M Series A led by Marlinspike  —  Large companies have learned over the past couple years that they can get more mileage out of AI agents by rethinking their processes from scratch …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T14:40:01+00:00",
+    "image_url": "http://www.techmeme.com/261028/i32.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/satya-nadella-ai-alignment-20vc",
+    "title": "Satya Nadella says he was wrong to think AI alignment would come with scale",
+    "description": "Microsoft chief executive Satya Nadella no longer believes AI alignment will come just from making models more capable. He said so on a new episode of the 20VC podcast. Host Harry Stebbings had asked what he had changed his mind about in the past year. “I used to always think that alignment will just fall",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-28T14:38:38+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/satya-nadella-microsoft-build-2026-keynote-stage.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+    "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
+    "description": "Amazon's other new decides include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-28T14:34:25+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261028/p31#a261028p31",
     "title": "Dropbox plans to cut ~6% of its staff, or ~200 jobs, costing $27M to $33M in severance and related costs, and says CTO Ali Dasdan will step down on November 18 (Anhata Rooprai/Reuters)",
     "description": "Anhata Rooprai / Reuters:\nDropbox plans to cut ~6% of its staff, or ~200 jobs, costing $27M to $33M in severance and related costs, and says CTO Ali Dasdan will step down on November 18  —  File hosting service Dropbox (DBX.O) said on Wednesday it would cut its global workforce by about 9% to align investments …",
@@ -35,6 +95,18 @@
     "source_name": "MASHABLE.COM"
   },
   {
+    "link": "https://www.techradar.com/home/smart-speakers/8-new-echo-and-alexa-gadgets-that-amazon-just-announced-from-an-upgraded-echo-dot-to-an-echo-studio-with-a-camera-attached",
+    "title": "8 new Echo and Alexa smart home gadgets that Amazon just announced",
+    "description": "New smart speakers, smart displays, smart photo frames, and smart mapping capabilities have turned up from Amazon.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T14:26:38+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/bNZVGZGJbQB3muMCUzoDmB-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
     "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
     "description": "The move puts TikTok in more direct competition with platforms like Yelp and Google.",
@@ -57,6 +129,19 @@
     "pub_date": "2026-10-28T14:25:15+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/03RrFLicTV9NLKTJTaSq5Kj/hero-image.png",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/php2shell-flaws-exploited-cisa-kev",
+    "title": "CISA confirms attackers are exploiting both PHP2Shell flaws",
+    "description": "The US Cybersecurity and Infrastructure Security Agency (CISA) has put both PHP2Shell flaws in its Known Exploited Vulnerabilities catalogue. It made the change on Monday, according to its alert. Federal civilian agencies have until Thursday, 29 October, to fix CVE-2026-109618 and CVE-2026-109619. Last week, CISA warned about the flaws but said it had not seen",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-28T14:23:18+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/php-elephant-plush-laptop-code.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://mashable.com/tech/oct-28-proton-vpn-black-friday-deal",
@@ -261,6 +346,18 @@
     "pub_date": "2026-10-28T13:39:18+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
+    "title": "A hidden ocean change near Antarctica could have global consequences",
+    "description": "Antarctic waters are getting saltier as sea-ice loss reshapes ocean circulation.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-28T13:38:53+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/antarctic-seaice-1024x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://mashable.com/life/oct-28-magic-the-gathering-the-hobbit-play-booster-box-deal",
@@ -879,19 +976,6 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://www.theverge.com/policy/1020187/kroger-grocery-merger-surveillance",
-    "title": "How a grocery merger could expand a surveillance network",
-    "description": "Kroger's $1.65 billion proposed acquisition of Giant Eagle might not only consolidate the grocery market, but also a vast surveillance network that includes Flock cameras, a new report warns. Beyond standard concerns that a merger could decrease competition and increase prices, the American Economic Liberties Project (AELP), which advocates for competition policy reforms, says that",
-    "categories": [
-      "Breaking News",
-      "Cybersecurity & Privacy",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-10-28T12:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22487786/Kroger_Delivery_x_Drone_Express_05.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.engadget.com/2299032/all-amazon-echo-news-october-2026/",
     "title": "All the Amazon Echo devices announced today: Echo Time, Alexa Photo Frame and more",
     "description": "Along with speaker and Echo Show upgrades, Amazon unveiled a smart alarm clock and photo frame.",
@@ -1048,6 +1132,18 @@
     "source_name": "CNET.COM"
   },
   {
+    "link": "https://www.techradar.com/audio/earbuds-airpods/we-analyzed-119-million-ear-data-points-how-samsung-built-galaxy-buds-open-its-first-open-type-earbuds",
+    "title": "'We analyzed 119 million ear data points' — how Samsung builtGalaxy Buds Open, its first open-type earbuds",
+    "description": "Samsung Galaxy Buds Open are the tech giant's first clip-on open earbuds, promising noise-cancellation technology that actually addresses noise leakage.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T12:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/EqrLpqj8T4ydfg53oSWAYR-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techradar.com/home/smart-home-hubs/amazons-new-echo-show-16-has-a-thinner-design-a-better-screen-and-a-clever-new-way-to-organize-alexa-conversations",
     "title": "The new Amazon Echo Show 16 looks like an iMac and puts Alexa+ front and center in a major smart display redesign",
     "description": "Amazon’s redesigned Echo Show 16 pairs a slimmer, more premium build with a smarter Alexa+ experience, offering a glimpse at the future of its smart displays.",
@@ -1060,16 +1156,17 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techradar.com/audio/earbuds-airpods/we-analyzed-119-million-ear-data-points-how-samsung-built-galaxy-buds-open-its-first-open-type-earbuds",
-    "title": "'We analyzed 119 million ear data points' — how Samsung builtGalaxy Buds Open, its first open-type earbuds",
-    "description": "Samsung Galaxy Buds Open are the tech giant's first clip-on open earbuds, promising noise-cancellation technology that actually addresses noise leakage.",
+    "link": "https://www.theverge.com/policy/1020187/kroger-grocery-merger-surveillance",
+    "title": "How a grocery merger could expand a surveillance network",
+    "description": "Kroger's $1.65 billion proposed acquisition of Giant Eagle might not only consolidate the grocery market, but also a vast surveillance network that includes Flock cameras, a new report warns. Beyond standard concerns that a merger could decrease competition and increase prices, the American Economic Liberties Project (AELP), which advocates for competition policy reforms, says that",
     "categories": [
       "Breaking News",
-      "Tech News"
+      "Cybersecurity & Privacy",
+      "Government & Policy"
     ],
     "pub_date": "2026-10-28T12:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/EqrLpqj8T4ydfg53oSWAYR-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22487786/Kroger_Delivery_x_Drone_Express_05.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.theverge.com/tech/1020241/amazon-echo-studio-home-camera-dot-smart-home-hub",
@@ -1488,7 +1585,6 @@
     "title": "Pornhub Stars Want to Teach You How to Make Dinner",
     "description": "Faced with censorship and anti-porn laws, the adult site is encouraging creators to embrace cooking, gaming, podcasting, and other safe-for-work content.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-28T10:45:00+00:00",
@@ -1535,8 +1631,7 @@
     "title": "Gemini Notebook can now record lectures and meetings without the upload shuffle",
     "description": "Gemini Notebook’s mobile app now has a built-in recorder for capturing lectures and meetings as sources. You can record directly where you’ll use the material, skipping the separate recording app and the file upload afterward. Google announced the feature on X, highlighting classroom lectures and team meetings as potential uses. It also works for capturing",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-28T10:35:55+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/09/Gemini-Notebook-update-for-students.jpg?resize=440%2C292&ssl=1",
@@ -1876,8 +1971,7 @@
     "title": "Meta's Waddle World is a Tamagotchi-like AI pet app",
     "description": "Meta describes Waddle World as a 'daily journal disguised as a pet.'",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-28T08:40:19+00:00",
     "image_url": "https://www.engadget.com/img/gallery/metas-waddle-world-is-a-tamagotchi-like-ai-digital-pet-app/l-intro-1793176733.jpg",
@@ -2129,17 +2223,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.wired.com/story/lg-promo-code/",
-    "title": "LG Promo Codes and Coupons for October 2026",
-    "description": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/google-workspace-promo-code/",
     "title": "Google Workspace Promo Codes: 14% Off for October 2026",
     "description": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
@@ -2170,6 +2253,17 @@
     ],
     "pub_date": "2026-10-28T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/lg-promo-code/",
+    "title": "LG Promo Codes and Coupons for October 2026",
+    "description": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
     "source_name": "WIRED.COM"
   },
   {
@@ -2237,93 +2331,5 @@
     "pub_date": "2026-10-28T05:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/06KhjWZjC0TEkM0lqbRd2Yp/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/squarespace-promo-code/",
-    "title": "Squarespace Promo Codes: 20% Off in October 2026",
-    "description": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/samsung-promo-codes/",
-    "title": "20% Off Samsung Promo Code | October 2026",
-    "description": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-28T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/venezia-inter-serie-a-2026-live-stream-for-free",
-    "title": "How to watch Venezia vs. Inter online for free",
-    "description": "How to watch Serie A for free. Live stream Venezia vs. Inter in Serie A for free from anywhere in the world.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T05:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02l3lw6MhqjcrsOWTQKSfcz/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
-    "title": "Dyson Promo Codes: 25% Off in October 2026",
-    "description": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261028/p3#a261028p3",
-    "title": "Sources: Fujifilm plans to increase magnetic tape production capacity fivefold to meet AI-driven storage demand, its biggest production expansion in ~20 years (Nikkei Asia)",
-    "description": "Nikkei Asia:\nSources: Fujifilm plans to increase magnetic tape production capacity fivefold to meet AI-driven storage demand, its biggest production expansion in ~20 years  —  TOKYO — Fujifilm will raise production capacity for magnetic tape fivefold to meet artificial-intelligence-driven demand …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T04:40:01+00:00",
-    "image_url": "http://www.techmeme.com/261028/i3.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261028/p2#a261028p2",
-    "title": "Anthropic's S-1 implies a $40T+ annual TAM based on knowledge work's economic value in 2025, topping SpaceX's $28.5T estimate, without explicitly naming TAM (Wall Street Journal)",
-    "description": "Wall Street Journal:\nAnthropic's S-1 implies a $40T+ annual TAM based on knowledge work's economic value in 2025, topping SpaceX's $28.5T estimate, without explicitly naming TAM  —  The company's estimated market opportunity, tied to the economic value of work produced by knowledge workers, tops SpaceX's enormous figure from earlier this year",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T04:15:47+00:00",
-    "image_url": "http://www.techmeme.com/261028/i2.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261028/p1#a261028p1",
-    "title": "Sources: HP, Asus, and Acer are shifting some PC production from Thailand and Vietnam back to China amid rising component costs; Dell is mulling a similar move (Nikkei Asia)",
-    "description": "Nikkei Asia:\nSources: HP, Asus, and Acer are shifting some PC production from Thailand and Vietnam back to China amid rising component costs; Dell is mulling a similar move  —  TAIPEI — Leading PC makers, including HP of the U.S. and Asus and Acer of Taiwan, are combating soaring component costs by shifting …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T04:10:01+00:00",
-    "image_url": "http://www.techmeme.com/261028/i1.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
-    "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
-    "description": "APOD Science APOD APOD: 2026 October 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T04:05:00+00:00",
-    "image_url": null,
-    "source_name": "SCIENCE.NASA.GOV"
   }
 ]
