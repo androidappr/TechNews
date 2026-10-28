@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
+    "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
+    "description": "With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base models that start at $2,899 for the 14-inch, and $3,399 for the 16-inch, with every premium hardware option that Apple offers pushes those",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-28T20:12:44+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/mbp2.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261028/p49#a261028p49",
+    "title": "Alphabet reports Q3 revenue up 25% YoY to $127.6B, Google Cloud revenue up 103% YoY to $30.7B, and Google Services revenue up 11% to $96.3B (Alphabet)",
+    "description": "Alphabet:\nAlphabet reports Q3 revenue up 25% YoY to $127.6B, Google Cloud revenue up 103% YoY to $30.7B, and Google Services revenue up 11% to $96.3B  —  MOUNTAIN VIEW, Calif. - October 28, 2026 - Alphabet Inc. (NASDAQ: GOOG, GOOGL) today announced financial results for the quarter ended September 30, 2026.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T20:12:14+00:00",
+    "image_url": "http://www.techmeme.com/261028/i49.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261028/p48#a261028p48",
+    "title": "Microsoft reports Q1 revenue up 19% YoY to $92.3B, Azure revenue up 48% to $33.2B, operating income up 21% to $45.9B, and net income up 32% to $36.6B (Microsoft)",
+    "description": "Microsoft:\nMicrosoft reports Q1 revenue up 19% YoY to $92.3B, Azure revenue up 48% to $33.2B, operating income up 21% to $45.9B, and net income up 32% to $36.6B  —  REDMOND, Wash. — October 28, 2026 — Microsoft Corp. today announced the following results for the quarter ended September 30, 2026 …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T20:10:01+00:00",
+    "image_url": "http://www.techmeme.com/261028/i48.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/cxmt-hbm3e-ai-memory-low-yields-reuters",
+    "title": "China’s CXMT will make AI memory despite yields as low as 20%, Reuters says",
+    "description": "China’s biggest memory chipmaker, CXMT, plans to start making HBM3E, an advanced memory used in AI chips, even though only 20% to 30% of the chips it makes are usable. Two people familiar with the matter told Reuters, which reported the details on Wednesday, 28 October. TNW has not independently verified the report. CXMT has",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-28T20:04:49+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/cxmt-booth-ic-china-expo.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+    "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+    "description": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-28T20:03:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
     "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
     "description": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
@@ -25,8 +85,20 @@
     "source_name": "WIRED.COM"
   },
   {
+    "link": "https://www.zdnet.com/home-and-office/amazons-new-smart-home-updates-include-an-interactive-3d-map-of-your-home/",
+    "title": "Amazon’s new smart home updates include an interactive 3D map of your home",
+    "description": "You decide: Is an Alexa-powered map of your home, inside and out, a good thing?",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T19:59:41+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Alexa-Home-Map-1920x1080-1.png",
+    "source_name": "ZDNET.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/computing/googles-new-ai-model-gemini-4-carbon-is-built-for-complex-coding-and-cybersecurity-tasks/",
-    "title": "Google’s new AI model Gemini 4 Carbon is built for complex coding and cybersecurity tasks",
+    "title": "Google’s Gemini 4 Carbon is built for complex coding and cybersecurity tasks",
     "description": "Google's Gemini 4 Carbon targets complex coding and cybersecurity tasks, with the company touting stronger secure coding, fewer AI mistakes, and impressive benchmark results.",
     "categories": [
       "AI & Machine Learning",
@@ -35,6 +107,19 @@
     "pub_date": "2026-10-28T19:59:20+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/google-gemini-4-carbon.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/doj-nvidia-hugging-face-deal-antitrust-inquiry",
+    "title": "DOJ looks into Nvidia’s $12.9B Hugging Face deal, Reuters reports",
+    "description": "The US Justice Department is asking how Nvidia’s $12.9B purchase of Hugging Face would affect competition in AI, including whether it would hand Nvidia a key distribution point for models. The questions run alongside a years-long probe into Nvidia’s conduct. The US Justice Department is asking how Nvidia’s $12.9B purchase of Hugging Face would affect",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-28T19:52:00+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/hugging-face-website-magnifying-glass.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://thenextweb.com/news/discord-public-server-messages-google-search",
@@ -1768,8 +1853,7 @@
     "title": "Opera will run AI locally in your browser now – why that’s a gamechanger and how to try it",
     "description": "Thanks to the newly proposed WebAI web standard, the company will start shipping local AI models with its flagship browser.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-28T16:10:39+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/operaaihero.jpg",
@@ -2320,93 +2404,10 @@
     "title": "Amazon’s new Echo Dot can turn into a Wi-Fi extender – how it works",
     "description": "Amazon’s new Echo Dot includes a built-in Eero Wi-Fi extender, along with other smart home features.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-28T14:41:32+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Dot-Lifestyle-2000x1126-1.png",
     "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-28-amazon-echo-show-16-deal",
-    "title": "Amazon just announced the Echo Show 16, and somehow its already on sale",
-    "description": "Save $100 on the brand-new Amazon Echo Show 16 during this early preorder deal ahead of the holidays.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T14:41:08+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00udpv6chff98UIpjk6iBWx/hero-image.webp",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/28/ios-27-2-just-upgraded-apple-photos-in-two-ways-heres-whats-new/",
-    "title": "iOS 27.2 just upgraded Apple Photos in two ways, here’s what’s new",
-    "description": "Apple Photos got a lot of new features in iOS 27 last month, but this week’s release of iOS 27.2 brought even more improvements. Here’s what’s new.\n\n\n\n more…",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T14:40:17+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-photos-app-icon-ios-27-colors.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261028/p32#a261028p32",
-    "title": "Foundry, a manufacturing-as-a-service startup that builds factories with robots powered by physical AI models, raised a $100M Series A led by Marlinspike (Rocket Drew/The Information)",
-    "description": "Rocket Drew / The Information:\nFoundry, a manufacturing-as-a-service startup that builds factories with robots powered by physical AI models, raised a $100M Series A led by Marlinspike  —  Large companies have learned over the past couple years that they can get more mileage out of AI agents by rethinking their processes from scratch …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T14:40:01+00:00",
-    "image_url": "http://www.techmeme.com/261028/i32.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/satya-nadella-ai-alignment-20vc",
-    "title": "Satya Nadella says he was wrong to think AI alignment would come with scale",
-    "description": "Microsoft chief executive Satya Nadella no longer believes AI alignment will come just from making models more capable. He said so on a new episode of the 20VC podcast. Host Harry Stebbings had asked what he had changed his mind about in the past year. “I used to always think that alignment will just fall",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Social & Media"
-    ],
-    "pub_date": "2026-10-28T14:38:38+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/satya-nadella-microsoft-build-2026-keynote-stage.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
-    "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
-    "description": "Amazon's other new devices include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16.",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-28T14:34:25+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://mashable.com/life/pokemon-go-halloween-2026-event-guide",
-    "title": "Pokémon GO has kicked off its 2-part Halloween 2026 event — everything you can catch",
-    "description": "Pokémon GO's two-part Halloween 2026 event is officially underway. Here’s the breakdown on costumed Pikachu, Shiny Greavard, and GO Pass rewards.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T14:33:03+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06B8lUyFyo0OuYn76nOpTK9/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261028/p31#a261028p31",
-    "title": "Dropbox plans to cut ~6% of its staff, or ~200 jobs, costing $27M to $33M in severance and related costs, and says CTO Ali Dasdan will step down on November 18 (Anhata Rooprai/Reuters)",
-    "description": "Anhata Rooprai / Reuters:\nDropbox plans to cut ~6% of its staff, or ~200 jobs, costing $27M to $33M in severance and related costs, and says CTO Ali Dasdan will step down on November 18  —  File hosting service Dropbox (DBX.O) said on Wednesday it would cut its global workforce by about 9% to align investments …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T14:30:01+00:00",
-    "image_url": "http://www.techmeme.com/261028/i31.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
