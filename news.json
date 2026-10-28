@@ -1,5 +1,27 @@
 [
   {
+    "link": "https://mashable.com/tech/att-data-breach-class-action-settlement-payout",
+    "title": "AT&Ts $177 million class-action settlement payout is coming, but probably wont change your life",
+    "description": "AT&T settled a $177 million class-action lawsuit last year, agreeing to pay customers impacted by two separate data breaches.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T07:23:33+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/03k03C6Fla7aGYOzEv2lGsK/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/malwarebytes-personal-data-remover-review",
+    "title": "Malwarebytes Personal Data Remover review",
+    "description": "A deep dive into the Malwarebytes Personal Data Remover, covering its features, pros, cons, and other factors to help you decide whether it’s your best choice.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T07:15:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/BvnAzh5yTFcTmnqn9n8Gob-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/wearables/researchers-at-iit-gandhinagar-develop-wearable-patch-to-track-workout-form/",
     "title": "A tiny smart patch could help you get your workout form right",
     "description": "Researchers at IIT Gandhinagar have built a flexible wearable patch that tracks your movements and compares them with expert athletes to help you fix your workout form.",
@@ -347,8 +369,8 @@
   },
   {
     "link": "https://www.techmeme.com/261028/p2#a261028p2",
-    "title": "Anthropic's S-1 implies a $40T+ annual TAM based on the economic value of knowledge work in 2025, topping SpaceX's $28.5T estimate, without explicitly naming it (Wall Street Journal)",
-    "description": "Wall Street Journal:\nAnthropic's S-1 implies a $40T+ annual TAM based on the economic value of knowledge work in 2025, topping SpaceX's $28.5T estimate, without explicitly naming it  —  The company's estimated market opportunity, tied to the economic value of work produced by knowledge workers, tops SpaceX's enormous figure from earlier this year",
+    "title": "Anthropic's S-1 implies a $40T+ annual TAM based on knowledge work's economic value in 2025, topping SpaceX's $28.5T estimate, without explicitly naming TAM (Wall Street Journal)",
+    "description": "Wall Street Journal:\nAnthropic's S-1 implies a $40T+ annual TAM based on knowledge work's economic value in 2025, topping SpaceX's $28.5T estimate, without explicitly naming TAM  —  The company's estimated market opportunity, tied to the economic value of work produced by knowledge workers, tops SpaceX's enormous figure from earlier this year",
     "categories": [
       "Tech News"
     ],
@@ -2219,27 +2241,5 @@
     "pub_date": "2026-10-27T16:30:57+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261027/p24#a261027p24",
-    "title": "Oracle adds ChatGPT and Codex to its app stack and expands Oracle Cloud Infrastructure lineup with Google TPUs, OpenAI's Jalapeño chip, and Cerebras hardware (Seema Mody/CNBC)",
-    "description": "Seema Mody / CNBC:\nOracle adds ChatGPT and Codex to its app stack and expands Oracle Cloud Infrastructure lineup with Google TPUs, OpenAI's Jalapeño chip, and Cerebras hardware  —  Oracle on Tuesday announced an expanded collaboration with OpenAI that brings the artificial intelligence lab's ChatGPT …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-27T16:30:29+00:00",
-    "image_url": "http://www.techmeme.com/261027/i24.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/apple-just-raised-the-ceiling-for-a-pro-laptop-to-2000-and-i-find-the-audacity-impressive/",
-    "title": "Apple just raised the ceiling for a Pro laptop to $2000, and I find the audacity impressive",
-    "description": "Apple's new M6 MacBook Pro starts at $1,999, a far cry from the M5's $1,599 debut. The hardware is impressive, but the new price of admission deserves some scrutiny.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-27T16:26:23+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Apple-MacBook-Air-Pro-logo-sunlight.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
   }
 ]
