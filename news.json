@@ -1,5 +1,101 @@
 [
   {
+    "link": "https://thenextweb.com/news/europe-ai-data-centres-power-grid-priority",
+    "title": "Europe should make AI prove its value before giving it priority on the grid",
+    "description": "Governments, households and businesses have a stake in how electricity networks accommodate the next wave of industrial growth. When someone proposes a major data centre development, the question extends beyond whether it can secure a connection to the grid. It also includes the additional cost of accommodating the connection. And it includes the need for",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T17:41:02+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/server-rack-orange-cable-equipment-room.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261028/p42#a261028p42",
+    "title": "Apple's touchscreen MacBook Pro is the first Mac with the Dynamic Island, offering similar functionality to the iPhone; the Dynamic Island launched in 2022 (Hartley Charlton/MacRumors)",
+    "description": "Hartley Charlton / MacRumors:\nApple's touchscreen MacBook Pro is the first Mac with the Dynamic Island, offering similar functionality to the iPhone; the Dynamic Island launched in 2022  —  Apple today introduced the Dynamic Island to the Mac for the first time with its new 14-inch and 16-inch MacBook Pro models …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T17:40:11+00:00",
+    "image_url": "http://www.techmeme.com/261028/i42.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/the-new-oled-macbook-pro-brings-back-apples-iconic-glowing-logo-after-a-decade/",
+    "title": "The new OLED MacBook Pro brings back Apple’s iconic glowing logo after a decade",
+    "description": "Apple has just released its touchscreen MacBook Pro, and there’s plenty to get excited about. It’s the first MacBook with an OLED display, powered by the M5 Pro and M5 Max chips, and even gets the Dynamic Island from the iPhone. We’ve heard plenty about these upgrades through leaks and rumors over the past few",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-28T17:40:09+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/glow-logo.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/10/28/apple-reveals-pricing-for-mac-studio-with-512gb-of-ram/",
+    "title": "Apple reveals pricing for Mac Studio with 512GB of RAM",
+    "description": "When Apple announced the new M5 Max and M5 Ultra configurations of the Mac Studio in August, it said a configuration with 512GB of RAM would be available in October. Today, the company officially revealed the pricing of that option. \n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T17:40:07+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/mac-studio-displays-fi.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2300009/heres-how-the-touchscreen-on-the-macbook-pro-with-proled-display-works/",
+    "title": "Here's how the touchscreen on the MacBook Pro with PROLED display works",
+    "description": "The touch sensor isn't a separate layer of the screen.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-28T17:35:24+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/heres-how-the-touchscreen-on-the-macbook-pro-with-proled-display-works/l-intro-1793208725.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261028/p41#a261028p41",
+    "title": "Apple says the touchscreen MacBook Pro has a \"newly designed hinge\" for stability and an \"enhanced six-speaker\" system; the 14\" model is 3lb and the 16\" is 4lb (Jay Peters/The Verge)",
+    "description": "Jay Peters / The Verge:\nApple says the touchscreen MacBook Pro has a “newly designed hinge” for stability and an “enhanced six-speaker” system; the 14\" model is 3lb and the 16\" is 4lb  —  Apple has long resisted the idea of touchscreen laptops — until now.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T17:35:03+00:00",
+    "image_url": "http://www.techmeme.com/261028/i41.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/computing/googles-next-mixed-reality-headset-xreal-aura-coming-mid-november-at-1099-to-start/",
+    "title": "Google’s Next Mixed Reality Headset, Xreal Aura, Coming Mid-November at $1099 to Start",
+    "description": "A bit like VR, a bit like smart glasses, a bit like a tiny face computer.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T17:32:50+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/android-xr-xreal-project-aura-io-26-1_ec8d3a.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/nvidia-nemotron-3-5-transcribe-granary-v2-open-speech",
+    "title": "Nvidia releases an open speech model that transcribes 40 languages",
+    "description": "Nvidia released Nemotron 3.5 Transcribe, an open-weight model that transcribes 40 languages, translates 31 and labels up to eight speakers in recordings of up to an hour. It came with Granary v2, a free dataset of 463,062 hours of speech in 48 languages. Nvidia has released Nemotron 3.5 Transcribe, a free, open-weight AI model that",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-28T17:30:03+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/nvidia-logo-3d-render-green-glass.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261028/p40#a261028p40",
     "title": "John Ternus says the Mac is \"first and foremost an indirect input device\", but touch is \"comfortable and handy\" sometimes; Apple long resisted touchscreen Macs (Steven Levy/Wired)",
     "description": "Steven Levy / Wired:\nJohn Ternus says the Mac is “first and foremost an indirect input device”, but touch is “comfortable and handy” sometimes; Apple long resisted touchscreen Macs  —  An exclusive early look at Apple's new touchscreen MacBook Pro—the computer Apple said would never happen.",
@@ -25,7 +121,7 @@
   },
   {
     "link": "https://www.digitaltrends.com/computing/the-macbook-pro-finally-gets-a-touchscreen-with-m5-pro-and-max-chipsets-but-the-upgrade-doesnt-come-cheap/",
-    "title": "The MacBook Pro finally gets a touchscreen with M5 Pro and Max chipsets, but the upgrade doesn’t come cheap",
+    "title": "The MacBook Pro finally gets a touchscreen with M5 Pro muscle and an eye-watering price",
     "description": "After years of rumors and anticipation, Apple finally unveiled the touchscreen MacBook Pro, or as it likes to call it, the MacBook Pro with PROLED XDR display.  There’s no new chip, so the focus is entirely on the touchscreen. Apple has used tandem OLED technology (first debuted on the iPad Pro), which rates the display",
     "categories": [
       "Breaking News",
@@ -34,6 +130,19 @@
     "pub_date": "2026-10-28T17:28:47+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Apple-MacBook-Pro-PROLED-XDR-Display-scaled.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/uefi-firmware-flaw-edk-ii-servers-leaked-early",
+    "title": "Critical UEFI firmware flaw leaks early, leaving servers waiting for a fix",
+    "description": "A critical flaw in the firmware that starts most servers can let an attacker run code before the operating system loads. It sits in EDK II, the open-source code most firmware makers use to build UEFI firmware. TianoCore, which runs EDK II, rated the bug 9.5 out of 10 in an advisory published on 22",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-28T17:28:39+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/server-rack-patch-cables-green-light.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://mashable.com/tech/apple-macbook-pro-m",
@@ -85,7 +194,7 @@
   {
     "link": "https://www.theverge.com/tech/1020676/apple-touchscreen-macbook-pro-reveal-video",
     "title": "Watch Apple’s reveal video for the touchscreen MacBook Pro",
-    "description": "Apple just announced its first touchscreen MacBook at its \"Pro and tell\" event on Wednesday. It showed off the long-awaited touchscreen in a video of the new MacBook Pro during the event that you can watch right here to see the new display in action. The new MacBook Pro's touch display is a ProLED XDR",
+    "description": "Apple just announced its first touchscreen MacBook at its \"Pro and tell\" event on Wednesday. It showed off the long-awaited touchscreen in a video of the new MacBook Pro during the event that you can watch right here to see the new display in action. The new MacBook Pro's PROLED XDR touch display is a",
     "categories": [
       "Breaking News",
       "Gadgets & Hardware"
@@ -108,8 +217,8 @@
   },
   {
     "link": "https://www.techmeme.com/261028/p39#a261028p39",
-    "title": "Apple unveils a touchscreen MacBook Pro with a 14\" or 16\" PROLED XDR display, a light-up Apple logo, Dynamic Island, M5 Pro and M5 Max, for $2,899+ and $3,399+ (Apple)",
-    "description": "Apple:\nApple unveils a touchscreen MacBook Pro with a 14\" or 16\" PROLED XDR display, a light-up Apple logo, Dynamic Island, M5 Pro and M5 Max, for $2,899+ and $3,399+  —  The world's best pro laptop now features an industry-leading tandem OLED display, an intuitive Touch experience …",
+    "title": "Apple unveils a touchscreen MacBook Pro with a 14\" or 16\" PROLED XDR display, a light-up Apple logo, M5 Pro and M5 Max, for $2,899+ and $3,399+ (Apple)",
+    "description": "Apple:\nApple unveils a touchscreen MacBook Pro with a 14\" or 16\" PROLED XDR display, a light-up Apple logo, M5 Pro and M5 Max, for $2,899+ and $3,399+  —  The world's best pro laptop now features an industry-leading tandem OLED display, an intuitive Touch experience, blazing-fast M5 Pro …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -145,7 +254,7 @@
   {
     "link": "https://www.theverge.com/gadgets/1019037/oled-ipad-mini-2026-preorder-price-how-to-buy-release-date",
     "title": "Here’s where you can preorder the new OLED-equipped iPad Mini",
-    "description": "Apple's smallest tablet is getting a bigger screen. Earlier this week, the company announced the eighth-generation iPad Mini alongside several new MacBook Pro models, bringing OLED technology to Apple's miniature tablet for the first time. The diminutive slate won't hit shelves until November 6th; however, you can already preorder it from Apple in multiple colors",
+    "description": "Apple's smallest tablet is getting a bigger screen. Earlier this week, the company announced the eighth-generation iPad Mini alongside several new MacBook Pro models, bringing OLED technology to Apple's miniature tablet for the first time. The diminutive slate won't hit shelves until November 6th; however, you can already preorder it from Amazon, Walmart, Apple, and",
     "categories": [
       "Breaking News",
       "Gadgets & Hardware"
@@ -257,7 +366,7 @@
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-28T17:05:56+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e1e7d9fc-8e5b-4975-8923-62546f325915.jpeg?quality=90&strip=all&crop=0,0,100,100",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-lifestyle-remote-work-261028.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
   },
   {
@@ -737,6 +846,7 @@
     "title": "Most data centers and servers on the planet could be vulnerable to dangerous UEFI firmware flaw — here's what we know",
     "description": "A 9.5/10 flaw will take months to fully remediate, so stay on your guard.",
     "categories": [
+      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-10-28T16:15:00+00:00",
@@ -1674,7 +1784,6 @@
     "title": "A hidden ocean change near Antarctica could have global consequences",
     "description": "Antarctic waters are getting saltier as sea-ice loss reshapes ocean circulation.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-10-28T13:38:53+00:00",
@@ -1844,18 +1953,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://www.engadget.com/2299180/kindle-paperwhite-signature-edition-2026-review/",
-    "title": "Kindle Paperwhite Signature Edition (2026) review: Updated in all the right places",
-    "description": "Amazon's updates to the Paperwhite Signature Edition make it feel even more premium, but the regular version remains a great choice for less money.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T13:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/kindle-paperwhite-signature-edition-2026-review-updated-in-all-the-right-places/l-intro-1793129474.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
     "link": "https://www.engadget.com/2299326/kindle-colorsoft-signature-edition-2026-review/",
     "title": "Kindle Colorsoft Signature Edition 2026 review: Nice, but doesn't justify the price",
     "description": "$320 is a lot to pay for a well-balanced device in an aluminum case with pogo pins.",
@@ -1865,6 +1962,18 @@
     ],
     "pub_date": "2026-10-28T13:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/kindle-colorsoft-signature-edition-2026-review-nice-but-doesnt-justify-the-price/l-intro-1793191346.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2299180/kindle-paperwhite-signature-edition-2026-review/",
+    "title": "Kindle Paperwhite Signature Edition (2026) review: Updated in all the right places",
+    "description": "Amazon's updates to the Paperwhite Signature Edition make it feel even more premium, but the regular version remains a great choice for less money.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T13:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/kindle-paperwhite-signature-edition-2026-review-updated-in-all-the-right-places/l-intro-1793129474.jpg",
     "source_name": "ENGADGET.COM"
   },
   {
@@ -2276,113 +2385,5 @@
     "pub_date": "2026-10-28T12:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/all-amazon-echo-news-october-2026/l-intro-1793195731.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2299247/amazon-alexa-photo-frame/",
-    "title": "Amazon launches its first digital photo frame with built-in Alexa",
-    "description": "You can tell Amazon's Alexa Photo Frame which images you want to see.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T12:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/amazon-launches-its-first-photo-frame-with-built-in-alexa/l-intro-1793179679.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2299263/amazon-echo-time-smart-alarm-clock/",
-    "title": "Amazon's new Echo Time smart alarm clock tries to make waking up less painful",
-    "description": "Amazon has launched a new smart alarm clock that can determine when you're in lighter sleep before waking you up.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T12:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/amazons-new-echo-time-smart-alarm-clock-comes-with-science-backed-wake-up-features/l-intro-1793183183.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2299288/amazon-glare-reducing-nanomatte-display-to-its-new-echo-show-16/",
-    "title": "Amazon adds a glare-reducing nanomatte display to its new Echo Show 16",
-    "description": "Amazon says the Echo Show 16 is its 'most advanced, versatile smart display' yet.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T12:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/amazon-adds-a-glare-reducing-nanomatte-display-to-its-new-echo-show-16/l-intro-1793188028.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2299245/the-amazon-echo-studio-new-camera-tell-you-how-to-play-monopoly/",
-    "title": "The Amazon Echo Studio's new camera can check on your dog or tell you how to play 'Monopoly'",
-    "description": "Amazon has added a camera to its Echo Studio speaker as part of its big Echo refresh.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T12:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/the-amazon-echo-studio-new-camera-tell-you-how-to-play-monopoly/l-intro-1793182489.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.cnet.com/home/smart-home/amazon-echo-time-smart-alarm-clock/",
-    "title": "Amazon’s New Alarm Clock ‘Knows’ if You’re in a Deep Sleep and Lets You Sleep Longer",
-    "description": "The Amazon Echo Time, launched today, has a few wild features.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T12:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/IMG_5746.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.cnet.com/home/smart-home/amazon-5-new-smart-home-devices-rundown/",
-    "title": "Amazon’s 5 New Smart Home Devices: Everything You Need to Know",
-    "description": "The company is also introducing an interactive home map feature.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T12:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Amazon-Echo-Dot-and-Echo-Time.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.cnet.com/home/smart-home/amazon-alexa-photo-frame-digital-picture-frame/",
-    "title": "Amazon’s New Digital Picture Frame Is Clever and Classy",
-    "description": "The frame, available in real wood finishes, is the first-ever with Amazon Alexa built in and offers unlimited storage for Prime members.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T12:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-10-27-at-3.37.33-PM.png",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/mobile/samsung-galaxy-buds-on-are-the-premium-clip-on-earbuds-you-didnt-know-you-were-waiting-for/",
-    "title": "Samsung Galaxy Buds On Are the Premium Clip-On Earbuds You Didn’t Know You Were Waiting For",
-    "description": "Samsung’s $229 clip-on open earbuds are primed to take on models from Bose, Sony and Shokz.",
-    "categories": [
-      "Breaking News",
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-10-28T12:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Samsung-Galaxy-Buds-On_red-background.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.cnet.com/home/smart-home/amazon-echo-apple-homeview-smart-home-devices/",
-    "title": "Amazon’s New Echo Lineup Goes in the Opposite Direction of Apple HomeView",
-    "description": "While Apple’s first home screen is small, Amazon is going bigger and more TV-oriented than ever before — but that comes with high prices.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T12:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Echo-Show-16-Stand-1920x1080-1.png",
-    "source_name": "CNET.COM"
   }
 ]
