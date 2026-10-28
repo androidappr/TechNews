@@ -1,5 +1,54 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+    "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+    "description": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+    "categories": [
+      "Business & Startups",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-28T23:15:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2300569/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones/",
+    "title": "FCC chair wants to let prisons jam illegal cellphones",
+    "description": "The agency will vote next month on relaxing its long-standing opposition to jammers.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-28T23:09:22+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones/l-intro-1793228522.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+    "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+    "description": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-28T23:05:39+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261028/p57#a261028p57",
+    "title": "Sources: the US DOJ has inquired about the impact of Nvidia's Hugging Face deal on AI competition, as antitrust enforcers continue to probe Nvidia's conduct (Reuters)",
+    "description": "Reuters:\nSources: the US DOJ has inquired about the impact of Nvidia's Hugging Face deal on AI competition, as antitrust enforcers continue to probe Nvidia's conduct  —  The US Department of Justice has made inquiries about how Nvidia's (NVDA.O) $12.93 billion deal to buy open-source platform Hugging Face …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T23:00:49+00:00",
+    "image_url": "http://www.techmeme.com/261028/i57.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techradar.com/televisions/soundbars/sony-bravia-theater-trio-review",
     "title": "Sony Bravia Theater Trio review: enormous immersive sound for any screen size or room shape",
     "description": "The Sony Bravia Theater Trio creates the most balanced and immersive soundstage I’ve ever heard from non-surround setup.",
@@ -577,8 +626,8 @@
   },
   {
     "link": "https://www.techmeme.com/261028/p48#a261028p48",
-    "title": "Microsoft reports Q1 revenue up 19% YoY to $92.3B, Azure revenue up 48% to $33.2B, operating income up 21% to $45.9B, and net income up 32% to $36.6B (Microsoft)",
-    "description": "Microsoft:\nMicrosoft reports Q1 revenue up 19% YoY to $92.3B, Azure revenue up 48% to $33.2B, operating income up 21% to $45.9B, and net income up 32% to $36.6B  —  REDMOND, Wash. — October 28, 2026 — Microsoft Corp. today announced the following results for the quarter ended September 30, 2026 …",
+    "title": "Microsoft reports Q1 revenue up 19% YoY to $92.28B, vs. $90.69B est., Azure revenue up 48% to $33.17B, vs. $32.32B est., and net income up 32% to $36.63B (Microsoft)",
+    "description": "Microsoft:\nMicrosoft reports Q1 revenue up 19% YoY to $92.28B, vs. $90.69B est., Azure revenue up 48% to $33.17B, vs. $32.32B est., and net income up 32% to $36.63B  —  REDMOND, Wash. — October 28, 2026 — Microsoft Corp. today announced the following results for the quarter ended September 30, 2026 …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -975,7 +1024,6 @@
     "title": "NY Gov. Kathy Hochul signs bills banning AI chatbots from using \"unsafe features\" for minors and requiring security features in internet-connected baby monitors (Raga Justin/Bloomberg Government)",
     "description": "Raga Justin / Bloomberg Government:\nNY Gov. Kathy Hochul signs bills banning AI chatbots from using “unsafe features” for minors and requiring security features in internet-connected baby monitors  —  New York Gov. Kathy Hochul signed two bills further curbing artificial intelligence risks for children …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-28T19:10:00+00:00",
@@ -1011,7 +1059,6 @@
     "description": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Cybersecurity & Privacy"
     ],
@@ -1024,7 +1071,6 @@
     "title": "Engadget is hiring writers!",
     "description": "We're looking for freelance journalists who know their way around a tech blog.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-28T19:05:46+00:00",
@@ -1036,7 +1082,6 @@
     "title": "Amazon warns engineers just using more AI doesn't make them more productive, says they should avoid tokenmaxxing",
     "description": "\"Deeply flawed\" metrics such as AI token usage aren't always a good measure of success, Amazon tells engineers.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-28T19:05:00+00:00",
@@ -1094,6 +1139,7 @@
     "title": "Brendan Carr plans to let prisons jam cellphone signals",
     "description": "FCC Chairman Brendan Carr announced the agency will vote on November 19th on rules that would allow prisons to use signal jamming. Radiofrequency jammers are generally banned under Section 333 and the Communications Act of 1934, with few exceptions, and Carr has noted they've been permitted for use at some federal facilities already. Carr claims",
     "categories": [
+      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-10-28T18:57:02+00:00",
@@ -1818,7 +1864,6 @@
     "title": "The Inside Story of Why Apple Finally Brought a Touch Display to the Mac",
     "description": "An exclusive early look at Apple’s new touchscreen MacBook Pro—the computer Apple said would never happen.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-28T17:15:16+00:00",
@@ -1830,7 +1875,6 @@
     "title": "How to watch Liverpool vs Chelsea: FREE live streams, TV channels , Team news & kick-off time for Carabao Cup 4th round tie",
     "description": "Here's how you can watch Liverpool vs Chelsea for free in the Carabao Cup 4th round online from anywhere, with TV channels and full broadcast details.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-28T17:15:00+00:00",
@@ -1913,7 +1957,6 @@
     "title": "New iPad mini preorders are live — where to find the best deals, trade-in offers and freebies with Apple's latest tablet",
     "description": "The new iPad Mini is now available to preorder ahead of launch on November 6, so I've gathered together where Apple's latest tablet is available to buy, including all of the best deals, trade-in discounts, and freebies from retailers.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-28T17:10:00+00:00",
@@ -1937,7 +1980,6 @@
     "title": "Apple announces all-new MacBook Pro with PROLED XDR display, its first touchscreen Mac",
     "description": "Apple has officially announced the all-new MacBook Pro with PROLED XDR display, its first touchscreen laptop.\n\n\n\nThe new machine was first hinted at by Apple on October 19 with the company’s “Pro and tell” experience teaser. Earlier today, new Apple CEO John Ternus shared a “spotlight” teaser for the laptop as well.\n\n\n\nRead on for all the details about the new high-end laptop…  \n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-28T17:06:48+00:00",
@@ -2325,51 +2367,5 @@
     "pub_date": "2026-10-28T16:30:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/04XUE07zRWfD0xy6KDMCqlR/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/28/perplexity-upgrades-mac-app-with-chatgpt-powered-voice-mode/",
-    "title": "Perplexity upgrades Mac app with ChatGPT-powered voice mode",
-    "description": "Earlier this year, OpenAI unveiled its gpt-live-1 voice model. This includes the ability for the model to listen to you while it speaks. Starting today, Perplexity has upgraded its Mac app voice mode by using gpt-live-1 under the hood. \n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T16:28:15+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/perplexity-mac-app.webp?w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-early-black-friday-unlocked-phone-deals-2026",
-    "title": "Early Black Friday deals on unlocked phones from Google, Samsung, and TCL are already live",
-    "description": "Early Black Friday unlocked phone deals from Samsung, Motorola, and Google take hundreds off",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T16:27:29+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02yhb8TBeTuMF0YkIhG1Y4p/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
-    "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
-    "description": "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds: Planet 9 project announced that their project volunteers have now discovered most of the known brown dwarfs, celestial objects that are similar to planets. The Zooniverse platform,",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T16:25:29+00:00",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/NASA_citizen_science_projects_2026.jpg",
-    "source_name": "SCIENCE.NASA.GOV"
-  },
-  {
-    "link": "https://www.techradar.com/vpn/vpn-privacy-security/eu-copyright-overhaul-risks-forcing-vpns-to-police-the-internet-heres-what-we-know",
-    "title": "EU copyright overhaul risks forcing VPNs to police the internet — here's what we know",
-    "description": "A tech industry group warns the EU's upcoming Copyright Package could force VPNs to filter user traffic, undermining the privacy they exist to protect.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T16:22:01+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/72vjQXmi4arSDj4JeoWXse-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
