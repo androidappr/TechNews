@@ -1,5 +1,52 @@
 [
   {
+    "link": "https://www.techmeme.com/261028/p37#a261028p37",
+    "title": "GitHub says it's seeing 7.4B commits per month, up from 2.9B in August, and has added 4M CPU cores and 160PB of storage in 2026 so far to support this growth (Frederic Lardinois/The New Stack)",
+    "description": "Frederic Lardinois / The New Stack:\nGitHub says it's seeing 7.4B commits per month, up from 2.9B in August, and has added 4M CPU cores and 160PB of storage in 2026 so far to support this growth  —  GitHub now sees 7.4 billion commits a month, driven largely by AI agents, and is adding 4 million CPU cores and rearchitecting its platform to keep up.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T16:35:14+00:00",
+    "image_url": "http://www.techmeme.com/261028/i37.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog",
+    "title": "Touchscreen MacBook live blog: On the ground at Apple’s launch event",
+    "description": "Apple has already had a busy week. On Monday, it announced a new iPad Mini with an upgraded OLED display, and on Tuesday, we got M6 chip upgrades for the MacBook Pro and iMac. The Macs are the definition of iterative updates - they're quiet refreshes that look just like their direct predecessors. But today",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-28T16:33:32+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25786626/247412_Apple_MacBook_Pro_16_M4_Max_ADiBenedetto_0008.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/waymo-for-business-ramp-expense-integration",
+    "title": "Waymo for Business now sends robotaxi receipts straight to Ramp",
+    "description": "Waymo’s business riders no longer have to file their robotaxi receipts by hand. Waymo for Business now works with Ramp, the corporate card and expense software company, Waymo said in a blog post on Wednesday, 28 October. When an employee takes a Waymo ride, the receipt goes to Ramp automatically and is matched with the",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T16:33:31+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/waymo-for-business-ramp-robotaxi-traveller.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2299823/new-york-governor-signs-ai-chatbot-child-safety-law/",
+    "title": "New York governor signs AI chatbot child safety law",
+    "description": "A separate law aims to shore up security on connected baby monitors.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-28T16:33:01+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/new-york-governor-signs-ai-chatbot-child-safety-law/l-intro-1793205110.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261028/p36#a261028p36",
     "title": "GitHub says Copilot Fusion, which handles model selection and orchestration, is now generally available, releases the GitHub Copilot app, and more (Meredith Shubel/The New Stack)",
     "description": "Meredith Shubel / The New Stack:\nGitHub says Copilot Fusion, which handles model selection and orchestration, is now generally available, releases the GitHub Copilot app, and more  —  Developers pick the effort level.  Copilot Fusion picks the models.  An AT&T engineer say it's “improved token efficiency.”",
@@ -72,6 +119,19 @@
     "source_name": "TECHRADAR.COM"
   },
   {
+    "link": "https://thenextweb.com/news/oracle-ai-world-google-tpus-openai-chatgpt",
+    "title": "Oracle will sell Google’s TPUs in its cloud and put ChatGPT in its apps",
+    "description": "Oracle will rent out Google’s tensor processing units (TPUs) in its cloud from 2027. That makes it the first hyperscale cloud outside Google to offer the chips. It is also putting OpenAI’s ChatGPT and Codex inside its business software. Oracle announced both deals on Tuesday, 27 October, at Oracle AI World in Las Vegas. New",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-28T16:21:50+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/oracle-co-ceo-mike-sicilia-ai-world-2026-keynote.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techradar.com/phones/iphone/im-not-buying-the-iphone-duo-crackgate-controversy-a-few-faulty-units-does-not-constitute-a-major-crisis-for-apple",
     "title": "I'm not buying the iPhone Duo 'crackgate' controversy — a few faulty units does not constitute a major crisis for Apple",
     "description": "Apple's new iPhone Duo is embroiled in a cracking screen controversy, but when I look at the detail Apple gave us about the phone's construction, it doesn't make sense.",
@@ -109,9 +169,21 @@
     "source_name": "TECHRADAR.COM"
   },
   {
+    "link": "https://www.zdnet.com/innovation/opera-webai-local-ai-browser/",
+    "title": "Opera will run AI locally in your browser now – why that’s a gamechanger and how to try it",
+    "description": "Thanks to the newly proposed WebAI web standard, the company will start shipping local AI models with its flagship browser.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-28T16:10:39+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/operaaihero.jpg",
+    "source_name": "ZDNET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261028/p35#a261028p35",
-    "title": "Reddit rolls out a dual-feed homepage, with For You and Following feeds, joining TikTok, Instagram, and others in offering a recommendation-driven feed (Aisha Malik/TechCrunch)",
-    "description": "Aisha Malik / TechCrunch:\nReddit rolls out a dual-feed homepage, with For You and Following feeds, joining TikTok, Instagram, and others in offering a recommendation-driven feed  —  Reddit is the latest social platform to adopt the “For You” feed popularized by TikTok.  The company announced on Wednesday that users …",
+    "title": "Reddit rolls out a dual-feed homepage, with For You and Following feeds, joining TikTok, Instagram, and others in offering a For You feed (Aisha Malik/TechCrunch)",
+    "description": "Aisha Malik / TechCrunch:\nReddit rolls out a dual-feed homepage, with For You and Following feeds, joining TikTok, Instagram, and others in offering a For You feed  —  Reddit is the latest social platform to adopt the “For You” feed popularized by TikTok.  The company announced on Wednesday that users will now see two options …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -1364,8 +1436,7 @@
     "title": "AI bots are now trying to sabotage public health policies, like banning disposable vapes",
     "description": "“This is the first documented instance of large- scale automated/bot interference in a formal public health consultation,” the researchers write.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-28T12:34:19+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/ban-vapes.jpg?resize=440%2C292&ssl=1",
@@ -2299,74 +2370,5 @@
     "pub_date": "2026-10-28T10:34:26+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/01PwsI0S20AljJe0yv5J5zY/hero-image.png",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/malaysia-seizes-12-1m-of-ai-chips-at-kuala-lumpur-airport",
-    "title": "Malaysia seizes $12.1M of AI chips at Kuala Lumpur airport",
-    "description": "Malaysian customs officers have seized 30 servers containing advanced AI chips at Kuala Lumpur International Airport (KLIA), the authorities said on Wednesday. The shipment was worth about RM49.5m ($12.1m), and it was moving through Malaysia without the required permit. Officers found the servers on 15 October in a warehouse in the airport’s free trade zone.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T10:32:13+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/circuit-board-processor-chip-macro.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-28-dyson-airstrait-deal",
-    "title": "The Dyson Airstrait is back on sale at Amazon — and it comes with Dysons Omega Oil for free",
-    "description": "Find the best Dyson deal at Amazon. Save 23% on the Dyson Airstrait at Amazon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T10:30:13+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07cHRvplzv6Yynmn58v0wYp/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261028/p14#a261028p14",
-    "title": "Malaysia says it seized ~$12.11M worth of AI chips this month, as authorities close in on a syndicate suspected of smuggling through the country's main airport (Rozanna Latiff/Reuters)",
-    "description": "Rozanna Latiff / Reuters:\nMalaysia says it seized ~$12.11M worth of AI chips this month, as authorities close in on a syndicate suspected of smuggling through the country's main airport  —  Malaysian customs said on Wednesday that it had seized about 49.5 million ringgit ($12.11 million) worth of advanced artificial intelligence chips …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T10:30:04+00:00",
-    "image_url": "http://www.techmeme.com/261028/i14.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/apple-airpods-max-2-deal-november-2026/",
-    "title": "Apple AirPods Max 2 Are $100 Off Ahead of Black Friday",
-    "description": "If Apple headphones have been sitting on your wish list, now might be the time to buy ahead of the holiday rush.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-28T10:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ae11d65f409d832a824126b/master/pass/New%20Apple%20AirPods%20Max%202%20Deal%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/science/moon-phase-today-oct-28-2026",
-    "title": "Moon phase today: What the Moon will look like on October 28, 2026",
-    "description": "See the Moon phase expected for October 28, 2026 as well as when the next Full Moon is expected.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-28T10:26:54+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03ga5Ey7yz3RYqXrpUEbGlL/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/social-media/discords-next-big-feature-could-put-your-conversations-on-google-search/",
-    "title": "Discord’s next big feature could put your conversations on Google Search",
-    "description": "Discord plans to make messages from large public servers searchable on Google starting in December, but a new privacy setting lets users keep their conversations off the wider web.",
-    "categories": [
-      "Cybersecurity & Privacy",
-      "Social & Media"
-    ],
-    "pub_date": "2026-10-28T10:23:56+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/02/Discord-on-PC-Featured.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
   }
 ]
