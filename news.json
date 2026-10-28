@@ -1,15 +1,111 @@
 [
   {
-    "link": "https://thenextweb.com/news/europe-ai-data-centres-power-grid-priority",
-    "title": "Europe should make AI prove its value before giving it priority on the grid",
-    "description": "Governments, households and businesses have a stake in how electricity networks accommodate the next wave of industrial growth. When someone proposes a major data centre development, the question extends beyond whether it can secure a connection to the grid. It also includes the additional cost of accommodating the connection. And it includes the need for",
+    "link": "https://www.theverge.com/column/1020859/optimizer-theranos-haemanthus-you-can-see-everything",
+    "title": "You can see every red flag in Theranos 2.0",
+    "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. From afar, it's easy to look back at the Theranos debacle and scream at Nathan Fielder that, obviously, Elizabeth Holmes",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-28T18:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1248465318.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/macbook-pro-glowing-logo",
+    "title": "The biggest MacBook surprise of the day? The glowing Apple logo is back.",
+    "description": "Apple announced its first MacBook with a touchscreen and OLED display, but it buried the lede: The glowing Apple logo is back!",
     "categories": [
       "Breaking News",
       "Tech News"
     ],
+    "pub_date": "2026-10-28T17:57:20+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01i31MkmN9xXniSUuq4oVp9/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/how-to-buy-apple-macbook-pro-touchscreen-proled",
+    "title": "Apple just announced a touchscreen MacBook Pro: How to buy",
+    "description": "Apple just announced the MacBook Pro with PROLED XDR Display. The touchscreen MacBook Pro has been long rumored and is finally available for purchase.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T17:51:29+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/02nO5wf91SPfZ4oaImUy3SX/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/apple-touchscreen-oled-macbook-pro-launch",
+    "title": "Apple launches its first touchscreen MacBook Pro, from $2,899",
+    "description": "Apple unveiled a redesigned MacBook Pro with a touchscreen, an OLED display and a Dynamic Island, after two decades of rejecting touch Macs. The 14-inch model starts at $2,899 and weighs 3 pounds; the 16-inch starts at $3,399. It arrives on 6 November. Apple has unveiled a redesigned MacBook Pro with a touchscreen, ending two",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-28T17:49:09+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/woman-touching-macbook-pro-touchscreen-office.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1020084/macos-touchscreen-changes",
+    "title": "Here&#8217;s how macOS is changing for touchscreens",
+    "description": "Touchscreen laptops are nothing new in the Windows world, but Apple has only just announced its first MacBook with a touchscreen. Apple isn't rushing to change a bunch of things in macOS to optimize for touch, though; most of the touch action will be in the apps themselves, it seems. As far as major macOS",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-28T17:48:28+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-28-at-10.31.37-AM.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/apple-pro-and-tell-event-everything-announced-m6-macbook-pro-ipad-mini",
+    "title": "Apple Pro and Tell event: Everything announced, from MacBook Pro OLED to iPad Mini and musical AI assistant",
+    "description": "Apple announced a MacBook Pro with a touch OLED display, just one of the new devices from its \"Pro and Tell\" event in Los Angeles.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T17:44:10+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01qrJjjgZnhPAMtQYB4xPYI/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2300023/apples-first-touchscreen-macbook-pro-feels-both-familiar-and-radically-improved/",
+    "title": "Apple's first touchscreen MacBook Pro feels both familiar and radically improved",
+    "description": "It's thinner, lighter and has a better screen - but it's still a MacBook Pro.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-28T17:43:10+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/apples-first-touchscreen-macbook-pro-feels-both-familiar-and-radically-improved/l-intro-1793209358.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/europe-ai-data-centres-power-grid-priority",
+    "title": "Europe should make AI prove its value before giving it priority on the grid",
+    "description": "Governments, households and businesses have a stake in how electricity networks accommodate the next wave of industrial growth. When someone proposes a major data centre development, the question extends beyond whether it can secure a connection to the grid. It also includes the additional cost of accommodating the connection. And it includes the need for",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
     "pub_date": "2026-10-28T17:41:02+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/server-rack-orange-cable-equipment-room.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/ai-chatbot-law-new-york-hochul-signs-bill",
+    "title": "NY governor signs major chatbot safety bill into law",
+    "description": "The NY chatbot safety bill is supposed to protect kids from harm.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T17:40:46+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/06gfs2mM5HF3ntiTJHN3OfN/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techmeme.com/261028/p42#a261028p42",
@@ -83,6 +179,17 @@
     "source_name": "CNET.COM"
   },
   {
+    "link": "https://mashable.com/tech/lawsuit-says-chatgpt-persuaded-person-to-stop-taking-meds",
+    "title": "Lawsuit says ChatGPT persuaded person to stop taking epilepsy meds, leading to her death",
+    "description": "A lawsuit alleges OpenAI’s ChatGPT helped a Seattle woman stop taking epilepsy medication and hide the plan from her doctors, leading to her death.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T17:31:37+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/02ASRzt89WkKQa9BjNcmFL5/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/nvidia-nemotron-3-5-transcribe-granary-v2-open-speech",
     "title": "Nvidia releases an open speech model that transcribes 40 languages",
     "description": "Nvidia released Nemotron 3.5 Transcribe, an open-weight model that transcribes 40 languages, translates 31 and labels up to eight speakers in recordings of up to an hour. It came with Granary v2, a free dataset of 463,062 hours of speech in 48 languages. Nvidia has released Nemotron 3.5 Transcribe, a free, open-weight AI model that",
@@ -106,18 +213,6 @@
     "pub_date": "2026-10-28T17:30:01+00:00",
     "image_url": "http://www.techmeme.com/261028/i40.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/how-to-buy-apple-macbook-pro-touchscreen-proled",
-    "title": "Apple just announced a touchscreen MacBook Pro: How to buy",
-    "description": "Apple just announced the MacBook Pro with PROLED XDR Display. The touchscreen MacBook Pro has been long rumored and is finally available for purchase.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T17:29:09+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02nO5wf91SPfZ4oaImUy3SX/hero-image.png",
-    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.digitaltrends.com/computing/the-macbook-pro-finally-gets-a-touchscreen-with-m5-pro-and-max-chipsets-but-the-upgrade-doesnt-come-cheap/",
@@ -1514,18 +1609,6 @@
     "source_name": "MASHABLE.COM"
   },
   {
-    "link": "https://mashable.com/tech/apple-pro-and-tell-event-everything-announced-m6-macbook-pro-ipad-mini",
-    "title": "Apple Pro and Tell event: Everything announced so far, from iPad Mini to musical AI assistant",
-    "description": "Apple announced a bunch of new devices ahead of its \"Pro and Tell\" event in Los Angeles. Learn about the new iPad Mini and MacBook devices.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T14:26:53+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01qrJjjgZnhPAMtQYB4xPYI/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
     "link": "https://www.techradar.com/home/smart-speakers/8-new-echo-and-alexa-gadgets-that-amazon-just-announced-from-an-upgraded-echo-dot-to-an-echo-studio-with-a-camera-attached",
     "title": "8 new Echo and Alexa smart home gadgets that Amazon just announced",
     "description": "New smart speakers, smart displays, smart photo frames, and smart mapping capabilities have turned up from Amazon.",
@@ -1700,7 +1783,6 @@
     "title": "Shrinking season 4 just got exciting release timing update",
     "description": "Shrinking just aired season 3 earlier this year, but all signs point to a refreshingly quick return, as one of the show’s stars just confirmed season 4 is officially done filming.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-28T13:52:54+00:00",
@@ -1724,7 +1806,6 @@
     "title": "X adds an intrusive promotional animation of an arm reaching across the screen to direct users to a \"promote\" post button, targeting verified and Premium users (Andrew Liszewski/The Verge)",
     "description": "Andrew Liszewski / The Verge:\nX adds an intrusive promotional animation of an arm reaching across the screen to direct users to a “promote” post button, targeting verified and Premium users  —  You have to hand it to X's latest promotional gimmick.﻿  —  After Elon Musk warned that …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-28T13:50:00+00:00",
@@ -2301,89 +2382,5 @@
     "pub_date": "2026-10-28T12:08:15+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_studio_camera_JTuohy_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261028/p22#a261028p22",
-    "title": "Meta quietly launched Waddle World, a Tamagotchi-like, AI pet-rearing game, in the Philippines in September, calling it a \"daily journal disguised as a pet\" (Mariella Moon/Engadget)",
-    "description": "Mariella Moon / Engadget:\nMeta quietly launched Waddle World, a Tamagotchi-like, AI pet-rearing game, in the Philippines in September, calling it a “daily journal disguised as a pet”  —  But it's only available in the Philippines for now.  —  Looks like a big part of Meta's AI strategy is to rely on …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T12:05:01+00:00",
-    "image_url": "http://www.techmeme.com/261028/i22.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/28/on-the-day-of-the-touchscreen-mac-launch-dynamic-island-elements-found-in-macos-27/",
-    "title": "On the day of the touchscreen Mac launch, Dynamic Island elements found in macOS 27",
-    "description": "We’re just hours away now from Apple unveiling the latest MacBook Pro with OLED and touchscreen. We’re expecting the display to replace the notch with a Dynamic Island, and a leaker has now found elements in macOS 27 that appear to confirm this.\n\n\n\nWe’re also expecting the same droplet-like design for Siri AI, expanding from the Dynamic Island just as it does on iPhone …\n\n\n\n more…",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T12:03:53+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/macbook-pro-touchscreen-mockup.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/dayforce-claude-connector-agentic-hcm-build",
-    "title": "Dayforce puts its HR and payroll data inside Anthropic’s Claude",
-    "description": "Dayforce is bringing its HR, payroll and scheduling data into Anthropic’s Claude. A new Dayforce connector lets customers ask questions about their workforce in plain language inside Claude and take supported actions, the HR software company said on Tuesday. Those actions include approving requests, filling open shifts, submitting time off and engaging candidates. The connector",
-    "categories": [
-      "AI & Machine Learning",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-28T12:02:16+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/dayforce-home-screen-laptop.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/amazon-announces-new-echo-dot-studio-time-show-16-alexa-photo-frame",
-    "title": "Amazon introduces a host of new smart home devices: Meet the updated Echo line",
-    "description": "On Oct. 28, Amazon introduced the new Echo Show 16, Echo Dot, Echo Time, Echo Studio with Home Camera, and Alexa Photo Frame. See all the details here.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T12:02:02+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06qyLPLyWhCVfuCOvzqgnsW/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/",
-    "title": "Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family",
-    "description": "The new Echo Studio also gets a camera, and the Echo Show 16 debuts an AI-generated Alexa interface.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T12:01:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ae097bb45acc693d52eb8ba/master/pass/New%20Amazon%202026%20Echo%20Speakers%20SOURCE%20Julian%20Chokkattu.jpg.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/upwind-400m-series-c-runtime-security-revenue-quadruples",
-    "title": "Upwind’s $400M Series C backs a runtime-first security strategy as revenue quadruples",
-    "description": "The moment a cloud workload changes, the security picture around it can change too. A new application release, an altered configuration or an interaction between services may affect whether an exposure can be exploited. For security teams relying on periodic assessments, keeping pace with those changes can be difficult. Upwind Security has built its cloud",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T12:00:56+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/upwind-ceo-amiram-shachar-sofa-dog.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2299032/all-amazon-echo-news-october-2026/",
-    "title": "All the Amazon Echo devices announced today: Echo Time, Alexa Photo Frame and more",
-    "description": "Along with speaker and Echo Show upgrades, Amazon unveiled a smart alarm clock and photo frame.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T12:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/all-amazon-echo-news-october-2026/l-intro-1793195731.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
