@@ -1,5 +1,89 @@
 [
   {
+    "link": "https://www.techmeme.com/261028/p36#a261028p36",
+    "title": "GitHub says Copilot Fusion, which handles model selection and orchestration, is now generally available, releases the GitHub Copilot app, and more (Meredith Shubel/The New Stack)",
+    "description": "Meredith Shubel / The New Stack:\nGitHub says Copilot Fusion, which handles model selection and orchestration, is now generally available, releases the GitHub Copilot app, and more  —  Developers pick the effort level.  Copilot Fusion picks the models.  An AT&T engineer say it's “improved token efficiency.”",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T16:30:04+00:00",
+    "image_url": "http://www.techmeme.com/261028/i36.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements",
+    "title": "All the news from Apple’s ‘Pro and tell’ event",
+    "description": "Apple’s “Pro and tell” event kicks off at 1PM ET / 10AM PT on October 28th. The event comes just a couple of weeks after Apple debuted the HomeView, its first smart display, and a little over a month after it announced the iPhone Duo, its first foldable. Its next event could feature yet another",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-28T16:30:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/everything-you-need-to-get-started-streaming-games",
+    "title": "Everything you need to get started streaming games",
+    "description": "Thinking about starting a Twitch or YouTube stream? Here’s the most essential gear worth buying first, from GPUs and mics to lighting and capture cards.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T16:30:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/04XUE07zRWfD0xy6KDMCqlR/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/10/28/perplexity-upgrades-mac-app-with-chatgpt-powered-voice-mode/",
+    "title": "Perplexity upgrades Mac app with ChatGPT-powered voice mode",
+    "description": "Earlier this year, OpenAI unveiled its gpt-live-1 voice model. This includes the ability for the model to listen to you while it speaks. Starting today, Perplexity has upgraded its Mac app voice mode by using gpt-live-1 under the hood. \n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T16:28:15+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/perplexity-mac-app.webp?w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/best-early-black-friday-unlocked-phone-deals-2026",
+    "title": "Early Black Friday deals on unlocked phones from Google, Samsung, and TCL are already live",
+    "description": "Early Black Friday unlocked phone deals from Samsung, Motorola, and Google take hundreds off",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T16:27:29+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/02yhb8TBeTuMF0YkIhG1Y4p/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/vpn/vpn-privacy-security/eu-copyright-overhaul-risks-forcing-vpns-to-police-the-internet-heres-what-we-know",
+    "title": "EU copyright overhaul risks forcing VPNs to police the internet — here's what we know",
+    "description": "A tech industry group warns the EU's upcoming Copyright Package could force VPNs to filter user traffic, undermining the privacy they exist to protect.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T16:22:01+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/72vjQXmi4arSDj4JeoWXse-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/phones/iphone/im-not-buying-the-iphone-duo-crackgate-controversy-a-few-faulty-units-does-not-constitute-a-major-crisis-for-apple",
+    "title": "I'm not buying the iPhone Duo 'crackgate' controversy — a few faulty units does not constitute a major crisis for Apple",
+    "description": "Apple's new iPhone Duo is embroiled in a cracking screen controversy, but when I look at the detail Apple gave us about the phone's construction, it doesn't make sense.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-28T16:18:10+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/8LYZyYwBvxVoY5tzrZoWKd-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
     "title": "Meta says it&#8217;ll probably delay its controversial new business terms again",
     "description": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with industry groups and leaders.\"",
@@ -14,6 +98,17 @@
     "source_name": "THEVERGE.COM"
   },
   {
+    "link": "https://www.techradar.com/pro/security/most-data-centers-and-servers-on-the-planet-could-be-vulnerable-to-dangerous-uefi-firmware-flaw-heres-what-we-know",
+    "title": "Most data centers and servers on the planet could be vulnerable to dangerous UEFI firmware flaw — here's what we know",
+    "description": "A 9.5/10 flaw will take months to fully remediate, so stay on your guard.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-28T16:15:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/QXcBRNeHkzXC6am5m3TXYf-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261028/p35#a261028p35",
     "title": "Reddit rolls out a dual-feed homepage, with For You and Following feeds, joining TikTok, Instagram, and others in offering a recommendation-driven feed (Aisha Malik/TechCrunch)",
     "description": "Aisha Malik / TechCrunch:\nReddit rolls out a dual-feed homepage, with For You and Following feeds, joining TikTok, Instagram, and others in offering a recommendation-driven feed  —  Reddit is the latest social platform to adopt the “For You” feed popularized by TikTok.  The company announced on Wednesday that users …",
@@ -24,6 +119,40 @@
     "pub_date": "2026-10-28T16:10:07+00:00",
     "image_url": "http://www.techmeme.com/261028/i35.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/pride-and-prejudice-netflix-trailer",
+    "title": "Pride and Prejudice trailer: Faithful to the story, romantic at heart",
+    "description": "Netflix's \"Pride and Prejudice\" trailer: the Dolly Alderton-written six-part series stars Emma Corrin, Olivia Colman, and Rufus Sewell.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T16:07:45+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/videos/07Bde41YMbxAUCWxVZH8vTn/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/life/oct-28-lelo-deal",
+    "title": "Theres still time to shop LELOs Fall Sale — get up to 50% off, plus a free toy",
+    "description": "There's still time to shop LELO's Fall Sale. Get up to 50% off top-rated vibrators, plus a free sex toy.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T16:06:30+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/05MPuxq0BC33KWCynuU9LUS/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/laptops/acer-swift-air-14",
+    "title": "Acer Swift Air 14 is an affordable MacBook Neo rival that should give Apple a run for its money",
+    "description": "The Acer Swift Air 14 is the ideal budget laptop in that it looks much better than the price suggests, is light and portable, and comes with a very impressive battery life.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-28T16:04:24+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Q5uwNWxC4GKTEGsQZzwWXA-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
@@ -1055,18 +1184,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp",
-    "title": "TikTok is going after Yelp and Google Maps with an in-app restaurant guide",
-    "description": "TikTok is launching an in-app restaurant guide in a challenge to other platforms like Yelp and even Google Maps. The company on Wednesday announced the launch of Must Eat, a new section of the TikTok app built on 40 million posts, reviews, and comments about dining on the platform. The new feature uses videos and",
-    "categories": [
-      "Breaking News",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-28T13:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Must-Eat-Asset.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.engadget.com/2299326/kindle-colorsoft-signature-edition-2026-review/",
     "title": "Kindle Colorsoft Signature Edition 2026 review: Nice, but doesn't justify the price",
     "description": "$320 is a lot to pay for a well-balanced device in an aluminum case with pogo pins.",
@@ -1100,6 +1217,18 @@
     "pub_date": "2026-10-28T13:00:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/midterm-elections-2026-sign-GettyImages-2259572765.jpg",
     "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp",
+    "title": "TikTok is going after Yelp and Google Maps with an in-app restaurant guide",
+    "description": "TikTok is launching an in-app restaurant guide in a challenge to other platforms like Yelp and even Google Maps. The company on Wednesday announced the launch of Must Eat, a new section of the TikTok app built on 40 million posts, reviews, and comments about dining on the platform. The new feature uses videos and",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-28T13:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Must-Eat-Asset.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://mashable.com/tech/kindle-click-review",
@@ -1320,7 +1449,6 @@
     "title": "The Latest Echo Smart Speakers Double as Nanny Cams and Wi-Fi Extenders",
     "description": "Amazon’s new Echo Dot and Studio speakers have several smart home features new to the lineup.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-28T12:20:02+00:00",
@@ -1344,7 +1472,6 @@
     "title": "A tiny smartphone gadget can detect some of the nastiest chemicals in your water",
     "description": "Researchers in Japan have developed a compact smartphone-connected sensor that detects extremely low concentrations of toxic forever chemicals in water, potentially making contamination testing faster, cheaper, and more accessible.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-28T12:17:13+00:00",
@@ -2213,7 +2340,6 @@
     "title": "Apple AirPods Max 2 Are $100 Off Ahead of Black Friday",
     "description": "If Apple headphones have been sitting on your wish list, now might be the time to buy ahead of the holiday rush.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-28T10:30:00+00:00",
@@ -2242,128 +2368,5 @@
     "pub_date": "2026-10-28T10:23:56+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/02/Discord-on-PC-Featured.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261028/p13#a261028p13",
-    "title": "Research: professional analysts followed AI agents' randomly assigned \"leans\" on subjective analytical decisions 86% of the time; 77% used the agents' arguments (Anthropic)",
-    "description": "Anthropic:\nResearch: professional analysts followed AI agents' randomly assigned “leans” on subjective analytical decisions 86% of the time; 77% used the agents' arguments  —  Amaç Herda&gbrevedelen, Hailey Joren, Alex Tamkin  —  When experts hand their work to an AI agent …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T10:20:00+00:00",
-    "image_url": "http://www.techmeme.com/261028/i13.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/life/oct-28-pokemon-tcg-prismatic-evolutions-trainer-box-deal",
-    "title": "The Pokémon TCG Prismatic Evolutions Elite Trainer Box is below market price on Amazon — save $130 with rare deal",
-    "description": "Amazon has slashed the Pokémon TCG Prismatic Evolutions ETB to just $43.85, saving $133.77 in a massive 75% discount.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T10:18:08+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03CbLv4jRhSzEZ9336kdNi4/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-    "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-    "description": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-28T10:15:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/pass/culture_macmillon_failed_ai_project.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/life/mcdonalds-pokemon-tcg-happy-meal-toy-dates",
-    "title": "McDonald’s x Pokémon TCG: Collab adds plastic toy boxes and 15 cards in November",
-    "description": "The McDonald's x Pokémon TCG promotion in 2026 is expected to feature plastic toys of 15 Pokémon as mini Happy Meal boxes.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T10:14:14+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00neHlysIUGSvZO3qDRl3Xc/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/why-uk-marketers-need-mobile-grade-measurement-before-ai-can-deliver-on-roi",
-    "title": "Why UK marketers need mobile-grade measurement before AI can deliver on ROI",
-    "description": "How AI is leading to weak measurement practices that impact the bottom line.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T10:06:17+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/EfTsAupcDos9r8i2UJGKUM-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/polymarket-faces-new-cftc-probe-over-us-users-on-offshore-platform",
-    "title": "Polymarket faces new CFTC probe over US users on offshore platform",
-    "description": "The US Commodity Futures Trading Commission (CFTC) is again looking into whether Polymarket broke a 2022 deal to keep US users off its offshore platform. Reuters reported the news, citing two people familiar with the matter. According to Reuters, the probe is part of a wider CFTC investigation into the prediction market that began earlier this year. TNW",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T10:05:37+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/stock-market-screen-red-green-price-charts.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261028/p12#a261028p12",
-    "title": "Lawsuit: the parents of a 31-year-old say OpenAI's GPT-4o guided her through an aggressive tapering plan off epilepsy meds, leading to her death in February (Teddy Rosenbluth/New York Times)",
-    "description": "Teddy Rosenbluth / New York Times:\nLawsuit: the parents of a 31-year-old say OpenAI's GPT-4o guided her through an aggressive tapering plan off epilepsy meds, leading to her death in February  —  The chatbot helped a woman taper off a lifesaving drug and hide the plan from her doctors.  — 1.3k",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T10:05:01+00:00",
-    "image_url": "http://www.techmeme.com/261028/i12.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/let-the-internet-die/",
-    "title": "Please Let the Internet Die",
-    "description": "Online spaces are captured by oligarchs and saturated with slop—and they’re exacerbating humanity’s worst impulses. It’s time to start over.",
-    "categories": [
-      "Social & Media"
-    ],
-    "pub_date": "2026-10-28T10:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6adcb3a50f905f8d56c7065e/master/pass/WIRED-Ghost-Stories-Dead-Internet.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/ai-chatbot-law-new-york-hochul-signs-bill",
-    "title": "NY governor signs major chatbot safety bill into law",
-    "description": "The NY chatbot safety bill is supposed to protect kids from harm.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T10:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06gfs2mM5HF3ntiTJHN3OfN/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/science/did-comets-bring-life-to-earth",
-    "title": "Life ingredients probably didnt ride in on a comet, new study shows",
-    "description": "Where did life on Earth come from? A new study says comets weren't likely the source and suggests asteroids or Earth itself.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-28T10:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/056Pk5N8tGyh6UYSF2zxl7r/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-28-jbl-xtreme-5-portable-waterproof-speaker-open-box",
-    "title": "This JBL Bluetooth speaker brings the party wherever you go, and now it’s $80 off",
-    "description": "Bring the party wherever you go with this JBL Xtreme 5 Portable Waterproof Speaker.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T10:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01XvAq3yxhZZFMKkefWoqcJ/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
