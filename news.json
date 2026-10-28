@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://thenextweb.com/news/openai-google-tpu-chips",
+    "title": "OpenAI reportedly plans to buy Google’s TPU chips alongside Nvidia",
+    "description": "OpenAI plans to buy AI chips from Google, The Information reported on Tuesday, citing a person familiar with the matter. The financial terms and other details of the planned purchase were not disclosed. We have not independently verified the report, and OpenAI declined to comment to Reuters, which followed up on the story, while Google did not",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-28T09:02:29+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/openai-logo-silhouette-hand-smartphone.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/",
     "title": "Meta's Waddle World is a Tamagotchi-like AI pet app",
     "description": "Meta describes Waddle World as a 'daily journal disguised as a pet.'",
@@ -2223,17 +2235,5 @@
     "pub_date": "2026-10-27T16:45:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/why-does-the-fcc-hate-minions-routers/l-intro-1792572728.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
-    "title": "Meta’s $25 billion legal loss just put blood in the water",
-    "description": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The judge ordered Meta to pay $25 billion to resolve claims that Meta misled users around the 2018",
-    "categories": [
-      "Government & Policy",
-      "Social & Media"
-    ],
-    "pub_date": "2026-10-27T16:44:40+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
