@@ -1,5 +1,76 @@
 [
   {
+    "link": "https://mashable.com/tech/macbook-pro-oled-dynamic-island-mac-first-time",
+    "title": "MacBook Pro OLED brings Dynamic Island to Macs for the first time",
+    "description": "One of the defining features of recent iPhones, the Dynamic Island, just made its Mac debut.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T21:29:09+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00fKnfzwrGRXm6ZCvOIYI41/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+    "title": "Microsoft hits 10 quarters of record- breaking revenue in a row",
+    "description": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-28T21:25:30+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261028/p52#a261028p52",
+    "title": "ServiceNow reports Q3 subscription revenue up 21% YoY to $3.99B, forecasts Q4 current remaining performance obligations below est.; NOW drops 15%+ after hours (Brody Ford/Bloomberg)",
+    "description": "Brody Ford / Bloomberg:\nServiceNow reports Q3 subscription revenue up 21% YoY to $3.99B, forecasts Q4 current remaining performance obligations below est.; NOW drops 15%+ after hours  —  ServiceNow Inc. shares plunged after the company gave an outlook for quarterly subscription sales that met analysts' estimates …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T21:25:09+00:00",
+    "image_url": "http://www.techmeme.com/261028/i52.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/phones/reddit-wants-to-send-you-down-new-rabbit-holes-with-its-personalized-for-you-feed/",
+    "title": "Reddit wants to send you down new rabbit holes with its personalized ‘For You’ feed",
+    "description": "Reddit is introducing personalized For You and Following feeds, giving you a choice between discovering new communities and catching up on subreddits you already follow.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T21:24:58+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/reddit.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
+    "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
+    "description": "For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what you've read. There's Readwise Reader, an app for reading newsletters, PDFs, and web articles you've saved for later. And now there's Readwise Books, a full-fledged",
+    "categories": [
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-28T21:16:18+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Readwise-Books-2.jpeg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/tiktok-must-eat-restaurant-guide",
+    "title": "TikTok taps food creators for its new Must Eat restaurant guide",
+    "description": "TikTok’s new Must Eat restaurant guide draws on FoodTok recommendations, with search filters and select OpenTable bookings in three U.S. regions.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T21:13:25+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/02TrmOfQP6WcU7FuhZqSiWn/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/duckduckgo-privacy-pro-data-removal-service-review",
     "title": "DuckDuckGo Privacy Pro data removal service review",
     "description": "An in-depth review of DuckDuckGo Privacy Pro and the features it provides to help users stay secure online.",
@@ -9,6 +80,18 @@
     "pub_date": "2026-10-28T21:05:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/XCvJBcj7bPvuUoAmhUePK8-1920-80.png",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/computing/the-macbook-pro-oled-touchscreen-wasnt-what-i-wanted/",
+    "title": "The MacBook Pro OLED Isn’t the Touchscreen Mac I Was Looking For",
+    "description": "Commentary: Apple finally put touch on a MacBook Pro, but at a price and form that confuses me.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T21:03:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/MacBook-Pro-touchscreen-piano.png",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://www.wired.com/story/this-is-what-the-gops-final-midterms-push-looks-like/",
@@ -32,6 +115,29 @@
     "pub_date": "2026-10-28T20:59:42+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr-glow.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/google-genie-4-gemini-4-carbon-ai-news/",
+    "title": "Google Debuts New AI Models, Genie 4 and Gemini 4 Carbon: What You Need to Know",
+    "description": "The world model has a waitlist and the newest frontier Gemini model is restricted to select cybersecurity experts.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-28T20:51:37+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/AdobeStock_1023255193_Editorial_Use_Only.jpeg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/gaming/playstation-plus-november-monthly-games/",
+    "title": "Dead Island 2, Tomb Raider Remastered and More Come to All PlayStation Plus Subscribers in November",
+    "description": "Keep spooky season going a little longer with these PlayStation Plus games in November.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-10-28T20:51:07+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/ps_plus_nov_free.webp",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://www.cnet.com/tech/computing/macbook-pro-oled-touchscreen-hands-on/",
@@ -62,7 +168,6 @@
     "title": "The 4 biggest Amazon smart home announcements from today",
     "description": "From a new smart alarm clock to an Alexa-powered 3D map of your home, here’s what’s new from Amazon, including prices and release dates.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-28T20:35:05+00:00",
@@ -697,7 +802,6 @@
     "title": "Sony’s new PS5 Prism Collection gives a beautiful retro makeover to your console and controller",
     "description": "Sony’s new PS5 Prism Collection brings back the beloved transparent aesthetic of the ’90s with glossy DualSense controllers and matching console covers in three stunning colors.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-10-28T18:59:22+00:00",
@@ -2291,113 +2395,5 @@
     "pub_date": "2026-10-28T15:34:43+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/goveechristmas.webp?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/revolut-sign-in-problems-login-outage",
-    "title": "Revolut fixes sign-in problem, eight days after its last outage",
-    "description": "Update, 28 October Revolut says it has fixed the sign-in problem. We have added its statement to this story, and its status page now shows all systems as operational. Revolut says it has fixed a technical problem that stopped some customers from logging in to its app on Wednesday, 28 October. The problems came eight",
-    "categories": [
-      "Breaking News",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-28T15:34:40+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/revolut-app-logo-iphone-wooden-table.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/28/deals-airpods-iphone-duo-charger-macbook-beats-360/",
-    "title": "Deals: AirPods Pro 3, Apple’s iPhone Duo charger, MacBook Air $200 off, Beats 360 first discount, more",
-    "description": "Amazon deal pricing on AirPods Pro 3 has now dropped a touch lower at a solid $50 off and it is still offering the pre-order discount on the new Apple TV 4K, however we are also tracking some deals on Apple’s iPhone duo-ready accessories like the 40W Dynamic Power Adapter with 60W Max and Apple Pencil USB-C. Those offers join 24GB M5 MacBook Air returning to its best price in months at $200 off, the lowest price ever for a single AirTag 2, and the first cash discount on the new all-new modular Beats 360 over-ear headphones (the Cushion Kits are still up to 80% off too). Everything awaits below, alongside some charging gear deals like the Belkin Qi2.2 25W UltraCharge 2-in-1 Foldable Charging Station down at $50. \n\n\n\n more…",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T15:34:08+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-AirPods-Beats-360-Macbook-Apple-TV.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/",
-    "title": "Webb Sees Turbulent Star Nursery",
-    "description": "In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satellite galaxies orbiting the Milky Way galaxy. This region has a lower metallicity",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T15:33:10+00:00",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/55604475252-31d25bf2e0-o.jpg?w=2048",
-    "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1020671/sony-playstation-5-dualsense-wireless-controller-prism-collection-transparent",
-    "title": "Sony has new transparent PS5 controllers launching next year",
-    "description": "Sony announced a new Prism Collection line of PlayStation 5 accessories today that revisits \"the iconic see-through trend of the late '90s in a fresh, modern way\" for its DualSense wireless controllers and matching console covers for the PS5 that reveal some of their internal components. The Prism Collection is launching with three color options",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware",
-      "Gaming"
-    ],
-    "pub_date": "2026-10-28T15:31:02+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/playstation.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/best-early-black-friday-board-game-deals-2026",
-    "title": "Start a game night tradition with these early Black Friday board game deals",
-    "description": "As of Oct. 28, shop these early Black Friday board game deals.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T15:30:53+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02QnSBUz1dHzOYzZuRDzrLl/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/data-centers-water-myths-and-what-the-numbers-really-say",
-    "title": "Data centers, water myths, and what the numbers really say",
-    "description": "As AI fuels data center growth, experts argue water concerns are often misunderstood.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T15:28:30+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/EXMLBYo5k7EwcuyYg9vmmM-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.zdnet.com/home-and-office/amazon-echo-studio-home-camera-2026-privacy-concerns/",
-    "title": "Amazon’s new Echo Studio gives Alexa+ an AI camera to see inside your home",
-    "description": "The Echo Studio with Home Camera essentially equips Alexa+ with eyes to enable ‘visual intelligence’ features – but there’s a kill switch.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T15:26:34+00:00",
-    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/EchoStudio.png",
-    "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/machenta-40m-seed-robot-learning-simulation",
-    "title": "Machenta raises $40M to teach robots a task from a single demonstration",
-    "description": "Machenta, a London robotics startup spun out of Imperial College London, has raised a $40M seed round. It is building an AI model that teaches robots a new task from a single demonstration. Creandum and Union Square Ventures co-led the round, Imperial said on 27 October. The university calls it the largest seed round ever",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-10-28T15:26:24+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/machenta-team-london-office.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages",
-    "title": "AI startup claims it hacked Anthropic in 12 hours, gains access to employee details and internal messages",
-    "description": "Agents found a way in through third-party business software, but Anthropic is saying its bug bounty rules were broken.",
-    "categories": [
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-28T15:25:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/scxFkyfYSQbrtGvqrmFqgU-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
