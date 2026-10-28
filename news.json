@@ -1,5 +1,119 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+    "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+    "description": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-28T20:01:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+    "title": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents",
+    "description": "The leaked records include the locations of ICE and CBP facilities, workers' cellphone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-28T20:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ae126cfb5fdd6fa181bb24f/master/pass/Security_Massive%20Leak%20Exposes%2041,000%20DHS%20Employees_v1.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/googles-new-ai-model-gemini-4-carbon-is-built-for-complex-coding-and-cybersecurity-tasks/",
+    "title": "Google’s new AI model Gemini 4 Carbon is built for complex coding and cybersecurity tasks",
+    "description": "Google's Gemini 4 Carbon targets complex coding and cybersecurity tasks, with the company touting stronger secure coding, fewer AI mistakes, and impressive benchmark results.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-28T19:59:20+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/google-gemini-4-carbon.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/discord-public-server-messages-google-search",
+    "title": "Discord messages from big public servers will show up in Google search",
+    "description": "Messages posted in Discord’s largest public communities will start appearing in Google and other search engines from mid-December. Discord announced the change in a blog post on Tuesday, 27 October. It covers more than 63,000 Discoverable Servers. It is on by default for adults in most countries, though not in Europe. Discoverable Servers are the",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Gaming",
+      "Social & Media",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-28T19:51:04+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/discord-server-web-page-dead-by-daylight-announcement.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/10/28/apple-introduces-new-power-adapters-for-mac-plus-extension-cable-travel-kit/",
+    "title": "Apple introduces new power adapters for Mac, plus extension cable, travel kit",
+    "description": "Today alongside the launch of the MacBook Pro with PROLED XDR, Apple has introduced four new accessories for Mac: two updated power adapters, a power extension cable, and a travel adapter kit.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T19:50:59+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-power-adapter-extension-cable.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/macbooks/whats-the-tech-inside-the-touchscreen-macbook-pros-proled-xdr-screen-heres-why-the-tandem-oled-panel-is-important",
+    "title": "What's the tech inside the touchscreen MacBook Pro's 'PROLED XDR' screen? We explain all",
+    "description": "The first OLED MacBook Pro screen has a weird name — here's what's behind it, and the benefits it delivers",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-28T19:50:49+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/HsrfaxTiTPeZm7SPUGfXP4-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/mobile/ultrahuman-ring-pro-hits-us-shelves-amid-oura-lawsuit/",
+    "title": "The Ultrahuman Ring Pro Hits US Shelves Amid Oura Lawsuit",
+    "description": "It’s available online and in select stores, so you can check out the smart ring in person.",
+    "categories": [
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-10-28T19:45:05+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Ultrahuman-Ring-Pro-1.png",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/amazon-leo-globalstar-fcc-approval",
+    "title": "Amazon Leo wins FCC approval to buy iPhone satellite partner Globalstar",
+    "description": "The US Federal Communications Commission has approved Amazon Leo’s $11.5bn purchase of Globalstar. Globalstar runs the satellite service behind Apple’s iPhone emergency features. On Tuesday, 27 October, the FCC’s Space Bureau cleared the transfer of about 25 megahertz of Globalstar’s mobile-satellite spectrum. The regulator announced it in a press release. That approval ends the FCC’s",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware",
+      "Mobile & Telecom",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-28T19:43:09+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/amazon-leo-globalstar-logos-satellites.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2300293/meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows/",
+    "title": "Meta weighs delaying 'alarming' new business terms as backlash grows",
+    "description": "The company says it won't make \"policy changes\" until it consults with publishers.",
+    "categories": [
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-28T19:42:27+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows/l-intro-1793216507.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261028/p47#a261028p47",
     "title": "Oracle pledges to limit new financing to $20B through FY 2030, expects free cash flow to turn positive in H2 FY 2028 and top $30B in FY 2029; ORCL jumps 11%+ (Deborah Sophia/Reuters)",
     "description": "Deborah Sophia / Reuters:\nOracle pledges to limit new financing to $20B through FY 2030, expects free cash flow to turn positive in H2 FY 2028 and top $30B in FY 2029; ORCL jumps 11%+  —  Oracle said it expects capital spending to peak this fiscal year and next as it builds more cloud capacity, but pledged to raise …",
@@ -1075,7 +1189,7 @@
   {
     "link": "https://mashable.com/tech/apple-oled-macbook-pro-touchscreen-price-specs-release-date",
     "title": "Apple unveils new MacBook Pro with OLED touchscreen and thinner, lighter design",
-    "description": "Apple announced a MacBook Pro with an OLED touchscreen at its \"Pro and Tell\" event on Oct. 28.",
+    "description": "Apple announced a MacBook Pro with an OLED touchscreen at its \"Pro and Tell\" event. It starts at $2,899 and launches Nov. 6.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -1293,7 +1407,6 @@
     "title": "Apples new M6 iMac just dropped: How to preorder the colorful desktop computer",
     "description": "The new Apple M6 iMac is available for preorder on Oct. 28 at 1:10 p.m. ET with a starting price of $1,499.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-28T17:00:00+00:00",
@@ -2295,113 +2408,5 @@
     "pub_date": "2026-10-28T14:30:01+00:00",
     "image_url": "http://www.techmeme.com/261028/i31.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/life/krispy-kreme-halloween-all-jacked-up-dozen-deal",
-    "title": "Krispy Kremes $13 Halloween dozen is officially live — how to claim through Oct. 29",
-    "description": "Krispy Kreme turned its Original Glazed doughnuts bright orange for Halloween. Grab the limited-edition All Jacked Up Dozen for $13 before it disappears on Oct. 29",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T14:27:17+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/061o31w7DVYxSQRtRdsSAnZ/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/home/smart-speakers/8-new-echo-and-alexa-gadgets-that-amazon-just-announced-from-an-upgraded-echo-dot-to-an-echo-studio-with-a-camera-attached",
-    "title": "8 new Echo and Alexa smart home gadgets that Amazon just announced",
-    "description": "New smart speakers, smart displays, smart photo frames, and smart mapping capabilities have turned up from Amazon.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T14:26:38+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/bNZVGZGJbQB3muMCUzoDmB-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
-    "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
-    "description": "The move puts TikTok in more direct competition with platforms like Yelp and Google.",
-    "categories": [
-      "Social & Media",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-28T14:26:36+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-early-black-friday-deals-under-25-2026",
-    "title": "15+ early Black Friday deals under $25 that dont suck",
-    "description": "Shopping on a budget this holiday season? Here are the best early Black Friday deals to shop for less than $25.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T14:25:15+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03RrFLicTV9NLKTJTaSq5Kj/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/php2shell-flaws-exploited-cisa-kev",
-    "title": "CISA confirms attackers are exploiting both PHP2Shell flaws",
-    "description": "The US Cybersecurity and Infrastructure Security Agency (CISA) has put both PHP2Shell flaws in its Known Exploited Vulnerabilities catalogue. It made the change on Monday, according to its alert. Federal civilian agencies have until Thursday, 29 October, to fix CVE-2026-109618 and CVE-2026-109619. Last week, CISA warned about the flaws but said it had not seen",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-28T14:23:18+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/php-elephant-plush-laptop-code.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-28-proton-vpn-black-friday-deal",
-    "title": "Proton VPN kicked off Black Friday early with a massive 75% discount — get it for $2.49 per month",
-    "description": "Proton VPN kicked off its Black Friday sale, knocking 75% off its 2-year VPN Plus subscription. Grab audited no-logs privacy and high speeds for just $2.49 a month.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T14:22:39+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/058FCSZ847YWgi0JmNe8Zy4/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/science/1020607/virgin-galactic-apeiron-2027-commercial-spaceflight",
-    "title": "Here&#8217;s Virgin Galactic&#8217;s new Apeiron spaceship",
-    "description": "Virgin Galactic's new spaceship is here, dubbed \"Apeiron\" by popular vote from a public poll. Apeiron is the first of the company's new Delta-class spacecraft, but it isn't slated to launch for nearly another year. Earlier this week, Virgin Galactic announced another delay in its launch timeline: The lead Spaceship's first commercial spaceflight is now",
-    "categories": [
-      "Breaking News",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-28T14:17:43+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/virgin-galactic-apeiron-2.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/dutch-government-jobs-25000-cuts-ai",
-    "title": "Netherlands to cut 25,000 government jobs as it turns to AI",
-    "description": "The Dutch government plans to cut an estimated 25,000 full-time jobs in central government, it said in a statement on Monday. The cuts are spread over several years. They should save €900m in 2027, rising to €3.5bn a year from 2035. The cuts do not cover all Dutch government jobs. Police and defence are among",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-10-28T14:14:26+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/kurhaus-scheveningen-dome-dutch-flag.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/28/apple-watch-series-12-ultra-4-adding-two-new-features-soon/",
-    "title": "Apple Watch Series 12 and Ultra 4 adding two new features soon",
-    "description": "Apple Watch Series 12 and Apple Watch Ultra 4 are here, and later this year they’ll get even more powerful with two new features: Siri Recap and Live Rewind. Here are the details.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T14:08:34+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-ultra-4-fi-hero.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
