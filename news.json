@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
+    "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+    "description": "Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus astronaut and retired U.S. Navy captain begins his new role at NASA’s center of excellence for robotics and deep space exploration and at Caltech, which manages JPL for NASA, on",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T02:49:59+00:00",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/wiseman-portrait-crop-for-portal.jpg?w=2048",
+    "source_name": "NASA.GOV"
+  },
+  {
+    "link": "https://www.techradar.com/phones/google-pixel-phones/want-a-free-nintendo-switch-2-upgrade-your-phone-to-the-google-pixel-11-pro-or-pro-xl-at-jb-hi-fi-and-its-yours",
+    "title": "Want a free Nintendo Switch 2? Upgrade your phone to the Google Pixel 11 Pro or Pro XL at JB Hi-Fi and it’s yours",
+    "description": "If the Nintendo console’s recent price hike has put you off buying one, but you’re also due to replace your phone, then this deal might just be what you’re looking for.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-10-29T02:45:48+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/yamWrt3qQCRDeRJSFTZfw8-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/computing/googles-gemini-can-now-make-complex-topics-more-fun-with-interactive-visual-explorations/",
     "title": "Google’s Gemini can now make complex topics more fun with new interactive learning feature",
     "description": "Google's Gemini app now offers Immersive Explorations, an interactive learning feature that lets you explore subjects like ancient trade routes, jet engines, and lightning through layered visual explanations.",
@@ -378,7 +401,6 @@
     "title": "Sources: the US DOJ has inquired about the impact of Nvidia's Hugging Face deal on AI competition, as antitrust enforcers continue to probe Nvidia's conduct (Reuters)",
     "description": "Reuters:\nSources: the US DOJ has inquired about the impact of Nvidia's Hugging Face deal on AI competition, as antitrust enforcers continue to probe Nvidia's conduct  —  The US Department of Justice has made inquiries about how Nvidia's (NVDA.O) $12.93 billion deal to buy open-source platform Hugging Face …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-28T23:00:49+00:00",
@@ -413,7 +435,6 @@
     "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
     "description": "This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-10-28T22:51:15+00:00",
@@ -777,7 +798,6 @@
     "title": "The new MacBook Pro has everything I wanted, minus one thing",
     "description": "Apple’s new MacBook Pro with PROLED XDR is an exciting upgrade that delivers nearly every feature I was hoping for, with just one exception.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-28T20:59:42+00:00",
@@ -789,8 +809,7 @@
     "title": "Google Debuts New AI Models, Genie 4 and Gemini 4 Carbon: What You Need to Know",
     "description": "The world model has a waitlist and the newest frontier Gemini model is restricted to select cybersecurity experts.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-28T20:51:37+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/AdobeStock_1023255193_Editorial_Use_Only.jpeg",
@@ -2277,28 +2296,5 @@
     "pub_date": "2026-10-28T17:09:07+00:00",
     "image_url": "http://www.techmeme.com/261028/i38.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/28/apple-announces-redesigned-macbook-pro-its-first-touchscreen-mac/",
-    "title": "Apple announces all-new MacBook Pro with PROLED XDR display, its first touchscreen Mac",
-    "description": "Apple has officially announced the all-new MacBook Pro with PROLED XDR display, its first touchscreen laptop.\n\n\n\nThe new machine was first hinted at by Apple on October 19 with the company’s “Pro and tell” experience teaser. Earlier today, new Apple CEO John Ternus shared a “spotlight” teaser for the laptop as well.\n\n\n\nRead on for all the details about the new high-end laptop…  \n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T17:06:48+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr.webp?w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell",
-    "title": "Apple announces its first touchscreen MacBook Pro",
-    "description": "Apple announced an all-new MacBook Pro laptop with an OLED touchscreen at its \"Pro and tell\" event on Wednesday. It starts at $2,899 for the 14-inch model or $3,399 for the 16-inch version, and it's available to preorder today ahead of its release on November 6th. The new MacBook Pro has what Apple calls a",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-28T17:05:56+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-lifestyle-remote-work-261028.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
