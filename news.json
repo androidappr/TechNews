@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.techmeme.com/261029/p41#a261029p41",
+    "title": "SuperMe, which generates AI-powered chats with simulated profiles of prominent industry experts to let users ask questions, raised $20M (Ivan Mehta/TechCrunch)",
+    "description": "Ivan Mehta / TechCrunch:\nSuperMe, which generates AI-powered chats with simulated profiles of prominent industry experts to let users ask questions, raised $20M  —  When people have career or job questions, they usually tap into their network to find experts who've faced a similar predicament and can offer answers.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T16:55:02+00:00",
+    "image_url": "http://www.techmeme.com/261029/i41.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/musk-x-ticker-spacex-tesla-merger",
+    "title": "The X ticker is free as Musk weighs a SpaceX-Tesla merger",
+    "description": "No US stock trades under X since Nippon Steel bought US Steel last year. With SpaceX and Tesla exploring a merger, investors say Musk could claim the symbol, though he has not said so. Only five single-letter US tickers are free. The stock ticker X is free, and some investors think Elon Musk could claim",
+    "categories": [
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-29T16:49:49+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/spacex-falcon-heavy-launch-pad-39a-hangar.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261029/p40#a261029p40",
     "title": "Source: Dulo, a startup co-founded by Google veteran Sebastian Thrun to build \"foundation models for hardware design\", raised a $130M seed (Rocket Drew/The Information)",
     "description": "Rocket Drew / The Information:\nSource: Dulo, a startup co-founded by Google veteran Sebastian Thrun to build “foundation models for hardware design”, raised a $130M seed  —  Sebastian Thrun, the computer scientist who pioneered several AI projects at Google, has co-founded a new startup focused on creating AI models …",
@@ -49,6 +72,18 @@
     "pub_date": "2026-10-29T16:34:03+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/bill-mcdermott-servicenow-ceo-portrait.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/tech/firefox-chrome-browsers-patch-200-security-flaws-update-asap/",
+    "title": "Firefox and Chrome patch 200+ security flaws combined – update both ASAP",
+    "description": "The latest version of Firefox fixes 167 security vulnerabilities, most of which are of high severity, while the newest version of Chrome patches 52 flaws, four of which are critical.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-29T16:30:28+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Firefox-159-with-passwords-sidebar-and-website-change-monitoring.jpg",
+    "source_name": "ZDNET.COM"
   },
   {
     "link": "https://www.techmeme.com/261029/p39#a261029p39",
@@ -861,7 +896,7 @@
   {
     "link": "https://www.techmeme.com/261029/p27#a261029p27",
     "title": "Sources: Microsoft is seeking to raise $25B+ in its first US investment-grade bond sale since 2017, when it raised $17B, to fund AI-related capital expenditures (Bloomberg)",
-    "description": "Bloomberg:\nSources: Microsoft is seeking to raise $25B+ in its first US investment-grade bond sale since 2017, when it raised $17B, to fund AI-related capital expenditures  —  Microsoft Corp. is looking to raise at least $25 billion from its first US investment-grade bond sale in more than nine years …",
+    "description": "Bloomberg:\nSources: Microsoft is seeking to raise $25B+ in its first US investment-grade bond sale since 2017, when it raised $17B, to fund AI-related capital expenditures  —  Microsoft Corp. drew blowout demand for its jumbo bond offering, as investors made room in portfolios stuffed with AI-related debt …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -982,8 +1017,7 @@
     "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
     "description": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-29T13:00:00+00:00",
     "image_url": null,
@@ -1345,7 +1379,6 @@
     "title": "Google Chrome can now find what you need in Gmail before you even ask",
     "description": "Google Chrome's enhanced autofill can now pull order numbers, shipping details, and flight bookings directly from Gmail, potentially saving users from constantly switching tabs to find information buried in their inboxes.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-29T11:36:08+00:00",
@@ -1495,7 +1528,6 @@
     "title": "You can now spend between $1,999 and $14,549 on a MacBook Pro",
     "description": "There weren’t too many surprises with yesterday’s launch of the first touchscreen Mac, the MacBook Pro with PROLED XDR display. But one of those was the option to spec the SSD to a massive 16TB.\n\n\n\nWith the M6 MacBook Pro the new entry-level model, that means that you can now spend anywhere between $1,999 and $14,549 on a new MacBook Pro …\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-29T10:55:25+00:00",
@@ -2287,38 +2319,5 @@
     "pub_date": "2026-10-29T05:12:22+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/03NBYN6NqoOpXIHksLyegOW/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261029/p3#a261029p3",
-    "title": "Google reports Search revenue up 12% YoY to $63.25B in Q3 2026, down from 14.5% in Q3 2025, and attributes the slowdown to \"lower monetization\" in AI Mode (Simon Sharwood/The Register)",
-    "description": "Simon Sharwood / The Register:\nGoogle reports Search revenue up 12% YoY to $63.25B in Q3 2026, down from 14.5% in Q3 2025, and attributes the slowdown to “lower monetization” in AI Mode  —  Shares in Google's parent company Alphabet dived by almost ten percent on Wednesday, after the web giant admitted AI-powered searches earn …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T05:10:01+00:00",
-    "image_url": "http://www.techmeme.com/261029/i3.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/nzxt-discount-code/",
-    "title": "NZXT Discount Codes: 50% Off in November 2026",
-    "description": "Save 50%, plus up to $250 with NZXT promo codes and discounts.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/norton-coupon-code/",
-    "title": "Norton Coupon Codes: Up to 58% Off",
-    "description": "Whether you’re looking to protect your small business or your personal computer, we have the top coupons and deals to help you save at Norton.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
