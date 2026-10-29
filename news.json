@@ -1,5 +1,27 @@
 [
   {
+    "link": "https://www.wired.com/story/nothing-cmf-deals-october-2026/",
+    "title": "Nothing Headphones Sale: Stylish and Up to 41% Off",
+    "description": "Some of the brand’s best styles, including the Nothing Headphone (1) and CMF Headphone Pro, are at the lowest prices I’ve ever seen ahead of Black Friday.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T19:41:36+00:00",
+    "image_url": "https://media.wired.com/photos/6ae36f07feb0012f49429412/master/pass/Nothing%20Headphone%20Deals%20October%20102026%20top%20art%20SOURCE%20Shop.com.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/copilot-daily-users-nadella-foundry-agent-365",
+    "title": "Microsoft’s Copilot daily users grew five times in a year, Nadella says",
+    "description": "Copilot daily users grew nearly 50% in the three months to September, Microsoft chief executive Satya Nadella said. That is more than five times as many as a year earlier. Microsoft still did not say how many people pay for it, Jordan Novet reported for CNBC. Nadella gave the 50% figure on the company’s earnings",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-10-29T19:26:03+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/satya-nadella-build-2026-unmetered-intelligence.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/microsoft-openai-revenue-10bn-quarter",
     "title": "Microsoft made $10bn from OpenAI last quarter, 11% of its revenue",
     "description": "Microsoft recorded $10bn of revenue from its business with OpenAI in the three months to September, about 11% of its total revenue. Microsoft disclosed the amount in its quarterly filing on Wednesday, the day it reported its results. It is the first time Microsoft has given a quarterly figure for the arrangement, Todd Bishop reported",
@@ -44,6 +66,18 @@
     "pub_date": "2026-10-29T19:19:34+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/01B00SYGKaugXJradu37LDg/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
+    "title": "GM to pay $220 million to resolve claims it sold driving habits data",
+    "description": "General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement, which resolves a complaint from a coalition of 36 US attorneys general, requires GM to limit the driving data it collects and obtain \"express consent\" from",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-29T19:19:28+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2255455204.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
@@ -229,7 +263,6 @@
     "title": "DoorDash Plans to Acquire Grocery Delivery Service Instacart in $17B Deal",
     "description": "When the deal is complete, both companies are expected to continue operating separately.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-29T18:30:41+00:00",
@@ -1096,8 +1129,7 @@
     "title": "Stop sharing your passwords with AI agents, Bank of America warns customers",
     "description": "The bank’s message follows a trend among financial institutions that are restricting third-party AI agent access.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-29T15:36:26+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/boapowerGettyImages-1554399408_667584.jpg",
@@ -1108,7 +1140,6 @@
     "title": "Deals: M6 and PROLED MacBook Touch pre-order offers, OLED iPad mini, M6 Mac mini, more",
     "description": "Alongside the ongoing $50 price drop on AirPods Pro 3 and the ongoing Apple TV 4K pre-order discount, pre-orders are now live on the new OLED iPad mini, M6 MacBook Pro, M6 iMac, and the MacBook Pro with PROLED XDR Display – we have uncovered some FREE $50 and $100 gift card offers for you below on them. Apple’s official World Travel Kit as well as the upgraded 70W and 140W Power Adapters are live alongside the new TechWoven iPad mini case at $79, however we also have the most affordable M5 MacBook Air at $200+ off as well as the return of all-time low pricing on M6 Mac mini with 24GB of RAM at $150 off, the latest AirTag 2 at the Amazon all-time low, and much more waiting below. \n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-29T15:34:05+00:00",
@@ -1593,7 +1624,6 @@
     "title": "DoorDash to acquire Instacart for $17B",
     "description": "The acquisition would bring two major players in on-demand delivery under one roof, combining DoorDash’s dominance in restaurant takeout with Instacart’s reach in grocery delivery.",
     "categories": [
-      "Breaking News",
       "Software & Apps"
     ],
     "pub_date": "2026-10-29T13:40:57+00:00",
@@ -2287,39 +2317,5 @@
     "pub_date": "2026-10-29T10:53:16+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/pvZ7u9ocUtukdwrgaDoXiP-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/health-fitness/smartwatches/google-pixel-watch-ultra-rumors-begin-but-a-rugged-pixel-watch-would-need-these-3-fixes-before-challenging-apple-samsung-and-garmin-in-the-adventure-space",
-    "title": "Google Pixel Watch Ultra rumors begin — but a rugged Pixel Watch needs 3 fixes first",
-    "description": "Could a Google Pixel Watch Ultra really happen? Some reports indicate that Google's at least mulling it over.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T10:51:40+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/9eodLRXMQbvTq9Hpc8orMF-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261029/p19#a261029p19",
-    "title": "Sources: DeepSeek and Moonshot AI heavily relied on GPT-6 Astra distillation to train models like Kimi K3.1 Pro and V4.1-Flash 1017, after Anthropic's crackdown (The Information)",
-    "description": "The Information:\nSources: DeepSeek and Moonshot AI heavily relied on GPT-6 Astra distillation to train models like Kimi K3.1 Pro and V4.1-Flash 1017, after Anthropic's crackdown  —  OpenAI's GPT-6 Astra, the most powerful model the company has released, has met with strong demand since its release in early September.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T10:46:03+00:00",
-    "image_url": "http://www.techmeme.com/261029/i19.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
-    "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
-    "description": "Anthropic and OpenAI say they’ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like “overexcited bunnies” as they look at new questions to explore.",
-    "categories": [
-      "AI & Machine Learning",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-29T10:45:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ae293587359ba945850d8f8/master/pass/science_math_ai_breakthrough_research.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
