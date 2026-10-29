@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://thenextweb.com/news/baseten-joey-1-decision-model-open-weights",
+    "title": "Baseten’s joey-1 makes AI decisions for a penny per million tokens",
+    "description": "Baseten released joey-1, a 2B open-weights “decision model” that returns an answer and a probability rather than text. It costs $0.01 per million tokens and answers in about 20ms, Baseten says. It joins the larger mammoth-1 and elephant-1 launched last week. Baseten has released joey-1, a small open AI model that answers yes-or-no and multiple-choice",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-29T18:49:52+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/baseten-joey-1-kangaroo-decision-model-graphic.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/cohere-series-e-c7bn-canada-nvidia",
+    "title": "Canada joins Nvidia in backing Cohere’s record C$7bn Series E",
+    "description": "Cohere has completed the first close of its Series E round, which it aims to grow to as much as C$7bn. The Toronto AI company says that would value it at C$35.7bn. The Government of Canada is among the new investors. Cohere announced the round on Thursday in a press release and a blog post",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-29T18:48:25+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/aidan-gomez-cohere-ceo-rooftop-portrait.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
     "title": "You can generate and edit Google Docs files directly in Gemini chats now",
     "description": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in",
@@ -10,6 +35,18 @@
     "pub_date": "2026-10-29T18:45:31+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2301458/netflix-is-making-a-live-action-pubg-show-written-and-directed-by-donald-glover/",
+    "title": "Netflix is making a live-action PUBG show written and directed by Donald Glover",
+    "description": "The streamer also has an Assassin's Creed series in the works, along with a Gears of War feature film.",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-10-29T18:45:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/netflix-is-making-a-live-action-pubg-show-written-and-directed-by-donald-glover/l-intro-1793299226.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.engadget.com/2301452/dont-expect-more-assassins-creed-remakes-anytime-soon/",
@@ -1097,7 +1134,6 @@
     "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
     "description": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents.",
     "categories": [
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-29T15:00:00+00:00",
@@ -1144,7 +1180,6 @@
     "title": "NASA’s Hubble Marks Way for Roman Space Telescope",
     "description": "A sweeping barred galaxy takes center stage in this Oct. 22, 2026, image, but the gravitational lensing at bottom right is the real target. This observation is one of many gravitational lensing images taken by NASA’s Hubble Space Telescope in preparation for science with the new Nancy Grace Roman Space Telescope. Astronomers will use these",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-29T14:49:27+00:00",
@@ -1586,8 +1621,7 @@
     "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
     "description": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-29T13:00:00+00:00",
     "image_url": null,
@@ -1598,8 +1632,7 @@
     "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
     "description": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-29T13:00:00+00:00",
     "image_url": null,
@@ -1632,7 +1665,6 @@
     "title": "Phantom Blade Zero joins GeForce NOW, and your old PC can join the party",
     "description": "Nvidia is bringing Phantom Blade Zero to GeForce NOW at launch alongside eight other games, while adding new membership options in India and mod support for Cyberpunk 2077 and The Witcher 3.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-10-29T13:00:00+00:00",
@@ -1644,7 +1676,6 @@
     "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
     "description": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-10-29T12:58:34+00:00",
@@ -2292,38 +2323,5 @@
     "pub_date": "2026-10-29T10:11:14+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-29-refurbished-kindle-scribe-deal",
-    "title": "Kindle Scribe refurbs are all on sale again — how to buy for $75 off",
-    "description": "Find the best Kindle Scribe deal at Amazon. Save 21% on the Like-New Kindle Scribe at Amazon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T10:07:51+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04kh7HuFcJqxiszIkG4vf4c/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/panthers-packers-nfl-2026-live-stream-for-free",
-    "title": "How to watch Panthers vs. Packers in the NFL online for free",
-    "description": "How to watch NFL for free. Live stream the NFL for free from anywhere in the world.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T10:04:16+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02OwMvDKnmoW2EynQlFSYux/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261029/p16#a261029p16",
-    "title": "Vladimir Putin praises Elon Musk as a \"real genius\" and says Russia is in \"close contact\" with Musk and the US to coordinate Rassvet and Starlink satellites (Kali Hays/BBC)",
-    "description": "Kali Hays / BBC:\nVladimir Putin praises Elon Musk as a “real genius” and says Russia is in “close contact” with Musk and the US to coordinate Rassvet and Starlink satellites  —  Elon Musk is a “real genius”, Russian President Vladimir Putin said on Wednesday after revealing the two are in …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T10:02:43+00:00",
-    "image_url": "http://www.techmeme.com/261029/i16.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
