@@ -1,5 +1,52 @@
 [
   {
+    "link": "https://www.digitaltrends.com/movies/wildwood-movie-review-interview/",
+    "title": "EXCLUSIVE: Here’s why Wildwood is the best animated movie of the year",
+    "description": "Laika’s Wildwood combines breathtaking stop-motion animation, compelling characters, and a mature fantasy story that could make it a Best Animated Feature Oscar contender.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T17:30:00+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Prue-riding-on-an-eagle-in-the-film-Wildwood.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techradar.com/phones/iphone/t-mobiles-iphone-duo-deal-has-just-gotten-even-better-the-device-is-now-up-to-usd1-200-off-with-a-line-or-trade",
+    "title": "T-Mobile's iPhone Duo deal has just gotten even better — the device is now up to $1,200 off with a line or trade",
+    "description": "Even with heavy backorders, T-Mobile's deal on the iPhone Duo has just been improved significantly",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-29T17:17:51+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/3LDAy2iJPc7E79roMpCmVc-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/alphabet-commitments-1tn-ai-agents-10-q",
+    "title": "Alphabet’s AI commitments pass $1tn, its quarterly filing shows",
+    "description": "Alphabet’s quarterly filing, published on Thursday, puts its future payments for computing, energy and data centres at more than $1tn. These Alphabet commitments do not appear on its balance sheet, the filing says. Davey Alba reported the figures for Bloomberg. Chief financial officer Anat Ashkenazi had given the $1tn-plus total on Wednesday’s earnings call, Bloomberg",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-29T17:16:37+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/blurred-google-logo-neon-dark-background.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/apps-software/ai/immersive-explorations-with-gemini-is-a-visual-way-for-you-to-traverse-stellar-topics",
+    "title": "'Immersive Explorations' in Gemini is a visual adventure for traversing stellar topics",
+    "description": "\"Immersive Exploration\" is the new adventure that awaits students and other users in Gemini, helping to peel back the layers of life, space, and more.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-29T17:15:18+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/4bqPL8DyJhmUGyGX6jFN6Y-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/alphabet-shares-fall-google-ai-mode-search-ads",
     "title": "Alphabet shares fall 12% after Google says AI Mode searches earn less",
     "description": "By 9:35am in New York on Thursday, Alphabet had lost $511bn in market value, Julia Love and Davey Alba reported for Bloomberg. The shares were down more than 12%. It was the company’s biggest market value loss on record. A close more than 9.77% lower would be Alphabet’s worst reaction to results since its 2004",
@@ -106,12 +153,11 @@
   },
   {
     "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-    "title": "U.S. investigated Chinese spy plot aimed at Nvidia CEO",
+    "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
     "description": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
-      "Business & Startups",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-29T16:42:32+00:00",
@@ -160,6 +206,7 @@
     "title": "Alphabet discloses $1T+ in purchase commitments, future leases, and other obligations; its Q3 filing shows $98.5B in contingent commitments, up ~$23B from Q2 (Davey Alba/Bloomberg)",
     "description": "Davey Alba / Bloomberg:\nAlphabet discloses $1T+ in purchase commitments, future leases, and other obligations; its Q3 filing shows $98.5B in contingent commitments, up ~$23B from Q2  —  Alphabet Inc. has said demand for its cloud services is increasing at a rapid clip, pointing to growth in its backlog, or cloud contracts it hasn't yet fulfilled.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-29T16:30:01+00:00",
@@ -194,7 +241,7 @@
   {
     "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
     "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-    "description": "rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI.",
+    "description": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -793,6 +840,18 @@
     "source_name": "THENEXTWEB.COM"
   },
   {
+    "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+    "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+    "description": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-29T14:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
     "title": "Anthropic is asking Wall Street to believe in AGI",
     "description": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start",
@@ -821,17 +880,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.techradar.com/gaming/the-next-hitman-elusive-target-has-agent-47-taking-down-a-podcaster-who-is-loud-paranoid-and-completely-obsessed-with-content-and-played-by-a-real-life-influencer",
-    "title": "The next Hitman elusive target has Agent 47 taking down a podcaster who is 'loud, paranoid, and completely obsessed with content' — and played by a real-life influencer",
-    "description": "Agent 47 is going head to head with an evil influencer in the next Hitman DLC.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-29T14:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/qfQ6K5cWPFhx6f52QjFVNn-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/pro/security/fbi-leads-action-to-shut-down-virtualine-bulletproof-service-linked-to-major-cybercrime-activity",
     "title": "FBI leads action to shut down Virtualine bulletproof service linked to major cybercrime activity",
     "description": "Virtualine was hosting illegal forums and helping launder stolen cryptocurrency.",
@@ -840,6 +888,17 @@
     ],
     "pub_date": "2026-10-29T14:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/wF7wQKYhstmr8p8VKgjiDK-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/the-next-hitman-elusive-target-has-agent-47-taking-down-a-podcaster-who-is-loud-paranoid-and-completely-obsessed-with-content-and-played-by-a-real-life-influencer",
+    "title": "The next Hitman elusive target has Agent 47 taking down a podcaster who is 'loud, paranoid, and completely obsessed with content' — and played by a real-life influencer",
+    "description": "Agent 47 is going head to head with an evil influencer in the next Hitman DLC.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-10-29T14:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/qfQ6K5cWPFhx6f52QjFVNn-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -981,7 +1040,6 @@
     "description": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the business of selling IT",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-29T13:30:00+00:00",
@@ -1005,7 +1063,6 @@
     "title": "Contractor to Civil Servant: NASA Welcomes Jared Spiers",
     "description": "Jared Spiers had an interest in contributing to NASA’s mission long before becoming a civil servant for the agency. Growing up close to NASA’s Stennis Space Center near Bay St. Louis, Mississippi, and hearing about his father’s work there, he gained a firsthand connection to the nation’s space program. Before graduating high school, he knew",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-29T13:27:34+00:00",
@@ -2267,60 +2324,5 @@
     "pub_date": "2026-10-29T07:00:17+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/ravical-founders-office.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261029/p11#a261029p11",
-    "title": "How Maynard v. Snapchat, a 2016 lawsuit linked to a car crash involving Snapchat's speed filter, sparked social media's legal reckoning over user safety (Olivia Carville/Bloomberg)",
-    "description": "Olivia Carville / Bloomberg:\nHow Maynard v. Snapchat, a 2016 lawsuit linked to a car crash involving Snapchat's speed filter, sparked social media's legal reckoning over user safety  —  The rain had only just let up when the night shift ended at the Bay Breeze Seafood Restaurant in Lovejoy, Georgia.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T06:45:01+00:00",
-    "image_url": "http://www.techmeme.com/261029/i11.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261029/p10#a261029p10",
-    "title": "STMicro reports Q3 revenue up 17.9% YoY to $3.76B, operating income up 98% to $429M, above $400.5M est., and forecasts $4.15B in Q4 revenue, above $4.10B est. (Reuters)",
-    "description": "Reuters:\nSTMicro reports Q3 revenue up 17.9% YoY to $3.76B, operating income up 98% to $429M, above $400.5M est., and forecasts $4.15B in Q4 revenue, above $4.10B est.  —  STMicroelectronics (STMPA.PA) reported a third-quarter operating profit above market expectations on Thursday …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T06:40:01+00:00",
-    "image_url": "http://www.techmeme.com/261029/i10.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261029/p9#a261029p9",
-    "title": "A profile of Tencent Cloud CEO Dowson Tong, who is shifting Tencent's AI focus toward businesses and betting on its Claude Cowork-style assistant WorkBuddy (Bloomberg)",
-    "description": "Bloomberg:\nA profile of Tencent Cloud CEO Dowson Tong, who is shifting Tencent's AI focus toward businesses and betting on its Claude Cowork-style assistant WorkBuddy  —  When Pony Ma called Tencent Holdings Ltd.'s AI endeavor “a leaky ship” this summer, the billionaire founder sent ripples through …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T06:15:01+00:00",
-    "image_url": "http://www.techmeme.com/261029/i9.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261029/p8#a261029p8",
-    "title": "Bluesky blocks links to a leaked archive containing personal data of 41,000+ DHS employees and contractors, saying it was \"shared without their authorization\" (Wired)",
-    "description": "Wired:\nBluesky blocks links to a leaked archive containing personal data of 41,000+ DHS employees and contractors, saying it was “shared without their authorization”  —  Bluesky tells WIRED it blocked links to a leaked archive of information on 41,000 ICE, CBP, and other DHS workers …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T06:05:01+00:00",
-    "image_url": "http://www.techmeme.com/261029/i8.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261029/p7#a261029p7",
-    "title": "National Student Clearinghouse: US computer science enrollment fell 12%+ for undergrads and 10%+ for grad students this fall, as AI reduces coding jobs (Elizabeth Rembert/Bloomberg)",
-    "description": "Elizabeth Rembert / Bloomberg:\nNational Student Clearinghouse: US computer science enrollment fell 12%+ for undergrads and 10%+ for grad students this fall, as AI reduces coding jobs  —  Computer and information science departments at US colleges saw an exodus of students this fall, with enrollment declining more than 12% …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T06:02:01+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
-    "source_name": "TECHMEME.COM"
   }
 ]
