@@ -1,5 +1,119 @@
 [
   {
+    "link": "https://9to5mac.com/2026/10/29/the-education-price-of-the-macbook-neo-just-jumped-again/",
+    "title": "The education price of the MacBook Neo just jumped again",
+    "description": "The MacBook Neo was already a bargain by Mac standards when it launched with a starting price of $599, but for students an education price of $499 made it a steal.\n\n\n\nSadly, that changed back in June when both retail and education prices rose by $100. Now, however, the education price has been raised even further …\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T12:14:11+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-macbook-neo-colors.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techradar.com/phones/teardown-reveals-the-trump-phone-to-be-an-htc-u24-pro-in-almost-all-but-name-but-at-least-its-fairly-durable",
+    "title": "Teardown confirms Trump phone is a rebranded HTC U24 Pro",
+    "description": "A teardown and durability test has revealed the Trump phone is even more a copy of an HTC handset than we'd realized.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T12:12:15+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/jj7Zh5dhCw6iasy4yjxWDU-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/televisions/the-five-star-and-techradar-award-winning-lg-c6-oled-tv-drops-to-a-record-low-price-ahead-of-black-friday-the-ideal-upgrade-for-gta-6",
+    "title": "The five-star and TechRadar award-winning LG C6 OLED TV drops to a record-low price ahead of Black Friday — the ideal upgrade for GTA 6",
+    "description": "The LG C6 is our TV of the year here at TechRadar, and this five-star OLED TV is already down to a record-low price in the early Black Friday sales.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T12:08:32+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/WyLMr8MuGdoXdZ2BxPBy3K-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/cars/bestune-pony-five-door-tiny-ev-china-price/",
+    "title": "China’s latest tiny EV costs just $6,735 and somehow squeezes in five doors",
+    "description": "The five-door Bestune Pony starts at roughly $6,735 in China, pairing four seats with a tiny footprint. Here's how it compares with Wuling's Mini EV and Europe's cute electric quadricycles.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T12:05:51+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Orange-car-front-three-quarter.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techradar.com/vpn/vpn-services/try-protons-entire-privacy-ecosystem-for-just-usd1-perfect-if-you-want-to-de-google-your-online-identity-for-the-very-first-time",
+    "title": "Try Proton's entire privacy ecosystem for just $1 — perfect if you want to de-Google your online identity for the very first time",
+    "description": "Proton Drive, Docs, Mail, Calendar, and VPN access for a month, for just a dollar",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T12:05:07+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/oFXn4n9EpZSJdKXQxFL9Vi-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/bad-actor-cyberattack-on-fec-obscures-political-spending-by-donors-and-superpacs-days-before-us-midterm-elections",
+    "title": "‘Bad actor’ cyberattack on FEC obscures political spending by donors and SuperPACs days before US midterm elections",
+    "description": "US midterm elections are just days away, and an attack on the FEC has left millions of dollars in donations undeclared.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-29T12:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/EqWFUxzoXa2Ai8DosgtmDZ-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/collective-100m-solo-business-ai-finance",
+    "title": "Collective raises $100M to run the finances of one-person businesses",
+    "description": "San Francisco startup Collective, which handles the finances of one-person businesses, has raised $100M. The money comes in two parts: a $40M Series B and $60M from General Catalyst’s Customer Value Fund. General Catalyst, QED Investors and Gradient Ventures led the Series B, with Intuit Ventures, FT Partners and SemperVirens also investing. The Customer Value Fund",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T12:00:33+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/collective-founders-sofa-office.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/pluto-security-hugging-face-trust-remote-code-cryptominer",
+    "title": "Pluto Security details how a trust_remote_code download turns into malware",
+    "description": "The trick at the center of this campaign is not an exploit. It is a feature. Pluto Security’s analysis of a cryptominer operation on the Hugging Face Hub shows that the attacker never needed to break anything. The model-loading library runs the Python that infects a machine exactly as designed. Three doors, one left open",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T12:00:11+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/pluto-security-team-yellow-sofa-office.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2294413/easysmx-s10-lite-review/",
+    "title": "EasySMX S10 Lite review: A Switch 2 fidget toy with a weird removable faceplate",
+    "description": "EasySMX is using Elizabeth Holmes levels of pedantry with this faceplate situation.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-10-29T12:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/easysmx-s10-lite-review-a-switch-2-fidget-toy-with-a-weird-removable-faceplate/l-intro-1792686295.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/f1-tech-behind-the-race/",
+    "title": "What’s Faster Than an F1 Car? The Data Behind the Race",
+    "description": "For diehard fans and newcomers like me, tech offers deeper insights into the race while helping broadcasters tell a richer story. I went behind the scenes to see how it all comes together.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T12:00:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/AWSxF1-RaceDay-3.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.theverge.com/business/1021981/doordash-instacart-acquisition-announcement",
     "title": "DoorDash is acquiring Instacart for around $17 billion",
     "description": "DoorDash has announced that it's buying Instacart in a deal valued at approximately $17 billion. The acquisition will give DoorDash a bigger presence in online grocery delivery via Instacart's established grocery marketplace and retailer partnerships. DoorDash, which started as a restaurant courier service, already has its own grocery delivery business, but that faces ongoing competition",
@@ -107,6 +221,7 @@
     "title": "That 16TB Seagate Expansion Desktop hard drive just dropped in price again, hitting $400",
     "description": "The Seagate 16TB Expansion Desktop HDD is one of our favorite high-capacity hard drives, and it's just had another price cut a week after Newegg's discount.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-29T11:29:01+00:00",
@@ -462,17 +577,6 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://www.wired.com/review/reencle-essential-electric-composter/",
-    "title": "Reencle Essential Review: Same Scraps, Lower Price",
-    "description": "Reencle has made your favorite kitchen composter cheaper—with a few compromises.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-29T10:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
     "title": "I Gave My Blood to the AI Death Clock",
     "description": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
@@ -484,6 +588,17 @@
     ],
     "pub_date": "2026-10-29T10:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/review/reencle-essential-electric-composter/",
+    "title": "Reencle Essential Review: Same Scraps, Lower Price",
+    "description": "Reencle has made your favorite kitchen composter cheaper—with a few compromises.",
+    "categories": [
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-29T10:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -502,6 +617,7 @@
     "title": "Amazon has slashed the price of the EF EcoFlow Delta 3 Max power station before Black Friday — save $450.01",
     "description": "Get the best portable power station deal. Save 20% on the EF EcoFlow Delta 3 Max at Amazon.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-29T09:58:55+00:00",
@@ -2144,122 +2260,5 @@
     "pub_date": "2026-10-28T20:30:00+00:00",
     "image_url": "https://media.wired.com/photos/6ae24abf56ee4dcb93f11815/master/pass/Untitled-5.gif",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/computing/boston-dynamics-employee-protest-ice-deal/",
-    "title": "Boston Dynamics Faces Employee Protest Over Robot Deal With ICE",
-    "description": "Tech workers have become increasingly vocal when their employers’ business deals clash with their values.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T20:25:18+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/boston-dynamics-spot.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/anthropic-ipo-retail-warren-s-1-details",
-    "title": "Anthropic may offer up to 20% of its IPO to retail, Bloomberg says",
-    "description": "Anthropic is weighing setting aside 15% to 20% of the shares in its IPO for retail investors, people familiar with the matter told Bloomberg on Wednesday, 28 October. JPMorgan will lead the US retail offering, they said. TNW has not independently verified the report. The S-1 prospectus only says the banks may set aside shares",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-10-28T20:25:10+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/dario-amodei-world-economic-forum-davos-2025.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/tiktok-is-on-the-hunt-for-a-huge-compute-capacity-upgrade-so-is-it-replacing-oracle-or-just-exploring-its-options",
-    "title": "TikTok is on the hunt for a huge compute capacity upgrade — so is it replacing Oracle, or just exploring its options?",
-    "description": "TikTok is exploring computing capacity of up to 4 gigawatts by the early 2030s while maintaining Oracle as its primary American provider.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T20:25:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/5MSXdSD3SMd8dCNawoqX4b-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
-    "title": "Google says its investments in AI are driving more searches",
-    "description": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial queries,\" CEO Sundar Pichai says in a statement. \"In fact, our year-over-year query growth rate is the highest",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T20:22:26+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
-    "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
-    "description": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a new financial year for Microsoft, so the company is changing up",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T20:20:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
-    "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
-    "description": "With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base models that start at $2,899 for the 14-inch, and $3,399 for the 16-inch, with every premium hardware option that Apple offers pushes those",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-28T20:12:44+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/mbp2.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261028/p49#a261028p49",
-    "title": "Alphabet reports Q3 revenue up 25% YoY to $127.58B, vs. $128.22B est., Google Cloud revenue up 103% to $30.7B, vs. $28.7B est.; GOOG drops 9%+ after hours (Alphabet)",
-    "description": "Alphabet:\nAlphabet reports Q3 revenue up 25% YoY to $127.58B, vs. $128.22B est., Google Cloud revenue up 103% to $30.7B, vs. $28.7B est.; GOOG drops 9%+ after hours  —  MOUNTAIN VIEW, Calif. - October 28, 2026 - Alphabet Inc. (NASDAQ: GOOG, GOOGL) today announced financial results for the quarter ended September 30, 2026.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T20:12:14+00:00",
-    "image_url": "http://www.techmeme.com/261028/i49.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/meta-shareholders-sue-zuckerberg-class-c-shares",
-    "title": "Meta shareholders sue Zuckerberg to block his non-voting share plan",
-    "description": "Meta shareholders have sued Mark Zuckerberg and the rest of Meta’s board to stop a plan for a new class of non-voting shares. They filed the class action in the Delaware Court of Chancery on Tuesday, 27 October. Ryan Knappenberger reported it for Courthouse News. The plaintiffs are two Steamfitters Local 449 funds and two",
-    "categories": [
-      "Business & Startups",
-      "Government & Policy",
-      "Social & Media"
-    ],
-    "pub_date": "2026-10-28T20:12:07+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/mark-zuckerberg-smiling-white-house-luncheon.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261028/p48#a261028p48",
-    "title": "Microsoft reports Q1 revenue up 19% YoY to $92.28B, vs. $90.69B est., Azure revenue up 48% to $33.17B, vs. $32.32B est., and net income up 32% to $36.63B (Microsoft)",
-    "description": "Microsoft:\nMicrosoft reports Q1 revenue up 19% YoY to $92.28B, vs. $90.69B est., Azure revenue up 48% to $33.17B, vs. $32.32B est., and net income up 32% to $36.63B  —  REDMOND, Wash. — October 28, 2026 — Microsoft Corp. today announced the following results for the quarter ended September 30, 2026 …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T20:10:01+00:00",
-    "image_url": "http://www.techmeme.com/261028/i48.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/cxmt-hbm3e-ai-memory-low-yields-reuters",
-    "title": "China’s CXMT will make AI memory despite yields as low as 20%, Reuters says",
-    "description": "China’s biggest memory chipmaker, CXMT, plans to start making HBM3E, an advanced memory used in AI chips, even though only 20% to 30% of the chips it makes are usable. Two people familiar with the matter told Reuters, which reported the details on Wednesday, 28 October. TNW has not independently verified the report. CXMT has",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-10-28T20:04:49+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/cxmt-booth-ic-china-expo.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
