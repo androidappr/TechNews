@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.techmeme.com/261028/p64#a261028p64",
+    "title": "Samsung reports Q3 revenue up 127% YoY to a record ~$146.3B and a record operating profit up 783% to ~$80.5B, both roughly in line with estimates (Jenny Lee/CNBC)",
+    "description": "Jenny Lee / CNBC:\nSamsung reports Q3 revenue up 127% YoY to a record ~$146.3B and a record operating profit up 783% to ~$80.5B, both roughly in line with estimates  —  - Samsung Electronics reported third-quarter earnings on Thursday, with operating profit broadly in line with analysts' estimates",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T03:20:22+00:00",
+    "image_url": "http://www.techmeme.com/261028/i64.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/security/starlink-users-heavily-surveilled-by-alleged-israeli-spy-firm-company-served-ads-to-geolocate-users-and-spy-on-browsers-and-apps",
     "title": "Starlink users heavily surveilled by alleged Israeli spy firm — company served ads to geolocate users and spy on browsers and apps",
     "description": "Malicious ads were deliberately served to Starlink users to uncover their identity and launch further surveillance efforts.",
@@ -9,6 +20,18 @@
     "pub_date": "2026-10-29T03:05:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/tdJehZYyUB9RY3HogJY22n-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/claude-smart-reports-anthropic-ai-worker-overview",
+    "title": "Claudes new smart reports tell bosses when workers are off-topic",
+    "description": "Anthropic has announced new Claude reporting tools, allowing employers to see exactly how their employees are using the AI tool.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T03:04:35+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/06poZ7rqt1vP8DAUkHMj7xP/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
@@ -328,7 +351,6 @@
     "title": "Reddit Is Adding ‘For You’ and ‘Following’ Feeds",
     "description": "The new feeds, similar to those used on TikTok, are rolling out worldwide.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-28T23:21:03+00:00",
@@ -2268,27 +2290,5 @@
     "pub_date": "2026-10-28T17:10:09+00:00",
     "image_url": "https://www.engadget.com/img/gallery/fake-ps5-emulators-on-github-are-spreading-password-stealing-malware/l-intro-1793207317.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/a-security-flaw-in-these-widely-used-barcode-scanners-could-open-up-warehouses-and-stores-to-cyberattack",
-    "title": "A security flaw in these widely used barcode scanners could open up warehouses and stores to cyberattack",
-    "description": "A simple barcode scanner could be the gateway to a large-scale cyberattack, Kaspersky is warning.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-28T17:10:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/4ZfeZkmNTqyXyHPQxVPADT-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/tablets/ipad/new-ipad-mini-preorders-are-live-where-to-find-the-best-deals-trade-in-offers-and-freebies-with-apples-latest-tablet",
-    "title": "New iPad mini preorders are live — where to find the best deals, trade-in offers and freebies with Apple's latest tablet",
-    "description": "The new iPad Mini is now available to preorder ahead of launch on November 6, so I've gathered together where Apple's latest tablet is available to buy, including all of the best deals, trade-in discounts, and freebies from retailers.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T17:10:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/AMdU9pkoMJWBUUHcPF8q6Y-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
