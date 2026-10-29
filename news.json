@@ -1,5 +1,86 @@
 [
   {
+    "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+    "title": "AI has come for Arizona’s water",
+    "description": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-29T10:00:04+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268658_Data_center_AZ_LEDE_VOSSS50.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/oct-29-sony-headphones-deal",
+    "title": "Amazon just knocked over $50 off Sonys budget-friendly WH-CH730N headphones",
+    "description": "Find the best headphones deal. Save 29% on the Sony WH-CH730N headphones at Amazon.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T09:56:13+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/0500kLc4MpvvXYXwdEZVdJt/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/life/oct-27-pokemon-tcg-30th-celebration-elite-trainer-box-deal",
+    "title": "The Pokémon TCG 30th Celebration Elite Trainer Box is back under market price at Amazon — buy for $59.99",
+    "description": "Get the best Pokémon TCG deal. The Pokémon TCG 30th Celebration Elite Trainer Box is $59.99 at Amazon (under market price).",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T09:52:43+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/06Jf38IuQdgImlqT0HD8Ahc/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/macbooks/heres-the-secret-behind-the-return-of-the-illuminated-apple-logo-on-the-back-of-the-new-touchscreen-macbook-pro",
+    "title": "Here's the secret behind the return of the illuminated Apple logo on the back of the new touchscreen MacBook Pro",
+    "description": "The glowing Apple logo has returned to the back of the MacBook Pro, but how does it glow? Now we know.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T09:52:22+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/jZkg82QkZGH7eNs4toS5KX-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261029/p15#a261029p15",
+    "title": "Apple's touchscreen MacBook Pro is designed for the iPad generation, with an optimized macOS, and the company is right to move on from Steve Jobs' skepticism (Federico Viticci/MacStories)",
+    "description": "Federico Viticci / MacStories:\nApple's touchscreen MacBook Pro is designed for the iPad generation, with an optimized macOS, and the company is right to move on from Steve Jobs' skepticism  —  Ever since I got my hands on the very first iPad Pro all the way back in November 2015, I've gotten used to a certain type …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T09:50:02+00:00",
+    "image_url": "http://www.techmeme.com/261029/i15.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/law-firm-linked-to-elon-musk-started-an-election-integrity-organization/",
+    "title": "Law Firm Linked to Elon Musk Started an ‘Election Integrity’ Organization",
+    "description": "The firm that helped set up Elon Musk’s America PAC is behind the new group, which will work with election officials to pursue policies aligned with Donald Trump’s false election fraud claims.",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-29T09:45:00+00:00",
+    "image_url": "https://media.wired.com/photos/6adf9665ae47ffa8435ebbf6/master/pass/GettyImages-2207247570.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://mashable.com/life/google-holiday-gifting-shopping-guide-when-to-buy",
+    "title": "Googles new holiday shopping guide reveals exactly when prices drop — 10 things every shopper should know",
+    "description": "Google analyzed millions of retail searches and discount trends to reveal exactly when holiday gift prices drop. Here is when to buy.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T09:44:13+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00E1m3Yl6c9rFpsZTIlB5Zi/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/muray-raises-7-1m-muon-imaging",
     "title": "Hamburg’s MuRay raises €7.1M for muon imaging of rocket engines",
     "description": "Hamburg startup MuRay has raised €7.1M to look inside dense metal parts, such as 3D-printed rocket engines and gas turbines. It does this with muons, tiny particles that pass through materials that block X-rays. The total combines a €3.5M private round with €3.6M in public funding, including a grant from the EU’s Horizon Europe research",
@@ -214,6 +295,7 @@
     "title": "I found a smart reason to buy Apple’s touchscreen MacBook, and it’s Xcode",
     "description": "Apple's $2,899 touchscreen MacBook Pro might be a tough sell, but a clever Xcode demonstration shows how its touch display could make testing iPhone apps considerably more intuitive.",
     "categories": [
+      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-29T08:59:43+00:00",
@@ -235,7 +317,7 @@
   },
   {
     "link": "https://www.techradar.com/gaming/playstation-pulse-ps5-wireless-headset-pre-orders-stock",
-    "title": "Sony's new PlayStation Pulse PS5 headset is up for pre-order today — these are the links I'd bookmark now",
+    "title": "Sony's new PlayStation Pulse PS5 headset is up for pre-order today — here's where to buy in the US and the UK",
     "description": "Our article with all the key info and the best links for the new PlayStation Pulse Wireless PS5 headset is ideal if you're considering a pre-order.",
     "categories": [
       "Gaming"
@@ -472,17 +554,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.wired.com/story/nzxt-discount-code/",
-    "title": "NZXT Discount Codes: 50% Off in November 2026",
-    "description": "Save 50%, plus up to $250 with NZXT promo codes and discounts.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/norton-coupon-code/",
     "title": "Norton Coupon Codes: Up to 58% Off",
     "description": "Whether you’re looking to protect your small business or your personal computer, we have the top coupons and deals to help you save at Norton.",
@@ -524,6 +595,17 @@
     ],
     "pub_date": "2026-10-29T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/nzxt-discount-code/",
+    "title": "NZXT Discount Codes: 50% Off in November 2026",
+    "description": "Save 50%, plus up to $250 with NZXT promo codes and discounts.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
     "source_name": "WIRED.COM"
   },
   {
@@ -2181,86 +2263,5 @@
     "pub_date": "2026-10-28T18:56:34+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-pro-wallpaper.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/github-universe-copilot-fusion-octoverse-agents",
-    "title": "GitHub launches Copilot Fusion as agents start 40% of pull requests",
-    "description": "GitHub launched Copilot Fusion at GitHub Universe, its developer conference, on Wednesday. The system decides which AI model, or mix of models, should handle each step of a coding task. It weighs what the task needs across reasoning, code generation, debugging and tool use. Jay Parikh, executive vice president of CoreAI at Microsoft, described it",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-28T18:50:35+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/github-universe-2026-mona-octocat-graphic.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
-    "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-    "description": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-28T18:47:27+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/a-top-shelf-macbook-pro-proled-xdr-can-be-yours-for-just-under-15000/",
-    "title": "A top-shelf MacBook Pro PROLED XDR can be yours for just under $15,000",
-    "description": "For nearly $15,000, you can get the 16-inch version of the laptop with a nano-texture glass layer on the screen to reduce reflections and glare, 16TB storage, 128GB RAM, and M5 Max chip.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-28T18:46:59+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/macbook-pro-cost.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.zdnet.com/tech/amazon-alexa-photo-frame/",
-    "title": "Amazon’s new Alexa Photo Frame could have what I’ve been missing – here’s why",
-    "description": "You can ask Amazon’s voice assistant to show you your favorite photos.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T18:46:45+00:00",
-    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Amazon-Alexa-Photo-Frame.jpg",
-    "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/genoa-juventus-serie-a-2026-live-stream-for-free",
-    "title": "How to watch Genoa vs. Juventus online for free",
-    "description": "How to watch Serie A for free. Live stream Genoa vs. Juventus in Serie A for free from anywhere in the world.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T18:41:05+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06KhjWZjC0TEkM0lqbRd2Yp/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/how-much-a-maxed-out-touchscreen-macbook-pro-with-proled-xdr-display-will",
-    "title": "Heres how much a maxed-out touchscreen MacBook Pro will cost you",
-    "description": "The most expensive model of the new touchscreen MacBook Pro will cost more than you've probably ever spent on a laptop.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T18:40:56+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05rHnfnuCv5G3e9EjJfGDpN/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-    "title": "Microsoft is ending Copilot support on smart TVs",
-    "description": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung,",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-28T18:36:26+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
