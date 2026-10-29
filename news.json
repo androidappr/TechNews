@@ -1,5 +1,78 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+    "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+    "description": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-29T18:45:31+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2301452/dont-expect-more-assassins-creed-remakes-anytime-soon/",
+    "title": "Don't expect more Assassin's Creed remakes anytime soon",
+    "description": "Ubisoft shared some updates on the franchise, including confirmation of a New Game+ option for Assassin's Creed Valhalla.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-10-29T18:40:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/dont-expect-more-assassins-creed-remakes-anytime-soon/l-intro-1793298942.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+    "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+    "description": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-29T18:39:43+00:00",
+    "image_url": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/pass/102726-department-of-defense-ai-agent.gif",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/intels-6w-moon-lake-chips-could-make-budget-laptops-cooler-quieter-and-more-efficient-at-a-cost/",
+    "title": "Intel’s 6W Moon Lake chips could make budget laptops cooler, quieter, and more efficient at a cost",
+    "description": "Intel’s rumored 6W Moon Lake processors could make budget laptops cooler, quieter, and more power-efficient, but there’s a catch for demanding users.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T18:37:23+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/01/wedding-40.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/marvell-lumentum-deal-talks-bloomberg",
+    "title": "Marvell nears a deal to buy Nvidia-backed Lumentum, Bloomberg reports",
+    "description": "Chipmaker Marvell Technology is in advanced talks to buy Lumentum, which makes the lasers that move data between AI chips. Marvell would likely pay in shares, and the companies could announce a deal as soon as next week, according to Bloomberg. Ryan Gould, Michelle F. Davis and David Carnevali reported the talks for Bloomberg on",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-29T18:35:45+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/matt-murphy-marvell-ceo-portrait.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.cnet.com/home/kitchen-and-household/doordash-acquire-instacart-17b/",
+    "title": "DoorDash Plans to Acquire Grocery Delivery Service Instacart in $17B Deal",
+    "description": "When the deal is complete, both companies are expected to continue operating separately.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T18:30:41+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/doordash-instacart.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261029/p43#a261029p43",
     "title": "Utah files 14 criminal charges against Kalshi and its co-founders Tarek Mansour and Luana Lopes Lara for allegedly breaking Utah's gambling laws (Andy Larsen/Salt Lake Tribune)",
     "description": "Andy Larsen / Salt Lake Tribune:\nUtah files 14 criminal charges against Kalshi and its co-founders Tarek Mansour and Luana Lopes Lara for allegedly breaking Utah's gambling laws  —  The state of Utah has filed 14 criminal charges, including 13 felony counts, against the prediction market site Kalshi and its co-founders …",
@@ -10,6 +83,20 @@
     "pub_date": "2026-10-29T18:30:03+00:00",
     "image_url": "http://www.techmeme.com/261029/i43.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+    "title": "Report: Trump did nothing with intel that China planted spy close to Nvidia CEO",
+    "description": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-29T18:29:12+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298607192-1024x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://thenextweb.com/news/furiosaai-series-d-620m-2-9bn-valuation",
@@ -107,6 +194,18 @@
     "pub_date": "2026-10-29T18:05:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/f3ndAhPtpLWkUorZzcc499-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+    "title": "Turning a solar power system into its own backup",
+    "description": "Plant design allows it to run on either stored solar heat or combustion.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-29T18:02:26+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-2-1152x648.jpeg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://9to5mac.com/2026/10/29/ios-27-2-adds-new-video-feature-thats-perfect-for-iphone-duo/",
@@ -342,6 +441,18 @@
     "source_name": "TECHRADAR.COM"
   },
   {
+    "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+    "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+    "description": "Charges filed as Trump admin tries to save Kalshi from Utah's total ban on gambling.",
+    "categories": [
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-29T17:21:33+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
     "link": "https://www.techradar.com/phones/iphone/t-mobiles-iphone-duo-deal-has-just-gotten-even-better-the-device-is-now-up-to-usd1-200-off-with-a-line-or-trade",
     "title": "T-Mobile's iPhone Duo deal has just gotten even better — the device is now up to $1,200 off with a line or trade",
     "description": "Even with heavy backorders, T-Mobile's deal on the iPhone Duo has just been improved significantly",
@@ -567,6 +678,19 @@
     "pub_date": "2026-10-29T16:25:01+00:00",
     "image_url": "http://www.techmeme.com/261029/i38.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+    "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+    "description": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-29T16:24:55+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://thenextweb.com/news/dhs-leak-icepick-41000-employees-ice-cbp",
@@ -1066,8 +1190,7 @@
     "title": "The NYT Cooking app is testing AI recipe modifications",
     "description": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-29T14:39:37+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NYT-Cooking-AI-recipe-modification-feature-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
@@ -1079,7 +1202,6 @@
     "description": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Software & Apps"
     ],
     "pub_date": "2026-10-29T14:35:26+00:00",
@@ -1179,19 +1301,6 @@
     "source_name": "THENEXTWEB.COM"
   },
   {
-    "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-    "title": "Anthropic is asking Wall Street to believe in AGI",
-    "description": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Social & Media"
-    ],
-    "pub_date": "2026-10-29T14:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_DCD_anthropic_IPO.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
     "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
     "description": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
@@ -1204,6 +1313,19 @@
     "pub_date": "2026-10-29T14:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6ae34b392cfd29b998d6a112/master/pass/Business_Mistral%20Says%20Its%20%E2%80%98Le%20Chonk%E2%80%99%20Model%20Can%20Outperform%20Top%20Chinese%20Models%20in%20Coding%20and%20Cybersecurity_v3.jpg",
     "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+    "title": "Anthropic is asking Wall Street to believe in AGI",
+    "description": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-29T14:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_DCD_anthropic_IPO.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.techradar.com/pro/security/fbi-leads-action-to-shut-down-virtualine-bulletproof-service-linked-to-major-cybercrime-activity",
@@ -1313,6 +1435,7 @@
     "title": "DoorDash to acquire Instacart for $17B",
     "description": "The acquisition would bring two major players in on-demand delivery under one roof, combining DoorDash’s dominance in restaurant takeout with Instacart’s reach in grocery delivery.",
     "categories": [
+      "Breaking News",
       "Software & Apps"
     ],
     "pub_date": "2026-10-29T13:40:57+00:00",
@@ -2202,122 +2325,5 @@
     "pub_date": "2026-10-29T10:02:43+00:00",
     "image_url": "http://www.techmeme.com/261029/i16.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/nasdaq-futures-alphabet-microsoft-results-ai-spending",
-    "title": "Nasdaq futures fall as Alphabet slides and Microsoft rises on results",
-    "description": "US tech stocks were set to open lower on Thursday after mixed results from Alphabet and Microsoft. Investors are weighing how much Big Tech spends on AI against how quickly that spending pays off. Nasdaq 100 futures were down 1.2% early on Thursday, Reuters reported. S&P 500 futures fell 0.4%, while Dow futures rose 0.35%, as",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T10:01:06+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/nasdaq-sign-times-square-nypd-street.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
-    "title": "AI has come for Arizona’s water",
-    "description": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one",
-    "categories": [
-      "AI & Machine Learning",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-29T10:00:04+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268658_Data_center_AZ_LEDE_VOSSS50.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
-    "title": "I Gave My Blood to the AI Death Clock",
-    "description": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
-    "categories": [
-      "AI & Machine Learning",
-      "Science & Environment",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-29T10:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/review/reencle-essential-electric-composter/",
-    "title": "Reencle Essential Review: Same Scraps, Lower Price",
-    "description": "Reencle has made your favorite kitchen composter cheaper—with a few compromises.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-29T10:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-29-microsoft-office-2024-professional-plus",
-    "title": "Get 6 Microsoft Office apps for life for just $50",
-    "description": "Secure Microsoft Office staples and new favorites permanently with this affordable lifetime license to Microsoft Office 2024 Professional Plus for Windows",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T10:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00vQbtsKhPpzeRIWM4P8912/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-29-ecoflow-delta-3-max-power-station-deal",
-    "title": "Amazon has slashed the price of the EF EcoFlow Delta 3 Max power station before Black Friday — save $450.01",
-    "description": "Get the best portable power station deal. Save 20% on the EF EcoFlow Delta 3 Max at Amazon.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T09:58:55+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05h3gErM7YkXwjNlbESiqai/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oct-29-sony-headphones-deal",
-    "title": "Amazon just knocked over $50 off Sonys budget-friendly WH-CH730N headphones",
-    "description": "Find the best headphones deal. Save 29% on the Sony WH-CH730N headphones at Amazon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T09:56:13+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/0500kLc4MpvvXYXwdEZVdJt/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/macbooks/heres-the-secret-behind-the-return-of-the-illuminated-apple-logo-on-the-back-of-the-new-touchscreen-macbook-pro",
-    "title": "Here's the secret behind the return of the illuminated Apple logo on the back of the new touchscreen MacBook Pro",
-    "description": "The glowing Apple logo has returned to the back of the MacBook Pro, but how does it glow? Now we know.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T09:52:22+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/jZkg82QkZGH7eNs4toS5KX-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261029/p15#a261029p15",
-    "title": "Apple's touchscreen MacBook Pro is designed for the iPad generation, with an optimized macOS, and the company is right to move on from Steve Jobs' skepticism (Federico Viticci/MacStories)",
-    "description": "Federico Viticci / MacStories:\nApple's touchscreen MacBook Pro is designed for the iPad generation, with an optimized macOS, and the company is right to move on from Steve Jobs' skepticism  —  Ever since I got my hands on the very first iPad Pro all the way back in November 2015, I've gotten used to a certain type …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T09:50:02+00:00",
-    "image_url": "http://www.techmeme.com/261029/i15.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/law-firm-linked-to-elon-musk-started-an-election-integrity-organization/",
-    "title": "Law Firm Linked to Elon Musk Started an ‘Election Integrity’ Organization",
-    "description": "The firm that helped set up Elon Musk’s America PAC is behind the new group, which will work with election officials to pursue policies aligned with Donald Trump’s false election fraud claims.",
-    "categories": [
-      "Government & Policy"
-    ],
-    "pub_date": "2026-10-29T09:45:00+00:00",
-    "image_url": "https://media.wired.com/photos/6adf9665ae47ffa8435ebbf6/master/pass/GettyImages-2207247570.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
