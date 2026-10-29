@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://www.techmeme.com/261029/p31#a261029p31",
+    "title": "Thrive Holdings agrees to acquire ADT in an all-cash take-private deal, valuing ADT at ~$7.6B in equity value, a ~46% premium over its October 27 closing price (Claire Rychlewski/Axios)",
+    "description": "Claire Rychlewski / Axios:\nThrive Holdings agrees to acquire ADT in an all-cash take-private deal, valuing ADT at ~$7.6B in equity value, a ~46% premium over its October 27 closing price  —  Thrive Holdings has agreed to acquire ADT in an all-cash take-private, valuing the home security company at $15.3 billion in enterprise value, the companies announced today.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T14:40:03+00:00",
+    "image_url": "http://www.techmeme.com/261029/i31.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+    "title": "The NYT Cooking app is testing AI recipe modifications",
+    "description": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it's sparked some drama among users. NYT Cooking senior editor Genevieve Ko announced the feature last Friday, which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any number",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-29T14:39:37+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NYT-Cooking-AI-recipe-modification-feature-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+    "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+    "description": "On Thursday, AI app, Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-29T14:35:26+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261029/p30#a261029p30",
     "title": "Mistral releases the weights for Mistral Large 4, or Le Chonk, and says it rivals top open models such as GLM-5.3 on the Artificial Analysis Coding Agent Index (Radhika Rajkumar/ZDNET)",
     "description": "Radhika Rajkumar / ZDNET:\nMistral releases the weights for Mistral Large 4, or Le Chonk, and says it rivals top open models such as GLM-5.3 on the Artificial Analysis Coding Agent Index  —  Mistral has released the weights for Large 4, along with some impressive Artificial Analysis scores.  —  ZDNET's key takeaways",
@@ -14,7 +50,7 @@
   {
     "link": "https://www.theverge.com/gadgets/1022103/ocarina-of-time-remake-apple-mac-mini-ssd-hdmi-dock-deal-sale",
     "title": "There’s one week left to preorder the Ocarina of Time remake for $10 off",
-    "description": "The long-awaited remake of The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 launches next Thursday, November 5th. In other words, you have a week remaining to secure your physical edition with a $10 discount at Amazon and Walmart. Once the game launches, the cartridge-based version will almost certainly go from $59.99",
+    "description": "The long-awaited remake of The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 launches next Thursday, November 5th. In other words, you have a week remaining to secure your physical edition with a $10 discount at Amazon and Walmart. Once the game launches, the physical version will almost certainly go from $59.99 to",
     "categories": [
       "Gadgets & Hardware"
     ],
@@ -956,7 +992,6 @@
     "description": "Anthropic and OpenAI say they’ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like “overexcited bunnies” as they look at new questions to explore.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-10-29T10:45:00+00:00",
@@ -990,7 +1025,6 @@
     "title": "Epic Games says it is using AI tools to \"develop code and features\" for Unreal Engine, including core engine components like the D3D12 rendering layer (Jamie Hore/This Week in Videogames)",
     "description": "Jamie Hore / This Week in Videogames:\nEpic Games says it is using AI tools to “develop code and features” for Unreal Engine, including core engine components like the D3D12 rendering layer  —  In Brief: Following CEO Tim Sweeney's announcement of a “huge pivot” towards AI tools, Epic Games has confirmed that AI tools …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-29T10:35:01+00:00",
@@ -2258,39 +2292,5 @@
     "pub_date": "2026-10-28T23:21:03+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/reddit-feed-color.jpg",
     "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
-    "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
-    "description": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
-    "categories": [
-      "Business & Startups",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-28T23:15:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/1903-vs-today-how-we-watch-the-world-series",
-    "title": "How did we get here? The evolution of MLB broadcasts",
-    "description": "Explore how World Series broadcasts evolved from 1903 telegraphs to modern multi-camera telecasts loaded with live telemetry.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T23:14:03+00:00",
-    "image_url": "https://cdn.ex.co/transformations-account/production/a0be6317-e085-43f9-8cb5-7b125d25af4b/59948b6f-783b-5038-993f-9b5911c2b47d/master.m3u8",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/one-step-closer-to-the-terminator-experts-reveal-robot-with-real-muscles-strong-enough-to-jump-swim-and-grasp",
-    "title": "One step closer to the Terminator? Experts reveal robot with 'real muscles' strong enough to jump, swim and grasp",
-    "description": "Researchers have developed tissue-based muscle actuators that can enable robots to jump, swim, and grasp",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T23:10:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/8vLsLeC4LHKgwTpJRXEWKZ-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
