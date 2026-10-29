@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.digitaltrends.com/computing/doordash-is-acquiring-instacart-for-you-that-means-one-less-subscription-eventually/",
+    "title": "Doordash is acquiring Instacart. For you, that means one less subscription, eventually.",
+    "description": "For an average customer, there are a couple of tangible benefits. First, DashPass and Instacart+ are getting merged into a single subscription.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T13:01:55+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/doodash-instacart-scaled.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/mistral-large-4-open-weights-release",
+    "title": "Mistral releases open weights for its 1 trillion-parameter Large 4 model",
+    "description": "Mistral has released the weights of Mistral Large 4, the 1 trillion-parameter model it previewed three weeks ago, and the version now on Hugging Face is noticeably sharper. The Paris-based company says three extra weeks of reinforcement learning, guided by customer feedback, have made ML4 the strongest open model for agentic coding and cyber defence.",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-10-29T13:00:37+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/mistral-logo-orange-red-white-pixel-grid.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
     "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
     "description": "Deepgram said that it is committed to keep Pipecat open source.",
@@ -993,7 +1016,6 @@
     "title": "A profile of Nscale CEO Josh Payne, who is proceeding with plans for a US IPO that sources say is targeting a $30B valuation despite some investor pushback (Mark Bergen/Bloomberg)",
     "description": "Mark Bergen / Bloomberg:\nA profile of Nscale CEO Josh Payne, who is proceeding with plans for a US IPO that sources say is targeting a $30B valuation despite some investor pushback  —  Sheryl Sandberg says the 32-year-old executive reminds her of Mark Zuckerberg.  Josh Payne must now take his startup public at a tumultuous moment for the AI industry.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-29T09:02:10+00:00",
@@ -2251,28 +2273,5 @@
     "pub_date": "2026-10-28T21:29:09+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/00fKnfzwrGRXm6ZCvOIYI41/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-    "description": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-28T21:25:30+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261028/p52#a261028p52",
-    "title": "ServiceNow reports Q3 subscription revenue up 21% YoY to $3.99B, forecasts Q4 current remaining performance obligations below est.; NOW drops 15%+ after hours (Brody Ford/Bloomberg)",
-    "description": "Brody Ford / Bloomberg:\nServiceNow reports Q3 subscription revenue up 21% YoY to $3.99B, forecasts Q4 current remaining performance obligations below est.; NOW drops 15%+ after hours  —  ServiceNow Inc. shares plunged after the company gave an outlook for quarterly subscription sales that met analysts' estimates …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T21:25:09+00:00",
-    "image_url": "http://www.techmeme.com/261028/i52.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
