@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.techradar.com/pro/navigating-the-new-normal-ai-powered-exploits-and-discovery",
+    "title": "Navigating the 'new normal':  AI-powered exploits and discovery",
+    "description": "AI is challenging the rules of vulnerability management, making speed of discovery a critical security challenge.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T10:11:14+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261029/p16#a261029p16",
+    "title": "Vladimir Putin praises Elon Musk as a \"real genius\" and says Russia is in \"close contact\" with Musk and the US to coordinate Rassvet and Starlink satellites (Kali Hays/BBC)",
+    "description": "Kali Hays / BBC:\nVladimir Putin praises Elon Musk as a “real genius” and says Russia is in “close contact” with Musk and the US to coordinate Rassvet and Starlink satellites  —  Elon Musk is a “real genius”, Russian President Vladimir Putin said on Wednesday after revealing the two are in …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T10:02:43+00:00",
+    "image_url": "http://www.techmeme.com/261029/i16.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/nasdaq-futures-alphabet-microsoft-results-ai-spending",
+    "title": "Nasdaq futures fall as Alphabet slides and Microsoft rises on results",
+    "description": "US tech stocks were set to open lower on Thursday after mixed results from Alphabet and Microsoft. Investors are weighing how much Big Tech spends on AI against how quickly that spending pays off. Nasdaq 100 futures were down 1.2% early on Thursday, Reuters reported. S&P 500 futures fell 0.4%, while Dow futures rose 0.35%, as",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T10:01:06+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/nasdaq-sign-times-square-nypd-street.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
     "title": "AI has come for Arizona’s water",
     "description": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one",
@@ -11,6 +46,31 @@
     "pub_date": "2026-10-29T10:00:04+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268658_Data_center_AZ_LEDE_VOSSS50.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+    "title": "I Gave My Blood to the AI Death Clock",
+    "description": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Science & Environment",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-29T10:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/review/reencle-essential-electric-composter/",
+    "title": "Reencle Essential Review: Same Scraps, Lower Price",
+    "description": "Reencle has made your favorite kitchen composter cheaper—with a few compromises.",
+    "categories": [
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-29T10:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+    "source_name": "WIRED.COM"
   },
   {
     "link": "https://mashable.com/tech/oct-29-sony-headphones-deal",
@@ -445,7 +505,6 @@
     "title": "A profile of Tencent Cloud CEO Dowson Tong, who is shifting Tencent's AI focus toward businesses and betting on its Claude Cowork-style assistant WorkBuddy (Bloomberg)",
     "description": "Bloomberg:\nA profile of Tencent Cloud CEO Dowson Tong, who is shifting Tencent's AI focus toward businesses and betting on its Claude Cowork-style assistant WorkBuddy  —  When Pony Ma called Tencent Holdings Ltd.'s AI endeavor “a leaky ship” this summer, the billionaire founder sent ripples through …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-29T06:15:01+00:00",
@@ -457,7 +516,6 @@
     "title": "Bluesky blocks links to a leaked archive containing personal data of 41,000+ DHS employees and contractors, saying it was \"shared without their authorization\" (Wired)",
     "description": "Wired:\nBluesky blocks links to a leaked archive containing personal data of 41,000+ DHS employees and contractors, saying it was “shared without their authorization”  —  Bluesky tells WIRED it blocked links to a leaked archive of information on 41,000 ICE, CBP, and other DHS workers …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-29T06:05:01+00:00",
@@ -469,7 +527,6 @@
     "title": "National Student Clearinghouse: US computer science enrollment fell 12%+ for undergrads and 10%+ for grad students this fall, as AI reduces coding jobs (Elizabeth Rembert/Bloomberg)",
     "description": "Elizabeth Rembert / Bloomberg:\nNational Student Clearinghouse: US computer science enrollment fell 12%+ for undergrads and 10%+ for grad students this fall, as AI reduces coding jobs  —  Computer and information science departments at US colleges saw an exodus of students this fall, with enrollment declining more than 12% …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-29T06:02:01+00:00",
@@ -554,6 +611,17 @@
     "source_name": "TECHMEME.COM"
   },
   {
+    "link": "https://www.wired.com/story/nzxt-discount-code/",
+    "title": "NZXT Discount Codes: 50% Off in November 2026",
+    "description": "Save 50%, plus up to $250 with NZXT promo codes and discounts.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.wired.com/story/norton-coupon-code/",
     "title": "Norton Coupon Codes: Up to 58% Off",
     "description": "Whether you’re looking to protect your small business or your personal computer, we have the top coupons and deals to help you save at Norton.",
@@ -598,17 +666,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.wired.com/story/nzxt-discount-code/",
-    "title": "NZXT Discount Codes: 50% Off in November 2026",
-    "description": "Save 50%, plus up to $250 with NZXT promo codes and discounts.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/dermstore-promo-code/",
     "title": "Dermstore Coupons: 25% Off for November 2026",
     "description": "Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.",
@@ -631,6 +688,17 @@
     "source_name": "WIRED.COM"
   },
   {
+    "link": "https://www.wired.com/story/petlibro-discount-code/",
+    "title": "Petlibro Offers: 30% Off in November 2026",
+    "description": "Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T05:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.wired.com/story/skullcandy-discount-code/",
     "title": "Skullcandy Discount Code: 30% Off | November 2026",
     "description": "Save on today’s top Skullcandy Promo Codes for Crusher Evo headphones, 36% off Crusher ANC 2 noise-canceling headphones, and more with amazing deals.",
@@ -650,17 +718,6 @@
     ],
     "pub_date": "2026-10-29T05:00:00+00:00",
     "image_url": "https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/petlibro-discount-code/",
-    "title": "Petlibro Offers: 30% Off in November 2026",
-    "description": "Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
     "source_name": "WIRED.COM"
   },
   {
@@ -2207,61 +2264,5 @@
     "pub_date": "2026-10-28T18:59:22+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/sony-prism-collection-ps5.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.zdnet.com/tech/apples-new-touchscreen-macbook-pros-may-be-late-but-they-have-one-big-advantage/",
-    "title": "Apple’s new touchscreen MacBook Pros may be late, but they have one big advantage",
-    "description": "Apple finally revealed its new MacBook M5 Pro and Max with a touchscreen OLED display, bringing the best features from the iPhone to its laptops.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T18:58:25+00:00",
-    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/macbook-pro-m5-max.jpg",
-    "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/m6-macbook-pro-price-problem/",
-    "title": "The New M6 MacBook Pro Has a Serious Price Problem",
-    "description": "For $1,999, you could own an M6 Mac Mini and an M5 MacBook Air instead, both of which are on sale right now.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-28T18:57:22+00:00",
-    "image_url": "https://media.wired.com/photos/6ae217bc6d6203230c9f52b5/master/pass/macbook%20pro%20m6%20deals%20post%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.theverge.com/policy/1021165/fcc-brendan-carr-prison-phone-jamming",
-    "title": "Brendan Carr plans to let prisons jam cellphone signals",
-    "description": "FCC Chairman Brendan Carr announced the agency will vote on November 19th on rules that would allow prisons to use signal jamming. Radiofrequency jammers are generally banned under Section 333 and the Communications Act of 1934, with few exceptions, and Carr has noted they've been permitted for use at some federal facilities already. Carr claims",
-    "categories": [
-      "Breaking News",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-10-28T18:57:02+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS513_FCC_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.zdnet.com/tech/discord-servers-searchable-on-web/",
-    "title": "Your public Discord messages may soon appear in Google search results – how to opt out",
-    "description": "Discord announced a new feature that can make your server messages discoverable on Google. Here’s how to opt out.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T18:56:53+00:00",
-    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1244516861.jpg",
-    "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/28/download-the-new-macbook-pro-with-proled-xdr-display-wallpaper/",
-    "title": "Download the new MacBook Pro with PROLED XDR Display wallpaper",
-    "description": "If you’re a fan of the default wallpaper for the new MacBook Pro with PROLED XDR Display, Basic Apple Guy has got your back.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T18:56:34+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-pro-wallpaper.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
