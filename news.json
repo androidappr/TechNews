@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.digitaltrends.com/computing/googles-gemini-can-now-make-complex-topics-more-fun-with-interactive-visual-explorations/",
+    "title": "Google’s Gemini can now make complex topics more fun with interactive visual explorations",
+    "description": "Google's Gemini app now offers Immersive Explorations, an interactive learning feature that lets you explore subjects like ancient trade routes, jet engines, and lightning through layered visual explanations.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-29T02:28:07+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/google-gemini-immersive-exploration.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+    "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+    "description": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop would be a surprise, because no",
+    "categories": [
+      "Gadgets & Hardware",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-29T02:22:46+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-BlueChip-InField-5-Web.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261028/p63#a261028p63",
     "title": "Google is rolling out Gemini 4 Carbon to selected cybersecurity defenders through Fairwind at $2/1M input and $10/1M output tokens, rising to $4 and $20 later (Carl Franzen/VentureBeat)",
     "description": "Carl Franzen / VentureBeat:\nGoogle is rolling out Gemini 4 Carbon to selected cybersecurity defenders through Fairwind at $2/1M input and $10/1M output tokens, rising to $4 and $20 later  —  Google announced its latest and most intelligent frontier AI model today: Gemini 4 Carbon promises improvements in cybersecurity …",
@@ -2278,27 +2302,5 @@
     "pub_date": "2026-10-28T17:05:56+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-lifestyle-remote-work-261028.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/google-is-letting-claude-and-codex-into-android-studio-and-that-changes-everything/",
-    "title": "Google is letting Claude and Codex into Android Studio, and that changes everything",
-    "description": "Google’s Android Studio now supports over 40 AI coding agents, including Claude and Codex, while new tools promise faster debugging and reviews.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-28T17:03:46+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/09/Android-17-mascot-on-Pixel-11-Pro-XLs-screen-scaled.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
-    "title": "Xreal Aura is a new wired headset powered by Android XR",
-    "description": "Xreal Aura will start at $1,279 and will have multiple XR specific apps at launch.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-28T17:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
