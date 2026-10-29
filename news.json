@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://thenextweb.com/news/aircall-ceo-olivier-pailhes-returns-ai-voice-agents",
+    "title": "Aircall co-founder Olivier Pailhès returns as CEO to push AI voice agents",
+    "description": "Olivier Pailhès, who co-founded Aircall in Paris in 2014, has returned as its chief executive. He replaces Scott Chancellor and takes over a business phone company that now sells AI voice agents. Aircall announced the change on Thursday in a press release. Pailhès was Aircall CEO from its founding until 2023 and has stayed on",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-29T18:09:55+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/olivier-pailhes-aircall-badge-graphic.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/a-new-cybercrime-campaign-uses-fake-ai-apps-with-real-sounding-names-to-infect-people-curious-to-try-the-newest-tools",
+    "title": "A new cybercrime campaign uses fake AI apps with real-sounding names to infect people curious to try the newest tools",
+    "description": "Experts warn ChatGPT and Claude are once again being spoofed to trick victims into installing a cryptocurrency miner.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-29T18:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/f3ndAhPtpLWkUorZzcc499-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/10/29/ios-27-2-adds-new-video-feature-thats-perfect-for-iphone-duo/",
     "title": "iOS 27.2 adds new video feature that’s perfect for iPhone Duo",
     "description": "iOS 27.2 launched this week with many new features, including an upgrade for the Apple TV app that’s especially perfect for iPhone Duo: Multiview.\n\n\n\n more…",
@@ -10,6 +35,40 @@
     "pub_date": "2026-10-29T18:00:43+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/upgrade-to-windows-11-pro-for-usd10-and-get-bitlocker-and-hyper-v-for-95-percent-off",
+    "title": "Upgrade to Windows 11 Pro for $10 and get BitLocker and Hyper-V for 95% off",
+    "description": "This $10 Windows 11 Pro deal offers a license key for Microsoft's OS, with extras like Bitlocker for added business security.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T18:00:06+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/vLoSnmu8jSgXsvCsvQ36XM-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261029/p42#a261029p42",
+    "title": "OpenAI updates Model Spec to reorganize it around five values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care (OpenAI)",
+    "description": "OpenAI:\nOpenAI updates Model Spec to reorganize it around five values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care  —  As our models get smarter and take more consequential actions in the world, it becomes increasingly important that they go beyond …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T18:00:01+00:00",
+    "image_url": "http://www.techmeme.com/261029/i42.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/deepgram-daily-acquisition-pipecat-open-source",
+    "title": "Deepgram buys Pipecat maker Daily and keeps the voice AI framework open",
+    "description": "Voice AI company Deepgram is buying Daily, the maker of Pipecat, an open-source framework for building voice agents. Pipecat will stay open source and free under its existing BSD V2 licence. The companies are also setting up an independent Pipecat Foundation. Deepgram announced the deal on Thursday in a blog post, on the day of",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-29T17:54:57+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/deepgram-daily-pipecat-joining-graphic.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
@@ -65,7 +124,6 @@
     "title": "Your headphones have hidden LE Audio features you’ll want to know about",
     "description": "Your JBL, Sony, or Bose Bluetooth headphones got a top-to-bottom wireless makeover — not just Auracast.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-29T17:45:05+00:00",
@@ -280,6 +338,18 @@
     "pub_date": "2026-10-29T17:01:44+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr-touch-hand.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+    "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+    "description": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-29T17:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
   },
   {
     "link": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-madame-blanc-mysteries",
@@ -865,7 +935,6 @@
     "title": "Amazon has slashed Magic: The Gatherings Star Trek Play Booster Box to a record-low preorder price — save $70",
     "description": "Amazon has cut its MTG Star Trek Play Booster Box preorder to a record-low $134.89, saving $74.81 before its Nov. 13 release.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-29T14:46:58+00:00",
@@ -877,7 +946,6 @@
     "title": "MacBook Neo education discount reduced (again!)",
     "description": "The MacBook Neo just got a little more expensive for students.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-29T14:42:46+00:00",
@@ -1013,18 +1081,6 @@
     "pub_date": "2026-10-29T14:00:15+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/hud-co-founders-may-walter-roee-adler.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-    "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-    "description": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-10-29T14:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   },
   {
     "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
@@ -1311,7 +1367,8 @@
     "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
     "description": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
     "categories": [
-      "AI & Machine Learning"
+      "AI & Machine Learning",
+      "Breaking News"
     ],
     "pub_date": "2026-10-29T13:00:00+00:00",
     "image_url": null,
@@ -1481,7 +1538,6 @@
     "title": "The education price of the MacBook Neo just jumped again",
     "description": "The MacBook Neo was already a bargain by Mac standards when it launched with a starting price of $599, but for students an education price of $499 made it a steal.\n\n\n\nSadly, that changed back in June when both retail and education prices rose by $100. Now, however, the education price has been raised even further …\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-29T12:14:11+00:00",
@@ -2065,17 +2121,6 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://www.wired.com/review/reencle-essential-electric-composter/",
-    "title": "Reencle Essential Review: Same Scraps, Lower Price",
-    "description": "Reencle has made your favorite kitchen composter cheaper—with a few compromises.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-29T10:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
     "title": "I Gave My Blood to the AI Death Clock",
     "description": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
@@ -2086,6 +2131,17 @@
     ],
     "pub_date": "2026-10-29T10:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/review/reencle-essential-electric-composter/",
+    "title": "Reencle Essential Review: Same Scraps, Lower Price",
+    "description": "Reencle has made your favorite kitchen composter cheaper—with a few compromises.",
+    "categories": [
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-29T10:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -2260,62 +2316,5 @@
     "pub_date": "2026-10-29T09:15:10+00:00",
     "image_url": "http://www.techmeme.com/261029/i13.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/samsung-record-profit-q3-2026-ai-memory",
-    "title": "Samsung posts record $80bn quarterly profit on AI memory demand",
-    "description": "Samsung Electronics made a record operating profit of 107.4 trillion won (about $80bn) in the third quarter, the company said on Thursday. Demand for the memory chips used in AI data centres kept rising. The figure confirms the preliminary results Samsung published earlier this month, when it said profit was about nine times higher than a year",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-29T09:09:00+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/samsung-illuminated-logo-store-facade.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261029/p12#a261029p12",
-    "title": "A profile of Nscale CEO Josh Payne, who is proceeding with plans for a US IPO that sources say is targeting a $30B valuation despite some investor pushback (Mark Bergen/Bloomberg)",
-    "description": "Mark Bergen / Bloomberg:\nA profile of Nscale CEO Josh Payne, who is proceeding with plans for a US IPO that sources say is targeting a $30B valuation despite some investor pushback  —  Sheryl Sandberg says the 32-year-old executive reminds her of Mark Zuckerberg.  Josh Payne must now take his startup public at a tumultuous moment for the AI industry.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T09:02:10+00:00",
-    "image_url": "http://www.techmeme.com/261029/i12.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-audio-players-kids",
-    "title": "Best audio players for kids: Screen-free entertainment for the whole family",
-    "description": "Best screen-free audio players for kids, tested by kids and their parents.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T09:00:41+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/roundups/010q4mKgm5BHx8ou3NQ4PdJ/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/astronomers-discover-a-possible-new-dwarf-planet-in-our-solar-system/",
-    "title": "Astronomers Discover a Possible New Dwarf Planet in Our Solar System",
-    "description": "Lying beyond Pluto, 2026 ED138 could be as large as 1,500 kilometers in diameter. Astronomers are still working to confirm whether it meets the criteria for a dwarf planet.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-29T09:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ae26ce6735e20536e98e3d0/master/pass/noirlab2626b.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/science/new-dwarf-planet-candidate-2026-ed138",
-    "title": "Scientists think theyve just discovered a new dwarf planet like Pluto",
-    "description": "The Vera C. Rubin Observatory discovered 2026 ED138, a dwarf planet candidate beyond Pluto. Scientists explain how it hid from them.",
-    "categories": [
-      "Breaking News",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-29T09:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07bvKBTeVcEsCuacLPeAVxf/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
