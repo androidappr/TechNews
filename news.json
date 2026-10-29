@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://www.wired.com/story/astronomers-discover-a-possible-new-dwarf-planet-in-our-solar-system/",
+    "title": "Astronomers Discover a Possible New Dwarf Planet in Our Solar System",
+    "description": "Lying beyond Pluto, 2026 ED138 could be as large as 1,500 kilometers in diameter. Astronomers are still working to confirm whether it meets the criteria for a dwarf planet.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-29T09:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ae26ce6735e20536e98e3d0/master/pass/noirlab2626b.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/i-found-a-smart-reason-to-buy-apples-touchscreen-macbook-and-its-xcode/",
+    "title": "I found a smart reason to buy Apple’s touchscreen MacBook, and it’s Xcode",
+    "description": "Apple's $2,899 touchscreen MacBook Pro might be a tough sell, but a clever Xcode demonstration shows how its touch display could make testing iPhone apps considerably more intuitive.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-29T08:59:43+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-lifestyle-scaled.jpeg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/playstation-pulse-ps5-wireless-headset-pre-orders-stock",
+    "title": "Sony's new PlayStation Pulse PS5 headset is up for pre-order today — these are the links I'd bookmark now",
+    "description": "Our article with all the key info and the best links for the new PlayStation Pulse Wireless PS5 headset is ideal if you're considering a pre-order.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-10-29T08:45:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/AwJw5BaAMJfRbeoyBVRRjB-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/amazon-devices-unit-job-cuts",
+    "title": "Amazon cuts up to 250 jobs in its devices unit, Reuters reports",
+    "description": "Amazon has cut up to 250 jobs in its devices and services unit, Reuters reported. The unit makes Kindle e-readers, Echo speakers and other hardware that runs Amazon’s Alexa assistant. The cuts mainly affected software developers, a person familiar with the matter told Reuters. Staff were told by text message and email early on Wednesday",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T08:44:19+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/amazon-logo-sign-building-facade-blue-sky.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/fujifilm-magnetic-tape-production-fivefold-ai",
     "title": "Fujifilm to raise data tape production fivefold as AI drives storage demand",
     "description": "AI data centres are creating a growing need for storage, and Fujifilm is betting that one of the oldest technologies in the business still has a place in the future. The Japanese company will invest ¥10 billion (€56 million) to increase its magnetic tape production capacity fivefold. The investment will go into Fujifilm’s factory in",
@@ -93,8 +138,8 @@
   },
   {
     "link": "https://www.techmeme.com/261029/p10#a261029p10",
-    "title": "STMicro reports Q3 revenue up 17.9% YoY to $3.76B, operating income up 98% YoY to $429M, vs. $400.5M est., and forecasts $4.15B in Q4 revenue, vs. $4.10B est. (Reuters)",
-    "description": "Reuters:\nSTMicro reports Q3 revenue up 17.9% YoY to $3.76B, operating income up 98% YoY to $429M, vs. $400.5M est., and forecasts $4.15B in Q4 revenue, vs. $4.10B est.  —  STMicroelectronics (STMPA.PA) reported a third-quarter operating profit above market expectations on Thursday …",
+    "title": "STMicro reports Q3 revenue up 17.9% YoY to $3.76B, operating income up 98% to $429M, above $400.5M est., and forecasts $4.15B in Q4 revenue, above $4.10B est. (Reuters)",
+    "description": "Reuters:\nSTMicro reports Q3 revenue up 17.9% YoY to $3.76B, operating income up 98% to $429M, above $400.5M est., and forecasts $4.15B in Q4 revenue, above $4.10B est.  —  STMicroelectronics (STMPA.PA) reported a third-quarter operating profit above market expectations on Thursday …",
     "categories": [
       "Tech News"
     ],
@@ -151,8 +196,8 @@
   },
   {
     "link": "https://www.techmeme.com/261029/p6#a261029p6",
-    "title": "Google announces the expansion of ads in AI Mode into international markets, as growth in its core search advertising business slows (Lauren Forristal/TechCrunch)",
-    "description": "Lauren Forristal / TechCrunch:\nGoogle announces the expansion of ads in AI Mode into international markets, as growth in its core search advertising business slows  —  Google is bringing ads in its AI-powered Search experiences to international markets, betting that generative AI can open up new revenue opportunities …",
+    "title": "Google plans to expand \"high-quality ads within AI Overviews in AI Mode\" into international markets, as growth in its core search ad business slows (Lauren Forristal/TechCrunch)",
+    "description": "Lauren Forristal / TechCrunch:\nGoogle plans to expand “high-quality ads within AI Overviews in AI Mode” into international markets, as growth in its core search ad business slows  —  Google is bringing ads in its AI-powered Search experiences to international markets, betting that generative AI can open …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -163,8 +208,8 @@
   },
   {
     "link": "https://www.techmeme.com/261029/p5#a261029p5",
-    "title": "Samsung shares fall as much as 6.6% as a lack of a new shareholder return plan, higher capex, and its chip unit's profit miss weigh on investor sentiment (Bloomberg)",
-    "description": "Bloomberg:\nSamsung shares fall as much as 6.6% as a lack of a new shareholder return plan, higher capex, and its chip unit's profit miss weigh on investor sentiment  —  Samsung Electronics Co. shares reversed earlier gains to slide as much as 6.6% as the lack of a new shareholder return plan in its earnings disappointed investors.",
+    "title": "Samsung's shares fall up to 6.6%, as a lack of a new shareholder return plan, higher capex, and its chip unit's Q3 profit miss weigh on investor sentiment (Bloomberg)",
+    "description": "Bloomberg:\nSamsung's shares fall up to 6.6%, as a lack of a new shareholder return plan, higher capex, and its chip unit's Q3 profit miss weigh on investor sentiment  —  Samsung Electronics Co. shares reversed earlier gains to slide as much as 6.6% as the lack of a new shareholder return plan in its earnings disappointed investors.",
     "categories": [
       "Tech News"
     ],
@@ -174,8 +219,8 @@
   },
   {
     "link": "https://www.techmeme.com/261029/p4#a261029p4",
-    "title": "Samsung expects capex to rise ~60% to ~$63B this year, with HBM capacity sold out through 2027 and 10 long-term supply deals secured with key customers (Bloomberg)",
-    "description": "Bloomberg:\nSamsung expects capex to rise ~60% to ~$63B this year, with HBM capacity sold out through 2027 and 10 long-term supply deals secured with key customers  —  Samsung Electronics Co. plans to hike spending more than 60% this year after selling out of high-end chips for 2027 …",
+    "title": "Samsung expects capex to rise ~60% to ~$63B in 2026, with HBM capacity sold out through 2027 and 10 long-term supply deals secured with key customers (Bloomberg)",
+    "description": "Bloomberg:\nSamsung expects capex to rise ~60% to ~$63B in 2026, with HBM capacity sold out through 2027 and 10 long-term supply deals secured with key customers  —  Samsung Electronics Co. plans to hike spending more than 60% this year after selling out of high-end chips for 2027 …",
     "categories": [
       "Tech News"
     ],
@@ -208,8 +253,8 @@
   },
   {
     "link": "https://www.techmeme.com/261029/p3#a261029p3",
-    "title": "Google's search revenue rose 12% YoY to $63.25B in Q3 2026, down from 14.5% in Q3 2025, with Google attributing the slowdown to \"lower monetization\" in AI Mode (Simon Sharwood/The Register)",
-    "description": "Simon Sharwood / The Register:\nGoogle's search revenue rose 12% YoY to $63.25B in Q3 2026, down from 14.5% in Q3 2025, with Google attributing the slowdown to “lower monetization” in AI Mode  —  Shares in Google's parent company Alphabet dived by almost ten percent on Wednesday, after the web giant admitted …",
+    "title": "Google reports Search revenue up 12% YoY to $63.25B in Q3 2026, down from 14.5% in Q3 2025, and attributes the slowdown to \"lower monetization\" in AI Mode (Simon Sharwood/The Register)",
+    "description": "Simon Sharwood / The Register:\nGoogle reports Search revenue up 12% YoY to $63.25B in Q3 2026, down from 14.5% in Q3 2025, and attributes the slowdown to “lower monetization” in AI Mode  —  Shares in Google's parent company Alphabet dived by almost ten percent on Wednesday, after the web giant admitted AI-powered searches earn …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -431,8 +476,8 @@
   },
   {
     "link": "https://www.techmeme.com/261028/p64#a261028p64",
-    "title": "Samsung reports Q3 revenue up 127% YoY to a record ~$146.3B and a record operating profit up 783% to ~$80.5B, both roughly in line with estimates (Jenny Lee/CNBC)",
-    "description": "Jenny Lee / CNBC:\nSamsung reports Q3 revenue up 127% YoY to a record ~$146.3B and a record operating profit up 783% to ~$80.5B, both roughly in line with estimates  —  - Samsung Electronics reported third-quarter earnings on Thursday, with operating profit broadly in line with analysts' estimates",
+    "title": "Samsung reports Q3 revenue up 127% YoY to a record ~$146.3B and a record operating profit up 783% to ~$80.5B, both meeting est.; chip unit revenue hit ~$110B (Jenny Lee/CNBC)",
+    "description": "Jenny Lee / CNBC:\nSamsung reports Q3 revenue up 127% YoY to a record ~$146.3B and a record operating profit up 783% to ~$80.5B, both meeting est.; chip unit revenue hit ~$110B  —  - Samsung Electronics reported third-quarter earnings on Thursday, with operating profit broadly in line with analysts' estimates",
     "categories": [
       "Tech News"
     ],
@@ -553,8 +598,8 @@
   },
   {
     "link": "https://www.techmeme.com/261028/p62#a261028p62",
-    "title": "The personal data of 41,000+ DHS employees and contractors, including CBP and ICE agents, leaks online after hackers claim they breached DHS' Okta login system (Wired)",
-    "description": "Wired:\nThe personal data of 41,000+ DHS employees and contractors, including CBP and ICE agents, leaks online after hackers claim they breached DHS' Okta login system  —  The leaked records include the locations of ICE and CBP facilities, workers' cell phone numbers, and the members of groups tied …",
+    "title": "Hackers leak the personal data of 41,000+ DHS employees and contractors, including CBP and ICE agents; DDoSecrets says the data came from DHS' Okta login system (Wired)",
+    "description": "Wired:\nHackers leak the personal data of 41,000+ DHS employees and contractors, including CBP and ICE agents; DDoSecrets says the data came from DHS' Okta login system  —  The leaked records include the locations of ICE and CBP facilities, workers' cell phone numbers, and the members of groups tied …",
     "categories": [
       "Tech News"
     ],
@@ -673,17 +718,6 @@
     "source_name": "CNET.COM"
   },
   {
-    "link": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-29-october-2026",
-    "title": "NYT Connections hints and answers for Thursday, October 29 (game #1236)",
-    "description": "Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-29T00:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-29-october-2026",
     "title": "Quordle hints and answers for Thursday, October 29 (game #1739)",
     "description": "Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.",
@@ -692,6 +726,17 @@
     ],
     "pub_date": "2026-10-29T00:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-29-october-2026",
+    "title": "NYT Connections hints and answers for Thursday, October 29 (game #1236)",
+    "description": "Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-10-29T00:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2214,51 +2259,5 @@
     "pub_date": "2026-10-28T18:00:28+00:00",
     "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/usrc-gardner-ag3-team.jpg?w=2048",
     "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://www.zdnet.com/innovation/claude-enterprise-efficiency-cost-tracking/",
-    "title": "These Claude Enterprise features let you track AI ROI – what’s new",
-    "description": "Is your pricey Claude Enterprise account worth it? Anthropic is trying to surface insights with three tools.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-28T18:00:00+00:00",
-    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1700889615.jpg",
-    "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/entertainment/how-to-watch/how-to-watch-celebrity-race-across-the-world-2026",
-    "title": "How to watch Celebrity Race Across The World 2026 for free, online and from anywhere",
-    "description": "Ella Eyre, Jeff Stelling, and Sam Ryder are involved in the challenge. Here's how to watch Celebrity Race Across The World 2026 online from anywhere in the world FOR FREE.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T18:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Fu2ZDiwUCwzXzGay9zxsbn-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/column/1020859/optimizer-theranos-haemanthus-you-can-see-everything",
-    "title": "You can see every red flag in Theranos 2.0",
-    "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. From afar, it's easy to look back at the Theranos debacle and scream at Nathan Fielder that, obviously, Elizabeth Holmes",
-    "categories": [
-      "Breaking News",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-28T18:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1248465318.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/macbook-pro-glowing-logo",
-    "title": "The biggest MacBook surprise of the day? The glowing Apple logo is back.",
-    "description": "Apple announced its first MacBook with a touchscreen and OLED display, but it buried the lede: The glowing Apple logo is back!",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-28T17:57:20+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01i31MkmN9xXniSUuq4oVp9/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
