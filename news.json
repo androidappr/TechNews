@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+    "title": "Meta quietly launches an AI fashion app called Style Sketch",
+    "description": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-10-29T19:14:36+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/gaming/phantom-blade-zero-hands-on/",
+    "title": "Phantom Blade Zero hands-on: An extraordinary game with unbelievable combat that I can’t get enough of",
+    "description": "We have had a considerable number of high-profile game releases this year, but none so far have had as much hype behind them as Phantom Blade Zero. The source of all that hype was a 2023 trailer highlighting its fluid kung-fu-derived sword combat. Considering that, at the time of writing this piece, there are over",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-10-29T19:12:43+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Phantom-Blade-Zero-scaled.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261029/p44#a261029p44",
+    "title": "Sources: an Accenture staffer's Claude agent ran on a DOD network for two months and appears to have sent info to a third-party site before it was identified (Vittoria Elliott/Wired)",
+    "description": "Vittoria Elliott / Wired:\nSources: an Accenture staffer's Claude agent ran on a DOD network for two months and appears to have sent info to a third-party site before it was identified  —  Sources tell WIRED that an Accenture employee's personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T19:10:01+00:00",
+    "image_url": "http://www.techmeme.com/261029/i44.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/accessories/smart-home/amazons-latest-suite-of-alexa-powered-echo-devices-includes-a-digital-photo-frame",
+    "title": "Amazon's latest suite of Alexa-powered Echo devices includes a digital Photo Frame",
+    "description": "Amazon concludes Techtober with a suite of Alexa-powered Echo devices and a near-magical Photo Frame.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T19:01:20+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/vSZ4UTyMduCCLeU33AExNG-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/baseten-joey-1-decision-model-open-weights",
     "title": "Baseten’s joey-1 makes AI decisions for a penny per million tokens",
     "description": "Baseten released joey-1, a 2B open-weights “decision model” that returns an answer and a probability rather than text. It costs $0.01 per million tokens and answers in about 20ms, Baseten says. It joins the larger mammoth-1 and elephant-1 launched last week. Baseten has released joey-1, a small open AI model that answers yes-or-no and multiple-choice",
@@ -1050,7 +1098,6 @@
     "title": "Collective, which uses AI to automate bookkeeping for solo business owners, raised a $40M Series B and $60M in nondilutive capital from GC's Customer Value Fund (Natalie Breymeyer/Axios)",
     "description": "Natalie Breymeyer / Axios:\nCollective, which uses AI to automate bookkeeping for solo business owners, raised a $40M Series B and $60M in nondilutive capital from GC's Customer Value Fund  —  Collective, a financial services platform for solo business owners, secured $100 million in financing, CEO Hooman Radfar tells Axios.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-29T15:15:02+00:00",
@@ -1075,7 +1122,6 @@
     "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
     "description": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first science mission to fly and explore the surface of another world.   To have your",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-29T15:10:18+00:00",
@@ -1087,7 +1133,6 @@
     "title": "NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing",
     "description": "When companies began approaching NASA’s Langley Research Center, asking to be included in the In-Space Servicing, Assembly, and Manufacturing (ISAM) State of Play for access to competitive intelligence, the team knew they had crossed an inflection point. “We’ve had some unnamed companies ask if we have any proprietary information,” says Dale Arney, senior team lead",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-29T15:06:40+00:00",
@@ -2277,51 +2322,5 @@
     "pub_date": "2026-10-29T10:30:00+00:00",
     "image_url": "https://media.wired.com/photos/6ae24c8e168dfe749932c9c5/master/pass/Review%20Hisense%20UR8%20RGB%20MiniLED%20TV%20102026%20top%20art%20SOURCE%20Best%20Buy.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/a-hacker-targeted-high-stakes-poker-players-with-malware-that-exposed-their-cards/",
-    "title": "A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards",
-    "description": "Illicit software on the computers of some of the world’s best online poker players allowed the accused cheater to see what cards were in the victims’ hands—and trounce them at the tables.",
-    "categories": [
-      "Cybersecurity & Privacy",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-10-29T10:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6adfb9e14342ac0de5548666/master/pass/Security_A%20Hacker%20Snuck%20Malware%20Onto%20Online%20Poker%20Players%E2%80%99%20Computers%20That%20Let%20Him%20See%20Their%20Cards_v1.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261029/p17#a261029p17",
-    "title": "Sierra Club expects US power emissions to hit 2.1B metric tons by 2030, up 42% on 2025 and erasing 15 years of cuts, with off-grid data centers matching Mexico (Bloomberg)",
-    "description": "Bloomberg:\nSierra Club expects US power emissions to hit 2.1B metric tons by 2030, up 42% on 2025 and erasing 15 years of cuts, with off-grid data centers matching Mexico  —  The boom is set to produce enough greenhouse gases to cancel out 15 years of declines in power-sector emissions, according to a Sierra Club analysis.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T10:25:11+00:00",
-    "image_url": "http://www.techmeme.com/261029/i17.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/i-did-push-ups-with-snaps-chunky-ar-glasses/",
-    "title": "I Did Push-Ups With Snap’s Chunky AR Glasses",
-    "description": "They fit better than they look and stay put when you move, but Snap’s $2,195 Specs still feel like a developer prototype in search of a purpose.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-29T10:15:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ae21f8d86313c19910c81e0/master/pass/Snap%20Specs%20SOURCE%20Boone%20Ashworth.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/navigating-the-new-normal-ai-powered-exploits-and-discovery",
-    "title": "Navigating the 'new normal':  AI-powered exploits and discovery",
-    "description": "AI is challenging the rules of vulnerability management, making speed of discovery a critical security challenge.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T10:11:14+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
