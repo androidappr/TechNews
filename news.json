@@ -1,5 +1,56 @@
 [
   {
+    "link": "https://www.techmeme.com/261029/p40#a261029p40",
+    "title": "Source: Dulo, a startup co-founded by Google veteran Sebastian Thrun to build \"foundation models for hardware design\", raised a $130M seed (Rocket Drew/The Information)",
+    "description": "Rocket Drew / The Information:\nSource: Dulo, a startup co-founded by Google veteran Sebastian Thrun to build “foundation models for hardware design”, raised a $130M seed  —  Sebastian Thrun, the computer scientist who pioneered several AI projects at Google, has co-founded a new startup focused on creating AI models …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T16:45:01+00:00",
+    "image_url": "http://www.techmeme.com/261029/i40.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+    "title": "U.S. investigated Chinese spy plot aimed at Nvidia CEO",
+    "description": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-29T16:42:32+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/apple-touch-macbook-pro-hands-on-macos",
+    "title": "Apple’s touchscreen MacBook Pro keeps macOS familiar, Bloomberg finds",
+    "description": "Bloomberg’s Chris Welch tried Apple’s first touchscreen MacBook Pro and found Apple took a measured approach, adding touch without reshaping macOS. Gestures felt smooth, but the tiny window buttons are awkward to tap. The laptop ships on 6 November from $2,899. Apple’s first touchscreen MacBook Pro does not turn the Mac into an iPad, according",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-10-29T16:35:06+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/man-touching-macbook-pro-screen-coding-lounge.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/servicenow-results-shares-record-drop-crpo-outlook",
+    "title": "ServiceNow shares fall a record 25% after its bookings outlook misses",
+    "description": "ServiceNow shares fell as much as 25% to $112.37 after markets opened in New York on Thursday. It was the biggest intraday drop since the company went public in 2012, Brody Ford reported for Bloomberg. The stock was on course for its worst day on record, according to Dow Jones Market Data cited by MarketWatch.",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-29T16:34:03+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/bill-mcdermott-servicenow-ceo-portrait.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261029/p39#a261029p39",
     "title": "Alphabet discloses $1T+ in purchase commitments, future leases, and other obligations; its Q3 filing shows $98.5B in contingent commitments, up ~$23B from Q2 (Davey Alba/Bloomberg)",
     "description": "Davey Alba / Bloomberg:\nAlphabet discloses $1T+ in purchase commitments, future leases, and other obligations; its Q3 filing shows $98.5B in contingent commitments, up ~$23B from Q2  —  Alphabet Inc. has said demand for its cloud services is increasing at a rapid clip, pointing to growth in its backlog, or cloud contracts it hasn't yet fulfilled.",
@@ -23,6 +74,19 @@
     "source_name": "TECHMEME.COM"
   },
   {
+    "link": "https://thenextweb.com/news/dhs-leak-icepick-41000-employees-ice-cbp",
+    "title": "Leak exposes 41,000 Homeland Security staff, including ICE and CBP agents",
+    "description": "Records on more than 41,000 employees and contractors of the US Department of Homeland Security (DHS) are now online. They include names, email addresses, phone numbers, job titles and office locations. The staff work for Immigration and Customs Enforcement (ICE), Customs and Border Protection (CBP) and other DHS agencies. WIRED, which was given a preview",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-29T16:23:21+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/data-word-star-dotted-letters-shop-window.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
     "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
     "description": "rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI.",
@@ -38,7 +102,7 @@
   {
     "link": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
     "title": "SuperMe raises $20M for its network of AI expert profiles",
-    "description": "SuperMe just raised $20 million to let you pester AI clones of Silicon Valley’s savviest people about your career.",
+    "description": "SuperMe is a network of AI profiles built from the knowledge of real-life experts. When you ask a question, the platform determines which experts are best suited to answer and creates a group chat with their AI profiles.",
     "categories": [
       "Breaking News",
       "Software & Apps"
@@ -652,17 +716,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.techradar.com/pro/security/fbi-leads-action-to-shut-down-virtualine-bulletproof-service-linked-to-major-cybercrime-activity",
-    "title": "FBI leads action to shut down Virtualine bulletproof service linked to major cybercrime activity",
-    "description": "Virtualine was hosting illegal forums and helping launder stolen cryptocurrency.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-29T14:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/wF7wQKYhstmr8p8VKgjiDK-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/gaming/the-next-hitman-elusive-target-has-agent-47-taking-down-a-podcaster-who-is-loud-paranoid-and-completely-obsessed-with-content-and-played-by-a-real-life-influencer",
     "title": "The next Hitman elusive target has Agent 47 taking down a podcaster who is 'loud, paranoid, and completely obsessed with content' — and played by a real-life influencer",
     "description": "Agent 47 is going head to head with an evil influencer in the next Hitman DLC.",
@@ -671,6 +724,17 @@
     ],
     "pub_date": "2026-10-29T14:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/qfQ6K5cWPFhx6f52QjFVNn-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/fbi-leads-action-to-shut-down-virtualine-bulletproof-service-linked-to-major-cybercrime-activity",
+    "title": "FBI leads action to shut down Virtualine bulletproof service linked to major cybercrime activity",
+    "description": "Virtualine was hosting illegal forums and helping launder stolen cryptocurrency.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-29T14:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/wF7wQKYhstmr8p8VKgjiDK-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -940,9 +1004,8 @@
   {
     "link": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
     "title": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
-    "description": "Six days from now, TechCrunch Founder Summit brings experienced founders, investors, and operators to Boston on Nov. 4 to share the decisions, mistakes, pivots, and lessons that shaped their companies. Register before it starts for ticket savings and deals.",
+    "description": "Six days from now, on November 4, TechCrunch Founder Summit brings experienced founders, investors, and operators to Boston to share the decisions, mistakes, pivots, and lessons that shaped their companies. Register before it starts for ticket savings and deals.",
     "categories": [
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-29T13:00:00+00:00",
@@ -977,6 +1040,7 @@
     "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
     "description": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access.",
     "categories": [
+      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-10-29T12:58:34+00:00",
@@ -1011,7 +1075,6 @@
     "description": "AI psychic apps are drawing pushback from human practitioners, with some advertising AI-free readings. Others are being invited to train digital doubles that could serve clients while they’re offline and share the revenue.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Software & Apps"
     ],
     "pub_date": "2026-10-29T12:42:39+00:00",
@@ -2237,28 +2300,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.wired.com/story/norton-coupon-code/",
-    "title": "Norton Coupon Codes: Up to 58% Off",
-    "description": "Whether you’re looking to protect your small business or your personal computer, we have the top coupons and deals to help you save at Norton.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/hungryroot-promo-code/",
-    "title": "Hungryroot Coupon Codes: 30% Off This November 2026",
-    "description": "Get up to 30% off your first order and free gifts using a Hungryroot promo code today. Discover our best coupons and discounts to let you save on your healthy groceries as a new or returning customer.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/nzxt-discount-code/",
     "title": "NZXT Discount Codes: 50% Off in November 2026",
     "description": "Save 50%, plus up to $250 with NZXT promo codes and discounts.",
@@ -2270,47 +2311,14 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.wired.com/story/loop-earplugs-discount-code/",
-    "title": "Loop Earplugs Discount Codes: 40% Off",
-    "description": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
+    "link": "https://www.wired.com/story/norton-coupon-code/",
+    "title": "Norton Coupon Codes: Up to 58% Off",
+    "description": "Whether you’re looking to protect your small business or your personal computer, we have the top coupons and deals to help you save at Norton.",
     "categories": [
       "Tech News"
     ],
     "pub_date": "2026-10-29T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/govee-discount-code/",
-    "title": "Govee Discount Codes and Deals: 30% Off",
-    "description": "New to Govee? Get a $5 coupon on your first purchase just for signing up.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/dermstore-promo-code/",
-    "title": "Dermstore Coupons: 25% Off for November 2026",
-    "description": "Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/pura-promo-code/",
-    "title": "Pura Promo Codes: $20 Off November 2026",
-    "description": "Enhance your home's ambiance for less with active Pura promo codes. Find savings on smart diffusers, exclusive scents, and subscribe & save offers.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T05:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
+    "image_url": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg",
     "source_name": "WIRED.COM"
   }
 ]
