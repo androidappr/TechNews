@@ -1,5 +1,66 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+    "title": "Maine’s data center revolt will decide who controls the Senate",
+    "description": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins brushed off the outburst, tying the man to her Democratic challenger,",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-30T11:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_MAINE_DATA_CENTERS_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/new-apple-products-on-amazon-how-to-buy",
+    "title": "Apples new batch of products is live on Amazon: How to buy the new MacBooks, iMacs, and iPad mini",
+    "description": "Apple's freshly announced MacBook Pros, 24-inch iMac, and OLED iPad mini have officially landed on Amazon. Here's what's new.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-30T10:47:09+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01t0EQjLNDtVsZMFgrhufnI/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/elon-musks-ties-to-texas-republicans-go-much-deeper-than-the-midterms/",
+    "title": "Elon Musk’s Ties to Texas Republicans Go Much Deeper Than the Midterms",
+    "description": "As Election Day approaches, the billionaire’s longstanding relationships with GOP leaders in Texas are under scrutiny.",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-30T10:45:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ae0c75290b99bca949001fd/master/pass/102726-ken-paxton-elon-musk.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/foxconn-openai-new-tie-up-no-ai-bubble",
+    "title": "Foxconn chairman says new OpenAI tie-up is in the works, Reuters reports",
+    "description": "Foxconn is working on a new partnership with OpenAI, chairman Young Liu told reporters in Taipei on Friday, Reuters reported. Liu said he had met OpenAI chief executive Sam Altman earlier that day. He gave no details about what the two companies are discussing, saying Foxconn would announce the agreement once the terms were finalised.",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-30T10:44:19+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/foxconn-ai-factory-booth-nvidia-gb300-racks.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/wikimedia-amicus-brief-openai-new-york-times-fair-use-rag",
+    "title": "Wikimedia asks court to rule AI training fair use, but not chatbot copying",
+    "description": "The Wikimedia Foundation wants the judge in The New York Times’ copyright fight with OpenAI to split the question in two. Training an AI model on copyrighted work is likely fair use, it argues. A chatbot that copies websites to answer a user’s question is likely not. The foundation runs Wikipedia. On Thursday, it asked",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-30T10:43:02+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/lady-justice-statue-scales-dark-background-1.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/computing/hark-for-mac-free-ai-assistant/",
     "title": "Hark’s free AI assistant arrives on Mac to tackle the errands you’ve been putting off",
     "description": "Hark's free AI assistant is now on Mac, offering help with everyday errands through a cloud computer. Paid plans raise usage limits, while account permissions and regional memory restrictions deserve a closer look.",
@@ -258,6 +319,18 @@
     "source_name": "WIRED.COM"
   },
   {
+    "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+    "title": "November’s Night Sky Notes: Light-Day Away",
+    "description": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice giants, including several moons.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-30T10:00:00+00:00",
+    "image_url": "https://science.nasa.gov/wp-content/uploads/2024/04/grand-tour.jpg?w=1200",
+    "source_name": "SCIENCE.NASA.GOV"
+  },
+  {
     "link": "https://mashable.com/tech/oct-30-eufy-robot-vacuum-deal",
     "title": "The Eufy E25 robot vacuum has dropped to its best-ever price before Black Friday — save $400 at Amazon",
     "description": "Get the best robot vacuum deal. Save 40% on the eufy E25 at Amazon.",
@@ -483,7 +556,6 @@
     "title": "Binance hacked for an estimated $6.3 billion in record crypto theft",
     "description": "Cryptocurrency exchange Binance has been hit with a record $6.3 billion hack.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-30T08:24:55+00:00",
@@ -542,7 +614,6 @@
     "title": "Watch England vs Papua New Guinea for FREE: Live streams",
     "description": "All the ways to watch England vs Papua New Guinea for free from anywhere as Brian McDermott's side aim to keep their Rugby League World Cup 2026 hopes alive.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-30T07:00:00+00:00",
@@ -620,7 +691,6 @@
     "title": "Binance pledges to cover all losses from a ~$6.3B hack, potentially the largest crypto theft ever, surpassing the $1.5B Bybit hack in February 2025 (South China Morning Post)",
     "description": "South China Morning Post:\nBinance pledges to cover all losses from a ~$6.3B hack, potentially the largest crypto theft ever, surpassing the $1.5B Bybit hack in February 2025  —  Binance, the world's largest cryptocurrency exchange by trading volume, has pledged to cover all losses from a hack that it said drained around US$6.3 billion from its wallet.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-30T04:50:00+00:00",
@@ -2185,75 +2255,5 @@
     "pub_date": "2026-10-29T18:45:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/netflix-is-making-a-live-action-pubg-show-written-and-directed-by-donald-glover/l-intro-1793299226.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2301452/dont-expect-more-assassins-creed-remakes-anytime-soon/",
-    "title": "Don't expect more Assassin's Creed remakes anytime soon",
-    "description": "Ubisoft shared some updates on the franchise, including confirmation of a New Game+ option for Assassin's Creed Valhalla.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-10-29T18:40:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/dont-expect-more-assassins-creed-remakes-anytime-soon/l-intro-1793298942.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-    "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-    "description": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-10-29T18:39:43+00:00",
-    "image_url": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/pass/102726-department-of-defense-ai-agent.gif",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/intels-6w-moon-lake-chips-could-make-budget-laptops-cooler-quieter-and-more-efficient-at-a-cost/",
-    "title": "Intel’s 6W Moon Lake chips could make budget laptops cooler, quieter, and more efficient at a cost",
-    "description": "Intel’s rumored 6W Moon Lake processors could make budget laptops cooler, quieter, and more power-efficient, but there’s a catch for demanding users.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T18:37:23+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/01/wedding-40.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/marvell-lumentum-deal-talks-bloomberg",
-    "title": "Marvell nears a deal to buy Nvidia-backed Lumentum, Bloomberg reports",
-    "description": "Chipmaker Marvell Technology is in advanced talks to buy Lumentum, which makes the lasers that move data between AI chips. Marvell would likely pay in shares, and the companies could announce a deal as soon as next week, according to Bloomberg. Ryan Gould, Michelle F. Davis and David Carnevali reported the talks for Bloomberg on",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-29T18:35:45+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/matt-murphy-marvell-ceo-portrait.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.cnet.com/home/kitchen-and-household/doordash-acquire-instacart-17b/",
-    "title": "DoorDash Plans to Acquire Grocery Delivery Service Instacart in $17B Deal",
-    "description": "When the deal is complete, both companies are expected to continue operating separately.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T18:30:41+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/doordash-instacart.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261029/p43#a261029p43",
-    "title": "Utah files 14 criminal charges against Kalshi and its co-founders Tarek Mansour and Luana Lopes Lara for allegedly breaking Utah's gambling laws (Andy Larsen/Salt Lake Tribune)",
-    "description": "Andy Larsen / Salt Lake Tribune:\nUtah files 14 criminal charges against Kalshi and its co-founders Tarek Mansour and Luana Lopes Lara for allegedly breaking Utah's gambling laws  —  The state of Utah has filed 14 criminal charges, including 13 felony counts, against the prediction market site Kalshi and its co-founders …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T18:30:03+00:00",
-    "image_url": "http://www.techmeme.com/261029/i43.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
