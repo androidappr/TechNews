@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://thenextweb.com/news/ford-uev-drivetrain-30-percent-more-efficient-byd",
+    "title": "Ford says its new EV drivetrain is 30% more efficient than BYD’s",
+    "description": "Ford CEO Jim Farley says the drivetrain in its new low-cost EV platform is about 30% more efficient than BYD’s, so Ford can use smaller, cheaper batteries. The platform debuts in the $28,350 Fathom pickup in late 2027. Ford did not say which BYD system it compared. Ford says the motors, gearboxes and inverters in",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-30T16:30:11+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/ford-electric-car-charging-connector.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/dario-amodei-security-cost-philanthropy-pledge-anthropic-ipo",
+    "title": "Anthropic spent $2.75m guarding Dario Amodei, four times his salary",
+    "description": "Anthropic spent $2,745,874 on personal security for chief executive Dario Amodei in 2025, more than four times his $654,167 salary. The figure is in the company’s IPO filing. The filing also says its co-founders’ pledge to give away 80% of their stakes is not legally binding. Bilin Lin first highlighted the security costs for Fortune,",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-30T16:28:53+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/dario-amodei-fortune-brainstorm-tech-2023.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.engadget.com/2302449/tvos-27-2-features-try-upgraded-apple-tv-experience/",
     "title": "New tvOS 27.2 features to try for an upgraded Apple TV experience",
     "description": "Apple's tvOS 27.2 update isn't a particularly transformative one, but it still introduces a handful of new features that are worth checking out.",
@@ -10,6 +33,18 @@
     "pub_date": "2026-10-30T16:22:49+00:00",
     "image_url": "https://www.engadget.com/img/gallery/new-tvos-27-2-features-to-try-for-an-upgraded-apple-tv-experience/l-intro-1793349181.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/home-and-office/google-home-gemini-updates-42-fixes/",
+    "title": "Google’s latest Home updates just fixed my biggest annoyances with its speakers and cameras",
+    "description": "Google details 42 fixes to its Home app and the devices compatible with it.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-30T16:14:11+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/1_341369.jpg",
+    "source_name": "ZDNET.COM"
   },
   {
     "link": "https://www.techradar.com/pro/prusas-core-one-3d-printer-is-the-best-weve-ever-tested-and-its-early-black-friday-bundle-is-packed-with-extras",
@@ -681,7 +716,7 @@
   {
     "link": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
     "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
-    "description": "Waymo announced today that when it launches a robotaxi service in Tokyo in 2027, it will use Toyota bZ4X electric vehicles that are assembled in Japan. The news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025. The robotaxis will be built entirely under one roof at Toyota's",
+    "description": "Waymo announced today that it will use Toyota bZ4X electric vehicles that are assembled in Japan for a robotaxi service in Tokyo. The news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025. The robotaxis will be built entirely under one roof at Toyota's Takaoka plant in Toyota",
     "categories": [
       "Tech News"
     ],
@@ -2283,38 +2318,5 @@
     "pub_date": "2026-10-30T01:10:01+00:00",
     "image_url": "http://www.techmeme.com/261029/i65.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/the-us-air-force-wants-to-use-ai-to-help-with-mid-air-refuelling-problems",
-    "title": "The US Air Force wants to use AI to help with its mid-air refuelling problems",
-    "description": "The US Air Force wants artificial intelligence to identify aerial refuelling mistakes, improve pilot training and reduce dependence on human assessments.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-30T01:10:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/zGjJcNaEGqXTEDEYSF7RuP-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/29/apple-tvs-new-crime-thriller-series-nocturne-is-now-streaming/",
-    "title": "Apple TV’s new crime thriller series ‘Nocturne’ is now streaming",
-    "description": "The first two episodes for Apple TV’s latest crime thriller, “Nocturne,” are now available to stream. Watch the trailer below.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-30T01:01:35+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/nocturne-stephen-graham-laugh.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/ai-platforms-assistants/anthropic-sued-for-allegedly-using-274-elvis-presley-songs-in-ai-training-and-its-about-time-ai-companies-faced-the-music",
-    "title": "Anthropic's Elvis lawsuit shows why AI companies need to face the music",
-    "description": "Anthropic's latest copyright lawsuit over Elvis Presley songs exposes the AI industry's troubling dependence on other people's creative work.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-30T01:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/tKM8kwSbAKRgfrMxFLPcUf-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
