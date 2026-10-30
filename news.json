@@ -1,5 +1,54 @@
 [
   {
+    "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+    "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+    "description": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-10-30T09:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/dream-17m-seed-ai-building-design",
+    "title": "Ex-Palantir founders raise $17M for Dream’s AI building design models",
+    "description": "Dream, a San Francisco startup that uses AI to design and engineer buildings, came out of stealth on Thursday with $17M in seed funding. Investors in the round include Andreessen Horowitz (a16z), SV Angel, XYZ, and Zigg Capital. The company is starting with architecture, engineering, and construction, an industry that has been slow to adopt",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-30T08:55:43+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/dream-data-centre-design-software-laptop.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/the-ai-data-center-race-is-now-a-race-to-power",
+    "title": "The AI data center race is now a race to power",
+    "description": "As AI demand surges, access to reliable power will determine who leads.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-30T08:45:05+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/h8PtKoPckFsFwU8xPtXRhk-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261030/p5#a261030p5",
+    "title": "Sources: Spotify aims to launch an AI product in Q1 2027 that lets subscribers create their own remixes and covers for ~$5 per month, pending licensing deals (Anna Nicolaou/Financial Times)",
+    "description": "Anna Nicolaou / Financial Times:\nSources: Spotify aims to launch an AI product in Q1 2027 that lets subscribers create their own remixes and covers for ~$5 per month, pending licensing deals  —  Streaming service plans to charge users up to $5 a month to use the feature  —  Spotify is targeting an early 2027 launch …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-30T08:45:02+00:00",
+    "image_url": "http://www.techmeme.com/261030/i5.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/",
     "title": "Binance hacked for an estimated $6.3 billion in record crypto theft",
     "description": "Cryptocurrency exchange Binance has been hit with a record $6.3 billion hack.",
@@ -704,17 +753,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-ghosts-season-6-halloween-special",
-    "title": "How to watch Ghosts US season 6 Halloween Special online for FREE — stream from anywhere",
-    "description": "The spooky comedy gets even spookier for Halloween. Here's how to watch the Ghosts US Halloween Special online from anywhere.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T23:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/jCKupgncH5JmFJJHtX837R-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://mashable.com/tech/oct-29-jlab-jbuds-lux-anc-deal",
     "title": "Skip the $350 cans: Our favorite budget headphones are just under $70 at Amazon",
     "description": "Amazon has the JLab JBuds Lux ANC headphones in Royal Caviar down to $69.99 (30% off). Here's why they're Mashable's top budget pick.",
@@ -724,6 +762,17 @@
     "pub_date": "2026-10-29T23:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/056oMrBeQKPtKIt5WjByJxb/hero-image.png",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-ghosts-season-6-halloween-special",
+    "title": "How to watch Ghosts US season 6 Halloween Special online for FREE — stream from anywhere",
+    "description": "The spooky comedy gets even spookier for Halloween. Here's how to watch the Ghosts US Halloween Special online from anywhere.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-29T23:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/jCKupgncH5JmFJJHtX837R-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://www.techmeme.com/261029/p59#a261029p59",
@@ -2202,50 +2251,5 @@
     "pub_date": "2026-10-29T17:07:33+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/dome-security-camera-on-pole-black-white.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/i-think-this-is-a-great-time-to-go-do-the-new-thing-openai-ceo-sam-altman-thinks-gen-z-entering-the-workforce-should-throw-out-the-rulebook-and-do-their-own-thing",
-    "title": "'I think this is a great time to go do the new thing': OpenAI CEO Sam Altman thinks Gen Z entering the workforce should throw out the rulebook and do their own thing",
-    "description": "Altman says Gen Z need to try something different to stand out in an AI-dominated workforce.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T17:05:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/LEEmgDXdWiSd4AfSJdoXKc-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/10/29/apple-says-its-only-getting-started-updating-macos-for-touchscreens/",
-    "title": "Apple says it’s ‘only getting started’ updating macOS for touchscreens",
-    "description": "Apple’s new MacBook Pro with PROLED XDR Display (pre-order here) includes a variety of software optimizations for touch input. But Apple says it’s “only getting started” making macOS more touch-friendly.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T17:01:44+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr-touch-hand.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-    "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-    "description": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-29T17:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-madame-blanc-mysteries",
-    "title": "How to watch The Madame Blanc Mysteries season 5 on Channel 5 — it's *FREE*",
-    "description": "Jean White is back for more mystery solving in this cosy crime drama. Here, we explain how to watch The Madame Blanc Mysteries season 5 for FREE in the UK and if you're out of the country.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-29T17:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/oJPKKoAKZfT625uowfyBWN-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
