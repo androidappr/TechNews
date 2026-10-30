@@ -1,5 +1,42 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+    "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+    "description": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-30T21:54:34+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
+    "description": "The new report says the AI lab will likely qualify for a high junk rating.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-10-30T21:52:03+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+    "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+    "description": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-30T21:48:53+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/10/30/pluribus-season-2-reportedly-begins-filming-tomorrow/",
     "title": "‘Pluribus’ season 2 reportedly begins filming tomorrow",
     "description": "According to a report published earlier this month, the second season of Apple TV’s acclaimed sci-fi drama ‘Pluribus’ is scheduled to begin filming tomorrow, October 31, in Albuquerque, New Mexico. Here’s what we know.\n\n\n\n more…",
@@ -9,6 +46,18 @@
     "pub_date": "2026-10-30T21:44:44+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/pluribus-s1-rhea-seehorn-dark.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/troy-jackson-maine-senate-fake-video-axe-threat",
+    "title": "Fake video accused Maine Democrat of threatening staffers with axe",
+    "description": "AI-altered video of Jackson accuses the Democrat of threatening his staffers with an axe.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-30T21:33:23+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/07AMtyomP2SnKgmKpoFlYtZ/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
@@ -210,6 +259,7 @@
     "title": "Intel stock closed down 28.58% on Friday, its worst day since the 1970s and wiping ~$12B off US government's stake, after issuing weaker-than-expected guidance (CNBC)",
     "description": "CNBC:\nIntel stock closed down 28.58% on Friday, its worst day since the 1970s and wiping ~$12B off US government's stake, after issuing weaker-than-expected guidance  —  Intel shares plummeted 29% on Friday, their worst day since the 1970s, after the chipmaker issued weaker-than-expected guidance due …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-30T20:35:01+00:00",
@@ -652,7 +702,6 @@
     "description": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites,  into virtual data centers.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Science & Environment"
     ],
@@ -665,7 +714,6 @@
     "title": "HomeKit Weekly: SwitchBot’s K11+ Pro packs strong suction and Apple Home support into a tiny robo vacuum",
     "description": "The robot vacuums designed for large open floor plans often have big batteries but take up a ton of space. The SwitchBot K11+ Pro goes the other direction: a tiny vacuum, a small dock, and Matter support so it works with Apple Home.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-30T18:00:00+00:00",
@@ -711,7 +759,6 @@
     "title": "Google, Reddit, and more tech stocks plummet: What’s driving market shocks",
     "description": "Google and Reddit stocks are tanking. The reasons why are linked. Here's what's happening in the markets.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-30T17:53:05+00:00",
@@ -723,7 +770,6 @@
     "title": "Elon Musk says Neuralink’s brain implants could help people with paralysis and blindness",
     "description": "Elon Musk has outlined Neuralink's ambitions for Telepathy and Blindsight, two brain implants targeting paralysis and blindness. He also hopes future technology could help people walk and use their hands again.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-30T17:52:52+00:00",
@@ -735,7 +781,6 @@
     "title": "Apple’s next big OLED upgrade could appear on the iMac",
     "description": "In the latest edition of Bloomberg’s Power On podcast, Mark Gurman mentioned that Apple is looking at an OLED screen upgrade for the iMac, but it could take a while before such a product hits the shelves",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-30T17:48:12+00:00",
@@ -748,7 +793,6 @@
     "description": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-30T17:47:12+00:00",
@@ -2268,52 +2312,5 @@
     "pub_date": "2026-10-30T11:46:08+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/DT-2026-10-30T121920.357.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/binance-hack-cryptocurrency-billions",
-    "title": "Binance hacked, billions in crypto stolen",
-    "description": "Binance may have been hacked, freezing withdrawals after an apparent hacker stole over $5.7 billion in cryptocurrency.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-30T11:45:51+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02riB0560yNY9q9KlRJM9F2/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
-    "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
-    "description": "Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what's believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X, the crypto exchange said that user funds are safe, and that around $3 billion of the impacted assets have been",
-    "categories": [
-      "Breaking News",
-      "Crypto & Web3",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-30T11:44:53+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261030/p10#a261030p10",
-    "title": "The UK CMA opens a probe into whether Meta imposed exploitative terms on publishers and advertisers to use their content to develop its AI and other services (Reuters)",
-    "description": "Reuters:\nThe UK CMA opens a probe into whether Meta imposed exploitative terms on publishers and advertisers to use their content to develop its AI and other services  —  Britain's competition regulator on Friday said it has opened an investigation into whether Meta (META.O) was imposing exploitative terms …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-30T11:40:12+00:00",
-    "image_url": "http://www.techmeme.com/261030/i10.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-    "title": "The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes",
-    "description": "Multiple crypto-tracing firms say notorious North Korean hackers TraderTraitor may be behind the largest digital heist in history—with billions of crypto likely gone for good.",
-    "categories": [
-      "Crypto & Web3",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-30T11:36:52+00:00",
-    "image_url": "https://media.wired.com/photos/6ae463bdc091c8b8d1ec019e/master/pass/102026-Binance%20Hacked.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
