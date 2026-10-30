@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.wired.com/story/ego-blower-sale-tp-cannon-october-2026/",
+    "title": "The Best Leaf Blower We’ve Tested Is Ready for Halloween",
+    "description": "Our top Ego pick is discounted, and our resident leaf blower expert demonstrates how to make a TP cannon.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-30T09:01:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ae2b955645fdd4f7481a1a0/master/pass/Leaf%20Blower%20Power+%20880%20CFM%20sale%20102026%20top%20art%20SOURCE%20Lowes.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
     "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
     "description": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger",
@@ -11,6 +22,32 @@
     "pub_date": "2026-10-30T09:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/iran-war-impact-on-oil-hits-key-senate-races/",
+    "title": "The Iran War’s Impact on Oil Is Hitting Key Senate Races Hard",
+    "description": "Democrats are using the high price of diesel, heating oil, and fertilizer to tie Republicans to President Donald Trump’s unpopular, costly war in Iran.",
+    "categories": [
+      "Breaking News",
+      "Government & Policy",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-30T09:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ae3489ed0f1304b56163b28/master/pass/102916-Iran%20War%20US.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/binance-hack-6-3bn-north-korea-tradertraitor",
+    "title": "Binance says its $6.3bn hack involved more than a compromised laptop",
+    "description": "Binance now says a compromised laptop was not the only way in. Its investigation has “uncovered additional points of breach” in the attack that hit about $6.3bn of its assets on Thursday, the world’s largest crypto exchange said on Friday. Binance said in an investigation update on X that it will cover all losses and",
+    "categories": [
+      "Breaking News",
+      "Crypto & Web3",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-10-30T08:59:45+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/binance-logo-yellow-diamond-pattern.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://thenextweb.com/news/dream-17m-seed-ai-building-design",
@@ -2216,40 +2253,5 @@
     "pub_date": "2026-10-29T17:15:18+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/4bqPL8DyJhmUGyGX6jFN6Y-1920-80.jpg",
     "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/alphabet-shares-fall-google-ai-mode-search-ads",
-    "title": "Alphabet shares fall 12% after Google says AI Mode searches earn less",
-    "description": "By 9:35am in New York on Thursday, Alphabet had lost $511bn in market value, Julia Love and Davey Alba reported for Bloomberg. The shares were down more than 12%. It was the company’s biggest market value loss on record. A close more than 9.77% lower would be Alphabet’s worst reaction to results since its 2004",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-10-29T17:11:59+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/sundar-pichai-european-commission-brussels-2023.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
-    "title": "Data centers could send US climate pollution skyrocketing",
-    "description": "The US power sector could release 42 percent more planet-heating carbon dioxide pollution by 2030 than it did in 2025 as it builds out more fossil fuel infrastructure to meet data center electricity demand, according to a new analysis by the Sierra Club. That would essentially wipe out 15 years of greenhouse gas reductions. CO2",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-29T17:10:46+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/solink-100m-vertu-capital-ai-vision-cameras",
-    "title": "Solink raises over $100M to turn security cameras into business data",
-    "description": "Solink raised more than $100M led by Vertu Capital, with Goldman Sachs Alternatives, Golub Growth and Comcast Ventures joining. Its AI turns existing cameras in shops, restaurants and warehouses into data on theft, service and safety. It covers 35,000 locations in 65 countries. Solink, an Ottawa startup that turns shops’ security cameras into a source",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-10-29T17:07:33+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/dome-security-camera-on-pole-black-white.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
