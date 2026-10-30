@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://thenextweb.com/news/big-tech-3-trillion-ai-spending-commitments",
+    "title": "Big Tech has now committed more than $3 trillion to the AI build-out",
+    "description": "Alphabet, Meta, Microsoft, Amazon and Oracle have committed more than $3T to future spending on data centres, leases, equipment and energy, Bloomberg reports. Alphabet leads with more than $1T, followed by Meta with over $800B. Some of the leases run for 30 years. Five tech giants have lined up more than $3T in future spending",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-30T22:15:34+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/ai-microchip-green-pastel-reflective-surface.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/googles-pixel-watch-5-is-down-to-its-lowest-price-yet/",
+    "title": "Google Pixel Watch 5 Sale: Its Lowest Price Yet (2026)",
+    "description": "Google’s latest smartwatch packs great new health and fitness features, and it’s already on sale ahead of Black Friday.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-30T22:15:06+00:00",
+    "image_url": "https://media.wired.com/photos/6ae50ed40af6dcf295d6abe7/master/pass/Google%20Pixel%20Watch%205%20Deals%20Post%2010206%20top%20art%20SOURCE%20Amazon.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/magnetic-tape-storage-is-seeing-a-second-lease-of-life-thanks-to-ai-and-now-its-largest-manufacturer-is-planning-a-huge-ramp-up-in-production",
     "title": "Magnetic tape storage is seeing a second lease of life thanks to AI — and now its largest manufacturer is planning a huge ramp-up in production",
     "description": "Fujifilm plans 5x tape production growth by 2028 as AI adoption drives data growth and organisations seek affordable offline storage.",
@@ -59,6 +84,29 @@
     "source_name": "TECHRADAR.COM"
   },
   {
+    "link": "https://mashable.com/entertainment/haunted-hotel-opening-credit-hidden-story",
+    "title": "Haunted Hotel has a hidden story, and we found it",
+    "description": "Hidden in plain sight of the Netflix series \"Haunted Hotel\" is a drama of life, death, and vermin.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-30T22:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/04W9IWyd0M2KmsvgwihVx5x/hero-image.webp",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/oct-30-scramble-cloud-cloud-storage-lifetime-subscription-2tb",
+    "title": "Tired of paying for cloud storage? This $60 deal lets you secure 2TB of space for life.",
+    "description": "Keep your files safer and pay less over time with this 2TB lifetime subscription to Scramble Cloud Storage",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-30T22:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01mi6Van2z9wQFUAYumUy5e/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
     "title": "Intel’s stock crashes, knocking $12B from government’s stake",
     "description": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
@@ -74,11 +122,10 @@
   {
     "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
     "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
-    "description": "The new report says the AI lab will likely qualify for a high junk rating.",
+    "description": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups"
+      "Breaking News"
     ],
     "pub_date": "2026-10-30T21:52:03+00:00",
     "image_url": null,
@@ -619,7 +666,6 @@
     "title": "Basketheads alert! Wicker 4DX has extended its run",
     "description": "Your chance to rock with the Wicker Husband has not ended! \"Wicker\" 4DX has extended its run.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-30T18:27:44+00:00",
@@ -655,7 +701,6 @@
     "title": "Salesforce acquires Rune, which makes AI military logistics software, sources say for $375M in cash and stock; Rune raised $30m from a16z and others (Margaux MacColl/Resilience Media)",
     "description": "Margaux MacColl / Resilience Media:\nSalesforce acquires Rune, which makes AI military logistics software, sources say for $375M in cash and stock; Rune raised $30m from a16z and others  —  Salesforce is acquiring defence tech startup Rune Technologies for $375 million in a combination of shares and cash, according to two sources familiar with the matter.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-30T18:20:05+00:00",
@@ -678,7 +723,6 @@
     "title": "Android 17 adoption hits a staggering 1% – why you really should update now",
     "description": "Only a quarter of Android phones have even made it to Android 16.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-30T18:18:24+00:00",
@@ -860,6 +904,7 @@
     "title": "The Google Pixel 11 series just hit a record-low price ahead of Black Friday — and I'd be surprised if it gets cheaper",
     "description": "You can get up to $350 off the Pixel 11 series at Amazon today — could this be the early Black Friday phone deal to beat?",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-30T17:46:55+00:00",
@@ -2264,49 +2309,5 @@
     "pub_date": "2026-10-30T12:02:26+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/4hHNeLU3nanqktU6ut3x5o-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/",
-    "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
-    "description": "Nissan’s series hybrid e-Power system has been retuned for American roads.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-30T12:00:18+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2027-Nissan-Rogue-Hybrid_34-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2301498/lenovo-googlebook-15-review/",
-    "title": "Lenovo Googlebook 15 review: Your Android phone's new best friend",
-    "description": "Despite Lenovo providing excellent hardware for Google's new laptop platform, Googlebook OS will only impress Android die-hards.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-30T12:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/lenovo-googlebook-15-review-your-android-phones-new-best-friend/l-intro-1793300409.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/home-entertainment/using-ai-to-vibe-code-your-tv-is-stupid/",
-    "title": "Using AI to Vibe Code Your TV Is Stupid",
-    "description": "No one likes clunky TV interfaces or their activity being tracked, but using AI isn’t how to avoid it. There’s an easier way.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-30T12:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Dont-Use-AI-for-Googl-TV-Malte-Mueller-Tfilm.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
-    "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
-    "description": "Apple's long-awaited touchscreen MacBook Pro is finally here. I got to try this MacBook that, according to the last two Apple CEOs, shouldn't exist. The most surprising thing is how normal it is. The MacBook Pro with PROLED XDR Display (what a name) has one of the nicest screens I've seen on a laptop. The",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-30T12:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0043.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
