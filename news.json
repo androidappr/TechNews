@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://mashable.com/entertainment/wicker-4dx-extended",
+    "title": "Basketheads alert! Wicker 4DX has extended its run",
+    "description": "Your chance to rock with the Wicker Husband has not ended! \"Wicker\" 4DX has extended its run.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-30T18:27:44+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/06tt6e6r9Oy0V1g57z8TIhi/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+    "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+    "description": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-30T18:21:38+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261030/p17#a261030p17",
     "title": "Salesforce acquires Rune, which makes AI military logistics software, sources say for $375M in cash and stock; Rune raised $30m from a16z and others (Margaux MacColl/Resilience Media)",
     "description": "Margaux MacColl / Resilience Media:\nSalesforce acquires Rune, which makes AI military logistics software, sources say for $375M in cash and stock; Rune raised $30m from a16z and others  —  Salesforce is acquiring defence tech startup Rune Technologies for $375 million in a combination of shares and cash, according to two sources familiar with the matter.",
@@ -10,6 +35,17 @@
     "pub_date": "2026-10-30T18:20:05+00:00",
     "image_url": "http://www.techmeme.com/261030/i17.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://mashable.com/life/instagram-features-youtube-creators-payment-deals",
+    "title": "Instagram wants longer videos. Some creators could get $500,000 to post them.",
+    "description": "Instagram is reportedly offering select creators up to $500,000 to post longform videos through Features as it steps up its competition with YouTube.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-30T18:19:19+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/03h9x8FXXcyK3RqI9NYTkHJ/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techradar.com/pro/the-boulies-ep200-is-our-best-value-office-chair-pick-now-the-the-archetypal-office-chair-for-most-people-drops-in-price-in-an-early-black-friday-sale",
@@ -71,6 +107,18 @@
     "pub_date": "2026-10-30T18:01:24+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/10/30/switchbot-k11-pro/",
+    "title": "HomeKit Weekly: SwitchBot’s K11+ Pro packs strong suction and Apple Home support into a tiny robo vacuum",
+    "description": "The robot vacuums designed for large open floor plans often have big batteries but take up a ton of space. The SwitchBot K11+ Pro goes the other direction: a tiny vacuum, a small dock, and Matter support so it works with Apple Home.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-30T18:00:00+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/SwitchBot-K11-2.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
   },
   {
     "link": "https://www.techradar.com/audio/earbuds-airpods/fairphone-fairbuds-2-review",
@@ -418,7 +466,7 @@
   {
     "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
     "title": "Google’s first data center satellite is online and writing poetry",
-    "description": "The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+    "description": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -1121,7 +1169,6 @@
     "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
     "description": "Companies like Hoto and Fanttik have elevated the design and functionality of tools like electric screwdrivers, but Arrowmax wants to make them smarter by adding a camera and AI that work together to eliminate the trial and error of finding the exact type and size of bit you need. It's convenient, but also helpful, as",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-30T14:23:26+00:00",
@@ -1379,7 +1426,6 @@
     "title": "Harley-Davidson's electric motorbike brand has 'substantial doubt' about its future",
     "description": "LiveWire's warns that it may not survive its current financial difficulties.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-30T13:06:06+00:00",
@@ -1508,7 +1554,6 @@
     "title": "Harley-Davidson’s electric future looks bleak as LiveWire warns it may not survive",
     "description": "Harley-Davidson's LiveWire has warned it may not survive the next year as losses drain its cash reserves. The electric motorcycle maker is exploring fresh financing, potential partnerships, and a possible sale.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-30T12:28:09+00:00",
@@ -2294,51 +2339,5 @@
     "pub_date": "2026-10-30T09:12:26+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/00xw6wMyrEEdVHdrPquFIdz/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/ego-blower-sale-tp-cannon-october-2026/",
-    "title": "The Best Leaf Blower We’ve Tested Is Ready for Halloween",
-    "description": "Our top Ego pick is discounted, and our resident leaf blower expert demonstrates how to make a TP cannon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-30T09:01:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ae2b955645fdd4f7481a1a0/master/pass/Leaf%20Blower%20Power+%20880%20CFM%20sale%20102026%20top%20art%20SOURCE%20Lowes.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-early-black-friday-tablet-deals-2026",
-    "title": "Tablet deals from Apple, Samsung, and TCL are already live ahead of Black Friday",
-    "description": "Tablet deals on Amazon Fire, Apple iPads, and Samsung Galaxy tablets are all live before Black Friday.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-10-30T09:00:30+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03KUUeXMsoYJGp2fhLkCwcz/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/amazon-echo-time-smart-alarm-clock-price-release",
-    "title": "Amazons new smart alarm clock has super-cute design, less-cute price",
-    "description": "Amazon recently released the Echo Time, a new smart alarm clock powered by Alexa+. But why does it have to be so expensive?",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-30T09:00:05+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03cgZ1iPURPuQpBhsWNdU1X/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/iran-war-impact-on-oil-hits-key-senate-races/",
-    "title": "The Iran War’s Impact on Oil Is Hitting Key Senate Races Hard",
-    "description": "Democrats are using the high price of diesel, heating oil, and fertilizer to tie Republicans to President Donald Trump’s unpopular, costly war in Iran.",
-    "categories": [
-      "Government & Policy",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-10-30T09:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ae3489ed0f1304b56163b28/master/pass/102916-Iran%20War%20US.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
