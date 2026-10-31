@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.wired.com/review/keurig-alta-brewer/",
+    "title": "Keurig Alta Brewer Review: Brand-New Tech, Classically Good Coffee",
+    "description": "This multifaceted home coffee brewer and its new AltaRounds will make you rethink everything you know about Keurig machines.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-31T09:35:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ae379a84c0c94a306d058dd/master/pass/Keurig%20Alta%20Review%20102026%20top%20art%20SOURCE%20Keurig.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/are-memories-transferable-meet-the-scientists-replicating-an-infamous-study-to-find-out/",
+    "title": "Are Memories Transferable? Meet the Scientists Replicating an Infamous Study to Find Out",
+    "description": "In the 1960’s, an odd experiment showed planarian worms could transfer memories by consuming each other. It was a sensational finding—that is until the worms stopped learning.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-31T09:30:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ae09b5cfd6437553a9fb6ee/master/pass/Qualia%20Eating%20Memory%20cr-Lisett%20Ledo%CC%81n-Lede.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261031/p7#a261031p7",
     "title": "A look at growing bipartisan opposition to AI data centers in drought-stricken Arizona, where TSMC's chip fabs were welcomed but newer projects face backlash (Gaby Del Valle/The Verge)",
     "description": "Gaby Del Valle / The Verge:\nA look at growing bipartisan opposition to AI data centers in drought-stricken Arizona, where TSMC's chip fabs were welcomed but newer projects face backlash  —  Industry has drained the state's water reserves for decades.  Data centers are the breaking point.﻿  —  AA hulking gray giant rises from the desert.",
@@ -2234,28 +2258,5 @@
     "pub_date": "2026-10-30T16:58:22+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/wirelessred-GettyImages-865321186.jpg",
     "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/google-gemini-app-upgrade-file-generation",
-    "title": "Google Gemini upgrades are rolling out to all supported Android devices",
-    "description": "Google rolled out a Gemini design change to more Android devices, and brought some file generation features along with it.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-30T16:58:15+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06Y657h9DXW51VRYxDehYUk/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
-    "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
-    "description": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
-    "categories": [
-      "AI & Machine Learning",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-10-30T16:53:49+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1425343562-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
