@@ -1,5 +1,39 @@
 [
   {
+    "link": "https://www.engadget.com/2298724/how-to-improve-android-phone-audio-quality-with-bluetooth-wired-headphones/",
+    "title": "How to improve audio quality on your Android phone with Bluetooth or wired headphones",
+    "description": "Maximizing your listening experience on Android can get very complicated, but we'll guide you through settings and headphone choices to get you there.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-31T12:45:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-to-improve-audio-quality-on-your-android-phone-with-bluetooth-or-wired-headphones/l-intro-1793124520.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2302896/what-happens-when-ai-starts-self-replicating/",
+    "title": "What happens when AI starts self-replicating?",
+    "description": "Anthropic warns that future is soon, but the threat is less novel than it seems.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-31T12:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/what-happens-when-ai-starts-self-replicating/l-intro-1793389611.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2298592/pros-and-cons-using-all-in-one-desktop-computer/",
+    "title": "The pros and cons of using an all-in-one desktop computer",
+    "description": "All-in-one (AIO) computers are more compact and easier to use than desktop setups, but they also trade simplicity for flexibility when it's time to upgrade.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-31T12:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-an-all-in-one-desktop-computer/l-intro-1793120330.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/ai-training-opt-out-robots-txt-google-openai-microsoft-anthropic",
     "title": "Google, Microsoft, OpenAI and Anthropic back one AI training opt-out",
     "description": "Google, Microsoft, OpenAI and Anthropic will honour one shared AI training opt-out in robots.txt. It lets a website keep its content out of generative AI training with a single rule. Today, a site that wants to say no has to write separate rules for each company’s crawler. The shared signal comes from an IETF draft",
@@ -1056,17 +1090,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techradar.com/health-fitness/smartwatches/the-latest-apple-watch-update-promises-better-than-ever-treadmill-workout-tracking-so-i-tested-it-in-my-gym-against-a-coros-pod-2",
-    "title": "The latest Apple Watch update promises better treadmill workout tracking — so I tested it",
-    "description": "Is the Apple Watch accurate to track your treadmill runs? I tested its distance tracking against a foot-mounted Coros Pod 2",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-31T02:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/aYFZWdHBZqM3Sy7boM2zkJ-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/ai-platforms-assistants/chatgpt/who-needs-find-my-earbuds-when-you-have-chatgpt-someone-found-their-lost-bose-bud-in-a-field-of-gravel-by-asking-chatgpt-to-spot-it-in-photos-of-the-ground",
     "title": "Someone found their lost Bose bud in a field of gravel using ChatGPT, and it's genius",
     "description": "It's probably not the most environmentally-friendly earbud finder, but it's better than having to buy a new pair — ChatGPT has better eyes than humans",
@@ -1075,6 +1098,17 @@
     ],
     "pub_date": "2026-10-31T02:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/3U4rgw72gs9LKdGiGkbt5a-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/health-fitness/smartwatches/the-latest-apple-watch-update-promises-better-than-ever-treadmill-workout-tracking-so-i-tested-it-in-my-gym-against-a-coros-pod-2",
+    "title": "The latest Apple Watch update promises better treadmill workout tracking — so I tested it",
+    "description": "Is the Apple Watch accurate to track your treadmill runs? I tested its distance tracking against a foot-mounted Coros Pod 2",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-31T02:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/aYFZWdHBZqM3Sy7boM2zkJ-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2246,39 +2280,5 @@
     "pub_date": "2026-10-30T18:19:19+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/03h9x8FXXcyK3RqI9NYTkHJ/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.zdnet.com/tech/android-17-os-adoption-numbers-october-2026/",
-    "title": "Android 17 adoption hits a staggering 1% – why you really should update now",
-    "description": "Only a quarter of Android phones have even made it to Android 16.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-10-30T18:18:24+00:00",
-    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/a17hero_14a4bb.jpg",
-    "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/cognizant-openai-frontier-capability-group-25000",
-    "title": "Cognizant puts 25,000 staff behind OpenAI, days after a Gemini push",
-    "description": "Cognizant formed an OpenAI Frontier Capability Group of more than 25,000 staff to deploy Codex and ChatGPT for clients. It will focus on software engineering, updating old systems and customer service. The move comes 11 days after Cognizant put 18,000 staff behind Google’s Gemini. Cognizant has formed a group of more than 25,000 staff to",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-10-30T18:15:18+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/openai-about-page-laptop-screen-close-up.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://gizmodo.com/the-season-finale-of-avatar-seven-havens-book-one-got-there-in-the-end-2000833050",
-    "title": "The Season Finale of ‘Avatar: Seven Havens’ Book One Got There in the End",
-    "description": "After a shaky start, the 'Avatar: The Last Airbender' sequel series finds its footing by refusing to live in Aang and Korra's shadow.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-30T18:15:00+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/10/avatar-seven-havens-2-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
   }
 ]
