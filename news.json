@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://thenextweb.com/news/openai-funding-round-20bn-target-cut-ft",
+    "title": "OpenAI cuts its funding round target to $20bn, FT reports",
+    "description": "OpenAI has cut the target for its latest funding round by $10bn, to about $20bn. The Financial Times reported the cut on Friday 30 October, citing people with knowledge of the matter. Some investors reduced their commitments as AI stocks sold off, according to the report. The round values OpenAI at $1.25tn. The company had",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-31T11:38:52+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/sam-altman-grey-sweater-yellow-chair-outdoors.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/ai-platforms-assistants/he-can-pry-it-from-my-cold-dead-hands-sam-altman-says-its-quite-terrible-that-youre-using-ram-in-your-pc-when-theres-not-enough-for-ai-data-centers",
+    "title": "Sam Altman says it's 'quite terrible' that you're using RAM in your PC",
+    "description": "OpenAI CEO Sam Altman says the limited amounts of RAM available could be better allocated around the world.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-10-31T11:30:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/BXoZkmSVeLuG89KngFyiMJ-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/tampered-claude-code-extension-cursor-ssh-backdoor",
     "title": "Anthropic denies breach as tampered Claude Code extension hits Cursor users",
     "description": "A tampered copy of Anthropic’s Claude Code extension sat in Cursor’s extension marketplace for about 11 hours on Thursday 29 October. It reached up to 5,000 users. The malicious versions tried to plant an SSH backdoor on developers’ machines, Cursor said in a security notice. Anthropic says nobody breached its own systems. A security firm",
@@ -727,6 +751,7 @@
     "title": "When talking about local inference, Sam Altman says supply-constrained DRAM is better used in data centers than sitting in PCs and \"being used 5% of the time\" (Andrew E. Freedman/Tom's Hardware)",
     "description": "Andrew E. Freedman / Tom's Hardware:\nWhen talking about local inference, Sam Altman says supply-constrained DRAM is better used in data centers than sitting in PCs and “being used 5% of the time”  —  With data centers full of RAM, your PC is apparently the problem. … OpenAI CEO Sam Altman has data centers full of memory …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-31T06:10:48+00:00",
@@ -901,17 +926,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techradar.com/ai-platforms-assistants/chatgpt/who-needs-find-my-earbuds-when-you-have-chatgpt-someone-found-their-lost-bose-bud-in-a-field-of-gravel-by-asking-chatgpt-to-spot-it-in-photos-of-the-ground",
-    "title": "Someone found their lost Bose bud in a field of gravel using ChatGPT, and it's genius",
-    "description": "It's probably not the most environmentally-friendly earbud finder, but it's better than having to buy a new pair — ChatGPT has better eyes than humans",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-31T02:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/3U4rgw72gs9LKdGiGkbt5a-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/health-fitness/smartwatches/the-latest-apple-watch-update-promises-better-than-ever-treadmill-workout-tracking-so-i-tested-it-in-my-gym-against-a-coros-pod-2",
     "title": "The latest Apple Watch update promises better treadmill workout tracking — so I tested it",
     "description": "Is the Apple Watch accurate to track your treadmill runs? I tested its distance tracking against a foot-mounted Coros Pod 2",
@@ -920,6 +934,17 @@
     ],
     "pub_date": "2026-10-31T02:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/aYFZWdHBZqM3Sy7boM2zkJ-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/ai-platforms-assistants/chatgpt/who-needs-find-my-earbuds-when-you-have-chatgpt-someone-found-their-lost-bose-bud-in-a-field-of-gravel-by-asking-chatgpt-to-spot-it-in-photos-of-the-ground",
+    "title": "Someone found their lost Bose bud in a field of gravel using ChatGPT, and it's genius",
+    "description": "It's probably not the most environmentally-friendly earbud finder, but it's better than having to buy a new pair — ChatGPT has better eyes than humans",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-10-31T02:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/3U4rgw72gs9LKdGiGkbt5a-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2249,27 +2274,5 @@
     "pub_date": "2026-10-30T17:55:04+00:00",
     "image_url": "https://gizmodo.com/app/uploads/2026/10/idol-head-and-bone-flute-1280x853.jpg",
     "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/why-are-google-reddit-stocks-plummeting",
-    "title": "Google, Reddit, and more tech stocks plummet: What’s driving market shocks",
-    "description": "Google and Reddit stocks are tanking. The reasons why are linked. Here's what's happening in the markets.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-30T17:53:05+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01kpHxCUvPxXPYsCgI5lyit/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/cool-tech/elon-musk-says-neuralinks-two-brain-implants-could-help-people-with-paralysis-and-blindness/",
-    "title": "Elon Musk says Neuralink’s brain implants could help people with paralysis and blindness",
-    "description": "Elon Musk has outlined Neuralink's ambitions for Telepathy and Blindsight, two brain implants targeting paralysis and blindness. He also hopes future technology could help people walk and use their hands again.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-30T17:52:52+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/elon-musk-neuralink-brain-implant.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
   }
 ]
