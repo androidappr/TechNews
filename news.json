@@ -1,5 +1,27 @@
 [
   {
+    "link": "https://www.engadget.com/2301246/how-to-fix-phone-screen-unresponsive-to-touch/",
+    "title": "How to fix your phone screen when it's unresponsive to touch​",
+    "description": "Few things are more annoying than an unresponsive touchscreen. Before you give up on your phone, here's what to try to get it working again.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-31T17:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-to-fix-your-phone-screen-when-its-unresponsive-to-touch/l-intro-1793286831.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2301243/how-building-cheap-home-server-save-money/",
+    "title": "How building a cheap home server could save you money in the long run",
+    "description": "Using an old PC to create your own server can save you quite a bit of money through a couple of avenues. Here's what it can do.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-31T16:45:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-building-a-cheap-home-server-could-save-you-money-in-the-long-run/l-intro-1793284498.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.engadget.com/2300259/why-spotify-uses-so-much-storage/",
     "title": "Why your Spotify might be using so much storage",
     "description": "Spotify can be a storage hog if you don't have your device's settings optimized. Here's what you can do if Spotify is taking up too much storage.",
@@ -477,7 +499,6 @@
     "title": "Google's new Genie 4 model looks incredible, but it's a long way from AGI",
     "description": "Google's Genie 4 can create astonishing interactive worlds, but claims that it represents progress toward AGI feel premature.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-31T13:00:00+00:00",
@@ -755,7 +776,6 @@
     "title": "Top tech of the month: the best new gadgets we've tested for November 2026",
     "description": "From wonderful wearables to top TVs (plus a foldable phone that was a long time coming), here's the tech that won us over this past month.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-10-31T11:02:00+00:00",
@@ -2255,28 +2275,5 @@
     "pub_date": "2026-10-30T21:15:33+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/gemini-ai-avatar.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-    "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-    "description": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-10-30T21:09:54+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261030/p26#a261030p26",
-    "title": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI across multiple crawlers (Emma Roth/The Verge)",
-    "description": "Emma Roth / The Verge:\nOpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI across multiple crawlers  —  The new control will allow publishers to apply their AI training preferences across multiple crawlers.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-30T21:05:00+00:00",
-    "image_url": "http://www.techmeme.com/261030/i26.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
