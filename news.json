@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "title": "OpenAI reportedly lowers funding target for new round",
+    "description": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-10-31T16:12:55+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2303277/nasa-second-year-long-mars-simulation-mission-ends-today/",
+    "title": "NASA's second year-long Mars simulation mission ends today",
+    "description": "The second crew that spent a year inside NASA's simulated Mars habitat is emerging today, and the agency will stream it live.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-10-31T16:07:17+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/nasas-second-year-long-mars-simulation-mission-ends-today/l-intro-1793462639.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/phones/whatsapp-group-status-permanent-message-pins/",
+    "title": "WhatsApp group chats get permanent message pins, private Status updates, and more",
+    "description": "WhatsApp is introducing four new features to group conversations, aimed at making it easier for users to manage important messages and catch up on conversations they may have missed. The latest additions include Group Status, permanent message pinning, a dedicated filter for mentions and replies, and the ability to share recent message history even after",
+    "categories": [
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-31T16:05:38+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/09/WhatsApp-on-iPhone.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+    "title": "I built an AI Tamagotchi before Meta could",
+    "description": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Social & Media"
+    ],
+    "pub_date": "2026-10-31T16:05:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&strip=all&crop=4,0,96,94.899920311255",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.engadget.com/2300262/gnss-vs-gps-differences/",
     "title": "GNSS Vs GPS: What's the difference?",
     "description": "GNSS and GPS are common terms in the world of satellite navigation. They may be similar, but there are some key differences between the two technologies.",
@@ -184,6 +234,17 @@
     "source_name": "ENGADGET.COM"
   },
   {
+    "link": "https://www.techradar.com/entertainment/i-checked-out-three-major-horror-titles-in-time-for-halloween-but-a-popular-movie-adaptation-ended-up-being-the-biggest-let-down",
+    "title": "I checked out three major horror titles in time for Halloween — but a popular movie adaptation ended up being the biggest let down",
+    "description": "Three major titles were released around Halloween, but which are worth your time?",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-10-31T15:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/w4AmJerTBjpG48j2cHrBVi-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techradar.com/entertainment/football/bayern-munich-vs-borussia-dortmund-klassiker-free-bundesliga-2026-27",
     "title": "How to watch Bayern Munich vs Borussia Dortmund: Klassiker FREE live streams and TV channels for Bundesliga 2026/27",
     "description": "All the ways to watch Bayern Munich vs Borussia Dortmund live streams for free from anywhere in the Bundesliga 2026/27, as Ballon d'Or Harry Kane seeks goals.",
@@ -193,17 +254,6 @@
     ],
     "pub_date": "2026-10-31T15:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/XaUBiq3fmDNGMzNnVrqpTK-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/entertainment/i-checked-out-three-major-horror-titles-in-time-for-halloween-but-a-popular-movie-adaptation-ended-up-being-the-biggest-let-down",
-    "title": "I checked out three major horror titles in time for Halloween — but a popular movie adaptation ended up being the biggest let down",
-    "description": "Three major titles were released around Halloween, but which are worth your time?",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-31T15:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/w4AmJerTBjpG48j2cHrBVi-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -476,7 +526,6 @@
     "description": "Samsung hosted OpenAI chief executive Sam Altman for talks with about 50 of its presidents on Saturday. Two days earlier, a podcast went out in which Sam Altman said it is “quite terrible” for the world’s limited DRAM to sit in people’s own computers. DRAM is the memory chip Samsung makes. Samsung set out the",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-10-31T12:03:14+00:00",
@@ -546,7 +595,8 @@
     "title": "OpenAI cuts its funding round target to $20bn, FT reports",
     "description": "OpenAI has cut the target for its latest funding round by $10bn, to about $20bn. The Financial Times reported the cut on Friday 30 October, citing people with knowledge of the matter. Some investors reduced their commitments as AI stocks sold off, according to the report. The round values OpenAI at $1.25tn. The company had",
     "categories": [
-      "AI & Machine Learning"
+      "AI & Machine Learning",
+      "Breaking News"
     ],
     "pub_date": "2026-10-31T11:38:52+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/sam-altman-grey-sweater-yellow-chair-outdoors.avif",
@@ -2228,49 +2278,5 @@
     "pub_date": "2026-10-30T20:55:37+00:00",
     "image_url": "http://www.techmeme.com/261030/i25.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/more-ads-are-coming-to-google-search-ai-mode",
-    "title": "Even more ads are coming to Google search, Google says",
-    "description": "Google's AI Overviews are impacting its lucrative search advertising business. Its solution? More ads!",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-30T20:50:48+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02uE7Cuy8HRpCfAocpFYfhy/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/home-theater/audio-technicas-new-wireless-streamset-headset-promises-studio-sound-without-the-cables/",
-    "title": "Audio-Technica’s new wireless StreamSet headset promises studio sound without the cables",
-    "description": "A proper condenser microphone, studio-inspired sound, and 24-hour battery life. Audio-Technica wants its new wireless headset to do it all.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-30T20:50:34+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Audio-technica-new-headset.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-    "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-    "description": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-30T20:48:43+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/us-police-forces-could-soon-get-a-major-tech-upgrade-thanks-to-dt-researchs-new-rugged-laptops-which-pack-in-nvidia-graphics-and-ai-processing",
-    "title": "US police forces could soon get a major tech upgrade thanks to DT Research's new rugged laptops, which pack in Nvidia graphics and AI processing",
-    "description": "But its entry-level GPU is two generations old, and its AI pitch centers on its internals.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-30T20:45:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/3o2xabomRPxUPCTH2aNPDe-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
