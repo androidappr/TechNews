@@ -1,5 +1,19 @@
 [
   {
+    "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+    "title": "Data centers are now a midterm issue, even in Brooklyn",
+    "description": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-01T02:22:10+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/phones/android-sms-of-death-vulnerability/",
     "title": "Android’s new ‘SMS of Death’ exploit can crash your phone without you doing anything",
     "description": "A security researcher has uncovered a serious vulnerability in Android that allows an attacker to remotely crash a smartphone using a specially crafted text message. Dubbed “SMS of Death,” the flaw can disrupt cellular services, disconnect ongoing calls, and even leave a phone stuck in a reboot loop. The troubling part is that the recipient",
@@ -184,7 +198,6 @@
     "title": "The reason most electrical plug prongs have holes in them",
     "description": "If you've ever looked at the end of a plug, you've probably wondered why some have holes, and some don't - and no, it's not actually a big conspiracy theory.",
     "categories": [
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-10-31T22:30:00+00:00",
@@ -196,8 +209,7 @@
     "title": "Big Tech buybacks fall 83% as AI spending eats the cash, Reuters reports",
     "description": "Microsoft, Alphabet, Amazon, Meta and Oracle handed 9.3% of the cash their businesses made back to shareholders. That covers the first nine months of 2026. That is the smallest share in at least 15 years, down from 27.4% a year earlier. The figures come from a Reuters analysis of LSEG data and company reports by",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-10-31T22:21:38+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/stock-ticker-spy-led-display-green-red-chart.avif",
@@ -2237,16 +2249,5 @@
     "pub_date": "2026-10-31T05:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/06p7Xx30NcVmGplsQ3cbeuY/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261031/p1#a261031p1",
-    "title": "John Ternus says Apple doesn't \"want to ship AI for AI's sake\" and that Tim Cook is \"available to help wherever I ask\" on policy; Ternus has yet to meet Trump (Steven Levy/Wired)",
-    "description": "Steven Levy / Wired:\nJohn Ternus says Apple doesn't “want to ship AI for AI's sake” and that Tim Cook is “available to help wherever I ask” on policy; Ternus has yet to meet Trump  —  Apple doesn't need fixing, and it doesn't want drama.  Its new leader is a “product guy” who bleeds six colors.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-31T04:30:01+00:00",
-    "image_url": "http://www.techmeme.com/261031/i1.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
