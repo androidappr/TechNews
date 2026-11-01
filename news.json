@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.digitaltrends.com/home/apple-might-be-turning-its-homeview-into-a-security-camera-and-it-makes-perfect-sense/",
+    "title": "Apple might be turning its HomeView into a security camera, and it makes perfect sense",
+    "description": "Apple’s recently unveiled HomeView smart display could also function as a home security camera, according to a new finding in its software. The device, which already has a built-in camera for FaceTime calls and facial recognition, could supposedly use the same hardware for motion detection, live streaming, and video recording through HomeKit Secure Video. The",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-01T23:34:04+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Apple-HomeView-feature.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2300311/this-is-the-right-way-to-clean-your-vinyl-records/",
+    "title": "This is the right way to clean your vinyl records",
+    "description": "The answer depends on your budget - and how hardcore you want to get.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-01T23:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/this-is-the-right-way-to-clean-your-vinyl-records/l-intro-1793204302.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/this-us-state-wants-to-let-ai-set-up-and-run-an-entire-business-with-only-a-single-human-needed",
     "title": "This US state wants to let AI set up and run an entire business — with only a single human needed",
     "description": "US Congress is pushing back on the state of Delaware’s new legislation that allows placing AIs in charge of companies.",
@@ -272,7 +295,6 @@
     "title": "Google is building NASA a robot doctor for use on future deep space missions",
     "description": "Google and NASA are developing a robotic medical assistant for deep-space astronauts, combining equipment handling, basic health monitoring, and supervised medical support.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-01T19:35:00+00:00",
@@ -2231,27 +2253,5 @@
     "pub_date": "2026-10-31T20:41:36+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/037GA6LFMvnmzF3gXa5mSiX/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/writers-are-now-deliberately-making-mistakes-because-apparently-good-prose-looks-like-ai/",
-    "title": "Writers are now deliberately making mistakes because, apparently, good prose looks like AI",
-    "description": "AI detectors are prompting writers to rethink their vocabulary, sentence structure and punctuation, as even polished human writing risks being mistaken for AI-generated text.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-31T20:35:29+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/DT-2026-11-01T015110.741.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/nvidia-forced-to-dial-back-key-bandwidth-targets-on-vera-rubin-hardware-tweaks-will-affect-target-specifications-for-memory-and-interconnect-fabric",
-    "title": "Nvidia forced to dial back key bandwidth targets on Vera Rubin hardware — tweaks will affect target specifications for memory and interconnect fabric",
-    "description": "HBM4 bandwidth dropped 13% while NVLink dropped 17%, and it took six weeks for anyone to notice.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-31T20:35:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/MLH2WqUBs2jRD6pZ52Gdn6-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
