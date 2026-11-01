@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.digitaltrends.com/phones/android-sms-of-death-vulnerability/",
+    "title": "Android’s new ‘SMS of Death’ exploit can crash your phone without you doing anything",
+    "description": "A security researcher has uncovered a serious vulnerability in Android that allows an attacker to remotely crash a smartphone using a specially crafted text message. Dubbed “SMS of Death,” the flaw can disrupt cellular services, disconnect ongoing calls, and even leave a phone stuck in a reboot loop. The troubling part is that the recipient",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-01T01:50:02+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/06/samsung-galaxy-s26-ultra-smartphone-16.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/this-truly-modular-keyboard-can-be-built-like-a-lego-set-meaning-you-can-add-as-many-keys-as-you-like",
     "title": "This 'truly modular' keyboard can be built like a Lego set — meaning you can add as many keys as you like",
     "description": "Keybytes project uses magnetic key modules and individual microcontrollers to create custom keyboards.",
@@ -2238,16 +2250,5 @@
     "pub_date": "2026-10-31T04:30:01+00:00",
     "image_url": "http://www.techmeme.com/261031/i1.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
-    "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
-    "description": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night on a",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-10-31T04:05:00+00:00",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/Hverir_Vetter_1300.jpg?w=1300&h=867&fit=clip&crop=faces%2Cfocalpoint",
-    "source_name": "SCIENCE.NASA.GOV"
   }
 ]
