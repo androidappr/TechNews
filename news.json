@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.techmeme.com/261102/p38#a261102p38",
+    "title": "Palantir reports Q3 revenue up 96% YoY to $2.31B, above $2.18B est., US commercial revenue up 148% to $984M, and raises FY 2026 revenue guidance to ~$8.53B (Samantha Subin/CNBC)",
+    "description": "Samantha Subin / CNBC:\nPalantir reports Q3 revenue up 96% YoY to $2.31B, above $2.18B est., US commercial revenue up 148% to $984M, and raises FY 2026 revenue guidance to ~$8.53B  —  Palantir beat Wall Street's third-quarter estimates after the bell on Monday, with U.S. commercial revenue topping government …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-02T21:30:00+00:00",
+    "image_url": "http://www.techmeme.com/261102/i38.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261102/p37#a261102p37",
     "title": "Roku reports Q3 revenue up 24% YoY to $1.5B, Platform revenue up 23% to $1.3B, ad revenue up 23% to $727.4M, and subscription revenue up 23% to $580.9M (Todd Spangler/Variety)",
     "description": "Todd Spangler / Variety:\nRoku reports Q3 revenue up 24% YoY to $1.5B, Platform revenue up 23% to $1.3B, ad revenue up 23% to $727.4M, and subscription revenue up 23% to $580.9M  —  For the third quarter, Roku handily topped Wall Street earnings expectations, with top-line growth of 24% to $1.50 billion in revenue.",
@@ -9,6 +20,17 @@
     "pub_date": "2026-11-02T21:15:01+00:00",
     "image_url": "http://www.techmeme.com/261102/i37.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/google-prospect-union-access-uk-offices",
+    "title": "Google opens its UK offices to union recruiters after a change in the law",
+    "description": "Google has agreed to let the Prospect union speak to its UK staff in its offices, including its King’s Cross headquarters. It follows a new UK law, in force since Friday, giving unions a right to access workplaces. Prospect signed a similar deal with Meta in September. Google has agreed to let the trade union",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-02T21:14:11+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/google-logo-neon-sign-office-wall-sydney.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
@@ -997,7 +1019,6 @@
     "title": "Athenahealth patients can ask Claude about their medical records now",
     "description": "The partnership could provide one of the nation’s largest AI companies with a bevy of personal medical data.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-02T17:30:47+00:00",
@@ -1009,7 +1030,6 @@
     "title": "We Want to Know What’s on Your Wrist (and Finger and Face)",
     "description": "Tell us which fitness trackers, smartwatches and smart glasses earn a spot in your daily routine.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-02T17:30:00+00:00",
@@ -1700,7 +1720,6 @@
     "title": "Sources detail Anthropic's compute deal spree: 3.5GW+ of expected capacity in 2026, diversifying beyond Nvidia's AI chips to Amazon, Google, and AMD, and more (New York Times)",
     "description": "New York Times:\nSources detail Anthropic's compute deal spree: 3.5GW+ of expected capacity in 2026, diversifying beyond Nvidia's AI chips to Amazon, Google, and AMD, and more  —  Illustration by Mark Harris; Photographs by Thea Traff for The New York Times, AJ Mast for The New York Times, Manuel Orbegozo for The New York Times, Getty Images",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-02T15:20:25+00:00",
@@ -2309,30 +2328,6 @@
     ],
     "pub_date": "2026-11-02T13:10:02+00:00",
     "image_url": "http://www.techmeme.com/261102/i20.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/marvell-lumentum-acquisition-115bn-all-stock",
-    "title": "Marvell to buy Nvidia-backed Lumentum in a $115bn all-stock deal",
-    "description": "Lumentum shares fell about 10% and Marvell shares about 5% in morning trading in New York on Monday. Because Lumentum shareholders are paid in Marvell stock at a fixed ratio, the value of the offer moves with Marvell’s share price. Marvell’s annual revenue more than doubled, from $3bn in fiscal 2021 to $8.2bn in fiscal",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-02T13:07:13+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/matt-murphy-marvell-ceo-portrait.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261102/p19#a261102p19",
-    "title": "A look at AI safety debates and the rising popularity of \"Stop Unilaterally + Raise Awareness\", or SURA; safety-focused AI labs shouldn't abandon the AI race (Scott Alexander/LessWrong)",
-    "description": "Scott Alexander / LessWrong:\nA look at AI safety debates and the rising popularity of “Stop Unilaterally + Raise Awareness”, or SURA; safety-focused AI labs shouldn't abandon the AI race  —  The AI Futures Project[1] distinguishes several different plans for navigating the AI transition, which I'll lump into two broader categories:",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-02T13:05:02+00:00",
-    "image_url": "http://www.techmeme.com/261102/i19.jpg",
     "source_name": "TECHMEME.COM"
   }
 ]
