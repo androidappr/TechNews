@@ -1,7 +1,21 @@
 [
   {
+    "link": "https://thenextweb.com/news/germany-lawmakers-iphones-apple-spyware-alerts",
+    "title": "Apple spyware alerts reach German MPs and journalists in 99 countries",
+    "description": "Germany’s cybersecurity agency has told lawmakers who got Apple’s spyware warnings to treat their iPhones as possibly compromised. Several Bundestag members and other public figures have received the alerts since 29 October. The Federal Office for Information Security (BSI) said so in a note on its website. In the alerts, Apple says it detected an",
+    "categories": [
+      "Cybersecurity & Privacy",
+      "Gadgets & Hardware",
+      "Government & Policy",
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-11-02T20:53:00+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/apple-threat-notification-iphone-lock-screen-settings.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/11/02/apple-releases-new-tvos-27-2-build-ahead-of-updated-apple-tv-4k-launch/",
-    "title": "Apple releases new tvOS 27.2 build ahead of updated Apple TV 4K launch",
+    "title": "Apple releases new tvOS 27.2 build ahead of updated Apple TV 4K launch [U]",
     "description": "Ahead of the new Apple TV 4K’s November 13 launch, Apple today released an updated build of tvOS 27.2 exclusively for the fourth-generation model. Here are the details.\n\n\n\n more…",
     "categories": [
       "Tech News"
@@ -11,7 +25,7 @@
     "source_name": "9TO5MAC.COM"
   },
   {
-    "link": "https://www.theverge.com/tech/1024807/google-botnet-android-tv-shut-down",
+    "link": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
     "title": "One of Google&#8217;s Android partners turned 1.3 million set-top boxes into a botnet",
     "description": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned from building or selling certified Android devices or",
     "categories": [
@@ -19,7 +33,7 @@
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-11-02T20:37:49+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/videostrong-android-tv-device.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
   },
   {
@@ -821,7 +835,6 @@
     "title": "This 100-inch Hisense TV is $1,200 off ahead of Black Friday — just in time for football",
     "description": "Amazon has the Hisense 100-inch U8 Mini-LED TV for $2,799.99 ahead of Black Friday. Save $1,200 and upgrade your Sunday night football.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-02T17:46:40+00:00",
@@ -1187,7 +1200,6 @@
     "title": "The Bose QuietComfort (2nd gen) headphones are $160 off for the first time ever",
     "description": "The new Bose QuietComfort headphones dropped to their lowest ever price ahead of Black Friday. At just $199, Mashable's headphones expert calls it the early Black Friday deal to beat.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-02T16:49:31+00:00",
@@ -1223,7 +1235,6 @@
     "title": "I'm a Celebrity 2026 what we know: release date, cast confirmed, how to watch",
     "description": "ITV have confirmed the release date for this year's I'm a Celeb, and there's been heavy speculation as to who'll be going into the jungle",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-02T16:46:10+00:00",
@@ -1312,8 +1323,8 @@
   },
   {
     "link": "https://www.techmeme.com/261102/p29#a261102p29",
-    "title": "Amended S-1: Anthropic says it has purchase commitments and lease agreements of $895.4B, \"substantially all of which is related to compute and infrastructure\" (Ashley Capoot/CNBC)",
-    "description": "Ashley Capoot / CNBC:\nAmended S-1: Anthropic says it has purchase commitments and lease agreements of $895.4B, “substantially all of which is related to compute and infrastructure”  —  Anthropic reported updated financials as part of an amended Form S-1 filing with the Securities and Exchange Commission on Monday …",
+    "title": "Amended S-1: Anthropic says it has purchased commitments and lease agreements of $895.4B, \"substantially all of which is related to compute and infrastructure\" (Ashley Capoot/CNBC)",
+    "description": "Ashley Capoot / CNBC:\nAmended S-1: Anthropic says it has purchased commitments and lease agreements of $895.4B, “substantially all of which is related to compute and infrastructure”  —  Anthropic reported updated financials as part of an amended Form S-1 filing with the Securities and Exchange Commission on Monday …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -1374,8 +1385,7 @@
     "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
     "description": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-02T16:23:21+00:00",
     "image_url": null,
@@ -1454,7 +1464,6 @@
     "title": "FastestVPN quietly bundles a lifetime family password app with no monthly fee in its Black Friday sale",
     "description": "FastestVPN, which scored 4 stars in our review, has started bundling a free lifetime family password manager with its VPN.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-02T16:07:09+00:00",
@@ -1774,7 +1783,6 @@
     "title": "Sources: Apple is developing a tabletop robot with a 9\" screen and a swiveling arm, set for release in 2027 or 2028 for ~$1,000, as John Ternus pushes robotics (Aaron Tilley/The Information)",
     "description": "Aaron Tilley / The Information:\nSources: Apple is developing a tabletop robot with a 9\" screen and a swiveling arm, set for release in 2027 or 2028 for ~$1,000, as John Ternus pushes robotics  —  Apple's new CEO John Ternus wants the company to get serious about robots, but judging by Apple's plodding progress …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-02T14:55:00+00:00",
@@ -2332,16 +2340,5 @@
     "pub_date": "2026-11-02T12:45:01+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/vdFBZfBeD5GsGZtvKZfhPA-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261102/p17#a261102p17",
-    "title": "Hirundo, Lazarus, and others are applying machine unlearning and weight edits to Chinese models to remove censorship and harden security for Western companies (Rest of World)",
-    "description": "Rest of World:\nHirundo, Lazarus, and others are applying machine unlearning and weight edits to Chinese models to remove censorship and harden security for Western companies  —  A growing number of startups are editing powerful Chinese open-weight models for Western businesses that are concerned about censorship and security.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-02T12:40:05+00:00",
-    "image_url": "http://www.techmeme.com/261102/i17.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
