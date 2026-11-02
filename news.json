@@ -1,5 +1,89 @@
 [
   {
+    "link": "https://www.engadget.com/2300337/difference-between-airpods-noise-cancellation-adaptive-audio-modes/",
+    "title": "What's the difference between AirPods' Noise Cancellation and Adaptive Audio modes?",
+    "description": "Modern AirPods offer several audio modes, and noise cancellation isn't always the best option.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-02T13:15:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/whats-the-difference-between-airpods-noise-cancellation-and-adaptive-audio-modes/l-intro-1793049678.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261102/p20#a261102p20",
+    "title": "Elon Musk says the cost of serving Grok Bot was \"unsustainably high relative to revenue\", following subscriber complaints regarding rapid usage limit depletion (Siladitya Ray/Forbes)",
+    "description": "Siladitya Ray / Forbes:\nElon Musk says the cost of serving Grok Bot was “unsustainably high relative to revenue”, following subscriber complaints regarding rapid usage limit depletion  —  Topline  —  Elon Musk acknowledged on Sunday that the cost of running SpaceX's AI agent Grok Bot was “unsustainably high” …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-02T13:10:02+00:00",
+    "image_url": "http://www.techmeme.com/261102/i20.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/marvell-lumentum-acquisition-115bn-all-stock",
+    "title": "Marvell to buy Nvidia-backed Lumentum in a $115bn all-stock deal",
+    "description": "Marvell Technology has agreed to buy Lumentum in an all-stock deal. Lumentum makes lasers and other optical parts for AI data centres. The two companies valued Lumentum at $115bn, including debt, when they announced the deal on Monday. Lumentum shareholders will get 4.5 Marvell shares for each share they own, the companies said in a",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-02T13:07:13+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/matt-murphy-marvell-ceo-portrait.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261102/p19#a261102p19",
+    "title": "A look at AI safety debates and the rising popularity of \"Stop Unilaterally + Raise Awareness\", or SURA; safety-focused AI labs shouldn't abandon the AI race (Scott Alexander/LessWrong)",
+    "description": "Scott Alexander / LessWrong:\nA look at AI safety debates and the rising popularity of “Stop Unilaterally + Raise Awareness”, or SURA; safety-focused AI labs shouldn't abandon the AI race  —  The AI Futures Project[1] distinguishes several different plans for navigating the AI transition, which I'll lump into two broader categories:",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-02T13:05:02+00:00",
+    "image_url": "http://www.techmeme.com/261102/i19.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/gchq-has-apparently-lost-thousands-of-storage-devices-in-recent-years-and-has-no-idea-where-any-of-them-are",
+    "title": "GCHQ has apparently lost thousands of storage devices in recent years — and has no idea where any of them are",
+    "description": "A recent watchdog investigation into GCHQ confirms missing storage devices are still a problem.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-02T13:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/WkEE3KzzBzg7tMntyVqmYJ-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/deepseek-open-sources-super-agent-a-prototype-autonomous-coding-agent",
+    "title": "DeepSeek open-sources Super-agent, a prototype autonomous coding agent",
+    "description": "DeepSeek has released an open-source prototype of a more autonomous coding agent, called Super-agent, Bloomberg reported on Sunday. According to Bloomberg, the release is aimed at competing with Anthropic’s Claude Code. The Chinese AI company’s Harness team described the agent in a WeChat post on October 31 and published the code on GitHub. The agent can watch developers’",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-02T13:02:50+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/deepseek-app-new-chat-screen-smartphone-1920.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/windows/windows-11s-new-internet-speed-test-was-built-in-a-flash-by-agentic-ai-which-is-both-impressive-and-worrying",
+    "title": "Windows 11 feature built in a flash by AI is impressive — but worrying",
+    "description": "Is Microsoft wise to be touting the benefits of AI in this way at the current time? I don't think so.",
+    "categories": [
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-02T13:02:09+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/mszszuQdPWYRLw8JSzLBcG-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack",
     "title": "More European supermarkets are getting their freezers hacked",
     "description": "Grocery stores across Europe have been hit by another wave of suspected cyberattacks, reporting sudden changes in the temperatures of their fridges and freezers. Major supermarket chains across Belgium, Sweden, Luxembourg, and Estonia were affected according to local reports shared by Bloomberg and Reuters. One Ica Kvantum store in Sweden said on its Facebook page",
@@ -10,6 +94,17 @@
     "pub_date": "2026-11-02T13:00:35+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302707314.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/say-more-jordan-klepper-red-flags",
+    "title": "Why Jordan Klepper thinks were living in \"dumb McCarthyism\"",
+    "description": "Jordan Klepper talks to Mashable about his new special Red Flags, Trump rallies, and the evolution of political satire.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-02T13:00:00+00:00",
+    "image_url": "https://cdn.ex.co/transformations-account/production/a0be6317-e085-43f9-8cb5-7b125d25af4b/3b8a4505-e14f-4dc1-94b2-67ea42e1645c/master.m3u8",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techmeme.com/261102/p18#a261102p18",
@@ -44,6 +139,17 @@
     "pub_date": "2026-11-02T12:40:05+00:00",
     "image_url": "http://www.techmeme.com/261102/i17.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://mashable.com/life/nov-2-apple-watch-ultra-4-deal",
+    "title": "Early Black Friday Apple deal: Save $99.01 on Apple Watch Ultra 4 at Amazon",
+    "description": "Find the best Apple Watch deal at Amazon. Save 12% on the Apple Watch Ultra 4 at Amazon.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-02T12:36:57+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/07EWyCOFZ4FhutayZyORq4e/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techradar.com/pro/bizarre-dell-pro-max-tower-t2-workstation-pricing-quirk-makes-it-cheaper-than-the-nvidia-blackwell-gpu-inside-it",
@@ -150,9 +256,10 @@
   },
   {
     "link": "https://www.techmeme.com/261102/p14#a261102p14",
-    "title": "Marvell agrees to buy optical components maker Lumentum in a $115B all-stock deal, as it seeks to rival Broadcom; Nvidia invested $2B in each company in 2026 (Anhata Rooprai/Reuters)",
-    "description": "Anhata Rooprai / Reuters:\nMarvell agrees to buy optical components maker Lumentum in a $115B all-stock deal, as it seeks to rival Broadcom; Nvidia invested $2B in each company in 2026  —  Marvell Technology (MRVL.O) is buying optical components maker Lumentum (LITE.O) in a $115 billion all-stock deal, including debt …",
+    "title": "Marvell agrees to acquire optical components maker Lumentum in a $115B all-stock deal, as it aims to rival Broadcom; Nvidia invested $2B in each company in 2026 (Anhata Rooprai/Reuters)",
+    "description": "Anhata Rooprai / Reuters:\nMarvell agrees to acquire optical components maker Lumentum in a $115B all-stock deal, as it aims to rival Broadcom; Nvidia invested $2B in each company in 2026  —  Marvell Technology (MRVL.O) is buying optical components maker Lumentum (LITE.O) in a $115 billion all-stock deal, including debt …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-02T12:20:01+00:00",
@@ -182,6 +289,18 @@
     "pub_date": "2026-11-02T12:02:44+00:00",
     "image_url": "https://media.thenextweb.com/2026/11/glass-door-supermarket-fridges-yogurt-aisle.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/",
+    "title": "This $48 e-paper display can be whatever you want it to be",
+    "description": "This DIY e-paper display works in two official ecosystems or on your own server.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-02T12:00:07+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/TRMNL_Seeed_Kit_Ferengi_Rules-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
@@ -710,7 +829,6 @@
     "title": "How to watch Paris Masters 2026 for FREE: Live Streams & TV Channels for ATP 1000 Tennis, Schedule & Preview",
     "description": "Watch streams from the Paris Masters 2026, including free trial options, as Alcaraz and Zverev headline event – tennis TV channels, broadcasters and streams.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-02T09:09:38+00:00",
@@ -2134,122 +2252,5 @@
     "pub_date": "2026-11-01T15:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/5-spotify-settings-youll-wish-you-changed-sooner/l-intro-1793297764.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2300277/which-android-closest-to-iphone-18-pro-max/",
-    "title": "Which Android is the closest counterpart to the iPhone 18 Pro Max?",
-    "description": "The iPhone 18 Pro Max is a brilliant phone, but not everyone wants to live in Apple's walled garden. This is the closest competitor Android can offer.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-01T14:45:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/which-android-is-the-closest-counterpart-to-the-iphone-18-pro-max/l-intro-1793079780.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/google-suncatcher-satellite-first-ai-response-gemma-haiku",
-    "title": "Google’s Suncatcher satellite runs AI in orbit and sends a haiku home",
-    "description": "Google’s prototype data centre satellite has run an AI model in orbit and sent its answer back to Earth. The onboard Gemma 4 model wrote a haiku about being in space, Travis Beals, a senior director at Google, wrote in a blog post on Friday. The satellite launched on 1 October for Project Suncatcher, Google’s",
-    "categories": [
-      "AI & Machine Learning",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-01T14:35:19+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/project-suncatcher-logo-yellow-orange-blue-gradient.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
-    "title": "North Korea linked to massive Binance crypto heist",
-    "description": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered few other",
-    "categories": [
-      "Crypto & Web3",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-01T14:33:11+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK428_CRYPTO_2_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/tablets/ipad-mini/apple-reveals-that-the-new-ipad-mini-has-a-smaller-battery-but-heres-why-thats-actually-a-good-thing",
-    "title": "The new Apple iPad mini has a smaller battery — but that's a good thing",
-    "description": "While the 8th-gen iPad mini has a slightly smaller battery capacity, it's not something to worry about.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-01T14:30:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/h4kNv3NfTYBY9zinbGPXy7-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2300275/starlink-wifi-how-to-check-upcoming-flight/",
-    "title": "How to check if your upcoming flight has Starlink Wi-Fi",
-    "description": "Starlink is coming to many airlines, but the rollouts are all in different stages of completion.",
-    "categories": [
-      "Breaking News",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-11-01T14:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/how-to-check-if-your-upcoming-flight-has-starlink-wi-fi/l-intro-1793040764.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/xai-naacp-lawsuit-gas-turbines-motion-to-dismiss-denied",
-    "title": "Judge rejects xAI’s bid to dismiss NAACP lawsuit over its gas turbines",
-    "description": "A federal judge in Mississippi has refused to throw out the NAACP’s Clean Air Act lawsuit against xAI. The case is over the gas turbines that power its Colossus 2 data centre. Judge Debra M. Brown ruled on Friday that the turbines are not exempt from air permits as “mobile sources”. She also rejected xAI’s",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-11-01T14:26:50+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/gas-turbines-power-plant-southaven-mississippi-aerial.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2300274/macbook-pro-battery-life-comparison-2011-vs-2026/",
-    "title": "MacBook Pro battery life in 2011 vs 2026: how much has it really improved in 15 years?",
-    "description": "Apple's 2026 MacBook Pro is light-years ahead of its 2011 model in terms of performance. But is longer battery life one of those improvements?",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-01T14:15:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/macbook-pro-battery-life-in-2011-vs-2026-how-much-has-it-really-improved-in-15-years/l-intro-1793038213.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/palantir-shyam-sankar-anthropic-stuck-in-the-middle-stratechery",
-    "title": "Palantir CTO tells Stratechery he doesn’t regret working with Anthropic",
-    "description": "Palantir was caught in Anthropic’s clash with the US Department of War, its chief technology officer, Shyam Sankar, told Ben Thompson for Stratechery, in an interview published on Thursday. Thompson noted that Anthropic’s work for the US national security system ran through Palantir, and asked whether Sankar regrets it. “Yes, we were stuck in the",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-01T14:01:01+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/shyam-sankar-palantir-speaking-microphone-davos-panel.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
-    "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
-    "description": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-01T14:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
-    "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
-    "description": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color glowy stuff, and better AirPlay? For $50 more than",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-01T14:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268839_HomePod_mini_2_JTuohy_0009.jpg?quality=90&strip=all&crop=0,6.1688463882248,80.59453125,89.629916092439",
-    "source_name": "THEVERGE.COM"
   }
 ]
