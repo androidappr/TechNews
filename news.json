@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.techmeme.com/261101/p20#a261101p20",
+    "title": "Hyperbolic, which lets companies rent AI compute across ~30 neoclouds, raised a $30M Series A-1 led by Lip-Bu Tan's Walden Catalyst; it has raised $50M to date (Geoff Weiss/Business Insider)",
+    "description": "Geoff Weiss / Business Insider:\nHyperbolic, which lets companies rent AI compute across ~30 neoclouds, raised a $30M Series A-1 led by Lip-Bu Tan's Walden Catalyst; it has raised $50M to date  —  Intel CEO Lip-Bu Tan is backing an infrastructure startup that has raised $30 million to help companies rent compute across hundreds of different AI cloud providers.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-02T01:15:00+00:00",
+    "image_url": "http://www.techmeme.com/261101/i20.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/cool-tech/ai-doesnt-have-to-turn-evil-to-put-you-at-risk/",
     "title": "AI doesn’t have to turn evil to put you at risk",
     "description": "People shouldn’t have to become security researchers to use an assistant. But consumers should be mindful of how AI assistants interact with them.",
@@ -244,6 +256,7 @@
     "title": "Intel and AMD could be about to work together on a mystery project — CEO Lip-Bu Tan hints at future co-operation, which could be anything from software to CPU to foundry work",
     "description": "Intel CEO Lip-Bu Tan has discussed potential cooperation with AMD while pursuing customized processors, advanced manufacturing technologies, and additional foundry customers.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-01T21:40:00+00:00",
@@ -280,8 +293,7 @@
     "title": "Anthropic updates Claude to stop it from recreating existing video games",
     "description": "Users can still lean on Claude to help with designing original or genre games.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-01T21:08:32+00:00",
     "image_url": "https://www.engadget.com/img/gallery/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/l-intro-1793566610.jpg",
@@ -2235,16 +2247,5 @@
     "pub_date": "2026-10-31T21:41:00+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/theranos-whistleblower-tyler-shultz-ai-due-diligence-ndas",
-    "title": "AI is easy to fake, Theranos whistleblower Tyler Shultz tells SF Standard",
-    "description": "Tyler Shultz helped expose the blood-testing fraud at Theranos. He now says AI is hard to vet, and investors need to do real due diligence. Few laws govern AI, he added, which makes it hard for people inside AI companies to blow the whistle. Shultz spoke to Theo Baker on The San Francisco Standard’s PST",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-10-31T21:36:26+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/tyler-shultz-microphone-red-armchair-perugia-2024.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
