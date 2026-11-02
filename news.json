@@ -1,5 +1,52 @@
 [
   {
+    "link": "https://www.techradar.com/pro/demand-is-already-well-ahead-of-what-we-can-build-this-us-factory-claims-its-one-large-robot-can-build-circuit-boards-faster-than-its-chinese-competition",
+    "title": "'Demand is already well ahead of what we can build': This US factory claims its 'one large robot' can build circuit boards faster than its Chinese competition",
+    "description": "CircuitHub's \"The Grid\" uses robotics to manufacture circuit boards, claiming faster delivery than Shenzhen suppliers despite higher prices.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-02T20:25:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/w5MDsbSCkHAugVWb7LdMNk-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/cars/hyundai-isnt-giving-up-on-hydrogen-cars-but-dont-expect-one-in-your-driveway-anytime-soon/",
+    "title": "Hyundai isn’t giving up on hydrogen cars, but don’t expect one in your driveway anytime soon",
+    "description": "Hyundai hydrogen car update: fuel-cell costs, how tighter rules could raise hybrid prices, and what it means for US drivers.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-02T20:23:50+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/DT-2026-10-06T004900.240.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/anthropic-message-threads-beta-claude-api-agents",
+    "title": "Anthropic’s message threads let Claude agents skip resending chats",
+    "description": "Anthropic launched message threads in public beta for its API. Agents send the full conversation once, then only new messages, which Anthropic says cuts the wait before Claude replies by about 35% on very long sessions. Prices and rate limits stay the same. Anthropic has launched message threads, a beta feature for developers building AI",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-02T20:14:25+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/anthropic-wordmark-3d-render-purple-glass.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/daniel-dines-uipath-fusion-dubai-ai-accountability",
+    "title": "UiPath’s Dines says people must steer AI and answer for what it does",
+    "description": "UiPath founder and CEO Daniel Dines told customers at FUSION in Dubai on Monday that companies will hand more and more work to AI. People, he said, will have to steer it and answer for what it does. He spoke at the Museum of the Future. “We need to educate our people to take a",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-02T20:11:33+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/daniel-dines-uipath-fusion-dubai-stage-keynote.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/11/02/openai-is-retiring-chatgpt-classic-app-will-soon-combine-chat-and-work-tabs-in-new-app/",
     "title": "OpenAI is retiring ChatGPT Classic app, will soon combine Chat and Work tabs in new app",
     "description": "Users who still rely on the ChatGPT Classic app were greeted today with a message informing them that the app will soon be retired. Separately, OpenAI is also preparing to merge ChatGPT and Work into a single interface. Here are the details.\n\n\n\n more…",
@@ -233,7 +280,7 @@
   {
     "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
     "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-    "description": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+    "description": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News"
@@ -678,7 +725,7 @@
   {
     "link": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
     "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
-    "description": "Readwise Books combines an ebook store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
+    "description": "Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
     "categories": [
       "Breaking News",
       "Business & Startups",
@@ -821,6 +868,7 @@
     "title": "Don’t want a touchscreen? All premium MacBook Pros could have one soon, reports say",
     "description": "New reports indicate the touchscreens are to become the standard on premium MacBook Pros.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-02T17:23:24+00:00",
@@ -1281,7 +1329,6 @@
     "title": "The cassette player renaissance continues with this Bluetooth-toting high-tech Kickstarter model",
     "description": "The Coolgeek P1 Cassette Player offers a modern twist on the retro cassette player, and its Kickstarter campaign has just launched.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-02T16:18:50+00:00",
@@ -2297,52 +2344,6 @@
     ],
     "pub_date": "2026-11-02T12:31:12+00:00",
     "image_url": "http://www.techmeme.com/261102/i16.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/this-new-30-000mah-portable-power-station-uses-a-reliable-lfp-battery-and-fits-in-the-palm-of-your-hand",
-    "title": "Jackery's smallest-ever portable power station uses long-lasting LFP batteries",
-    "description": "The Jackery Explorer 100D combines a compact size and relatively low weight with LFP technology and solar support.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-02T12:30:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/gucDG7vGFSYxNFj7opGacG-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/life/nov-2-magic-the-gathering-reality-fracture-play-booster-box",
-    "title": "Magic: The Gathering Reality Fracture Play Booster Boxes are under $140 on Amazon — save almost $20",
-    "description": "Amazon's Magic: The Gathering Reality Fracture Play Booster Box is down to $137.94 with delivery, saving you over $17.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-02T12:29:59+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02JvvE9b5jVdYijMem6CFYB/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/hello-group-acquires-inner-circle-dating-app",
-    "title": "Hello Group buys majority stake in Dutch dating app Inner Circle",
-    "description": "Hello Group, the Nasdaq-listed company behind dating apps happn and Coffee Meets Bagel has acquired a majority stake in Amsterdam-based dating platform Inner Circle. The two companies announced the deal today but did not disclose the price or the size of the stake. Founded in 2012, Inner Circle says it has nearly 9 million members,",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-11-02T12:27:52+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/hello-group-logo-red-black-white-background.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261102/p15#a261102p15",
-    "title": "Sources: SpaceX is in talks with EchoStar to acquire Boost Mobile or access its network, after Verizon, T-Mobile, and AT&T rebuffed requests for network access (Washington Post)",
-    "description": "Washington Post:\nSources: SpaceX is in talks with EchoStar to acquire Boost Mobile or access its network, after Verizon, T-Mobile, and AT&T rebuffed requests for network access  —  Elon Musk approached the heads of America's top telecom companies in recent months with a request that would help him fulfill a years-long dream.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-02T12:25:00+00:00",
-    "image_url": "http://www.techmeme.com/261102/i15.jpg",
     "source_name": "TECHMEME.COM"
   }
 ]
