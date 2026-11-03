@@ -1,5 +1,52 @@
 [
   {
+    "link": "https://www.techradar.com/gaming/warhammer-40-000-dawn-of-war-4-creative-director-says-king-art-borrowed-elements-from-dawn-of-war-2-and-3-for-heroes-upgrade-mechanics-and-ui-aspects-because-while-it-loves-the-first-game-its-also-over-20-years-old",
+    "title": "Warhammer 40,000: Dawn of War 4 creative director says King Art borrowed elements from Dawn of War 2 and 3 for heroes, 'upgrade mechanics,' and UI aspects, because while it loves the first game, 'it's also over 20 years old'",
+    "description": "Warhammer 40,000: Dawn of War 4 creative director Jan Theysen has confirmed that the upcoming RTS game drew inspiration from Dawn of War 2 and 3's mechanics.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-11-03T13:11:06+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/PmzvKCEyEycnqUvgogoP5A-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/streaming-tv/google-takes-down-a-massive-android-tv-botnet-but-infected-devices-remain-dangerous",
+    "title": "Google takes down a massive Android TV botnet, but infected devices remain dangerous",
+    "description": "Your Android TV box could be part of a massive botnet without you knowing.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T13:05:40+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/WvhWaELsXDFdqwaQk36qTP-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/memory/apples-ceo-john-ternus-warns-ram-cost-increases-are-now-unprecedented-and-it-makes-me-fear-the-worst-for-further-mac-price-hikes",
+    "title": "Apple's CEO John Ternus warns RAM cost increases are now 'unprecedented'",
+    "description": "Ternus has added to the chorus of warnings on the RAM crisis, cautioning that 'memory pricing right now is unprecedented' — and I fear the worst for 2027.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T13:04:36+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/grYcokVGvBSUaZbYhFeDhX-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/samsung-second-texas-fab-amd-nvidia-hbm",
+    "title": "Samsung to make AMD and Nvidia HBM parts at second Texas fab, report says",
+    "description": "Samsung will use its second chip plant in Taylor, Texas, to make parts for AMD and Nvidia’s AI memory, South Korea’s Maeil Business Newspaper reported on Tuesday, citing industry sources. The plant will produce base dies for high-bandwidth memory, the logic layer that sits at the bottom of the stacked memory chips feeding AI processors.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-03T13:02:37+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/samsung-illuminated-logo-store-facade.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/crowdstrike-fiddler-dreadnode-acquisitions-ai-kill-switch",
     "title": "CrowdStrike agrees to buy AI security startups Fiddler and Dreadnode",
     "description": "CrowdStrike has agreed to buy two AI security companies, Fiddler AI and Dreadnode. It announced both on Tuesday at its Fal.Con Europe conference in Barcelona. Fiddler tracks what AI agents do and why. Dreadnode tests AI models, applications and agents for weaknesses before they go live. CrowdStrike did not disclose the prices. It plans to",
@@ -62,7 +109,7 @@
   },
   {
     "link": "https://www.engadget.com/2305059/nasas-swift-observatory-is-expected-to-re-enter-earth-on-november-4/",
-    "title": "NASA's Swift observatory is expected to re-enter Earth on November 4",
+    "title": "NASA's Swift observatory is expected to return to Earth on November 4",
     "description": "The US Armed Forces says NASA's Swift observatory will re-enter Earth's atmosphere in the early hours of November 4.",
     "categories": [
       "Breaking News",
@@ -74,8 +121,8 @@
   },
   {
     "link": "https://www.techmeme.com/261103/p13#a261103p13",
-    "title": "Shopify reports Q3 revenue up 32% YoY to $3.74B, vs. $3.75B est., GMV up 29% to $119.1B, net income up 75% to $462M, and adjusted EPS of $0.49, above $0.47 est. (Adriano Marchese/Wall Street Journal)",
-    "description": "Adriano Marchese / Wall Street Journal:\nShopify reports Q3 revenue up 32% YoY to $3.74B, vs. $3.75B est., GMV up 29% to $119.1B, net income up 75% to $462M, and adjusted EPS of $0.49, above $0.47 est.  —  The ecommerce company's third-quarter revenue rose to $3.74 billion from $2.84 billion  —  Shopify reported higher third-quarter profit …",
+    "title": "Shopify reports Q3 revenue up 32% YoY to $3.74B, vs. $3.75B est., GMV up 29% to $119.1B, net income up 75% to $462M, and adjusted EPS of $0.49; SHOP falls 15%+ (Adriano Marchese/Wall Street Journal)",
+    "description": "Adriano Marchese / Wall Street Journal:\nShopify reports Q3 revenue up 32% YoY to $3.74B, vs. $3.75B est., GMV up 29% to $119.1B, net income up 75% to $462M, and adjusted EPS of $0.49; SHOP falls 15%+  —  The ecommerce company's third-quarter revenue rose to $3.74 billion from $2.84 billion  —  Shopify reported higher third-quarter profit …",
     "categories": [
       "Tech News"
     ],
@@ -1043,7 +1090,6 @@
     "title": "Apple is adding new App Store age ratings for dating and location-sharing apps",
     "description": "Apple is adding new App Store age rating labels for apps with location sharing and dating features, and any app with dating gets an automatic 18+ rating.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-03T07:04:54+00:00",
@@ -1082,6 +1128,17 @@
     "pub_date": "2026-11-03T06:00:40+00:00",
     "image_url": "http://www.techmeme.com/261103/i1.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/canon-promo-code/",
+    "title": "30% Off Canon Promo Codes | November 2026",
+    "description": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this November 2026.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T06:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
+    "source_name": "WIRED.COM"
   },
   {
     "link": "https://www.wired.com/story/uber-eats-promo-code/",
@@ -1136,17 +1193,6 @@
     ],
     "pub_date": "2026-11-03T06:00:00+00:00",
     "image_url": "https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/canon-promo-code/",
-    "title": "30% Off Canon Promo Codes | November 2026",
-    "description": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this November 2026.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T06:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -2229,49 +2275,5 @@
     "pub_date": "2026-11-02T21:15:01+00:00",
     "image_url": "http://www.techmeme.com/261102/i37.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/google-prospect-union-access-uk-offices",
-    "title": "Google opens its UK offices to union recruiters after a change in the law",
-    "description": "Google has agreed to let the Prospect union speak to its UK staff in its offices, including its King’s Cross headquarters. It follows a new UK law, in force since Friday, giving unions a right to access workplaces. Prospect signed a similar deal with Meta in September. Google has agreed to let the trade union",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-02T21:14:11+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/google-logo-neon-sign-office-wall-sydney.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
-    "title": "Meta will end Quest 2 OS updates in 2027",
-    "description": "Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for those devices is planned to be v213, and after that, Meta will continue to ship security patches and critical bug fixes through the end of",
-    "categories": [
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-02T21:04:20+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21869421/akrales_200904_4160_0135.0.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2302215/how-long-hdd-ssd-stay-expensive/",
-    "title": "How long could HDDs and SSDs remain expensive?",
-    "description": "Thanks to shortages of microchips and other computer components, we've been experiencing high prices for years.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-02T21:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/how-long-could-hdds-and-ssds-remain-expensive/l-intro-1793370181.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/dyson-vacuum-deals-nov-2026/",
-    "title": "Best Dyson Vacuum Deals (2026): Dyson Spot+Scrub Ai, Dyson V16 Piston Animal",
-    "description": "Black Friday is still weeks away, but you don’t have to wait for a good sale on Dyson vacuums.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-02T21:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ae8f21332b07efa953f9e48/master/pass/The%20Best%20Dyson%20Vacuum%20Deals%20You%20Can%20Shop%20Right%20Now%20112026%20top%20art%20SOURCE%20Dyson.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
