@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.techradar.com/ai-platforms-assistants/we-believe-this-is-a-practical-step-toward-an-open-web-dont-want-ai-companies-training-on-your-website-openai-google-and-microsoft-are-backing-a-new-way-to-opt-out",
+    "title": "How to actually block AI bots from scraping your website",
+    "description": "OpenAI will now honor AI scraping rules contained within the robots.txt file",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T06:50:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/8iN8JcsjaeEppccYgURuY9-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/phones/cyclon-is-an-ai-phone-that-wants-to-replace-your-iphone/",
     "title": "Cyclon wants to replace your iPhone with an AI phone that actually gets things done",
     "description": "Y Combinator-backed startup Cyclon is building an AI phone that can navigate apps, complete tasks, and even create apps on demand.",
@@ -2235,16 +2247,5 @@
     "pub_date": "2026-11-02T17:31:13+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Affinity-for-iPad.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.zdnet.com/health/athenahealth-claude-ai-medical-partnership/",
-    "title": "Athenahealth patients can ask Claude about their medical records now",
-    "description": "The partnership could provide one of the nation’s largest AI companies with a bevy of personal medical data.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-02T17:30:47+00:00",
-    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-484453787.jpg",
-    "source_name": "ZDNET.COM"
   }
 ]
