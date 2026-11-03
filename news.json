@@ -1,5 +1,42 @@
 [
   {
+    "link": "https://www.techradar.com/pro/we-cant-control-ai-if-we-cant-control-where-it-gets-its-information-from",
+    "title": "We can’t control AI if we can’t control where it gets its information from",
+    "description": "Before AI agents act on the world, we must know where their knowledge came from.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T10:18:37+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/nvidia-cloud-partners-cap-china-business",
+    "title": "Nvidia tells cloud partners to cap Chinese business at 49%, FT reports",
+    "description": "Nvidia has instructed its data centre partners to limit business with Chinese customers, requiring cloud computing providers to sell at least 51% of their services to non-Chinese companies, the Financial Times reported on Tuesday. The rule applies to new contracts, leaving existing agreements untouched, according to five people familiar with the matter cited by the",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-03T10:15:20+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/nvidia-logo-sign-building-exterior-trees.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/ancient-fragment-from-mars-found-in-the-sahara-holds-secrets-about-the-planets-watery-past/",
+    "title": "Ancient Meteorite Found in the Sahara Holds Secrets About Mars’ Watery Past",
+    "description": "The 4.1-billion-year-old meteorite is a “Rosetta Stone for Mars,” preserving clues about how the Martian environment has changed since the solar system formed.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-03T10:15:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ae8fe6dbbb2a7fcc242fba1/master/pass/505137454",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261103/p4#a261103p4",
     "title": "UK energy company Drax partners with Brookfield and neocloud Radiant to develop an AI data center in North Yorkshire, targeting 100MW of capacity by Q1 2028 (Kai Nicol-Schwarz/CNBC)",
     "description": "Kai Nicol-Schwarz / CNBC:\nUK energy company Drax partners with Brookfield and neocloud Radiant to develop an AI data center in North Yorkshire, targeting 100MW of capacity by Q1 2028  —  Brookfield is targeting a massive artificial intelligence data center in the north of England, as Europe scrambles to develop infrastructure …",
@@ -362,6 +399,7 @@
     "title": "Sources: Nvidia verbally told cloud compute clients to sell 51%+ of their services to non-Chinese companies, imposing new limits on China's access to AI chips (Financial Times)",
     "description": "Financial Times:\nSources: Nvidia verbally told cloud compute clients to sell 51%+ of their services to non-Chinese companies, imposing new limits on China's access to AI chips  —  Nvidia is ordering its data centre partners to reduce exposure to Chinese customers in a move that further restrains China's ability …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-03T06:00:40+00:00",
@@ -2207,38 +2245,5 @@
     "pub_date": "2026-11-02T18:50:42+00:00",
     "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg?w=2048",
     "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://www.androidcentral.com/apps-software/wear-os/googles-wear-os-status-bar-experiment-brings-a-little-more-android-flair-to-watches",
-    "title": "Google's Wear OS 'status bar' experiment brings a little more Android flair to watches",
-    "description": "Google's next major Wear OS update looks primed to introduce an Android-like \"status bar\" to smartwatches.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-02T18:49:12+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/8cJ8saE8WebmCaP6fkm4tP-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://gizmodo.com/voyager-1-is-approaching-a-full-light-day-from-earth-and-it-just-scared-the-crap-out-of-nasa-2000833762",
-    "title": "Voyager 1 Is Approaching a Full Light-Day From Earth—and It Just Scared the Crap Out of NASA",
-    "description": "Voyager 1 is nearing one light-day away from Earth, when radio signals will take 24 hours to travel between Earth and the spacecraft.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-02T18:45:31+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/08/NASA-Art-Voyager-Interstellar-Space-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
-    "title": "Xbox&#8217;s former COO has ‘serious concerns’ about her abrupt departure",
-    "description": "Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July. I wrote in my Notepad newsletter last week that it seemed very weird for Chiang to suddenly depart Microsoft after 21 years with a surprisingly short memo from Xbox CEO Asha Sharma.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-02T18:43:24+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485114/STK048_XBOX2__A.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
