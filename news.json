@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://www.zdnet.com/home-and-office/homeview-ultra-apple-robotic-smart-display/",
+    "title": "HomeView with an arm? Apple reportedly plans $1,000 swiveling smart panel",
+    "description": "The HomeView Ultra is expected to feature a robotic arm and 9-inch display. Shades of Amazon’s discontinued Echo Show 10?",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T17:33:45+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/0B7F1C4A-9EC9-4A98-B338-76A186CAB5FF_1_105_c.jpeg",
+    "source_name": "ZDNET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/vpn/vpn-services/proton-vpn-8-0-is-coming-to-iphone-and-it-could-be-the-apps-biggest-upgrade-in-years",
+    "title": "Proton VPN 8.0 is coming to iPhone — and it could be the app's biggest upgrade in years",
+    "description": "A new Rust-based VPN engine, an advanced kill switch, and CarPlay-friendly connectivity are all on the way",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T17:31:47+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/wYZjT2CMEhMRLCQ3hrDRp5-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/tech/nvidia-rtx-50-cards-gpus-more-price-increases/",
+    "title": "Nvidia RTX 50 GPUs hit with more price hikes – up to $500",
+    "description": "Some GPUs will see bigger increases than others, while Intel and AMD remain mum on their pricing plans",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-03T17:30:50+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/727c351e-7609-441d-8ee9-669c970864c8.jpg",
+    "source_name": "ZDNET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/aria-scaling-inference-lab-lumai-optical-servers",
+    "title": "UK’s ARIA will test Lumai’s light-based AI servers in a data centre",
+    "description": "ARIA’s Scaling Inference Lab will deploy Lumai’s Iris servers, which use beams of light to run AI calculations, as its first optical platform. Lumai claims big energy savings, but these have not been independently tested. The lab will test the servers in a commercial data centre. The UK’s Advanced Research and Invention Agency (ARIA) will",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-03T17:29:03+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/ai-microchip-green-pastel-reflective-surface.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo",
     "title": "Moft’s new origami case adds a kickstand and grip to the iPhone Duo",
     "description": "Originally released in early 2025 as an accessory for the iPad, Moft has redesigned its Dynamic Folio as a case for the iPhone Duo that does more than just protect Apple's folding phone. You can use it to prop the Duo up at several different angles for hands-free use, or reconfigure the Dynamic Folio's origami-like",
@@ -23,8 +68,44 @@
     "source_name": "TECHRADAR.COM"
   },
   {
+    "link": "https://mashable.com/tech/best-early-black-friday-drone-deals-2026",
+    "title": "The best early Black Friday drone deals have landed — save on DJI, Ruko, Antigravity, and more",
+    "description": "As of Nov. 3, shop the best early drone deals you can buy right now.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T17:26:29+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/004g7l8FRFHlZOQkQqyhlTy/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/home-and-office/sonos-app-update-hands-on-11-3-2026/",
+    "title": "I tried Sonos’ latest app features – these 2 small upgrades fix big annoyances",
+    "description": "New Sonos software and firmware updates are rolling out. Here’s what you can expect.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T17:26:01+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/play-1.jpg",
+    "source_name": "ZDNET.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/best-early-black-friday-macbook-deals-2026",
+    "title": "Early Black Friday MacBook deals include a $200 discount on the M5 MacBook Air",
+    "description": "Early Black Friday MacBook deals on the MacBook Air and MacBook Pro are live.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T17:23:47+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/07uzCWA09oNxah6xNFcJ0Hb/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/phones/apple-admits-iphone-duo-is-in-limited-supply-and-its-unclear-if-you-can-bag-one-for-your-holiday-bag/",
-    "title": "Apple admits iPhone Duo is in limited supply, and it’s unclear if you can bag one for your Holiday bag",
+    "title": "Apple admits iPhone Duo is in limited supply, and it’s unclear if you can bag one for your holiday cart",
     "description": "Apple executives rarely say “we can’t predict that” about their brand-new products, so I perked up when one did. The Cupertino giant has admitted the iPhone Duo is supply-constrained. COO Sabih Khan told investors on Monday’s earnings call that it is “constrained as of today” (via Investing.com).  What did Apple actually say about iPhone Duo",
     "categories": [
       "Breaking News",
@@ -71,6 +152,17 @@
     "source_name": "THEVERGE.COM"
   },
   {
+    "link": "https://mashable.com/entertainment/how-to-watch-musk-documentary",
+    "title": "Missed the Musk documentary in theaters? Heres how to watch it at home.",
+    "description": "Is 'Musk' streaming anywhere yet? If you missed it in theaters, find out how to watch it at home, including when it hits HBO Max.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T17:16:01+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/05lELQ39AvCCbJnm7kRPkha/hero-image.webp",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.engadget.com/2300429/how-to-choose-the-right-gaming-monitor-for-you/",
     "title": "How to choose the right gaming monitor for you",
     "description": "If you're looking for a gaming monitor upgrade (or even your first), here's what you should consider.",
@@ -92,6 +184,17 @@
     "pub_date": "2026-11-03T17:15:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/RdCRLCowvhVjsp5trsQHMN-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://mashable.com/life/mythical-kitchen-uncle-roger-fried-rice-test",
+    "title": "Uncle Roger judging fried rice with Mythical Kitchen is the crossover we deserve",
+    "description": "Nigel Ng and Josh Scherer together in one video, which is all we want.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T17:14:26+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/videos/070faTJhuMwXbTpJztOW67K/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://thenextweb.com/news/uipath-per-document-pricing-source-to-pay-agents",
@@ -274,15 +377,15 @@
     "source_name": "ZDNET.COM"
   },
   {
-    "link": "https://www.techradar.com/entertainment/football/barcelona-vs-aston-villa-free-champions-league-2026-27",
-    "title": "How to watch Barcelona vs Aston Villa for FREE: Live streams",
-    "description": "All the ways to watch Barcelona vs Aston Villa, as Unai Emery takes the upstart Villans to Camp Nou on Matchday 4 of the Champions League 2026/27 league phase.",
+    "link": "https://www.techradar.com/entertainment/tv-shows/us-midterm-elections-2026-live-stream-where-to-watch-results-as-they-happen",
+    "title": "US Midterm Elections 2026 live stream — where to watch results as they happen",
+    "description": "Here's how you can live stream US Midterm Elections coverage from anywhere in the world.",
     "categories": [
       "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-03T17:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/fEnxkZabc4DTW83iNqiNMN-1920-80.jpg",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/4LH6bKyjAWX5kt9x3892mh-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -298,15 +401,15 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techradar.com/entertainment/tv-shows/us-midterm-elections-2026-live-stream-where-to-watch-results-as-they-happen",
-    "title": "US Midterm Elections 2026 live stream — where to watch results as they happen",
-    "description": "Here's how you can live stream US Midterm Elections coverage from anywhere in the world.",
+    "link": "https://www.techradar.com/entertainment/football/barcelona-vs-aston-villa-free-champions-league-2026-27",
+    "title": "How to watch Barcelona vs Aston Villa for FREE: Live streams",
+    "description": "All the ways to watch Barcelona vs Aston Villa, as Unai Emery takes the upstart Villans to Camp Nou on Matchday 4 of the Champions League 2026/27 league phase.",
     "categories": [
       "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-03T17:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/4LH6bKyjAWX5kt9x3892mh-1920-80.jpg",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/fEnxkZabc4DTW83iNqiNMN-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -898,7 +1001,7 @@
   {
     "link": "https://www.theverge.com/games/1025271/gta-vi-storage-space-rockstar-games",
     "title": "GTA VI&#8217;s download will need up to 212GB of hard drive space",
-    "description": "You're going to need a lot of extra storage space on your console if you're planning to play Grand Theft Auto VI later this month. Rockstar Games confirmed on Tuesday that the pre-load file will require up to 212GB \"depending on your device.\" Rockstar says you can start pre-loading the game on the PlayStation 5",
+    "description": "You're going to need a lot of extra storage space on your console if you're planning to play Grand Theft Auto VI later this month. Rockstar Games confirmed on Tuesday that the preload file will require up to 212GB \"depending on your device.\" Rockstar says you can start preloading the game on the PlayStation 5",
     "categories": [
       "Breaking News",
       "Gaming"
@@ -1612,6 +1715,7 @@
     "title": "MacBook Air M5 drops $200 as Dell’s 6K monitor goes half price at B&H",
     "description": "B&H takes $200 off a MacBook Air M5 configuration and halves Dell's 6K monitor price, alongside Lenovo laptop and Nikon Z8 bundle discounts.",
     "categories": [
+      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-03T13:16:58+00:00",
@@ -2245,108 +2349,5 @@
     "pub_date": "2026-11-03T10:47:02+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/2FFajuvJVK8i7Her8gD4aD-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact/",
-    "title": "NASA’s Swift Observatory Is Falling to Earth. Here’s What to Know About the Impending Impact",
-    "description": "The 3,200-pound satellite is expected to reenter Earth’s atmosphere later this week with a wide reentry zone covering parts of Africa, Australia, Southeast Asia, and South America.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-03T10:45:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ae8c770a02f1e9caf32860c/master/pass/swiftnasa.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/jon-stewart-donald-trump-reflecting-pool-midterms",
-    "title": "Jon Stewart roasts Trumps pre-midterms Reflecting Pool speech",
-    "description": "Jon Stewart recapped Donald Trump's speech about the Lincoln Memorial Reflecting Pool, prior to the midterm elections.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T10:42:24+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/videos/01AMEPD9yjljjm5auhlMctx/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/zelda-switch-2-restock-retailers-where-to-buy",
-    "title": "Zelda Switch 2 restock: Live restock updates at Walmart, Target, and Best Buy (Nov. 3)",
-    "description": "Looking for the Zelda 40th Anniversary Switch 2? Here is today's live stock update across Target, Best Buy, Walmart, and more retailers as we head into launch week.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T10:40:47+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06VjhKsGLjbeqzjEeJLflP6/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/best-white-noise-machines/",
-    "title": "White Noise Machines Worthy of Your Nightstand in 2026: Snooz, Hatch, and More",
-    "description": "Catch more Z’s with soothing background noise from our favorite sound machines.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T10:35:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ae7c5f55d95fb1734aa8438/master/pass/White%20noise%20machines%20112026%20top%20art%20SOURCE%20Amazon.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261103/p5#a261103p5",
-    "title": "Apple expects Q1 revenue to rise 7%-10% YoY, above 6% est., and gross margins of 45%-46%, below 47% est., as John Ternus says memory pricing \"is unprecedented\" (Michael Acton/Financial Times)",
-    "description": "Michael Acton / Financial Times:\nApple expects Q1 revenue to rise 7%-10% YoY, above 6% est., and gross margins of 45%-46%, below 47% est., as John Ternus says memory pricing “is unprecedented”  —  Hardware giant predicts robust sales in the holiday season but services outlook disappoints",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T10:35:00+00:00",
-    "image_url": "http://www.techmeme.com/261103/i5.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2305017/apple-start-mandating-age-requirements-dating-apps/",
-    "title": "Apple will start mandating age requirements for dating apps",
-    "description": "Apple developers will have to declare whether their app enables dating between real people and/or AI companions, so the company can apply the proper age rating.",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-03T10:32:28+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/apple-will-start-mandating-age-requirements-for-dating-apps/l-intro-1793701818.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/wall-street-ceos-ai-risks-hong-kong-summit",
-    "title": "Wall Street CEOs split over AI risks at Hong Kong summit",
-    "description": "Top bankers and fund managers gave clashing views on the risks of the AI boom on Tuesday, at an investment summit in Hong Kong. Some warned that spending and valuations are running ahead of returns. Others said demand is still strong, Bloomberg reported. The remarks came at the Global Financial Leaders’ Investment Summit, hosted by the Hong",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T10:31:49+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/new-york-stock-exchange-facade-wall-street-sign-flag.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/we-cant-control-ai-if-we-cant-control-where-it-gets-its-information-from",
-    "title": "We can’t control AI if we can’t control where it gets its information from",
-    "description": "Before AI agents act on the world, we must know where their knowledge came from.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T10:18:37+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/nvidia-cloud-partners-cap-china-business",
-    "title": "Nvidia tells cloud partners to cap Chinese business at 49%, FT reports",
-    "description": "Nvidia has instructed its data centre partners to limit business with Chinese customers, requiring cloud computing providers to sell at least 51% of their services to non-Chinese companies, the Financial Times reported on Tuesday. The rule applies to new contracts, leaving existing agreements untouched, according to five people familiar with the matter cited by the",
-    "categories": [
-      "Gadgets & Hardware",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-03T10:15:20+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/nvidia-logo-sign-building-exterior-trees.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
