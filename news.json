@@ -1,5 +1,86 @@
 [
   {
+    "link": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
+    "title": "Valve is making changes to deal with a ‘significant increase’ in Steam game submissions",
+    "description": "In a new post today, Valve acknowledged that it's seen \"a significant increase in submissions for store and page review in recent months\" and says it's \"running a little behind\" by taking \"up to 12 business days\" for reviews instead of the typical 3-5 days. Indie developers have recently expressed frustrations over lengthy approval times",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-11-03T22:15:33+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK138_Stream_Kradtke_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/phones/your-iphones-standby-mode-is-getting-new-clocks-calendar-and-weather-faces-with-ios-27-3/",
+    "title": "Your iPhone’s StandBy mode is getting new clocks, Calendar, and Weather faces with iOS 27.3",
+    "description": "New StandBy faces that debuted on the iPhone Duo are reaching other iPhones in the first iOS 27.3 beta.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T22:13:48+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2023/08/iphone-standby-mode-ios-17.jpeg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/younger-adults-will-consult-ai-before-a-financial-advisor-on-money-problems",
+    "title": "Younger adults will consult AI before a financial advisor on money problems",
+    "description": "Brits under 45 are more receptive to AI giving financial advice, with 11% preferring discussing money problems with an AI assistant, compared with 9% relying on a financial advisor.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T22:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/X4pDZAGJ7CGWXkUzTak29-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+    "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+    "description": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process that started with one developer downloading a tampered installer in June apparently spread by a malicious Google ad, exposing details about the",
+    "categories": [
+      "Breaking News",
+      "Crypto & Web3"
+    ],
+    "pub_date": "2026-11-03T22:04:02+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932848/acastro_STK018__02.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/nov-3-beats-pill-early-black-friday-deal",
+    "title": "The Beats Pill speaker is under $100 for a limited time — save $50 ahead of Black Friday",
+    "description": "Find the best speaker deal. Save 33% on the Beats Pill at Amazon.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T22:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01vRv4zxlku0FsIHnqbUlNU/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/nov-3-shark-ai-robot-vacuum-early-black-friday-deal",
+    "title": "The Shark AV2501S AI Ultra robot vacuum is almost half off at Amazon — save $270",
+    "description": "Get the best robot vacuum deal. Save 49% on the Shark AV2501S AI Ultra at Amazon.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T22:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00TEMJYY7z4thLI3jkSGjk6/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/nov-3-the-ultimate-microsoft-office-professional-2021-for-windows-lifetime",
+    "title": "Get Word, Excel, a whole new OS, and more with this $39 Microsoft bundle",
+    "description": "Upgrade your PC affordably with The Ultimate Microsoft Office Professional 2021 for Windows Lifetime License and Windows 11 Pro Bundle.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T22:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/02A6CB2cmOG7iKOtSljwpK3/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/11/03/apple-now-explicitly-bans-employees-from-using-confidential-information-in-prediction-markets/",
     "title": "Apple now explicitly bans employees from using confidential information in prediction markets",
     "description": "Apple has updated its insider trading policy to explicitly prohibit employees from using confidential information to bet on prediction markets. Here are the details.\n\n\n\n more…",
@@ -24,7 +105,7 @@
   {
     "link": "https://www.techmeme.com/261103/p36#a261103p36",
     "title": "Revolut says it cut AI coding inference costs by ~90% in less than a year by making self-hosted GLM models its default over commercial tools like Claude Code (Tobias Mann/The Register)",
-    "description": "Tobias Mann / The Register:\nRevolut says it cut AI coding inference costs by ~90% in less than a year by making self-hosted GLM models its default over commercial tools like Claude Code  —  Turns out cheap tokens get engineers doing things that save time, like debugging and tackling Jira tickets",
+    "description": "Tobias Mann / The Register:\nRevolut says it cut AI coding inference costs by ~90% in less than a year by making self-hosted GLM models its default over commercial tools like Claude Code  —  Revolut says that in less than a year it's managed to slash its AI coding inference costs by roughly 90 percent by making self-hosted models …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -224,7 +305,7 @@
   {
     "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
     "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-    "description": "Palantir delivered such a huge third-quarter earnings report on Monday that its press release even bragged that the numbers were “crushing consensus expectations.” Yet, retail investors were lukewarm on the company on Tuesday, with the stock trading slightly down. That’s because Palantir’s enterprise sales, its big growth area, showed signs of slowing. First, the good",
+    "description": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -282,7 +363,7 @@
   },
   {
     "link": "https://www.techradar.com/computing/browsers/safari-finally-gets-vertical-tabs-and-a-new-way-to-make-any-site-dark-all-thanks-to-ios-27-3",
-    "title": "Safari finally gets vertical tabs — and a new way to make any site dark, all thanks to iOS 27.3",
+    "title": "Safari finally gets vertical tabs — and a new way to make any site dark, all thanks to OS 27.3",
     "description": "A platform update is bringing Vertical Tabs and an Adaptive Dark Mode to Safari (on all platforms).",
     "categories": [
       "Breaking News",
@@ -832,6 +913,7 @@
     "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
     "description": "Suspected North Korean attackers duped an engineer with a fake job interview and a malicious download to gain a foothold in the crypto firm’s system and steal billions, according to Binance.",
     "categories": [
+      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-11-03T19:04:58+00:00",
@@ -1187,7 +1269,6 @@
     "title": "SUSE lays off 1 in 10 workers – citing AI and automation",
     "description": "Squarespace also announced layoffs this week, but explicit ties to AI remain inconsistent.",
     "categories": [
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-11-03T18:12:05+00:00",
@@ -1258,8 +1339,7 @@
     "title": "AMD needs a big quarter to escape Intel’s fate as AI fears grow",
     "description": "AMD reports third-quarter results on Tuesday after its shares fell about 17% in two days alongside Intel. Analysts expect revenue to rise 41%, but investors say AMD needs a big beat and a strong outlook as AI spending fears grow. AMD needs a strong quarter and a bold forecast when it reports results after the",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-03T18:04:49+00:00",
     "image_url": "https://media.thenextweb.com/2026/11/amd-logo-cpu-cooler-fan-rgb-lighting.avif",
@@ -1303,7 +1383,6 @@
     "title": "Best gift ideas for the woman in your life that are more than just another bathrobe",
     "description": "Shop home, tech, and beauty gifts for the lucky lady in your life.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-03T18:02:04+00:00",
@@ -2256,87 +2335,5 @@
     "pub_date": "2026-11-03T15:39:30+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/zuck-trump-no-kings-1152x648.jpg",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.techradar.com/seasonal-sales/the-lego-black-friday-deals-have-arrived-early-heres-my-pick-of-the-best-deals-to-expand-your-collection-or-give-as-a-gift",
-    "title": "The Lego Black Friday deals have arrived early — here's my pick of the best deals",
-    "description": "Major discounts on sets big and small — and many with a price promise so you know it's safe to buy now.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T15:38:47+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/TTFss7uQTPB6GNvFAXtWPZ-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-    "title": "Apple restricts dating apps and AI companions to users 18 and up",
-    "description": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-03T15:38:27+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
-    "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
-    "description": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were observed during thermal cycling after vibration, with fractures occurring across the short axis due",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T15:35:14+00:00",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-10-fig-1.png?w=770",
-    "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/03/apple-wallet-drivers-licenses-coming-to-three-new-states-soon/",
-    "title": "Apple Wallet driver’s licenses coming to three new states soon",
-    "description": "Apple Wallet driver’s licenses recently launched in Virginia and Oklahoma, but three more states are expected to follow soon, bringing us close to 20 US states on board.\n\n\n\n more…",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T15:34:13+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-wallet-ios-27-app-icon-colors.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/the-hidden-growth-opportunity-inside-uk-payment-operations",
-    "title": "The hidden growth opportunity inside UK payment operations",
-    "description": "Growth depends on the ability to move money accurately, quickly and at scale.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T15:27:46+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/mSXzX87uURsnFxxnUSDpiK-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/gaming/gta-6-pre-loads-begin-on-november-10-and-itll-eat-212-gb-of-your-consoles-storage/",
-    "title": "GTA 6 pre-loads begin on November 10, and it’ll eat 212 GB of your console’s storage",
-    "description": "Rockstar Games has just announced that preloads for Grand Theft Auto 6, aka GTA 6, will kick off at midnight on November 10 for the PlayStation 5, Xbox Series X, and Xbox Series S.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-03T15:27:44+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Grand-Theft-Auto-GTA-VI-6-gameplay-screenshot-drinks-Ambrosia.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/hackers-are-using-llmjacking-attacks-to-hijack-company-ai-usage-and-run-up-huge-cloud-bills",
-    "title": "Hackers are using 'LLMjacking attacks' to hijack company AI usage and run up huge cloud bills",
-    "description": "Businesses can run up $100,000 bills in minutes when hackers gain access to their API keys.",
-    "categories": [
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-11-03T15:25:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
