@@ -1,5 +1,52 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
+    "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
+    "description": "Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today. \"For some people, this will mean changes to their roles or being asked to relocate to centralised hubs,\" says Perkins. \"Sadly, it will also mean saying goodbye to teammates and friends who have",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T22:59:36+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK263_CANVA_D.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261103/p38#a261103p38",
+    "title": "Block reports Q3 revenue up 10% YoY to $6.7B, above est., Cash App gross profit up 27% to $2.07B, raises its full-year profit outlook; XYZ jumps 5%+ after hours (Reuters)",
+    "description": "Reuters:\nBlock reports Q3 revenue up 10% YoY to $6.7B, above est., Cash App gross profit up 27% to $2.07B, raises its full-year profit outlook; XYZ jumps 5%+ after hours  —  Jack Dorsey-led Block (XYZ.N) raised its full-year gross profit outlook on Tuesday after posting a rise in third-quarter earnings …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T22:50:00+00:00",
+    "image_url": "http://www.techmeme.com/261103/i38.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/lenovo-ideapad-slim-5x-deal-11-26/",
+    "title": "The Lenovo IdeaPad Slim 5x Is Only $900 Right Now",
+    "description": "Laptop prices keep going up, but this discount on the Lenovo IdeaPad Slim 5x is one of the best deals I’ve seen in months.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-03T22:44:01+00:00",
+    "image_url": "https://media.wired.com/photos/6aea5ab56c2140d939cde5aa/master/pass/Ideapad%20Slim%205x%20deals%20post%20112026%20top%20art%20SOURCE%20Amazon.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2306079/meta-quest-2-and-quest-pro-reach-end-of-feature-development/",
+    "title": "Meta's Quest 2 and Quest Pro reach 'end of feature development'",
+    "description": "The app stores will stay open for both devices after support ends next year.",
+    "categories": [
+      "Breaking News",
+      "Gaming",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-03T22:43:06+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/metas-quest-2-and-quest-pro-reach-end-of-feature-development/l-intro-1793745475.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
     "title": "Anthropic is working on a system to prove AI models’ identity",
     "description": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
@@ -1006,7 +1053,7 @@
   {
     "link": "https://www.techradar.com/pro/stylish-highly-upgradable-copilot-mini-pc-the-minisforum-ai-x1-pro-470-proved-a-devastatingly-effective-ai-workstation-in-our-tests-with-a-price-cut-at-best-buy-not-even-amazon-can-beat",
     "title": "'Stylish, highly upgradable Copilot mini PC': The Minisforum AI X1 Pro-470 is the ultimate DIY workstation for local AI — with a price cut at Best Buy not even Amazon can beat",
-    "description": "The Minisforum AI X1 Pro-470 proved a devastatingly effective AI mini PC in our tests. Now, the model gets a price cut at Best Buy not even Amazon can beat.",
+    "description": "The Minisforum AI X1 Pro-470 proved a devastatingly effective AI mini PC in our tests. Now, the barebones workstation drops in price ahead of Black Friday.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -1543,7 +1590,6 @@
     "title": "Election Day 2026 results updates: See live election results trackers now",
     "description": "The 2026 U.S. midterm elections are here and millions of votes still need to be counted.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-03T18:06:31+00:00",
@@ -1757,6 +1803,7 @@
     "title": "Meta is ending support for the Quest 2 and Quest 2 Pro VR headsets",
     "description": "Meta says it will end support for its Quest 2 and Quest 2 Pro VR headsets at the end of 2027.",
     "categories": [
+      "Breaking News",
       "Software & Apps"
     ],
     "pub_date": "2026-11-03T17:27:10+00:00",
@@ -2018,6 +2065,17 @@
     "source_name": "THEVERGE.COM"
   },
   {
+    "link": "https://www.zdnet.com/tech/windows-11-pc-8gb-ram-update-now/",
+    "title": "Windows 11 can run better on PCs with 8GB now, Microsoft says – here’s why",
+    "description": "The latest updates to Windows 11 offer improvements in speed, performance, and memory management.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T17:00:00+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-multitasking.jpg",
+    "source_name": "ZDNET.COM"
+  },
+  {
     "link": "https://www.engadget.com/2305373/world-of-warcraft-forever-blizzard-had-to-reconnect-with-what-made-wow-great-in-the-first-place/",
     "title": "With World of Warcraft: Forever, Blizzard had to reconnect with what made WoW great in the first place",
     "description": "Making World of Warcraft: Forever was a unique challenge for Blizzard's developers.",
@@ -2027,18 +2085,6 @@
     "pub_date": "2026-11-03T17:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/before-it-could-make-world-of-warcraft-forever-blizzard-had-to-relearn-what-made-wow-great-in-the-first-place/l-intro-1793723179.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.zdnet.com/tech/windows-11-pc-8gb-ram-update-now/",
-    "title": "Windows 11 can run better on PCs with 8GB now, Microsoft says – here’s why",
-    "description": "The latest updates to Windows 11 offer improvements in speed, performance, and memory management.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T17:00:00+00:00",
-    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-multitasking.jpg",
-    "source_name": "ZDNET.COM"
   },
   {
     "link": "https://mashable.com/entertainment/the-cat-in-the-hat-2026-review",
@@ -2185,8 +2231,7 @@
     "title": "Google will switch off Gemini for school students unless schools opt in",
     "description": "Google will turn off Gemini, Gemini Notebook, Gemini in Classroom and Search for K-12 student accounts until school administrators switch them on. Its Guided Learning mode is now available worldwide in Classroom and will be tested in Search at some US schools this month. Google will switch off its main AI tools for school students",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-03T16:47:21+00:00",
     "image_url": "https://media.thenextweb.com/2026/11/google-sign-sunnyvale-office-white-roses.avif",
@@ -2280,52 +2325,5 @@
     "pub_date": "2026-11-03T16:29:53+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/MHhmR6WUxMEsVNqHvc8F5e-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/03/deals-macbook-neo-airpods-apple-watch-beats-360/",
-    "title": "Deals: MacBook Neo up to $120 off, AirPods Pro 3, Apple Watch Ultra 4, Beats 360 up to $80 off, more",
-    "description": "Alongside the ongoing $50 price drop on AirPods Pro 3, we once again have some additional Apple Watch Ultra 4 models dropping back down to all-time low pricing at nearly $100 off and up to $200 off M5 MacBook Air. Today we spotted a rare MacBook Neo deal live at Amazon as well as up to $120 off select models directly on the Apple refurbished store, the 2026 M5 Max Mac Studio returning to the Amazon all-time low at $200 off, a chance to score the new Beats 360 at the lowest price we have seen yet, and the Beats 10-foot 240W Braided USB-C Cable at the lowest price of the year. Check it all out below. \n\n\n\n more…",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T16:29:30+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-MacBook-Neo-Apple-Watch-Ultra-4-AirPods.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://mashable.com/life/best-early-black-friday-cordless-power-tool-deals-2026",
-    "title": "Best early Black Friday cordless power tool deals: Get a free tool or battery with select kits at Home Depot and more",
-    "description": "As of Nov. 3, shop the best early Black Friday cordless power tool deals.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T16:29:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07x73suRqNmTB3CMrHngXjN/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/anthropic-employee-wages-are-now-costing-the-ai-giant-over-usd100-000-per-person-per-month",
-    "title": "Anthropic employee wages are now costing the AI giant over $100,000 per person per month",
-    "description": "Anthropic has already spent nearly $5 billion on personnel in the first nine months of 2026 as revenue soars.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T16:25:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/zQUr2QJXtzzfPVWtgFzJR-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2303890/easy-way-turn-regular-tv-smart/",
-    "title": "The easiest way to turn your regular TV into a smart TV",
-    "description": "If you have an older TV that doesn't have smart features, you might not need to upgrade. Here's how to turn your \"dumb\" TV into a smart one.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T16:15:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/the-easiest-way-to-turn-your-regular-tv-into-a-smart-tv/l-intro-1793632819.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
