@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://www.techmeme.com/261102/p47#a261102p47",
+    "title": "John Ternus says Apple expects memory costs to increase into December and beyond; Apple's inventory grew to $14.54B in Q4, up 31.1% QoQ and 154.3% YoY (Sarah Perez/TechCrunch)",
+    "description": "Sarah Perez / TechCrunch:\nJohn Ternus says Apple expects memory costs to increase into December and beyond; Apple's inventory grew to $14.54B in Q4, up 31.1% QoQ and 154.3% YoY  —  Apple's stockpiling of inventory, particularly computer memory, continued in its fiscal fourth-quarter, according to earnings reported Monday.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T01:15:02+00:00",
+    "image_url": "http://www.techmeme.com/261102/i47.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+    "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+    "description": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-03T01:12:55+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/02/apple-stock-drops-nearly-3-after-hours-following-q4-2026-results/",
+    "title": "Apple stock drops nearly 3% after hours following Q4 2026 results",
+    "description": "Apple shares fell as much as 4.43% in after-hours trading on Monday during the company’s fiscal Q4 2026 earnings call, before recovering some of those losses later in the evening. Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T01:07:40+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261102/p46#a261102p46",
     "title": "Match Group reports Q3 revenue fell 3% YoY to $891M, below estimates, and total paying users fell 5% to 13.8M; Q4 forecast has adjusted EBITDA below estimates (Samantha Kelly/Bloomberg)",
     "description": "Samantha Kelly / Bloomberg:\nMatch Group reports Q3 revenue fell 3% YoY to $891M, below estimates, and total paying users fell 5% to 13.8M; Q4 forecast has adjusted EBITDA below estimates  —  Match Group Inc. disappointed investors after posting weaker-than-expected quarterly revenue and forecasting adjusted earnings …",
@@ -12,7 +48,7 @@
   },
   {
     "link": "https://www.digitaltrends.com/home-theater/google-shuts-down-chinese-android-tv-botnet/",
-    "title": "Google just took down a massive botnet planted by a Chinese Android TV manufacturer",
+    "title": "Google shuts down massive botnet running on 1.3 million Android TV boxes",
     "description": "Malware infecting Android devices isn’t new, but Google’s recent report is grim and concerning. The search giant has taken down a massive botnet that turned over 1.3 million Android TV set-top boxes into tools for cybercriminals. Unlike the usual attacks, where users end up downloading some shady apps from the internet, the malware here was",
     "categories": [
       "Breaking News",
@@ -49,14 +85,26 @@
   {
     "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
     "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-    "description": "Y Combinator Garry Tan has, in the past, jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, set to publish on Tuesday, Tan put a price tag on his passion.",
+    "description": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
     "categories": [
+      "AI & Machine Learning",
       "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-11-03T00:35:52+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2279347/is-it-safe-to-charge-phone-with-airport-usb-port/",
+    "title": "Is it actually safe to charge your iPhone at airport USB ports?",
+    "description": "Using a random USB charger can be unsafe, even though the risk is minimal. Thankfully, you have ways to protect your devices.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-03T00:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/is-it-actually-safe-to-charge-your-iphone-at-airport-usb-ports/l-intro-1791316236.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://mashable.com/tech/why-it-feels-impossible-to-fact-check-social-media",
@@ -718,7 +766,6 @@
     "title": "Meta will end Quest 2 OS updates in 2027",
     "description": "Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for those devices is planned to be v213, and after that, Meta will continue to ship security patches and critical bug fixes through the end of",
     "categories": [
-      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-11-02T21:04:20+00:00",
@@ -969,7 +1016,6 @@
     "title": "Snap settles teen social media addiction case days before trial",
     "description": "Snap has settled with two teenagers who accuse Snapchat and other social media apps of addictive design. Their trial in Los Angeles was days away. The terms are confidential. Lawyers for the plaintiffs announced the settlement on Monday, Reuters reported. Jury selection began last week. The trial was set to start on Wednesday, according to",
     "categories": [
-      "Breaking News",
       "Social & Media",
       "Software & Apps"
     ],
@@ -1207,7 +1253,6 @@
     "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
     "description": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
     "categories": [
-      "Breaking News",
       "Social & Media",
       "Software & Apps"
     ],
@@ -1220,7 +1265,6 @@
     "title": "Snap settles social media addiction lawsuit to avoid trial",
     "description": "Snap CEO Evan Spiegel was due to testify in the upcoming trial.",
     "categories": [
-      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-11-02T19:09:53+00:00",
@@ -2243,50 +2287,5 @@
     "pub_date": "2026-11-02T16:02:17+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/065KwHs6v4VKhS2fZX7Cakp/hero-image.png",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv",
-    "title": "Why Peacock is making a huge bet on YouTube",
-    "description": "Today, I’m talking with Matt Strauss, who is now chairman of the NBCUniversal Media Group. This is Matt’s second time joining me on the show, and there’s been a whole lot of organizational and structural change at NBCU since the last time he and I spoke just two years ago — pure Decoder bait. First,",
-    "categories": [
-      "Business & Startups",
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-02T16:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_Matt_Strauss.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://arstechnica.com/cars/2026/11/f1-in-mexico-city-we-have-a-new-world-champion/",
-    "title": "F1 in Mexico City: Yet another Ferrari fiasco, but that’s not all",
-    "description": "There was plenty of drama on and off the track for Formula 1 this weekend.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-02T15:57:24+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302218135-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2303943/googles-ocarina-of-time-easter-egg-is-a-link-to-a-past-when-search-wasnt-horrible/",
-    "title": "Google's Ocarina of Time Easter egg is a link to a past when Search wasn't horrible",
-    "description": "Turn the clock back to 1998, when the internet was a little more functional.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-02T15:51:36+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/googles-ocarina-of-time-easter-egg-is-a-link-to-a-past-when-search-wasnt-horrible/l-intro-1793634639.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261102/p27#a261102p27",
-    "title": "A profile of OpenAI VP Charles Porch, an ex-Instagram executive who is rehabilitating AI's image across Hollywood and the media, including via celebrity dinners (Charlotte Klein/New York Magazine)",
-    "description": "Charlotte Klein / New York Magazine:\nA profile of OpenAI VP Charles Porch, an ex-Instagram executive who is rehabilitating AI's image across Hollywood and the media, including via celebrity dinners  —  Charles Porch is rich, super-connected, and tasked with getting celebrities (and everyone else) to not hate AI so much.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-02T15:50:01+00:00",
-    "image_url": "http://www.techmeme.com/261102/i27.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
