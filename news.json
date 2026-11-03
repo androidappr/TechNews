@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://www.techmeme.com/261103/p40#a261103p40",
+    "title": "Valve announces changes to Steam's review process, as a surge in game submissions pushes review times to \"up to 12 business days\", instead of the usual 3-5 days (Jay Peters/The Verge)",
+    "description": "Jay Peters / The Verge:\nValve announces changes to Steam's review process, as a surge in game submissions pushes review times to “up to 12 business days”, instead of the usual 3-5 days  —  Valve admits that it's now taking ‘up to 12 business days’ to game submissions.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T23:30:02+00:00",
+    "image_url": "http://www.techmeme.com/261103/i40.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/google-is-making-schools-choose-between-ai-and-access-to-its-search-engine/",
+    "title": "[UPDATE] Google is making schools choose between AI and access to its Search engine",
+    "description": "[UPDATE: Google has clarified that educators can choose to disable any of the AI products, independent of Google Search. Here is what the company shared in a post on X: Schools are in control: They can choose to turn ON one, two, or all of these services individually.The original story is as follows] Google says",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-03T23:24:23+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/DT-2026-11-04T022347.992.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/apple-age-limits-dating-app-store-location-sharing-disclose/",
+    "title": "Apple Is Putting an Age Limit on Falling in Love With AI",
+    "description": "Dating and AI companion apps have new age gate restrictions, while apps that share your location will have to disclose it.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T23:12:03+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/f4ff375c-326e-49e9-ac54-3cb1dbaf2306.png",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/11/03/macos-27-3-adds-native-markdown-rendering-to-quick-look/",
     "title": "macOS 27.3 adds native Markdown rendering to Quick Look",
     "description": "Starting with macOS 27.3, users can preview Markdown files with proper formatting directly in Quick Look. Here are the details.\n\n\n\n more…",
@@ -140,7 +176,6 @@
     "title": "Meta's Quest 2 and Quest Pro reach 'end of feature development'",
     "description": "The app stores will stay open for both devices after support ends next year.",
     "categories": [
-      "Breaking News",
       "Gaming",
       "Social & Media"
     ],
@@ -222,11 +257,10 @@
   {
     "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
     "title": "Data centers are turning to old jet engines as the wait for power grows",
-    "description": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines.",
+    "description": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups"
+      "Breaking News"
     ],
     "pub_date": "2026-11-03T22:19:53+00:00",
     "image_url": null,
@@ -237,6 +271,7 @@
     "title": "Valve is making changes to deal with a ‘significant increase’ in Steam game submissions",
     "description": "In a new post today, Valve acknowledged that it's seen \"a significant increase in submissions for store and page review in recent months\" and says it's \"running a little behind\" by taking \"up to 12 business days\" for reviews instead of the typical 3-5 days. Indie developers have recently expressed frustrations over lengthy approval times",
     "categories": [
+      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-11-03T22:15:33+00:00",
@@ -605,18 +640,6 @@
     "pub_date": "2026-11-03T21:04:18+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/xcode.webp?w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/google-is-making-schools-choose-between-ai-and-access-to-its-search-engine/",
-    "title": "Google is making schools choose between AI and access to its Search engine",
-    "description": "Google says it wants to give schools more control over how students use AI. But its proposed solution comes with a rather extraordinary condition: schools that opt to block AI entirely will also lose access to Google Search on student accounts. The conclusion is that schools can say no to Google’s AI, but they may",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-11-03T21:02:29+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/DT-2026-11-04T022347.992.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
   },
   {
     "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
@@ -1067,12 +1090,12 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.zdnet.com/uncategorized/santas-sleigh-may-be-missing-iphone-duos-in-time-for-christmas-what-apple-revealed-in-its-earnings-call/",
+    "link": "https://www.zdnet.com/tech/apple-foldable-iphone-duo-stock-shortage/",
     "title": "Want an iPhone Duo for the holidays? Apple’s latest stock update isn’t reassuring",
     "description": "The iPhone Duo likely won’t make it into Santa’s sleigh this year. Here’s what Apple had to say about it.",
     "categories": [
       "Breaking News",
-      "Tech News"
+      "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-03T19:28:32+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC01150.jpeg",
@@ -1095,7 +1118,6 @@
     "title": "Developers can now create advanced ‘app skills’ for Siri AI",
     "description": "Apple today announced a major new Siri AI initiative for third-party developers, allowing any app to create Siri AI integrations for the first time. The first versions of Siri AI were limited to a much smaller set of supported schemas.\n\n\n\nThe new ‘app skills’ also let apps teach Siri how to coordinate complicated multi-step actions. These features will become available as part of iOS 27.3, macOS 27.3, and aligned releases.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-03T19:25:48+00:00",
@@ -1261,7 +1283,6 @@
     "title": "Windows 11 is getting much-needed optimizations for PCs with just 8GB of RAM",
     "description": "The situation in the budget laptop market is getting increasingly difficult, thanks to the skyrocketing cost of RAM and the competition from Apple’s MacBook Neo. For Windows laptop makers, one way to keep prices affordable is to ship machines with just 8GB of RAM. But there’s a problem. Windows 11 isn’t exactly known for being",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-03T19:01:46+00:00",
@@ -1435,7 +1456,6 @@
     "title": "Black Friday web hosting deals 2026 — we found early discounts on shared, WordPress, and VPS hosting platforms for your business",
     "description": "After testing the top web hosting providers, we've tracked down all the early Black Friday deals from Hostinger, Bluehost, Siteground, and more.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-03T18:32:59+00:00",
@@ -1951,7 +1971,6 @@
     "title": "Apple admits iPhone Duo is in limited supply, and it’s unclear if you can bag one for your holiday cart",
     "description": "Apple executives rarely say “we can’t predict that” about their brand-new products, so I perked up when one did. The Cupertino giant has admitted the iPhone Duo is supply-constrained. COO Sabih Khan told investors on Monday’s earnings call that it is “constrained as of today” (via Investing.com).  What did Apple actually say about iPhone Duo",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-03T17:23:39+00:00",
@@ -2302,28 +2321,5 @@
     "pub_date": "2026-11-03T16:50:32+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Argonaut-Transit-to-Moon-16x9-1-1152x648.jpg",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
-    "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
-    "description": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles.",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-11-03T16:49:09+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/bambu-lab-black-friday-3d-printer-sale-our-expert-tested-them-all-and-picked-these-3-to-buy",
-    "title": "Bambu Lab Black Friday 3D printer sale — our expert tested them all and picked these 3 to buy",
-    "description": "The Bambu Lab Black Friday sale is now live. If you're wondering which 3D printer deal to get, our expert has tested them all, and here's what he recommends.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T16:48:56+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/tiSZotJ8yjy6vhzifLWPd7-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
