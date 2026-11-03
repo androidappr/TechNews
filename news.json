@@ -12,6 +12,18 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
+    "link": "https://www.cnet.com/tech/gaming/anthropic-claude-update-video-game-cloning/",
+    "title": "Anthropic Addresses Video Game Cloning With Minor Claude Update",
+    "description": "There’s a fine line between AI creations inspired by video games and those that are infringing copyright.",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-11-03T00:06:12+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-02-at-11.49.47-AM.png",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261102/p45#a261102p45",
     "title": "Trajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M Series A led by Sequoia at a $300M valuation (Marina Temkin/TechCrunch)",
     "description": "Marina Temkin / TechCrunch:\nTrajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M Series A led by Sequoia at a $300M valuation  —  Whether developed by OpenAI, Anthropic, or built on open-source alternatives, current AI models share a critical limitation …",
@@ -801,7 +813,6 @@
     "title": "Hyundai isn’t giving up on hydrogen cars, but don’t expect one in your driveway anytime soon",
     "description": "Hyundai hydrogen car update: fuel-cell costs, how tighter rules could raise hybrid prices, and what it means for US drivers.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-02T20:23:50+00:00",
@@ -1166,7 +1177,6 @@
     "title": "OpenAI wants to rebrand data centers as 'compute campuses' to try and win people over",
     "description": "OpenAI knows data centers aren't popular, and might rebrand them as AI compute campuses — but will that help?",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-02T19:05:00+00:00",
@@ -1224,6 +1234,7 @@
     "description": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to",
     "categories": [
       "AI & Machine Learning",
+      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-11-02T18:56:02+00:00",
@@ -1303,7 +1314,6 @@
     "description": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware",
       "Science & Environment"
     ],
@@ -1338,7 +1348,6 @@
     "title": "Apple’s next home robot could turn its screen to follow you, but it might cost you $1,000 to do so",
     "description": "Apple’s HomeView Ultra may be a swiveling, AI-powered robot lamp, but software delays could push it to 2028.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-02T18:24:10+00:00",
@@ -1350,7 +1359,6 @@
     "title": "OpenAI launches the Grid Protectors Program, a US effort for its future data center campuses meant \"to reduce electricity demand when the grid is under strain\" (OpenAI)",
     "description": "OpenAI:\nOpenAI launches the Grid Protectors Program, a US effort for its future data center campuses meant “to reduce electricity demand when the grid is under strain”  —  Today we're launching the Grid Protectors Program, a national effort to support affordable, reliable electricity …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-02T18:20:04+00:00",
@@ -1362,7 +1370,6 @@
     "title": "What’s Up: November 2026 Skywatching Tips from NASA",
     "description": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon. Skywatching Highlights Transcript A month of meteor showers … a close pairing of Mars and Jupiter … and a supermoon! That’s What’s Up for November. November offers a buffet",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-02T18:19:58+00:00",
@@ -2284,16 +2291,5 @@
     "pub_date": "2026-11-02T15:26:32+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/jLN8ZfVxwGfUJcVg6pD7dA-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261102/p26#a261102p26",
-    "title": "Sources detail Anthropic's compute deal spree: 3.5GW+ of expected capacity in 2026, diversifying beyond Nvidia's AI chips to Amazon, Google, and AMD, and more (New York Times)",
-    "description": "New York Times:\nSources detail Anthropic's compute deal spree: 3.5GW+ of expected capacity in 2026, diversifying beyond Nvidia's AI chips to Amazon, Google, and AMD, and more  —  Illustration by Mark Harris; Photographs by Thea Traff for The New York Times, AJ Mast for The New York Times, Manuel Orbegozo for The New York Times, Getty Images",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-02T15:20:25+00:00",
-    "image_url": "http://www.techmeme.com/261102/i26.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
