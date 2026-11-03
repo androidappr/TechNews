@@ -1,5 +1,39 @@
 [
   {
+    "link": "https://9to5mac.com/2026/11/03/apple-now-explicitly-bans-employees-from-using-confidential-information-in-prediction-markets/",
+    "title": "Apple now explicitly bans employees from using confidential information in prediction markets",
+    "description": "Apple has updated its insider trading policy to explicitly prohibit employees from using confidential information to bet on prediction markets. Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T21:58:58+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2023/10/apple-park-dusk.jpeg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/best-vpn/",
+    "title": "The 10 best VPN services for 2026, reviewed by experts",
+    "description": "A good VPN can help protect your privacy, hide your IP address, and make it easier to access content while travelling. We compared the leading services of 2026 to find the best options for privacy, speed, streaming, beginners, and more.",
+    "categories": [
+      "Business & Startups"
+    ],
+    "pub_date": "2026-11-03T21:55:56+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/vpn-lead.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261103/p36#a261103p36",
+    "title": "Revolut says it cut AI coding inference costs by ~90% in less than a year by making self-hosted GLM models its default over commercial tools like Claude Code (Tobias Mann/The Register)",
+    "description": "Tobias Mann / The Register:\nRevolut says it cut AI coding inference costs by ~90% in less than a year by making self-hosted GLM models its default over commercial tools like Claude Code  —  Turns out cheap tokens get engineers doing things that save time, like debugging and tackling Jira tickets",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-03T21:50:01+00:00",
+    "image_url": "http://www.techmeme.com/261103/i36.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261103/p35#a261103p35",
     "title": "Super Micro reports Q1 revenue up 298% YoY to $19.95B, vs. $16.39B est., and forecasts Q2 revenue above estimates; SMCI jumps 7%+ after hours (Reuters)",
     "description": "Reuters:\nSuper Micro reports Q1 revenue up 298% YoY to $19.95B, vs. $16.39B est., and forecasts Q2 revenue above estimates; SMCI jumps 7%+ after hours  —  Super Micro Computer (SMCI.O) forecast second-quarter revenue above Wall Street estimates on Tuesday as strong demand for its AI-optimized servers boosted sales …",
@@ -131,8 +165,8 @@
   },
   {
     "link": "https://www.techmeme.com/261103/p33#a261103p33",
-    "title": "Sources: Ubisoft and at least two other gaming companies made offers to Microsoft to acquire the French game developer Arkane Studios (Jason Schreier/Bloomberg)",
-    "description": "Jason Schreier / Bloomberg:\nSources: Ubisoft and at least two other gaming companies made offers to Microsoft to acquire the French game developer Arkane Studios  —  Microsoft's gaming unit is looking to divest the French company behind ‘Dishonored’ and 'Marvel's Blade'  —  Multiple companies have made offers …",
+    "title": "Sources: Ubisoft and at least two other gaming companies offered to acquire Arkane Studios from Microsoft, which is exploring options before a December deadline (Jason Schreier/Bloomberg)",
+    "description": "Jason Schreier / Bloomberg:\nSources: Ubisoft and at least two other gaming companies offered to acquire Arkane Studios from Microsoft, which is exploring options before a December deadline  —  Microsoft's gaming unit is looking to divest the French company behind ‘Dishonored’ and 'Marvel's Blade'",
     "categories": [
       "Tech News"
     ],
@@ -177,8 +211,8 @@
   },
   {
     "link": "https://www.techmeme.com/261103/p32#a261103p32",
-    "title": "Anthropic releases FlashProve, open-source code that cryptographically verifies an AI response came from a given model, not a cheaper one swapped in by a router (Anthropic)",
-    "description": "Anthropic:\nAnthropic releases FlashProve, open-source code that cryptographically verifies an AI response came from a given model, not a cheaper one swapped in by a router  —  Roy Rinberg (Anthropic), Alex Allain (Anthropic); Alessandro Chiesa (EPFL, StarkWare), Miranda Christ (MIT, RESI), Rahul Dalal …",
+    "title": "Anthropic releases FlashProve, an open-source prototype that cryptographically verifies an AI response came from a given model, not one that a router swapped in (Anthropic)",
+    "description": "Anthropic:\nAnthropic releases FlashProve, an open-source prototype that cryptographically verifies an AI response came from a given model, not one that a router swapped in  —  Roy Rinberg (Anthropic), Alex Allain (Anthropic); Alessandro Chiesa (EPFL, StarkWare), Miranda Christ (MIT, RESI), Rahul Dalal …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -379,7 +413,6 @@
     "title": "The Pixel Buds Pro 2 have returned to their lowest price to date",
     "description": "Android owners looking for an earbud upgrade are in luck. The Google Pixel Buds Pro 2 are back down to $169 at Amazon, Best Buy, and the Google Store, matching the lowest price we’ve seen. Google’s site claims the deal will last until 11:59PM PT on November 8th, and other retailers will likely follow suit.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-03T20:29:26+00:00",
@@ -546,7 +579,6 @@
     "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
     "description": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard.",
     "categories": [
-      "Breaking News",
       "Crypto & Web3",
       "Cybersecurity & Privacy"
     ],
@@ -800,7 +832,6 @@
     "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
     "description": "Suspected North Korean attackers duped an engineer with a fake job interview and a malicious download to gain a foothold in the crypto firm’s system and steal billions, according to Binance.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-11-03T19:04:58+00:00",
@@ -1284,7 +1315,6 @@
     "title": "Sources: UK-based Google DeepMind employees urge leaders to drop non-disparagement clauses barring public warnings about AI risks even after they leave Google (Gerrit De Vynck/Washington Post)",
     "description": "Gerrit De Vynck / Washington Post:\nSources: UK-based Google DeepMind employees urge leaders to drop non-disparagement clauses barring public warnings about AI risks even after they leave Google  —  Employment contracts deter staff from warning the public about AI risks, current workers said.  —  SummaryLoading...",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-03T18:00:38+00:00",
@@ -1296,7 +1326,6 @@
     "title": "Netflix’s AI Recommendations Aim to Play Matchmaker to Your Tastes",
     "description": "The streaming service is testing an interactive AI feature for personalized recommendations.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-03T18:00:22+00:00",
@@ -1331,7 +1360,6 @@
     "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
     "description": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-11-03T17:56:52+00:00",
@@ -2310,40 +2338,5 @@
     "pub_date": "2026-11-03T15:25:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-    "title": "Apple is all in on AI — its own and everyone else&#8217;s",
-    "description": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued to grow strongly in the fourth quarter. iPhone revenue rose 17.5% from a",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-03T15:24:51+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301906266.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/samsung-galaxy-27-pro-privacy-display",
-    "title": "Samsung Galaxy S27 Pro and Ultra might fix the most annoying thing about Privacy Display",
-    "description": "Samsung's upcoming flagships are going to have an improved Privacy Display, rumor says.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T15:20:08+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/049g2o2W7pToOpTYIMoYOAO/hero-image.webp",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
-    "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
-    "description": "Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of STEM Engagement, celebrates National STEM Day by bringing real‑world science,",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T15:15:50+00:00",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/anil-menon-downlink-nov-3.jpg?w=1280",
-    "source_name": "NASA.GOV"
   }
 ]
