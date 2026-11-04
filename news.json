@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://www.androidcentral.com/phones/motorola/remember-moto-one-phones-they-might-be-making-a-comeback",
+    "title": "Motorola could be bringing back a familiar Android phone after five years",
+    "description": "Motorola is reportedly reviving a phone series from years ago.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T19:58:27+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/MW3DR9CYPwkkqGnefhpktb-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/04/next-years-iphone-pro-redesign-gets-new-update-from-leaker/",
+    "title": "Next year’s iPhone Pro redesign gets new update from leaker",
+    "description": "Apple reportedly has a big redesign coming to next year’s iPhone Pro models, timed for the iPhone’s 20th anniversary. The latest leak about the design reveals that the dream of a cutout-free display may remain a dream for now.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T19:52:50+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261104/p48#a261104p48",
+    "title": "Filing: AMD will pay ~$2.9B in cash and stock for AI chip startup Taalas, with $1.4B dependent on unspecified conditions; the deal was announced in August (Murad Hemmadi/Globe and Mail)",
+    "description": "Murad Hemmadi / Globe and Mail:\nFiling: AMD will pay ~$2.9B in cash and stock for AI chip startup Taalas, with $1.4B dependent on unspecified conditions; the deal was announced in August  —  Advanced Micro Devices Inc. AMD-Q said Wednesday that it will pay about US$2.9-billion for Toronto-based semiconductor startup Taalas Inc. …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T19:45:48+00:00",
+    "image_url": "http://www.techmeme.com/261104/i48.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261104/p47#a261104p47",
     "title": "Apple says it will check iCloud items shared to \"Anyone with the link\" for \"harmful content\" in 27.3 OS versions, and may delete the content or disable accounts (Ryan Christoffel/9to5Mac)",
     "description": "Ryan Christoffel / 9to5Mac:\nApple says it will check iCloud items shared to “Anyone with the link” for “harmful content” in 27.3 OS versions, and may delete the content or disable accounts  —  iOS 27.3 adds lots of new iPhone features, and it also makes a change to how public iCloud links work …",
@@ -26,13 +62,24 @@
   {
     "link": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
     "title": "Knives Are Out in the White House",
-    "description": "From top officials like Pete Hegseth to White House aides to right-wing pundits, the race is on to find someone besides Donald Trump to blame for the Republican's catastrophic losses.",
+    "description": "From top officials like Pete Hegseth to White House aides to right-wing pundits, the race is on to find someone besides Donald Trump to blame for the Republicans’ catastrophic losses.",
     "categories": [
       "Government & Policy"
     ],
     "pub_date": "2026-11-04T19:32:01+00:00",
     "image_url": "https://media.wired.com/photos/6aeb8123ed104370bc61fc5a/master/pass/politics_inner_loop_midterms_takeaways-2.jpg",
     "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/gaming/alligator-xbox-gta6-how-to-win/",
+    "title": "Alligator-Shaped Xbox Will Be Snapped Up by One Gamer",
+    "description": "This iconic Florida critter appears to have swallowed an Xbox just a couple of weeks before the release of GTA 6.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-11-04T19:31:31+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Xbox-alligator.png",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
@@ -546,6 +593,7 @@
     "title": "This tiny Android phone brings back two features we thought were gone for good",
     "description": "Not everyone wants a giant smartphone with a dozen features they'll never use. The Enough Phone takes a different approach, and there's quite a bit to like about it.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-04T18:00:00+00:00",
@@ -1233,7 +1281,6 @@
     "title": "Hubble Reveals Cosmic Mystery",
     "description": "This photo released on Nov. 2, 2026, showcases NGC  4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expected to see is missing. Read",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-04T15:59:36+00:00",
@@ -1315,8 +1362,7 @@
     "title": "Adobe puts its marketing AI agent inside ChatGPT, Claude and Copilot",
     "description": "Adobe’s AI agent for marketing teams now works inside ChatGPT, Claude, Gemini, Copilot and Databricks Genie, the company said on Wednesday. Adobe expects Amazon Quick, IBM and Snowflake to follow soon. The agent, CX Enterprise Coworker, plans and runs customer experience work across Adobe’s marketing software. In ChatGPT, it comes as a plugin. Adobe made",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-04T15:46:52+00:00",
     "image_url": "https://media.thenextweb.com/2026/11/adobe-cx-enterprise-coworker-ai-platforms-graphic.avif",
@@ -2047,7 +2093,6 @@
     "description": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-11-04T13:49:51+00:00",
@@ -2310,51 +2355,5 @@
     "pub_date": "2026-11-04T12:40:39+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/New-selfie-sing-feature-in-Apple-Music.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261104/p23#a261104p23",
-    "title": "HP names former GSK CEO Emma Walmsley as its new CEO, effective from January 4, filling the role after HP's Enrique Lores left for PayPal in February 2026 (Bloomberg)",
-    "description": "Bloomberg:\nHP names former GSK CEO Emma Walmsley as its new CEO, effective from January 4, filling the role after HP's Enrique Lores left for PayPal in February 2026  —  HP Inc. named former GSK Plc chief executive officer Emma Walmsley as its new CEO, permanently filling the role after HP's Enrique Lores departed earlier this year.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T12:40:01+00:00",
-    "image_url": "http://www.techmeme.com/261104/i23.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/apple-dating-apps-ai-companions-18",
-    "title": "Apples new 18+ app limits mean little for dating apps, a lot for AI companions",
-    "description": "Apple wants to make sure dating apps and AI companions with \"sexual or romantic content\" are only for people over 18, with new restrictions.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T12:38:02+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06ioOARiQh3fGWfGVSTGqzi/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/phones/apples-iphone-18-might-be-worth-waiting-for-if-you-dont-mind-the-price-hike/",
-    "title": "Apple’s iPhone 18 might be worth waiting for, if you don’t mind the price hike",
-    "description": "Apple's standard iPhone 18 could arrive in early 2027 with a more powerful 2nm A20 chip and a larger battery, although a familiar design and another potential price increase might dampen the excitement.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-04T12:36:07+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/10/Apple-iPhone-17-review-21.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/cybercrime/hackers-target-french-blood-banks-in-latest-freezer-attack-as-uk-cybersecurity-chief-warns-of-sliding-doors-moment-for-unprecedented-threat",
-    "title": "Hackers target French blood banks in latest freezer attack amid UK warnings",
-    "description": "French blood supplies used in medical procedures have come under attack from suspected hackers.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T12:35:24+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/nfbwDgrK5BcqohNYdJq86A-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
