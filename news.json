@@ -1,5 +1,67 @@
 [
   {
+    "link": "https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale",
+    "title": "Bose’s QuietComfort Headphones are more than half off",
+    "description": "It’s not often that some of the best noise-canceling headphones you can buy are over half off. But right now, the first-gen Bose QuietComfort Headphones are on sale for $169.99 ($190 off) at Amazon, Best Buy, and Bose, matching its best price to date. The newer, second-generation version that launched in August is also down",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-04T21:13:11+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Bose-QuietComfort-Headphones-lifestyle.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+    "title": "Meta acquires AI coding startup Conductor",
+    "description": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-04T21:10:56+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/wired-world-fair-2026-cj-pearson-and-kat-abughazaleh/",
+    "title": "‘We Have No Shared Reality’: Two Political Influencers on the Future of Politics Online",
+    "description": "Kat Abughazaleh and CJ Pearson spoke at WIRED World Fair on Wednesday about the influence of social media on politics following Tuesday’s midterm elections.",
+    "categories": [
+      "Government & Policy",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-04T21:04:05+00:00",
+    "image_url": "https://media.wired.com/photos/6aeb837339a5aa15fca882ba/master/pass/WWF-CJ-Kat-5.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/mac-users-will-soon-get-the-dynamic-island-experience-without-buying-a-new-macbook-pro/",
+    "title": "Mac users will soon get the Dynamic Island experience without buying a new MacBook Pro",
+    "description": "macOS 27.3 Live Activities explained: which Macs get them, which apps support them, third-party support and the expected December release.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T21:03:57+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/macOS-27.3-Live-Activities-showing-music-playback.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/nothings-first-standalone-ai-device-coming-next-month/",
+    "title": "Cult Phone-Maker Nothing’s Mystery Screenless AI Device Is Coming Next Month",
+    "description": "Nothing CEO Carl Pei believes your work tools can be cool too. He’s building one to prove it.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-04T21:00:45+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/HWSdRAJa8AAdMRl.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/gaming/xbox-cloud-gaming-could-soon-let-you-use-your-phone-as-a-controller-on-your-tv/",
     "title": "Xbox Cloud Gaming could soon let you use your phone as a controller on your TV",
     "description": "Xbox Cloud Gaming already lets you play console games on a compatible smart TV without owning an Xbox. But there’s still one piece of hardware you need to get started. A controller. Microsoft is now testing a way to get around that requirement, allowing players to use their Android phone or iPhone as a virtual",
@@ -624,7 +686,7 @@
   {
     "link": "https://www.zdnet.com/innovation/ai-users-ask-chatbots-voting-advice-elections-yale-research/",
     "title": "Researchers asked people to use AI chatbots for election info – results were mixed",
-    "description": "Chatbots can skew election-related information and act as an intervening layer in a voter’s search, Yale researchers find.",
+    "description": "Chatbots can skew election-related information and act as an intervening layer in a voter’s search.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News"
@@ -1049,7 +1111,6 @@
     "title": "Redditor uses AI to get Switch games running natively on Apple TV",
     "description": "The TVPort project is another example of people using Claude Code to bring software to other platforms",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-11-04T17:15:09+00:00",
@@ -1061,7 +1122,6 @@
     "title": "Safari finally gets 3 popular browser features – and I can’t wait to try them",
     "description": "New developer beta release notes point to deeper Siri AI integration and more Safari customization.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-04T17:14:36+00:00",
@@ -1084,8 +1144,7 @@
     "title": "Aformic raises $6.95M to move its factory robots into AI data centres",
     "description": "Aformic, which makes self-driving forklifts and carts for factories, raised a $6.95M seed round led by Veteran Ventures Capital. It says it has more than $34M in orders and plans new robots for building and maintaining AI data centres. Industrial robotics startup Aformic has raised a $6.95M seed round led by Veteran Ventures Capital, the",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-04T17:13:09+00:00",
     "image_url": "https://media.thenextweb.com/2026/11/aformic-autonomous-forklift-robots-warehouse-robot-arm.avif",
@@ -1118,7 +1177,6 @@
     "title": "Can Netflix’s new AI tool stop your TV-streaming doomscrolling? How to try it",
     "description": "Netflix is adding a new Discover feature, which recommends tailored streaming selections. Here’s how it works.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-04T17:05:06+00:00",
@@ -1378,8 +1436,8 @@
   },
   {
     "link": "https://www.techmeme.com/261104/p40#a261104p40",
-    "title": "Democrats' sweep of Congress raises the likelihood of strong frontier AI legislation passing in early 2027, including mandatory testing and developer liability (Shakeel Hashim/Transformer)",
-    "description": "Shakeel Hashim / Transformer:\nDemocrats' sweep of Congress raises the likelihood of strong frontier AI legislation passing in early 2027, including mandatory testing and developer liability  —  America is waking up to an astonishing Democratic sweep.  As I write, Dems may end up with 56 Senate seats and as many as 261 House seats …",
+    "title": "What the blue tsunami means for AI policy (Shakeel Hashim/Transformer)",
+    "description": "Shakeel Hashim / Transformer:\nWhat the blue tsunami means for AI policy  —  America is waking up to an astonishing Democratic sweep.  As I write, Dems may end up with 56 Senate seats and as many as 261 House seats — more than almost anyone predicted.  States long considered unwinnable have flipped …",
     "categories": [
       "Tech News"
     ],
@@ -2289,62 +2347,5 @@
     "pub_date": "2026-11-04T14:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268611_Vizio_Mini_LED_Quantum_TV_JHiggins_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/drax-brookfield-radiant-ai-data-centre-north-yorkshire-20bn",
-    "title": "Drax plans a £20B AI data centre at Britain’s largest power station",
-    "description": "Drax runs Britain’s largest power station, in North Yorkshire. It plans to build an AI data centre there with Brookfield and Radiant, Brookfield’s UK-based AI infrastructure business. The site could eventually host more than 1GW of computing capacity, Drax said in a stock market statement on Tuesday. Brookfield estimates the total investment could top £20bn",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-11-04T13:54:32+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/data-centre-server-racks-corridor-blue-purple-lights-render.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/life/nov-4-magic-the-gathering-the-hobbit-play-booster-box-deal",
-    "title": "Magic: The Gatherings The Hobbit Play Booster Box is back under $150 at Amazon — save over $50",
-    "description": "The MTG Hobbit Play Booster Box is back under $150 at Amazon, with a 28% discount saving you nearly $58 on 30 packs.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T13:52:44+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00ftLTOlJ89gkdoi83VI5aK/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/life/nov-4-pokemon-tcg-30th-delta-reign-elite-trainer-box-preorder-deal",
-    "title": "Last-minute Pokémon TCG preorders for Delta Reigns ETB are over $20 off on Amazon",
-    "description": "Pokémon TCG Delta Reign Elite Trainer Box preorders are down to $115.88 at Amazon, saving $23.11 ahead of its Nov. 6 release.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T13:50:33+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06AQtSDyEo5nsZ6NhpJOxTN/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
-    "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
-    "description": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-11-04T13:49:51+00:00",
-    "image_url": "https://media.wired.com/photos/6ae4f0b834d00005a9a1a2fc/master/pass/2026-10-12T133338Z_906189115_RC2EIMAWOQ1L_RTRMADP_3_AI-BRITAIN-SAFETY.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/im-100-percent-at-war-with-trump-maga-revolts-after-midterms-wipeout/",
-    "title": "‘I’m 100 Percent at War With Trump’: MAGA Revolts After Midterms Wipeout",
-    "description": "While some of Donald Trump’s closest allies have remained silent, much of MAGA is blaming him for historic losses.",
-    "categories": [
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-04T13:48:28+00:00",
-    "image_url": "https://media.wired.com/photos/6ae50a5c21bfda08f54b3e88/master/pass/GettyImages-2266022222.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
