@@ -1,5 +1,89 @@
 [
   {
+    "link": "https://www.digitaltrends.com/wearables/bluetooths-biggest-speed-boost-in-years-could-finally-make-lossless-wireless-audio-more-accessible/",
+    "title": "Bluetooth’s biggest speed boost in years could finally make lossless wireless audio more accessible",
+    "description": "Bluetooth just got nearly four times faster, and your songs, movies, and earbuds’ battery may be the big winners.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T16:57:46+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/09/anker-sleepbuds-4-series-earbuds-2.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/",
+    "title": "The Results Are In: Voters Hate Data Centers",
+    "description": "From high-profile Senate races to local rezoning initiatives, data centers and their supporters did miserably on the ballot in the 2026 midterms.",
+    "categories": [
+      "AI & Machine Learning",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-04T16:56:17+00:00",
+    "image_url": "https://media.wired.com/photos/6aea38de5f9acfda4c7c80b9/master/pass/110326-midterms-data-centres-ballot.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+    "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+    "description": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-04T16:51:35+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261104/p42#a261104p42",
+    "title": "Titan OS, which monetizes smart TVs via ads and FAST deals, raised $46M in equity and debt, for a total funding of $110M, says it has 30M users, up from 18M YoY (Ivan Mehta/TechCrunch)",
+    "description": "Ivan Mehta / TechCrunch:\nTitan OS, which monetizes smart TVs via ads and FAST deals, raised $46M in equity and debt, for a total funding of $110M, says it has 30M users, up from 18M YoY  —  Barcelona-based smart TV operating system maker Titan OS has raised $46 million in new funding, consisting of both equity and debt, the company announced on Wednesday.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T16:50:00+00:00",
+    "image_url": "http://www.techmeme.com/261104/i42.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/why-are-premium-domains-so-expensive",
+    "title": "Why are premium domains so expensive?",
+    "description": "Premium domains are expensive because each name exists only once, and short, memorable ones are long gone. Registries and owners price them on demand. They help brands get remembered, but they do not boost Google rankings, and some renew at premium prices. Registering a normal .com address is cheap. Since 1 November, registrars pay Verisign,",
+    "categories": [
+      "Business & Startups"
+    ],
+    "pub_date": "2026-11-04T16:49:42+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/https-www-browser-address-bar-cursor-illustration.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/wired-world-fair-2026-ben-lamm-colossal-biosciences/",
+    "title": "‘You Don’t Put Your Head in the Sand for 4 Years’: Colossal CEO Ben Lamm on Working With Trump",
+    "description": "The company’s cofounder recently convinced the Trump administration to support an initiative to gather DNA samples from endangered species.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-04T16:43:35+00:00",
+    "image_url": "https://media.wired.com/photos/6aeb5f0ab57e802a8d80379d/master/pass/WWF-Ben-Lamm-3.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1026360/anker-eufy-window-camera-e10-indoors-security-ai-color-night-vision",
+    "title": "Anker’s new window-mounted camera monitors the outside of your home from within it",
+    "description": "Anker announced a new indoor security camera that's designed to watch your yard, driveway, or front porch through a window, instead of monitoring what's inside your home. The new Anker Eufy Window Camera E10 takes a similar approach to the Wyze Window Cam that launched nearly a year ago. It installs right against a window",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-04T16:36:21+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ankercam1_43ac74.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/11/04/macbook-neo-2-is-coming-and-apple-reportedly-expects-a-massive-hit/",
     "title": "MacBook Neo 2 is coming, and Apple reportedly expects a massive hit",
     "description": "Apple has a MacBook Neo 2 planned for early 2027, per Mark Gurman, and a new report from Digitimes indicates the company is expecting it to be a massive hit.\n\n\n\n more…",
@@ -428,7 +512,6 @@
     "title": "Xbox made a five-foot alligator that ate an Xbox Series X: How to win the Xbox Series X-BITE",
     "description": "Xbox has announced the Xbox Series X-BITE, a five-foot alligator that ate an Xbox Series X. How to win this limited-edition console.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-04T15:28:09+00:00",
@@ -1166,7 +1249,6 @@
     "description": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Science & Environment"
     ],
@@ -1213,7 +1295,6 @@
     "title": "Apple Watch learned new hand gestures in just a minute. It’s the most exciting wearable research I’ve seen in years.",
     "description": "Researchers have developed a system called TransfHAR that uses the motion sensors inside the Apple Watch, the accelerometer and the gyroscope, to learn and identify activities based on the movement of your hands and wrist.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-04T12:57:36+00:00",
@@ -1763,7 +1844,6 @@
     "title": "Microsoft stuffed an Xbox Series X inside an alligator, and you could actually win it",
     "description": "Microsoft has unveiled a bizarre, five-foot-long alligator housing a fully functional Xbox Series X, complete with a bite-marked controller, and one lucky fan can win the one-of-a-kind creation.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-11-04T11:00:18+00:00",
@@ -1775,7 +1855,6 @@
     "title": "Best Wireless Earbuds I’d Buy Right Now (2026): Apple, Beats, Bose, and More",
     "description": "I tested over a hundred options—my top picks from Apple, Bose, and Beats stood out from the rest.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-04T11:00:00+00:00",
@@ -1787,7 +1866,6 @@
     "title": "The Legend of Zelda: Ocarina of Time review: A masterpiece reborn",
     "description": "The magic of the original is fully intact while looking and playing better than ever.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-11-04T11:00:00+00:00",
@@ -1799,7 +1877,6 @@
     "title": "The Switch 2 Zelda: Ocarina of Time Is a Brilliant Remake",
     "description": "It’s back, completely refreshed, and an absolute joy to experience again.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-11-04T11:00:00+00:00",
@@ -2267,82 +2344,5 @@
     "pub_date": "2026-11-04T08:28:09+00:00",
     "image_url": "https://www.engadget.com/img/gallery/valve-just-changed-its-steam-release-rules-amid-a-flood-of-ai-games/l-intro-1793780767.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/macos-27-3-adds-markdown-preview-support-to-quick-look/",
-    "title": "You can finally preview Markdown files in Quick Look on your Mac",
-    "description": "macOS 27.3 beta 1 brings Markdown support to Quick Look, so you can preview .md files with proper formatting without opening a separate app.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-04T08:19:16+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/macOS-27.3-markdown-feature-open-on-mac.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://mashable.com/life/us-midterm-elections-trump-reaction-post",
-    "title": "Trump posted through the U.S. midterm elections, and he wasnt happy",
-    "description": "President Donald Trump has been posting through the U.S. midterm elections, and he doesn't appear happy with the results.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T08:05:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06nLAh9CEd7352WIm7f1eTC/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/mobile/honor-magic-9-pro-max-hands-on-arri-cinema-partnership/",
-    "title": "Shooting Video With Honor’s New Magic 9 Pro Max Lets You Feel Like a Movie Director",
-    "description": "Phone-maker Honor partners with the iconic cinema camera maker ARRI to enhance the look and color of videos recorded on its Magic 9 Pro Max.",
-    "categories": [
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-11-04T08:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Honor-Magic-9-Pro-Max-back-of-phone.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/apps-software/school-google-and-ai",
-    "title": "Google will let schools turn off AI, but they'll have to give up Search too",
-    "description": "Want to block AI in your school? Google says you'll lose Search too",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T07:48:13+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/6B2GausoFaHwvVDEyc4H28-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/social-media/whatsapps-new-photo-sharing-shortcut-is-convenient-but-im-not-entirely-convinced/",
-    "title": "WhatsApp’s new photo-sharing shortcut is convenient, but I’m not entirely convinced",
-    "description": "WhatsApp is introducing a new shortcut that automatically suggests recently saved photos, screenshots, and videos inside conversations, making sharing quicker while giving users control over what gets sent.",
-    "categories": [
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-04T07:37:11+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/WhatsApp-emoji-reaction.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261104/p8#a261104p8",
-    "title": "Industry experts warn that slow US power grid expansion could stifle its AI boom and give China an edge, as China builds power infrastructure faster (Martha Muir/Financial Times)",
-    "description": "Martha Muir / Financial Times:\nIndustry experts warn that slow US power grid expansion could stifle its AI boom and give China an edge, as China builds power infrastructure faster  —  Why America is struggling to power the AI boom.  The US is building electricity lines at a quarter the rate of a decade ago It took 13 years …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T07:30:05+00:00",
-    "image_url": "http://www.techmeme.com/261104/i8.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261104/p7#a261104p7",
-    "title": "ITjuzi: Chinese embodied AI companies raised ~$13B across 322 deals in H1 2026, up 5x YoY, as robot makers shift focus from hardware to AI (Reuters)",
-    "description": "Reuters:\nITjuzi: Chinese embodied AI companies raised ~$13B across 322 deals in H1 2026, up 5x YoY, as robot makers shift focus from hardware to AI  —  After years of building humanoid robots capable of running, dancing and performing backflips, Chinese companies are pouring resources into a different challenge …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T07:20:02+00:00",
-    "image_url": "http://www.techmeme.com/261104/i7.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
