@@ -1,5 +1,42 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case",
+    "title": "How I learned to love an obnoxious phone grip",
+    "description": "Much like a great recipe, it started with a stick of butter. This wasn't real butter; it was a friend's new phone grip, complemented by a phone case with bold stripes. Butter is in vogue now, or at least that's what a 12-year-old told me a few months ago. This stick of butter was labeled",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-11-04T21:30:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IMG_1326_edit.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+    "title": "OpenAI is already trying to shape the 2028 election",
+    "description": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-04T21:25:44+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/the-pentagon-wants-to-buy-an-australian-made-kamikaze-suicide-drone-armed-with-a-shotgun",
+    "title": "The Pentagon wants to buy an Australian-made 'kamikaze' suicide drone armed with a shotgun",
+    "description": "The Pentagon has cleared Australia's Cerberus MI, a reusable shotgun-armed drone developed by Skyborne Technologies, for American government procurement.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T21:15:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/nHCf4iZ4AyMQbpaGuNEnbU-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale",
     "title": "Bose’s QuietComfort Headphones are more than half off",
     "description": "It’s not often that some of the best noise-canceling headphones you can buy are over half off. But right now, the first-gen Bose QuietComfort Headphones are on sale for $169.99 ($190 off) at Amazon, Best Buy, and Bose, matching its best price to date. The newer, second-generation version that launched in August is also down",
@@ -24,6 +61,18 @@
     "pub_date": "2026-11-04T21:10:56+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+    "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+    "description": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T21:04:10+00:00",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/10/2-artemis-iii-con-ops-oct2026.jpg?w=2048",
+    "source_name": "NASA.GOV"
   },
   {
     "link": "https://www.wired.com/story/wired-world-fair-2026-cj-pearson-and-kat-abughazaleh/",
@@ -63,7 +112,7 @@
   },
   {
     "link": "https://www.digitaltrends.com/gaming/xbox-cloud-gaming-could-soon-let-you-use-your-phone-as-a-controller-on-your-tv/",
-    "title": "Xbox Cloud Gaming could soon let you use your phone as a controller on your TV",
+    "title": "Xbox Cloud Gaming could soon let players use their smartphones as controllers on TVs",
     "description": "Xbox Cloud Gaming already lets you play console games on a compatible smart TV without owning an Xbox. But there’s still one piece of hardware you need to get started. A controller. Microsoft is now testing a way to get around that requirement, allowing players to use their Android phone or iPhone as a virtual",
     "categories": [
       "Gaming"
@@ -108,7 +157,7 @@
   },
   {
     "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
-    "title": "The Biggest Pro-AI Super Pac Network Didn't Really Impact the Midterms",
+    "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
     "description": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
     "categories": [
       "AI & Machine Learning",
@@ -1065,7 +1114,6 @@
     "title": "Galantas CEO Mario Stifano on AI, data centres and the copper supply gap",
     "description": "Mario Stifano is chief executive of Galantas Gold, a gold and copper company listed on the TSX Venture Exchange in Toronto and on AIM in London. He has more than 25 years of experience across exploration, development and producing mining companies. Galantas is developing the Andacollo gold project in Chile, a former producing mine, and",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-04T17:25:50+00:00",
@@ -1099,7 +1147,6 @@
     "title": "Security Bite: The record $6.3B Binance heist started with a fake Homebrew install on Mac",
     "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening & Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\n\n\n\n\n\n\n\nLast week, news broke that hackers had stolen $6.3 billion from wallets on Binance, the most popular cryptocurrency exchange in the world. The company was able to freeze about nearly $3 billion of it, but the attack quickly made headlines, and rightfully so, as the largest financial heist in human history.\n\n\n\nAt the time, I suspected, along with security researcher Christopher Lopez and plenty of others, that this could have very well started on a Mac. As Lopez pointed out, the $1.5 billion Bybit heist last year also began on a developer’s Mac. On top of that, Macs are hugely popular among DevOps engineers and crypto folks, and they’ve been on the receiving end of a steady stream of malware and social engineering campaigns over the past few years.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-04T17:18:56+00:00",
@@ -2300,52 +2347,5 @@
     "pub_date": "2026-11-04T14:06:58+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/07lOvCelzJ4g4LE8r62Ya74/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/apple-music-selfie-sing",
-    "title": "Apple Musics Selfie Sing lets you take videos of yourself doing karaoke",
-    "description": "A new Apple Music videos lets you take videos of yourself doing karaoke.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T14:04:53+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03pwrq6nVzVeshls2JGnebn/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/life/nov-4-pokemon-tcg-prismatic-evolutions-elite-trainer-box-deal",
-    "title": "The Pokémon TCG Prismatic Evolutions Elite Trainer Box is under $150 at Amazon ahead of Black Friday",
-    "description": "As of Nov. 4, the Pokémon TCG Prismatic Evolutions Elite Trainer Box has been marked down to $149 at Amazon, 14% off its typical price of $180.99.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T14:02:50+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01XpMVfdUuvKjrXcPGenBEC/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261104/p30#a261104p30",
-    "title": "Sequoia says it's closing its London office after six years and consolidating operations back to the Bay Area, as it doesn't \"see the need for a local presence\" (Mike Butcher/Pathfounders)",
-    "description": "Mike Butcher / Pathfounders:\nSequoia says it's closing its London office after six years and consolidating operations back to the Bay Area, as it doesn't “see the need for a local presence”  —  US venture capital giant Sequoia Capital is closing its London office, ending the six-run of a significant European presence …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T14:01:45+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1026088/northeastern-university-acr-tracking-study",
-    "title": "Does opting out of TV tracking work?",
-    "description": "The fact our TVs are gathering our information isn't new, but what and how they're tracking - and if we can stop it - is hard to figure out. Researchers at Northeastern University monitored 12 TVs from 10 manufacturers to test whether opting out of automatic content recognition (ACR) actually works. While opting out was",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-04T14:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268611_Vizio_Mini_LED_Quantum_TV_JHiggins_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
