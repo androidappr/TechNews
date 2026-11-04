@@ -1,5 +1,64 @@
 [
   {
+    "link": "https://www.digitaltrends.com/cool-tech/pangram-the-gold-standard-for-ai-text-checks-releases-image-1-0-tool-to-sniff-fake-pics-and-videos/",
+    "title": "Pangram, the gold standard for AI text checks, releases Image 1.0 tool to sniff fake pics and videos",
+    "description": "Pangram Image 1.0, which was previously available as a research preview, is now widely available on the web, through the company’s API, and via its eponymous Chrome extension.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-04T17:30:36+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/pangram-lead.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/04/security-bite-the-record-6-3b-binance-heist-started-with-a-fake-homebrew-install-on-mac/",
+    "title": "Security Bite: The record $6.3B Binance heist started with a fake Homebrew install on Mac",
+    "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening & Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\n\n\n\n\n\n\n\nLast week, news broke that hackers had stolen $6.3 billion from wallets on Binance, the most popular cryptocurrency exchange in the world. The company was able to freeze about nearly $3 billion of it, but the attack quickly made headlines, and rightfully so, as the largest financial heist in human history.\n\n\n\nAt the time, I suspected, along with security researcher Christopher Lopez and plenty of others, that this could have very well started on a Mac. As Lopez pointed out, the $1.5 billion Bybit heist last year also began on a developer’s Mac. On top of that, Macs are hugely popular among DevOps engineers and crypto folks, and they’ve been on the receiving end of a steady stream of malware and social engineering campaigns over the past few years.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T17:18:56+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2306727/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv/",
+    "title": "Redditor uses AI to get Switch games running natively on Apple TV",
+    "description": "The TVPort project is another example of people using Claude Code to bring software to other platforms",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-11-04T17:15:09+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv/l-intro-1793812470.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2306723/bluetooth-is-going-to-get-a-lot-faster-in-2027/",
+    "title": "Bluetooth is going to get a lot faster in 2027",
+    "description": "Bluetooth HDT's rollout will benefit a wide range of wireless devices and how they communicate.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T17:14:21+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/bluetooth-is-going-to-get-a-lot-faster-in-2027/l-intro-1793812232.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/aformic-6-95m-seed-industrial-robots-veteran-ventures",
+    "title": "Aformic raises $6.95M to move its factory robots into AI data centres",
+    "description": "Aformic, which makes self-driving forklifts and carts for factories, raised a $6.95M seed round led by Veteran Ventures Capital. It says it has more than $34M in orders and plans new robots for building and maintaining AI data centres. Industrial robotics startup Aformic has raised a $6.95M seed round led by Veteran Ventures Capital, the",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-04T17:13:09+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/aformic-autonomous-forklift-robots-warehouse-robot-arm.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
     "title": "Sequoia hits rewind, undoing 20 years of expansion",
     "description": "Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.",
@@ -36,8 +95,8 @@
   },
   {
     "link": "https://www.techmeme.com/261104/p43#a261104p43",
-    "title": "Pangram releases Pangram Image 1.0, which it says is state-of-the-art in AI image detection, and Image Flash 1.0, which powers its AI video detection (Isaac Kasahara/Pangram)",
-    "description": "Isaac Kasahara / Pangram:\nPangram releases Pangram Image 1.0, which it says is state-of-the-art in AI image detection, and Image Flash 1.0, which powers its AI video detection  —  State-of-the-art AI image and video detection with our latest Pangram Image models. … A few months ago, we released Pangram Image as a research preview.",
+    "title": "Pangram releases Pangram Image 1.0, which it says is state-of-the-art in AI image and AI video detection, and the smaller Image Flash 1.0 for AI video detection (Isaac Kasahara/Pangram)",
+    "description": "Isaac Kasahara / Pangram:\nPangram releases Pangram Image 1.0, which it says is state-of-the-art in AI image and AI video detection, and the smaller Image Flash 1.0 for AI video detection  —  State-of-the-art AI image and video detection with our latest Pangram Image models. … A few months ago, we released Pangram Image as a research preview.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -81,6 +140,18 @@
     "source_name": "WIRED.COM"
   },
   {
+    "link": "https://www.techradar.com/ai-platforms-assistants/it-might-be-that-we-would-have-been-better-off-never-developing-it-geoffrey-hinton-doesnt-like-the-look-of-the-future-of-ai-and-hes-saying-what-weve-all-been-thinking",
+    "title": "AI Godfather Geoffrey Hinton says we may have been 'better off' without AI",
+    "description": "Humanity could be at a crossroads between a good or bad future, and AI is the single factor.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T16:53:44+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/eSvYBFJW3sXNG4SxaQEK6D-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://mashable.com/tech/xbox-nano-controller-launch-first-impressions",
     "title": "Hands-on: Xbox launches lightweight Nano Controller, and its just right for me",
     "description": "Xbox's new Nano Controller launched today, targeting kids, people with small hands, and those who game on the go.",
@@ -120,8 +191,8 @@
   },
   {
     "link": "https://www.techmeme.com/261104/p42#a261104p42",
-    "title": "Titan OS, which monetizes smart TVs via ads and FAST deals, raised $46M in equity and debt, for a total funding of $110M, says it has 30M users, up from 18M YoY (Ivan Mehta/TechCrunch)",
-    "description": "Ivan Mehta / TechCrunch:\nTitan OS, which monetizes smart TVs via ads and FAST deals, raised $46M in equity and debt, for a total funding of $110M, says it has 30M users, up from 18M YoY  —  Barcelona-based smart TV operating system maker Titan OS has raised $46 million in new funding, consisting of both equity and debt, the company announced on Wednesday.",
+    "title": "Titan OS, which monetizes smart TVs via ads and FAST deals, raised $46M in equity and debt, taking its total funding to $110M, and says it now has 30M users (Ivan Mehta/TechCrunch)",
+    "description": "Ivan Mehta / TechCrunch:\nTitan OS, which monetizes smart TVs via ads and FAST deals, raised $46M in equity and debt, taking its total funding to $110M, and says it now has 30M users  —  Barcelona-based smart TV operating system maker Titan OS has raised $46 million in new funding, consisting of both equity and debt, the company announced on Wednesday.",
     "categories": [
       "Tech News"
     ],
@@ -1244,7 +1315,7 @@
   },
   {
     "link": "https://www.wired.com/story/im-100-percent-at-war-with-trump-maga-revolts-after-midterms-wipeout/",
-    "title": "‘I’m 100 Percent at War with Trump’: MAGA Revolts After Midterms Wipeout",
+    "title": "‘I’m 100 Percent at War With Trump’: MAGA Revolts After Midterms Wipeout",
     "description": "While some of Donald Trump’s closest allies have remained silent, much of MAGA is blaming him for historic losses.",
     "categories": [
       "Government & Policy"
@@ -2273,74 +2344,5 @@
     "pub_date": "2026-11-04T10:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/03G86DYG3ueN3Ko38JWFfs0/hero-image.png",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/life/eharmony-app-reviews-subscribers-share-whether-its-worth-it",
-    "title": "eharmony app reviews: Subscribers share whether it’s worth it",
-    "description": "Real eharmony users share the pros and cons of using the site, from substantive matchmaking to weeding out fake profiles.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T10:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00LX1CeyFhcvnfDnxscH9o7/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/qualcomm-hbc-chips-validated-dragonfly-ai250",
-    "title": "Qualcomm says its first HBC chips for the Dragonfly AI250 pass lab tests",
-    "description": "Qualcomm has completed testing the first chips built with its High Bandwidth Compute (HBC) memory technology, clearing a key step towards using it in data centre AI hardware. The company announced the results, saying the technology will feature in its Dragonfly AI250 accelerator, designed to run AI models in data centres. Best known for its",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T09:54:32+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/qualcomm-dragonfly-stacked-chip-render-white-blocks.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/traversal-120m-series-b-1b-valuation-ai-sre",
-    "title": "Traversal raises $120M at a $1B valuation to fix what AI code breaks",
-    "description": "Traversal, a New York startup whose AI agents find out why company software breaks, has raised $120 million in a Series B round. The deal values it at $1 billion, the company announced on Tuesday. Kleiner Perkins, Redpoint Ventures and Khosla Ventures co-led the round. Sequoia Capital, Battery Ventures and Amex Ventures also took part,",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T09:53:23+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/traversal-series-b-announcement-graphic.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/the-long-road-towards-6g-spectrum-investment-and-making-5g-complete",
-    "title": "The long road towards 6G: Spectrum, investment and making 5G complete",
-    "description": "6G’s future depends on the spectrum, standards and investment choices we make today.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T09:53:14+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/aBt4xDYv6hbiB3JyuDnEuM-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/digital-twins-will-create-a-new-blueprint-for-data-center-design",
-    "title": "Digital twins will create a new blueprint for data center design",
-    "description": "Digital twins are not simply simulators. They have the potential to reconfigure data center design.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T09:50:57+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/gaming/steam-is-drowning-in-new-games-and-valve-is-dropping-tougher-restrictions/",
-    "title": "Steam is drowning in new games, and Valve is dropping tougher restrictions",
-    "description": "Valve is introducing stricter pre-release checks for Steam games as a surge in submissions pushes approval times to nearly two weeks, with developers increasingly concerned about AI-generated games clogging the platform.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-04T09:49:29+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Steam-website-open-on-MacBook.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
   }
 ]
