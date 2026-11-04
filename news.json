@@ -1,5 +1,143 @@
 [
   {
+    "link": "https://thenextweb.com/news/supermicro-sambanova-sn50-nvidia-inference-racks",
+    "title": "Supermicro will sell SambaNova’s inference chips alongside Nvidia GPUs",
+    "description": "Supermicro will build and sell AI inference systems that pair SambaNova’s SN50 chips with Nvidia GPUs, the companies said on Tuesday. The collaboration initially plans for 10,000 SN50 chips, according to SambaNova’s announcement. The racks will join Supermicro’s Data Center Building Block Solutions, the ready-made data centre systems it sells to customers. Running an AI",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-04T10:11:18+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/sambanova-supermicro-logos-purple-globe.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/eic-scaling-club-deep-tech-scale-ups-raised-e4bn-after-joining-report-says",
+    "title": "EIC Scaling Club deep tech scale-ups raised €4bn after joining, report says",
+    "description": "European deep tech companies in the European Innovation Council’s (EIC) Scaling Club have raised €4.06bn since joining the programme, according to a new report published by the initiative. The Club, funded by the EIC, supports 120 scale-ups from 26 countries. The report, Europe’s Deep Tech Scale-ups: Building Momentum, compares the members with 240 companies that",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T10:10:46+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/eic-scaling-club-deep-tech-report-cover-rocket.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/we-were-highly-skeptical-about-the-cost-of-ai-revolut-reveals-it-cut-ai-coding-costs-by-cutting-out-claude-entirely",
+    "title": "'We were highly skeptical about the cost of AI': Revolut reveals it cut AI coding costs by cutting out Claude entirely",
+    "description": "Revolut ditches Claude as it lays out a plan to use self-hosted models – but infrastructure costs are still eye-watering.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T10:10:12+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Ji9MEgBv83riosWJLaNZGB-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/gmktec-evo-x5-pro-mini-pc-review",
+    "title": "GMKtec EVO-X5 Pro mini PC review: I tested large LLMs on this machine and the results and speed were impressive",
+    "description": "The GMKtec EVO-X5 Pro is a mini PC ideal for pro workloads and running 300B LLMs locally with a Ryzen AI Max+ PRO 495, Radeon 8065S graphics and 192GB memory.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T10:08:16+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/n4ZQhhQEfXnRauzjEwYYKN-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261104/p12#a261104p12",
+    "title": "Legal shifts in Texas and Delaware leave Elon Musk's SpaceX-Tesla merger and Meta's new non-voting share plan better prepared to fend off shareholder lawsuits (Financial Times)",
+    "description": "Financial Times:\nLegal shifts in Texas and Delaware leave Elon Musk's SpaceX-Tesla merger and Meta's new non-voting share plan better prepared to fend off shareholder lawsuits  —  SpaceX-Tesla merger and Meta's new share class expected to fend off legal challenges after shareholder rights diminished in Delaware and Texas.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T10:01:18+00:00",
+    "image_url": "http://www.techmeme.com/261104/i12.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/fitbit-edge-review",
+    "title": "Review: I have no complaints about the Fitbit Edge, but I prefer the Fitbit Air",
+    "description": "The Fitbit Edge has everything you want from a fitness tracker, including week-long battery life. But I prefer the faceless Fitbit Air.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T10:00:46+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/reviews/04NN26wGWCUGyKwvzVN1eri/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/kindle-pinning-feature-how-to-pin-text-images",
+    "title": "Reading A Court of Splintered Harmony on your Kindle? Try this helpful feature.",
+    "description": "Reading a book you need to reference images on? This is how to pin text and images on your Kindle to easily reference back to them.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T10:00:46+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/035Y0YW3nAPK7OXcP2WtRtf/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/life/nov-4-kpop-demon-hunters-trading-cards-deal",
+    "title": "Amazon has cut the price of KPop Demon Hunters Collectible Trading Cards (Classic Edition)",
+    "description": "Save 11% on Kpop Demon Hunters Collectible Trading Cards at Amazon.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T10:00:29+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00VeTNvLaFZZ1xadKiQsPbr/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/chernobyls-dogs-may-be-evolving-but-scientists-dont-know-why/",
+    "title": "Chernobyl’s Dogs May Be Evolving, but Scientists Don’t Know Why",
+    "description": "A new study found evidence of natural selection in the dogs of Chernobyl, but it’s still unclear what drove these genetic differences and what evolutionary advantages they may provide.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-04T10:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6ae8fedf93d0a10b8d7f1f42/master/pass/492210506",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/nov-4-bose-quietcomfort-bluetooth-wireless-noise-cancelling-headphones",
+    "title": "These Bose QuietComfort headphones know when to let the world in — and they’re on sale for $185",
+    "description": "Get new, open-box Bose QuietComfort headphones in Cypress Green for $184.99, with adjustable noise-canceling and up to 24-hour battery life.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T10:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/073lVY9wiOIDldlXcOJOyh7/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/best-christmas-gifts-2026",
+    "title": "The 93 best Christmas gifts for 2026: Our favorite gift ideas from Apple, Lego, Kindle, and brands youve never heard of",
+    "description": "To find the best Christmas gifts, Mashable reporters and editors review products all year long, and we love recommending holiday gift ideas.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T10:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/03G86DYG3ueN3Ko38JWFfs0/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/life/eharmony-app-reviews-subscribers-share-whether-its-worth-it",
+    "title": "eharmony app reviews: Subscribers share whether it’s worth it",
+    "description": "Real eharmony users share the pros and cons of using the site, from substantive matchmaking to weeding out fake profiles.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T10:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00LX1CeyFhcvnfDnxscH9o7/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/qualcomm-hbc-chips-validated-dragonfly-ai250",
     "title": "Qualcomm says its first HBC chips for the Dragonfly AI250 pass lab tests",
     "description": "Qualcomm has completed testing the first chips built with its High Bandwidth Compute (HBC) memory technology, clearing a key step towards using it in data centre AI hardware. The company announced the results, saying the technology will feature in its Dragonfly AI250 accelerator, designed to run AI models in data centres. Best known for its",
@@ -44,6 +182,29 @@
     "pub_date": "2026-11-04T09:50:57+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/gaming/steam-is-drowning-in-new-games-and-valve-is-dropping-tougher-restrictions/",
+    "title": "Steam is drowning in new games, and Valve is dropping tougher restrictions",
+    "description": "Valve is introducing stricter pre-release checks for Steam games as a surge in submissions pushes approval times to nearly two weeks, with developers increasingly concerned about AI-generated games clogging the platform.",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-11-04T09:49:29+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Steam-website-open-on-MacBook.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://mashable.com/life/hot-ones-versus-sam-rockwell-parker-posey",
+    "title": "Sam Rockwell taking on Parker Posey in Hot Ones Versus is a chaotic as youd expect",
+    "description": "Sam Rockwell and Parker Posey went head-to-head for \"Hot Ones Versus\". Watch.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T09:46:27+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/videos/01GVjw8AWggxIxDOMKEsQV2/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techmeme.com/261104/p11#a261104p11",
@@ -245,8 +406,8 @@
   },
   {
     "link": "https://www.techmeme.com/261104/p6#a261104p6",
-    "title": "Democratic gubernatorial wins in Texas, Georgia, Ohio, and Pennsylvania may expose 50% of proposed US AI data center additions to greater scrutiny and pushback (Bloomberg)",
-    "description": "Bloomberg:\nDemocratic gubernatorial wins in Texas, Georgia, Ohio, and Pennsylvania may expose 50% of proposed US AI data center additions to greater scrutiny and pushback  —  Data center developers seeking to build dozens of sprawling artificial intelligence campuses across Texas were already dealing …",
+    "title": "Democratic gubernatorial wins in Texas, Georgia, Ohio, and Pennsylvania are set to expose 50% of proposed AI data center additions to more scrutiny and pushback (Bloomberg)",
+    "description": "Bloomberg:\nDemocratic gubernatorial wins in Texas, Georgia, Ohio, and Pennsylvania are set to expose 50% of proposed AI data center additions to more scrutiny and pushback  —  Data center developers seeking to build dozens of sprawling artificial intelligence campuses across Texas were already dealing …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -283,7 +444,6 @@
     "title": "A Democratic sweep of US Congress pulls down Asian tech stocks, as investors rethink trades built around Trump's policy agenda for AI infrastructure and crypto (Bloomberg)",
     "description": "Bloomberg:\nA Democratic sweep of US Congress pulls down Asian tech stocks, as investors rethink trades built around Trump's policy agenda for AI infrastructure and crypto  —  Global markets pared a selloff sparked by a Democratic sweep of the US Congress, as investors weighed tougher scrutiny …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-04T06:15:04+00:00",
@@ -295,7 +455,6 @@
     "title": "Sources: Oracle has scrapped a ~$7B, five-year deal to lease ~100K advanced AI chips to Tencent after yielding to pressure from the Trump administration (Financial Times)",
     "description": "Financial Times:\nSources: Oracle has scrapped a ~$7B, five-year deal to lease ~100K advanced AI chips to Tencent after yielding to pressure from the Trump administration  —  Intervention comes amid growing tension for US AI infrastructure groups doing business with Chinese tech giants.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-04T06:05:02+00:00",
@@ -358,6 +517,28 @@
     "source_name": "WIRED.COM"
   },
   {
+    "link": "https://www.wired.com/story/adidas-promo-code/",
+    "title": "25% Off Adidas Promo Code | November 2026",
+    "description": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T06:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/legalzoom-promo-code/",
+    "title": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
+    "description": "Save on top services at LegalZoom, like LLC registration, incorporation, estate plans, and more with coupons and deals from WIRED.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T06:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.wired.com/story/hulu-promo-code/",
     "title": "Hulu Promo Codes & Discounts: 20% Off in November 2026",
     "description": "Students can get a Hulu plan for $1.99 per month. Get more details on this and other great deals below.",
@@ -410,28 +591,6 @@
     ],
     "pub_date": "2026-11-04T06:00:00+00:00",
     "image_url": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/adidas-promo-code/",
-    "title": "25% Off Adidas Promo Code | November 2026",
-    "description": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T06:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/legalzoom-promo-code/",
-    "title": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
-    "description": "Save on top services at LegalZoom, like LLC registration, incorporation, estate plans, and more with coupons and deals from WIRED.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T06:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png",
     "source_name": "WIRED.COM"
   },
   {
@@ -583,17 +742,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techradar.com/gaming/dungeons-and-dragons-world-of-warcraft-gameplay-expansion-isnt-just-perfect-for-wow-fans-every-d-and-d-player-and-dm-should-pick-it-up",
-    "title": "Dungeons & Dragons’ World of Warcraft module might be perfect",
-    "description": "I’ve never played World of Warcraft, but its Dungeons & Dragons’ expansion has me convinced it’s perfect.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-04T04:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/tqbSZ9UyM9sj8sDkPGK34Z-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-alls-fair-season-2",
     "title": "How to watch All's Fair season 2 online – stream the Kim Kardashian drama from anywhere",
     "description": "Our guide explains how to watch All's Fair season 2 online and stream the Kim Kardashian drama from anywhere in the world.",
@@ -602,6 +750,17 @@
     ],
     "pub_date": "2026-11-04T04:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/WPQbtfBAh6zvhewWNjP4eF-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/dungeons-and-dragons-world-of-warcraft-gameplay-expansion-isnt-just-perfect-for-wow-fans-every-d-and-d-player-and-dm-should-pick-it-up",
+    "title": "Dungeons & Dragons’ World of Warcraft module might be perfect",
+    "description": "I’ve never played World of Warcraft, but its Dungeons & Dragons’ expansion has me convinced it’s perfect.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-11-04T04:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/tqbSZ9UyM9sj8sDkPGK34Z-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2082,162 +2241,5 @@
     "pub_date": "2026-11-03T19:45:48+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://gizmodo.com/google-is-holding-its-search-engine-hostage-from-schools-that-dont-want-ai-2000834544",
-    "title": "Google Is Holding Its Search Engine Hostage From Schools That Don’t Want AI",
-    "description": "Google says it's giving schools more control over AI, but those that opt out will also lose access to its search engine.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-03T19:45:15+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2023/06/231943bc8841484ae103ec6a09e91d8a-1024x576.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261103/p26#a261103p26",
-    "title": "How OpenAI, Anthropic, and others are trying to prevent anyone from using their AI tools to disrupt the US midterms, including Anthropic's first-ever \"war room\" (Steven Lee Myers/New York Times)",
-    "description": "Steven Lee Myers / New York Times:\nHow OpenAI, Anthropic, and others are trying to prevent anyone from using their AI tools to disrupt the US midterms, including Anthropic's first-ever “war room”  —  OpenAI, Anthropic and other tech companies have vowed to protect Tuesday's elections from efforts to undermine democracy.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T19:45:03+00:00",
-    "image_url": "http://www.techmeme.com/261103/i26.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/1025318/trump-gop-ev-war-record-gas-prices-midterms",
-    "title": "This Election Day, remember which party ran against EVs and tethered us all to the gas pump",
-    "description": "It's the midterms! Here's a fun fact for you as you head to the polls: Gas prices today are the highest ever recorded for a US Election Day. The national average for a gallon of gasoline is $4.12 and $6.28 for a gallon of diesel, according to GasBuddy. Meanwhile, the Strategic Petroleum Reserve, which is",
-    "categories": [
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-03T19:44:46+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302796388.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/partner-content/shotcode-bets-on-human-creativity-as-ai-reshapes-advertising-video-production/",
-    "title": "ShotCode bets on human creativity as AI reshapes advertising video production",
-    "description": "New studio targets brands seeking creative direction rather than another video-generation subscription  ShotCode is launching an artificial intelligence-powered advertising studio, betting that the growing availability of video-generation software will create demand for a different service: deciding what brands should make with it.  The company will develop AI video ad concepts, scripts and finished short-form advertisements for SaaS",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T19:39:06+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/b83e6a1e-c080-4119-af94-c2b64c3dafb8.jpeg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-    "description": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-11-03T19:34:43+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/fal-1-3b-bessemer-16b-valuation-ai-inference",
-    "title": "AI inference startup Fal doubles its value to $16B in a $1.3B round",
-    "description": "Fal, which hosts image, video and audio AI models for developers, raised $1.3B led by Bessemer at a $16B valuation, double its April value. Nvidia and T. Rowe Price also invested. Fal plans to spend the money on more computing power and staff. Fal, a startup that runs image, video and audio AI models for",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-03T19:34:36+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/ai-orange-neon-sign-dark-circuit-wall.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/03/ios-27-3-brings-apple-intelligence-features-to-china/",
-    "title": "iOS 27.3 brings Apple Intelligence features to China",
-    "description": "iOS 27.3 beta 1 is here, and it includes the first Apple Intelligence features in China. Siri AI isn’t available yet, but a lot of other capabilities are. Here’s what to expect.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T19:31:26+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-ai-iphone-18-pro-blue.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2300270/dont-throw-away-your-laptop-old-ssd-do-this-instead/",
-    "title": "Don't throw away your laptop's old SSDs — do this instead",
-    "description": "Get some extra life out of your unused SSDs by converting them into external storage devices.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T19:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/dont-throw-away-your-laptops-old-ssds-do-this-instead/l-intro-1792960873.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.zdnet.com/tech/apple-foldable-iphone-duo-stock-shortage/",
-    "title": "Want an iPhone Duo for the holidays? Apple’s latest stock update isn’t reassuring",
-    "description": "The iPhone Duo likely won’t make it into Santa’s sleigh this year. Here’s what Apple had to say about it.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-03T19:28:32+00:00",
-    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC01150.jpeg",
-    "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/home-theater/netflixs-new-ai-discover-tool-will-ask-about-your-mood-and-tell-you-what-to-watch/",
-    "title": "Netflix’s new AI Discover tool will ask about your mood and tell you what to watch",
-    "description": "AI Discover is rolling out to users in the US, but for now, it only supports English and is limited to the TV app. It’s also only available to a select group of users, though the test pool will expand in the coming weeks.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-03T19:28:01+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/netflix-discover.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/03/developers-can-now-create-advanced-app-skills-for-siri-ai/",
-    "title": "Developers can now create advanced ‘app skills’ for Siri AI",
-    "description": "Apple today announced a major new Siri AI initiative for third-party developers, allowing any app to create Siri AI integrations for the first time. The first versions of Siri AI were limited to a much smaller set of supported schemas.\n\n\n\nThe new ‘app skills’ also let apps teach Siri how to coordinate complicated multi-step actions. These features will become available as part of iOS 27.3, macOS 27.3, and aligned releases.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T19:25:48+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Siri-AI-Beta-macOS-27-Top-Features.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
-    "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
-    "description": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.",
-    "categories": [
-      "AI & Machine Learning",
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-03T19:24:37+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://gizmodo.com/casio-watch-ring-crw-002-2000834539",
-    "title": "Another Ring-Sized Casio Watch Has Hit the Market",
-    "description": "The CRW-002 is a miniaturized version of the company's A168 digital watch, complete with a working stopwatch and LED backlight.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-03T19:20:56+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/11/Casio-CRW-002-lifestyle-1280x720.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/03/ios-27-3-expands-siri-ai-with-many-new-capabilities-across-apple-apps/",
-    "title": "iOS 27.3 expands Siri AI with many new capabilities across Apple apps",
-    "description": "iOS 27.3 has just entered beta testing and includes major new features for Siri AI across iPhone, iPad and Mac. The company has unlocked many new capabilities across major Apple apps, like Music, Messages, Safari, Reminders and more.\n\n\n\nWe are still digging into the beta, but here’s a taste of what new things you can get Siri AI to do:\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-03T19:19:40+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
