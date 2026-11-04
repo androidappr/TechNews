@@ -1,5 +1,90 @@
 [
   {
+    "link": "https://thenextweb.com/news/credit-mutuel-arkea-cyberattack-fraudulent-transactions",
+    "title": "Crédit Mutuel Arkéa says hackers carried out fraudulent transactions",
+    "description": "French cooperative bank Crédit Mutuel Arkéa has confirmed that hackers accessed its systems and carried out fraudulent transactions, although the bank says the incident has been contained and customers’ money is safe. In a statement to customers on Wednesday, Arkéa said the attack was under control and that the security incident had been closed. They",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T14:39:55+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/credit-mutuel-arkea-headquarters-aerial-view.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk",
+    "title": "SpaceX is working with Qualcomm to build its Starlink Mobile 5G network",
+    "description": "SpaceX is teaming up with Qualcomm to build out its nationwide mobile network. Under the multi-year deal, SpaceX will bring Qualcomm's Dragonwing technology to \"tens of thousands\" of 5G cell sites across the US, with the first deployments set for 2027. The news of the partnership comes as part of SpaceX's push to make Starlink",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Mobile & Telecom",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-04T14:38:20+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/SpaceXAnnouncement.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/ncsc-annual-review-2026-ai-malware-critical-infrastructure",
+    "title": "UK cyber agency warns of AI-powered ransomware on infrastructure by 2028",
+    "description": "The UK’s National Cyber Security Centre (NCSC) says attackers will highly likely use AI-powered malware in a ransomware attack on critical national infrastructure by 2028. The warning is in the NCSC annual review, The State of the Cyber Nation, published on 3 November. The NCSC, part of the GCHQ spy agency, also expects hostile states",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-04T14:32:29+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/electricity-substation-insulators-dusk.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/phones/apple-iphone/apple-iphone-duo-review",
+    "title": "Apple iPhone Duo review: the greatest iPhone ever made",
+    "description": "After two weeks with the iPhone Duo, it's made every other iPhone and folding phone feel like a downgrade to me.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T14:31:34+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/4VEbGbP2Vdk9h5wgdUd5YP-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/brava-security-15m-seed-f2-pitango-ai-soc-telemetry",
+    "title": "Brava secures $15M to help security teams find threats their systems miss",
+    "description": "Artificial intelligence is changing how enterprises approach cybersecurity, particularly within security operations centers. The promise is straightforward. AI agents can analyze alerts, investigate suspicious activity, and help security teams respond with greater efficiency. But the technology depends on something that people often take for granted: reliable security telemetry. An organization’s security infrastructure may fail to",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T14:30:57+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/brava-security-co-founders-idan-basre-itay-gabbay.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261104/p33#a261104p33",
+    "title": "Revolut hits a $115B valuation, up from $75B in November 2025, after a secondary share sale led by Glade Brook, Coatue, and others, as it plans a US launch (Jagmeet Singh/TechCrunch)",
+    "description": "Jagmeet Singh / TechCrunch:\nRevolut hits a $115B valuation, up from $75B in November 2025, after a secondary share sale led by Glade Brook, Coatue, and others, as it plans a US launch  —  Revolut's investors have completed a secondary share sale that values the British fintech at $115 billion, 53% more than the price tag …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T14:30:28+00:00",
+    "image_url": "http://www.techmeme.com/261104/i33.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/microsoft-windows-11-pc-free-xbox-games-deal",
+    "title": "Microsoft will give you 25 free Xbox games if you buy a Windows 11 PC right now — how to claim",
+    "description": "Buy an eligible Windows 11 PC or handheld this holiday and claim 25 free Xbox games worth over $500, including Skyrim, Halo, and Fallout 76.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T14:30:19+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/03TRvRhN0xgVC36dPylPnZH/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/cool-tech/researchers-develop-a-low-cost-glucose-sensor-that-tracks-blood-sugar-using-light/",
     "title": "Tiny injectable glucose sensor could make blood sugar monitoring 10 times cheaper",
     "description": "Texas A&M researchers have built a tiny injectable glucose sensor that uses near-infrared light and a cheaper sugar molecule, and it could one day replace today’s pricey, patch-based monitors.",
@@ -12,6 +97,29 @@
     "source_name": "DIGITALTRENDS.COM"
   },
   {
+    "link": "https://mashable.com/life/7-eleven-flavors-of-korea-menu-mini-series",
+    "title": "7-Eleven’s new Korean menu comes with K-BBQ taquitos and an unhinged TikTok mini-drama",
+    "description": "7-Eleven rolled out a limited-time Flavors of Korea menu featuring bibigo dumplings, gochujang wings, and K-BBQ taquitos, paired with a social media K-drama series.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T14:22:02+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/020DBsXhQUrdB0Q0MRT8l5Y/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/windows/microsoft-boasts-windows-11-is-now-up-to-40-percent-faster-for-multi-tasking-as-latest-update-packs-a-big-speed-boost-for-8gb-pcs",
+    "title": "Microsoft boasts Windows 11 is now up to 40% faster for multi-tasking",
+    "description": "'Making better use of the memory in every Windows 11 PC': Microsoft explains in more detail how it has made the OS a lot faster.",
+    "categories": [
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-04T14:20:37+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/MbGtYqEtneYEmn9iyqwJyB-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261104/p32#a261104p32",
     "title": "UK AI Minister Kanishka Narayan says AI is set to add £55B to £140B to the economy by 2030, below a £400B estimate from a Google-led report touted by officials (Ben Gartside/Wired)",
     "description": "Ben Gartside / Wired:\nUK AI Minister Kanishka Narayan says AI is set to add £55B to £140B to the economy by 2030, below a £400B estimate from a Google-led report touted by officials  —  The AI minister now concedes the estimated figure is less than a third of that.  Researchers blame the country's slow rate of adoption",
@@ -22,6 +130,17 @@
     "pub_date": "2026-11-04T14:20:04+00:00",
     "image_url": "http://www.techmeme.com/261104/i32.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/top-password-manager-msecure-tells-users-to-change-passwords-immediately",
+    "title": "Top password manager mSecure tells users to change passwords immediately",
+    "description": "Users synced with its cloud service might be at risk, as a copy of an encrypted database is nabbed.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-04T14:20:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/37uyEphcLreEFNUVCQzurn-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://thenextweb.com/news/huawei-hbm-smuggling-samsung-sk-hynix-ascend-960dt",
@@ -55,6 +174,7 @@
     "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
     "description": "Glade Brook, Coatue and T. Rowe Price were among the investors that led the share sale.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-04T14:10:10+00:00",
@@ -137,7 +257,7 @@
       "Tech News"
     ],
     "pub_date": "2026-11-04T14:01:45+00:00",
-    "image_url": "http://www.techmeme.com/261104/i30.jpg",
+    "image_url": "http://www.techmeme.com/img/pml.png",
     "source_name": "TECHMEME.COM"
   },
   {
@@ -920,6 +1040,7 @@
     "title": "Microsoft stuffed an Xbox Series X inside an alligator, and you could actually win it",
     "description": "Microsoft has unveiled a bizarre, five-foot-long alligator housing a fully functional Xbox Series X, complete with a bite-marked controller, and one lucky fan can win the one-of-a-kind creation.",
     "categories": [
+      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-11-04T11:00:18+00:00",
@@ -1060,7 +1181,6 @@
     "title": "Play-Doh is releasing an adult ACOTAR flower bouquet kit — how to buy yours",
     "description": "Play-Doh just unveiled an adult floral craft kit inspired by Sarah J. Maas's 'A Court of Thorns and Roses.' Preorders are live now for $49.99.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-04T10:38:47+00:00",
@@ -1581,17 +1701,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.wired.com/story/columbia-promo-code/",
-    "title": "Columbia Promo Codes: 15% Off | November 2026",
-    "description": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T06:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/hoka-coupon-code/",
     "title": "Hoka Coupon Codes: 30% Off in November 2026",
     "description": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for November 2026.",
@@ -1625,6 +1734,39 @@
     "source_name": "WIRED.COM"
   },
   {
+    "link": "https://www.wired.com/story/columbia-promo-code/",
+    "title": "Columbia Promo Codes: 15% Off | November 2026",
+    "description": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T06:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/hulu-promo-code/",
+    "title": "Hulu Promo Codes & Discounts: 20% Off in November 2026",
+    "description": "Students can get a Hulu plan for $1.99 per month. Get more details on this and other great deals below.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T06:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/66ea0770dbf190a9d5157ecd/master/pass/WIRED-Coupons-7.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/hostinger-coupon-code/",
+    "title": "Hostinger Promo Code: 79% Off for November 2026",
+    "description": "Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T06:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.wired.com/story/adidas-promo-code/",
     "title": "25% Off Adidas Promo Code | November 2026",
     "description": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
@@ -1655,28 +1797,6 @@
     ],
     "pub_date": "2026-11-04T06:00:00+00:00",
     "image_url": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/hulu-promo-code/",
-    "title": "Hulu Promo Codes & Discounts: 20% Off in November 2026",
-    "description": "Students can get a Hulu plan for $1.99 per month. Get more details on this and other great deals below.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T06:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea0770dbf190a9d5157ecd/master/pass/WIRED-Coupons-7.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/hostinger-coupon-code/",
-    "title": "Hostinger Promo Code: 79% Off for November 2026",
-    "description": "Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T06:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
     "source_name": "WIRED.COM"
   },
   {
@@ -2177,115 +2297,5 @@
     "pub_date": "2026-11-04T00:25:16+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/02pxrFys3OnxJrfSXoV7qeh/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/russia-demands-apple-hand-over-user-phone-and-message-records-to-its-security-agencies-when-requested",
-    "title": "Russia demands Apple hand over user phone and message records to its security agencies when requested",
-    "description": "Russia adds Apple and Microsoft to its surveillance register, requiring three-year data retention and disclosure of customers' communications to security agencies.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-11-04T00:25:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/dqC33kMG3bmthYaHviafPN-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/apple-opens-siri-ai-to-all-developers-allowing-more-advanced-third-party-app-controls/",
-    "title": "Apple opens Siri AI to all developers, allowing more advanced third-party app controls",
-    "description": "Apple‘s latest wave of beta software recently went live for developers, bringing several new features across Safari, iOS, and watchOS. Along with these changes, the company also announced something far more significant for third-party developers: it is finally letting them use Siri AI more deeply, opening up capabilities previously limited to a narrow set of",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-04T00:24:10+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Siri-AI-voice-change.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/services-and-software/openai-data-centers-rebrand-midterms-pr-campaign/",
-    "title": "AI Data Centers Have a PR Problem. OpenAI Is Proposing a Rebrand",
-    "description": "As part of the company’s post-midterms marketing campaign, data centers could be called “AI compute campuses.”",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-04T00:22:46+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2301209206.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261103/p42#a261103p42",
-    "title": "How Nvidia uses soft power to influence customers and shape US chip policy; sources: OpenAI took no public stance on China chip exports to avoid angering Nvidia (The Information)",
-    "description": "The Information:\nHow Nvidia uses soft power to influence customers and shape US chip policy; sources: OpenAI took no public stance on China chip exports to avoid angering Nvidia  —  Last month, OpenAI Senior Research Scientist Noam Brown posted a link in a company Slack channel to a news story …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T00:20:01+00:00",
-    "image_url": "http://www.techmeme.com/261103/i42.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/best-vpn/",
-    "title": "The 10 best VPN services for 2026, reviewed by experts",
-    "description": "A good VPN can help protect your privacy, hide your IP address, and make it easier to access content while travelling. We compared the leading services of 2026 to find the best options for privacy, speed, streaming, beginners, and more.",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-11-04T00:16:29+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/vpn-lead.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techradar.com/entertainment/cricket/how-to-watch-new-zealand-vs-india-2026-odi-series",
-    "title": "How to watch New Zealand vs India ODI 2026: Free Stream, Schedule & Preview",
-    "description": "All the ways to watch the New Zealand vs India 2026 ODI series from anywhere, as Shubman Gill's men meet Mitchell Santner’s Black Caps in a five-match series.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T00:10:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/AceAsfK4iD3D8ZpCXQyGV5-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/life/election-day-2026-results-updates-today-so-far",
-    "title": "Election Day 2026 results updates: See live election results trackers as polls close",
-    "description": "The 2026 U.S. midterm elections are here and millions of votes still need to be counted.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T00:08:35+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04oA4BZJWxm7SHAwh8JmlXH/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/home-entertainment/roku-retires-aquatic-life-screensaver/",
-    "title": "Roku Retires Aquatic Life Screensaver to Reel Viewers Into Roku City",
-    "description": "Fans of the Roku aquarium will need to find a new way to just keep swimming.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T00:05:51+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Roku-aquarium.png",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/03/follow-todays-midterm-election-results-with-the-apple-news-live-activity/",
-    "title": "Follow today’s midterm election results with the Apple News Live Activity",
-    "description": "With votes now being counted in the US midterm elections, the Apple News app offers a convenient way to follow the results in real time. Here’s how it works.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T00:01:02+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/midterms-live-activity.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261103/p41#a261103p41",
-    "title": "We want to clarify what we announced today about our education services. Today's announcements give schools more choice, not less. Here's what we announced: - Gemini, Gemini Notebook, and Search will be OFF 🔴 by default. This is based on K-12 schools asking for more control over student use of AI... (@newsfromgoogle)",
-    "description": "@newsfromgoogle:\nWe want to clarify what we announced today about our education services. Today's announcements give schools more choice, not less. Here's what we announced: - Gemini, Gemini Notebook, and Search will be OFF 🔴 by default. This is based on K-12 schools asking for more control over student use of AI...",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T00:00:50+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
-    "source_name": "TECHMEME.COM"
   }
 ]
