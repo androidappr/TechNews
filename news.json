@@ -197,17 +197,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.techradar.com/televisions/hisense-ur9-review",
-    "title": "Hisense UR9 review: impressive performance, but with a high price tag",
-    "description": "The Hisense UR9 is the company’s RGB LED effort, and it’s quite the TV. But you’ll pay for being an early adopter.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T00:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/woyrMaNyJAfairTUFeiX23-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-4-november-2026",
     "title": "NYT Strands hints and answers for Wednesday, November 4 (game #976)",
     "description": "Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.",
@@ -238,6 +227,17 @@
     ],
     "pub_date": "2026-11-04T00:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/televisions/hisense-ur9-review",
+    "title": "Hisense UR9 review: impressive performance, but with a high price tag",
+    "description": "The Hisense UR9 is the company’s RGB LED effort, and it’s quite the TV. But you’ll pay for being an early adopter.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T00:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/woyrMaNyJAfairTUFeiX23-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -384,7 +384,6 @@
     "title": "Here's how to adjust Apple AirPods for small ears",
     "description": "Those with small ears may require some extra finessing when adjusting their Apple AirPods to get the perfect fit, and there are a few ways you can ensure that.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-03T23:00:00+00:00",
@@ -944,8 +943,7 @@
     "title": "Those Jeff Bezos hair transplant photos are very fake",
     "description": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially more hair than their usual shaved",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-03T21:01:07+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Fake-Jeff-Bezos-Jason-Statham-hair-photo-edits.jpg?quality=90&strip=all&crop=0,0,100,100",
@@ -967,7 +965,6 @@
     "title": "Safari finally gets vertical tabs — and a new way to make any site dark, all thanks to OS 27.3",
     "description": "A platform update is bringing Vertical Tabs and an Adaptive Dark Mode to Safari (on all platforms).",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-03T21:00:43+00:00",
@@ -1002,7 +999,6 @@
     "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
     "description": "An in-space construction first could be an enabler for the space data centers of the future.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-11-03T20:57:17+00:00",
@@ -1037,7 +1033,6 @@
     "title": "Google’s new opt-in policy for AI presents a problem for schools",
     "description": "Google won't make search available without AI Overview and AI Mode.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-03T20:49:41+00:00",
@@ -1060,7 +1055,6 @@
     "title": "The Sony x Hello Kitty headphones crossover is live. Heres how to preorder it.",
     "description": "Sony's collab with Hello Kitty is finally available for preorder. Check out the XM6 headphones, WH-CH730N, and WH-CH530 headphones.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-03T20:46:48+00:00",
@@ -1585,7 +1579,6 @@
     "title": "Your Apple Watch has 2 new controversial listening features – but you have to opt in",
     "description": "Siri Recap and Live Rewind are finally here, two months after Apple unveiled the always-listening Apple Watch features. Here’s how they work.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-03T19:01:00+00:00",
@@ -1608,7 +1601,6 @@
     "title": "Siri Is Getting Ears on the Apple Watch: Here’s What That Means for Your Privacy",
     "description": "Two controversial new features arriving in beta this week will let the Apple Watch rewind and recap conversations.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-03T19:00:23+00:00",
