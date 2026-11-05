@@ -25,7 +25,7 @@
   },
   {
     "link": "https://www.theverge.com/tech/1027426/nasa-experimental-x-70-fractal-aircraft",
-    "title": "NASA’s new experimental X-70 plane will be used to test next-gen aviation technologies",
+    "title": "The X-70 is NASA’s next experimental X-plane",
     "description": "Yesterday NASA announced the latest addition to its X-series of experimental aircraft that have included the Bell X-1 that first broke the sound barrier nearly 80 years ago, and the more recent X-59 quiet supersonic demonstrator. The new X-70 Fractal is designed to be a \"high-performance, highly adaptable research platform\" that NASA can use as",
     "categories": [
       "Breaking News",
@@ -156,30 +156,6 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://www.wired.com/story/aina-smart-ring/",
-    "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
-    "description": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-11-05T14:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/master/pass/Aina%20Ring%20colors%20standing.jpeg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/review/apple-macbook-pro-oled-2026/",
-    "title": "Apple MacBook Pro OLED (2026) Review: The Best Comes at a Cost",
-    "description": "The new OLED MacBook Pro comes with an incredible-looking touchscreen display—and an equally eye-popping price.",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-05T14:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aebd874f1d50b8664c56b28/master/pass/macbook-pro-OLED-04.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.engadget.com/2304128/2027-chevrolet-silverado-1500-first-drive/",
     "title": "2027 Chevrolet Silverado 1500 First Drive: Big displays meet big V8s",
     "description": "Chevy's new Silverado needs a few updates before it's ready for prime time.",
@@ -260,6 +236,30 @@
     "pub_date": "2026-11-05T14:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/reviews/018gJDpnzmrpLd3ote4r26S/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/aina-smart-ring/",
+    "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+    "description": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-05T14:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/master/pass/Aina%20Ring%20colors%20standing.jpeg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/review/apple-macbook-pro-oled-2026/",
+    "title": "Apple MacBook Pro OLED (2026) Review: The Best Comes at a Cost",
+    "description": "The new OLED MacBook Pro comes with an incredible-looking touchscreen display—and an equally eye-popping price.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-05T14:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aebd874f1d50b8664c56b28/master/pass/macbook-pro-OLED-04.jpg",
+    "source_name": "WIRED.COM"
   },
   {
     "link": "https://thenextweb.com/news/isomorphic-labs-5bn-funding-talks-50bn-valuation",
@@ -484,30 +484,6 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://www.wired.com/story/motorola-wants-to-sell-you-a-1600-phone-that-doesnt-fold/",
-    "title": "Motorola Signature 27: Specs, Price, Features, Release Date",
-    "description": "Equipped with the brightest display, an “Event-Based Vision Sensor,” and the next-generation Qualcomm processor, Motorola hopes you’ll want to spend big bucks on its ceramic and aluminum Signature 27.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-05T13:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aea54d38c0d20ad6dc9def8/master/pass/signature27_lifestyle9_Motorola.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
-    "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
-    "description": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-11-05T13:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aebade028f7263543de445a/master/pass/Business_Drug%20Discovery%20Is%20a%20Needle%20in%20a%20Haystack%20Problem.%20This%20AI%20Startup%20Thinks%20It%20Has%20The%20Answer_v1.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.engadget.com/2307393/spotify-is-coming-to-uniteds-seatback-screens/",
     "title": "Spotify is coming to United's seatback screens",
     "description": "The streaming service's entire library of content will be available in the air.",
@@ -552,6 +528,30 @@
     "pub_date": "2026-11-05T13:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/VMWxrnnMbGFMMxSmaUZZSH-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/motorola-wants-to-sell-you-a-1600-phone-that-doesnt-fold/",
+    "title": "Motorola Signature 27: Specs, Price, Features, Release Date",
+    "description": "Equipped with the brightest display, an “Event-Based Vision Sensor,” and the next-generation Qualcomm processor, Motorola hopes you’ll want to spend big bucks on its ceramic and aluminum Signature 27.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-05T13:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aea54d38c0d20ad6dc9def8/master/pass/signature27_lifestyle9_Motorola.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+    "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+    "description": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-11-05T13:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aebade028f7263543de445a/master/pass/Business_Drug%20Discovery%20Is%20a%20Needle%20in%20a%20Haystack%20Problem.%20This%20AI%20Startup%20Thinks%20It%20Has%20The%20Answer_v1.jpg",
+    "source_name": "WIRED.COM"
   },
   {
     "link": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
