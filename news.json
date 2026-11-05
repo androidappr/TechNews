@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.techradar.com/computing/virtual-reality-augmented-reality/i-spent-a-morning-with-meta-vr-glasses-and-wish-i-never-had-to-take-them-off",
+    "title": "I spent a morning with Meta VR Glasses and wish I never had to take them off",
+    "description": "Meta VR Glasses are shaping up to be the mixed-reality wearables we wanted all along, and my test drive made me a believer.",
+    "categories": [
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-05T00:45:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/4aGDnaHB3JNtGBcubeHUCd-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261104/p57#a261104p57",
+    "title": "OpenAI launches Images 2.6 in ChatGPT, Codex, and the API, saying it generates images 50% faster, and adds animated GIF creation from prompts or photos (Emma Roth/The Verge)",
+    "description": "Emma Roth / The Verge:\nOpenAI launches Images 2.6 in ChatGPT, Codex, and the API, saying it generates images 50% faster, and adds animated GIF creation from prompts or photos  —  You can use ChatGPT to edit a GIF's animation speed and individual frames. … ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-05T00:40:01+00:00",
+    "image_url": "http://www.techmeme.com/261104/i57.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+    "title": "X says its updated web app is way faster",
+    "description": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection,\" principal engineer Yagiz Nizipli said in a blog post about the changes.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-05T00:25:12+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/11/04/apple-now-lets-developers-offer-discounts-when-users-move-to-cancel-subscriptions/",
     "title": "Apple now lets developers offer discounts when users move to cancel subscriptions",
     "description": "Apple today rolled out a new subscription retention tool for developers looking to reduce cancellations. Here are the details.\n\n\n\n more…",
@@ -9,6 +44,18 @@
     "pub_date": "2026-11-05T00:17:49+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.cnet.com/news/politics/data-center-ai-losses-midterms/",
+    "title": "Data Center Backers Suffer Near-Total Midterm Defeats Across the Country",
+    "description": "More than 40 voting initiatives yielded almost nothing but resistance to data-center projects.",
+    "categories": [
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-05T00:17:41+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2301317402.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://www.techmeme.com/261104/p56#a261104p56",
@@ -667,7 +714,6 @@
     "description": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Government & Policy"
     ],
@@ -710,6 +756,17 @@
     "pub_date": "2026-11-04T20:30:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/ef129ede0539ed869971d5ae9125bab7-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/ebikes/i-tried-the-velotric-discover-3-and-its-black-friday-deal-makes-it-even-better/",
+    "title": "I tried the Velotric Discover 3, and its Black Friday deal makes it even better",
+    "description": "Black Friday is a good time to shop for an e-bike, particularly if you’ve been waiting for a discount on something with plenty of power, a comfortable riding position, and features that make everyday rides easier. The Velotric Discover 3 has all three, and after taking it for a ride, I found quite a few",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-04T20:30:00+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/velotric_discover3_4.png?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
   },
   {
     "link": "https://9to5mac.com/2026/11/04/apple-disables-siri-ai-waitlist-in-ios-27-with-one-exception/",
@@ -954,6 +1011,7 @@
     "title": "SpaceX is snapping up hundreds of homes near its new flagship AI data center — but only if the owners agree to one incredible catch",
     "description": "SpaceX reportedly wants to purchase 418 homes near its Mississippi AI facilities, with homeowners facing conditions linked to an ongoing turbine noise lawsuit.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-04T19:25:00+00:00",
@@ -966,6 +1024,7 @@
     "description": "OpenAI is adding animated GIFs to ChatGPT with a new image model, Images 2.6. Users can make a GIF from text or a photo and edit its frames. Developers get two new API models, and OpenAI says people now make over 4 billion images a week. OpenAI is rolling out animated GIFs in ChatGPT alongside",
     "categories": [
       "AI & Machine Learning",
+      "Breaking News",
       "Software & Apps"
     ],
     "pub_date": "2026-11-04T19:24:20+00:00",
@@ -1148,7 +1207,6 @@
     "title": "Nintendo's main Switch cartridge supplier is leaving the ROM business",
     "description": "This is potentially terrible news for those who love physical media.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-11-04T18:39:08+00:00",
@@ -1392,18 +1450,6 @@
     "source_name": "NASA.GOV"
   },
   {
-    "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
-    "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
-    "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in therapy. Plenty of life events, big and",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-04T18:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268817_Bee_Frontier_AKrales_0098.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.wired.com/story/big-tech-abandoned-the-small-phone-the-enough-phone-wants-to-save-it/",
     "title": "Small Phones Have Vanished. Enough Phone Wants to Bring Them Back",
     "description": "As flagship smartphones balloon in size, the Enough Phone offers a 5.3-inch handset. Choose between stock Android or an anti-distraction operating system.",
@@ -1425,6 +1471,18 @@
     "pub_date": "2026-11-04T18:00:00+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Enough-phone-in-Air.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+    "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+    "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in therapy. Plenty of life events, big and",
+    "categories": [
+      "AI & Machine Learning",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-04T18:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268817_Bee_Frontier_AKrales_0098.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
@@ -2234,64 +2292,5 @@
     "pub_date": "2026-11-04T15:36:50+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/02AAQoswyIkPcRkIrh8cXGi/hero-image.png",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/apple-siri-ai-developer-preview-app-intents-usage-limits-fee",
-    "title": "Apple opens Siri AI to every app, and plans a fee for expanded use",
-    "description": "Apple has opened Siri AI to every app developer. A Developer Preview lets any app bring its content and actions into Siri AI, Apple said on Tuesday. It ships in the iOS 27.3, iPadOS 27.3, macOS 27.3 and visionOS 27.3 betas. Until now, apps could only plug into Siri through categories that Apple defined. Now",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware",
-      "Mobile & Telecom",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-04T15:36:30+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/apple-siri-ai-icon-dark-background.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/call-of-duty-modern-warfare-4-composer-says-to-capture-the-tone-of-multiplayer-maps-you-have-to-play-a-lot-of-multiplayer-as-its-a-completely-different-vibe-from-the-campaign-i-was-trying-to-capture-forward-momentum-and-pure-adrenaline",
-    "title": "Call of Duty: Modern Warfare 4 composer says to capture the tone of multiplayer maps, 'you have to play a lot of multiplayer' as 'it's a completely different vibe from the campaign' — 'I was trying to capture forward momentum and pure adrenaline'",
-    "description": "Call of Duty: Modern Warfare 4 composer Jason Graves has shared his process for designing the game's multiplayer music.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-04T15:36:03+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/3eCeYkW4xEhaX7PFoy3Nsn-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/policy/1026329/elon-musk-paxton-talarico-texas-election-funding",
-    "title": "Not even $200 million could help Elon Musk buy Texas",
-    "description": "James Talarico, the Democratic Texas senator-elect, not only managed to flip the state in yesterday's midterms but prevailed in the most expensive Senate election to date. More than $573 million was spent on advertisements between Talarico, his Republican opponent Ken Paxton, and their aligned PACs. And a big chunk of that money came from just",
-    "categories": [
-      "Breaking News",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-04T15:33:59+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/cool-tech/scammers-are-using-ai-to-fake-missing-pet-photos-and-what-happens-next-is-horrifying/",
-    "title": "Scammers are using AI to fake missing pet photos, and what happens next is horrifying",
-    "description": "Losing a pet is heartbreaking enough, but some owners are now dealing with something even worse. Fraudsters are using AI to offer false hope, turning the search for a missing animal into an elaborate scam.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-04T15:33:21+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/03/how-to-get-pets-inzoi-cat.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/election-deniers-not-contesting-their-massive-losses/",
-    "title": "Election Deniers Aren’t Contesting Their Massive Losses",
-    "description": "For months, election deniers claimed without evidence that the vote would be rigged. Now they appear to be accepting crushing defeats.",
-    "categories": [
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-04T15:30:18+00:00",
-    "image_url": "https://media.wired.com/photos/6aea37fa21be717333c5244d/master/pass/110326-midterms-election-deniers.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
