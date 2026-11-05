@@ -1,5 +1,78 @@
 [
   {
+    "link": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+    "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+    "description": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+    "categories": [
+      "Business & Startups"
+    ],
+    "pub_date": "2026-11-05T18:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+    "title": "Claude can now analyze your spending with its new Personal Finance tool",
+    "description": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-05T18:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+    "title": "Claude AI can plug directly into your bank account",
+    "description": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-05T18:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Personal-Finance-in-Claude-hed.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+    "title": "Harbinger raises $240M after expanding into defense",
+    "description": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
+    "categories": [
+      "Business & Startups"
+    ],
+    "pub_date": "2026-11-05T17:52:44+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+    "title": "‘Total repudiation’: The blue wave is about to hit AI",
+    "description": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico, and a Maine Senator ceding to",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-05T17:51:52+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/guardian-life-sierra-ai-agents-insurance-customer-service",
+    "title": "Insurer Guardian hands 1 million dental calls a year to Sierra’s AI agents",
+    "description": "Guardian Life signed a multi-year deal with Sierra to use its AI agents for about 1 million dental benefit verification calls a year, plus payments and claim status checks. It is Guardian’s third AI partnership in a year, after HCLTech and Avantos. US insurer Guardian Life is handing some of its busiest customer service work",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-11-05T17:46:38+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/guardian-sierra-logos-partnership-cream-background.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://mashable.com/tech/motorola-signature-27-announcement-price-specs-release-date",
     "title": "Motorola Signature 27 unveiled: Motorola has a new flagship phone, and its a doozy",
     "description": "The Motorola Signature 27 is here. The new flagship phone boasts premium features like a 12,000-nit display and a 200MP periscope lens.",
@@ -44,6 +117,18 @@
     "pub_date": "2026-11-05T17:29:23+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/b4BaqDTfZg32izULhgfJ2T-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/lyft-and-doordash-subscription/",
+    "title": "Lyft and DoorDash Have a New Subscription. Why You Should Read the Fine Print First",
+    "description": "Two memberships for the price of one sounds good — until your credits expire.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-05T17:28:41+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/lyft-go.jpeg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://www.techradar.com/ai-platforms-assistants/every-listing-must-include-at-least-one-photo-of-the-actual-item-etsy-is-finally-cracking-down-on-ai-images-and-text-in-listings-and-apparently-this-is-just-the-start",
@@ -430,6 +515,7 @@
     "title": "Lyft's new subscription bundles in DoorDash's DashPass for $10 per month",
     "description": "DashPass members can get Lyft Go at no extra cost.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-05T16:29:38+00:00",
@@ -636,30 +722,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.theverge.com/tech/1026958/sony-mdr-3r-headphones-review",
-    "title": "Sony’s retro headphones brought me back to my childhood in the best way",
-    "description": "Many of my childhood summer afternoons were spent riding around my hometown on my Huffy bike or, in later years, taking the bus into Harvard Square to walk around and hang out at The Garage. My Sony Walkman was always in my jacket pocket, and a pair of headphones were always on my head. For",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-05T16:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268854_Sony_MDR-3R_JHiggins_0002.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1027575/camp-snap-cs-8-mini-retro-film-camera-kid-friendly",
-    "title": "Camp Snap made a smaller kid-friendly version of its retro digital camcorder",
-    "description": "After introducing new color options for its screen-free CS-8 video camera last month, Camp Snap announced a miniature version today that's less than half the size of the original. The new CS-8 Mini carries forward the retro design of the larger version that was inspired by Canon and Kodak Super 8mm film cameras from decades",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-05T16:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/campsnap1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.engadget.com/2304149/sony-mdr-3r-wired-headphones-are-steeped-in-retro-aesthetics/",
     "title": "Sony's MDR-3R wired headphones are steeped in retro aesthetics",
     "description": "Sony has refreshed a headphone design that dates back to 1979.",
@@ -718,6 +780,30 @@
     "pub_date": "2026-11-05T16:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/06E5KioJszdMYRdPRXqt8eI/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1026958/sony-mdr-3r-headphones-review",
+    "title": "Sony’s retro headphones brought me back to my childhood in the best way",
+    "description": "Many of my childhood summer afternoons were spent riding around my hometown on my Huffy bike or, in later years, taking the bus into Harvard Square to walk around and hang out at The Garage. My Sony Walkman was always in my jacket pocket, and a pair of headphones were always on my head. For",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-05T16:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268854_Sony_MDR-3R_JHiggins_0002.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1027575/camp-snap-cs-8-mini-retro-film-camera-kid-friendly",
+    "title": "Camp Snap made a smaller kid-friendly version of its retro digital camcorder",
+    "description": "After introducing new color options for its screen-free CS-8 video camera last month, Camp Snap announced a miniature version today that's less than half the size of the original. The new CS-8 Mini carries forward the retro design of the larger version that was inspired by Canon and Kodak Super 8mm film cameras from decades",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-05T16:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/campsnap1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.techmeme.com/261105/p32#a261105p32",
@@ -1289,7 +1375,6 @@
     "description": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-05T14:00:00+00:00",
@@ -1467,6 +1552,7 @@
     "title": "CleanMyMac can now clean up your Gmail inbox and tame your Chrome tabs",
     "description": "CleanMyMac now goes beyond your Mac, letting you sweep junk out of Gmail, win back Google storage, and rein in Chrome tabs that slow things down.",
     "categories": [
+      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-05T13:40:04+00:00",
@@ -1624,8 +1710,8 @@
   },
   {
     "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-    "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
-    "description": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+    "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+    "description": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
     "categories": [
       "AI & Machine Learning"
     ],
@@ -1977,25 +2063,11 @@
     "description": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-11-05T12:00:41+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Agility-Digit-5-humanoid-robots-at-work-1152x648.jpg",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-    "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-    "description": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-05T12:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   },
   {
     "link": "https://www.wired.com/gallery/best-wireless-chargers/",
@@ -2019,6 +2091,19 @@
     "pub_date": "2026-11-05T12:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6aeb7139fd4267963caa45b7/master/pass/WWF-Denise-Herzig-1.jpeg",
     "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+    "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+    "description": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-05T12:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
   },
   {
     "link": "https://www.techmeme.com/261105/p19#a261105p19",
@@ -2263,17 +2348,6 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
-    "title": "Amazon ditches Grubhub, taps Uber Eats for Prime",
-    "description": "Amazon has made Uber Eats its official restaurant delivery partner for Prime members in the United States.",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-05T11:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
     "link": "https://www.engadget.com/2307194/amazon-teams-with-uber-eats-for-new-prime-perks/",
     "title": "Amazon teams with Uber Eats for new Prime perks",
     "description": "Order on Amazon's platforms and (sometimes) skip the delivery fees.",
@@ -2283,75 +2357,5 @@
     "pub_date": "2026-11-05T11:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/amazon-teams-with-uber-eats-for-new-prime-perks/l-intro-1793825798.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership",
-    "title": "Amazon is getting back into restaurant delivery with Uber Eats team-up",
-    "description": "Amazon and Uber are teaming up to make Uber Eats the official restaurant delivery partner for Prime subscribers in the US. The news comes as Uber faces a drastically reshaped competitive landscape with the merging of rivals DoorDash and Instacart. Under the new partnership, Amazon Prime subscribers will get $0 delivery fees on restaurant orders",
-    "categories": [
-      "Breaking News",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-05T11:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19218417/acastro_190920_1777_amazon_0001.0.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/metsola-meps-ai-drafting-laws-parliament-rules",
-    "title": "Roberta Metsola warns MEPs that AI cannot replace debate in EU lawmaking",
-    "description": "European Parliament President Roberta Metsola has warned MEPs against relying on AI to write laws, telling them that responsibility for every decision stays with elected members. She spoke on Wednesday at an event in the Parliament on how AI is used in its work, Politico Europe reported. According to Politico, Metsola said that drafting an",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-11-05T10:59:24+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/woman-speaking-podium-eu-flag-european-parliament-backdrop.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/from-chaos-to-clarity-how-unstructured-data-powers-automation",
-    "title": "From chaos to clarity: How unstructured data powers automation",
-    "description": "Why strong data foundations, governance and strategy are essential to unlocking agentic automation at scale.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-05T10:57:59+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/h8ZQHernNUVpnGYX7QnxVM-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/are-ai-skills-more-important-than-a-degree-new-report-suggests-uk-firms-are-leading-the-push-to-hire-workers-with-new-abilities",
-    "title": "Are AI skills more important than a degree? New report suggests UK firms are leading the push to hire workers with new abilities",
-    "description": "Employers seem to favor specialist AI skills over uni degrees, but degrees and traditional skills are still in demand.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-05T10:57:53+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/3ufxBcDN7ECFrUPUW2cGFm-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/audio/earbuds-airpods/samsung-seems-to-have-even-more-earbuds-on-the-way-but-these-hark-back-to-the-companys-forgotten-sports-specific-gear-range",
-    "title": "Samsung's new earbuds sound like a revival of its Gear line of exercise wearables, following on from the recent Galaxy On.",
-    "description": "The rumored Samsung Galaxy T1 looks set to be a pair of exercise earbuds — the kind of thing Samsung used to make frequently.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-05T10:56:16+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/YGKMu9MDU6g2EgKZfj6Q87-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/life/nov-5-pokemon-tcg-30th-anniversary-ultra-premium-collection-live-preorders",
-    "title": "The Pokémon TCG 30th Celebration Ultra-Premium Collection is live at Amazon: Preorder now",
-    "description": "Amazon has restocked the Pokémon TCG 30th Celebration Ultra-Premium Day and Night Collections ahead of their Nov. 6 release.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-05T10:55:32+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02ZOvPKZbrXQEYEsEj2s3nz/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
