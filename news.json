@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+    "title": "Serve Robotics launches new business to become the AWS for robots",
+    "description": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-05T21:15:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/cool-tech/google-is-giving-ai-video-creators-longer-clips-better-editing-and-fewer-frustrating-mistakes/",
+    "title": "Google is giving AI video creators longer clips, better editing, and fewer frustrating mistakes",
+    "description": "Google's Gemini Omni 1.2 Flash generates AI videos up to 15 seconds long, with conversational editing, improved lip-sync, and 30% lower pricing.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-05T21:14:24+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-Omni-1.2-featured-image.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/meta-muse-ai-voice-chat-animated-avatars",
+    "title": "Meta adds real-time voice chat and animated avatars to its Muse app",
+    "description": "Meta has added live voice conversations to Muse, its personal AI agent, so users can talk to it instead of typing. The update also gives Muse an animated avatar that reacts as the conversation goes on. The feature is available now in the Muse app on phones, the web and Mac, but only in the",
+    "categories": [
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-05T21:12:34+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/Meta-Muse.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2308541/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/",
+    "title": "Google is ditching Firebase Studio soon, and it wants you to use its newer AI tools instead",
+    "description": "The company is going all-in on Antigravity and Google AI Studio and hopes developers will do the same.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-05T21:01:28+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/l-intro-1793825592.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/omar-hamdi-pathos-ai-pr-scale",
+    "title": "Omar Hamdi says AI will test whether PR firms can really scale",
+    "description": "City A.M. reported on 6 October that the share of UK firms spending on public relations and management consultants fell to 4.2% in September, even as overall business spending rose 3.1% year on year and spending on AI services increased rapidly. For Omar Hamdi, chief executive of London-listed Pathos Communications plc, those figures are less a death notice for",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-11-05T20:58:32+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/press-gazette-panel-new-york.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/cool-tech/the-snoring-problem-that-launched-a-tech-company-how-one-entrepreneur-is-reinventing-sleep/",
     "title": "The Snoring Problem That Launched a Tech Company: How One Entrepreneur Is Reinventing Sleep",
     "description": "Inspired by his own snoring, Jules Goldberg taught himself to program, created SnoreLab, and expanded into sound-wave motion tracking with Sleepwave to improve sleep without wearables.",
@@ -10,6 +70,29 @@
     "pub_date": "2026-11-05T20:56:42+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/snorelabs-.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/meta-muse-ai-plan-birthday-weekend-rounding-errors/",
+    "title": "I Used Muse to Plan My Wife’s Birthday Weekend. It Did Something Sneaky but Fixed It Fast",
+    "description": "Always check your email and bank statements if you use an AI agent for purchases.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-05T20:56:33+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-11-05-at-11.58.18-AM.png",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/man-sues-openai-wife-alleged-chatgpt-poison/",
+    "title": "Man Sues OpenAI After Wife Allegedly Used ChatGPT to Help Poison Him",
+    "description": "A lawsuit alleges that ChatGPT’s now-retired GPT-4o model gave detailed instructions on how to poison someone with plants and medication.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-05T20:56:22+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/gettyimages-2213179407_8f469d.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://9to5mac.com/2026/11/05/apple-arcade-adds-four-games-including-crossy-road-rush-and-nba-2k27-with-wnba-teams/",
@@ -1029,7 +1112,6 @@
     "title": "AmneziaVPN's latest update rolls out location sorting to streamline server selection alongside several technical improvements — here's what you need to know",
     "description": "A long-requested navigation upgrade has finally arrived with the latest release.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-05T17:11:18+00:00",
@@ -1334,7 +1416,6 @@
     "title": "Amazon ditches GrubHub for Uber Eats, effective immediately",
     "description": "Amazon is partnering with Uber Eats to bring food delivery to its platform, replacing a previous partnership with GrubHub.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-05T16:23:56+00:00",
@@ -1836,7 +1917,6 @@
     "title": "Apple Creator Studio gets powerful new AI features using OpenAI models [U: Now available]",
     "description": "Apple Creator Studio updates were announced late last month, with what the company describes as “powerful new AI features” using a combination of Apple Intelligence and OpenAI models.\n\n\n\nAt the time, Apple didn’t give a specific availability date beyond sometime in November, but the updates are rolling out today …\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-05T15:03:24+00:00",
@@ -1856,18 +1936,6 @@
     "source_name": "THENEXTWEB.COM"
   },
   {
-    "link": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
-    "title": "Instagram brings Edits to desktop to take on CapCut",
-    "description": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
-    "categories": [
-      "Social & Media",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-05T15:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
     "link": "https://www.engadget.com/2307395/whatsapp-is-taking-on-partiful-with-expanded-events-feature/",
     "title": "WhatsApp is taking on Partiful with expanded Events feature",
     "description": "The change will allow invites to be sent to guests without WhatsApp accounts.",
@@ -1878,6 +1946,18 @@
     "pub_date": "2026-11-05T15:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/whatsapp-is-taking-on-partiful-with-expanded-events-feature/l-intro-1793835609.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
+    "title": "Instagram brings Edits to desktop to take on CapCut",
+    "description": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
+    "categories": [
+      "Social & Media",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-05T15:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
   },
   {
     "link": "https://9to5mac.com/2026/11/05/whatsapp-adds-shareable-event-invites-and-a-new-events-hub/",
@@ -2269,88 +2349,6 @@
     ],
     "pub_date": "2026-11-05T14:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/cC3HfEzdLaciYvVKWkdGrc-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1026570/apple-macbook-pro-proled-xdr-display-review",
-    "title": "The touchscreen MacBook Pro is a winner",
-    "description": "I keep forgetting the MacBook Pro with PROLED XDR Display has a touchscreen. I've been testing this new laptop, one of the most impressive Apple has ever created, for the better part of a week. I can't stop noticing some of its other features: the slimmer design, the improved display, the Dynamic Island that somehow",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-05T14:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/MON09105-edit.jpeg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1027177/2026-imac-m6-review",
-    "title": "The new iMac is a good desktop computer that needs a redesign",
-    "description": "I'm a simple guy. I usually work from my MacBook Neo wherever I end up sitting in my house. And while I have monitors, mice, and keyboards to plug it into, I often end up leaning over the MacBook and doing none of that. I rarely even sit at my office desk, which has done",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-05T14:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/MON09145-Edit.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1027250/m6-macbook-pro-review",
-    "title": "The M6 MacBook Pro is probably the last of its kind",
-    "description": "On November 6th, Apple will release an all-new MacBook Pro. It's thinner and lighter and has a beautiful OLED touchscreen. It is very likely what every new MacBook Pro will look like in a couple of years. The M6 MacBook Pro, which is also out on the 6th, is not that laptop. Instead, it's a",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-05T14:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/isomorphic-labs-5bn-funding-talks-50bn-valuation",
-    "title": "Isomorphic Labs in talks to raise $5bn at a $50bn valuation, Bloomberg reports",
-    "description": "Isomorphic Labs, the drug discovery company spun out of Google DeepMind, is in talks to raise about $5bn, Bloomberg reported on Wednesday. The round would put the Isomorphic Labs valuation at about $50bn, according to people familiar with the matter. The financing has not closed and the details could change, the people told Rebecca Torrence",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-05T13:57:51+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/max-jaderberg-ted-talk-stage-in-silico-discovery.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/cat-wu-claude-code-anthropic-openai-core-products",
-    "title": "Claude Code’s product lead Cat Wu leaves Anthropic to join OpenAI",
-    "description": "Cat Wu, who led product for Claude Code at Anthropic, is joining OpenAI. She will lead product management for OpenAI’s Core Products team, she announced on X on Wednesday, a day after saying she had left Anthropic. Some news: I’m joining OpenAI to lead product management for Core Products! I have a lot of respect",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-05T13:47:34+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/cat-wu-claude-code-head-of-product-code-with-claude-london.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/cleanmymac-adds-gmail-cleanup-and-chrome-tab-management/",
-    "title": "CleanMyMac can now clean up your Gmail inbox and tame your Chrome tabs",
-    "description": "CleanMyMac now goes beyond your Mac, letting you sweep junk out of Gmail, win back Google storage, and rein in Chrome tabs that slow things down.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-05T13:40:04+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/CleanMyMac-email-cleanup-tool.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techradar.com/entertainment/how-to-watch/rise-of-the-rockstar-chef",
-    "title": "How to watch Rise of the Rockstar Chef for free — stream from anywhere",
-    "description": "Learn more about Marco Pierre White, Gordon Ramsay, and Heston Blumenthal. Here's how to watch Rise of the Rockstar Chef online from anywhere in the world, and for free in the UK.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-05T13:38:26+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/NVYNEWnM456ahssjdNJRcm-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   }
 ]
