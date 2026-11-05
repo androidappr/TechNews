@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.techmeme.com/261104/p58#a261104p58",
+    "title": "Sources: Anthropic and AP struck a licensing deal just before the midterms, marking the first time Anthropic paid a digital news publisher to license content (Mark Stenberg/Adweek)",
+    "description": "Mark Stenberg / Adweek:\nSources: Anthropic and AP struck a licensing deal just before the midterms, marking the first time Anthropic paid a digital news publisher to license content  —  The arrangement marks the first time the artificial intelligence firm has paid a digital news publisher to license its content",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-05T00:55:01+00:00",
+    "image_url": "http://www.techmeme.com/261104/i58.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techradar.com/computing/virtual-reality-augmented-reality/i-spent-a-morning-with-meta-vr-glasses-and-wish-i-never-had-to-take-them-off",
     "title": "I spent a morning with Meta VR Glasses and wish I never had to take them off",
     "description": "Meta VR Glasses are shaping up to be the mixed-reality wearables we wanted all along, and my test drive made me a believer.",
@@ -667,7 +678,6 @@
     "description": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-11-04T20:55:50+00:00",
@@ -784,8 +794,7 @@
     "title": "Pangram expands its AI detection tools to video and images",
     "description": "The company behind the widely used tool for AI text is moving into more kinds of AI slop.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-04T20:28:18+00:00",
     "image_url": "https://www.engadget.com/img/gallery/pangram-expands-its-ai-detection-tools-to-video-and-images/l-intro-1793824046.jpg",
@@ -1093,7 +1102,6 @@
     "title": "Xbox previews two new ways to control cloud games",
     "description": "I revealed yesterday that the new Xbox Nano controller supports a Wi-Fi connection directly to Xbox Cloud Gaming, and now Microsoft is making it official today. Two new Xbox previews will let players try out using a phone as a controller on smart TVs, as well as cloud connect on the Xbox Nano to connect",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-11-04T19:00:00+00:00",
@@ -1160,7 +1168,6 @@
     "title": "Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs (Madison Mills/Axios)",
     "description": "Madison Mills / Axios:\nMeta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs  —  Meta has acquired Conductor, an AI coding startup that lets software engineers manage multiple coding agents simultaneously …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-04T18:50:00+00:00",
@@ -1172,8 +1179,7 @@
     "title": "Pangram’s new models spot AI fakes in images and video, it says",
     "description": "Pangram launched Pangram Image 1.0 for AI images and the faster Image Flash 1.0 for video. It claims near-perfect scores on its own tests and 98.7% on the DF26 academic benchmark. Both are in its web app and API, and Image 1.0 is in its Chrome extension. Pangram, a New York startup known for spotting",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-04T18:49:05+00:00",
     "image_url": "https://media.thenextweb.com/2026/11/pangram-image-heatmap-restaurant-mural-ai-detection.avif",
@@ -2281,16 +2287,5 @@
     "pub_date": "2026-11-04T15:36:57+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Qualcomm-SpaceX-parternship.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://mashable.com/travel/best-early-black-friday-travel-deals-2026",
-    "title": "The best early Black Friday deals for getting out of town without going broke",
-    "description": "Shop early Black Friday travel deals on hotels, flights, and luggage. Check booking deadlines, travel dates, and restrictions.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T15:36:50+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02AAQoswyIkPcRkIrh8cXGi/hero-image.png",
-    "source_name": "MASHABLE.COM"
   }
 ]
