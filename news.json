@@ -1,5 +1,76 @@
 [
   {
+    "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+    "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+    "description": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-05T14:42:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/anthropic-compute-costs-58-percent-revenue-broadcom-backstop",
+    "title": "Anthropic’s compute costs rose to 58% of revenue last quarter, filing shows",
+    "description": "Anthropic compute costs grew faster than its revenue last quarter. Compute took 58% of revenue in the third quarter, up from 48%. TechCrunch’s Russell Brandom found the figures in Anthropic’s amended IPO filing. Revenue rose to $17bn, from $11.6bn the quarter before, as we reported on Monday. But a chart in the filing shows revenue",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-11-05T14:38:31+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/dario-amodei-anthropic-logo-phone-screen.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/dreamhost-admits-major-cyberattack-saw-hackers-steal-customer-data-and-access-inboxes",
+    "title": "DreamHost admits major cyberattack saw hackers steal customer data and access inboxes",
+    "description": "A software vulnerability allowed threat actors to obtain login credentials, putting files and emails at risk.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-05T14:37:33+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/McsoqUDJ8JAM2vQ4GoVytn-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261105/p27#a261105p27",
+    "title": "The MacBook Pro's PROLED XDR display is the best display you can buy right now, but touch adds little to the experience and it lacks Apple Pencil support (Jaron Schneider/PetaPixel)",
+    "description": "Jaron Schneider / PetaPixel:\nThe MacBook Pro's PROLED XDR display is the best display you can buy right now, but touch adds little to the experience and it lacks Apple Pencil support  —  Apple's new, highest-end MacBook Pro diverged from the last few launches in that it didn't focus on performance at all …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-05T14:35:16+00:00",
+    "image_url": "http://www.techmeme.com/261105/i27.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/macs/ive-tested-apples-new-m6-imac-and-its-still-the-best-all-in-one-desktop-you-can-buy",
+    "title": "I've tested Apple's new M6 iMac, and it's still the best all-in-one desktop you can buy",
+    "description": "I spent five days testing Apple's new M6 iMac to see how its performance upgrades and familiar colorful design stack up as an all-in-one desktop.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-05T14:30:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/vXUjUvnAfebWjAoxoi4xLf-1920-80.gif",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/anthropic-flashprove-provable-inference-ai-model-identity",
+    "title": "Anthropic open-sources FlashProve to prove which AI model wrote an answer",
+    "description": "Anthropic has released FlashProve, an open-source prototype that lets anyone check that an AI reply came from the model a provider says it used. The company published the code, a technical report and formal proofs in a research post on Monday. Today a user cannot tell whether a router quietly swapped in a cheaper model,",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-05T14:26:38+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/anthropic-logo-smartphone-laptop-purple.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://mashable.com/life/starbucks-red-cup-day-2026",
     "title": "Starbucks Red Cup Day 2026: How to score a free reusable holiday cup",
     "description": "When is Starbucks Red Cup Day in 2026. Launch date, free cup rules, and holiday menu drop.",
@@ -64,6 +135,7 @@
     "title": "I've tested Apple's new touchscreen MacBook, and it's worth buying — but not for the reasons you’re expecting",
     "description": "Apple has finally relented and put a touchscreen on a MacBook — but with gorgeous tandem OLED technology behind the display, the touch element is perhaps the least interesting aspect.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-05T14:02:44+00:00",
@@ -156,6 +228,30 @@
     "source_name": "THEVERGE.COM"
   },
   {
+    "link": "https://www.wired.com/story/aina-smart-ring/",
+    "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+    "description": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-05T14:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/master/pass/Aina%20Ring%20colors%20standing.jpeg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/review/apple-macbook-pro-oled-2026/",
+    "title": "Apple MacBook Pro OLED (2026) Review: The Best Comes at a Cost",
+    "description": "The new OLED MacBook Pro comes with an incredible-looking touchscreen display—and an equally eye-popping price.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-05T14:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aebd874f1d50b8664c56b28/master/pass/macbook-pro-OLED-04.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.engadget.com/2304128/2027-chevrolet-silverado-1500-first-drive/",
     "title": "2027 Chevrolet Silverado 1500 First Drive: Big displays meet big V8s",
     "description": "Chevy's new Silverado needs a few updates before it's ready for prime time.",
@@ -236,30 +332,6 @@
     "pub_date": "2026-11-05T14:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/reviews/018gJDpnzmrpLd3ote4r26S/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/aina-smart-ring/",
-    "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
-    "description": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-11-05T14:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/master/pass/Aina%20Ring%20colors%20standing.jpeg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/review/apple-macbook-pro-oled-2026/",
-    "title": "Apple MacBook Pro OLED (2026) Review: The Best Comes at a Cost",
-    "description": "The new OLED MacBook Pro comes with an incredible-looking touchscreen display—and an equally eye-popping price.",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-05T14:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aebd874f1d50b8664c56b28/master/pass/macbook-pro-OLED-04.jpg",
-    "source_name": "WIRED.COM"
   },
   {
     "link": "https://thenextweb.com/news/isomorphic-labs-5bn-funding-talks-50bn-valuation",
@@ -484,6 +556,30 @@
     "source_name": "THEVERGE.COM"
   },
   {
+    "link": "https://www.wired.com/story/motorola-wants-to-sell-you-a-1600-phone-that-doesnt-fold/",
+    "title": "Motorola Signature 27: Specs, Price, Features, Release Date",
+    "description": "Equipped with the brightest display, an “Event-Based Vision Sensor,” and the next-generation Qualcomm processor, Motorola hopes you’ll want to spend big bucks on its ceramic and aluminum Signature 27.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-05T13:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aea54d38c0d20ad6dc9def8/master/pass/signature27_lifestyle9_Motorola.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+    "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+    "description": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-11-05T13:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aebade028f7263543de445a/master/pass/Business_Drug%20Discovery%20Is%20a%20Needle%20in%20a%20Haystack%20Problem.%20This%20AI%20Startup%20Thinks%20It%20Has%20The%20Answer_v1.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.engadget.com/2307393/spotify-is-coming-to-uniteds-seatback-screens/",
     "title": "Spotify is coming to United's seatback screens",
     "description": "The streaming service's entire library of content will be available in the air.",
@@ -530,30 +626,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.wired.com/story/motorola-wants-to-sell-you-a-1600-phone-that-doesnt-fold/",
-    "title": "Motorola Signature 27: Specs, Price, Features, Release Date",
-    "description": "Equipped with the brightest display, an “Event-Based Vision Sensor,” and the next-generation Qualcomm processor, Motorola hopes you’ll want to spend big bucks on its ceramic and aluminum Signature 27.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-05T13:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aea54d38c0d20ad6dc9def8/master/pass/signature27_lifestyle9_Motorola.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
-    "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
-    "description": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-11-05T13:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aebade028f7263543de445a/master/pass/Business_Drug%20Discovery%20Is%20a%20Needle%20in%20a%20Haystack%20Problem.%20This%20AI%20Startup%20Thinks%20It%20Has%20The%20Answer_v1.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
     "title": "Hubble Learns Galactic History From Stars",
     "description": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
@@ -592,8 +664,8 @@
   },
   {
     "link": "https://www.techmeme.com/261105/p23#a261105p23",
-    "title": "Agility Robotics is set to begin trading on the Nasdaq under AGLT after a SPAC merger, the first dedicated humanoid robotics company to go public in the US (Samantha Kelly/Bloomberg)",
-    "description": "Samantha Kelly / Bloomberg:\nAgility Robotics is set to begin trading on the Nasdaq under AGLT after a SPAC merger, the first dedicated humanoid robotics company to go public in the US  —  Agility Robotics Inc. is set to become the first dedicated humanoid company to go public in the US, marking a major milestone …",
+    "title": "Agility Robotics begins trading on the Nasdaq under AGLT after a SPAC merger, the first dedicated humanoid robotics company to go public in the US (Samantha Kelly/Bloomberg)",
+    "description": "Samantha Kelly / Bloomberg:\nAgility Robotics begins trading on the Nasdaq under AGLT after a SPAC merger, the first dedicated humanoid robotics company to go public in the US  —  Agility Robotics Inc. is set to become the first dedicated humanoid company to go public in the US, marking a major milestone for the emerging category that still has a lot to prove.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -1264,7 +1336,6 @@
     "title": "Safer Water at Home: New Water Heater Tech Aims to Kill Bacteria in the Tank",
     "description": "I asked the inventor about his design and when consumers might see the tech in their homes.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-05T10:34:00+00:00",
@@ -1287,7 +1358,6 @@
     "title": "Particle Physicists Are Getting a First Glimpse Into the ‘Zeptoverse’",
     "description": "An extremely rare matter-decay event opens up new possibilities for researching the physical world on scales 100 billion times smaller than an atom.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-11-05T10:30:00+00:00",
@@ -2236,71 +2306,5 @@
     "pub_date": "2026-11-05T01:20:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/eqhwURZAudkUMLkx6i533c-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261104/p59#a261104p59",
-    "title": "Sources: Goldman Sachs and Apollo are in talks with investors to sell portions of SpaceX's ~$40B chip financing, asking some for up to $500M before syndication (Carmen Arroyo/Bloomberg)",
-    "description": "Carmen Arroyo / Bloomberg:\nSources: Goldman Sachs and Apollo are in talks with investors to sell portions of SpaceX's ~$40B chip financing, asking some for up to $500M before syndication  —  Goldman Sachs Group Inc. and Apollo Global Management Inc. are in talks with Wall Street investors to start selling portions …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-05T01:10:04+00:00",
-    "image_url": "http://www.techmeme.com/261104/i59.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.cnet.com/culture/entertainment/you-can-see-everything-outer-space-a24/",
-    "title": "‘You Can See Everything’ … in Space? A24 Sends Elizabeth Holmes Doc to ISS",
-    "description": "Nathan Fielder’s documentary about the former Theranos CEO will screen for astronauts in outer space.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-05T00:55:24+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/you-can-see-everything-a24.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261104/p58#a261104p58",
-    "title": "Sources: Anthropic and AP struck a licensing deal just before the midterms, marking the first time Anthropic paid a digital news publisher to license content (Mark Stenberg/Adweek)",
-    "description": "Mark Stenberg / Adweek:\nSources: Anthropic and AP struck a licensing deal just before the midterms, marking the first time Anthropic paid a digital news publisher to license content  —  The arrangement marks the first time the artificial intelligence firm has paid a digital news publisher to license its content",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-05T00:55:01+00:00",
-    "image_url": "http://www.techmeme.com/261104/i58.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/virtual-reality-augmented-reality/i-spent-a-morning-with-meta-vr-glasses-and-wish-i-never-had-to-take-them-off",
-    "title": "I spent a morning with Meta VR Glasses and wish I never had to take them off",
-    "description": "Meta VR Glasses are shaping up to be the mixed-reality wearables we wanted all along, and my test drive made me a believer.",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-05T00:45:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/4aGDnaHB3JNtGBcubeHUCd-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261104/p57#a261104p57",
-    "title": "OpenAI launches Images 2.6 in ChatGPT, Codex, and the API, saying it generates images 50% faster, and adds animated GIF creation from prompts or photos (Emma Roth/The Verge)",
-    "description": "Emma Roth / The Verge:\nOpenAI launches Images 2.6 in ChatGPT, Codex, and the API, saying it generates images 50% faster, and adds animated GIF creation from prompts or photos  —  You can use ChatGPT to edit a GIF's animation speed and individual frames. … ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-05T00:40:01+00:00",
-    "image_url": "http://www.techmeme.com/261104/i57.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
-    "title": "X says its updated web app is way faster",
-    "description": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection,\" principal engineer Yagiz Nizipli said in a blog post about the changes.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-05T00:25:12+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
