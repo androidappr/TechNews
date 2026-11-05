@@ -1,5 +1,62 @@
 [
   {
+    "link": "https://thenextweb.com/news/soundcloud-elevenmusic-ai-songs-direct-publishing",
+    "title": "SoundCloud lets ElevenMusic users publish AI-made songs directly",
+    "description": "SoundCloud is opening a direct publishing route for music made with the ElevenMusic app, the AI music generation platform from ElevenLabs, allowing creators to send AI-generated tracks to the streaming platform without exporting and uploading them manually. Previously, users had to download their tracks from ElevenMusic before uploading them to SoundCloud themselves. With the new",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-05T18:24:18+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/elevenmusic-soundcloud-logos-orange-sphere-black.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/05/apple-tv-unveils-return-of-hit-comedy-from-ted-lasso-shrinking-creator/",
+    "title": "Apple TV unveils return of hit comedy from Ted Lasso, Shrinking creator",
+    "description": "Bad Monkey, an Apple TV comedy from the creator of Ted Lasso and Shrinking, returns soon for a new season. Here’s the just-released trailer for Bad Monkey season 2.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-05T18:23:55+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/bad-monkey-season-2.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techradar.com/health-fitness/exercise-equipment/prices-slashed-on-patagonia-cold-weather-kit-ahead-of-black-friday-here-are-18-deals-id-buy-to-keep-me-cosy-and-protected-all-winter",
+    "title": "Prices slashed on Patagonia cold weather clothing: here are 18 deals I'd snap up immediately",
+    "description": "Patagonia gear doesn't come cheap — but this early Black Friday sale is jam-packed with discounts on down jackets, base layers, waterproofs and more.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-05T18:17:52+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/xc86maSBheVCLq6GQ7n9cF-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/phones/honor-phones/honors-battery-plans-look-stunning-tests-mightve-started-with-15-000mah-capacity",
+    "title": "Honor's battery plans look stunning—tests might've started with 15,000mAh capacity",
+    "description": "Honor's alleged battery tests sound like they want a mini power bank inside a phone. A future phone could sport a 15,000mAh cell.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-05T18:17:18+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ZJ7RVYbZXbQZPLbRHK35Vg-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/macbooks/the-macbook-pro-proled-xdr-14-inch-is-my-favorite-macbook-ever-and-it-should-leave-many-macbook-air-users-feeling-jealous",
+    "title": "The MacBook Pro PROLED XDR 14-inch is my favorite MacBook, ever — here's why",
+    "description": "Apple's MacBook Pro PROLED XDR Display touchscreen laptop is so light and so stunning that you might start looking at your MacBook Air a little differently.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-05T18:15:05+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/QeckLaMuvycDKHTVPjxPQJ-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261105/p44#a261105p44",
     "title": "Anthropic launches Personal Finance in Claude, letting users connect bank and credit card accounts via Plaid with read-only access to analyze spending trends (Radhika Rajkumar/ZDNET)",
     "description": "Radhika Rajkumar / ZDNET:\nAnthropic launches Personal Finance in Claude, letting users connect bank and credit card accounts via Plaid with read-only access to analyze spending trends  —  Anthropic has released what appears to be its answer to ChatGPT Finances.  —  ZDNET's key takeaways",
@@ -82,6 +139,18 @@
     "pub_date": "2026-11-05T18:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Personal-Finance-in-Claude-hed.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic/",
+    "title": "Claude’s new Personal Finance tool aims to help analyze your spending – read-only, of course",
+    "description": "Anthropic has released what appears to be its answer to ChatGPT Finances.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-05T18:00:00+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1451754709.jpg",
+    "source_name": "ZDNET.COM"
   },
   {
     "link": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-traitors-igra-na-predateli-season-2",
@@ -168,7 +237,7 @@
   {
     "link": "https://www.zdnet.com/tech/bluetooth-7-features-headphones-smart-home-lossless-audio/",
     "title": "3 ways Bluetooth 7 upgrades your devices beyond lossless audio",
-    "description": "Here’s what the new core specification means for your smart home and more.",
+    "description": "Bluetooth 7 could make your smart home devices easier to set up, for one. Here’s what we know about the new core specification.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -2291,72 +2360,5 @@
     "pub_date": "2026-11-05T11:39:42+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/communication-channels-the-new-hunting-grounds-for-attackers",
-    "title": "Communication channels: The new hunting grounds for attackers",
-    "description": "While traditional cybersecurity focuses on servers and networks, modern cyber threats have now shifted to everyday conversational channels, such as videoconferencing, instant messaging and voice calls.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-05T11:35:20+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/wV66hEbpJdAc4iPB7RwtkK-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261105/p17#a261105p17",
-    "title": "X is rolling out a redesigned web app country by country for signed-in users, with a single unified server, saying it improves load times over slow connections (Jay Peters/The Verge)",
-    "description": "Jay Peters / The Verge:\nX is rolling out a redesigned web app country by country for signed-in users, with a single unified server, saying it improves load times over slow connections  —  X is moving signed-in users to its new web app one country at a time, but it's already using the rewrite for X's logged-out web experience.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-05T11:30:55+00:00",
-    "image_url": "http://www.techmeme.com/261105/i17.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/the-legend-of-zelda-ocarina-of-time-remake-yassified-link/",
-    "title": "The ‘Ocarina of Time’ Remake Is Finally Here, but Why Does Link Look so Yassified?",
-    "description": "Nintendo has prepped its classic game for a rerelease with a slew of aesthetic upgrades—none more extreme than the protagonist’s curled-eyelash, glossed-lip glow-up.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-05T11:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aea2201d4fbda5167120fc6/master/pass/SM_NS2_TheLegendofZeldaOcarinaofTime_scrn_15.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261105/p16#a261105p16",
-    "title": "Sources: at Jensen Huang's midterms event, tech executives expressed concern over anti-data center results; OpenAI discussed resetting its 2027 capacity plans (Wall Street Journal)",
-    "description": "Wall Street Journal:\nSources: at Jensen Huang's midterms event, tech executives expressed concern over anti-data center results; OpenAI discussed resetting its 2027 capacity plans  —  Americans' vote for anti-data center candidates and ballot measures could rein in AI's expansion and hobble economic growth",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-05T11:25:05+00:00",
-    "image_url": "http://www.techmeme.com/261105/i16.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261105/p15#a261105p15",
-    "title": "Hugging Face CEO Clément Delangue says his P(doom) is \"close to zero\", arguing that future AI risks stem from closed frontier AI labs, not open-source systems (Will Knight/Wired)",
-    "description": "Will Knight / Wired:\nHugging Face CEO Clément Delangue says his P(doom) is “close to zero”, arguing that future AI risks stem from closed frontier AI labs, not open-source systems  —  “Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-05T11:20:03+00:00",
-    "image_url": "http://www.techmeme.com/261105/i15.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/life/nov-5-shark-flexstyle-ioncurl-early-black-friday-deal",
-    "title": "Sharks FlexStyle Next-Gen IonCurl has never been cheaper — save $100.99 before Black Friday",
-    "description": "As of Nov. 5, the Shark FlexStyle Next-Gen IonCurl 5-in-1 Hair Styler is back to its lowest-ever price at Amazon of $249, 29% off its list price.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-05T11:19:56+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03ufsMOGFiaV29nCQ43DS4o/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
