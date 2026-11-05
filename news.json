@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "description": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-11-05T01:26:22+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261104/p60#a261104p60",
+    "title": "Cat Wu, who left Anthropic last week, says she is joining OpenAI to lead product manangement for core products; Wu was the product lead for Claude Code (Stephen Council/Business Insider)",
+    "description": "Stephen Council / Business Insider:\nCat Wu, who left Anthropic last week, says she is joining OpenAI to lead product manangement for core products; Wu was the product lead for Claude Code  —  Cat Wu, who left Anthropic last week after becoming one of the company's highest-profile product managers, is joining OpenAI.  She announced the news on X.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-05T01:20:01+00:00",
+    "image_url": "http://www.techmeme.com/261104/i60.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/canadian-professor-warns-massive-new-data-center-would-release-23-hiroshima-sized-atomic-bombs-worth-of-energy-every-day",
+    "title": "Canadian professor warns massive new data center would release ‘23 Hiroshima-sized atomic bombs worth of energy’ every day",
+    "description": "Building Kevin O’Leary’s giant data center would release the equivalent energy of 23 nukes every day.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-05T01:20:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/eqhwURZAudkUMLkx6i533c-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261104/p59#a261104p59",
     "title": "Sources: Goldman Sachs and Apollo are in talks with investors to sell portions of SpaceX's ~$40B chip financing, asking some for up to $500M before syndication (Carmen Arroyo/Bloomberg)",
     "description": "Carmen Arroyo / Bloomberg:\nSources: Goldman Sachs and Apollo are in talks with investors to sell portions of SpaceX's ~$40B chip financing, asking some for up to $500M before syndication  —  Goldman Sachs Group Inc. and Apollo Global Management Inc. are in talks with Wall Street investors to start selling portions …",
@@ -9,6 +44,18 @@
     "pub_date": "2026-11-05T01:10:04+00:00",
     "image_url": "http://www.techmeme.com/261104/i59.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.cnet.com/culture/entertainment/you-can-see-everything-outer-space-a24/",
+    "title": "‘You Can See Everything’ … in Space? A24 Sends Elizabeth Holmes Doc to ISS",
+    "description": "Nathan Fielder’s documentary about the former Theranos CEO will screen for astronauts in outer space.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-05T00:55:24+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/you-can-see-everything-a24.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://www.techmeme.com/261104/p58#a261104p58",
@@ -72,7 +119,6 @@
     "title": "Data Center Backers Suffer Near-Total Midterm Defeats Across the Country",
     "description": "More than 40 voting initiatives yielded almost nothing but resistance to data-center projects.",
     "categories": [
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-11-05T00:17:41+00:00",
@@ -555,7 +601,6 @@
     "title": "How I learned to love an obnoxious phone grip",
     "description": "Much like a great recipe, it started with a stick of butter. This wasn't real butter; it was a friend's new phone grip, complemented by a phone case with bold stripes. Butter is in vogue now, or at least that's what a 12-year-old told me a few months ago. This stick of butter was labeled",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware",
       "Mobile & Telecom"
     ],
@@ -568,7 +613,6 @@
     "title": "AMD's record quarter: Data center business doubles, while gaming craters",
     "description": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-04T21:29:46+00:00",
@@ -581,7 +625,6 @@
     "description": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-11-04T21:25:44+00:00",
@@ -1039,7 +1082,6 @@
     "description": "OpenAI is adding animated GIFs to ChatGPT with a new image model, Images 2.6. Users can make a GIF from text or a photo and edit its frames. Developers get two new API models, and OpenAI says people now make over 4 billion images a week. OpenAI is rolling out animated GIFs in ChatGPT alongside",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Software & Apps"
     ],
     "pub_date": "2026-11-04T19:24:20+00:00",
@@ -2236,50 +2278,5 @@
     "pub_date": "2026-11-04T15:50:02+00:00",
     "image_url": "http://www.techmeme.com/img/pml.png",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/adobe-cx-enterprise-coworker-chatgpt-claude-gemini-copilot",
-    "title": "Adobe puts its marketing AI agent inside ChatGPT, Claude and Copilot",
-    "description": "Adobe’s AI agent for marketing teams now works inside ChatGPT, Claude, Gemini, Copilot and Databricks Genie, the company said on Wednesday. Adobe expects Amazon Quick, IBM and Snowflake to follow soon. The agent, CX Enterprise Coworker, plans and runs customer experience work across Adobe’s marketing software. In ChatGPT, it comes as a plugin. Adobe made",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-04T15:46:52+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/adobe-cx-enterprise-coworker-ai-platforms-graphic.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261104/p36#a261104p36",
-    "title": "TeraWulf secures a credit backstop agreement with Google to support financing for its data center project with Anthropic in Kentucky, set to come online H2 2027 (Deborah Sophia/Reuters)",
-    "description": "Deborah Sophia / Reuters:\nTeraWulf secures a credit backstop agreement with Google to support financing for its data center project with Anthropic in Kentucky, set to come online H2 2027  —  Data-center developer TeraWulf (WULF.O) said on Wednesday it has secured a credit backstop agreement with Alphabet's Google …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T15:45:29+00:00",
-    "image_url": "http://www.techmeme.com/261104/i36.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/netflix-ai-discover-launch-search-by-mood",
-    "title": "Netflixs AI-powered search lets you search by your mood",
-    "description": "Netflix just launched AI Discover, which lets certain users search by their moods.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T15:43:14+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/014sVXYM56fNxirzR1MXboK/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype/",
-    "title": "What I learned driving the Slate electric truck prototype",
-    "description": "After 45 minutes behind the wheel, I am more optimistic about the $25,000 EV.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-04T15:42:18+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/slate-in-car-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
