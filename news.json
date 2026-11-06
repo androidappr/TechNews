@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.techradar.com/pro/security/even-microsoft-paint-is-being-targeted-by-cyberattackers-update-now-or-face-the-consequences",
+    "title": "Even Microsoft Paint is being targeted by cyberattackers — update now or face the consequences",
+    "description": "There's a way to execute malicious code remotely through Paint but a patch is available.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-06T19:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/fwciwwzCPqD6nyzmyUPHpQ-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/microsoft-winds-down-oracle-ai-cloud-capacity-deal",
+    "title": "Microsoft is winding down its deal to rent AI computing from Oracle",
+    "description": "Microsoft is winding down a 2023 deal to rent AI computing from Oracle after declining to renew it, Bloomberg reports. The servers ran older Nvidia chips. Microsoft is reassessing more than $80B in contracts with outside cloud providers. Microsoft is winding down a deal to rent AI computing power from Oracle, Bloomberg reported on Friday,",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-06T18:57:38+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/microsoft-logo-glass-office-building.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/11/06/ios-27-2-adds-three-new-ways-to-customize-your-iphone/",
     "title": "iOS 27.2 adds three new ways to customize your iPhone",
     "description": "iOS 27.2 launched last week with a lot of new features, and also several ways you can customize your iPhone. Here’s what’s new for iPhone personalization.\n\n\n\n more…",
@@ -133,6 +157,17 @@
     "source_name": "MASHABLE.COM"
   },
   {
+    "link": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/",
+    "title": "The folks behind John Wick are back with Karōshi trailer",
+    "description": "Stuntman/director Chad Stahelski and 87Eleven bring us an action-packed dystopian, futuristic thriller.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-06T18:30:19+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-12.24.52-PM-1152x648.png",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/spacex-government-revenue-under-10-percent-musk-anthropic",
     "title": "Musk says government work will be under 10% of SpaceX revenue",
     "description": "Elon Musk said government contracts will make up less than 10% of SpaceX’s revenue this quarter, down from 16.6%. SpaceX now earns most from renting AI computing, with Anthropic its biggest customer, though Anthropic can exit from early 2027. Government contracts will make up less than 10% of SpaceX’s revenue this quarter, Elon Musk said",
@@ -145,6 +180,19 @@
     "pub_date": "2026-11-06T18:30:12+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/elon-musk-ivatech-paris.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
+    "title": "You know the launch market is tough when satellite companies start building rockets",
+    "description": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.\"",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-06T18:20:47+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Abel__Jason-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://www.cnet.com/tech/services-and-software/roundup-chatgpt-claude-gpt-6-cyber-images-2-6-personal-finance/",
@@ -240,6 +288,20 @@
     "pub_date": "2026-11-06T17:48:15+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/9f63197d-cd41-4007-a0bb-ab0ce06e6a6a.jpg",
     "source_name": "ZDNET.COM"
+  },
+  {
+    "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+    "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+    "description": "Meta won't force Facebook page owners to allow AI training on linked content.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-06T17:43:02+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1363244761-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://www.theverge.com/tech/1028835/white-house-residential-proxy",
@@ -388,7 +450,7 @@
   },
   {
     "link": "https://www.techradar.com/entertainment/rugby/watch-ireland-vs-argentina-nations-championship-2026-free",
-    "title": "How to watch Ireland vs Argentina for FREE: Nations Championship 2026 live streams & TV channels",
+    "title": "How to watch Ireland vs Argentina for FREE: Nations Championship 2026 live streams & TV channels, team news",
     "description": "All the ways to watch Ireland vs Argentina for free from anywhere, as Andy Farrell's men host the Pumas in the Nations Championship 2026 at Aviva Stadium.",
     "categories": [
       "Breaking News",
@@ -1001,7 +1063,6 @@
     "title": "Chainalysis admits all users affected in major data breach — names, usernames, password hashes, and live tokens all exposed",
     "description": "Chainalysis shut down multiple services to contain the attack and forced all users to change their passwords.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-11-06T15:05:00+00:00",
@@ -2270,61 +2331,5 @@
     "pub_date": "2026-11-06T09:49:46+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/cLxcrd4be5H343QfeNQm8-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/life/nov-6-magic-the-gathering-star-trek-play-booster-box-preorder-deal",
-    "title": "Magic: The Gathering Star Trek Play Booster Box preorders are cheaper than ever on Amazon — save $79.75",
-    "description": "Amazon's MTG Star Trek Play Booster Box preorder hits a record low of $129.95, saving $79.75 ahead of its Nov. 13 release.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-06T09:44:05+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04XZQFCHVJRZfFtLG1V8j6w/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/ai-stocks-sell-off-nasdaq-correction",
-    "title": "AI stocks suffer their biggest sell-off in months as data centre backlash reaches Washington",
-    "description": "US stocks suffered their sharpest one-day decline in months on Thursday, November 5, as investors pulled back from the chipmakers, cloud providers and power companies that have driven much of this year’s market gains. The S&P 500 fell 4.4% to close at 7,353.73, its biggest single-day drop since the April 2025 “Liberation Day” tariff announcement,",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-11-06T09:36:07+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/new-york-stock-exchange-facade-wall-street-sign-flag.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/life/nov-6-pokemon-tcg-delta-reign-booster-bundle-deal",
-    "title": "Pokémon TCG Delta Reign Booster Bundles get a price cut on launch day — shop for market price at Amazon",
-    "description": "Pokémon TCG Delta Reign Booster Bundles are $57.95 at Amazon on launch day, saving $3.50 on six packs from the new expansion.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-06T09:34:43+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01fI3qo5aE0CUaXCEON01Nh/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/life/nov-6-pokemon-tcg-30th-delta-reign-elite-trainer-box-deal",
-    "title": "The Pokémon TCG Delta Reign Elite Trainer Box is down to market price on release day — shop the best-ever Amazon deal",
-    "description": "The Pokémon TCG Delta Reign Elite Trainer Box is down to a record-low $103.23 at Amazon, saving $34.72 with 25% off.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-06T09:28:07+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02MzzjCuuqE3OkwgLttzK0t/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261106/p6#a261106p6",
-    "title": "Cleanview: ~40% of pending US data center capacity is planned to be built in states where newly elected governors have pledged to stop or pause construction (Bloomberg)",
-    "description": "Bloomberg:\nCleanview: ~40% of pending US data center capacity is planned to be built in states where newly elected governors have pledged to stop or pause construction  —  A new crop of Democratic governors-elect campaigned on putting the brakes on artificial intelligence development.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-06T09:25:00+00:00",
-    "image_url": "http://www.techmeme.com/261106/i6.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
