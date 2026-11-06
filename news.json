@@ -1,5 +1,31 @@
 [
   {
+    "link": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
+    "title": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
+    "description": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&T, Verizon, and T-Mobile, SpaceX has inked a deal",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Mobile & Telecom",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-06T22:45:43+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/cybertrucks-death-great-news-for-evs/",
+    "title": "The Cybertruck’s Death Is Actually Great News for EVs",
+    "description": "Tesla’s massive EV is the second within the last year to get the ax, while smaller vehicles are proliferating. It could be a huge benefit for the US battery supply chain.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-06T22:31:15+00:00",
+    "image_url": "https://media.wired.com/photos/6aee2f4e65a8d4362bf27531/master/pass/GettyImages-2150577028.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/11/06/raycast-combines-voice-dictation-and-screen-awareness-in-new-ai-feature/",
     "title": "Raycast combines voice dictation and screen awareness in new AI feature",
     "description": "Following the recent release of Screen Awareness, Raycast got an interesting update this week that lets users talk to AI about whatever is on their screen without having to explain the context. Here are the details.\n\n\n\n more…",
@@ -553,7 +579,6 @@
     "description": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-11-06T18:44:38+00:00",
@@ -590,7 +615,6 @@
     "description": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-11-06T18:43:43+00:00",
@@ -602,7 +626,6 @@
     "title": "Lame-duck Congress might actually do something: speed up energy projects",
     "description": "A massive permitting bill that could help energy projects come online much quicker and potentially lower utility bills for Americans is advancing with bipartisan support. And while it could be a catalyst for lots of clean energy, it could also speed up polluting projects and limit oversight of new data centers. With data centers demanding",
     "categories": [
-      "Breaking News",
       "Government & Policy",
       "Science & Environment"
     ],
@@ -996,17 +1019,6 @@
     "source_name": "THENEXTWEB.COM"
   },
   {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-    "title": "AI is the new dating dealbreaker",
-    "description": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt where",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-06T17:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.techradar.com/entertainment/how-to-watch/how-to-watch-monty-dons-last-gardeners-world",
     "title": "How to watch Monty Don's last Gardener's World for free — Watch online from anywhere",
     "description": "Monty Don is waving goodbye to the Beeb with one final episode of the hit gardening show. Here's how to watch the last ever Gardener's World online from anywhere in the world, completely FREE.",
@@ -1017,6 +1029,17 @@
     "pub_date": "2026-11-06T17:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/CGYZCqV7npkgncP9BokBEn-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+    "title": "AI is the new dating dealbreaker",
+    "description": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt where",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-11-06T17:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.engadget.com/2309257/doj-just-launched-something-called-the-super-intelligence-task-force/",
@@ -2282,27 +2305,5 @@
     "pub_date": "2026-11-06T11:42:17+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/03eDDP6REXyQJMNoSh7taQl/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2308875/tesla-is-winding-down-cybertruck-production-at-its-texas-gigafactory/",
-    "title": "Tesla is 'winding down' Cybertruck production at its Texas Gigafactory",
-    "description": "Tesla Cybertruck production will wind down in the middle of 2027 to make room for the Cybercab robotaxi.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-06T11:40:53+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/tesla-is-winding-down-cybertruck-production-at-its-texas-gigafactory/l-intro-1793979105.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/audio/hi-fi/getting-back-into-cds-not-all-players-are-made-equal-a-dedicated-transport-will-preserve-your-collection-as-long-as-youre-happy-making-space-for-more-shiny-discs",
-    "title": "The Audiolab 6000CDT MKII is a new CD transport — further proof that the physical media revival is in full swing",
-    "description": "Audiolab has unveiled a CD transport, designed to read discs properly (and with care) while relying on other separates for the remainder of the process.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-06T11:39:03+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/7EMQy9p4B2Nc7tKdd7ewvZ-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
