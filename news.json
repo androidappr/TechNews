@@ -1,5 +1,74 @@
 [
   {
+    "link": "https://www.theverge.com/streaming/1028629/fox-roku-acquisition-close",
+    "title": "Fox bought Roku",
+    "description": "Fox has officially closed its $22 billion acquisition of Roku, the companies announced on Friday. With Roku under its umbrella, Fox now controls a major streaming platform that reaches more than 100 million households in the US. First announced in June, the deal will allow Fox to bring Fox Sports, news content, and local stations",
+    "categories": [
+      "Business & Startups"
+    ],
+    "pub_date": "2026-11-06T15:00:56+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK284_AParkin_2.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026",
+    "title": "The Verge’s 2026 holiday gift guide",
+    "description": "Gift-giving isn't just about grabbing something solid under a determined spending limit. It's an expression of love, a way to show someone how well you really know them. That doesn't mean you have to do it all on your own, though. Sometimes you just need a push in the right direction to get things rolling.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-06T15:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MAIN_STILL0_09b4c3.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/home/amazon-wants-alexa-to-become-your-personal-shopping-assistant-and-all-you-have-to-do-is-send-it-a-text/",
+    "title": "Amazon wants Alexa to become your personal shopping assistant, and all you have to do is send it a text",
+    "description": "Starting today, a small group of users in the US will be able to text Alexa to shop, after linking their phone numbers.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-06T14:50:15+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Alexa-for-shopping-featured-image.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/home-theater/razers-new-80-earbuds-have-anc-and-rgb-and-you-dont-need-to-charge-them/",
+    "title": "Razer’s new $80 earbuds have ANC and RGB, and you don’t need to charge them",
+    "description": "Razer's new Hammerhead V3 Chroma wired gaming earbuds combine active noise cancellation, customizable RGB lighting, dual drivers, and a clever right-angle USB-C connector for just $79.99.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-11-06T14:47:08+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Razer-Hammerhead-V3-Chroma-Featured.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techradar.com/vpn/vpn-services/ipvanish-clears-a-third-independent-audit-reinforcing-its-no-logs-credentials-for-the-second-year-in-a-row",
+    "title": "IPVanish clears a third independent audit, reinforcing its no-logs credentials for the second year in a row",
+    "description": "Independent auditors found no evidence of logging for the third time",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-06T14:46:17+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/x7wpPiSFafC3vCd5F32KDn-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/meta-acquires-conductor-ai-coding-agents-superintelligence-labs",
+    "title": "Meta buys Conductor, whose app runs AI coding agents in parallel",
+    "description": "Meta has bought Conductor, a startup whose app lets software engineers run several AI coding agents at once. Its team will join Meta Superintelligence Labs, chief executive Charlie Holtz said. Axios first reported the deal on Wednesday, and Meta did not disclose the price. Holtz confirmed the deal on X and in a post on",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-06T14:45:21+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/conductor-mascot-grey-cap-logo.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/11/06/apple-store-now-offers-extended-holiday-returns-for-all-products-2026/",
     "title": "Apple Store now offers extended holiday returns for all products",
     "description": "Apple has rolled out its holiday theming at the online Apple Store, and with it a new, extended return policy has just been put into place. Here are the details.\n\n\n\n more…",
@@ -583,8 +652,8 @@
   },
   {
     "link": "https://www.techmeme.com/261106/p10#a261106p10",
-    "title": "In preliminary findings, the EU says TikTok breached the DSA by failing to prevent its recommendation algorithm from trapping users in harmful \"rabbit holes\" (Alexander Martin/The Record)",
-    "description": "Alexander Martin / The Record:\nIn preliminary findings, the EU says TikTok breached the DSA by failing to prevent its recommendation algorithm from trapping users in harmful “rabbit holes”  —  The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into …",
+    "title": "Preliminary findings: the EU says TikTok violated the DSA by not preventing its recommendation algorithm from trapping users in harmful content \"rabbit holes\" (Alexander Martin/The Record)",
+    "description": "Alexander Martin / The Record:\nPreliminary findings: the EU says TikTok violated the DSA by not preventing its recommendation algorithm from trapping users in harmful content “rabbit holes”  —  The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into …",
     "categories": [
       "Tech News"
     ],
@@ -831,7 +900,6 @@
     "title": "10 Best Subscription Boxes for Kids (2026): STEM, Books, Clothes, Snacks, and More",
     "description": "These monthly deliveries get kids reading, coding, and cooking while encouraging them to learn about science and the world.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-06T11:00:00+00:00",
@@ -854,7 +922,6 @@
     "title": "Gopuff launches 6 weeks of Pokémon card drops with rare deals delivered in 15 minutes: How to claim",
     "description": "Gopuff launched weekly Pokémon Trading Card Game drops starting Nov. 6, featuring limited sets delivered in as fast as 15 minutes. Here is the schedule.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-06T10:58:08+00:00",
@@ -866,7 +933,6 @@
     "title": "A Wall-Mounted Garden Frame Is Peak Winter Decor (and a Great Gift)",
     "description": "I tested Modern Sprout’s handsome Growframe for a pop of green during fall and winter.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-06T10:56:00+00:00",
@@ -2209,73 +2275,5 @@
     "pub_date": "2026-11-05T22:15:01+00:00",
     "image_url": "http://www.techmeme.com/261105/i55.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2308647/blue-origin-new-glenn-launch-delay-will-continue-into-2027/",
-    "title": "Blue Origin's New Glenn launch delay will continue into 2027",
-    "description": "Repairs have been slow after an explosion earlier this year.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-05T22:10:09+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/blue-origins-new-glenn-launch-delay-will-continue-into-2027/l-intro-1793916473.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/science/space/ukraine-takes-bold-step-toward-satellite-independence-partnering-with-european-makers-to-launch-its-own-sovereign-orbital-mesh",
-    "title": "Ukraine takes bold step toward satellite independence following Starlink disruption — partnering with European makers to launch its own sovereign orbital mesh",
-    "description": "Ukraine has begun testing an experimental satellite to explore alternatives to its dependence on Starlink.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-05T22:10:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/U8EMRgNDt3a9Cv8iNUaaNE-1920-80.jpeg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/news/1028281/salon-dot-com-shuts-down",
-    "title": "Salon is shutting down after 31 years",
-    "description": "Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication. The company said that the \"business realities of independent digital journalism have changed profoundly over the years,\" and it decided that its publishing model is \"no longer sustainable.\" It",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-05T22:08:14+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-05-at-1.59.05-PM.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/instagram-launches-free-edits-video-editor-for-mac-with-4k-exports",
-    "title": "Instagram launches free Edits video editor for Mac with 4K exports",
-    "description": "Instagram announced on Thursday that it is bringing Edits, its short-form video editing app, to desktop on Mac.The app is free to download, but it works only on Macs with Apple Silicon chips, from the M1 onwards, and users need an Instagram account to sign in. Instagram first launched Edits on phones in April 2025",
-    "categories": [
-      "Social & Media",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-05T21:56:04+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/video-editing-app-timeline-mac-desktop-interface.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes",
-    "title": "The midterms proved once and for all that X is not real life",
-    "description": "A week before the midterm elections, Vice President JD Vance hosted a town hall in Texas with Fox News host Jesse Watters. It was a friendly event with a friendly audience in what should have been a friendly state, and maybe that's why Vance couldn't help himself. When a college student earnestly asked how the",
-    "categories": [
-      "Government & Policy",
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-05T21:55:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25532395/STK204_JD_VANCE_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/05/cleanmymac-now-helps-you-clean-up-gmail-and-manage-chrome-tabs/",
-    "title": "CleanMyMac now helps you clean up Gmail and manage Chrome tabs",
-    "description": "MacPaw today announced an expansion of CleanMyMac’s capabilities beyond the app’s traditional Mac maintenance and optimization tools. Here are the details.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-05T21:48:20+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/clean-mac-gmail.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
