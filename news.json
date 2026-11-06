@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.cnet.com/tech/services-and-software/roundup-chatgpt-claude-gpt-6-cyber-images-2-6-personal-finance/",
+    "title": "OpenAI and Anthropic Drop New AI Tools for Cybersecurity, Images and Finance",
+    "description": "Here are three AI product drops you might’ve missed this week.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-06T18:10:17+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/AdobeStock_1957197742_Editorial_Use_Only.jpeg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
     "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
     "description": "Meta will now allow you to build customized, app-like experiences within its Muse AI assistant. The new feature, called \"spaces,\" allows Muse to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the app. If you connect your space to a relevant app,",
@@ -62,7 +74,7 @@
   {
     "link": "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video",
     "title": "Amazon is now making a Melania Trump TV series",
-    "description": "Following the Melania documentary movie about Melania Trump that premiered earlier this year, Amazon is now planning to release a two-part Prime Video series focusing on the First Lady. The show, Melania: The Series, is set to debut on November 20th. \"MELANIA, The Series reveals never-before-told stories, offering unprecedented insight into Melania Trump's life, including",
+    "description": "Following the Melania documentary movie that premiered earlier this year, Amazon is now planning to release a two-part Prime Video series focusing on the first lady. The show, Melania: The Series, is set to debut on November 20th. \"MELANIA, The Series reveals never-before-told stories, offering unprecedented insight into Melania Trump's life, including the extraordinary days",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -185,6 +197,7 @@
     "title": "Hackers use fake OpenAI, SpaceX, and Anthropic event invites in new phishing scam to steal Microsoft and Google accounts",
     "description": "No, you're not getting SpaceX shares - it's a trick to hand over your Microsoft 365 account credentials.",
     "categories": [
+      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-11-06T17:20:00+00:00",
@@ -971,7 +984,6 @@
     "title": "Employees at Microsoft, long known for its stability, are grappling with its decision to offer buyouts to 60,000 people as its spending priorities shift to AI (Emmy Martin/New York Times)",
     "description": "Emmy Martin / New York Times:\nEmployees at Microsoft, long known for its stability, are grappling with its decision to offer buyouts to 60,000 people as its spending priorities shift to AI  —  Within an hour of Microsoft's announcement of buyouts last week, employees rushed to an internal site to see whether they had been offered one.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-06T14:25:00+00:00",
@@ -2310,16 +2322,5 @@
     "pub_date": "2026-11-06T06:28:32+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261106/p3#a261106p3",
-    "title": "Sources: China's YMTC plans to source 60% to 70% of equipment locally for a planned fourth factory, to make 300-layer NAND chips, up from ~50% for its third fab (Reuters)",
-    "description": "Reuters:\nSources: China's YMTC plans to source 60% to 70% of equipment locally for a planned fourth factory, to make 300-layer NAND chips, up from ~50% for its third fab  —  China's largest flash memory chipmaker, Yangtze Memory Technologies Co (YMTC), plans to source as much as 70% of the equipment …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-06T06:20:13+00:00",
-    "image_url": "http://www.techmeme.com/261106/i3.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
