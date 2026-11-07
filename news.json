@@ -1,5 +1,39 @@
 [
   {
+    "link": "https://www.engadget.com/2310182/claude-vs-chatgpt-personal-finance-comparison/",
+    "title": "Claude Personal Finance vs. ChatGPT Finances: What sets them apart?",
+    "description": "Both AI tools offer to delve deep into your bank accounts, but they differ in privacy settings.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-07T23:10:20+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/claude-personal-finance-vs-chatgpt-finances-what-sets-them-apart/l-intro-1794083241.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2306942/playstation-5-playable-discs-explained/",
+    "title": "What discs can a PlayStation 5 play?",
+    "description": "The PS5 can't play every disc that the PS3 and PS4 were compatible with, but most of what you'll want to play and watch is supported.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-11-07T23:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/what-discs-can-a-playstation-5-play/l-intro-1793819005.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/raspberry-pi-5-price-hike-means-the-16gb-model-now-costs-three-times-what-it-did-at-launch-and-of-course-the-global-ram-shortage-is-to-blame",
+    "title": "Raspberry Pi 5 price hike means the 16GB model now costs three times what it did at launch — and of course, the global RAM shortage is to blame",
+    "description": "The 16GB Raspberry Pi 5 now costs $385, up from $120 at launch, and Raspberry Pi says scarce 16GB DRAM leaves it no choice.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-07T23:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/gYREJJCC6buhyXm9NYkocD-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
     "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
     "description": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as the agency works with American industry to establish a sustained presence on",
@@ -324,8 +358,7 @@
     "title": "How to set up SpaceXAI's Grok in Google Workspace (and what it can do)",
     "description": "Inserting Grok into your Google Workspace is easy, but you'll want to consider a few things before rolling out the welcome mat.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-07T19:15:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/how-to-set-up-spacexais-grok-in-google-workspace-and-what-it-can-do/l-intro-1793988095.jpg",
@@ -347,7 +380,6 @@
     "title": "Accenture accused of publishing major research full of AI hallucinations — paper featured as many as 15 fictitious citations and case studies",
     "description": "A new paper from Accenture called “Leapfrogging Development” appears to have been produced using AI, and features as many as 15 fictitious citations and case studies.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-07T19:05:00+00:00",
@@ -2212,38 +2244,5 @@
     "pub_date": "2026-11-06T23:15:09+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/iphone-duo-store-handson.jpeg",
     "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261106/p25#a261106p25",
-    "title": "Crusoe says Google has bought out its data center site in southeast Wyoming; Crusoe reportedly failed to lock in customers including Google for the project (Lynn Doan/Bloomberg)",
-    "description": "Lynn Doan / Bloomberg:\nCrusoe says Google has bought out its data center site in southeast Wyoming; Crusoe reportedly failed to lock in customers including Google for the project  —  Alphabet Inc.'s Google has bought out Crusoe's data center site in southeast Wyoming, opting to take on the project itself …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-06T23:15:02+00:00",
-    "image_url": "http://www.techmeme.com/261106/i25.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/science/how-to-watch-liberty-canyon-wildlife-crossing-la-live-camera",
-    "title": "The worlds largest wildlife crossing opens soon. Heres how to see the cute animals.",
-    "description": "California will debut the new Wallis Annenberg Wildlife Crossing in December. It will help local wildlife cross a 10-lane highway unencumbered.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-06T23:10:37+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01DLgb7jWcvpHbuBZx9sP2k/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
-    "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
-    "description": "It's the exact path, not the apparent severity that matters most, doctors say.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-06T23:09:45+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bmjcr-2026-November-19-11-F2.large_-1152x648-1794006532.jpg",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
