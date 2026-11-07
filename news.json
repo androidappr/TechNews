@@ -1,5 +1,38 @@
 [
   {
+    "link": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
+    "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
+    "description": "Escalating hacks affecting blood labs and grocery stores show the very real risks to critical infrastructure that come from basic security lapses involving internet-connected devices.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-07T13:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aecfb1b276d9711716c8ef8/master/pass/KernelPanic_10312026_v1-ezgif.com-video-to-gif-converter.gif",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/i-went-hands-on-with-the-new-snap-specs-and-found-out-why-they-could-soon-be-a-useful-workplace-tool",
+    "title": "I went hands on with the new Snap Specs — and found out why they could soon be a useful workplace tool",
+    "description": "Snap Specs look a lot better than previously - but I still don’t think they’re the ideal work companion just yet.",
+    "categories": [
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-07T13:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Azv3TgGUqcELXYvsSeg4Hj-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/wi-fi-broadband/tp-link-archer-8-ultra",
+    "title": "TP-Link Archer 8 Ultra: the future of Wi-Fi has just arrived, with TP-Link’s first Wi-Fi 8 router",
+    "description": "Should early adopters get TP-Link's first Wi-Fi 8 router? Or would you be better off sticking with Wi-Fi 7?",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-07T13:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/UJ2LTaH9x95Zn35MWDJ9WM-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
     "title": "Why a new report on Anthropic automating AI development is alarming researchers",
     "description": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation",
@@ -480,17 +513,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-can-now-build-custom-apps-for-you-in-seconds-without-any-coding-i-tried-making-6-of-my-own-and-the-results-surprised-me",
-    "title": "ChatGPT can now create interactive tools instead of just answering questions",
-    "description": "ChatGPT's new Intelligent UI can create interactive tools directly in your conversation. I tested six very different ideas to see how useful they really are.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-07T09:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/6juFREvprxncNkDiwGBcPU-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/tech/would-you-buy-your-kids-an-ai-teddy-bear-im-a-tech-loving-parent-but-i-dont-trust-these-toys-and-a-new-report-backs-me-up",
     "title": "AI teddy bears spark fresh safety fears after report discovers malfunctioning toys",
     "description": "An AI teddy bear that's been marketed for three-year-olds has made unprompted references to suicide, a BBC report has revealed — amid calls for the industry to be regulated.",
@@ -499,6 +521,17 @@
     ],
     "pub_date": "2026-11-07T09:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/dxbkzTCXsocDbUjvNVtcyE-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-can-now-build-custom-apps-for-you-in-seconds-without-any-coding-i-tried-making-6-of-my-own-and-the-results-surprised-me",
+    "title": "ChatGPT can now create interactive tools instead of just answering questions",
+    "description": "ChatGPT's new Intelligent UI can create interactive tools directly in your conversation. I tested six very different ideas to see how useful they really are.",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-11-07T09:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/6juFREvprxncNkDiwGBcPU-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2229,43 +2262,5 @@
     "pub_date": "2026-11-06T16:48:29+00:00",
     "image_url": "https://media.thenextweb.com/2026/11/alexa-shopping-text-message-lasagna-cart-iphone.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.theverge.com/gadgets/1028372/meta-quest-3s-headset-philips-hue-gradient-lightstrip-deal-sale",
-    "title": "Meta’s refurbished Quest 3S headset is nearly $100 off right now",
-    "description": "If you’re curious about virtual reality, Meta’s Quest 3S is a good entry-level headset for dipping your toes in, especially now it’s on sale in refurbished condition for $255.99 directly from Meta’s eBay storefront through November 8th when you use coupon code SAVE20TECH. For comparison, the headset recently dropped to $300 in new condition as",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-06T16:39:15+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Verge-Deals-Meta-Quest-3S.webp?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
-    "title": "Big Tech lost big in the 2026 election",
-    "description": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nilay and David",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Government & Policy",
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-06T16:38:02+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_110626_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
-    "title": "How Akai and Moog are embracing vibe-coded mods",
-    "description": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or Sample so that people can",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-06T16:34:39+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/assets_47c5d023e7b3451a86ac03602c65dce8_43f25647cf8a4cbb8786829bc29ee2fb.webp?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
