@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "description": "The deal highlights the challenges of developing massive AI data centers.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-07T01:40:28+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/nvidia-reportedly-tells-data-center-customers-to-trim-exposure-to-the-chinese-market",
     "title": "Nvidia reportedly tells data center customers to trim exposure to the Chinese market",
     "description": "Nvidia is requiring foreign cloud providers to serve non-Chinese customers, complicating Chinese access to AI processors through foreign data centers.",
@@ -2267,16 +2279,5 @@
     "pub_date": "2026-11-06T13:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/CTRL_R_Key_Art_FINAL_4K-1.png?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/cars/tesla-is-ending-cybertruck-production-to-build-more-cybercabs/",
-    "title": "Tesla is pulling the plug on the Cybertruck to make room for robotaxis",
-    "description": "Elon Musk has confirmed Tesla will stop making the Cybertruck around mid-2027 to build more Cybercabs.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-06T12:58:28+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/05/Telsa-Cybertruck-official.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
   }
 ]
