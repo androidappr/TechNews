@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.techmeme.com/261108/p8#a261108p8",
+    "title": "Sources: Anthropic bought commitments for 1.7GW of gas-fired generators from equipment supplier OnePWR for $3.4B, the largest known such purchase by an AI lab (Martha Muir/Financial Times)",
+    "description": "Martha Muir / Financial Times:\nSources: Anthropic bought commitments for 1.7GW of gas-fired generators from equipment supplier OnePWR for $3.4B, the largest known such purchase by an AI lab  —  AI lab bypasses traditional suppliers to secure scarce equipment as demand for energy surges  —  Anthropic has struck a massive deal …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-08T15:05:01+00:00",
+    "image_url": "http://www.techmeme.com/261108/i8.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+    "title": "Chatbots might be coming to Apple’s HomeView",
+    "description": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-08T15:00:30+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0250-1.jpeg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
     "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
     "description": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
@@ -9,6 +33,17 @@
     "pub_date": "2026-11-08T15:00:00+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2307835/how-to-set-up-google-authenticator-new-phone/",
+    "title": "How to set up Google Authenticator on a new phone",
+    "description": "How to setup Google Authenticator on a new phone without causing a headache.",
+    "categories": [
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-08T15:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-to-set-up-google-authenticator-on-a-new-phone/l-intro-1793698683.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.engadget.com/2307829/digital-game-library-ownership-uncertainty/",
@@ -2200,40 +2235,6 @@
     ],
     "pub_date": "2026-11-07T11:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6aee7389276d9711716c9d08/master/pass/My-Favorite-GoRuck-Packs-and-Weighted-Vests-Are-on-Sale-for-Black-Friday.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
-    "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
-    "description": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
-    "categories": [
-      "AI & Machine Learning",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-07T11:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aed04343576db1689ab3d03/master/pass/Caregiving%20app.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026/",
-    "title": "Ecoflow Rapid Pro Power Bank Deal: Save $80",
-    "description": "With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-07T11:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aee6950f3308d4d3049680f/master/pass/Your-Holiday-Travels-Need-a-Power-Bank,-and-My-Favorite-Has-Never-Been-Cheaper.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress/",
-    "title": "He Ran on Fighting Data Centers. Now, He’s Going to Congress",
-    "description": "Will Lawrence beat out better-funded opponents in the race to represent Michigan’s 7th District. Now, the representative-elect is laying out his plans to fight for a federal data center moratorium.",
-    "categories": [
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-07T11:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aee8c314e9fcb3cda39f822/master/pass/Power-Play-Ran-on-Hating-Congress.jpg",
     "source_name": "WIRED.COM"
   }
 ]
