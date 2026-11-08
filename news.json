@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+    "title": "Apple is racing to make Siri more agentic",
+    "description": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-08T19:18:19+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2309608/what-xbox-series-x-has-playstation-5-pro-doesnt/",
+    "title": "What does the Xbox Series X have that the Playstation 5 Pro doesn't?",
+    "description": "While the PlayStation 5 Pro is the most powerful games console, the Xbox Series X offers features like Smart Delivery and Quick Resume.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-11-08T19:15:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/what-does-the-xbox-series-x-have-that-the-playstation-5-pro-doesnt/l-intro-1793900948.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/new-report-claims-america-hates-data-centers-as-it-finds-90-of-public-comments-at-local-government-meetings-are-negative",
     "title": "New report claims 'America hates data centers' as it finds 90% of public comments at local government meetings are negative",
     "description": "New American database reveals overwhelming public opposition to data centers, with water consumption, electricity costs, and pollution driving community concerns.",
@@ -426,7 +450,6 @@
     "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
     "description": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.S. high schools and post-secondary schools to contribute designs for the Moon Base. “We’re",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-08T15:26:38+00:00",
@@ -2222,27 +2245,5 @@
     "pub_date": "2026-11-07T15:30:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/how-to-use-your-old-tablet-to-build-a-live-streaming-setup/l-intro-1793689754.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2305444/how-ios-warn-password-shows-up-data-leak/",
-    "title": "How iOS can warn you when one of your passwords shows up in a data leak",
-    "description": "You'll be warned if your credentials stored in Apple Passwords are weak or compromised so you can take appropriate action.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-07T15:15:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/how-ios-can-warn-you-when-one-of-your-passwords-shows-up-in-a-data-leak/l-intro-1793725978.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/adobe-is-giving-start-ups-12-months-of-free-access-to-its-top-ai-tools-including-firefly-and-acrobat",
-    "title": "Adobe is giving start-ups 12 months of free access to its top AI tools, including Firefly and Acrobat",
-    "description": "Adobe for Startups targets companies launched within the last five years with 12 months of free access to Firefly Pro Plus, Acrobat Studio, and more.",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-07T15:05:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/QKsWYGRDqf3mtMaipoaf4g-1920-80.png",
-    "source_name": "TECHRADAR.COM"
   }
 ]
