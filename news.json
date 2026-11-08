@@ -1,7 +1,18 @@
 [
   {
+    "link": "https://www.techradar.com/pro/lenovo-and-hp-run-out-of-rtx-5090-gaming-desktops-as-standalone-gpus-disappear-from-us-retailers",
+    "title": "Lenovo and HP run out of RTX 5090 gaming desktops as standalone GPUs disappear from US retailers",
+    "description": "Nvidia's RTX 5090 is increasingly difficult to purchase across the US, with retailers reporting shortages and graphics cards commanding substantial price increases.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-08T21:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/dsioiQmJ2QqzaTDP3dWy7X-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-    "title": "Nvidia says it’s investigating CEO Jensen Huang’s relationship with possible Chinese spy",
+    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
     "description": "In a memo to the company, Huang admitted that he had an affair.",
     "categories": [
       "AI & Machine Learning",
@@ -23,6 +34,17 @@
     "pub_date": "2026-11-08T21:00:00+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2309296/what-length-displayport-cable-start-giving-trouble/",
+    "title": "At what length do DisplayPort cables start giving you trouble?",
+    "description": "If you're on the market for a new DisplayPort cable, it's worth keeping in mind that longer doesn't always mean better. This length is when trouble begins.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-11-08T21:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/at-what-length-do-displayport-cables-start-giving-you-trouble/l-intro-1793908349.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
@@ -91,6 +113,18 @@
     "pub_date": "2026-11-08T20:25:00+00:00",
     "image_url": "http://www.techmeme.com/261108/i13.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+    "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+    "description": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-08T20:22:39+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://mashable.com/life/spotify-ai-remix-tool-listener-backlash",
@@ -347,17 +381,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.engadget.com/2308391/using-laptop-lid-closed-pros-and-cons/",
-    "title": "The pros and cons of using your laptop with the lid closed",
-    "description": "Connecting your laptop to an external display and running it with the lid closed has some benefits and drawbacks.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-08T17:45:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-your-laptop-with-the-lid-closed/l-intro-1793907582.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
     "link": "https://www.techmeme.com/261108/p10#a261108p10",
     "title": "Excluding Anthropic's IPO, AI companies sold or priced $300B+ of stock in 2026, with ~$100B more on tap, raising questions about how much the market can absorb (Alex Eichenstein/The Information)",
     "description": "Alex Eichenstein / The Information:\nExcluding Anthropic's IPO, AI companies sold or priced $300B+ of stock in 2026, with ~$100B more on tap, raising questions about how much the market can absorb  —  Volatile trading in AI-related stocks this past week has put a spotlight on investors' appetite for additional share offerings …",
@@ -368,6 +391,17 @@
     "pub_date": "2026-11-08T17:45:00+00:00",
     "image_url": "http://www.techmeme.com/261108/i10.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2308391/using-laptop-lid-closed-pros-and-cons/",
+    "title": "The pros and cons of using your laptop with the lid closed",
+    "description": "Connecting your laptop to an external display and running it with the lid closed has some benefits and drawbacks.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-08T17:45:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-your-laptop-with-the-lid-closed/l-intro-1793907582.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
@@ -444,7 +478,6 @@
     "title": "Google and Microsoft among those signing up to OpenAI's plan for a new website crawling standard — including opting-out of internet scraping",
     "description": "One robots.txt line could soon tell Google, Microsoft, OpenAI, and Anthropic not to train on your site, but it won't stop their bots from crawling it.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-08T17:05:00+00:00",
@@ -456,7 +489,6 @@
     "title": "TechCrunch Mobility: The Cybertruck experiment is over",
     "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-08T17:02:00+00:00",
@@ -1094,17 +1126,6 @@
     "source_name": "MASHABLE.COM"
   },
   {
-    "link": "https://www.techradar.com/gaming/gaming-accessories/corsair-voxara-review",
-    "title": "Corsair Voxara review: the right specs for a gamer, but a long way off ‘studio grade’",
-    "description": "Corsair teams up with Elgato to bring the former’s first gaming mic to market, specced to appeal to players and creators",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-08T09:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/SmPETfan8y7TVGekNwGcrW-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://mashable.com/tech/amazon-alexa-devices-prime-member-early-black-friday-sale",
     "title": "Hey, Prime members: Take 50% off Amazons brand-new Alexa+ devices",
     "description": "Amazon Prime members can take 50% off one Alexa device, including the new releases like the Echo Time, Echo Dot, and Alexa Frame.",
@@ -1125,6 +1146,17 @@
     "pub_date": "2026-11-08T09:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/06AYAdO6g3FKgVnFf9okVoI/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/gaming-accessories/corsair-voxara-review",
+    "title": "Corsair Voxara review: the right specs for a gamer, but a long way off ‘studio grade’",
+    "description": "Corsair teams up with Elgato to bring the former’s first gaming mic to market, specced to appeal to players and creators",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-11-08T09:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/SmPETfan8y7TVGekNwGcrW-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://mashable.com/tech/nov-8-uber-eats-amazon-prime-early-black-friday-deal",
@@ -2211,38 +2243,5 @@
     "pub_date": "2026-11-07T17:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268829_The90_Gem_SVasani_0002.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/07/remove-your-personal-info-from-the-web-and-stop-it-coming-back/",
-    "title": "Remove your personal info from the web (and stop it coming back)",
-    "description": "It seems incredible that anyone can legally create a business which involves scraping your personal data from the web and then selling it, yet here we are. There are literally hundreds of data brokers doing just this.\n\n\n\nThey also buy data from app developers, who use innocuous-sounding terms like “sharing data with selected partners” in their privacy polices. Fortunately, individuals and families can fight back this Cybersecurity Month.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-07T17:00:00+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/2_1_Incogni_partnerships_generic_v3.png?w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/entertainment/how-to-watch/how-to-watch-royal-british-legion-festival-of-remembrance-2026",
-    "title": "How to watch Royal British Legion Festival of Remembrance 2026 for free, online and from anywhere",
-    "description": "Clive Myrie hosts coverage from the Royal Albert Hall. Here's how to watch Royal British Legion Festival of Remembrance 2026 online from anywhere in the world FOR FREE.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-07T17:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/qXwQekFxUdPfVYgGVeWdid-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/phones/android/i-spent-a-month-trying-to-de-google-with-the-fairphone-6-plus-but-it-left-me-wishing-for-my-android-phone-back",
-    "title": "I’m sick of Google running my life, but the /e/OS Fairphone wasn't the de-Googled solution I needed",
-    "description": "I’m sick of Google running my life, but the Fairphone 6 Plus with /e/ OS was unfortunately not the de-Googled solution I needed.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-07T17:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/eSKx4zQMBveA6wkUUP2oeD-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
