@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.digitaltrends.com/computing/chromes-incognito-mode-has-a-security-blind-spot-but-google-is-plugging-the-hole-now/",
+    "title": "Chrome’s Incognito mode has a security blind spot, but Google is plugging the hole now",
+    "description": "Google is testing a Chrome security upgrade that would bring real-time phishing and malware protection to Incognito and Guest modes, potentially closing a gap in how the browser handles dangerous websites.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-09T08:01:29+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/DT-2026-08-10T151644.324.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/rillet-london-office-uk-europe-expansion",
+    "title": "$1bn start-up Rillet makes London its first European base",
+    "description": "Rillet, a US start-up that makes accounting software with built-in AI agents, has opened an office in central London. It is the company’s first major move into Europe, Rillet said on Monday. Customers in the UK and the rest of Europe already account for 15% of Rillet’s new annual recurring revenue, the company said. They",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-09T08:00:43+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/rillet-team-group-portrait.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
     "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
     "description": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
@@ -156,7 +179,6 @@
     "title": "An interview with Cognition CISO Alex Stamos on how AI is upending cybersecurity, AI-powered red teaming, vulnerabilities in legacy codebases, and more (Nilay Patel/The Verge)",
     "description": "Nilay Patel / The Verge:\nAn interview with Cognition CISO Alex Stamos on how AI is upending cybersecurity, AI-powered red teaming, vulnerabilities in legacy codebases, and more  —  Today, I'm talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-09T04:05:00+00:00",
@@ -2206,28 +2228,6 @@
     ],
     "pub_date": "2026-11-07T23:30:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-an-amazfit-smartwatch/l-intro-1793812732.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2310182/claude-vs-chatgpt-personal-finance-comparison/",
-    "title": "Claude Personal Finance vs. ChatGPT Finances: What sets them apart?",
-    "description": "Both AI tools offer to delve deep into your bank accounts, but they differ in privacy settings.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-07T23:10:20+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/claude-personal-finance-vs-chatgpt-finances-what-sets-them-apart/l-intro-1794083241.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2306942/playstation-5-playable-discs-explained/",
-    "title": "What discs can a PlayStation 5 play?",
-    "description": "The PS5 can't play every disc that the PS3 and PS4 were compatible with, but most of what you'll want to play and watch is supported.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-07T23:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/what-discs-can-a-playstation-5-play/l-intro-1793819005.jpg",
     "source_name": "ENGADGET.COM"
   }
 ]
