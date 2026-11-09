@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/",
+    "title": "Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work",
+    "description": "Last year, Waymo recalled its software after several of its autonomous cars drove around stopped buses. But the problems remained. Now the feds want to know more.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-09T22:40:10+00:00",
+    "image_url": "https://media.wired.com/photos/6af23b015b42cb1a21fe56e5/master/pass/Waymo-Said-It-Fixed-School-Bus-Problem-Gear-2220531171.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261109/p44#a261109p44",
+    "title": "Trump says the FBI is \"looking into\" Jensen Huang's affair, and the Nvidia CEO told him he \"had absolutely no idea that the person in question was a spy\" (Associated Press)",
+    "description": "Associated Press:\nTrump says the FBI is “looking into” Jensen Huang's affair, and the Nvidia CEO told him he “had absolutely no idea that the person in question was a spy”  —  President Donald Trump said Monday that Nvidia CEO Jensen Huang should not worry about the FBI looking …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-09T22:40:01+00:00",
+    "image_url": "http://www.techmeme.com/261109/i44.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/you-can-grab-an-ai-mini-pc-housing-an-nvidia-tesla-gpu-with-16gb-of-hbm2-for-just-usd699",
+    "title": "You can grab an AI mini PC housing an Nvidia Tesla GPU with 16GB of HBM2 for just $699",
+    "description": "900GB/s of HBM2 in a 5.6-liter box for $699: a 2017 data center GPU is suddenly a memory-shortage bargain, with a few caveats in tow.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-09T22:30:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/zmrwATsBKEjGVByKjCtow-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
     "title": "The race is on to sue Nvidia",
     "description": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
@@ -12,6 +47,18 @@
     "pub_date": "2026-11-09T22:23:42+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/anthropic-introduces-new-fable-5-2-and-mythos-5-2-ai-models/",
+    "title": "Anthropic Introduces New Fable 5.2 and Mythos 5.2 AI Models",
+    "description": "Overkill for the average user, but the models are smarter than ever for professionals.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-09T22:20:20+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/CNET-AI-Anthropic-03.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://9to5mac.com/2026/11/09/todays-macos-updates-fix-security-gap-involving-emudhra-certificates/",
@@ -533,17 +580,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.techradar.com/pro/phone-communications/cubot-kingkong-dura-review-a-cheap-rugged-phone-with-a-trick-up-its-sleeve",
-    "title": "CUBOT KingKong Dura rugged phone review",
-    "description": "The CUBOT KingKong Dura keeps its weight down while offering longer battery life with a replaceable battery.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-09T20:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/STHpjwU8r6dCrEH6C2ckeH-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/entertainment/boxing/rivals-fury-vs-joshua-free-documentary",
     "title": "How to watch Rivals: Fury vs Joshua for free, online and from anywhere",
     "description": "Here's how to watch documentary Rivals: Fury vs Joshua online from anywhere in the world for FREE, as British boxing's big two prepare for their huge fight.",
@@ -552,6 +588,17 @@
     ],
     "pub_date": "2026-11-09T20:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/bDQphAVMWLVubZrDiaJBcM-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/phone-communications/cubot-kingkong-dura-review-a-cheap-rugged-phone-with-a-trick-up-its-sleeve",
+    "title": "CUBOT KingKong Dura rugged phone review",
+    "description": "The CUBOT KingKong Dura keeps its weight down while offering longer battery life with a replaceable battery.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-09T20:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/STHpjwU8r6dCrEH6C2ckeH-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -880,7 +927,6 @@
     "description": "Apple chief executive John Ternus has pushed software chief Craig Federighi to speed up Apple’s AI plans, Mark Gurman reported for Bloomberg on Sunday. Ternus wants Apple to move beyond improving Siri. According to the report, he held a closed-door meeting with Federighi in recent weeks. Ternus is frustrated by what he sees as Apple’s",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware",
       "Mobile & Telecom",
@@ -895,8 +941,7 @@
     "title": "Google lets developers add Maps to AI Studio apps for free",
     "description": "Google AI Studio can now set up Google Maps Platform for apps built by prompting Gemini, with a free demo key allowing 100 calls a day per API. Production apps still need a paid Cloud billing account, but the same key and code keep working. Developers can now add Google Maps to apps they build",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-09T18:40:29+00:00",
     "image_url": "https://media.thenextweb.com/2026/11/google-maps-pin-badge-local-guides.avif",
@@ -930,8 +975,7 @@
     "title": "Samsung may charge for Galaxy AI, but its features have a value problem",
     "description": "Samsung could charge $5 a month for Galaxy AI, but its best-known features will likely remain free.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-09T18:36:47+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/ZxFkK9EDDk8jt4bDUaSx4-1920-80.jpg",
@@ -942,6 +986,7 @@
     "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
     "description": "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the coupon code BNWF2656 at checkout knocks $11 off the usual cost of a three-month subscription. That brings",
     "categories": [
+      "Breaking News",
       "Gadgets & Hardware",
       "Gaming"
     ],
@@ -1574,7 +1619,6 @@
     "title": "Early Black Friday deal: LGs most popular OLED TV is the cheapest its been all year",
     "description": "The LG C6 OLED TV is on sale for its lowest price of the year ahead of Black Friday. Save $1,000 on the 55-inch model.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-09T16:32:38+00:00",
@@ -2280,52 +2324,5 @@
     "pub_date": "2026-11-09T14:30:56+00:00",
     "image_url": "https://media.wired.com/photos/6af1d38e0949f43953b8f9d7/master/pass/Jensen%20Huang.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/google-reportedly-adds-two-tpu-variants",
-    "title": "Google unveils TPU 8tx and 8i Max chips for secure and long-context AI",
-    "description": "Google has introduced two new versions of its in-house AI chips, known as tensor processing units (TPUs). The TPU 8tx is designed for running AI workloads on sensitive data, while the TPU 8i Max targets large-scale applications that need more computing power and memory. The launch brings Google’s eighth-generation TPU lineup to four systems. The",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-09T14:30:27+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/google-tpu-8tx-tpu-8i-max-boards-render.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261109/p25#a261109p25",
-    "title": "Spines, which uses AI agents to edit and proofread amateur authors' books, design their covers, and handle their layout, raised $29M in equity and $35M in debt (Assaf Gilead/Globes)",
-    "description": "Assaf Gilead / Globes:\nSpines, which uses AI agents to edit and proofread amateur authors' books, design their covers, and handle their layout, raised $29M in equity and $35M in debt  —  The Herzliya-based company's platform allows authors to upload their manuscripts to the platform, where the company's AI agents edit …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-09T14:30:00+00:00",
-    "image_url": "http://www.techmeme.com/261109/i25.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
-    "title": "Jonathan Kanter is using AI to take on Big Tech",
-    "description": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-09T14:30:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/09/apple-pushing-faster-on-agentic-siri-would-carry-three-big-risks/",
-    "title": "Apple pushing faster on agentic Siri would carry three big risks",
-    "description": "Yesterday saw two reports about Apple software development. The first said that the company was aiming to give Siri more agentic capabilities “as soon as next year,” while the second said that CEO John Ternus is pushing Craig Federighi to speed up software development.\n\n\n\nIf accurate, it seems near-certain the two reports are connected. But if Ternus really is pushing for an acceleration in Siri’s ability to act as an AI agent, that comes with three potentially huge risks …\n\n\n\n more…",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-09T14:28:47+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-macos-27.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
