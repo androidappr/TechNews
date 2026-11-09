@@ -1,5 +1,39 @@
 [
   {
+    "link": "https://www.engadget.com/2307737/why-laptops-overheat-after-extended-use/",
+    "title": "The reason your laptop can get hot after extended use",
+    "description": "While it's normal for laptops to sometimes overheat after extended use, excessive temperature spikes can be reduced in a few ways.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-09T17:45:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/the-reason-your-laptop-can-get-hot-after-extended-use/l-intro-1793800956.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/disney-partners-with-adobe-to-build-ai-models-for-its-characters/",
+    "title": "Adobe and Disney team up to build AI tools for the next generation of storytelling",
+    "description": "Adobe and Disney have signed a multi-year alliance that brings custom AI models, Firefly tools, and new tech to Disney parks, StudioLAB, and ESPN Edge.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-09T17:42:39+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Adobe-walt-disney-feature.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/phone-communications/8849-tank-5-pro-review-the-rugged-projector-phone-that-can-project-light-and-see-heat",
+    "title": "8849 Tank 5 rugged phone review",
+    "description": "The 8849 Tank 5 is a large, rugged phone with good camera sensors, a powerful SoC and high quality DLP projector.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-09T17:36:20+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/KQrPrGT6ukfHyLDvybrAb8-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techradar.com/health-fitness/smartwatches/the-new-york-marathon-winner-wasnt-wearing-a-fancy-garmin-or-apple-watch-ultra-but-something-much-cheaper-heres-why-this-coros-model-is-a-great-running-watch-to-look-out-for-on-black-friday",
     "title": "The New York Marathon winner wasn’t wearing a fancy Garmin, but something much cheaper",
     "description": "Andreas Almgren was the latest marathon winner to rock a budget-friendly smartwatch, this time the Coros Pace 4.",
@@ -1189,8 +1223,7 @@
     "title": "What hardware does your PC need to run a local AI model?",
     "description": "The kind of AI models you can run depends on your machine's power. Let's unpack what your everyday PC will need, and how much it will cost you.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-09T13:45:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/what-hardware-does-your-pc-need-to-run-a-local-ai-model/l-intro-1793763392.jpg",
@@ -1236,7 +1269,6 @@
     "title": "Coinbase receives approval to become a chartered trust bank",
     "description": "Coinbase has received approval from the US Office of the Comptroller of Currency to become a nationally chartered trust bank.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-09T13:40:54+00:00",
@@ -2285,40 +2317,5 @@
     "pub_date": "2026-11-09T08:00:43+00:00",
     "image_url": "https://media.thenextweb.com/2026/11/rillet-team-group-portrait.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
-    "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
-    "description": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
-    "categories": [
-      "Business & Startups",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-09T08:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aecab4af3a6c68d60864f57/master/pass/Bugs%20and%20bikes%20revise.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/nvidia-ceo-jensen-huang-affair-chinese-spy-investigation",
-    "title": "Nvidia CEO Jensen Huang admits affair with alleged Chinese spy",
-    "description": "Nvidia CEO Jensen Huang has admitted to cheating on his wife with a suspected Chinese spy, prompting an independent investigation.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-09T07:49:54+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/052byRED3xTi2n7AOBC7XbU/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/cars/catl-explores-lithium-air-batteries-for-a-potential-1200-mile-ev-range/",
-    "title": "A new lithium-air battery could give electric cars 1,200+ miles of range, but there’s a catch",
-    "description": "Lithium-air batteries could someday give EVs a range of 2,000 km. Here's what makes them special and why you won’t find one in your car anytime soon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-09T07:20:10+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/CATL-website-home-page.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
   }
 ]
