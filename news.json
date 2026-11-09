@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.wired.com/story/welcome-to-weed-island-jersey/",
+    "title": "Welcome to Weed Island",
+    "description": "How the tiny, self-governing British island of Jersey unintentionally became Europe’s front line in the multibillion-dollar global cannabis industry.",
+    "categories": [
+      "Business & Startups"
+    ],
+    "pub_date": "2026-11-09T07:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aba9754b8c27fd4adca81cc/master/pass/092426-Jersey%20Weed%20Island.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261109/p4#a261109p4",
     "title": "Google rolls out a Googlebook update that frees up 3GB-6GB of RAM via on-device AI optimizations, reduces Chrome crashes, patches ~60 Android flaws, and more (Jay Bonggolto/Android Central)",
     "description": "Jay Bonggolto / Android Central:\nGoogle rolls out a Googlebook update that frees up 3GB-6GB of RAM via on-device AI optimizations, reduces Chrome crashes, patches ~60 Android flaws, and more  —  Google's latest Googlebook update frees up to 6GB of RAM and fixes Chrome crashes. … Google is rolling out its November update for Googlebook …",
@@ -122,7 +133,6 @@
     "title": "Tencent's chief AI scientist Yao Shunyu says AI's bio abilities will soon make it \"possible to do harm\" and Anthropic has a \"strong argument\" for closed models (Vincent Chow/South China Morning Post)",
     "description": "Vincent Chow / South China Morning Post:\nTencent's chief AI scientist Yao Shunyu says AI's bio abilities will soon make it “possible to do harm” and Anthropic has a “strong argument” for closed models  —  Artificial intelligence models will soon be powerful enough to master biology, presenting both benefits …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-09T03:15:01+00:00",
@@ -2218,16 +2228,5 @@
     "pub_date": "2026-11-07T22:47:03+00:00",
     "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg?w=1936",
     "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://www.techmeme.com/261107/p16#a261107p16",
-    "title": "US Treasury moves to cut crypto exchange MEXC off from the US financial system, alleging $16B+ in illicit flows, including Russian and Iranian sanctions evasion (Francisco Rodrigues/CoinDesk)",
-    "description": "Francisco Rodrigues / CoinDesk:\nUS Treasury moves to cut crypto exchange MEXC off from the US financial system, alleging $16B+ in illicit flows, including Russian and Iranian sanctions evasion  —  The U.S. Treasury is moving to cut off crypto exchange MEXC from the U.S. financial system, alleging that it handled …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-07T22:45:01+00:00",
-    "image_url": "http://www.techmeme.com/261107/i16.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
