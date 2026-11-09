@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://thenextweb.com/news/phaser-biomedical-gates-foundation-grant",
+    "title": "Dundee biotech PhaSER wins $2.7M Gates grant for infectious disease drugs",
+    "description": "Scottish biotech PhaSER Biomedical has won a $2.7M (£2m) grant from the Gates Foundation to help find new drugs for diseases such as TB and malaria. The company announced the award in a statement this morning. The two-year grant renews PhaSER’s place in the foundation’s Global Health Discovery Collaboratory, a programme that gives Gates-funded teams access",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-09T08:24:31+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/university-of-dundee-building-entrance-canopy.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/an-amd-radeon-driver-bug-is-quietly-hammering-your-ssd-even-when-your-pc-is-doing-nothing/",
+    "title": "An AMD Radeon driver bug is quietly hammering your SSD, even when your PC is doing nothing",
+    "description": "SSD wear from the Radeon bug is unproven, but checking your PC takes a minute and workarounds carry trade-offs.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-09T08:22:38+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/10/AMD-Radeon-GPU-Branding-in-Red.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/computing/chromes-incognito-mode-has-a-security-blind-spot-but-google-is-plugging-the-hole-now/",
     "title": "Chrome’s Incognito mode has a security blind spot, but Google is plugging the hole now",
     "description": "Google is testing a Chrome security upgrade that would bring real-time phishing and malware protection to Incognito and Guest modes, potentially closing a gap in how the browser handles dangerous websites.",
@@ -1767,17 +1790,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.wired.com/gallery/best-touchscreen-gloves/",
-    "title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
-    "description": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-08T10:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aee72371d8c716d0f5e527c/master/pass/The-Best-Touchscreen-Gloves.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
     "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
     "description": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
@@ -1786,6 +1798,17 @@
     ],
     "pub_date": "2026-11-08T10:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6aee76034438325af23766b8/master/pass/macbook-pro-m5-top-2.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/gallery/best-touchscreen-gloves/",
+    "title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
+    "description": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-08T10:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aee72371d8c716d0f5e527c/master/pass/The-Best-Touchscreen-Gloves.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -2207,27 +2230,5 @@
     "pub_date": "2026-11-08T00:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/XrpFgcngWrtXQscKdLLAZB-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2306821/why-never-put-playstation-5-on-carpeted-floor/",
-    "title": "Why you should never put your PlayStation 5 on a carpeted floor",
-    "description": "The PlayStation 5 needs to stay cool when playing games, and a carpet is a literal hotbed. Here's the best ways to store a PS5 while keeping it cool.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-07T23:45:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/why-you-should-never-put-your-playstation-5-on-a-carpeted-floor/l-intro-1793814095.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2306820/using-amazfit-smartwatch-pros-and-cons/",
-    "title": "The pros and cons of using an Amazfit smartwatch",
-    "description": "Thinking about an Amazfit smartwatch? Find out what makes these budget wearables so appealing and where they fall short before you spend your money.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-07T23:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-an-amazfit-smartwatch/l-intro-1793812732.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
