@@ -1,5 +1,41 @@
 [
   {
+    "link": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
+    "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+    "description": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
+    "categories": [
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-09T19:39:41+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/meta-muse-ember-small-ai-model-haiku-luna",
+    "title": "Meta’s Muse Ember matches Claude Haiku at a third of the cost per task",
+    "description": "Meta has released Muse Ember, its smallest and cheapest AI model so far, the company announced on Monday. Meta built it for the small jobs AI agents repeat all day. These include calling tools, coding subtasks, routing requests, pulling out data and parsing long documents. Ember costs $0.10 per million input tokens and $0.50 per",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-09T19:34:31+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/blue-orbital-curves-points-dark-abstract-illustration.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/tech/windows-11-control-settings-from-search-insiders-preview/",
+    "title": "You can change Windows settings directly from a search now – how to try it",
+    "description": "The latest Windows 11 Insiders Preview enhances the Search feature so that you can access specific settings right from a search window.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-09T19:33:24+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Windows-Search-inline-action.jpg",
+    "source_name": "ZDNET.COM"
+  },
+  {
     "link": "https://www.engadget.com/2307830/how-to-use-iphone-take-best-picture-of-moon-guide/",
     "title": "How to use your iPhone to take the best picture of the Moon",
     "description": "We explain how to take the best photos of the Moon with your iPhone, regardless of which model.",
@@ -10,6 +46,18 @@
     "pub_date": "2026-11-09T19:30:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/how-to-use-your-iphone-to-take-the-best-picture-of-the-moon/l-intro-1793619969.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/",
+    "title": "La NASA busca a la próxima generación de astronautas",
+    "description": "Read this release in English here.La NASA busca a los exploradores que ayudarán a escribir el próximo capítulo de los vuelos espaciales tripulados. Ya está abierto el plazo de inscripción para la próxima promoción de astronautas de la agencia, que se incorporarán a la NASA en un momento en el que Estados Unidos regresa a",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-09T19:27:20+00:00",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg?w=1920",
+    "source_name": "NASA.GOV"
   },
   {
     "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
@@ -23,6 +71,19 @@
     "pub_date": "2026-11-09T19:24:51+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/claude-fable-5-2-mythos-5-2-anthropic-launch-price",
+    "title": "Anthropic launches Claude Fable 5.2 and Mythos 5.2, and cuts Fable’s price",
+    "description": "Anthropic has released Claude Fable 5.2 and Claude Mythos 5.2, the company announced on Monday. They are new versions of its most powerful AI models. Both are faster than the 5.1 versions from September, and Fable is cheaper. The launch comes as Anthropic nears its stock market listing, which could happen as soon as this",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-09T19:22:39+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/claude-fable-mythos-5-2-announcement-graphic.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
@@ -359,6 +420,7 @@
     "title": "How does Google Wallet's notification feed work and can you disable it?",
     "description": "Google Wallet is attempting to make notifications easier to find with a notification feed, but if you're sick of alerts, find out how to disable them.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-09T18:15:00+00:00",
@@ -765,6 +827,7 @@
     "title": "Uber Parking Lets You Book a Spot Directly in the App. Here’s How",
     "description": "The new feature is launching in 15 cities before expanding across the US and Canada. It follows Uber’s acquisition of SpotHero earlier this year.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-09T17:00:00+00:00",
@@ -1283,7 +1346,6 @@
     "title": "Draft law: the EU's Digital Fairness Act would require companies to let adults disable addictive features and will target AI systems that simulate relationships (Bloomberg)",
     "description": "Bloomberg:\nDraft law: the EU's Digital Fairness Act would require companies to let adults disable addictive features and will target AI systems that simulate relationships  —  Social media platforms face a fresh wave of European Union curbs, this time targeting addictive features and artificial intelligence chatbots.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-09T15:40:00+00:00",
@@ -1635,7 +1697,6 @@
     "title": "Musk promises refunds for Cybertruck deposits as Tesla puts short-lived electric trucks on cold ice",
     "description": "Tesla is going to stop making the Cybertruck, and Elon Musk has a rather unusual explanation for the decision. The electric pickup apparently has more customers waiting to buy it than Tesla can keep up with, but the company is still planning to shut down its production line in about eight months. And a lot",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-09T14:35:29+00:00",
@@ -1837,7 +1898,6 @@
     "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
     "description": "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around eight months.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-09T13:43:28+00:00",
@@ -2286,61 +2346,5 @@
     "pub_date": "2026-11-09T11:40:00+00:00",
     "image_url": "http://www.techmeme.com/261109/i16.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/jon-stewart-behind-the-scenes-job-fired",
-    "title": "Jon Stewart reveals where hed be if he hadnt gone into comedy",
-    "description": "Jon Stewart was asked by a \"Daily Show\" audience member what he'd have done if he hadn't gone into comedy, prompting an amusing story about a job at Woolworths.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-09T11:34:02+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/videos/00rWUwJAmSjnGbTI1sOI2E9/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
-    "title": "Tesla expands robotaxi service to San Antonio",
-    "description": "This will be the next Texas city in which Tesla will launch robotaxis.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-09T11:30:24+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/the-midterms-were-a-pretty-good-sign-for-right-to-repair/",
-    "title": "The Midterms Were a Pretty Good Sign for the Right-to-Repair Movement",
-    "description": "A shifting political landscape gives right-to-repair advocates their best shot yet at meaningful federal reform.",
-    "categories": [
-      "Gadgets & Hardware",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-09T11:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aedfe0f80b2626fa065567c/master/pass/GettyImages-2302892700.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261109/p15#a261109p15",
-    "title": "Amsterdam police arrested between 150 and 200 protesters for trespassing and violence at a Microsoft data center construction site owned by Pure Data Centers (Jowi Morales/Tom's Hardware)",
-    "description": "Jowi Morales / Tom's Hardware:\nAmsterdam police arrested between 150 and 200 protesters for trespassing and violence at a Microsoft data center construction site owned by Pure Data Centers  —  The people were protesting against the use of fossil fuel generators to power data centers.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-09T11:25:01+00:00",
-    "image_url": "http://www.techmeme.com/261109/i15.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/social-media/the-way-you-use-instagram-might-reveal-how-lonely-you-really-feel/",
-    "title": "The way you use Instagram might reveal how lonely you really feel",
-    "description": "Researchers analyzing the Instagram activity of 415 college students found that posting habits, facial expressions, and interactions can reveal distinct patterns of emotional and social loneliness, although the technology isn't ready to diagnose individuals.",
-    "categories": [
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-09T11:22:34+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/iPhone-18-Pro-Instagram-feed-for-doomscrolling.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
   }
 ]
