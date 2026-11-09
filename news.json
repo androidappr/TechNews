@@ -1,5 +1,89 @@
 [
   {
+    "link": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
+    "title": "Hold up — I had a great time talking to the RIAA guy",
+    "description": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids for downloading music. That was when I decided to go be a copyright lawyer, which set",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-09T15:30:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_20261109_Glazier.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/ai-platforms-assistants/1-in-8-brits-have-used-ai-to-write-their-christmas-cards-but-are-we-losing-something-by-letting-chatgpt-do-the-talking",
+    "title": "1 in 8 Brits have used AI to write their Christmas cards",
+    "description": "A new survey shows that 1 in 8 of Brits use AI tools to help them write sentimental messages in their Christmas cards.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-09T15:25:19+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/jUgSHUWVgP2UE8imbWVEtA-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
+    "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+    "description": "The update to Waymo's self-driving system was rolled out nearly a year ago.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-09T15:24:59+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/timekettle-livetalk-ai-translation-earbuds-review",
+    "title": "Timekettle LiveTalk AI Translation Earbuds review",
+    "description": "These in ear translation earbuds aim to bring live translation to the user with a series of modes that cover everything from face to face meetings, online meetings and live translation during presentations and meetings. The open ear design also lets themselves as a work place friendly solution.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-09T15:23:33+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/GuEK9DdehXHMxHqphEg4KF-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/gta-6-is-coming-to-miami-with-a-live-grand-theft-auto-6-the-festival-special-event-heres-how-to-secure-your-pre-sale-tickets",
+    "title": "GTA 6 is coming to Miami with a live Grand Theft Auto 6: The Festival special event — here's how to secure your pre-sale tickets",
+    "description": "Rockstar Games has announced Grand Theft Auto 6: The Festival, a special live concert scheduled for after GTA 6's launch and featuring music from the game.",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-11-09T15:21:54+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/aMxrbZcLBiUoXcN9ouk6Nj-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261109/p27#a261109p27",
+    "title": "Medium launches TK, an AI-powered, minimalist note-taking, journaling, and private social networking app with daily prompts, its first major launch since 2017 (David Pierce/The Verge)",
+    "description": "David Pierce / The Verge:\nMedium launches TK, an AI-powered, minimalist note-taking, journaling, and private social networking app with daily prompts, its first major launch since 2017  —  The company is betting that the future of blogging looks a lot like group chats. … For the first time ever, Medium is becoming more than just a blogging platform.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-09T15:15:02+00:00",
+    "image_url": "http://www.techmeme.com/261109/i27.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/nov-9-tykr-stock-screener-premium-plan-3-year-subscription",
+    "title": "Stop guessing which stocks are worth buying with this $60 3-year subscription",
+    "description": "Stop second-guessing your investments with some help from this 3-year subscription to Tykr Stock Screener Premium Plan.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-09T15:12:56+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/06jFookUCTAfbHbpoj9L35y/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1029676/medium-tk-notes-app",
     "title": "Medium is launching a new note-taking app called TK",
     "description": "For the first time ever, Medium is becoming more than just a blogging platform. The company is launching a new app, called TK, that combines note taking and journaling with something resembling a private social network. The app is meant to get you writing more, and help you share that writing with friends and fans.",
@@ -323,7 +407,7 @@
   {
     "link": "https://www.techmeme.com/261109/p24#a261109p24",
     "title": "Sources: Alice Huang and her partner pitched a Southeast Asia data center project to China-based investors in 2025, saying they had \"no problem securing GPUs\" (Financial Times)",
-    "description": "Financial Times:\nSources: Alice Huang and her partner pitched a Southeast Asia data center project to China-based investors in 2025, saying they had “no problem securing GPUs”  —  Alice Huang boasted of having access to Nvidia GPUs and her connection to Alibaba in bid to secure investment for major data centre project",
+    "description": "Financial Times:\nSources: Alice Huang and her partner pitched a Southeast Asia data center project to China-based investors in 2025, saying they had “no problem securing GPUs”  —  Alice Huang boasted of having access to Nvidia GPUs and her connection to Alibaba  —  The woman at the centre …",
     "categories": [
       "Tech News"
     ],
@@ -766,18 +850,6 @@
     "source_name": "MASHABLE.COM"
   },
   {
-    "link": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
-    "title": "Instagram’s AI age detection is expanding globally",
-    "description": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven't correctly disclosed their age. The rollout will automatically place \"millions more teens on Instagram into Teen Account protections,\" according to Meta's announcement, after launching the AI-powered age assurance updates in the US, EU, and Brazil last year. The",
-    "categories": [
-      "Breaking News",
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-09T12:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.wired.com/review/king-arthur-baking-sourdough-sidekick/",
     "title": "King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion",
     "description": "This techy automatic starter feeder has some quirks, but it ended my yearlong sourdough slump.",
@@ -809,6 +881,18 @@
     "pub_date": "2026-11-09T12:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/03ErKUgKHj3dCYMbPn5uKYh/hero-image.png",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
+    "title": "Instagram’s AI age detection is expanding globally",
+    "description": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven't correctly disclosed their age. The rollout will automatically place \"millions more teens on Instagram into Teen Account protections,\" according to Meta's announcement, after launching the AI-powered age assurance updates in the US, EU, and Brazil last year. The",
+    "categories": [
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-09T12:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.techradar.com/gaming/why-is-warhammer-40-000-dawn-of-war-4-going-back-to-kronus-we-asked-the-real-time-strategy-games-creative-director-to-explain-why",
@@ -883,7 +967,6 @@
     "title": "The Midterms Were a Pretty Good Sign for the Right-to-Repair Movement",
     "description": "A shifting political landscape gives right-to-repair advocates their best shot yet at meaningful federal reform.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware",
       "Government & Policy"
     ],
@@ -918,7 +1001,6 @@
     "title": "Samsung is reportedly testing a Galaxy AI Premium subscription service",
     "description": "Samsung Galaxy AI Premium could soon launch with three paid tools, but initial reactions aren't positive.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-09T11:21:00+00:00",
@@ -1083,17 +1165,6 @@
     "source_name": "9TO5MAC.COM"
   },
   {
-    "link": "https://www.techradar.com/home/vacuums/narwal-v50-cube-review",
-    "title": "Narwal V50 Cube review: a self-emptying stick vacuum with brilliant smart features",
-    "description": "Narwal's ever stick vacuum boasts a headlight to magnify dust, AI dirt detection, and a truly impressive auto-emptying dock.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-09T11:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/2GTD7zCDhtqWWXnnKh9hCe-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/",
     "title": "CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars",
     "description": "After 378 days without windows, the sounds of the outside world, or real-time calls with family and friends, four research volunteers stepped out of NASA’s Mars Dune Alpha habitat on Oct. 31, completing the agency’s second yearlong Mars surface simulation.  Ross Elder, Ellen Ellis, James Spicer, and Matthew Montgomery entered the roughly 1,700-square-foot, 3D-printed habitat at",
@@ -1103,6 +1174,17 @@
     "pub_date": "2026-11-09T11:00:00+00:00",
     "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424286.jpg?w=1536",
     "source_name": "NASA.GOV"
+  },
+  {
+    "link": "https://www.techradar.com/home/vacuums/narwal-v50-cube-review",
+    "title": "Narwal V50 Cube review: a self-emptying stick vacuum with brilliant smart features",
+    "description": "Narwal's ever stick vacuum boasts a headlight to magnify dust, AI dirt detection, and a truly impressive auto-emptying dock.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-09T11:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/2GTD7zCDhtqWWXnnKh9hCe-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://www.techradar.com/pro/since-tokenmaxxing-is-the-wrong-metric-for-ai-roi-what-is-the-right-one",
@@ -2201,84 +2283,5 @@
     "pub_date": "2026-11-08T21:05:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/dsioiQmJ2QqzaTDP3dWy7X-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-    "description": "In a memo to the company, Huang admitted that he had an affair.",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-08T21:00:11+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
-    "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
-    "description": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-08T21:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2309296/what-length-displayport-cable-start-giving-trouble/",
-    "title": "At what length do DisplayPort cables start giving you trouble?",
-    "description": "If you're on the market for a new DisplayPort cable, it's worth keeping in mind that longer doesn't always mean better. This length is when trouble begins.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-08T21:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/at-what-length-do-displayport-cables-start-giving-you-trouble/l-intro-1793908349.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
-    "title": "Epic Games Launcher is coming to SteamOS",
-    "description": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibility, along with a handful of other distros, to GamingOnLinux. In response",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-08T20:52:05+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK108_EPIC_GAMES_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2309615/safest-laptop-storage-long-term/",
-    "title": "The safest way to store your laptop for a long period of time",
-    "description": "If you're storing a laptop for an extended period, there are a few things to consider.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-08T20:45:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/the-safest-way-to-store-your-laptop-for-a-long-period-of-time/l-intro-1793964760.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261108/p14#a261108p14",
-    "title": "Email to staff: Jensen Huang admits an affair, takes \"full responsibility\", and says he fell short of his duties to Nvidia's board, shareholders, and employees (Madison Mills/Axios)",
-    "description": "Madison Mills / Axios:\nEmail to staff: Jensen Huang admits an affair, takes “full responsibility”, and says he fell short of his duties to Nvidia's board, shareholders, and employees  —  Nvidia CEO Jensen Huang admitted to having a romantic relationship with a suspected Chinese spy in a message to his company.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-08T20:35:00+00:00",
-    "image_url": "http://www.techmeme.com/261108/i14.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
-    "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
-    "description": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-08T20:30:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
