@@ -38,7 +38,6 @@
     "title": "Sources: ByteDance seeks to expand its data center project in Ceara, Brazil, with a second phase larger than its ongoing $10B, 300MW project (Peter Millard/Bloomberg)",
     "description": "Peter Millard / Bloomberg:\nSources: ByteDance seeks to expand its data center project in Ceara, Brazil, with a second phase larger than its ongoing $10B, 300MW project  —  TikTok owner ByteDance is considering expanding a data center project in northeastern Brazil, a move that would strengthen its standing …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-09T05:50:00+00:00",
@@ -243,7 +242,6 @@
     "title": "Has China cracked the AI data center power problem? New 800-volt DC power system is a 'world first,' offering greater efficiency and conversion than ever",
     "description": "China's Envision has deployed an 800V DC power system at Galaxy AI campus, promising improved efficiency, battery support and reduced infrastructure requirements.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-09T01:40:00+00:00",
@@ -1722,17 +1720,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
-    "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
-    "description": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-08T10:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aee76034438325af23766b8/master/pass/macbook-pro-m5-top-2.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/gallery/best-touchscreen-gloves/",
     "title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
     "description": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?",
@@ -1741,6 +1728,17 @@
     ],
     "pub_date": "2026-11-08T10:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6aee72371d8c716d0f5e527c/master/pass/The-Best-Touchscreen-Gloves.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
+    "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
+    "description": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-08T10:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aee76034438325af23766b8/master/pass/macbook-pro-m5-top-2.jpg",
     "source_name": "WIRED.COM"
   },
   {
