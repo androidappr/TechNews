@@ -1,5 +1,64 @@
 [
   {
+    "link": "https://thenextweb.com/news/google-maps-platform-ai-studio-demo-key",
+    "title": "Google lets developers add Maps to AI Studio apps for free",
+    "description": "Google AI Studio can now set up Google Maps Platform for apps built by prompting Gemini, with a free demo key allowing 100 calls a day per API. Production apps still need a paid Cloud billing account, but the same key and code keep working. Developers can now add Google Maps to apps they build",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-09T18:40:29+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/google-maps-pin-badge-local-guides.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/apps-software/ai/samsung-may-charge-for-galaxy-ai-but-its-features-have-a-value-problem",
+    "title": "Samsung may charge for Galaxy AI, but its features have a value problem",
+    "description": "Samsung could charge $5 a month for Galaxy AI, but its best-known features will likely remain free.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-09T18:36:47+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ZxFkK9EDDk8jt4bDUaSx4-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
+    "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
+    "description": "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the coupon code BNWF2656 at checkout knocks $11 off the usual cost of a three-month subscription. That brings",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Gaming"
+    ],
+    "pub_date": "2026-11-09T18:35:25+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xbox-game-pass-ultimate-roundup.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261109/p36#a261109p36",
+    "title": "Elliptic: hackers behind the $6.3B Binance heist created at least six memecoins on the NEAR blockchain network to launder about $430,000 of stolen funds (Emily Nicolle/Bloomberg)",
+    "description": "Emily Nicolle / Bloomberg:\nElliptic: hackers behind the $6.3B Binance heist created at least six memecoins on the NEAR blockchain network to launder about $430,000 of stolen funds  —  The hackers who stole $6.3 billion from Binance Holdings Ltd. in crypto's biggest ever heist have turned to one of the sector's …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-09T18:35:01+00:00",
+    "image_url": "http://www.techmeme.com/261109/i36.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/tech/amd-confirms-gpu-driver-bug-is-wearing-out-your-ssd-how-to-stop-it/",
+    "title": "AMD confirms GPU driver bug is wearing out your SSD – how to stop it",
+    "description": "AMD has admitted a bug within its External Events Utility is wearing out SSDs, and promises a fix.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-09T18:30:49+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/amd33-2259262667.jpg",
+    "source_name": "ZDNET.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/11/09/apple-releases-ios-26-7-3-watchos-27-2-1-and-more/",
     "title": "Apple releases iOS 26.7.3, watchOS 27.2.1, and more",
     "description": "Today Apple released a variety of software updates with the latest security fixes, including iOS 26.7.3 for iPhone, watchOS 27.2.1 for Apple Watch, and more.\n\n\n\n more…",
@@ -10,6 +69,18 @@
     "pub_date": "2026-11-09T18:26:35+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iOS-26.7-hero.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/nominal-series-c-240m-3b-valuation-hardware-ai",
+    "title": "Nominal raises $240M at $3B, tripling its value since March",
+    "description": "Nominal, whose software helps engineers test and analyse hardware such as aircraft, satellites and robots, has raised $240M in a Series C round at a $3B valuation. Lightspeed Venture Partners led the round and Insight Partners co-led it, Nominal announced on Monday. That is triple its valuation in March. Back then, Nominal raised $80M at",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-09T18:26:02+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/nominal-cofounders-hoch-mccord-strauss-ivy-wall.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://9to5mac.com/2026/11/09/apple-releases-macos-27-2-1-golden-gate-tahoe-26-7-3-and-sequoia-15-8-3/",
@@ -182,11 +253,11 @@
     "source_name": "THENEXTWEB.COM"
   },
   {
-    "link": "https://www.zdnet.com/uncategorized/android-auto-new-requirements-android-11/",
+    "link": "https://www.zdnet.com/tech/android-auto-new-requirements-android-11/",
     "title": "Android Auto requires Android 11 or higher now – check your compatibility",
     "description": "Android Auto’s minimum requirements have changed. Here’s what to know.",
     "categories": [
-      "Tech News"
+      "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-09T17:46:42+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/dsc09984_b07081.jpg",
@@ -867,6 +938,7 @@
     "title": "GTA 6 preload release date: When you can download the game",
     "description": "Starting very, very soon, you can actually download 'Grand Theft Auto VI' to your console of choice.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-09T15:51:40+00:00",
@@ -1246,8 +1318,7 @@
     "title": "This prototype camera is fighting the good fight against AI photography",
     "description": "To push back against an onslaught of deep fakes, this camera embeds cryptographic proof of every photo's origin. Think of it like a silicon fingerprint.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-09T14:45:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/l-intro-1793382637.jpg",
@@ -1269,7 +1340,6 @@
     "title": "9to5Mac Overtime 089: Live Rewind, Siri Recap, and Apple Watch privacy",
     "description": "On this episode of Overtime, we answer your comments on the touchscreen MacBook Pro and the iPad mini’s missing 120Hz display, then dive into the iOS 27.3 beta. Safari adopts adaptive dark mode and vertical tabs, StandBy is redesigned, and the new Health app returns. We also debate Apple Watch’s controversial Siri Recap and Live Rewind features. Is your watch always listening, and should you be worried?\n\n\n\n\nSponsored by Rokform: Get your iPhone 18 Pro and iPhone Duo cases today for 20% off when using code MAC2026.\n\n\n\nSponsored by Memoket: Memoket Gem is an AI wearable that slots beside your Apple Watch. One press captures a conversation, and KITE memory connects it to what you said weeks ago. Save 10% with code LL86MDO6 on Amazon and Memoket’s website.\n\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-09T14:43:58+00:00",
@@ -1611,6 +1681,7 @@
     "title": "Nominal, which builds software to make hardware manufacturing more efficient, raised $240M at a $3B valuation, up from $1B after an $80M Series B in March (Paayal Zaveri/Bloomberg)",
     "description": "Paayal Zaveri / Bloomberg:\nNominal, which builds software to make hardware manufacturing more efficient, raised $240M at a $3B valuation, up from $1B after an $80M Series B in March  —  Nominal Inc., a startup building software to make manufacturing more efficient, has raised $240 million in funding at a $3 billion valuation …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-09T13:25:01+00:00",
@@ -2260,74 +2331,5 @@
     "pub_date": "2026-11-09T10:45:06+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2024/08/samsung-galaxy-ai-phone-2.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/apple-siri-ai-agent",
-    "title": "Apple might turn Siri AI into an agent next year",
-    "description": "Apple's smart assistant Siri will become a lot more like an AI agent next year, according to a new report.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-09T10:40:08+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02iOa5tgwZVnZn3O0oPNaJH/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261109/p11#a261109p11",
-    "title": "Nvidia drops 8%+ after its board opens an investigation into Jensen Huang; the company originally dismissed the interactions as \"nothing unusual or unexpected\" (Demetri Sevastopulo/Financial Times)",
-    "description": "Demetri Sevastopulo / Financial Times:\nNvidia drops 8%+ after its board opens an investigation into Jensen Huang; the company originally dismissed the interactions as “nothing unusual or unexpected”  —  Board of chipmaker opens investigation after chief executive Jensen Huang admits to affair",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-09T10:40:00+00:00",
-    "image_url": "http://www.techmeme.com/261109/i11.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/snl-parody-post-election-ad",
-    "title": "SNLs parody Republican post-election ad is filled with brutal honesty",
-    "description": "Druski and the \"SNL\" cast made a parody post-election ad, playing Republican politicians reflecting on the results.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-09T10:38:22+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/videos/04CH71RJl9yozYbKMXdedPx/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/phones/network-providers/straight-talk-just-dropped-an-unlimited-data-plan-to-usd20-mo-ahead-of-black-friday-a-brand-new-record",
-    "title": "Straight Talk just dropped an unlimited data plan to $20/mo ahead of Black Friday — a brand new record",
-    "description": "If you're looking for a cheap plan (and I mean cheap), consider this seasonal Black Friday promotion from Straight Talk Wireless.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-09T10:35:57+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Rd4LmATo8Jk6GPgnnPXf5M-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/audio/spotify/forgot-to-download-your-spotify-playlists-before-a-flight-not-a-problem-thanks-to-a-new-partnership-with-united-airlines",
-    "title": "Some United Airlines flights now let you sign into Spotify on your flight — and its' totally free",
-    "description": "Spotify's latest partnership with United Airlines means you can listen to your playlists even at 35,000 feet, and it doesn't cost you extra.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-09T10:33:34+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/7TggXPZdjJXLQHLBgxjyai-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
-    "title": "These Robotic Arms Are Powered by Algae. Watch How They Move",
-    "description": "The key to the movement of these flexible robots is the algae’s photosynthetic capabilities.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-09T10:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6aeb82bb5d3f8b6dd9946810/master/pass/Soft-robot-arm_3.jpeg",
-    "source_name": "WIRED.COM"
   }
 ]
