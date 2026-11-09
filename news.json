@@ -1,5 +1,18 @@
 [
   {
+    "link": "https://thenextweb.com/news/ibm-concert-protect-claude-mythos-vulnerability-scanning",
+    "title": "IBM plans to bring Anthropic’s Claude Mythos to enterprise customers",
+    "description": "IBM plans to add Anthropic’s Claude Mythos to Concert Protect so customers can scan their own code for unknown flaws, test which are exploitable and get fixes for developers to approve. It is aiming for early 2027. Mythos itself remains limited to vetted organisations. IBM plans to build Anthropic’s Claude Mythos into its Concert Protect",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-09T20:34:10+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/ibm-office-dubai-internet-city.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/11/09/ios-27-2-1-has-fixes-for-security-issues-in-messages-airplay-and-more/",
     "title": "iOS 27.2.1 has fixes for security issues in Messages, AirPlay, and more",
     "description": "Today Apple released iOS 27.2.1 for iPhone with bug fixes and security updates, alongside a variety of related software updates on other platforms. Here are the security fix details for each update.\n\n\n\n more…",
@@ -2333,16 +2346,5 @@
     "pub_date": "2026-11-09T12:14:40+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-staff-accused-of-signing-up-customers-to-subscriptions-without-consent.jpg?quality=82&strip=all&w=1500",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/memory/tongue-in-cheek-app-writes-to-sam-altman-once-a-day-to-report-the-ram-he-missed-in-your-pc-following-openai-ceos-recent-blunder",
-    "title": "Tongue-in-cheek app emails Sam Altman daily to 'report the RAM he missed'",
-    "description": "'Track total, used and available RAM, plus your standing with the global allocation authorities': new Linux app is a well-observed piece of humor.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-09T12:13:03+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/3TtA2vvEem4PtsZ7rv5Mea-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
