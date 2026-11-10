@@ -1,5 +1,52 @@
 [
   {
+    "link": "https://www.engadget.com/2307756/apple-watch-health-alerts-setup-seniors/",
+    "title": "Every senior with an Apple Watch should set up these 5 health alerts",
+    "description": "Seniors, especially those who live alone, could benefit from a number of Apple Watch health alerts, including medication reminders and fall detection.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-10T01:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/every-senior-with-an-apple-watch-should-set-up-these-5-health-alerts/l-intro-1793800673.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "title": "Anthropic reportedly plans to move forward with IPO plans",
+    "description": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-10T01:27:12+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/amd-says-it-will-outsell-intel-for-the-first-time-in-its-history-as-epyc-and-instinct-sales-soar-on-ai-demand",
+    "title": "AMD says it will outsell Intel for the first time in its history as Epyc and Instinct sales soar on AI demand",
+    "description": "AMD just guided to $17 billion for Q4, even as Intel guided to $15-$16 billion.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-10T01:20:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/5A2HwVjEmXbaujNG5vsPsQ-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.cnet.com/home/electric-vehicles/ford-ev-battery-health-study-5-years-later/",
+    "title": "Ford Just Proved Its EV Battery Health Barely Degrades After 5 Years",
+    "description": "2021 Mustang Mach-E electric SUVs have kept most of their battery and range after thousands of miles on the road.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-10T01:00:33+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/8f7eb139-ead6-4f6a-bb5e-d2637caa886c.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://www.techradar.com/ai-platforms-assistants/i-hate-the-way-they-are-taking-advantage-of-texas-incoming-texas-governor-warns-ai-firms-that-the-data-center-free-for-all-is-over",
     "title": "Incoming Texas Governor tells AI firms the data center free-for-all is over",
     "description": "The Governor-elect in Texas says she wants more public protections against AI data centers.",
@@ -436,7 +483,6 @@
     "title": "The Home Depot Best Early Black Friday Deals (2026)",
     "description": "If you’re looking for a new appliance or vacuum, Home Depot’s sale is one you don’t want to miss.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-09T22:15:00+00:00",
@@ -460,7 +506,6 @@
     "title": "These WIRED-Tested Standing Desks Are Already on Sale for Black Friday",
     "description": "Upgrade your workspace with discounts on WIRED-tested desks from Branch, Vari, FlexiSpot, and Uplift—plus a walking pad to keep things moving.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-09T22:00:00+00:00",
@@ -929,17 +974,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.techradar.com/entertainment/boxing/rivals-fury-vs-joshua-free-documentary",
-    "title": "How to watch Rivals: Fury vs Joshua for free, online and from anywhere",
-    "description": "Here's how to watch documentary Rivals: Fury vs Joshua online from anywhere in the world for FREE, as British boxing's big two prepare for their huge fight.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-09T20:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/bDQphAVMWLVubZrDiaJBcM-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/pro/phone-communications/cubot-kingkong-dura-review-a-cheap-rugged-phone-with-a-trick-up-its-sleeve",
     "title": "CUBOT KingKong Dura rugged phone review",
     "description": "The CUBOT KingKong Dura keeps its weight down while offering longer battery life with a replaceable battery.",
@@ -948,6 +982,17 @@
     ],
     "pub_date": "2026-11-09T20:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/STHpjwU8r6dCrEH6C2ckeH-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/entertainment/boxing/rivals-fury-vs-joshua-free-documentary",
+    "title": "How to watch Rivals: Fury vs Joshua for free, online and from anywhere",
+    "description": "Here's how to watch documentary Rivals: Fury vs Joshua online from anywhere in the world for FREE, as British boxing's big two prepare for their huge fight.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-09T20:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/bDQphAVMWLVubZrDiaJBcM-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -1035,8 +1080,7 @@
     "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
     "description": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-09T19:24:51+00:00",
     "image_url": null,
@@ -1048,7 +1092,6 @@
     "description": "Anthropic has released Claude Fable 5.2 and Claude Mythos 5.2, the company announced on Monday. They are new versions of its most powerful AI models. Both are faster than the 5.1 versions from September, and Fable is cheaper. The launch comes as Anthropic nears its stock market listing, which could happen as soon as this",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-11-09T19:22:39+00:00",
@@ -1071,7 +1114,6 @@
     "title": "The best early black Friday deals that I don’t want you to skip",
     "description": "Black Friday is still a few weeks away, but the early discounts have already started coming in on Amazon. I’ve been looking around for deals on products that I would consider buying myself, and ended up with seven products that caught my attention before the big sale even starts. There’s a bit of everything here,",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-09T19:21:38+00:00",
@@ -1094,7 +1136,6 @@
     "title": "No need to wait until Black Friday — the Nintendo Switch 2 is on sale right now",
     "description": "The Nintendo Switch 2 is on sale for $469 at Woot, slashing $30 off its $499 list price. A Mashable deal expert breaks down why it's worth grabbing now instead of waiting for Black Friday.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-09T19:16:02+00:00",
@@ -1745,17 +1786,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://www.engadget.com/2308678/uber-is-launching-its-own-parking-reservation-service/",
-    "title": "Uber is launching its own parking reservation service",
-    "description": "Uber Parking is built on the company's acquisition of SpotHero.",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-09T17:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/uber-is-launching-its-own-parking-reservation-service/l-intro-1793918077.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
     "link": "https://www.androidcentral.com/phones/honor-phones/why-do-camera-makers-partner-on-phones-i-toured-arri-to-find-out",
     "title": "Why do camera makers partner on phones? I toured ARRI to find out",
     "description": "Why do the world's best camera makers partner with the world's best smartphone makers? I flew to LA to tour ARRI and find out.",
@@ -1776,6 +1806,17 @@
     "pub_date": "2026-11-09T17:00:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/image-3-4.png",
     "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2308678/uber-is-launching-its-own-parking-reservation-service/",
+    "title": "Uber is launching its own parking reservation service",
+    "description": "Uber Parking is built on the company's acquisition of SpotHero.",
+    "categories": [
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-09T17:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/uber-is-launching-its-own-parking-reservation-service/l-intro-1793918077.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis",
@@ -2252,50 +2293,5 @@
     "pub_date": "2026-11-09T15:49:14+00:00",
     "image_url": "https://media.thenextweb.com/2026/11/skyways-skyreach-autonomous-cargo-drone-render.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/live/news/ps5-prism-collection-dualsense-console-covers-pre-orders-stock-live",
-    "title": "PS5 Prism Collection controller and console cover pre-orders build-up — all the best links and info ahead of stock dropping",
-    "description": "Our live coverage of the PS5 Prism Collection controller and console cover pre-orders.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-09T15:47:35+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/cDkNmXap8SVJzeFp72ACh-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2307727/using-oneplus-smartwatches-pros-and-cons/",
-    "title": "The pros and cons of using OnePlus smartwatches",
-    "description": "Thinking about a OnePlus smartwatch before the brand leaves the US? Here are the pros and cons, from battery life and build quality to size and software.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-09T15:45:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-oneplus-smartwatches/l-intro-1793390994.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261109/p28#a261109p28",
-    "title": "Draft law: the EU's Digital Fairness Act would require companies to let adults disable addictive features and will target AI systems that simulate relationships (Bloomberg)",
-    "description": "Bloomberg:\nDraft law: the EU's Digital Fairness Act would require companies to let adults disable addictive features and will target AI systems that simulate relationships  —  Social media platforms face a fresh wave of European Union curbs, this time targeting addictive features and artificial intelligence chatbots.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-09T15:40:00+00:00",
-    "image_url": "http://www.techmeme.com/261109/i28.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
-    "title": "Disney and Adobe are building generative AI tools together",
-    "description": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise line to",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-11-09T15:38:56+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Disney-Adobe-AI-partnership.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
