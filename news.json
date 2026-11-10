@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "title": "OpenAI Acquires Odessia, travel startup created by Sonder founder",
+    "description": "OpenAI has not yet said what its plans are for the future of travel. But \nSonder founder Francis Davidson is a well-known figure in the travel industry.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-11-10T21:08:52+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
+    "title": "Sony cancels live-service shooter Fairgames",
+    "description": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, including in the God of War and The Last of Us franchises, and it shut down",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-11-10T21:06:12+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK097_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.engadget.com/2307790/what-is-dead-internet-theory/",
     "title": "What is the 'Dead Internet Theory' and should humanity be worried?",
     "description": "As AI-generated content takes over the internet, will human beings still be able to connect online with other humans in a meaningful way?",
@@ -110,8 +135,8 @@
   },
   {
     "link": "https://www.techmeme.com/261110/p49#a261110p49",
-    "title": "Graphon, which wants to resolve AI agent memory limitations by mapping connections across documents, videos, and images, raised a $35M Series A (Shubhangi Goel/Business Insider)",
-    "description": "Shubhangi Goel / Business Insider:\nGraphon, which wants to resolve AI agent memory limitations by mapping connections across documents, videos, and images, raised a $35M Series A  —  AI agents can write code, search databases, and carry out multistep tasks.  But they can still lose track of past conversations and struggle …",
+    "title": "Graphon, which wants to resolve AI agent memory limitations by mapping connections across docs, videos, and images, raised a $35M Series A led by RRE Ventures (Shubhangi Goel/Business Insider)",
+    "description": "Shubhangi Goel / Business Insider:\nGraphon, which wants to resolve AI agent memory limitations by mapping connections across docs, videos, and images, raised a $35M Series A led by RRE Ventures  —  AI agents can write code, search databases, and carry out multistep tasks.  But they can still lose track of past conversations …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -249,8 +274,8 @@
   },
   {
     "link": "https://www.techmeme.com/261110/p46#a261110p46",
-    "title": "Clara, which sells corporate spend management tools in Latin America, raised $105M, including a $65M Series C and $40M in renewed growth financing (Maria Clara Cobo/Bloomberg)",
-    "description": "Maria Clara Cobo / Bloomberg:\nClara, which sells corporate spend management tools in Latin America, raised $105M, including a $65M Series C and $40M in renewed growth financing  —  Clara, a São Paulo-based corporate spending management startup, raised $105 million to expand its sales and engineering teams …",
+    "title": "São Paulo-based Clara, which sells corporate spend management tools in Latin America, raised $105M, as a $65M Series C and $40M in renewed growth financing (Maria Clara Cobo/Bloomberg)",
+    "description": "Maria Clara Cobo / Bloomberg:\nSão Paulo-based Clara, which sells corporate spend management tools in Latin America, raised $105M, as a $65M Series C and $40M in renewed growth financing  —  Clara, a São Paulo-based corporate spending management startup, raised $105 million to expand its sales and engineering teams …",
     "categories": [
       "Tech News"
     ],
@@ -400,8 +425,8 @@
   },
   {
     "link": "https://www.techmeme.com/261110/p43#a261110p43",
-    "title": "Nvidia hires law firm Wachtell Lipton to investigate Jensen Huang's affair with an alleged Chinese spy, to be led by former acting US attorney Joon H. Kim (New York Times)",
-    "description": "New York Times:\nNvidia hires law firm Wachtell Lipton to investigate Jensen Huang's affair with an alleged Chinese spy, to be led by former acting US attorney Joon H. Kim  —  Wachtell partner Joon H. Kim, a former acting U.S. attorney, is leading the inquiry into the chip maker's chief executive.",
+    "title": "Nvidia hires law firm Wachtell Lipton to probe Jensen Huang's affair with an alleged spy; sources: the probe will be led by ex-acting US attorney Joon H. Kim (New York Times)",
+    "description": "New York Times:\nNvidia hires law firm Wachtell Lipton to probe Jensen Huang's affair with an alleged spy; sources: the probe will be led by ex-acting US attorney Joon H. Kim  —  Wachtell partner Joon H. Kim, a former acting U.S. attorney, is leading the inquiry into the chip maker's chief executive.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -913,8 +938,8 @@
   },
   {
     "link": "https://www.techmeme.com/261110/p37#a261110p37",
-    "title": "Oura agrees to acquire AI and on-demand doctor service Counsel Health for $625M, says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% to $1.75B (Mark Gurman/Bloomberg)",
-    "description": "Mark Gurman / Bloomberg:\nOura agrees to acquire AI and on-demand doctor service Counsel Health for $625M, says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% to $1.75B  —  Oura Inc. agreed to acquire artificial intelligence and on-demand doctor service Counsel Health Inc. for $625 million …",
+    "title": "Oura agrees to acquire AI and on-demand doctor tool Counsel Health for $625M, and says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% to ~$1.75B (Mark Gurman/Bloomberg)",
+    "description": "Mark Gurman / Bloomberg:\nOura agrees to acquire AI and on-demand doctor tool Counsel Health for $625M, and says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% to ~$1.75B  —  Oura Inc. agreed to acquire artificial intelligence and on-demand doctor service Counsel Health Inc. for $625 million …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -1380,7 +1405,6 @@
     "title": "1 in 7 Brits fear AI agents could get them into legal trouble",
     "description": "Brits really don't trust AI agents to act on their behalf, and are less likely to use a business that deploys AI agents.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-10T17:07:08+00:00",
@@ -2265,8 +2289,7 @@
     "title": "Google Gemini's Memory summary allows users to edit or delete stored personal details",
     "description": "Memory summary is a snapshot view of what Gemini remembers about you from your conversations.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-10T15:12:12+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/F8wFerTnYBWmBSxZb5wcn6-1920-80.jpg",
@@ -2339,28 +2362,5 @@
     "pub_date": "2026-11-10T15:00:00+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2232888199.jpg",
     "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
-    "title": "Reddit is turning user conversations into AI-powered product reviews",
-    "description": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays.",
-    "categories": [
-      "Breaking News",
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-10T15:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
-    "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
-    "description": "Kunal Shah said the company wants to make voice notes, groups, stickers, and video \"simpler and more expressive.\"",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-10T15:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
