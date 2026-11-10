@@ -1,5 +1,52 @@
 [
   {
+    "link": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
+    "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+    "description": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-10T15:45:27+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2307770/why-phone-switches-wifi-to-mobile-data/",
+    "title": "Why does your phone keep switching between Wi-Fi and mobile data?",
+    "description": "Your phone switches to mobile data to keep you connected, but it can drain your data plan. Learn what causes it and how to stop it on iPhone and Android.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-10T15:45:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/why-does-your-phone-keep-switching-between-wi-fi-and-mobile-data/l-intro-1793641246.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/gaming/gta-6-will-be-playable-on-xbox-one-and-lands-support-for-xbox-cloud-gaming/",
+    "title": "GTA 6 will be playable on Xbox One, and lands support for Xbox Cloud gaming",
+    "description": "Rockstar has confirmed that in addition to the current-gen Xbox Series X and S consoles, you can also play the game through cloud streaming on previous-generation Xbox One consoles.",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-11-10T15:41:47+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/09/GTA-Topic-Thumb-5x3-2.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/seagate-firecuda-forge-review",
+    "title": "Seagate FireCuda Forge external HDD review",
+    "description": "The Seagate FireCuda Forge is a hybrid drive that utilises a large-capacity 20TB HDD to store files and an SSD to enable fast access. Once set up, the two drives act as one, delivering SSD performance and HDD capacity in a box that looks and feels like a standard external desktop hard drive.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-10T15:36:26+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/cgh2BVkDhta2zaws5cXpTK-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
     "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
     "description": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
@@ -214,17 +261,6 @@
     "source_name": "ZDNET.COM"
   },
   {
-    "link": "https://www.techradar.com/gaming/designed-for-unmatched-versatility-secretlabs-ergoarch-monitor-light-bar-is-a-new-desk-light-featuring-a-versatile-3-point-adjustment-arm-that-fits-into-any-setup",
-    "title": "'Designed for unmatched versatility' — Secretlab's ErgoArch Monitor Light Bar is a new desk light featuring a versatile 3-point adjustment arm that 'fits into any setup'",
-    "description": "Secretlab has announced the ErgoArch Monitor Light Bar Add-On, a new ergonomic, elevated overhead desk light \"designed for unmatched versatility.\"",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-10T15:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/eVAtqvfUG9Z4PCg7EfvcCN-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/audio/earbuds-airpods/its-not-all-about-wired-hedphones-in-2026-two-new-pairs-of-wireless-iems-launch-with-multiple-drivers-bespoke-audio-and-eye-watering-price-tags",
     "title": "These new wireless earbuds prove that wired tech isn't the be-all, and they come with some incredibly premium specs",
     "description": "Breggz and Noble have both released premium in-ear wireless buds on the same day, proving it's not all about wired.",
@@ -245,6 +281,17 @@
     ],
     "pub_date": "2026-11-10T15:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/2MB9Sg8mRQRFsAQXqBHR98-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/designed-for-unmatched-versatility-secretlabs-ergoarch-monitor-light-bar-is-a-new-desk-light-featuring-a-versatile-3-point-adjustment-arm-that-fits-into-any-setup",
+    "title": "'Designed for unmatched versatility' — Secretlab's ErgoArch Monitor Light Bar is a new desk light featuring a versatile 3-point adjustment arm that 'fits into any setup'",
+    "description": "Secretlab has announced the ErgoArch Monitor Light Bar Add-On, a new ergonomic, elevated overhead desk light \"designed for unmatched versatility.\"",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-11-10T15:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/eVAtqvfUG9Z4PCg7EfvcCN-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -713,19 +760,6 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
-    "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
-    "description": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-10T14:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/pass/gear_ai_operating_system_nerdy.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/",
     "title": "4DX Movies Are Entering Their Thirsty Romance Era",
     "description": "From Heated Rivalry to Wicker, the movie format that embraces thrusting chairs and splashing the crowd is catering to those who want a horny communal theatergoing experience.",
@@ -745,6 +779,19 @@
     ],
     "pub_date": "2026-11-10T14:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+    "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+    "description": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-10T14:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/pass/gear_ai_operating_system_nerdy.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -1439,7 +1486,6 @@
     "title": "Will Ferrell returns as Buddy the Elf to heckle Jimmy Kimmel interview",
     "description": "Will Ferrell appeared as Buddy the Elf on \"Jimmy Kimmel Live\" to heckle Andy Richter.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-10T11:42:45+00:00",
@@ -1451,7 +1497,6 @@
     "title": "Anthropic launches its IPO roadshow, saying the company and shareholders plan to sell 825M Class A shares at $70 to $78 each, listing on the Nasdaq under ANT (Anthropic)",
     "description": "Anthropic:\nAnthropic launches its IPO roadshow, saying the company and shareholders plan to sell 825M Class A shares at $70 to $78 each, listing on the Nasdaq under ANT  —  Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-10T11:40:01+00:00",
@@ -1624,6 +1669,7 @@
     "title": "Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance",
     "description": "Seagate announced a new external storage solution, called the FireCuda Forge, that combines the speed benefits of an SSD with the affordability of a higher-capacity hard drive. The Forge is the first drive that's powered by the company's new Alkemi intelligent storage platform, which learns how your data is used and relocates the files you're",
     "categories": [
+      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-10T11:01:00+00:00",
@@ -2279,50 +2325,5 @@
     "pub_date": "2026-11-10T06:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/07HIiiLCKr0nZf0SK07qHoM/hero-image.png",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/hr-block-coupon/",
-    "title": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
-    "description": "Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-10T06:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/braun-promo-code/",
-    "title": "Braun Promo Codes: 15% Off November 2026",
-    "description": "Unlock exclusive savings on Braun IPL, shavers, and grooming products. Find verified Braun promo codes and expert tips to maximize your discounts.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-10T06:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/meta-launches-muse-ember-a-cheaper-ai-model-built-for-repetitive-tasks/",
-    "title": "Meta launches Muse Ember, a cheaper AI model built for repetitive tasks",
-    "description": "Meta’s new Muse Ember is its smallest and cheapest AI model yet, built for the repetitive jobs AI agents do all day. It beats Claude Haiku 5.5 on several tests for a fraction of the cost.",
-    "categories": [
-      "AI & Machine Learning",
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-10T05:52:34+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/meta-logo.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261110/p1#a261110p1",
-    "title": "The White House picks Palantir CISO Michael LoSapio to lead the DHS' Cybersecurity and Infrastructure Security Agency, replacing Acting Director Nick Andersen (Reuters)",
-    "description": "Reuters:\nThe White House picks Palantir CISO Michael LoSapio to lead the DHS' Cybersecurity and Infrastructure Security Agency, replacing Acting Director Nick Andersen  —  The White House said on Monday it has nominated Michael LoSapio to be the director of the US Department of Homeland Security's Cybersecurity …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-10T05:40:02+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
-    "source_name": "TECHMEME.COM"
   }
 ]
