@@ -1,5 +1,90 @@
 [
   {
+    "link": "https://www.digitaltrends.com/computing/google-gemini-4-carbon-is-now-available-for-complex-ai-tasks/",
+    "title": "Google’s Gemini 4 Carbon is now available, and it’s built for your toughest tasks",
+    "description": "Google’s Gemini 4 Carbon is now available to developers, businesses, and Ultra subscribers, bringing stronger coding, research, and security skills at the same price as Argon.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-10T17:41:28+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Gemini-carbon-feature.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/partner-content/it-searches-fell-73-on-signalhire-ais-role-remains-unclear/",
+    "title": "IT searches fell 73% on SignalHire. AI’s role remains unclear",
+    "description": "IT searches fell 73% on SignalHire. AI’s role remains unclear  A sharp drop in search activity raises questions about tech hiring, but the figures cannot explain who is losing work.  IT searches on SignalHire fell 73.05% in the first half of 2026 compared with the same period in 2025. The category dropped from second to",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-10T17:39:45+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/real_c7b9fc26-bf67-41a6-b6e8-a157f4724fa1.jpeg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261110/p35#a261110p35",
+    "title": "Anthropic unveils office tools, including a video call assistant, a data dashboard, and spreadsheet service Claude Sheets, in a bid to compete with Microsoft (Shirin Ghaffary/Bloomberg)",
+    "description": "Shirin Ghaffary / Bloomberg:\nAnthropic unveils office tools, including a video call assistant, a data dashboard, and spreadsheet service Claude Sheets, in a bid to compete with Microsoft  —  Anthropic PBC is releasing a suite of tools that weave the company's artificial intelligence capabilities into more everyday office work …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-10T17:35:00+00:00",
+    "image_url": "http://www.techmeme.com/261110/i35.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/anthropic-claude-sheets-office-tools-microsoft-google",
+    "title": "Anthropic adds Claude Sheets and a call assistant, taking on its backers",
+    "description": "Anthropic is adding Claude Sheets, a video call assistant and a data dashboard tool to Claude, many in beta for paid users, Bloomberg reported. The tools compete with backers Microsoft and Google. Adobe, Atlassian and HubSpot can also put their apps inside Claude. Anthropic is adding a spreadsheet, a video call assistant and other office",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-10T17:35:00+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/anthropic-sign-office-building-entrance.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/home-theater/apple-tv-just-landed-a-new-sign-language-interpretation-feature-and-its-a-huge-accessibility-win/",
+    "title": "Apple TV gets Sign Language interpretation, and it’s a huge accessibility win",
+    "description": "Each interpretation has been designed and tested by Deaf and native signers, and is tailored to the film it accompanies.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-10T17:33:39+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/apple-tv-sign-language.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/oura-counsel-health-625m-acquisition-ai-doctors",
+    "title": "Oura buys Counsel Health for $625m to put AI and doctors in its app",
+    "description": "Oura is buying Counsel Health, an AI-native primary care company, for $625m in cash. The deal puts Counsel’s medical AI and its doctors inside the Oura app, Oura said on Tuesday. Ring wearers will go from a health insight to a chat with an AI, then to a physician. Oura expects to close the deal",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-11-10T17:33:34+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/oura-ring-5-praying-mantis-green-leaf.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/adobe-wants-you-to-spend-less-time-editing-and-more-time-creating-creative-cloud-opens-its-doors-to-third-party-ai-agents",
+    "title": "Adobe wants you to spend less time editing and more time creating – Creative Cloud opens its doors to third-party AI agents",
+    "description": "Adobe wants you to embrace using your favorite AI agent to handle administrative editing so that you can create more.",
+    "categories": [
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-10T17:32:43+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/a8nVCpfQDgYqZXfgXAgrBf-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
     "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
     "description": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
@@ -40,8 +125,8 @@
     "title": "Claude can now join your weekly meeting to take notes and even start work for you — and that's not all, with new spreadsheet, whiteboard tools and more helping conquer the world of \"Frontier Work\"",
     "description": "Claude can now join video calls, build spreadsheets and much more.",
     "categories": [
-      "Breaking News",
-      "Tech News"
+      "AI & Machine Learning",
+      "Breaking News"
     ],
     "pub_date": "2026-11-10T17:30:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/2Sd7mUTzDJCLhC7Fp8JsiN-1920-80.png",
@@ -60,6 +145,20 @@
     "source_name": "TECHRADAR.COM"
   },
   {
+    "link": "https://thenextweb.com/news/reddit-reviews-ai-product-summaries-no-cut-tnw",
+    "title": "Reddit Reviews uses AI to summarise what users say about 10,000 products",
+    "description": "Reddit is turning what its users say about products into AI-made reviews. It says it will not take a cut when people buy through them. Reddit Reviews started testing on Tuesday and summarises talk about around 10,000 products, the company said in a blog post. “Reddit Reviews is an organic experience, and Reddit does not",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-10T17:25:03+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/reddit-reviews-review-page-headphones-iphone.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/security/new-bluephishing-scam-sees-criminals-spoof-ai-agents-to-get-access-to-corporate-environments",
     "title": "New 'BluePhishing' scam sees criminals spoof AI agents to get access to corporate environments",
     "description": "Be careful which agents you approve - some are malicious and can bring their friends, too.",
@@ -70,6 +169,18 @@
     "pub_date": "2026-11-10T17:25:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/MZeWJhJjT34M4nQvMMX7fg-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/zacua-ventures-135m-fund-ii-construction-tech",
+    "title": "Zacua Ventures closes $135M fund for construction and infrastructure tech",
+    "description": "San Francisco-based Zacua Ventures has closed its second fund at $135m, more than doubling the $56m it raised for its first vehicle in 2024. Zacua invests in early-stage start-ups developing technology for what it calls the physical industries. While construction remains a core focus, the new fund will also target companies working in energy, mining,",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-10T17:24:41+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/Zacua-Ventures-founding-partners.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://www.techradar.com/home/home-security/wyze-just-launched-a-smart-lock-that-you-can-install-in-moments-with-a-philips-screwdriver-plus-a-solar-security-camera-that-stays-charged-on-an-hour-of-sunlight-per-day-and-theyre-both-surprisingly-cheap",
@@ -1581,7 +1692,6 @@
     "title": "BT won't launch Starlink deal until people forget about Ukraine",
     "description": "The UK's largest telecom company is courageously waiting for people to forget about Musk before launching its tie-up with Starlink.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-10T14:01:44+00:00",
@@ -1986,7 +2096,6 @@
     "title": "Apple Maps could soon factor in how long it takes you to park",
     "description": "On some journeys in busy cities, it feels like it can take you longer to park than it does to drive there in the first place. Code spotted in iOS 27.3 suggests that Apple Maps may soon factor in parking time when it provides journey ETAs.\n\n\n\nSeparately, Waze has partnered with Garmin to help improve the safety of cyclists by using real-time location tracking to alert nearby drivers … \n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-10T13:32:12+00:00",
@@ -2266,110 +2375,6 @@
     ],
     "pub_date": "2026-11-10T12:39:23+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Google-DeepMind-analysis-proves-Signal-and-WhatsApp-encryption-is-secure.webp?w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/gpu/microsoft-patent-points-to-a-future-where-your-spare-gpu-resources-could-be-used-to-train-ai-but-windows-11-users-would-need-a-lot-of-convincing",
-    "title": "Microsoft patents tech to use your spare GPU resources for training its AI",
-    "description": "Want to help Microsoft train Copilot? Patent outlines a scheme to use your PC's spare GPU resources for honing AI, but I doubt this will fly for so many reasons.",
-    "categories": [
-      "Breaking News",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-10T12:31:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/7EpEu8Xo2XadaegiM5zG6U-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261110/p16#a261110p16",
-    "title": "Sources: Microsoft is among a group of companies lobbying the Trump administration to halt the FCC's plan to ban imports of Chinese optical transceivers (Alexandra Alper/Reuters)",
-    "description": "Alexandra Alper / Reuters:\nSources: Microsoft is among a group of companies lobbying the Trump administration to halt the FCC's plan to ban imports of Chinese optical transceivers  —  Microsoft (MSFT.O) has been pressing the Trump administration to halt plans to bar Chinese imports of a key component used in AI data centers …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-10T12:25:01+00:00",
-    "image_url": "http://www.techmeme.com/261110/i16.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/phones/the-iphone-air-2-could-finally-get-the-camera-upgrade-it-desperately-needed/",
-    "title": "The iPhone Air 2 could finally get the camera upgrade it desperately needed",
-    "description": "Alleged dummy units of Apple's upcoming iPhone Air 2 and iPhone 18 offer an early glimpse at their designs, including a second rear camera for the Air and a familiar camera arrangement for the standard model.",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-10T12:18:01+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/iPhone-Air-2-and-iPhone-18-Dummy-Leak.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.zdnet.com/tech/can-you-still-trust-proton/",
-    "title": "Can you still trust Proton?",
-    "description": "The Swiss software company has built its reputation on a commitment to privacy. Did its CEO just destroy the trust of its customer base?",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-11-10T12:17:11+00:00",
-    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2271478863.jpg",
-    "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
-    "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
-    "description": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-10T12:15:32+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Fiber-optic-drone-cable-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261110/p15#a261110p15",
-    "title": "Filing: Anthropic's IPO could give it an up to $1.405T valuation on a fully diluted basis, up from the $965B valuation during its $65B Series H announced in May (CNBC)",
-    "description": "CNBC:\nFiling: Anthropic's IPO could give it an up to $1.405T valuation on a fully diluted basis, up from the $965B valuation during its $65B Series H announced in May  —  Anthropic said it will offer 825 million shares in its upcoming IPO at a price range between $70 to $78 per share …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-10T12:07:31+00:00",
-    "image_url": "http://www.techmeme.com/261110/i15.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
-    "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
-    "description": "Per usual, the basic MacBook Pro lags behind the flagships where it counts.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-10T12:00:21+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9768-1152x648-1794321189.jpeg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/the-grindr-1-percent-is-getting-its-own-gated-community/",
-    "title": "The Grindr 1 Percent Is Getting Its Own Gated Community",
-    "description": "The gay hookup app’s premium tier Edge rolls out this month. Grindr will limit membership numbers to “preserve exclusivity.”",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-10T12:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6af25cdd5a9cd51895c4c0b7/master/pass/Grindr-1-Percent-Getting-Their-Own-Gated-Community-Culture-2281609113.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/10/instagram-effect-builder-lets-you-create-images-with-an-ai-prompt/",
-    "title": "Instagram Effect Builder lets you create images with an AI prompt",
-    "description": "Instagram launched an Edits app for iPhone back in 2025, with a Mac version introduced just a few days ago. Meta has now supplemented this with an AI-powered Instagram Effect Builder, letting users create imagery for Stories simply by describing what they want to see … \n\n\n\n more…",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-10T11:56:53+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Instagram-Effect-Builder-lets-you-create-images-with-an-AI-prompt.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
   }
 ]
