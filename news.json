@@ -1,5 +1,62 @@
 [
   {
+    "link": "https://www.techmeme.com/261110/p9#a261110p9",
+    "title": "Anthropic's Fable 5.2 represents \"Jagged AGI\" that matches human expert levels on select tasks like game design, but lacks self-directed judgment and taste (Ethan Mollick/One Useful Thing)",
+    "description": "Ethan Mollick / One Useful Thing:\nAnthropic's Fable 5.2 represents “Jagged AGI” that matches human expert levels on select tasks like game design, but lacks self-directed judgment and taste  —  General, often expert, and sometimes jagged … I have had the chance to use the new Claude Fable 5.2 quite a bit …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-10T11:10:02+00:00",
+    "image_url": "http://www.techmeme.com/261110/i9.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/home/small-appliances/i-fell-in-love-with-ninjas-genius-belgian-waffle-maker-and-now-i-have-a-serious-out-of-control-waffle-problem",
+    "title": "I love Ninja’s clever Belgian Waffle Maker, but it’s ruined my self-control",
+    "description": "The mess-free design makes preparing delicious desserts almost too easy, and I've developed a serious waffle problem.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-10T11:10:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/SojqVFyRkb4pBG5tMX3BiF-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/ai-made-coding-faster-it-didnt-make-software-simpler",
+    "title": "AI made coding faster. It didn’t make software simpler",
+    "description": "For years, the software industry operated under one core assumption: writing code was the primary bottleneck in software development.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-10T11:09:24+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ywSwn3oGxXv4PfcRPZmTrc-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/france-accuses-iran-of-supermarket-freezer-hacking-slams-the-first-cyber-offensive-campaign-carried-out-purely-for-the-purpose-of-sabotage-on-national-territory",
+    "title": "France accuses Iran of 'unprecedented' supermarket freezer hacking",
+    "description": "France calls attack 'an unprecedented campaign in terms of its scale and level of aggressiveness'",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-10T11:01:22+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/KpW9KtZSnVQtmgnPExTXED-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1029665/seagate-firecuda-forge-hybrid-ssd-hard-drive-storage-alkemi-technology",
+    "title": "Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance",
+    "description": "Seagate announced a new external storage solution, called the FireCuda Forge, that combines the speed benefits of an SSD with the affordability of a higher-capacity hard drive. The Forge is the first drive that's powered by the company's new Alkemi intelligent storage platform, which learns how your data is used and relocates the files you're",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-10T11:01:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/seagate1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.theverge.com/transportation/1029837/real-motors-project-ares-electric-motorcycle-first-ride",
     "title": "Real Motors’ Project Ares is a cyberpunk fantasy made real",
     "description": "Electrification has done wonderful things for motorcycle design. By getting rid of the engine and the fuel tank that supports it, designers have the freedom to do whatever they want, and the results have been occasionally brilliant. I'm a big fan of the vaguely retrofuturistic stylings of the Maeving RM2 and the quirky minimalism of",
@@ -10,6 +67,44 @@
     "pub_date": "2026-11-10T11:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2026-Real-Motors-Project-Ares-009.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+    "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
+    "description": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-10T11:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aea5020a9094bad7a4244a9/master/pass/ai_security_abliterators.gif",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+    "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+    "description": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-10T11:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6aea57e57882d392b9ef6dd3/master/pass/Ai-threat-level-main.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/siemens-acquires-lauterbach-trace32-eda",
+    "title": "Siemens to buy chip debugging specialist Lauterbach to grow its EDA unit",
+    "description": "Siemens has agreed to buy Lauterbach, a German company that makes tools for finding and fixing bugs in chips and the software that runs on them, but the price was not disclosed. Founded in 1979 by brothers Lothar and Stephan Lauterbach, the company is based in Höhenkirchen, near Munich. It employs about 170 people and",
+    "categories": [
+      "Business & Startups"
+    ],
+    "pub_date": "2026-11-10T10:56:51+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/three-white-trace32-debug-probes-ribbon-cables.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://www.techmeme.com/261110/p8#a261110p8",
@@ -515,6 +610,17 @@
     "source_name": "WIRED.COM"
   },
   {
+    "link": "https://www.wired.com/story/sams-club-coupon/",
+    "title": "Sam's Club Promo Codes and Membership Deals for November 2026",
+    "description": "Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-10T06:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.wired.com/story/office-depot-promo-codes/",
     "title": "Office Depot Coupons: $20 Off November 2026",
     "description": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
@@ -534,28 +640,6 @@
     ],
     "pub_date": "2026-11-10T06:00:00+00:00",
     "image_url": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/sams-club-coupon/",
-    "title": "Sam's Club Promo Codes and Membership Deals for November 2026",
-    "description": "Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-10T06:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
-    "title": "Dyson Promo Codes: 25% Off in November 2026",
-    "description": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-10T06:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
     "source_name": "WIRED.COM"
   },
   {
@@ -603,17 +687,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.wired.com/story/hr-block-coupon/",
-    "title": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
-    "description": "Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-10T06:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.techradar.com/pro/security/most-brits-dont-think-their-bank-is-doing-a-good-job-at-stopping-fraud",
     "title": "Most Brits don't think their bank is doing a good job at stopping fraud",
     "description": "Brits feel banks could be doing better at deepfake detection and fraud prevention, but they still want convenience.",
@@ -634,6 +707,28 @@
     "pub_date": "2026-11-10T06:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/07HIiiLCKr0nZf0SK07qHoM/hero-image.png",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+    "title": "Dyson Promo Codes: 25% Off in November 2026",
+    "description": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-10T06:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/hr-block-coupon/",
+    "title": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
+    "description": "Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-10T06:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
+    "source_name": "WIRED.COM"
   },
   {
     "link": "https://www.wired.com/story/breville-promo-code/",
@@ -2163,94 +2258,5 @@
     "pub_date": "2026-11-09T19:22:39+00:00",
     "image_url": "https://media.thenextweb.com/2026/11/claude-fable-mythos-5-2-announcement-graphic.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-    "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-    "description": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-11-09T19:21:46+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/home-theater/best-early-black-friday-tech-deals-2026/",
-    "title": "The best early black Friday deals that I don’t want you to skip",
-    "description": "Black Friday is still a few weeks away, but the early discounts have already started coming in on Amazon. I’ve been looking around for deals on products that I would consider buying myself, and ended up with seven products that caught my attention before the big sale even starts. There’s a bit of everything here,",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-09T19:21:38+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/early-black-friday-deals-november-9-1.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
-    "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
-    "description": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-11-09T19:19:24+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261109/p39#a261109p39",
-    "title": "Anthropic says during prerelease testing Mythos 5.2 and Fable 5.2 formalized the proof of Fermat's Last Theorem and solved two open black hole physics problems (Jay Peters/The Verge)",
-    "description": "Jay Peters / The Verge:\nAnthropic says during prerelease testing Mythos 5.2 and Fable 5.2 formalized the proof of Fermat's Last Theorem and solved two open black hole physics problems  —  Claude Fable 5.2 is designed to take on big technical challenges, and it's available today.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-09T19:15:01+00:00",
-    "image_url": "http://www.techmeme.com/261109/i39.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-    "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-    "description": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-09T19:09:58+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://gizmodo.com/france-blames-iran-for-cyberattacks-that-sabotaged-700-grocery-stores-2000837163",
-    "title": "France Blames Iran for Cyberattacks That Sabotaged 700 Grocery Stores",
-    "description": "No one takes kindly to their frozen goods going bad.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-09T19:09:06+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2024/09/Best-VPN-for-Iran-1024x683.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/09/pelicans-magsafe-wallet-is-for-the-people-who-still-carry-cash/",
-    "title": "MagSafe Monday: Pelican’s MagSafe wallet is built for the people who still carry cash",
-    "description": "I’ve been on a Pelican kick this fall. It started with the Pelican MagSafe Wallet, then the Pelican MagSafe Battery Pack, and the reason is pretty simple: once the weather turns cool, I want iPhone accessories built for the outdoors because I am outside more. The Pelican Protector Magnetic Money Clip Wallet is really helpful is you want something rugged, but also supports holding cash.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-09T19:09:00+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Pelican-Money-Clip.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
-    "title": "Pentagon mulls placing fleet of military satellites around the Moon",
-    "description": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-09T19:08:37+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/55199774765_6e77d97b51_o-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
