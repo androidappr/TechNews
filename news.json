@@ -1,5 +1,52 @@
 [
   {
+    "link": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+    "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+    "description": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to deliver AI-generated responses and insights based on users' health data reported from their",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-10T21:40:31+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0104.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261110/p53#a261110p53",
+    "title": "CoreWeave reports Q3 revenue up 168% YoY to $3.66B, vs. $3.55B est., a net loss of $709M, and a $132.5B revenue backlog, up from $104B as of June (Jordan Novet/CNBC)",
+    "description": "Jordan Novet / CNBC:\nCoreWeave reports Q3 revenue up 168% YoY to $3.66B, vs. $3.55B est., a net loss of $709M, and a $132.5B revenue backlog, up from $104B as of June  —  CoreWeave reported better-than-expected quarterly revenue and lifted its 2026 guidance on Tuesday, showing that demand for artificial intelligence …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-10T21:40:01+00:00",
+    "image_url": "http://www.techmeme.com/261110/i53.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261110/p52#a261110p52",
+    "title": "Sources: the US Commerce Dept. delayed new Entity List additions for two months, leaving off Megaspeed despite four other US agencies pushing for its inclusion (Financial Times)",
+    "description": "Financial Times:\nSources: the US Commerce Dept. delayed new Entity List additions for two months, leaving off Megaspeed despite four other US agencies pushing for its inclusion  —  Company connected to alleged Chinese spy who had affair with Nvidia chief Jensen Huang was left off ‘entity list’",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-10T21:35:07+00:00",
+    "image_url": "http://www.techmeme.com/261110/i52.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/10/apple-to-investigate-accident-that-killed-three-workers-at-iphone-parts-factory-in-india/",
+    "title": "Apple to investigate accident that killed three workers at iPhone parts factory in India",
+    "description": "Reuters reports that three contract workers died after inhaling gas during an inspection at a Tata Electronics factory that produces iPhone components in India. Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-10T21:34:43+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2023/03/apple-india.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261110/p51#a261110p51",
     "title": "Source: OpenAI told investors on Tuesday that its revenue jumped 50% to around $10B in Q3, up from 17% growth in Q2 (The Information)",
     "description": "The Information:\nSource: OpenAI told investors on Tuesday that its revenue jumped 50% to around $10B in Q3, up from 17% growth in Q2  —  OpenAI has told investors that revenue jumped nearly 50% to $10 billion in the third quarter, rebounding from a period of slower growth as demand for its more recent models …",
@@ -24,8 +71,8 @@
   },
   {
     "link": "https://www.cnet.com/tech/dot-eat-dot-fly-dot-here-new-domains/",
-    "title": "Dot-eat? Google Introduces 3 More Top-Level Domain Names",
-    "description": "Prospective website owners can now register domains ending in .eat, .fly and .here.",
+    "title": "Google Introduces 3 More Top-Level Domain Names, Including .Eat and .Fly",
+    "description": "Prospective website owners can now register domains geared toward food, travel and local bands.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -36,8 +83,8 @@
   },
   {
     "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-    "title": "OpenAI Acquires Odessia, travel startup created by Sonder founder",
-    "description": "OpenAI has not yet said what its plans are for the future of travel. But \nSonder founder Francis Davidson is a well-known figure in the travel industry.",
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "description": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -173,7 +220,6 @@
     "title": "GTA 6 will technically be playable on Xbox One at launch",
     "description": "Rockstar confirmed that GTA 6 will be available via Xbox Cloud Gaming at launch, meaning you can actually play it on an Xbox One.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-10T20:26:55+00:00",
@@ -1069,7 +1115,6 @@
     "title": "Ableton Live 13 announced with a step sequencer, new drum synth, and more",
     "description": "Today, Ableton announced Live 13, which is expected to arrive in early 2027 with a slew of new features. Most of the changes are seemingly minor on paper, but when combined, they make for the biggest update to the digital audio workstation (DAW) in years. The feature most likely to draw attention is the addition",
     "categories": [
-      "Breaking News",
       "Software & Apps"
     ],
     "pub_date": "2026-11-10T17:43:49+00:00",
@@ -1105,7 +1150,6 @@
     "title": "IT searches fell 73% on SignalHire. AI’s role remains unclear",
     "description": "IT searches fell 73% on SignalHire. AI’s role remains unclear  A sharp drop in search activity raises questions about tech hiring, but the figures cannot explain who is losing work.  IT searches on SignalHire fell 73.05% in the first half of 2026 compared with the same period in 2025. The category dropped from second to",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-10T17:39:45+00:00",
@@ -1117,7 +1161,6 @@
     "title": "Polestar is banned in the US, but we still want its latest concept car",
     "description": "The Formula 2030 has inflatable seats, a pop-up LiDAR sensor and physical buttons.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-10T17:38:43+00:00",
@@ -1498,7 +1541,6 @@
     "title": "Adobe and Google have teamed up to connect Drive, Gmail and Acrobat",
     "description": "Some Adobe tools will end up in Google Search's AI mode, as well.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-10T17:02:46+00:00",
@@ -2217,7 +2259,6 @@
     "title": "GTA 6 will be playable on Xbox One, and lands support for Xbox Cloud gaming",
     "description": "Rockstar has confirmed that in addition to the current-gen Xbox Series X and S consoles, you can also play the game through cloud streaming on previous-generation Xbox One consoles.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-11-10T15:41:47+00:00",
@@ -2316,52 +2357,6 @@
     ],
     "pub_date": "2026-11-10T15:15:38+00:00",
     "image_url": "https://media.thenextweb.com/2026/11/hand-tote-bag-ai-task-list-approve-run.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/phones/samsung-galaxy/samsungs-rambler-is-on-the-way",
-    "title": "Samsung's answer to Google's Rambler could be coming to Galaxy phones soon",
-    "description": "Samsung's answer to Pixel's Rambler could be coming with One UI 9.5",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-10T15:15:21+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/nK94CoWaJ9yc9eeJ9yiDj8-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/apps-software/ai/google-is-upgrading-gemini-with-memory-summary-heres-how-to-find-out-what-your-assistant-knows-about-you",
-    "title": "Google Gemini's Memory summary allows users to edit or delete stored personal details",
-    "description": "Memory summary is a snapshot view of what Gemini remembers about you from your conversations.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-10T15:12:12+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/F8wFerTnYBWmBSxZb5wcn6-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.techradar.com/audio/apple-music/dont-like-apple-musics-new-white-icon-me-neither-heres-how-to-get-the-classic-red-icon-back-on-your-iphone",
-    "title": "Don’t like Apple Music’s new white icon? Me neither — let's change it",
-    "description": "The latest iOS update has swapped the Apple Music icon out for a new white one, but you can revert back to the red icon with these tips.",
-    "categories": [
-      "Breaking News",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-10T15:12:08+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/BTXsJDAPHCMti4biZTZ7Za-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/ancep-8-5m-ai-agents-insurance-brokers",
-    "title": "Ancep raises $8.5M for AI agents that help brokers place smaller risks",
-    "description": "London-based Ancep has raised $8.5M to build AI agents for commercial insurance brokers, targeting the smaller deals that brokers often turn away because they take too much time to handle relative to the commission they bring in. The funding round was led by Creandum, with participation from Kleiner Perkins and Vicus Ventures. Angel investors include",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-10T15:11:56+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/two-men-dark-sweaters-rooftop-terrace-london-skyline.avif",
     "source_name": "THENEXTWEB.COM"
   }
 ]
