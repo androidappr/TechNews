@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.techradar.com/pro/spacex-says-it-could-build-more-data-center-compute-than-googles-entire-lifetime-capacity-in-just-1-5-years-and-analysts-think-they-might-be-able-to-do-it",
+    "title": "SpaceX says it could build more data center compute than Google's entire lifetime capacity in just 1.5 years — and analysts think they might be able to do it",
+    "description": "SpaceX wants to add 10GW of AI data center capacity in 2027, with analysts citing construction speed, Tesla manufacturing, and power infrastructure.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-10T02:25:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/09/canadian-court-certifies-class-action-against-apple-over-google-search-deal/",
+    "title": "Canadian court certifies class action against Apple over Google search deal",
+    "description": "A British Columbia Supreme Court judge has certified a class action against Apple over allegations that its search agreement with Google stifled competition and inflated advertising prices. Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-10T02:20:07+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2023/05/Apple-Google-partner-industry-specification-hero.jpg?quality=82&strip=all&w=1306",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
     "link": "https://mashable.com/tech/meta-muse-ember-ai-model",
     "title": "What is Muse Ember? Meet Meta’s new low-cost AI model",
     "description": "Meta’s Muse Ember is a low-cost AI model for coding, document analysis, and other repeatable tasks. Here’s how it fits into the Muse lineup.",
@@ -13,9 +36,10 @@
   },
   {
     "link": "https://www.techmeme.com/261109/p48#a261109p48",
-    "title": "Filing: Anthropic now aims to raise up to $69.3B in its IPO (Echo Wang/Reuters)",
-    "description": "Echo Wang / Reuters:\nFiling: Anthropic now aims to raise up to $69.3B in its IPO  —  Anthropic sent out and then retracted details of its blockbuster IPO filing, according to emails to bankers seen by Reuters late on Monday.  —  The artificial intelligence company first sent a copy of a filing that showed Anthropic aimed …",
+    "title": "Emails: Anthropic sent bankers a copy of its IPO filing showing plans to raise up to ~$69B, then followed up saying the pricing details were inaccurate (Echo Wang/Reuters)",
+    "description": "Echo Wang / Reuters:\nEmails: Anthropic sent bankers a copy of its IPO filing showing plans to raise up to ~$69B, then followed up saying the pricing details were inaccurate  —  Anthropic sent out and then retracted details of its blockbuster IPO filing, according to emails to bankers seen by Reuters late on Monday.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-10T01:41:39+00:00",
@@ -457,7 +481,6 @@
     "title": "You can grab an AI mini PC housing an Nvidia Tesla GPU with 16GB of HBM2 for just $699",
     "description": "900GB/s of HBM2 in a 5.6-liter box for $699: a 2017 data center GPU is suddenly a memory-shortage bargain, with a few caveats in tow.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-09T22:30:00+00:00",
@@ -469,7 +492,6 @@
     "title": "Rubies on Mars?",
     "description": "Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov. 4, 2026 Exploration on Mars turns up the unexpected. Perseverance is equipped with a fantastic set of instruments for studying the rock record of this ancient planet. Both PIXL and SuperCam have great capabilities for detecting all kinds of",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-09T22:27:12+00:00",
@@ -493,7 +515,6 @@
     "description": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware"
     ],
@@ -2263,28 +2284,5 @@
     "pub_date": "2026-11-09T15:58:55+00:00",
     "image_url": "https://www.engadget.com/img/gallery/meta-is-expanding-ai-age-detection-for-instagram-teen-accounts/l-intro-1794251531.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/nov-9-samsung-s90h-oled-tv-deal",
-    "title": "Samsungs S90H OLED TV just dropped to its lowest price of the year ahead of Black Friday",
-    "description": "If you're looking for an early Black Friday TV deal, the Samsung 55-inch S90H OLED 4K TV is over $800 off at Amazon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-09T15:52:55+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01cwQUwnruLlkfBQxx30SDW/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/gta-6-preload-download-date-grand-theft-auto",
-    "title": "GTA 6 preload release date: When you can download the game",
-    "description": "Starting very, very soon, you can actually download 'Grand Theft Auto VI' to your console of choice.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-09T15:51:40+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06ptnVM2WwdDczKw2mI56Ab/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
