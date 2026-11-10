@@ -1,5 +1,18 @@
 [
   {
+    "link": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+    "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+    "description": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-10T05:01:00+00:00",
+    "image_url": "https://media.wired.com/photos/6af239fd5613664a71d65edb/master/pass/Security_V1-ezgif.com-video-to-gif-converter.gif",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261109/p53#a261109p53",
     "title": "Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
     "description": "James Mayger / Bloomberg:\nAustralia is drafting legislation for an AI safety regulator empowered to impose “significant penalties” after an OpenAI model hacked a government site in Sept.  —  Australia will create a new artificial-intelligence safety regulator that will have the power to impose …",
@@ -276,7 +289,6 @@
     "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
     "description": "By Remington Free, Operations Systems Engineer, NASA-JPL Earth planning date: Friday, Oct. 30, 2026 Today’s plan covered 3 sols, 5060, 5061, and 5062, as we take a few recharging sols before getting back to our normal drilling activities. As you may know if you have been following the blog closely, we are in the middle",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-10T01:07:45+00:00",
@@ -522,7 +534,6 @@
     "description": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware",
       "Government & Policy"
@@ -2262,16 +2273,5 @@
     "pub_date": "2026-11-09T16:26:24+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/uKtML3dSLZLUSoDArid2qH-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage",
-    "title": "Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage",
-    "description": "Sony is launching a new version of its PlayStation Portal exclusively in Japan next month. The updated model will launch in the midnight black color option we've seen before, and will include \"additional\" internal storage for future-looking features. It's the additional internal storage that's the surprise change to this particular model, which will be locked",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-09T16:23:31+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/playstationportal.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
