@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.digitaltrends.com/computing/i-turned-my-airpods-into-a-gesture-based-input-machine-for-my-mac-its-been-a-hands-free-bliss/",
+    "title": "I turned AirPods into a gesture input device for my Mac. It’s been a hands-free bliss.",
+    "description": "I am interacting with my Mac without ever touching it, and all of it was made possible by the AirPods in my ears.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-10T03:51:19+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/person-wearing-airpods-pro-1.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/home-theater/best-early-black-friday-premium-tech-deals/",
     "title": "If you’re looking for big bargains, I found the best early Black Friday deals for you",
     "description": "Buying premium tech is never easy on your wallet, but thankfully, Black Friday is just around the corner. That said, brands have already started offering major price cuts on quality hardware, and I’ve been looking through Amazon’s early offers and found eight products with tempting discounts. There are three TVs, a couple of premium laptops,",
@@ -359,7 +370,6 @@
     "description": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware",
       "Government & Policy"
     ],
@@ -663,7 +673,6 @@
     "title": "Jensen Huang's affair shines a spotlight on Nvidia's weak board and opaque succession planning at what has become the world's most important company (Semafor)",
     "description": "Semafor:\nJensen Huang's affair shines a spotlight on Nvidia's weak board and opaque succession planning at what has become the world's most important company  —  Nvidia CEO Jensen Huang's spy scandal shines a spotlight on thin corporate governance and opaque succession planning at what has become the world's most important company.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-09T22:00:35+00:00",
@@ -2268,17 +2277,5 @@
     "pub_date": "2026-11-09T16:12:28+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/skyfall-ai-steve-001-autonomous-business",
-    "title": "Exclusive: Skyfall AI launches Steve-001 to run 3 businesses it acquired",
-    "description": "During a routine website update at one of Skyfall AI’s businesses, two software agents got stuck passing the same task back and forth. A growth agent assigned the deployment to an engineering agent, which sent it straight back. The cycle continued because neither agent took responsibility, and one did not have the access needed to",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-11-09T16:10:36+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/skyfall-ai-founders-office-glass-meeting-room.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
