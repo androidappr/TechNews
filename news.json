@@ -1,5 +1,30 @@
 [
   {
+    "link": "https://thenextweb.com/news/elevenlabs-summit-nyc-elevenai-custom-models-partner-program",
+    "title": "ElevenLabs moves beyond voice with custom models and a work app",
+    "description": "ElevenLabs will help businesses fine-tune AI models on data from their own customer conversations, and opened early access to ElevenAI, an app that takes meeting notes. It also launched a partner programme and marketplace, and expanded its deal with Nvidia. ElevenLabs will help businesses fine-tune AI models on data from their own customer conversations, the",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-11T18:50:31+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/mati-staniszewski-elevenlabs-ceo-smiling-all-in-raise-summit-paris.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/microsoft-claude-default-uk-copilot-9-december",
+    "title": "Microsoft turns on Claude by default in UK Copilot, The Register reports",
+    "description": "Microsoft will switch on Anthropic’s Claude models by default for UK Copilot customers from 9 December, The Register reported. Anthropic processes that data in the US. Richard Speed wrote for The Register that UK organisations with no setting chosen by then will have Claude enabled. Administrators can still turn it off. Leaving the setting untouched",
+    "categories": [
+      "AI & Machine Learning",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-11T18:47:04+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/microsoft-copilot-the-ai-built-for-work-home-code-autopilot.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261111/p39#a261111p39",
     "title": "United Airlines says it will prevent personal AI assistants from booking tickets, citing data privacy risks and possible FAA and DOT rule violations (Alison Sider/Wall Street Journal)",
     "description": "Alison Sider / Wall Street Journal:\nUnited Airlines says it will prevent personal AI assistants from booking tickets, citing data privacy risks and possible FAA and DOT rule violations  —  The carrier says automated assistants present data-privacy risks; 'I don't want to create another middleman'  —  United Airlines doesn't want to deal with your AI agent.",
@@ -826,8 +851,8 @@
   },
   {
     "link": "https://www.techmeme.com/261111/p32#a261111p32",
-    "title": "Google DeepMind launches AlphaGenome 2, trained on 100M+ cell profiles across 68 tissues to predict genetic mutation effects, for non-commercial research (Robert Hart/The Verge)",
-    "description": "Robert Hart / The Verge:\nGoogle DeepMind launches AlphaGenome 2, trained on 100M+ cell profiles across 68 tissues to predict genetic mutation effects, for non-commercial research  —  DeepMind's new DNA model better predicts how mutations affect different cells, potentially opening paths to treatment.",
+    "title": "Google DeepMind launches AlphaGenome 2, trained on 100M+ cell profiles across 68 tissues to predict the effects of genetic variants, for non-commercial research (Robert Hart/The Verge)",
+    "description": "Robert Hart / The Verge:\nGoogle DeepMind launches AlphaGenome 2, trained on 100M+ cell profiles across 68 tissues to predict the effects of genetic variants, for non-commercial research  —  DeepMind's new DNA model better predicts how mutations affect different cells, potentially opening paths to treatment.",
     "categories": [
       "Tech News"
     ],
@@ -862,7 +887,6 @@
     "title": "Apple’s new touchscreen MacBook Pro isn’t exactly repair-friendly. I’d be extra careful when carrying it.",
     "description": "iFixit’s teardown says Apple’s touchscreen MacBook Pro is easier to repair, though soldered memory and a fragile logo path remain.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-11T15:07:07+00:00",
@@ -933,7 +957,6 @@
     "title": "Google researcher discovers unmapped Maya site in Mexico using 48 AI agents",
     "description": "AI tech is quickly transforming many different fields of research, including archaeology, as this discovery shows.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-11T15:00:02+00:00",
@@ -943,10 +966,9 @@
   {
     "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
     "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-    "description": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+    "description": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-11-11T15:00:00+00:00",
@@ -970,7 +992,6 @@
     "description": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-11-11T15:00:00+00:00",
@@ -993,7 +1014,6 @@
     "title": "Cloud hosting firm Railway says recent breach leads to $740,000 in fraudulent AI charges",
     "description": "A zero-day in a cloud provider's infrastructure granted attackers access to paid AI models and in a single day they raked up hundreds of thousands in expenses.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-11-11T14:54:03+00:00",
@@ -1548,7 +1568,6 @@
     "title": "This video lets you actually see the ‘incredible’ new MacBook Pro cooling system",
     "description": "When Apple launched the new MacBook Pro with PROLED XDR display, the company said that it had completely redesigned the cooling system for “incredible sustained performance.”\n\n\n\nThat could sound like marketing hype, but a YouTuber has found a great way to let us actually see the new system living up to Apple’s claims …\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-11T12:47:32+00:00",
@@ -2292,29 +2311,5 @@
     "pub_date": "2026-11-11T10:30:00+00:00",
     "image_url": "https://media.wired.com/photos/6ae0fe13b1846b1aa519246b/master/pass/leadimagesize.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/juiced-bikes-black-friday-sale-deals",
-    "title": "Juiced Bikes has launched an early Black Friday sale: Score $345 in free gear",
-    "description": "Juiced Bikes launched its Black Friday promotions, offering up to $415 in savings, cash discounts, and free gear bundles on Scrambler e-bikes.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-11T10:25:04+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/024r1MpwZc9j20pW1ElcwyG/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/adobe-wants-to-make-laboriously-switching-apps-a-thing-of-the-past-starting-with-a-two-way-partnership-with-google",
-    "title": "Adobe wants to make laboriously switching apps a thing of the past — starting with a two-way partnership with Google",
-    "description": "Two-way partnership sees Adobe integrate Google's latest AI models into its apps, while Acrobat becomes more embedded into Workspace and Gmail.",
-    "categories": [
-      "Breaking News",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-11T10:25:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/LBg88oUL5FEVCzp4wzGjj9-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
