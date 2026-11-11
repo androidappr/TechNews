@@ -1,5 +1,63 @@
 [
   {
+    "link": "https://thenextweb.com/news/reddit-turns-user-threads-into-ai-reviews-for-10000-products",
+    "title": "Reddit turns user threads into AI reviews for 10,000 products",
+    "description": "Reddit is turning product discussions on its platform into a dedicated shopping feature. The company introduced Reddit Reviews on Tuesday, a set of AI-generated pages that bring together community conversations about around 10,000 products, with summaries, sentiment breakdowns and links to buy. The feature is rolling out to all US users on iOS, Android and",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-11T06:23:07+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/reddit-app-icon-notification-badge-phone-screen.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261111/p5#a261111p5",
+    "title": "A profile of Alice Huang, an alleged Chinese spy who founded Megaspeed with her business partner Kang Wei, who sources say was often introduced as her husband (New York Times)",
+    "description": "New York Times:\nA profile of Alice Huang, an alleged Chinese spy who founded Megaspeed with her business partner Kang Wei, who sources say was often introduced as her husband  —  Alice Huang, who U.S. intelligence determined is a Chinese asset, emerged from the high-flying world of Shanghai finance to work …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-11T06:20:15+00:00",
+    "image_url": "http://www.techmeme.com/261111/i5.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261111/p4#a261111p4",
+    "title": "Records show China's Northwestern Polytechnical University, which has close PLA ties, has access to Nvidia H200 AI chips despite being on a US export blacklist (Eduardo Baptista/Reuters)",
+    "description": "Eduardo Baptista / Reuters:\nRecords show China's Northwestern Polytechnical University, which has close PLA ties, has access to Nvidia H200 AI chips despite being on a US export blacklist  —  A Chinese university with deep ties to the People's Liberation Army bought Nvidia's powerful H200 AI chips last month despite …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-11T06:15:02+00:00",
+    "image_url": "http://www.techmeme.com/261111/i4.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/ibm-visa-green-card-sponsorship-consulting",
+    "title": "IBM ends visa and green card sponsorship for most consulting roles",
+    "description": "IBM will stop sponsoring work visas and green cards for most positions in IBM Consulting, its largest division, which employs more than 150,000 people and accounts for over half the company’s workforce. The decision comes as the Trump administration tightens restrictions on skilled-worker immigration in the US. Bloomberg first reported the change, citing a document",
+    "categories": [
+      "Business & Startups"
+    ],
+    "pub_date": "2026-11-11T06:12:54+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/ibm-office-dubai-internet-city.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/openai-acquires-odessia-ai-travel-agent",
+    "title": "OpenAI buys Odessia, the AI travel agent from Sonder’s founder",
+    "description": "OpenAI has acquired Odessia, an AI travel agent founded by Sonder co-founder Francis Davidson, and shut down the service on the same day. Davidson announced the deal in a post on X on Tuesday, saying he would join OpenAI “to focus on the future of travel”. https://t.co/F3Wq6IJ6rJ — Francis Davidson (@FDavidsonT) November 10, 2026 “I’m",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-11T06:06:33+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/openai-logo-silhouette-hand-smartphone.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261111/p3#a261111p3",
     "title": "Researchers find that Grok Build is leaking data of over 35,000 apps via shareable links, including proprietary information, some belonging to SpaceXSI (Dan Goodin/Ars Technica)",
     "description": "Dan Goodin / Ars Technica:\nResearchers find that Grok Build is leaking data of over 35,000 apps via shareable links, including proprietary information, some belonging to SpaceXSI  —  Grok Build, the vibe-coding agent from SpaceXSI, is leaking data—some of it proprietary business information and other sensitive secrets …",
@@ -172,7 +230,6 @@
     "title": "AMD’s Zen 6 chiplets get 50% more cores, paving the way for bigger Ryzen CPUs",
     "description": "AMD has detailed its Zen 6 architecture with a claimed 27% IPC jump and 12-core chiplets. Here’s what changes, and what it could mean for your next Ryzen PC.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-11T05:41:12+00:00",
@@ -398,7 +455,6 @@
     "title": "Anthropic opens its Australian retail IPO, giving individual investors access to Class A shares ahead of the company's planned Nasdaq listing (Jenny Lee/CNBC)",
     "description": "Jenny Lee / CNBC:\nAnthropic opens its Australian retail IPO, giving individual investors access to Class A shares ahead of the company's planned Nasdaq listing  —  Anthropic, the maker of AI chatbot Claude, opened its Australian retail initial public offering on Wednesday, giving individual investors access …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-11T02:30:01+00:00",
@@ -564,7 +620,6 @@
     "title": "A deep dive into AMD's Zen 6 EPYC Venice: it uses TSMC's N2P, the 9686F often beats Nvidia's Vera, a dual 9996 is up to 93% faster than a dual Zen 5 9965, more (Jake Roach/Tom's Hardware)",
     "description": "Jake Roach / Tom's Hardware:\nA deep dive into AMD's Zen 6 EPYC Venice: it uses TSMC's N2P, the 9686F often beats Nvidia's Vera, a dual 9996 is up to 93% faster than a dual Zen 5 9965, more  —  Our first look at Zen 6, both under the hood and in real-world applications. … AMD's EPYC ‘Venice’ CPUs are the first to debut …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-11T00:25:01+00:00",
@@ -2186,64 +2241,5 @@
     "pub_date": "2026-11-10T17:33:34+00:00",
     "image_url": "https://media.thenextweb.com/2026/09/oura-ring-5-praying-mantis-green-leaf.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
-    "title": "The indie game community is in disarray over AI and Big Walk",
-    "description": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Gaming"
-    ],
-    "pub_date": "2026-11-10T17:32:47+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/BigWalk_Screenshot_Jun26_01.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/adobe-wants-you-to-spend-less-time-editing-and-more-time-creating-creative-cloud-opens-its-doors-to-third-party-ai-agents",
-    "title": "Adobe wants you to spend less time editing and more time creating – Creative Cloud opens its doors to third-party AI agents",
-    "description": "Adobe wants you to embrace using your favorite AI agent to handle administrative editing so that you can create more.",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-10T17:32:43+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/a8nVCpfQDgYqZXfgXAgrBf-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1030979/google-fi-automatic-network-switching-pixel",
-    "title": "Google Fi is bringing back multiple cell network support for better coverage",
-    "description": "Google Fi is launching a new \"super network\" that can automatically switch users between two different 5G networks depending on which one has better connectivity. The feature is rolling out starting today on Pixel 9 and newer phones that have Google Fi active on eSIM and have any non-Fi SIMs disabled. When Google Fi first",
-    "categories": [
-      "Breaking News",
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-11-10T17:32:39+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/google-fi-logo-larger.jpeg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-    "description": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-    "categories": [
-      "AI & Machine Learning",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-10T17:30:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/claude-can-now-join-your-weekly-meeting-to-take-notes-and-even-start-work-for-you-and-thats-not-all-with-new-spreadsheet-whiteboard-tools-and-more-helping-conquer-the-world-of-frontier-work",
-    "title": "Claude can now join your weekly meeting to take notes and even start work for you — and that's not all, with new spreadsheet, whiteboard tools and more helping conquer the world of \"Frontier Work\"",
-    "description": "Claude can now join video calls, build spreadsheets and much more.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-10T17:30:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/2Sd7mUTzDJCLhC7Fp8JsiN-1920-80.png",
-    "source_name": "TECHRADAR.COM"
   }
 ]
