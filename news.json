@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+    "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+    "description": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-11T23:10:17+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/today-i-learned-the-worlds-first-mass-produced-drone-was-built-by-a-hollywood-actor",
+    "title": "Today I learned the world's first mass-produced drone was built by a Hollywood actor",
+    "description": "British-born actor Reginald Denny turned model aircraft into the Radioplane OQ-2, a target drone the US Army ordered in huge numbers during World War II.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-11T23:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/zqrnhS2FvUiqTRxLKREyYS-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.engadget.com/2314341/new-york-is-forcing-t-mobile-to-stop-putting-data-caps-on-low-income-home-internet-plans/",
     "title": "New York is forcing T-Mobile to stop putting data caps on low-income home internet plans",
     "description": "The company was throttling speeds for plans offered under the Affordable Broadband Act.",
@@ -111,7 +134,7 @@
   {
     "link": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
     "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
-    "description": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly. And it's working. I've been testing the",
+    "description": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly. And it's working. I've been testing",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -579,7 +602,6 @@
     "title": "SpaceX plans massive $24 billion gas-powered Texas data center — application for 35 natural gas turbines and a capacity of 748 megawatts comes despite rising opposition in the state",
     "description": "SpaceX plans a $24 billion AI complex supported by 35 gas turbines generating 748 MW amid opposition and permitting concerns.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-11T19:10:00+00:00",
@@ -851,7 +873,6 @@
     "title": "Firefox’s free built-in VPN has no data cap through January 2027",
     "description": "Firefox users can take advantage of unlimited data via the web browser's built-in VPN this holiday season.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-11T17:36:49+00:00",
@@ -943,7 +964,6 @@
     "title": "Firefox's built-in VPN outage in Iran — Mozilla blames suspected abuse by third-party apps",
     "description": "Firefox’s free built-in VPN temporarily vanished for users in Iran, prompting censorship fears. Here's all we know.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-11T17:12:50+00:00",
@@ -988,7 +1008,6 @@
     "title": "The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
     "description": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-11T17:08:14+00:00",
@@ -2266,29 +2285,5 @@
     "pub_date": "2026-11-11T12:30:00+00:00",
     "image_url": "https://media.wired.com/photos/6af3b839d02b1fb5dccbbc7d/master/pass/I-Tried-20-of-the-Most-Popular-Indoor-Gardening-Systems.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
-    "title": "Serve Robotics wants to democratize sidewalk delivery robots",
-    "description": "Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party software engineers, independent businesses, and even autonomous AI agents to access its fleet of 2,000 sidewalk robots. With this new capability,",
-    "categories": [
-      "Breaking News",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-11T12:30:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2231498899.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/internet/apple-pulls-the-plug-on-its-support-community-forums-after-28-years-hub-for-iphone-and-mac-advice-will-permanently-close-on-november-20",
-    "title": "Apple pulls the plug on its Support Community forums after 28 years",
-    "description": "Apple is closing its official support forums on November 20, with new posts already locked down.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-11T12:26:48+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/wTTgYQZqoFNj7reG4db6NX-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
