@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.digitaltrends.com/home-theater/spotifys-ai-dj-gets-new-voices-including-indian-accents-and-a-mute-option/",
+    "title": "Spotify’s AI DJ gets new voices, including Indian accents, and a mute option",
+    "description": "Spotify’s DJ now has seven new English voices and two Spanish ones, plus a new toggle that turns off the chatter between songs so your music can play without interruptions.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-11T08:31:58+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Spotify-AI-DJ-feature.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/microsoft-lazarus-ai-agent-backdoor-neurons",
+    "title": "Microsoft finds AI agents can be backdoored by editing under 10 neurons",
+    "description": "Some neurons in large language models are rarely activated. Microsoft researchers have found a way to turn fewer than 10 of these dormant neurons into a hidden backdoor, making an otherwise normal AI model behave as expected until it encounters a specific trigger. Once activated, the model can execute malicious commands. The technique, called Lazarus,",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-11T08:30:50+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/microsoft-logo-office-building.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://mashable.com/entertainment/the-body-review-netflix",
     "title": "The Body review: Yellowjackets meets The Crucible",
     "description": "Netflix's \"The Body\" follows a Catholic school dance team that may have summoned the Devil.",
@@ -863,17 +887,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techradar.com/home/home-security/eufys-new-smart-home-camera-can-light-up-intruders-and-automatically-follow-them-like-a-hollywood-searchlight",
-    "title": "Eufy’s new smart home camera automatically lights up and follows intruders",
-    "description": "Anker’s Eufy TrackLight Cam S1 is a smart home camera with an automatic tracking spotlight and siren.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-11T00:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/mXvMQzV8ZFkLvtpLVgZhnB-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-11-november-2026",
     "title": "NYT Connections hints and answers for Wednesday, November 11 (game #1249)",
     "description": "Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.",
@@ -893,6 +906,17 @@
     ],
     "pub_date": "2026-11-11T00:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/XrpFgcngWrtXQscKdLLAZB-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/home/home-security/eufys-new-smart-home-camera-can-light-up-intruders-and-automatically-follow-them-like-a-hollywood-searchlight",
+    "title": "Eufy’s new smart home camera automatically lights up and follows intruders",
+    "description": "Anker’s Eufy TrackLight Cam S1 is a smart home camera with an automatic tracking spotlight and siren.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-11T00:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/mXvMQzV8ZFkLvtpLVgZhnB-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2217,28 +2241,5 @@
     "pub_date": "2026-11-10T18:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Business-Agent-Customer-Conversation.png?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261110/p37#a261110p37",
-    "title": "Oura agrees to acquire AI and on-demand doctor tool Counsel Health for $625M, and says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% to ~$1.75B (Mark Gurman/Bloomberg)",
-    "description": "Mark Gurman / Bloomberg:\nOura agrees to acquire AI and on-demand doctor tool Counsel Health for $625M, and says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% to ~$1.75B  —  Oura Inc. agreed to acquire artificial intelligence and on-demand doctor service Counsel Health Inc. for $625 million …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-10T17:55:01+00:00",
-    "image_url": "http://www.techmeme.com/261110/i37.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/mosaic-intelligence-labs-47m-seed-ai-surgical-catheter",
-    "title": "Mosaic raises $47m to build surgical machines that navigate blood vessels",
-    "description": "Mosaic Intelligence Labs, a San Francisco startup building AI-guided surgical instruments, has come out of stealth with $47m. It raised the money in two seed rounds led by 8VC and Fundomo, the one-year-old company told The Information. Lingotto Innovation and Obvious Ventures also invested, Mosaic said on Tuesday. The company is starting with endovascular procedures.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-10T17:53:15+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/mosaic-intelligence-labs-founders-ileana-pirozzi-alison-mackanic.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
