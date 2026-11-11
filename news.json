@@ -186,18 +186,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-11-november-2026",
-    "title": "Quordle hints and answers for Wednesday, November 11 (game #1752)",
-    "description": "Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.",
-    "categories": [
-      "Breaking News",
-      "Gaming"
-    ],
-    "pub_date": "2026-11-11T00:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-11-november-2026",
     "title": "NYT Connections hints and answers for Wednesday, November 11 (game #1249)",
     "description": "Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.",
@@ -222,6 +210,18 @@
     "source_name": "TECHRADAR.COM"
   },
   {
+    "link": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-11-november-2026",
+    "title": "Quordle hints and answers for Wednesday, November 11 (game #1752)",
+    "description": "Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-11-11T00:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techradar.com/home/home-security/eufys-new-smart-home-camera-can-light-up-intruders-and-automatically-follow-them-like-a-hollywood-searchlight",
     "title": "Eufy’s new smart home camera automatically lights up and follows intruders",
     "description": "Anker’s Eufy TrackLight Cam S1 is a smart home camera with an automatic tracking spotlight and siren.",
@@ -234,8 +234,8 @@
   },
   {
     "link": "https://9to5mac.com/2026/11/10/apple-confirms-ongoing-outage-affecting-icloud-and-more/",
-    "title": "Apple confirms ongoing outage affecting iCloud and more",
-    "description": "Update, 4:59 p.m. PT: Apple says the outages impacting Game Center, iCloud Calendar, iCloud Contacts, and iCloud Mail have been resolved. The issues affecting Photos, iCloud Account & Sign In, Find My, and iWork for iCloud continue. \n\n\n\n\n\n\n\nIf you’re having problems accessing iCloud and other Apple services this evening, you’re not alone. Apple has confirmed an ongoing outage affecting iCloud, Find My, and more. \n\n\n\n more…",
+    "title": "Apple confirms ongoing outage affecting iCloud and more [U]",
+    "description": "Update, 5:18 p.m. PT: Apple says all outages have now been resolved.\n\n\n\n\n\n\n\nIf you’re having problems accessing iCloud and other Apple services this evening, you’re not alone. Apple has confirmed an ongoing outage affecting iCloud, Find My, and more. \n\n\n\n more…",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -649,7 +649,6 @@
     "title": "Tech cannibalization to become mainstream? Removing expensive components and reballing memory set to reach 7–9% of smartphones by 2027",
     "description": "Reballing allows recovered memory chips to be reused, helping manufacturers control expenses while raising questions about consistency and device longevity.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-10T21:20:00+00:00",
@@ -1094,8 +1093,7 @@
     "title": "Ohio State and Microsoft sign a five-year AI and cloud hospital deal",
     "description": "Ohio State University and Microsoft signed a five-year partnership to move up to 80% of the university’s storage and computing to Azure, expand AI note-drafting at its Wexner Medical Center and build “smart hospital” systems. No financial terms were disclosed. Ohio State University and Microsoft have signed a five-year deal to bring more AI and",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-10T19:30:59+00:00",
     "image_url": "https://media.thenextweb.com/2026/11/ohio-state-wexner-microsoft-logos.avif",
@@ -1130,7 +1128,6 @@
     "description": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-10T19:23:34+00:00",
@@ -1175,7 +1172,6 @@
     "title": "Starlink Mini 2 adds a swappable battery",
     "description": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who shared screenshots of invitations to order Starlink Mini 2, the dish is priced at $999, which includes",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware",
       "Science & Environment"
