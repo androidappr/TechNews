@@ -1,7 +1,55 @@
 [
   {
+    "link": "https://www.techmeme.com/261111/p37#a261111p37",
+    "title": "IBM announces the Quantum Nighthawk r3, its next-gen processor designed to execute 10,000 quantum operations across 520 qubits to tackle more complex problems (Kyt Dotson/SiliconANGLE)",
+    "description": "Kyt Dotson / SiliconANGLE:\nIBM announces the Quantum Nighthawk r3, its next-gen processor designed to execute 10,000 quantum operations across 520 qubits to tackle more complex problems  —  IBM Corp. today announced the Quantum Nighthawk r3, its next-generation processor designed to tackle larger …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-11T17:40:01+00:00",
+    "image_url": "http://www.techmeme.com/261111/i37.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+    "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+    "description": "Any amount of AI coding is too much for many Indie Game Festival judges.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-11-11T17:37:32+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-1152x648.png",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://www.techradar.com/televisions/blu-ray/someone-made-blu-ray-shelves-that-use-smart-lighting-to-point-you-to-the-disc-you-want-the-combination-of-a-touchscreen-library-and-led-strips-is-the-coolest-movie-collection-setup-ive-ever-seen",
+    "title": "Someone made Blu-ray shelves that use smart lighting to point you to the disc you want",
+    "description": "An intrepid redditor has built a system that helps you choose a movie to watch and then lights up the shelf to show you where the disc is",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-11T17:36:41+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/V8LbphvCwnnAHDJru9sRya-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/laptops/this-years-best-black-friday-laptop-deals-in-the-us-and-uk-our-top-picks-from-dell-amazon-best-buy-hp-lenovo-currys-and-more",
+    "title": "This year's best Black Friday laptop deals in the US and UK — our top picks from Dell, Amazon, Best Buy, HP, Lenovo, Currys, and more",
+    "description": "TechRadar's regularly updated guide to all of the best Black Friday laptop deals available in this year's sales.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-11T17:30:21+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/UfrGkuvPweCsrLSZsBDTnE-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/11/11/google-confirms-gemini-app-coming-to-apple-carplay/",
-    "title": "Google confirms Gemini app coming to Apple CarPlay",
+    "title": "Google Gemini coming to Apple CarPlay",
     "description": "Google’s Gemini AI chatbot app is coming to Apple CarPlay. The company confirmed that it is. bringing the full Gemini Live conversation experience to CarPlay starting today.\n\n\n\n more…",
     "categories": [
       "Breaking News",
@@ -10,6 +58,18 @@
     "pub_date": "2026-11-11T17:29:13+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/gemini-mac.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/aws-uaef-open-source-ai-agent-evaluation",
+    "title": "AWS open-sources UAEF, a tool to test AI agents across frameworks",
+    "description": "AWS has released UAEF, a free open-source tool that tests AI agents on 36 measures, from tool use to safety. It works across several agent frameworks and flags when a new prompt or model makes an agent worse. Amazon Web Services has released a free tool that tests whether changes to an AI agent made",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-11T17:27:44+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/aws-office-sign-houston-glass-building.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://mashable.com/entertainment/scarlet-witch-return-to-mcu",
@@ -242,6 +302,18 @@
     "pub_date": "2026-11-11T16:33:39+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-watch-series-12-watchos-27-2-music.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
+    "title": "IBM to offer access to a dual-processor quantum system in 2027",
+    "description": "The company plans on linking two 520-qubit chips before next year is over.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-11T16:33:08+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://www.techmeme.com/261111/p34#a261111p34",
@@ -1104,7 +1176,6 @@
     "title": "Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules",
     "description": "Winning streaks can be turned off and influencers will be forced to reveal when they’re being paid under the new Digital Fairness Act aimed at tackling “dark patterns” on platforms and services.",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Social & Media"
     ],
@@ -2249,72 +2320,6 @@
     ],
     "pub_date": "2026-11-11T09:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/051q6NSq0uwloB0SkrdD3OJ/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation",
-    "title": "Anthropic’s IPO seeks up to $64.4B at a $1.4 trillion valuation",
-    "description": "Anthropic has set the terms for the most closely watched listing of the AI era. The Claude maker and some existing shareholders will sell 825 million shares at $70 to $78 each, raising up to $64.4B, with trading due to start on the Nasdaq on November 19 under the ticker ANT. At the top of",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-11T08:45:40+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/Dario-Amodei-washington-street-press.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/home-theater/spotifys-ai-dj-gets-new-voices-including-indian-accents-and-a-mute-option/",
-    "title": "Spotify’s AI DJ gets new voices, including Indian accents, and a mute option",
-    "description": "Spotify’s DJ now has seven new English voices and two Spanish ones, plus a new toggle that turns off the chatter between songs so your music can play without interruptions.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-11T08:31:58+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Spotify-AI-DJ-feature.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/microsoft-lazarus-ai-agent-backdoor-neurons",
-    "title": "Microsoft finds AI agents can be backdoored by editing under 10 neurons",
-    "description": "Some neurons in large language models are rarely activated. Microsoft researchers have found a way to turn fewer than 10 of these dormant neurons into a hidden backdoor, making an otherwise normal AI model behave as expected until it encounters a specific trigger. Once activated, the model can execute malicious commands. The technique, called Lazarus,",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-11T08:30:50+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/microsoft-logo-office-building.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/ethereum-foundation-suicide-pledge-seppuku-sue-lawsuit",
-    "title": "Ethereum Foundation sued for firing cancer patient who objected to mandated suicide pledge",
-    "description": "The Ethereum Foundation (EF) is being sued for firing a cancer patient shortly after she objected to an alleged mandated suicide pledge.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-11T08:27:03+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/045VD1jHpCJAt2Ikd7H5FLU/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/the-body-review-netflix",
-    "title": "The Body review: Yellowjackets meets The Crucible",
-    "description": "Netflix's \"The Body\" follows a Catholic school dance team that may have summoned the Devil.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-11T08:01:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/008vTCbOFIZ88rejKoBNeRh/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/the-lord-of-the-rings-the-rings-of-power-pallando-blue-wizard",
-    "title": "The Dark Wizards true identity in The Lord of the Rings: The Rings of Power is a Tolkien deep cut",
-    "description": "\"The Lord of the Rings: The Rings of Power\" confirms that the Dark Wizard is the Istar Pallando. Here's what that means.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-11T08:01:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/0269fAhKaHENA3iTBtnTz6u/hero-image.jpg",
     "source_name": "MASHABLE.COM"
   }
 ]
