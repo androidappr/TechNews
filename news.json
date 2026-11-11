@@ -1,5 +1,44 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+    "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+    "description": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-11T22:44:36+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824934/2192224191.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/i-found-the-best-early-black-friday-deals-on-top-rated-chargers-and-power-banks/",
+    "title": "I found the best Early Black Friday deals on top-rated chargers and power banks",
+    "description": "Early Black Friday deals are stacking up on the chargers and power banks most of us use daily. However, the better ones are easy to miss in the crowd. Compact, high-wattage options, the ones that make your phone spend less time plugged-in, usually sit higher, so I sorted through the available deals and discounts for",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-11T22:39:04+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Black-Friday-chargers-and-powerbanks-featured-image.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261111/p44#a261111p44",
+    "title": "Sources: Nvidia's board is preparing to oust Jensen Huang; it plans to meet as soon as Wednesday to determine his future (Wall Street Journal)",
+    "description": "Wall Street Journal:\nSources: Nvidia's board is preparing to oust Jensen Huang; it plans to meet as soon as Wednesday to determine his future  —  The board is preparing to meet as soon as today to determine his future, people familiar with the matter said.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-11T22:32:14+00:00",
+    "image_url": "http://www.techmeme.com/261111/i44.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/anthropic-is-spending-usd3-4-billion-on-natural-gas-turbines-to-avoid-the-ai-power-crisis-caterpillar-generators-capable-of-producing-up-to-1-7-gigawatts-of-electricity-could-power-the-next-generation-of-claude",
     "title": "Anthropic is spending $3.4 billion on natural gas turbines to avoid the AI power crisis",
     "description": "Anthropic is investing $3.4 billion in natural gas generators to secure electricity for AI infrastructure amid growing shortages and rising energy costs.",
@@ -16,6 +55,7 @@
     "title": "Sources: Jensen Huang had an extramarital relationship with Nvidia's VP of healthcare, Kimberly Powell, who reports to him; it was discussed inside the company (New York Times)",
     "description": "New York Times:\nSources: Jensen Huang had an extramarital relationship with Nvidia's VP of healthcare, Kimberly Powell, who reports to him; it was discussed inside the company  —  Mr. Huang, Nvidia's chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-11T22:03:12+00:00",
@@ -586,7 +626,6 @@
     "title": "United Airlines says it will prevent personal AI assistants from booking tickets, citing data privacy risks and possible FAA and DOT rule violations (Alison Sider/Wall Street Journal)",
     "description": "Alison Sider / Wall Street Journal:\nUnited Airlines says it will prevent personal AI assistants from booking tickets, citing data privacy risks and possible FAA and DOT rule violations  —  The carrier says automated assistants present data-privacy risks; 'I don't want to create another middleman'  —  United Airlines doesn't want to deal with your AI agent.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-11T18:40:01+00:00",
@@ -643,7 +682,6 @@
     "title": "IBM plans to link two quantum chips into a 1,040-qubit system in 2027",
     "description": "IBM’s next quantum chip, Nighthawk r3, is designed to run 10,000 operations on 520 qubits. IBM plans to link two of them into a 1,040-qubit system in 2027. Customers report speedups of up to 19x on the current Nighthawk chip. IBM plans to build a quantum computer with more than 1,000 qubits in 2027 by",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-11T18:13:39+00:00",
@@ -757,7 +795,6 @@
     "title": "IBM unveils the Quantum Nighthawk r3, its next-gen processor designed to execute 10,000 quantum operations across 520 qubits to tackle more complex computations (Kyt Dotson/SiliconANGLE)",
     "description": "Kyt Dotson / SiliconANGLE:\nIBM unveils the Quantum Nighthawk r3, its next-gen processor designed to execute 10,000 quantum operations across 520 qubits to tackle more complex computations  —  IBM Corp. today announced the Quantum Nighthawk r3, its next-generation processor designed to tackle larger …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-11T17:40:01+00:00",
@@ -1044,7 +1081,6 @@
     "title": "Memo: Meta's head of infrastructure and co-head of engineering Santosh Janardhan plans to leave in early 2027 and Dave Brown will become head of infrastructure (Riley Griffin/Bloomberg)",
     "description": "Riley Griffin / Bloomberg:\nMemo: Meta's head of infrastructure and co-head of engineering Santosh Janardhan plans to leave in early 2027 and Dave Brown will become head of infrastructure  —  Meta Platforms Inc.'s longtime infrastructure chief will leave the company in early 2027, a major leadership change as it continues …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-11T16:35:05+00:00",
@@ -1067,7 +1103,6 @@
     "title": "IBM to offer access to a dual-processor quantum system in 2027",
     "description": "The company plans on linking two 520-qubit chips before next year is over.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-11-11T16:33:08+00:00",
@@ -1772,17 +1807,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on",
-    "title": "Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price",
-    "description": "It's tempting to seek out the do-everything wireless gaming headset with noise cancellation, phenomenal sound quality, multiplatform connectivity, swappable batteries - you name it. But if you just want the basics done well, Sony's new $99.99 PlayStation Pulse headset is worth considering. It has very good sound and just enough extras, even if you use",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-11T14:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pulseheadset.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://9to5mac.com/2026/11/11/switchbot-curtain-track-4/",
     "title": "HomeKit Weekly: SwitchBot’s Curtain Track 4 is the easiest smart curtain retrofit yet",
     "description": "The worst part of owning smart curtain motors is charging them, because it usually means taking the whole motor down from the track or running a really long USB cord to charge it. Today, SwitchBot has released the SwitchBot Curtain Track 4 aimed at solving that problem with a battery module that detaches on its own, so the motor stays in place, and you only take down the part that needs to charge.\n\n\n\n more…",
@@ -1803,6 +1827,17 @@
     "pub_date": "2026-11-11T14:00:00+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/slaapwijsheid-nl-mHWmTL_EtLQ-unsplash-scaled.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on",
+    "title": "Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price",
+    "description": "It's tempting to seek out the do-everything wireless gaming headset with noise cancellation, phenomenal sound quality, multiplatform connectivity, swappable batteries - you name it. But if you just want the basics done well, Sony's new $99.99 PlayStation Pulse headset is worth considering. It has very good sound and just enough extras, even if you use",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-11-11T14:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pulseheadset.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
@@ -2258,40 +2293,5 @@
     "pub_date": "2026-11-11T12:22:25+00:00",
     "image_url": "https://media.thenextweb.com/2026/11/blue-ai-letters-blurred-textured-background.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/netflix-riot-league-of-legends-music-videos",
-    "title": "Netflix adds a bunch of League of Legends music videos",
-    "description": "Netflix and Riot have teamed up to harness the attention of League of Legends fans ahead of Worlds.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-11T12:21:16+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/026arYN5mpEvV5glAqlZiXy/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261111/p20#a261111p20",
-    "title": "Sources: ByteDance co-founder Zhang Yiming says the company plans to launch a Muse-like AI assistant in the coming weeks and reach the AI frontier by 2029-2030 (Bloomberg)",
-    "description": "Bloomberg:\nSources: ByteDance co-founder Zhang Yiming says the company plans to launch a Muse-like AI assistant in the coming weeks and reach the AI frontier by 2029-2030  —  ByteDance Ltd. plans the release of a Muse-like AI assistant in the coming weeks to augment its lead in AI video …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-11T12:21:08+00:00",
-    "image_url": "http://www.techmeme.com/261111/i20.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
-    "title": "Apple is killing its Support Community forum next week",
-    "description": "It's the end of the road for the Apple Support Community. The dedicated discussion forum, which gave Apple users a place to exchange advice, troubleshoot, and generally chat about Apple products, has been placed into read-only mode, with a message from the company announcing that the Support Community will shut down for good on November",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-11T12:19:10+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Apple-Support-Community-forum.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
