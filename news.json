@@ -1,5 +1,54 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
+    "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+    "description": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly. And it's working. I've been testing the",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-11T22:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/gta-6-preorders-1-billion-hollywood",
+    "title": "GTA 6 preorders top $1 billion as Hollywood eyes record launch weekend",
+    "description": "Grand Theft Auto 6 preorders have topped an estimated $1 billion, and it's already breaking records. Hollywood is definitely paying attention.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-11T21:55:23+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/04ksT9yZqVyXuoXxUeAUrsO/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+    "title": "United won’t let your AI agent book your flight",
+    "description": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-11T21:54:21+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/phones/smartphone-camera-technology-holocoder-night-photography/",
+    "title": "A new camera technology could dramatically improve how smartphones take photos at night",
+    "description": "Smartphone cameras have come a long way in the past decade, going from grainy images to near-DSLR quality for casual, social media, and everyday photography. Daylight photography in particular seems to have hit a ceiling on flagship smartphones, as you can’t really distinguish much beyond color tones at first glance. That said, night photography still",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-11T21:53:38+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Vivo-X500-Pro-Hands-on-Zeiss-lenses.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/11/11/iphone-duo-one-week-later-the-future-or-not-for-me/",
     "title": "iPhone Duo one week later: The future, or not for me?",
     "description": "My iPhone Duo arrived last Thursday, so I’ve had a week to use it as my daily carry. My early experience has been mixed, so I keep asking myself an important question: is this the iPhone’s future and I just need to adapt, or is the Duo simply not for everyone?\n\n\n\n more…",
@@ -38,6 +87,7 @@
     "title": "DJI's new drone could be a literal lifesaver — Matrice 5T features enhanced night vision and 1k thermal imaging, making it perfect for search and rescue",
     "description": "DJI's Matrice 5T combines 1K thermal imaging, enhanced night vision, obstacle detection, and artificial intelligence for demanding rescue and inspection operations.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-11T21:10:00+00:00",
@@ -80,7 +130,7 @@
   },
   {
     "link": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
-    "title": "T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says",
+    "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
     "description": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
     "categories": [
       "Government & Policy"
@@ -642,7 +692,6 @@
     "description": "Google Labs has launched Tabletop, an experiment that builds custom tools such as trip itineraries, dinner polls and expense splitters from a prompt. Groups share one space and edit it together in real time. It is open to US adults via a waitlist. Google has launched Tabletop, an experiment from its Google Labs team that",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Software & Apps"
     ],
     "pub_date": "2026-11-11T17:44:00+00:00",
@@ -1113,8 +1162,7 @@
     "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
     "description": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-11T16:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&strip=all&crop=0,0,100,100",
@@ -1136,7 +1184,6 @@
     "title": "The best early Black Friday deals you can already shop",
     "description": "The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t necessarily mean you’re getting a historically low",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-11T15:53:55+00:00",
@@ -1148,7 +1195,6 @@
     "title": "When do Black Friday sales actually start? Official sale times for Amazon, Walmart, Best Buy, Target",
     "description": "Mashable's shopping experts are tracking 2026 Black Friday sales at Amazon, Walmart, Best Buy, and Target. Here's when to shop the best deals.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-11T15:52:08+00:00",
@@ -1684,17 +1730,6 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
-    "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-    "description": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-11T14:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://9to5mac.com/2026/11/11/switchbot-curtain-track-4/",
     "title": "HomeKit Weekly: SwitchBot’s Curtain Track 4 is the easiest smart curtain retrofit yet",
     "description": "The worst part of owning smart curtain motors is charging them, because it usually means taking the whole motor down from the track or running a really long USB cord to charge it. Today, SwitchBot has released the SwitchBot Curtain Track 4 aimed at solving that problem with a battery module that detaches on its own, so the motor stays in place, and you only take down the part that needs to charge.\n\n\n\n more…",
@@ -1715,6 +1750,17 @@
     "pub_date": "2026-11-11T14:00:00+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/slaapwijsheid-nl-mHWmTL_EtLQ-unsplash-scaled.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+    "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+    "description": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process.",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-11-11T14:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://mashable.com/entertainment/how-to-rob-a-bank-review",
@@ -2250,51 +2296,5 @@
     "pub_date": "2026-11-11T12:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6ae9b7ae1f18bdac7b5ae8bf/master/pass/Samsung%20SOURCE%20Julian%20Chokkattu.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2312913/2027-chevrolet-bolt-review/",
-    "title": "2027 Chevrolet Bolt review: RIP to the GOAT of low-cost electric motoring",
-    "description": "Like a budget-minded phoenix, the Bolt is back - but not for long.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-11T12:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/2027-chevrolet-bolt-review-rip-to-the-goat-of-low-cost-electric-motoring/l-intro-1794352074.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/audio/wireless-headphones/sony-wh-ch530-review",
-    "title": "Sony WH-CH530 review: swell-sounding, budget-friendly on-ear headphones",
-    "description": "The Sony WH-CH530 are excellent on-ear headphones with delightful warm bass and an exquisite low price to match.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-11T12:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/vvvmxWsnL8NBjC2e3VkJ8f-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/apple-wants-to-turn-your-mac-into-a-private-ai-server-without-making-you-touch-the-terminal/",
-    "title": "Apple wants to turn your Mac into a private AI server without making you touch the Terminal",
-    "description": "A short-lived App Store listing shows Apple’s Claris building an easy way to run AI models across several linked Macs.",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-11T11:59:19+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apple-Harbor-app-screenshot-shared-on-X.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/gta-6-preorders",
-    "title": "GTA 6 preorders are live: Where to buy for PS5 and Xbox",
-    "description": "'Grand Theft Auto 6' is available for preorder on PS5 and Xbox. The base game costs $80 and the Ultimate Edition costs $100.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-11T11:51:33+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06pAci1tCLyzxdHZNZg0z9V/hero-image.png",
-    "source_name": "MASHABLE.COM"
   }
 ]
