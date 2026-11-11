@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.digitaltrends.com/computing/kaists-gaze-filesystem-could-make-next-gen-ssds-up-to-3x-faster/",
+    "title": "Researchers find a way to make SSDs up to 3x faster by fixing an OS bottleneck",
+    "description": "KAIST researchers built GAZE, a software fix that makes next-gen flash storage up to three times faster by speeding up how drives clean up old data, all without any new hardware.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-11T06:46:15+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/internal-ssd.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261111/p6#a261111p6",
     "title": "Sources: Rapidus has yet to produce functioning SRAM, a key step that needed to be completed by summer 2026 to meet its March 2028 deadline for making 2nm chips (Takashi Mochizuki/Bloomberg)",
     "description": "Takashi Mochizuki / Bloomberg:\nSources: Rapidus has yet to produce functioning SRAM, a key step that needed to be completed by summer 2026 to meet its March 2028 deadline for making 2nm chips  —  Japanese government-backed startup Rapidus Corp. has fallen behind schedule on its high-stakes pledge to mass produce cutting-edge chips …",
@@ -704,28 +716,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-11-november-2026",
-    "title": "NYT Connections hints and answers for Wednesday, November 11 (game #1249)",
-    "description": "Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-11T00:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-11-november-2026",
-    "title": "NYT Strands hints and answers for Wednesday, November 11 (game #983)",
-    "description": "Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-11T00:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/XrpFgcngWrtXQscKdLLAZB-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-11-november-2026",
     "title": "Quordle hints and answers for Wednesday, November 11 (game #1752)",
     "description": "Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.",
@@ -745,6 +735,28 @@
     ],
     "pub_date": "2026-11-11T00:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/mXvMQzV8ZFkLvtpLVgZhnB-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-11-november-2026",
+    "title": "NYT Connections hints and answers for Wednesday, November 11 (game #1249)",
+    "description": "Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-11-11T00:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-11-november-2026",
+    "title": "NYT Strands hints and answers for Wednesday, November 11 (game #983)",
+    "description": "Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-11-11T00:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/XrpFgcngWrtXQscKdLLAZB-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2227,17 +2239,5 @@
     "pub_date": "2026-11-10T17:35:00+00:00",
     "image_url": "http://www.techmeme.com/261110/i35.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/anthropic-claude-sheets-office-tools-microsoft-google",
-    "title": "Anthropic adds Claude Sheets and a call assistant, taking on its backers",
-    "description": "Anthropic is adding Claude Sheets, a video call assistant and a data dashboard tool to Claude, many in beta for paid users, Bloomberg reported. The tools compete with backers Microsoft and Google. Adobe, Atlassian and HubSpot can also put their apps inside Claude. Anthropic is adding a spreadsheet, a video call assistant and other office",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-11-10T17:35:00+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/anthropic-sign-office-building-entrance.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
