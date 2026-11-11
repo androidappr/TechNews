@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.digitaltrends.com/computing/amd-zen-6-brings-12-core-chiplets-and-up-to-27-higher-ipc/",
+    "title": "AMD’s Zen 6 chiplets get 50% more cores, paving the way for bigger Ryzen CPUs",
+    "description": "AMD has detailed its Zen 6 architecture with a claimed 27% IPC jump and 12-core chiplets. Here’s what changes, and what it could mean for your next Ryzen PC.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-11T05:41:12+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/AMD-chip-feature.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261111/p2#a261111p2",
+    "title": "Apple says its Apple Support Community forum will close permanently on November 20 and starting today the site is read-only and no longer accepts new posts (Marcus Mendes/9to5Mac)",
+    "description": "Marcus Mendes / 9to5Mac:\nApple says its Apple Support Community forum will close permanently on November 20 and starting today the site is read-only and no longer accepts new posts  —  Users visiting the Apple Support Community tonight were greeted with a message informing them that the platform will permanently shut down on November 20.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-11T05:40:01+00:00",
+    "image_url": "http://www.techmeme.com/261111/i2.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261111/p1#a261111p1",
     "title": "Sources: Jensen Huang's affair has significantly raised the chances of Congress enacting chip export limits this year via the National Defense Authorization Act (Politico)",
     "description": "Politico:\nSources: Jensen Huang's affair has significantly raised the chances of Congress enacting chip export limits this year via the National Defense Authorization Act  —  The espionage scandal surrounding Nvidia CEO Jensen Huang is posing an escalating threat to one of the chipmaker's biggest …",
@@ -9,6 +33,29 @@
     "pub_date": "2026-11-11T05:05:26+00:00",
     "image_url": "http://www.techmeme.com/261111/i1.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
+    "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+    "description": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4449:",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-11T05:05:00+00:00",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/irregular/NGC%204449.jpg?w=2048&h=1320&fit=clip&crop=faces%2Cfocalpoint",
+    "source_name": "SCIENCE.NASA.GOV"
+  },
+  {
+    "link": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
+    "title": "Water Surges Into Navajo Reservoir",
+    "description": "Rounds of heavy rain in the U.S. Southwest flooded rivers and rapidly raised New Mexico’s second-largest reservoir.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-11T05:01:00+00:00",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/water-surges-into-navajo-reservoir/navajoreservoir_oli2_20260920.jpg",
+    "source_name": "SCIENCE.NASA.GOV"
   },
   {
     "link": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-get-huge-looksmaxxing-to-death",
@@ -50,7 +97,6 @@
     "title": "Nvidia's stock fell 5.47% on Tuesday, following a 4%+ drop on Monday after the revelation of Jensen Huang's affair with Alice Huang, an alleged Chinese spy (April Roach/CNBC)",
     "description": "April Roach / CNBC:\nNvidia's stock fell 5.47% on Tuesday, following a 4%+ drop on Monday after the revelation of Jensen Huang's affair with Alice Huang, an alleged Chinese spy  —  Nvidia shares sank 5.47% on Tuesday as investors continued to weigh the potential fallout from CEO Jensen Huang's affair with an alleged Chinese spy.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-11T04:45:01+00:00",
@@ -176,6 +222,7 @@
     "title": "End of an era: Apple Support Community forums will permanently close on November 20",
     "description": "Users visiting the Apple Support Community tonight were greeted with a message informing them that the platform will permanently shut down on November 20. Here are the details.\n\n\n\n more…",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-11T02:49:08+00:00",
@@ -234,7 +281,6 @@
     "title": "Apple Music debuts Labrinth’s new single, created live on the touchscreen MacBook Pro",
     "description": "Following last week’s livestream, when Labrinth composed and recorded a song overnight at Apple Tower Theatre in Los Angeles on the new touchscreen MacBook Pro, the single is now available on Apple Music. Here are the details.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-11T01:31:51+00:00",
@@ -356,6 +402,7 @@
     "title": "A deep dive into AMD's Zen 6 EPYC Venice: it uses TSMC's N2P, the 9686F often beats Nvidia's Vera, a dual 9996 is up to 93% faster than a dual Zen 5 9965, more (Jake Roach/Tom's Hardware)",
     "description": "Jake Roach / Tom's Hardware:\nA deep dive into AMD's Zen 6 EPYC Venice: it uses TSMC's N2P, the 9686F often beats Nvidia's Vera, a dual 9996 is up to 93% faster than a dual Zen 5 9965, more  —  Our first look at Zen 6, both under the hood and in real-world applications. … AMD's EPYC ‘Venice’ CPUs are the first to debut …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-11T00:25:01+00:00",
@@ -491,7 +538,6 @@
     "title": "NVIDIA shareholders are suing the company and CEO Jensen Huang",
     "description": "The company's shares have plummeted in response to the exec's affair with an alleged Chinese spy.",
     "categories": [
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-11-10T23:42:04+00:00",
@@ -2212,52 +2258,5 @@
     "pub_date": "2026-11-10T17:13:06+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/ERozb9wLZjSh2du9E2sqw7-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261110/p33#a261110p33",
-    "title": "Dreeze, launched by Zerto founders to help companies recover from cyberattacks by restoring entire cloud applications, emerges from stealth with a $33M seed (CTech)",
-    "description": "CTech:\nDreeze, launched by Zerto founders to help companies recover from cyberattacks by restoring entire cloud applications, emerges from stealth with a $33M seed  —  Ziv and Oded Kedem have joined Avi Raichel to launch Dreeze, a company seeking to address the shortcomings of traditional backup …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-10T17:10:02+00:00",
-    "image_url": "http://www.techmeme.com/261110/i33.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/there-is-a-very-dark-scene-in-the-mission-where-finn-colton-looksmaxxes-hitman-world-of-assassination-senior-level-designer-says-jacksepticeye-gave-us-carte-blanche-to-make-him-as-evil-as-we-wanted",
-    "title": "'There is a very dark scene in the mission where Finn Colton looksmaxxes' — Hitman World of Assassination senior level designer says Jacksepticeye 'gave us carte blanche to make him as evil as we wanted'",
-    "description": "Hitman World of Assassination's new Elusive Target stars YouTuber Jacksepticeye, and he allowed IO Interactive to make his character \"as evil as we wanted.\"",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-10T17:08:31+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/CDx7czssN7QvSkSepouGGG-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/ai-platforms-assistants/you-could-be-responsible-for-what-your-ai-does-1-in-7-brits-fear-ai-agents-could-get-them-into-legal-trouble-and-experts-warn-theyre-right-to-be-concerned",
-    "title": "1 in 7 Brits fear AI agents could get them into legal trouble",
-    "description": "Brits really don't trust AI agents to act on their behalf, and are less likely to use a business that deploys AI agents.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-10T17:07:08+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/hSGLrz4MQWZrCmMUfxM9JY-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-    "description": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-10T17:04:19+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
