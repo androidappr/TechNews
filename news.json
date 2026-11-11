@@ -1,5 +1,86 @@
 [
   {
+    "link": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
+    "title": "T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says",
+    "description": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-11T20:32:21+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-1152x648-1794428350.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/home-and-office/home-assistant-connect-aux-2-hardware-older-tech-smart/",
+    "title": "This tiny box gives your older tech smart home superpowers – and it’s only $69",
+    "description": "Home Assistant gets new equipment to battle planned obsolescence and abandoned cloud services.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-11T20:30:00+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/image-1.jpeg",
+    "source_name": "ZDNET.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261111/p41#a261111p41",
+    "title": "AWS releases AWS Emulator, a free tool that simulates 200+ of its services locally, saying AI agents wrote it and its team hasn't written or reviewed any code (Todd Bishop/GeekWire)",
+    "description": "Todd Bishop / GeekWire:\nAWS releases AWS Emulator, a free tool that simulates 200+ of its services locally, saying AI agents wrote it and its team hasn't written or reviewed any code  —  AWS says its engineers didn't write or review a single line of code in its newest developer tool, and the company is touting that as a selling point.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-11T20:25:00+00:00",
+    "image_url": "http://www.techmeme.com/261111/i41.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/memory-price-skyrockets-as-demand-for-ai-data-centers-drives-369-percent-year-over-year-surge",
+    "title": "Memory price skyrockets as demand for AI data centers drives 369% year-over-year surge",
+    "description": "Memory makers aren't selling much more; they're charging much more.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-11T20:25:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/5goNuuSpjkWACaQ79gaewG-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+    "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+    "description": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-11T20:22:03+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/longwaveirsensor-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/disney-launching-new-app",
+    "title": "Disney parks launches new app to get you off apps",
+    "description": "Disney knows visiting its park involves checking your smartphone obsessively, and it has a plan to address that.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-11T20:20:11+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/03xq2nSe7CqbkKFTPCxEnur/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/11/apple-reportedly-met-with-thai-officials-over-spyware-alerts-sent-to-politicians/",
+    "title": "Apple reportedly met with Thai officials over spyware alerts sent to politicians",
+    "description": "Bloomberg reports that Apple has met with Thai government officials in the wake of its recent wave of iPhone alerts about mercenary spyware attacks. Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-11T20:18:07+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/mercenary-alert-2.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
     "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
     "title": "Why the data center you dread might never even be built",
     "description": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure",
@@ -24,6 +105,18 @@
     "pub_date": "2026-11-11T20:12:01+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights/",
+    "title": "United is restricting AI agents from booking flights",
+    "description": "The airline believes AI poses security risks and may violate DOT and FAA rules.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-11T20:09:44+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/united-is-restricting-ai-agents-from-booking-flights/l-intro-1794427706.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.techradar.com/health-fitness/fitness-trackers/google-fitbit-edge-review-the-fitbit-we-loved-now-in-its-google-era",
@@ -705,7 +798,6 @@
     "description": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-11-11T17:00:00+00:00",
@@ -832,7 +924,6 @@
     "title": "Deals: AirTag 2 $17.50 each, Magic Mouse, Trackpad, AirPods, TechWoven, MacBook Air $250 off, more",
     "description": "The Amazon early Black Friday sale is now live and, alongside the ongoing AirPods Pro 3 at $50 off and Apple Watch Ultra 4 at nearly $100 off, we are getting some official Apple early Black Friday deals today too. Firstly, the 2026 AirTag 2 has now returned to its lowest price ever at $17.50 each alongside some rare price drops on the latest Magic Mouse models at up to nearly 25% off, and Amazon’s best prices on Apple’s Magic Trackpad. Joining some new all-time lows going live today on Apple’s latest collection of iPhone 18 Pro and Pro Max cases at up to 40% off, we also still have the impressive $250 price drops on M5 MacBook Air, and even more waiting below. \n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-11T16:27:43+00:00",
@@ -868,7 +959,6 @@
     "description": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware",
       "Government & Policy"
     ],
@@ -2213,99 +2303,6 @@
     ],
     "pub_date": "2026-11-11T11:38:59+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/01lIwUDHN15rygKFbh0z8qb/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/eu-digital-fairness-act-loot-boxes-dark-patterns",
-    "title": "Digital Fairness Act: EU moves to outlaw dark patterns and subscription traps",
-    "description": "The European Commission proposed today the Digital Fairness Act, a consumer rulebook that would ban loot boxes for minors, blacklist manipulative interface design, and put a termination button on every online subscription. The proposal would repeal the EU’s 2005 Unfair Commercial Practices Directive and replace it with a directly applicable regulation, swapping 27 national rulebooks",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-11T11:38:19+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/european-commission-logo-eu-flag-sign-building-wall.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261111/p16#a261111p16",
-    "title": "Filing: Alphabet agrees to additional privacy protections to salvage its $10M acquisition of bankrupt Spirit Airlines' data, resolving union objections (Alexander Gladstone/Wall Street Journal)",
-    "description": "Alexander Gladstone / Wall Street Journal:\nFiling: Alphabet agrees to additional privacy protections to salvage its $10M acquisition of bankrupt Spirit Airlines' data, resolving union objections  —  Google parent Alphabet agreed to provide additional privacy protections to salvage its $10 million acquisition of data from bankrupt Spirit Airlines.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-11T11:35:55+00:00",
-    "image_url": "http://www.techmeme.com/261111/i16.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/bytedance-muse-like-ai-agent-zhang-yiming",
-    "title": "ByteDance reportedly plans a Muse-like AI agent within weeks",
-    "description": "ByteDance plans to release an AI assistant similar to Meta’s Muse in the coming weeks, Bloomberg reported on Wednesday, citing people familiar with a recent all-hands meeting of the company’s AI team. At that meeting, co-founder Zhang Yiming laid out a sober timeline. He believes ByteDance can compete with Anthropic and OpenAI at the cutting",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-11T11:31:25+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/bytedance-sign-office-building-facade.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/best-oled-tv/",
-    "title": "Best OLED TVs of 2026: LG, Samsung, Sony, and More",
-    "description": "Looking for rich picture quality and inky-black shadows? These OLED TVs are the ones you want for your next movie night.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-11T11:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6af3b4b41bbf3e7f3fb9fb3a/master/pass/The-Best-OLED-TVs-of-2026.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techradar.com/vpn/vpn-services/windscribe-black-friday-vpn-deal-makes-it-less-than-half-price-get-this-price-hike-free-lifetime-rate-of-usd29-for-safe-streaming-on-your-iphone-and-unlimited-other-devices",
-    "title": "Windscribe's Black Friday VPN deal makes it less than half price — get this price-hike free, lifetime rate of $29 for safe streaming on your iPhone and unlimited other devices",
-    "description": "Windscribe has launched its Black Friday deal for 2026. Its price has dropped by $40, making its paid plan one of the cheapest VPN deals available right now over 12 months.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-11T11:26:33+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/8QB5cBfrXik7Cq3fyK9xEG-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261111/p15#a261111p15",
-    "title": "The European Commission introduces the Digital Fairness Act, which aims to curb addictive design features and manipulative \"dark patterns\" or face large fines (Gian Volpicelli/Bloomberg)",
-    "description": "Gian Volpicelli / Bloomberg:\nThe European Commission introduces the Digital Fairness Act, which aims to curb addictive design features and manipulative “dark patterns” or face large fines  —  The European Union is debuting a new plan designed to curb practices that manipulate people into spending more time and money online.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-11T11:25:02+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/free-apple-iphone-deal",
-    "title": "T-Mobile is giving away the Apple iPhone for free — how to claim",
-    "description": "How to get free iPhone. Get the Apple iPhone 17 or iPhone 18 when you sign up for T-Mobile.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-11T11:23:32+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/034PMRNFRmIbsK8iLwKjXAY/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/nov-11-bluetti-power-station-early-black-friday-deal",
-    "title": "The Bluetti Elite 200 V2 has dropped to its lowest-ever price — save over $500 at Amazon",
-    "description": "Score the best portable power station deal. Save 36% on the Bluetti Elite 200 V2 at Amazon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-11T11:21:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06Q75bnIL3XdFy3683vlxy3/hero-image.png",
     "source_name": "MASHABLE.COM"
   }
 ]
