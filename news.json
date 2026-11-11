@@ -1,5 +1,55 @@
 [
   {
+    "link": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+    "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+    "description": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers into spending more of their time and money online,",
+    "categories": [
+      "Breaking News",
+      "Government & Policy",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-11T18:13:52+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319789/STK450_EU_E.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/helsing-clarity-palantir-maven-rival-karp-democrat",
+    "title": "Helsing launches Clarity, a European rival to Palantir’s Maven",
+    "description": "German defence company Helsing has launched Clarity, a direct challenge to Palantir. The AI platform helps armed forces turn drone, satellite and sensor data into targets. Helsing says it builds the software in Europe, under European control. Clarity pulls in sensor feeds, open sources, written reports and the systems a unit already runs. It finds",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-11T18:08:53+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/gundbert-scherf-helsing-co-ceo-clarity-launch-berlin.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/model-weights-need-the-same-level-of-scrutiny-as-code-microsoft-researchers-find-ai-agents-can-be-backdoored-by-editing-just-a-few-neurons",
+    "title": "'Model weights need the same level of scrutiny as code': Microsoft researchers find AI agents can be backdoored by editing just a few neurons",
+    "description": "What if your AI agent behaved normally, and then just \"snapped\"?",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-11T18:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/NNZdcW7Ku4FXu2CdGfdqvf-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/social-media/linkedin-is-testing-a-frequent-viewer-tool-to-snitch-on-professional-stalkers/",
+    "title": "LinkedIn is testing a Frequent Viewer tool to snitch on professional stalkers",
+    "description": "LinkedIn is testing a “frequent viewer” label for some Premium users that flags people who repeatedly visit your profile, useful for job seekers and recruiters alike.",
+    "categories": [
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-11T18:04:18+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/04/LinkedIn-app-on-App-Store-iPhone.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/11/11/apple-offers-a-military-discount-heres-how-to-get-it/",
     "title": "Apple offers a military discount, here’s how to get it",
     "description": "If you’re a member of the U.S. military, Apple offers an easy way to save 10% on eligible products and accessories. It’s available to current and veteran members of the U.S. military and their immediate family members living in the same household. While you’ll need to verify your eligibility to access the discount, the process is simple. There are also a few limitations you’ll want to know about before placing an order. Here’s everything you need to know.\n\n\n\n more…",
@@ -9,6 +59,17 @@
     "pub_date": "2026-11-11T18:01:00+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-military-discount.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/keyboards/corsair-skiff-100-review",
+    "title": "Corsair Skiff 100 review: A surprisingly competent cheap gaming keyboard",
+    "description": "Corsair’s Skiff 100 is a wired gaming keyboard with a budget price tag — but is it actually good value?",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-11T18:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/LZAiYtWart3V8GcqcNFgt4-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://www.zdnet.com/tech/oura-ring-users-may-get-in-app-access-to-real-doctors-soon-what-we-know/",
@@ -1037,7 +1098,6 @@
     "description": "The four-week project hints that AI could make formal verification far more practical.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-11-11T14:08:57+00:00",
@@ -1515,6 +1575,7 @@
     "title": "German defense tech giant Helsing launches Clarity, an intelligence platform using military-customized AI agents to rival Palantir's Maven and Anduril's Lattice (Ingrid Lunden/Resilience Media)",
     "description": "Ingrid Lunden / Resilience Media:\nGerman defense tech giant Helsing launches Clarity, an intelligence platform using military-customized AI agents to rival Palantir's Maven and Anduril's Lattice  —  Platform uses AI agents to  —  Palantir has Maven, Anduril has Lattice, and now Helsing has... Clarity.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-11T12:30:05+00:00",
@@ -1685,7 +1746,7 @@
   },
   {
     "link": "https://www.engadget.com/2312913/2027-chevrolet-bolt-review/",
-    "title": "2027 Chevrolet Bolt Review: RIP to the GOAT of low-cost electric motoring",
+    "title": "2027 Chevrolet Bolt review: RIP to the GOAT of low-cost electric motoring",
     "description": "Like a budget-minded phoenix, the Bolt is back - but not for long.",
     "categories": [
       "Tech News"
@@ -2260,61 +2321,5 @@
     "pub_date": "2026-11-11T10:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6ae39c26d0f1304b561646b2/master/pass/Business_StalkYourStalkerLinkedIn_v1.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/increased-ai-usage-is-making-younger-workers-more-afraid-of-saying-i-dont-know",
-    "title": "Increased AI usage is making younger workers more afraid of saying 'I don't know'",
-    "description": "Almost half of employees assume their colleagues are consulting AI before asking a question to the room, as admitting ignorance becomes increasingly unacceptable in the workplace.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-11T10:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/ps5-vs-ps5-pro-key-differences",
-    "title": "PS5 vs. PS5 Pro: 4 key differences to know before you buy",
-    "description": "Sony offers two versions of the PlayStation 5, but what sets the more expensive Pro console apart?",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-11T10:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05RZ1YxcCkdPomi8OlUnTJ4/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/amazon-kindle-e-reader-2026-review",
-    "title": "Subtle design changes make the 2026 Kindle Amazons best budget-friendly e-reader",
-    "description": "Amazon's updated 2026 Kindle comes with a new flush front design. The device is speedier than ever, with a responsive screen.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-11T10:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/reviews/06EWySccrbshxnji1lHJx9G/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2313113/lucid-q3-2026-losing-cars/",
-    "title": "Lucid CEO says the company didn't know where its own cars were",
-    "description": "Tesla rival Lucid has an interesting excuse for its third quarter earnings underperformance.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-11T09:56:03+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/lucid-ceo-says-the-company-didnt-know-where-its-own-cars-were/l-intro-1794414335.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/revolut-pay-uber-revpoints-uber-one",
-    "title": "Revolut Pay arrives on Uber with RevPoints perks and Uber One access",
-    "description": "Revolut Pay is now available as a payment option on Uber, bringing the fintech’s checkout service into one of the world’s most widely used consumer apps. The integration also links rides and deliveries paid through Revolut Pay to the company’s rewards scheme. Moreover, the company says millions of its customers use Uber every month. The main",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-11-11T09:54:23+00:00",
-    "image_url": "https://media.thenextweb.com/2026/08/Revolut-Logo.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
