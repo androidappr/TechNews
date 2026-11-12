@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://thenextweb.com/news/nebuly-21m-series-a-enterprise-ai-roi",
+    "title": "Nebuly raises $21M Series A to measure the ROI of enterprise AI",
+    "description": "Nebuly, a Turin-based company that helps businesses measure the financial return from their AI agents, has raised $21m in a Series A round led by Planven. Exor Ventures, Tenacity Capital, TGVG Capital and Fastweb+Vodafone also participated, alongside CDP Venture Capital’s AI and Digital Transition funds. Nebuly is addressing a question that more companies are starting",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-12T05:00:19+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/nebuly-founders-signorato-roux-fiori.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techradar.com/televisions/ive-already-found-17-early-black-friday-tv-deals-worth-nabbing-save-big-on-lg-samsung-sony-and-more",
     "title": "I’ve already found 17 early Black Friday TV deals worth nabbing: save big on LG, Samsung, Sony and more",
     "description": "Plus, some superb deals on soundbars not to be missed",
@@ -118,17 +130,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-the-good-daughter",
-    "title": "How to watch The Good Daughter from anywhere in the world – stream online for free",
-    "description": "Rose Byrne stars in this thriller series, adapting a novel from Karin Slaughter. Here's how to watch The Good Daughter from anywhere.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T03:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/2Wbr9iFg4vkouiFRomnPx3-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-12-days-of-snoopy",
     "title": "How to watch 12 Days of Snoopy online – stream the animated holiday special from anywhere",
     "description": "Here's how to watch 12 Days of Snoopy from anywhere, as the iconic dog and his pals reunite for a special holiday adventure.",
@@ -137,6 +138,17 @@
     ],
     "pub_date": "2026-11-12T03:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/CbrHkzJj98ngPJ4ne68eRn-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-the-good-daughter",
+    "title": "How to watch The Good Daughter from anywhere in the world – stream online for free",
+    "description": "Rose Byrne stars in this thriller series, adapting a novel from Karin Slaughter. Here's how to watch The Good Daughter from anywhere.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-12T03:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/2Wbr9iFg4vkouiFRomnPx3-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -321,7 +333,6 @@
     "title": "Vercel data reveals AI models now have a half-life of just six weeks",
     "description": "Vercel finds a typical AI model will peak within a month of launching, with loyalty increasingly fragile.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-12T01:10:00+00:00",
@@ -530,7 +541,6 @@
     "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
     "description": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-11T23:10:17+00:00",
@@ -2255,16 +2265,5 @@
     "pub_date": "2026-11-11T14:30:17+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/roundups/015XQivuTzVeIkD5KnvIXYa/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors/",
-    "title": "Europe wants to ban 'dark patterns' in apps and loot boxes for minors",
-    "description": "Europe's Digital Fairness Act targets digital practices that harm children and push people into spending more.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-11T14:29:03+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/europe-wants-to-ban-addictive-design-loot-boxes-and-dark-patterns-in-apps/l-intro-1794406701.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
