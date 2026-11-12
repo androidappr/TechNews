@@ -1,5 +1,43 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
+    "title": "‘It&#8217;s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation",
+    "description": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded quickly, with The New York Times only reporting on Friday that Huang and the suspected spy were \"close\" before other",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-12T21:45:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261112/p57#a261112p57",
+    "title": "Cerebras reports Q3 core revenue up 70% YoY to $230.9M, vs. $214.7M est., issues strong guidance, and announces a Microsoft deal; CBRS jumps 15%+ after hours (Jordan Novet/CNBC)",
+    "description": "Jordan Novet / CNBC:\nCerebras reports Q3 core revenue up 70% YoY to $230.9M, vs. $214.7M est., issues strong guidance, and announces a Microsoft deal; CBRS jumps 15%+ after hours  —  Cerebras Systems reported better-than-expected revenue and quarterly guidance in its earnings report on Thursday, and touted a new deal with Microsoft.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-12T21:35:02+00:00",
+    "image_url": "http://www.techmeme.com/261112/i57.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-12T21:35:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://mashable.com/tech/microsoft-outage-affecting-365-teams-outlook-copilot-nov-12-2026",
     "title": "Microsoft outage: Microsoft 365, Teams, Outlook, Copilot all impacted",
     "description": "Microsoft users reported problems accessing Microsoft 365, Azure, Outlook, Teams, and more services on Thursday, Nov. 12.",
@@ -1222,7 +1260,6 @@
     "title": "A 2013 hack of a Russian cybercrime forum may have leaked the details of millions of users",
     "description": "Details from the YouHack breach have re-emerged on the internet, exposing victims and criminals alike.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-11-12T17:34:39+00:00",
@@ -1475,17 +1512,6 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-    "title": "AI chatbots are recommending fake retail websites, study finds",
-    "description": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-12T17:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.engadget.com/2313383/apple-sports-adds-live-ufc-updates/",
     "title": "Apple Sports adds live UFC updates",
     "description": "The app can deliver real-time stats for each fight on a UFC card.",
@@ -1566,6 +1592,17 @@
     "pub_date": "2026-11-12T17:00:00+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/slaapwijsheid-nl-h57yBjr2N4o-unsplash-scaled.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+    "title": "AI chatbots are recommending fake retail websites, study finds",
+    "description": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-11-12T17:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
@@ -2339,40 +2376,5 @@
     "pub_date": "2026-11-12T14:50:17+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/WP_ALDEN-Carousel_Lifestyle-copy-1152x648.jpg",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261112/p33#a261112p33",
-    "title": "Jensen Huang's resignation caps a 33-year career, growing Nvidia from a GPU maker to an AI giant; born in Taiwan, he moved to the US at 10 and has a ~3.6% stake (Amrith Ramkumar/Wall Street Journal)",
-    "description": "Amrith Ramkumar / Wall Street Journal:\nJensen Huang's resignation caps a 33-year career, growing Nvidia from a GPU maker to an AI giant; born in Taiwan, he moved to the US at 10 and has a ~3.6% stake  —  As Nvidia's first and only CEO, Huang turned semiconductors designed for videogames into the engine of the next technology revolution.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T14:50:00+00:00",
-    "image_url": "http://www.techmeme.com/261112/i33.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/life/nov-12-pokemon-tcg-delta-reign-booster-bundle-deal",
-    "title": "The Pokémon TCGs Delta Reign Booster Bundle is down to a new record low on Amazon — save almost $10",
-    "description": "The Pokémon TCG Delta Reign Booster Bundle is down to a record-low $49.94 at Amazon, saving $8.56 ahead of Black Friday.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T14:48:43+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03cwf3NyjRthYmFEXNyE0LT/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/ray-gunn-trailer-brad-bird",
-    "title": "Ray Gunn trailer: The Incredibles director Brad Bird cooks up a wild sci-fi mystery",
-    "description": "Sam Rockwell, Scarlett Johansson, and Tom Waits star in director Brad Bird's \"Ray Gunn,\" out in theaters Dec. 4 and on Netflix Dec. 18.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T14:46:04+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/videos/07xO0NC3JI3wQfzGfM8gUlB/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
