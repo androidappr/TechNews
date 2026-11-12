@@ -1,5 +1,31 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+    "title": "Microsoft Outlook is down",
+    "description": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is",
+    "categories": [
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-12T20:43:02+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/",
+    "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
+    "description": "A recent WIRED investigation explored the complicated definition of “power” for women in the industry. Jensen Huang’s answers now appear to show his blind spots.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-12T20:35:11+00:00",
+    "image_url": "https://media.wired.com/photos/6af5df9b506e35cfaae88b85/master/pass/111226-Jensen%20Power%20Women%20tech.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261112/p53#a261112p53",
     "title": "Sources: SpaceX and Tesla are progressing in their merger negotiations and could announce a deal as soon as December or early 2027 (Bloomberg)",
     "description": "Bloomberg:\nSources: SpaceX and Tesla are progressing in their merger negotiations and could announce a deal as soon as December or early 2027  —  SpaceX and Tesla Inc. are progressing in their merger negotiations, setting the stage for a combination that could redefine the limits of global dealmaking.",
@@ -165,7 +191,7 @@
   },
   {
     "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-    "title": "Ars Live: Can the cloud survive drone strikes on data centers?",
+    "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
     "description": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
     "categories": [
       "AI & Machine Learning",
@@ -475,18 +501,6 @@
     "pub_date": "2026-11-12T19:09:57+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelenskyy-1152x648-1794506400.jpg",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
-    "title": "Microsoft Outlook is down",
-    "description": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is",
-    "categories": [
-      "Breaking News",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-12T19:07:21+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://thenextweb.com/news/anthropic-self-hosted-claude-managed-agents",
@@ -1519,7 +1533,6 @@
     "title": "Fitbit users can’t see Google Health metrics after update – how to fix it",
     "description": "Google says it’s working on a fix – meantime, users have found workarounds.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-12T16:41:38+00:00",
@@ -2382,17 +2395,5 @@
     "pub_date": "2026-11-12T14:10:34+00:00",
     "image_url": "http://www.techmeme.com/261112/i28.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/jensen-huang-resigns-as-nvidia-ceo-after-33-years-effective-immediately",
-    "title": "Jensen Huang resigns as Nvidia CEO after 33 years, effective immediately",
-    "description": "Jensen Huang has resigned as Nvidia’s president, CEO, and board member, effective immediately, the company’s board announced today, ending a 33-year run in which he built the chipmaker he co-founded into the roughly $4T centrepiece of the AI boom. Chief financial officer Colette Kress steps in as interim CEO while the board searches for a",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-12T14:10:02+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/jensen-huang-nvidia-gtc-2026-close-up-eyebrows-raised.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
