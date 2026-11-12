@@ -1,5 +1,79 @@
 [
   {
+    "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "description": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-11-12T19:11:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
+    "title": "Ukraine says SpaceX Starshield is restricted again; SpaceX claims it isn’t",
+    "description": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-12T19:09:57+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelenskyy-1152x648-1794506400.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+    "title": "Microsoft Outlook is down",
+    "description": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is",
+    "categories": [
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-12T19:07:21+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/anthropic-self-hosted-claude-managed-agents",
+    "title": "Anthropic lets companies run Claude’s agent service on their own servers",
+    "description": "Anthropic now lets companies run Claude Managed Agents in their own cloud or data centre. Agent histories and credentials stay on their systems, but each model call still goes to an outside provider such as Anthropic or AWS. Anthropic now lets companies run its Claude Managed Agents service on their own servers, Help Net Security",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-12T19:06:13+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/anthropic-wordmark-3d-render-purple-glass.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+    "title": "Microsoft’s Outlook email hit by new outage",
+    "description": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
+    "categories": [
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-12T19:03:39+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/climate-change-abolishes-ice/",
+    "title": "Climate Change Has Pushed the World's Ice Out of Its Safe Zone",
+    "description": "Humanity has thrived thanks to a stable cryosphere, but burning fossil fuels has increased the risk of “accelerating and partly irreversible” harm to the planet’s cold places.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-12T19:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6af5e520156d389dd99a110b/master/pass/GettyImages-2175753469.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-shetland-season-11-free-streams-from-anywhere-in-the-world",
     "title": "How to watch Shetland season 11 — free streams from anywhere in the world",
     "description": "The remains of an unknown man are retrieved from a lake. Here's how to watch Shetland season 11 online.",
@@ -12,8 +86,24 @@
     "source_name": "TECHRADAR.COM"
   },
   {
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
+    "title": "Jensen Huang’s $470 Billion Affair",
+    "description": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware",
+      "Government & Policy",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-12T18:59:58+00:00",
+    "image_url": "https://media.wired.com/photos/6af4e95d91c3d23473376fc7/master/pass/Uncanny-Valley-Jensen-Spy-Business.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
-    "title": "Families fight to keep Google’s “disturbing” AI off school-issued Chromebooks",
+    "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
     "description": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
     "categories": [
       "AI & Machine Learning",
@@ -133,7 +223,7 @@
   {
     "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
     "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-    "description": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open-source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+    "description": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -470,6 +560,7 @@
     "title": "Zelenskyy says Starshield has been slowed again, endangering Ukraine's defense",
     "description": "It comes three weeks after Ukraine's speeds were restored following the last throttling incident.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-12T17:45:03+00:00",
@@ -1279,18 +1370,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://www.techradar.com/audio/headphones/12-top-gift-ideas-for-the-music-lover-in-your-life-hand-picked-by-an-audio-expert-earbuds-starting-at-just-usd19-gbp19",
-    "title": "The 12 best gifts for music lovers: headphones, earbuds, stocking fillers and more",
-    "description": "Know a music-lover and looking for stocking fillers —or a bigger 'main' present? Whether they're into wired audio or the newest of the new wireless kit, here's my selection of the best audio gifts of 2026",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T16:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/QYTqNnd3JCg5SECfgMq648-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/vpn/vpn-services/beyond-data-breaches-nordvpns-new-tool-promises-to-help-you-shrink-your-full-digital-footprint",
     "title": "Beyond data breaches, NordVPN's new tool promises to help you shrink your full digital footprint",
     "description": "A breach alert only tells you half the story. NordVPN's new scanner tracks the passive digital shadow you leave behind every day. Here's how.",
@@ -1300,6 +1379,18 @@
     ],
     "pub_date": "2026-11-12T16:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/vb8prLo7smZeASJRTDupW3-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/audio/headphones/12-top-gift-ideas-for-the-music-lover-in-your-life-hand-picked-by-an-audio-expert-earbuds-starting-at-just-usd19-gbp19",
+    "title": "The 12 best gifts for music lovers: headphones, earbuds, stocking fillers and more",
+    "description": "Know a music-lover and looking for stocking fillers —or a bigger 'main' present? Whether they're into wired audio or the newest of the new wireless kit, here's my selection of the best audio gifts of 2026",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-12T16:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/QYTqNnd3JCg5SECfgMq648-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -1577,7 +1668,6 @@
     "description": "This is Fireworks' second data breach in as many months.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-11-12T15:02:28+00:00",
@@ -2030,6 +2120,18 @@
     "source_name": "WIRED.COM"
   },
   {
+    "link": "https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/",
+    "title": "Apple’s HomeView Tries Face Authentication Without FaceID",
+    "description": "Apple’s FaceID has long provided robust authentication. But for its smart home device, HomeView, the company is betting on new “person recognition” technology that has yet to be challenged in the wild.",
+    "categories": [
+      "Cybersecurity & Privacy",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-12T14:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6af4fda158905b6f1b0fc309/master/pass/Security_ApplesHomeview_v2-ezgif.com-video-to-gif-converter.gif",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.wired.com/story/how-google-is-making-its-smart-glasses-more-private/",
     "title": "Here’s How Google Says It’s Making Its Smart Glasses More Private",
     "description": "Eager to separate its glasses from Meta’s offerings, Google is positioning its frames as the more privacy-minded option.",
@@ -2040,18 +2142,6 @@
     ],
     "pub_date": "2026-11-12T14:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6af47bd6b9a1088954de923c/master/pass/DSC_0097.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/",
-    "title": "Apple’s HomeView Tries Face Authentication Without FaceID",
-    "description": "Apple’s FaceID has long provided robust authentication. But for its smart home device, HomeView, the company is betting on new “person recognition” technology that has yet to be challenged in the wild.",
-    "categories": [
-      "Cybersecurity & Privacy",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-12T14:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6af4fda158905b6f1b0fc309/master/pass/Security_ApplesHomeview_v2-ezgif.com-video-to-gif-converter.gif",
     "source_name": "WIRED.COM"
   },
   {
@@ -2313,85 +2403,5 @@
     "pub_date": "2026-11-12T13:42:56+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/xuTDXHAaPZ88Ez2Ewo5NgQ-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/12/peacock-thinks-vertical-video-will-make-you-watch-one-more-hour-per-month/",
-    "title": "Peacock thinks vertical video will make you watch one more hour per month",
-    "description": "NBCUniversal has announced what it describes as the largest mobile update ever to the Peacock iPhone app, with a bigger emphasis on vertical video. The company reportedly expects this to increase average usage of the app by one hour per user per month …\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T13:42:00+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Peacock-thinks-vertical-video-will-make-you-watch-one-more-hour-per-month.jpeg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/gaming/get-your-console-ready-for-grand-theft-auto-6/",
-    "title": "Is Your Console Ready for Grand Theft Auto 6? Here’s What You Can Do to Make Room",
-    "description": "Deleting old games isn’t the only option you have to make space for GTA 6.",
-    "categories": [
-      "Breaking News",
-      "Gaming"
-    ],
-    "pub_date": "2026-11-12T13:37:43+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Jason_and_Lucia_08.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/exclusive-fairphone-lands-its-first-us-carrier-partner-in-boost-mobile/",
-    "title": "Exclusive: Fairphone Lands Its First US Carrier Partner in Boost Mobile",
-    "description": "The sustainable phone maker is teaming up with its first US carrier to sell wireless plans alongside its fully repairable smartphone.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-12T13:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6af47a78c0a9fcf888a7377a/master/pass/DSC_9316.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techradar.com/ai-platforms-assistants/uber-doordash-and-airbnb-say-ai-agents-arent-taking-off-as-users-rebel-against-being-hyper-efficient-at-fun",
-    "title": "Hardly anyone is using AI agents for bookings, according to Uber and Airbnb",
-    "description": "Hardly anyone is using AI agents, several companies say, as users question the bots’ utility.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T13:27:45+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/rxoraGf52taTUrebNDz5B9-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-    "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-    "description": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-11-12T13:26:25+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/alphabet-3-8b-hong-kong-singapore-bonds",
-    "title": "Alphabet reportedly raises $3.8B in first Hong Kong and Singapore bonds",
-    "description": "Alphabet is raising about $3.8B through its first-ever Hong Kong and Singapore dollar bonds, according to term sheets seen by Reuters, beating its own target after investors placed more than $7B in orders. Google’s parent is selling HK$16B ($2B) of Hong Kong dollar bonds and S$2.28B ($1.8B) in Singapore dollars across seven tranches. It had",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T13:25:02+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/alphabet-logo-phone-sundar-pichai-portrait.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
-    "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
-    "description": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the Nancy Grace Roman Space Telescope.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T13:18:40+00:00",
-    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/gravitational-lens/Hubble_lenscollage_P18085_ok4_noletters.tif?w=2048",
-    "source_name": "SCIENCE.NASA.GOV"
   }
 ]
