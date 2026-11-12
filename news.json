@@ -1,5 +1,79 @@
 [
   {
+    "link": "https://www.techmeme.com/261112/p46#a261112p46",
+    "title": "Google launches Gemini 4 Hydrogen, built for rapid execution across diverse agentic workflows, priced at $1.50/1M input tokens and $7.50/1M output tokens (Koray Kavukcuoglu/Google)",
+    "description": "Koray Kavukcuoglu / Google:\nGoogle launches Gemini 4 Hydrogen, built for rapid execution across diverse agentic workflows, priced at $1.50/1M input tokens and $7.50/1M output tokens  —  Hydrogen brings cutting-edge intelligence to everyone.  —  SVP, Google DeepMind and Chief AI Architect, Google",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-12T18:40:47+00:00",
+    "image_url": "http://www.techmeme.com/261112/i46.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/12/grok-bot-for-mac-adds-integration-with-apple-mail-messages-notes-and-more/",
+    "title": "Grok Bot for Mac adds integration with Apple Mail, Messages, Notes, and more",
+    "description": "Grok Bot for Mac just gained a bunch of new Apple integrations, including Messages, Mail, Notes, and more.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-12T18:40:00+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/grokbot.webp?w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+    "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+    "description": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open-source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-12T18:39:23+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/",
+    "title": "Netflix releases new trailer for Ray Gunn",
+    "description": "\"It's hard being the only honest players in a crooked game.\"",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-12T18:38:38+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/raygunn-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/jcrew-style-advisor-claude-ai-stylist",
+    "title": "J.Crew launches an AI stylist built on Anthropic’s Claude",
+    "description": "J.Crew has launched Style Advisor, an AI stylist on its US website built with Anthropic’s Claude. Shoppers describe an occasion and get complete outfits from looks J.Crew’s stylists put together. Personal recommendations based on past purchases will come later. J.Crew has launched Style Advisor, an AI stylist on its website built with Anthropic’s Claude, Anthropic",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-12T18:37:14+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/claude-website-thinking-partner-screen.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/apple-support-community-closing-november-20",
+    "title": "Apple is closing its Support Community forum after 28 years",
+    "description": "Apple has stopped taking new posts on the Apple Support Community and will close the forum on 20 November. The site has been read-only since 10 November, according to a notice on its homepage. “You can continue to find trusted guidance and support on the official Apple Support site,” the notice says. 9to5Mac’s Marcus Mendes",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Social & Media",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-12T18:30:09+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/apple-support-community-memoji-banner.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/contributor-content/alloops-smart-ring-turns-into-a-fitness-band-but-its-ai-trick-is-even-cooler/",
     "title": "Alloop’s smart ring turns into a fitness band, but its AI trick is even cooler",
     "description": "Alloop Trio is a shape-shifting health wearable with a tiny sensor, a voice-enabled AI agent, and a few clever ideas about how wearables might be used in the future. Imagine finishing a workout, tapping your wrist, and telling your fitness tracker, “Just finished four sets of bench presses at 150 pounds. Feeling great today.” That’s",
@@ -298,8 +372,8 @@
   },
   {
     "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-    "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
-    "description": "Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition.",
+    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+    "description": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -349,6 +423,7 @@
     "title": "Apple says it will shut down its Apple Support Community forums after 28 years",
     "description": "Apple Support Community is no more as Apple shuts down its 28 year old community-run support forum.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-12T17:23:10+00:00",
@@ -1084,18 +1159,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://www.techradar.com/vpn/vpn-services/beyond-data-breaches-nordvpns-new-tool-promises-to-help-you-shrink-your-full-digital-footprint",
-    "title": "Beyond data breaches, NordVPN's new tool promises to help you shrink your full digital footprint",
-    "description": "A breach alert only tells you half the story. NordVPN's new scanner tracks the passive digital shadow you leave behind every day. Here's how.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T16:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/vb8prLo7smZeASJRTDupW3-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/audio/headphones/12-top-gift-ideas-for-the-music-lover-in-your-life-hand-picked-by-an-audio-expert-earbuds-starting-at-just-usd19-gbp19",
     "title": "The 12 best gifts for music lovers: headphones, earbuds, stocking fillers and more",
     "description": "Know a music-lover and looking for stocking fillers —or a bigger 'main' present? Whether they're into wired audio or the newest of the new wireless kit, here's my selection of the best audio gifts of 2026",
@@ -1105,6 +1168,18 @@
     ],
     "pub_date": "2026-11-12T16:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/QYTqNnd3JCg5SECfgMq648-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/vpn/vpn-services/beyond-data-breaches-nordvpns-new-tool-promises-to-help-you-shrink-your-full-digital-footprint",
+    "title": "Beyond data breaches, NordVPN's new tool promises to help you shrink your full digital footprint",
+    "description": "A breach alert only tells you half the story. NordVPN's new scanner tracks the passive digital shadow you leave behind every day. Here's how.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-12T16:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/vb8prLo7smZeASJRTDupW3-1920-80.png",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -1479,6 +1554,7 @@
     "title": "Ray Gunn trailer: The Incredibles director Brad Bird cooks up a wild sci-fi mystery",
     "description": "Sam Rockwell, Scarlett Johansson, and Tom Waits star in director Brad Bird's \"Ray Gunn,\" out in theaters Dec. 4 and on Netflix Dec. 18.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-12T14:46:04+00:00",
@@ -2233,6 +2309,17 @@
     "source_name": "THENEXTWEB.COM"
   },
   {
+    "link": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/",
+    "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
+    "description": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept. 21, 2012, while millions watched space shuttle Endeavour fly on top of the agency’s 747 Shuttle Carrier Aircraft for the last time. Endeavour’s new home",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-12T13:00:00+00:00",
+    "image_url": "https://www.youtube.com/embed/RrkH0jfX-4Y",
+    "source_name": "NASA.GOV"
+  },
+  {
     "link": "https://gizmodo.com/how-you-could-end-up-in-a-government-surveillance-database-flock-2000838543",
     "title": "How You Could End Up in a Government Surveillance Database and Never Know It",
     "description": "From money transfers to license plate readers and cellphone location data, ordinary activities can quietly feed government and law enforcement surveillance dragnets.",
@@ -2243,17 +2330,6 @@
     "pub_date": "2026-11-12T13:00:00+00:00",
     "image_url": "https://gizmodo.com/app/uploads/2026/11/Access-Control-gov-database1-1280x853.jpg",
     "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/",
-    "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
-    "description": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept. 21, 2012, while millions watched space shuttle Endeavour fly on top of the agency’s 747 Shuttle Carrier Aircraft for the last time. Endeavour’s new home",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T13:00:00+00:00",
-    "image_url": "https://www.youtube.com/embed/RrkH0jfX-4Y",
-    "source_name": "NASA.GOV"
   },
   {
     "link": "https://www.techradar.com/gaming/ai-is-not-an-artist-mass-effect-1-and-2-composer-shares-his-stance-on-ai-replacement-in-video-games-says-machines-can-never-be-artists-as-they-arent-human",
@@ -2312,74 +2388,5 @@
     "pub_date": "2026-11-12T12:45:01+00:00",
     "image_url": "http://www.techmeme.com/261112/i25.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/contributor-content/best-ai-reputation-management-firms-in-2026-top-picks-for-ai-visibility-llm-reputation-vs-traditional-orm/",
-    "title": "Best AI Reputation Management Firms in 2026: Top Picks for AI Visibility & LLM Reputation (vs. Traditional ORM)",
-    "description": "When someone asks ChatGPT, Gemini or Perplexity about your business, the answer they get is now your first impression. ChatGPT alone reached 900 million weekly active users in February 2026. Traditional online reputation management was built to push bad links off page one. AI visibility and LLM reputation management is about what the answer itself",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T12:43:24+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/ai-reputation-management-1350x810-1.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://mashable.com/life/nov-12-lego-pokemon-pikachu-and-poke-ball-early-black-friday-deal",
-    "title": "Legos Pikachu and Poké Ball has dropped to a new low price at Amazon — save $40.04 before Black Friday",
-    "description": "As of Nov. 12, the Lego Pokémon Pikachu and Poké Ball set has hit its lowest-ever price of $159.95 at Amazon, 20% off its list price of $199.99.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T12:42:15+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04psRyay491HC72DfqnUw2C/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/ps5-ps5-pro-black-friday-deals-2026-what-to-expect",
-    "title": "PS5 and PS5 Pro Black Friday deals 2026: What to realistically expect",
-    "description": "Wondering if the PS5 Slim or PS5 Pro will go on sale for Black Friday 2026? Here is what to realistically expect on console prices, bundles, games, and controllers.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T12:37:32+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01hMJ2ZfO8F14H0JS1yLOnR/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261112/p24#a261112p24",
-    "title": "Australian quantum software startup Q-Ctrl, which builds sensors that help ships and aircraft navigate when GPS is unavailable, raised $290M at a $1B+ valuation (Jake Rudnitsky/Bloomberg)",
-    "description": "Jake Rudnitsky / Bloomberg:\nAustralian quantum software startup Q-Ctrl, which builds sensors that help ships and aircraft navigate when GPS is unavailable, raised $290M at a $1B+ valuation  —  Salesforce Ventures led a $290 million round in Q-Ctrl that values the Australian quantum software company at more than $1 billion.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T12:35:01+00:00",
-    "image_url": "http://www.techmeme.com/261112/i24.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/mobile/anker-universal-charger-review-for-travel/",
-    "title": "Why This Anker Universal Charger Is the Only Power Accessory I Pack for Travel",
-    "description": "The slew of port and plug options is great, and the built-in display is just as useful.",
-    "categories": [
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-11-12T12:30:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/DSC01002.jpeg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/prince-harry-lost-screen-memorial-eu-kids-act-infinite-scroll",
-    "title": "Prince Harry urges EU to make tech firms prove apps are safe for children",
-    "description": "Prince Harry wants tech companies, not parents, to carry the burden of child safety online. He told the European Parliament on Tuesday that firms must show that children can use their products safely. He spoke in Brussels at the opening of the Lost Screen Memorial. It honours children whose parents link their deaths to harm",
-    "categories": [
-      "Cybersecurity & Privacy",
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-12T12:22:44+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/prince-harry-european-parliament-lectern-eu-flag.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
