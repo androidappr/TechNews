@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "description": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-11-13T19:37:57+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/13/apple-releases-tvos-27-2-1-and-homepod-27-2-1-heres-whats-new/",
+    "title": "Apple releases tvOS 27.2.1 and HomePod 27.2.1, here’s what’s new",
+    "description": "Apple has just released tvOS 27.2.1 for Apple TV 4K and HomePod 27.2.1 for HomePod models, here’s what’s new.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T19:33:08+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/apple-tv-homepod-mini.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/11/13/perplexity-brings-ai-agents-feature-called-teammates-to-the-mac/",
     "title": "Perplexity brings AI agents feature called Teammates to the Mac",
     "description": "This week, Perplexity has deployed its new proactive agentic AI feature called Teammates to the Mac. Perplexity Teammates were previously limited to iOS and the web.\n\n\n\n more…",
@@ -22,6 +46,18 @@
     "pub_date": "2026-11-13T19:20:01+00:00",
     "image_url": "http://www.techmeme.com/261113/i25.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/microsoft-outlook-outage-cause-revealed-nov-12-2026",
+    "title": "Microsoft Outlook outage cause seemingly revealed",
+    "description": "Microsoft is investigating failed server checks as a possible cause of the Nov. 12 Outlook outage and gradually restoring service.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T19:18:30+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/055s0HqbrABvEhIUshwf2Fg/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.engadget.com/2316384/google-now-lets-people-connect-gemini-to-their-bank-accounts/",
@@ -783,7 +819,7 @@
   },
   {
     "link": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-could-be-working-on-some-handy-features-for-its-contacts-app-and-one-will-make-sure-you-never-forget-important-birthdays-again",
-    "title": "Samsung could be working on some handy features for its Contacts app, and one will make sure you never forget important birthdays again",
+    "title": "A new Samsung feature means you'll never forget important birthdays again",
     "description": "A new APK teardown points to a new Samsung Contacts tool that helps you manage birthdays.",
     "categories": [
       "Tech News"
@@ -1153,7 +1189,6 @@
     "title": "Security Bite: Apple details Secure Exclaves, a glimpse at its ambient computing future",
     "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening & Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\n\n\n\n\n\n\n\nApple published a new security research post this week detailing Secure Exclaves, a new architecture built to handle what the company calls “ambient sensing.” The latter isn’t anything new. “Hey, Siri” has been using a version of this always-on listening technology for years. The difference now (particularly on newer devices like Apple Watch Series 12 and HomeView) is new features need far more data from your surroundings, and Apple has changed where that data gets processed.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-13T15:42:20+00:00",
@@ -2288,41 +2323,6 @@
     ],
     "pub_date": "2026-11-13T10:00:31+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/03IeX4zb2j0zCgKnLTt2HgK/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/",
-    "title": "The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat",
-    "description": "With Hubble expected to reenter the atmosphere by 2034 and several malfunctions on board, NASA is asking commercial space companies for proposals on how to extend the telescope’s lifespan.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-13T10:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6af5dcf2d057d0b5e841ea04/master/pass/27990737266_8b321346a4_o.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/review/bitdefender-antivirus-plus/",
-    "title": "Bitdefender Antivirus Plus Review: Undercutting the Competition",
-    "description": "It’s not promoted very much, but Bitdefender’s stand-alone Antivirus Plus software is both effective and affordable.",
-    "categories": [
-      "Cybersecurity & Privacy",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-13T10:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6ab18d47c9d4d635b849cb4e/master/pass/Review--Bitdefender-Antivirus-Plus.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/science/spacex-test-two-catches-starship-ship-and-booster",
-    "title": "Watch SpaceXs wildest test yet: A 22-hour flight and a historic return",
-    "description": "Starship Flight 15 launches as soon as Nov. 13, and SpaceX will try to catch the Super Heavy booster and ship in one daylong flight.",
-    "categories": [
-      "Breaking News",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-13T10:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04EjhCM8g65q9zYAWhRc5vK/hero-image.jpg",
     "source_name": "MASHABLE.COM"
   }
 ]
