@@ -1,5 +1,31 @@
 [
   {
+    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "description": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-13T22:43:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/best-early-black-friday-airpods-deals-11-13-2026/",
+    "title": "Best Early Black Friday AirPods Deals (2026)",
+    "description": "Black Friday is still weeks away, but AirPods discounts are dropping early.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-13T22:30:29+00:00",
+    "image_url": "https://media.wired.com/photos/6a6a501f4a743f1551e95445/master/pass/If-You%E2%80%99ve-Been-Waiting-to-Upgrade-Your-AirPods,-This-Is-Your-Chance.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261113/p33#a261113p33",
     "title": "Source: the FBI is probing whether the FAA outage was caused by a software update, and doesn't believe it was due to a cyberattack or criminality (Myles Miller/Bloomberg)",
     "description": "Myles Miller / Bloomberg:\nSource: the FBI is probing whether the FAA outage was caused by a software update, and doesn't believe it was due to a cyberattack or criminality  —  The Federal Bureau of Investigation doesn't believe the communication issue affecting air traffic control was due to a cyberattack or criminality, said a person familiar with the matter.",
@@ -10,6 +36,18 @@
     "pub_date": "2026-11-13T22:20:00+00:00",
     "image_url": "http://www.techmeme.com/261113/i33.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/faa-grounds-all-flights-united-states-flight-status-trackers",
+    "title": "Flight status tracker: How to check online after FAA grounds all flights",
+    "description": "On Friday the 13th, the FAA grounded all airplanes in the U.S. for the third time in history. Here's how to check flight status.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T22:11:12+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01s8ZR9uCHXh6p0geEi6ArD/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techmeme.com/261113/p32#a261113p32",
@@ -532,7 +570,6 @@
     "title": "Microsoft Outlook outage cause seemingly revealed",
     "description": "Microsoft is investigating failed server checks as a possible cause of the Nov. 12 Outlook outage and gradually restoring service.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-13T19:18:30+00:00",
@@ -569,6 +606,7 @@
     "title": "Some investors and founders say they lost an ally in Jensen Huang; Nvidia held $48B in 229 private companies as of July and offered $165B in cloud backstops (New York Times)",
     "description": "New York Times:\nSome investors and founders say they lost an ally in Jensen Huang; Nvidia held $48B in 229 private companies as of July and offered $165B in cloud backstops  —  Mr. Huang championed start-ups, with Nvidia holding $48 billion worth of stakes in 229 private companies, including OpenAI and Anthropic, at the end of July.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-13T19:10:01+00:00",
@@ -687,7 +725,6 @@
     "description": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-13T18:40:30+00:00",
@@ -700,7 +737,6 @@
     "description": "Sierra has released version 1.0 of Personal Agent Protocol, or Poppy, a standard for how personal AI agents deal with companies. Shopify has turned it on for every store, Meta’s Muse agent now looks for it on every site, and more than 100 companies have signed up. Sierra has released version 1.0 of Personal Agent",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-11-13T18:37:45+00:00",
@@ -1218,7 +1254,6 @@
     "title": "The best early Black Friday travel deals: Save on hotels, flights, and luggage",
     "description": "Shop early Black Friday travel deals on hotels, flights, and luggage. Check booking deadlines, travel dates, and restrictions.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-13T16:43:24+00:00",
@@ -1252,7 +1287,6 @@
     "title": "Microsoft services are returning after an outage took down Outlook, Teams and more",
     "description": "The House of Representatives, health care providers, schools and many other organizations were affected.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-13T16:35:36+00:00",
@@ -2272,39 +2306,5 @@
     "pub_date": "2026-11-13T12:58:10+00:00",
     "image_url": "https://www.engadget.com/img/gallery/companies-linked-to-alice-huang-reportedly-smuggled-nvidia-chips-installed-at-shanghai-data-center/l-intro-1794574510.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-    "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-    "description": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-13T12:52:19+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/cars/tesla-quietly-axed-the-most-affordable-all-wheel-drive-model-y/",
-    "title": "Tesla quietly axed the most affordable all-wheel-drive Model Y",
-    "description": "The entry-level Model Y AWD, which used to cost $41,990, is no longer listed on the Model Y configurator, though some units can still be bought from existing inventory.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-13T12:52:14+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Screenshot-2026-11-13-at-6.14.01-PM-scaled.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261113/p9#a261113p9",
-    "title": "Source: at an August 2026 finance meeting, Jensen Huang interrupted Colette Kress' presentation, calling her \"a deer in the headlights\" and a \"reporting CFO\" (Wall Street Journal)",
-    "description": "Wall Street Journal:\nSource: at an August 2026 finance meeting, Jensen Huang interrupted Colette Kress' presentation, calling her “a deer in the headlights” and a “reporting CFO”  —  Interim CEO Colette Kress has questioned some Huang dealmaking.  He called her ‘a deer in the headlights.’",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-13T12:50:01+00:00",
-    "image_url": "http://www.techmeme.com/261113/i9.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
