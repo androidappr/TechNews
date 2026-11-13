@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.cnet.com/home/security/google-aliro-digital-wallet-keys-home-locks/",
+    "title": "Google Catches Up to Apple, With Digital Wallet Keys for Your Physical Home Lock",
+    "description": "Google Wallet can unlock Android users’ doors who have compatible smart locks.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-13T00:49:36+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/schlage-sense-pro-outside_607598.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+    "title": "Donald Trump really wants Tim Cook to run Nvidia",
+    "description": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking giant: former Apple CEO Tim",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-13T00:46:07+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/gettyimages-2228842017.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261112/p66#a261112p66",
     "title": "Sources: President Trump urged Jensen Huang to keep fighting for his job in a Tuesday call; aides say Trump saw the company as essentially too big to fail (New York Times)",
     "description": "New York Times:\nSources: President Trump urged Jensen Huang to keep fighting for his job in a Tuesday call; aides say Trump saw the company as essentially too big to fail  —  The president called the Nvidia chief on Tuesday, continuing a pattern of supporting him even as the spy scandal was intensifying.",
@@ -469,7 +492,6 @@
     "title": "Artificial Analysis' Intelligence Index: Gemini 4 Hydrogen nearly ties Claude Sonnet 5.5 and GPT-6.1 Sol, at a third of Sonnet's cost but ~2.5x that of Sol (@artificialanlys)",
     "description": "@artificialanlys:\nArtificial Analysis' Intelligence Index: Gemini 4 Hydrogen nearly ties Claude Sonnet 5.5 and GPT-6.1 Sol, at a third of Sonnet's cost but ~2.5x that of Sol  —  Google's new Gemini 4 Hydrogen has Intelligence just below Claude Sonnet 5.5 and GPT-6.1 Sol, at a third of Sonnet's cost but ~2.5x that of GPT-6.1 Sol @GoogleDeepMind has released their third new model in six weeks. Gemini 4 Hydrogen introduces an xhigh reasoning level and scores 54 on the Artifi...",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-12T22:15:00+00:00",
@@ -586,7 +608,7 @@
   },
   {
     "link": "https://www.cnet.com/home/kitchen-and-household/miele-new-full-surface-induction-cooktop-one-big-burner/",
-    "title": "Put That Pan Anywhere: Miele’s New Full-Surface Induction Cooktop Is One Big Burner",
+    "title": "Put That Pan Anywhere: Miele’s New Induction Cooktop Is One Big Burner",
     "description": "The unique full-surface cooktop accommodates up to six pieces of cookware at once, anywhere you place them.",
     "categories": [
       "Tech News"
@@ -1006,17 +1028,6 @@
     "source_name": "GIZMODO.COM"
   },
   {
-    "link": "https://www.theverge.com/column/1032243/peptides-american-manufacturing-maha",
-    "title": "Meet the people who want peptides to be made in America",
-    "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. We'll be taking a break next week and will be back on November 25th. Opt in for Optimizer here. The SS Jeremiah O'Brien is a",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-12T20:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/SS-Jeremiah-3.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-ai-probably-nothing-to-worry-about",
     "title": "How to watch AI: Probably Nothing to Worry About for FREE",
     "description": "Dive into this thrilling documentary about the rise of artificial intelligence. Here's how to watch AI: Probably Nothing to Worry About online and for FREE.",
@@ -1037,6 +1048,17 @@
     "pub_date": "2026-11-12T20:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/v7nJpXxDnCk2NTpQy9gng-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.theverge.com/column/1032243/peptides-american-manufacturing-maha",
+    "title": "Meet the people who want peptides to be made in America",
+    "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. We'll be taking a break next week and will be back on November 25th. Opt in for Optimizer here. The SS Jeremiah O'Brien is a",
+    "categories": [
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-12T20:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/SS-Jeremiah-3.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
@@ -1427,7 +1449,6 @@
     "description": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware",
       "Government & Policy",
@@ -1466,7 +1487,6 @@
     "title": "Microsoft Outlook experiencing widespread outage",
     "description": "Everybody’s working for the weekend, but Microsoft Outlook clocked out early. The mission-critical email service is facing a widespread outage.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-12T18:54:54+00:00",
@@ -1511,8 +1531,7 @@
     "title": "Google’s next-gen Gemini 4 Hydrogen AI model is here, touting faster intelligence for all",
     "description": "Merely weeks after introducing the Gemini 4 Carbon and Gemini 4 Argon frontier AI models, the company has today launched Gemini 4 Hydrogen.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-12T18:46:01+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Screenshot-2026-11-12-at-11.48.16-PM.jpg?resize=440%2C292&ssl=1",
@@ -2316,29 +2335,5 @@
     "pub_date": "2026-11-12T16:45:54+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/JuUeKKYAEzfRckGqmZw6Kd-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://gizmodo.com/trump-tim-cook-jensen-huang-replace-2000838938",
-    "title": "Trump Wants Tim Apple to Replace Jensen Huang as Nvidia CEO",
-    "description": "\"A Legend replaces a Legend!\" Trump wrote on Truth Social.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-11-12T16:45:37+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/01/tim-cook-donald-trump-oct-28-2025-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261112/p43#a261112p43",
-    "title": "Colette Kress may take a more conservative approach than Jensen Huang; sources say she sometimes pushed back on his riskier deals like backstopping OpenAI (Phoebe Liu/The Information)",
-    "description": "Phoebe Liu / The Information:\nColette Kress may take a more conservative approach than Jensen Huang; sources say she sometimes pushed back on his riskier deals like backstopping OpenAI  —  Nvidia's appointment Thursday of its longtime chief financial officer Colette Kress as interim CEO will force the finance veteran …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T16:45:33+00:00",
-    "image_url": "http://www.techmeme.com/261112/i43.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
