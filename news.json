@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.techradar.com/vpn/vpn-privacy-security/is-mark-zuckerbergs-cute-new-ai-assistant-a-surveillance-trap-why-child-safety-experts-are-sounding-the-alarm-over-meta-muse",
+    "title": "Is Mark Zuckerberg's cute new AI assistant a surveillance trap? Why child safety experts are sounding the alarm over Meta Muse",
+    "description": "While Mark Zuckerberg frames Meta’s Muse as a \"fun, completely customizable character,\" child digital safety experts warn of a new youth digital crisis. Here, what's at stake as the cute AI agent prepares to land in more countries.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T11:15:36+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/kH8bwiKbxzv4sMKt49rvbj-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/uk-firms-are-spending-billions-on-hidden-infrastructure-costs-money-they-cant-spend-on-hiring-or-ai",
+    "title": "UK firms are spending billions on hidden infrastructure costs — money they can't spend on hiring or AI",
+    "description": "The UK overspends £3.8 billion on infrastructure every year – one third is directed to AI. But it means hiring and training are taking a hit.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T11:15:15+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/a-servant-class-not-a-working-class-stephen-millers-biographer-on-what-comes-next/",
+    "title": "‘A Servant Class, Not a Working Class’: Stephen Miller’s Biographer on What Comes Next",
+    "description": "Jean Guerrero, Stephen Miller’s biographer, sees him as “a case study in oligarchic capture”—and as a way for Donald Trump to double down.",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-13T11:15:00+00:00",
+    "image_url": "https://media.wired.com/photos/6af48b9f1bbf3e7f3fba04d9/master/pass/GettyImages-2214264559.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/workers-dont-mind-if-ai-is-making-their-employer-more-productive-so-long-as-they-get-paid-well",
     "title": "Workers don't mind if AI is making their employer more productive  — so long as they get paid well",
     "description": "Half of workers want higher pay if AI earns their company more – many others want shorter working hours and greater job security.",
@@ -452,7 +487,6 @@
     "title": "OpenAI launches Daybreak Red Team in early access to test web apps for flaws and Daybreak Defense Factory to automate finding, validating, and fixing them (Jessica Lyons/The Register)",
     "description": "Jessica Lyons / The Register:\nOpenAI launches Daybreak Red Team in early access to test web apps for flaws and Daybreak Defense Factory to automate finding, validating, and fixing them  —  OpenAI has launched two new security products, one for penetration testing and another for defense, and warned organizations …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-13T07:25:02+00:00",
@@ -698,7 +732,6 @@
     "title": "Microsoft 365 Outage Stretches Late Into the Evening, With Services Like Outlook and Teams Still Unstable",
     "description": "Microsoft 365 services were unavailable for much of the workday, and remained so into the night.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-13T03:10:16+00:00",
@@ -2218,40 +2251,6 @@
       "Business & Startups"
     ],
     "pub_date": "2026-11-12T19:11:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
-    "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
-    "description": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
-    "categories": [
-      "Business & Startups",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-12T19:09:57+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelenskyy-1152x648-1794506400.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/anthropic-self-hosted-claude-managed-agents",
-    "title": "Anthropic lets companies run Claude’s agent service on their own servers",
-    "description": "Anthropic now lets companies run Claude Managed Agents in their own cloud or data centre. Agent histories and credentials stay on their systems, but each model call still goes to an outside provider such as Anthropic or AWS. Anthropic now lets companies run its Claude Managed Agents service on their own servers, Help Net Security",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-12T19:06:13+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/anthropic-wordmark-3d-render-purple-glass.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
-    "title": "Microsoft’s Outlook email hit by new outage",
-    "description": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-12T19:03:39+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
   }
