@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.androidcentral.com/apps-software/spotify/spotify-wrapped-is-almost-here-here-are-3-ways-to-get-the-perfect-end-of-year-summary",
+    "title": "Spotify Wrapped is almost here — here are 3 ways to get the perfect end of year summary",
+    "description": "Spotify Wrapped is fast approaching, so now's the time to start preparing for everyone's favorite end-of-year summary.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T10:17:10+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/7Puw8jssvshmaZFfvfJAXV-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/malaysia-speedmatrix-megaspeed-ai-chip-probe",
+    "title": "Malaysia investigates AI chips linked to the firm in Nvidia’s spy scandal",
+    "description": "Malaysia is investigating whether AI chips imported by Speedmatrix, the local unit of Singapore-based cloud firm Megaspeed, were re-exported, the country’s trade ministry said on Friday, Reuters reports. The same scandal that cost Jensen Huang the Nvidia CEO job has reached customs enforcement in Southeast Asia. The probe follows a US senator’s allegation that Megaspeed",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-13T10:16:51+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/circuit-board-processor-chip-macro.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.androidcentral.com/wearables/fitbit/its-a-joke-fitbit-users-are-beyond-annoyed-with-google-healths-latest-bug-but-theyre-seeking-alternative-ways-to-get-their-vitals-back",
     "title": "Google Health update causes Fitbit app to hide health metrics",
     "description": "Health metrics and vitals are still missing from the Fitbit app even though Google says it's looking into it.",
@@ -276,9 +299,10 @@
   },
   {
     "link": "https://thenextweb.com/news/microsoft-outage-outlook-teams-12-hours-global",
-    "title": "Microsoft’s Outlook and Teams outage passes 12 hours with no fix in sight",
-    "description": "A global Microsoft outage has left millions of people without Outlook email, Teams, and other Microsoft 365 services for more than 12 hours, disrupting banks, governments, courts, and airlines across several continents. The trouble began on Thursday in the Americas and went global within the hour: outage reports “reached 74 countries and territories in about",
+    "title": "Microsoft’s Outlook and Teams outage passes 12 hours, disrupting AI services and businesses worldwide",
+    "description": "A global Microsoft outage has disrupted Outlook, Teams, Copilot and other Microsoft 365 services for more than 12 hours, affecting businesses, government agencies, financial institutions and airlines across several continents. The disruption has also spread to third-party AI services, with OpenAI’s ChatGPT and Anthropic’s Claude reporting problems with their Microsoft 365 connectors. The trouble began",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-13T07:50:29+00:00",
@@ -2232,27 +2256,5 @@
     "pub_date": "2026-11-12T18:51:11+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/wearables/samsung-galaxy-watch/samsungs-health-app-exec-weighs-in-on-upcoming-changes",
-    "title": "Samsung's Health app isn't personal enough—exec weighs in on upcoming changes",
-    "description": "A Samsung exec got candid about major AI updates coming for its Health app, as well as the future of merging user health data with hospitals and doctors.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T18:47:24+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/dFwawDhK2LrM7KbNczM7fQ-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/cool-tech/googles-next-gen-gemini-4-hydrogen-ai-model-is-here-touting-faster-intelligence-for-all/",
-    "title": "Google’s next-gen Gemini 4 Hydrogen AI model is here, touting faster intelligence for all",
-    "description": "Merely weeks after introducing the Gemini 4 Carbon and Gemini 4 Argon frontier AI models, the company has today launched Gemini 4 Hydrogen.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-12T18:46:01+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Screenshot-2026-11-12-at-11.48.16-PM.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
   }
 ]
