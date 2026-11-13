@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.digitaltrends.com/computing/microsoft-365-outage-affected-services-recovery-status/",
+    "title": "Microsoft 365 outage enters second day: Here’s what’s still affected",
+    "description": "Several Microsoft services, including Outlook, Teams, Copilot, and Exchange Online, have been experiencing a widespread outage since Thursday. The disruption has now entered its second day, affecting businesses, government agencies, and other organizations across the world. Microsoft has been trying to restore its services for several hours now, but a complete fix is yet to",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T10:57:04+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/09/New-Outlook-app-logo-with-blurred-background.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261113/p7#a261113p7",
+    "title": "A review of Chinese contracts, disclosures, and other documents identifies $3.2B+ in compute projects built or planned around Nvidia GPUs restricted by the US (Eduardo Baptista/Reuters)",
+    "description": "Eduardo Baptista / Reuters:\nA review of Chinese contracts, disclosures, and other documents identifies $3.2B+ in compute projects built or planned around Nvidia GPUs restricted by the US  —  Nvidia has said US export controls have effectively shut it out of China's AI data-centre market, but a Reuters review has identified …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T10:50:00+00:00",
+    "image_url": "http://www.techmeme.com/261113/i7.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2315689/whoop-humans-is-a-social-network-designed-for-fitness-enthusiasts/",
+    "title": "Whoop Humans is a social network designed for fitness enthusiasts",
+    "description": "Whoop, a company that makes screenless fitness trackers, has launched its own social network.",
+    "categories": [
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-13T10:39:44+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/whoop-humans-is-a-social-network-designed-for-fitness-enthusiasts/l-intro-1794566195.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.wired.com/story/cybertruck-fans-demand-answers-from-elon-musk-about-the-vehicles-demise/",
     "title": "‘Call Him Out’: Cybertruck Loyalists Are in Mourning—and They Want Answers From Elon Musk",
     "description": "Tesla’s unpredictable CEO is ready to move on from the company’s most controversial vehicle, but owners aren’t about to let him off the hook for what they see as a poor decision.",
@@ -2219,43 +2254,5 @@
     "pub_date": "2026-11-12T19:00:00+00:00",
     "image_url": "https://media.wired.com/photos/6af5e520156d389dd99a110b/master/pass/GettyImages-2175753469.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-shetland-season-11-free-streams-from-anywhere-in-the-world",
-    "title": "How to watch Shetland season 11 — free streams from anywhere in the world",
-    "description": "The remains of an unknown man are retrieved from a lake. Here's how to watch Shetland season 11 online.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T19:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/gvdvbvdUjtdv7sWvs6Tygc-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
-    "title": "Jensen Huang’s $470 Billion Affair",
-    "description": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Gadgets & Hardware",
-      "Government & Policy",
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-12T18:59:58+00:00",
-    "image_url": "https://media.wired.com/photos/6af4e95d91c3d23473376fc7/master/pass/Uncanny-Valley-Jensen-Spy-Business.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
-    "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-    "description": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
-    "categories": [
-      "AI & Machine Learning",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-12T18:57:45+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win-1152x648.jpeg",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
