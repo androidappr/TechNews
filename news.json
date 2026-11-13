@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://www.techmeme.com/261113/p20#a261113p20",
+    "title": "Wall Street fears Jensen Huang's ouster will slow Nvidia's AI dealmaking; sources: its $500B lending consortium is in flux and at least one lender may exit (New York Times)",
+    "description": "New York Times:\nWall Street fears Jensen Huang's ouster will slow Nvidia's AI dealmaking; sources: its $500B lending consortium is in flux and at least one lender may exit  —  The ousted Nvidia chief executive was the consummate dealmaker leading the trillion-dollar A.I. build out.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T17:30:02+00:00",
+    "image_url": "http://www.techmeme.com/261113/i20.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+    "title": "AI is \"the most likely reason\" you'll die, OpenAI board member warns",
+    "description": "Researcher traces a path from AI reward hacking to potential human extinction.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-13T17:25:45+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261113/p19#a261113p19",
+    "title": "OpenAI disbands its standalone robotics team, moving its staff to research and Applied units, saying models like GPT-6 Astra can be directly applied to robotics (Wen Shao/Fortune)",
+    "description": "Wen Shao / Fortune:\nOpenAI disbands its standalone robotics team, moving its staff to research and Applied units, saying models like GPT-6 Astra can be directly applied to robotics  —  OpenAI has disbanded its stand-alone robotics team, moving its researchers onto other teams.  —  The company confirmed the reorganization when asked about it by Fortune.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T17:25:01+00:00",
+    "image_url": "http://www.techmeme.com/261113/i19.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2316137/you-can-now-tempt-fate-and-give-your-banking-information-to-chatgpt/",
+    "title": "You can now tempt fate and give your banking information to ChatGPT",
+    "description": "The new Wallet feature will allow its AI agents to make purchases on your behalf.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-13T17:17:51+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/you-can-now-tempt-fate-and-give-your-banking-information-to-chatgpt/l-intro-1794590211.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/",
+    "title": "The Microsoft Outage Is a Warning for the World",
+    "description": "Countless businesses, schools, hospitals, and governments have found out the hard way what it means to rely on a single company’s systems to get things done. And next time could be even worse.",
+    "categories": [
+      "Cybersecurity & Privacy",
+      "Government & Policy",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-13T17:15:54+00:00",
+    "image_url": "https://media.wired.com/photos/6af7348a98648de7b1064e82/master/pass/Security_Microsoft365OfflineProblem_v3.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
     "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
     "description": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done shrinking its hardware. Camp Snap's new CS-8 Micro is even smaller than the",
@@ -33,6 +93,17 @@
     "pub_date": "2026-11-13T17:03:26+00:00",
     "image_url": "http://www.techmeme.com/261113/i17.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/13/this-tiny-ios-27-camera-feature-really-makes-a-huge-difference/",
+    "title": "This tiny iOS 27 camera feature really makes a huge difference",
+    "description": "When shooting both photos and videos on my iPhone, I make regular use of a few different third-party apps, mostly because I like to take manual control.\n\n\n\nBut a combination of the new Pro controls on the iPhone 18 Pro and a new feature introduced with iOS 27 means there are more times when I can stick to Apple’s stock Camera app. If you aren’t already using customizable controls, I highly recommend doing so …\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T17:00:00+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iPhone-18-Pro-and-iOS-27-customizable-controls.jpeg?quality=82&strip=all&w=1200",
+    "source_name": "9TO5MAC.COM"
   },
   {
     "link": "https://www.techradar.com/entertainment/football/watch-scotland-vs-north-macedonia-nations-league-2026-27-free",
@@ -106,13 +177,13 @@
   },
   {
     "link": "https://www.cnet.com/tech/mobile/iphone-duo-fold-test-3-weeks-starting-fail/",
-    "title": "After 3 Weeks and More Than 400,000 Folds, the iPhone Duo’s Hinge Is Finally Starting to Fail",
+    "title": "After 3 Weeks and More Than 451,000 Folds, the iPhone Duo’s Hinge Is Finally Starting to Fail",
     "description": "We built a machine to fold the iPhone Duo until it breaks. Twenty days of 24/7 folding later, Apple’s phone shows the first major sign of wear.",
     "categories": [
       "Mobile & Telecom"
     ],
     "pub_date": "2026-11-13T16:50:08+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/iPhone-Duo-430K-Fold-a-Phone-machine.jpg",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/2192.jpeg",
     "source_name": "CNET.COM"
   },
   {
@@ -1408,7 +1479,6 @@
     "title": "Low storage space doesn’t mean no gaming – this new version of PUBG Mobile is under 1GB, bringing 'one of the world’s most popular mobile games' to more players",
     "description": "A new version of PUBG Mobile just released, and it's designed to save your storage space.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-11-13T11:31:11+00:00",
@@ -2239,71 +2309,5 @@
     "pub_date": "2026-11-13T03:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/05Fa4dTzIw58l7PYJFwJ67F/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/hurdle-hints-answers-november-13-2026",
-    "title": "Hurdle hints and answers for November 13, 2026",
-    "description": "Hints and answers to today's Hurdle all in one place.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-13T03:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07FapBgGNatc6UM6KMDkWAA/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/speed-is-not-a-creative-strategy-adobe-execs-say-that-while-ai-is-delivering-results-faster-its-humans-who-still-bring-the-quality",
-    "title": "'Speed is not a creative strategy': Adobe execs say that while AI is delivering results faster, its humans who still bring the quality",
-    "description": "While AI is giving more people the power to explore their creativity, professionals still need to bring the 'taste, craft and judgement.'",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-13T02:40:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ZRcPJENKuErVopcrhgCVWa-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261112/p69#a261112p69",
-    "title": "Sources: Nvidia faced pressure to boost its 25% residual value support backstop on a planned $500B AI financing vehicle with asset managers before Huang's exit (Bloomberg)",
-    "description": "Bloomberg:\nSources: Nvidia faced pressure to boost its 25% residual value support backstop on a planned $500B AI financing vehicle with asset managers before Huang's exit  —  Before Nvidia Corp. was thrown into turmoil by the ouster of longtime chief executive Jensen Huang, a major initiative …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-13T02:11:02+00:00",
-    "image_url": "http://www.techmeme.com/261112/i69.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/12/apple-tv-just-debuted-three-new-originals-including-a-heist-thriller-series/",
-    "title": "Apple TV just debuted three new originals, including a heist thriller series",
-    "description": "Apple TV subscribers can now watch three new originals, including a heist thriller series, a film based on true events, and the first of two holiday specials coming to the platform this season. Watch the trailers below.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-13T02:02:34+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-tv-logo-black.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261112/p68#a261112p68",
-    "title": "Sources close to Jensen Huang say he has taken a penitent turn, castigated himself as a \"piece of shit\", and claims to not care what happens to himself (Bloomberg)",
-    "description": "Bloomberg:\nSources close to Jensen Huang say he has taken a penitent turn, castigated himself as a “piece of shit”, and claims to not care what happens to himself  —  At the end, Jensen Huang looked broken and shattered, his legendary energy depleted.  After weeks spent denying the allegations …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-13T01:50:02+00:00",
-    "image_url": "http://www.techmeme.com/261112/i68.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261112/p67#a261112p67",
-    "title": "Sources: President Trump's and Howard Lutnick's close relationship with Jensen Huang made officials wary of taking aggressive steps to rein in Nvidia chip sales (New York Times)",
-    "description": "New York Times:\nSources: President Trump's and Howard Lutnick's close relationship with Jensen Huang made officials wary of taking aggressive steps to rein in Nvidia chip sales  —  Howard Lutnick has frequently clashed with top officials over how to regulate sales of advanced technology to Asia …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-13T01:35:01+00:00",
-    "image_url": "http://www.techmeme.com/261112/i67.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
