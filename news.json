@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.techmeme.com/261112/p66#a261112p66",
+    "title": "Sources: President Trump urged Jensen Huang to keep fighting for his job in a Tuesday call; aides say Trump saw the company as essentially too big to fail (New York Times)",
+    "description": "New York Times:\nSources: President Trump urged Jensen Huang to keep fighting for his job in a Tuesday call; aides say Trump saw the company as essentially too big to fail  —  The president called the Nvidia chief on Tuesday, continuing a pattern of supporting him even as the spy scandal was intensifying.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T00:35:01+00:00",
+    "image_url": "http://www.techmeme.com/261112/i66.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261112/p65#a261112p65",
     "title": "New York-based Hatz AI, which makes tools for managed services providers to help small businesses adopt AI, raised a $24M Series A (CJ Fairfield/CRN)",
     "description": "CJ Fairfield / CRN:\nNew York-based Hatz AI, which makes tools for managed services providers to help small businesses adopt AI, raised a $24M Series A  —  'Small businesses are trying to figure out how to transform themselves right now into being AI-first or AI-native, and it's a job that's very, very hard to do without help.",
@@ -10,6 +22,18 @@
     "pub_date": "2026-11-13T00:30:00+00:00",
     "image_url": "http://www.techmeme.com/261112/i65.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/ukrainian-drone-strikes-hit-russian-data-centers-across-six-regions-forcing-companies-into-kazakhstan-as-putin-orders-emergency-capacity-seizure",
+    "title": "Ukrainian drone strikes hit Russian data centers across six regions — forcing companies into Kazakhstan as Putin orders emergency capacity seizure",
+    "description": "Russian businesses are exploring overseas data centers as Ukrainian drone strikes, limited domestic cloud capacity, and new government requirements complicate infrastructure planning.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T00:30:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/pjysvtTcT6ffUC32W7xqt6-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
@@ -1020,6 +1044,7 @@
     "description": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
     "categories": [
       "AI & Machine Learning",
+      "Breaking News",
       "Gadgets & Hardware",
       "Government & Policy"
     ],
@@ -1533,7 +1558,6 @@
     "description": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-12T18:39:23+00:00",
@@ -2316,29 +2340,5 @@
     "pub_date": "2026-11-12T16:45:33+00:00",
     "image_url": "http://www.techmeme.com/261112/i43.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/nvidia-stock-plunges-ceo-jensen-huang-resigns-how-low-did-it-go",
-    "title": "Nvidia stock plunges as CEO Jensen Huang resigns: How low it might go",
-    "description": "Nvidia stock dipped sharply on the news of Jensen Huang's resignation, which followed reports he engaged in multiple affairs.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T16:45:10+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07pDM8oca74gJxEfpVzU3cq/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/gpu/nvidia-is-now-in-a-post-jensen-huang-world-heres-why-that-could-be-a-disaster-for-pc-gamers",
-    "title": "Nvidia in a post-Jensen Huang world could be a disaster for PC gamers",
-    "description": "The next CEO isn't likely to have GeForce graphics cards top of their priority list, let's put it that way.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T16:42:50+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/gho8nkCJ5LowGgsiV98rqE-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
