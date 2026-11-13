@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.techmeme.com/261113/p32#a261113p32",
+    "title": "The FAA announced on Thursday that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US (Jeremy Hsu/Ars Technica)",
+    "description": "Jeremy Hsu / Ars Technica:\nThe FAA announced on Thursday that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US  —  The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T22:10:02+00:00",
+    "image_url": "http://www.techmeme.com/261113/i32.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261113/p31#a261113p31",
+    "title": "Sources: Moonshot AI is deactivating its Cayman holding company and moving investors' stakes to its primary operating entity in China to pave the way for an IPO (Wall Street Journal)",
+    "description": "Wall Street Journal:\nSources: Moonshot AI is deactivating its Cayman holding company and moving investors' stakes to its primary operating entity in China to pave the way for an IPO  —  Chinese artificial-intelligence startup Moonshot AI is wrapping up a corporate restructuring that would pave the way for an initial public offering.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T22:01:42+00:00",
+    "image_url": "http://www.techmeme.com/261113/i31.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/11/13/apple-details-homeview-facial-recognition-repair-options-and-more-in-new-support-guides/",
     "title": "Apple details HomeView facial recognition, repair options, and more in new support guides",
     "description": "Coinciding with the launch of Apple HomeView, the company has been updating its support website with new guides covering everything from facial recognition and user profiles to troubleshooting and repairs. Here are the details.\n\n\n\n more…",
@@ -11,9 +35,32 @@
     "source_name": "9TO5MAC.COM"
   },
   {
+    "link": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+    "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+    "description": "Cost and access barriers are pushing people to modified use and unapproved versions.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T21:59:01+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/microsoft-outage-largest-of-2026-report",
+    "title": "Microsoft outage was largest of 2026, report says",
+    "description": "DownDetector said Microsoft's big outage was, by a wide margin, the biggest of 2026.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T21:51:01+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/03njhErPThbpIDxlHmiKCDa/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
     "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
-    "description": "The Federal Aviation Administration grounded flights across the United States citing \"extraordinary circumstances\" and for \"reasons of safety.\"",
+    "description": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers.\"",
     "categories": [
       "Breaking News",
       "Cybersecurity & Privacy"
@@ -48,7 +95,7 @@
   {
     "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
     "title": "FAA ground stop shuts down flights nationwide",
-    "description": "Takeoffs from airports throughout the US paused on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" however, planes in the air will be allowed to land. US Transportation Secretary Sean Duffy tweeted: The FAA issued a nationwide ground stop for all U.S. airports following a",
+    "description": "Takeoffs from airports throughout the US paused on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. US Transportation secretary Sean Duffy tweeted: The FAA issued a nationwide ground stop for all U.S. airports following a",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -56,6 +103,18 @@
     "pub_date": "2026-11-13T21:38:25+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2284677563.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/openai-launches-chatgpt-wallet",
+    "title": "OpenAI launches ChatGPT Wallet, claiming its a safe way to have AI shop for you",
+    "description": "OpenAI has launched ChatGPT Wallet in hopes of popularizing AI agents making purchases.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T21:36:23+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/07AhmQQS6NqRSszrzJ8nSrL/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techmeme.com/261113/p30#a261113p30",
@@ -676,7 +735,6 @@
     "description": "Cornelis, which Intel spun out in 2020, has launched CN6000, a family of 800G network cards and switches for AI and supercomputers. It claims lower latency than Nvidia’s InfiniBand, based on its own tests. Partner systems arrive in early 2027. Cornelis, a networking company spun out of Intel, has launched CN6000, a family of 800G",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-13T18:12:52+00:00",
@@ -700,7 +758,6 @@
     "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
     "description": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like other trackball mice already available from companies like Logitech and Kensington with a 34mm ball positioned",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-13T18:10:41+00:00",
@@ -2252,62 +2309,6 @@
     ],
     "pub_date": "2026-11-13T12:34:01+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/065xdCL2VUc66ES5IHOqDQr/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/best-walking-pads/",
-    "title": "3 Best Walking Pad Treadmills for Homes and Offices (2026)",
-    "description": "Our team clocked serious hours walking, working, and sometimes jogging to find the best under-desk treadmills for home offices and small spaces.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-13T12:34:00+00:00",
-    "image_url": "https://media.wired.com/photos/6af64959c5d481da1362b325/master/pass/The-Best-Walking-Pads-WIRED-Staffers-Use-During-Remote-Days.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
-    "title": "Jensen Huang didn’t show confidence in his successor, report says",
-    "description": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-13T12:28:23+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/this-new-semi-solid-state-power-bank-has-a-20-000mah-capacity-100w-of-power-and-is-safer-than-most-alternatives",
-    "title": "The BMX SolidSafe 20K power bank features 100W charging and semi-solid-state battery tech",
-    "description": "The BMX SolidSafe 20K is a new, high capacity, high power battery pack with semi-solid-state tech.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-13T12:19:23+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/2ny6NmyVvZzx3wvpNDspNZ-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261113/p8#a261113p8",
-    "title": "South Korea-based DeepX tapes out DX-M2, an edge AI chip to run inference of 100B-parameter LLMs on robots and drones, targeting fall 2027 for mass production (Sally Ward-Foxton/EE Times)",
-    "description": "Sally Ward-Foxton / EE Times:\nSouth Korea-based DeepX tapes out DX-M2, an edge AI chip to run inference of 100B-parameter LLMs on robots and drones, targeting fall 2027 for mass production  —  DeepX is targeting edge markets including robotics with its second-generation AI accelerator, which can run large LLMs on device in under 5 W.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-13T12:15:19+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/john-mulaney-phoebe-bridgers-snl-promo-roast",
-    "title": "John Mulaney and Phoebe Bridgers latest SNL promo contains a brutal roast",
-    "description": "John Mulaney and Phoebe Bridgers appeared on an \"SNL\" promo alongside cast member Ben Marshall.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-13T12:04:17+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/videos/07EhwZnmofW04ZWgEJcfzSg/hero-image.png",
     "source_name": "MASHABLE.COM"
   }
 ]
