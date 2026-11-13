@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.techmeme.com/261112/p71#a261112p71",
+    "title": "Letter: ByteDance plans to buy back up to $6B worth of shares from existing investors at a ~$400B valuation, a 20% increase in valuation from its 2025 buyback (The Information)",
+    "description": "The Information:\nLetter: ByteDance plans to buy back up to $6B worth of shares from existing investors at a ~$400B valuation, a 20% increase in valuation from its 2025 buyback  —  ByteDance, the Chinese owner of TikTok, is planning to buy back up to $6 billion worth of shares from existing investors …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T03:20:00+00:00",
+    "image_url": "http://www.techmeme.com/261112/i71.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://gizmodo.com/microsoft-365-outage-stretches-late-into-the-evening-with-services-like-outlook-and-teams-still-unstable-2000839374",
+    "title": "Microsoft 365 Outage Stretches Late Into the Evening, With Services Like Outlook and Teams Still Unstable",
+    "description": "Microsoft 365 services were unavailable for much of the workday, and remained so into the night.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T03:10:16+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/11/GettyImages-2174884624-1280x720.jpg",
+    "source_name": "GIZMODO.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261112/p70#a261112p70",
     "title": "Senate Banking Chair Tim Scott asks Jensen Huang and Howard Lutnick to testify at separate hearings in December over the Nvidia saga; Lutnick agrees to appear (Jasper Goodman/Politico)",
     "description": "Jasper Goodman / Politico:\nSenate Banking Chair Tim Scott asks Jensen Huang and Howard Lutnick to testify at separate hearings in December over the Nvidia saga; Lutnick agrees to appear  —  Senate Banking Chair Tim Scott on Thursday called on fallen Nvidia CEO Jensen Huang and Commerce Secretary Howard Lutnick to testify …",
@@ -176,6 +199,18 @@
     "source_name": "WIRED.COM"
   },
   {
+    "link": "https://gizmodo.com/the-faa-is-rolling-out-its-ai-air-traffic-tool-nationwide-2000839347",
+    "title": "The FAA Is Rolling Out Its AI Air Traffic Tool Nationwide",
+    "description": "The FAA has reassured the public and airlines that SMART only suggests routes and doesn't affect air safety.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T01:12:02+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/05/GettyImages-2266649738-1280x853.jpg",
+    "source_name": "GIZMODO.COM"
+  },
+  {
     "link": "https://www.cnet.com/home/security/google-aliro-digital-wallet-keys-home-locks/",
     "title": "Google Catches Up to Apple, With Digital Wallet Keys for Your Physical Home Lock",
     "description": "Google Wallet can unlock Android users’ doors who have compatible smart locks.",
@@ -244,6 +279,18 @@
     "pub_date": "2026-11-13T00:11:44+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_c195852422ed8e92ffa4d68ea4bfd34291823c3e.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://gizmodo.com/m-john-harrison-talks-about-potential-end-of-everything-film-adaptation-2000839336",
+    "title": "M. John Harrison Talks About Potential ‘End of Everything’ Film Adaptation",
+    "description": "'The End of Everything' is the first science-fiction novel to win the Booker Prize.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T00:00:38+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/11/endofeverything-1280x854.jpg",
+    "source_name": "GIZMODO.COM"
   },
   {
     "link": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-13-november-2026",
@@ -358,12 +405,22 @@
     "title": "Humble Bundle redesign removes two-factor verification from settings",
     "description": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Gamer also points out that there are Humble Bundle support pages discussing two-factor verification, and the writer",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-11-12T23:30:52+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-12-at-3.28.10-PM.png?quality=90&strip=all&crop=0,0,100,88.092261904762",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://gizmodo.com/the-chosen-will-rise-in-new-children-of-blood-and-bone-trailer-2000838922",
+    "title": "The Chosen Will Rise in New ‘Children of Blood and Bone’ Trailer",
+    "description": "Gina Prince-Bythewood directs the adaptation of Tomi Adeyemi's hit young adult fantasy novel about a woman who rebels against her kingdom's suppression of magic.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-12T23:30:19+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/11/children-of-blood-and-bone-1280x854.jpg",
+    "source_name": "GIZMODO.COM"
   },
   {
     "link": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
@@ -393,6 +450,7 @@
     "title": "When will the global Microsoft Outlook outage be fixed? What we know.",
     "description": "A global Microsoft outage has caused problems with Outlook, Teams, and Microsoft 365. When will it be fixed?",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-12T23:00:08+00:00",
@@ -442,6 +500,28 @@
     "pub_date": "2026-11-12T22:59:51+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer.jpg",
     "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://gizmodo.com/avatar-seven-havens-will-return-with-book-2-in-may-2027-2000839306",
+    "title": "‘Avatar: Seven Havens’ Will Return With Book 2 in May 2027",
+    "description": "Nisha and Pavi will learn more about being the Avatar and what happened to Korra when their journey continues on May 21, 2027.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-12T22:55:58+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/11/avatar-seven-havens-paramount-plus-avatar-studios-1280x720.jpg",
+    "source_name": "GIZMODO.COM"
+  },
+  {
+    "link": "https://gizmodo.com/binance-says-it-has-replaced-all-6-3-billion-in-crypto-stolen-in-record-breaking-heist-2000839186",
+    "title": "Binance Says It Has Replaced All $6.3 Billion in Crypto Stolen in Record-Breaking Heist",
+    "description": "The world's largest crypto exchange says it has replaced billions in customer assets stolen in the biggest reported crypto heist in history.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-12T22:49:18+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/02/Binance-France-Crypto-Home-Invasion-1280x853.jpg",
+    "source_name": "GIZMODO.COM"
   },
   {
     "link": "https://www.wired.com/story/mint-mobile-phone-deal-november-2026/",
@@ -543,7 +623,6 @@
     "title": "We May Have the ‘Spider-Man: Brand New Day’ Re-Release Title and Release Date",
     "description": "Reportedly called 'Spider-Man: (Brand New) Brand New Day,' it's likely coming on December 4.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-12T22:29:16+00:00",
@@ -555,7 +634,8 @@
     "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
     "description": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
     "categories": [
-      "AI & Machine Learning"
+      "AI & Machine Learning",
+      "Breaking News"
     ],
     "pub_date": "2026-11-12T22:28:47+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
@@ -601,6 +681,7 @@
     "title": "Microsoft outage: Microsoft 365, Teams, Outlook, Copilot all impacted",
     "description": "Microsoft users reported problems accessing Microsoft 365, Azure, Outlook, Teams, and more services on Thursday, Nov. 12.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-12T22:25:18+00:00",
@@ -696,7 +777,6 @@
     "title": "Kalshi Dumps Donald Trump Jr. as Political Winds Change",
     "description": "The company said it was \"grateful for his contributions in helping us market Kalshi to more customers.\"",
     "categories": [
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-11-12T22:05:46+00:00",
@@ -809,7 +889,6 @@
     "title": "Cancer Experts Now Back Prostate Cancer Tests—and Say Most Men in Their 50s and 60s Need Them",
     "description": "Studies have consistently found that PSA screening can reduce the risk of dying from prostate cancer.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-12T21:35:52+00:00",
@@ -878,8 +957,7 @@
     "title": "OpenAI Board Member Tells Audience an AI Accident Is the Most Likely Thing to Kill Them",
     "description": "An OpenAI board member thinks AI could kill us all pretty soon. Other researchers agree. Anyway, back to building it, apparently.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-12T21:24:42+00:00",
     "image_url": "https://gizmodo.com/app/uploads/2026/11/openAI-risk-factor-1280x853.jpg",
@@ -890,7 +968,6 @@
     "title": "Is Outlook down? Possible Microsoft outage locks down email inboxes.",
     "description": "On Thursday, Nov. 12, Outlook users reported a Microsoft outage that prevented them from checking their emails. Here's what we know.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-12T21:23:22+00:00",
@@ -902,7 +979,6 @@
     "title": "Walmart Early Black Friday Deals Double as Great Gifts (2026)",
     "description": "Save on some of our favorite giftable vacuums, headphones, pet gadgets, and more ahead of Black Friday.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-12T21:21:33+00:00",
@@ -2221,88 +2297,5 @@
     "pub_date": "2026-11-12T17:10:49+00:00",
     "image_url": "https://gizmodo.com/app/uploads/2026/11/Deadpool-Wolverine-Reynolds-Jackman-1280x853.jpg",
     "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://gizmodo.com/nvidia-consumer-tech-worse-without-jensen-huang-2000838970",
-    "title": "Nvidia Without Jensen Will Be Even Worse for Gadgets",
-    "description": "Love him or hate him, Jensen Huang and Nvidia wanted to drive innovation. Now what?",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-12T17:10:37+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/11/Jensen-Huang-Signature-RTX-Spark-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/jensen-huang-affairs-nvidia-resignation-timeline",
-    "title": "Jensen Huang resigns: A timeline of the Nvidia affair",
-    "description": "How did Jensen Huang's 33 years as Nvidia CEO come to an end? A timeline of the chip export investigation, the affair reports, and his resignation.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T17:09:04+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05tXJ90tf4UdIMujWZHJK07/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/life/amazon-best-books-of-2026",
-    "title": "These are the 20 best books of 2026, according to Amazon editors",
-    "description": "'American Hagwon' takes the top spot on Amazon's best books of the year. Here are all the books on the list.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T17:05:07+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/051b6MTnEjp9DD0mQnpXnhP/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261112/p44#a261112p44",
-    "title": "Samsung's Android XR smart glasses hands-on: stylish with good privacy protections like local face redaction and nice Gemini features like real-time translation (Victoria Song/The Verge)",
-    "description": "Victoria Song / The Verge:\nSamsung's Android XR smart glasses hands-on: stylish with good privacy protections like local face redaction and nice Gemini features like real-time translation  —  It's a weird time to launch a new pair of smart glasses.  —  These last few years, Meta has been the dominant player in pushing a fragile smart glasses resurgence.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T17:01:03+00:00",
-    "image_url": "http://www.techmeme.com/261112/i44.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-    "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-    "description": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-    "categories": [
-      "AI & Machine Learning",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-12T17:00:52+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash",
-    "title": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug",
-    "description": "The Cybertruck is heading to that shiny cyber-dumpster in the sky, leaving the folks who built online identities around Elon Musk's polarizing pickup feeling bereft. Usually, Musk's fanbase treads lightly around their idol's mercurial decisions. This time, however, the truck's demise has sparked rare backlash within the Tesla community - aimed squarely at the guy",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T17:00:17+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS493_CYBERTRUCK_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-    "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-    "description": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-12T17:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
