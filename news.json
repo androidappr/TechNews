@@ -1,5 +1,39 @@
 [
   {
+    "link": "https://www.digitaltrends.com/computing/microsoft-outlook-outage-slow-recovery/",
+    "title": "Outlook is out, but it’s finally restoring slowly",
+    "description": "Microsoft Outlook is recovering after a major outage disrupted Exchange Online and other Microsoft 365 services. Microsoft says some affected servers are back online.",
+    "categories": [
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-12T23:57:21+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/09/New-Outlook-app-logo-with-blurred-background.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/best-early-black-friday-robot-vacuum-deals-roborock-2026/",
+    "title": "Roborock Robot Vacuum Early Black Friday Deals (2026)",
+    "description": "The brand’s official Black Friday sales start next week, but some of its best vacuums are already discounted.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-12T23:54:58+00:00",
+    "image_url": "https://media.wired.com/photos/6af637dc998b570c3dad49d5/master/pass/These-Great-Budget-Robot-Vacuums-Are-on-Sale-for-Even-Less.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261112/p64#a261112p64",
+    "title": "Cisco reports Q1 revenue up 24% YoY to $18.5B, above $18.14B est., adjusted EPS above estimates, and raises its FY 2027 revenue forecast (Anzar Mehraj/Reuters)",
+    "description": "Anzar Mehraj / Reuters:\nCisco reports Q1 revenue up 24% YoY to $18.5B, above $18.14B est., adjusted EPS above estimates, and raises its FY 2027 revenue forecast  —  Cisco (CSCO.O) beat Wall Street estimates for first-quarter results and raised its annual revenue forecast on Thursday, as the network-gear maker bets …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-12T23:50:00+00:00",
+    "image_url": "http://www.techmeme.com/261112/i64.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
     "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
     "description": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\" with photos and captions, and add comments and reactions on other members' posts. Whoop claims its platform is \"entirely human,\"",
@@ -23,6 +57,19 @@
     "pub_date": "2026-11-12T23:35:01+00:00",
     "image_url": "http://www.techmeme.com/261112/i63.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2315525/metas-muse-can-now-make-calls-on-your-behalf-if-you-have-a-paid-subscription/",
+    "title": "Meta's Muse can now make calls on your behalf (if you have a paid subscription)",
+    "description": "The AI agent can schedule appointments, make reservations and wait on hold for you.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-12T23:32:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/metas-muse-can-now-make-calls-on-your-behalf-if-you-have-a-paid-subscription/l-intro-1794526142.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
@@ -302,7 +349,7 @@
   },
   {
     "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-    "title": "Muse can now place calls to U.S. businesses — if you pay",
+    "title": "Muse can now place calls to US businesses — if you pay",
     "description": "Muse's AI can now place outbound calls to US businesses — but it's not free.",
     "categories": [
       "AI & Machine Learning",
@@ -885,7 +932,6 @@
     "title": "Meet the people who want peptides to be made in America",
     "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. We'll be taking a break next week and will be back on November 25th. Opt in for Optimizer here. The SS Jeremiah O'Brien is a",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-11-12T20:00:00+00:00",
@@ -897,7 +943,6 @@
     "title": "How to watch AI: Probably Nothing to Worry About for FREE",
     "description": "Dive into this thrilling documentary about the rise of artificial intelligence. Here's how to watch AI: Probably Nothing to Worry About online and for FREE.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-12T20:00:00+00:00",
@@ -921,7 +966,6 @@
     "description": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware",
       "Government & Policy"
     ],
@@ -934,7 +978,6 @@
     "title": "Nvidia chaos, Dem sweep, lawsuits, protests: AIs terrible, no-good November",
     "description": "Will protests, lawsuits, and the Blue Wave compel AI developers to slow down the development of potentially catastrophic models?",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-12T19:54:30+00:00",
@@ -957,7 +1000,6 @@
     "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
     "description": "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-11-12T19:49:11+00:00",
@@ -1656,7 +1698,6 @@
     "description": "Since the scandal involving an alleged Chinese spy began, Nvidia has lost an eye-watering sum from its market value.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware"
     ],
@@ -1669,8 +1710,7 @@
     "title": "You can force Gemini to forget about you now – how to edit its Memory",
     "description": "A new option called Memory summary lets you see and control the things that Gemini AI knows about you.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-12T17:58:52+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Gemini-memory-summary.jpg",
@@ -1716,7 +1756,6 @@
     "title": "Ex-NVIDIA CEO Jensen Huang is set to testify before Congress this month",
     "description": "House Foreign Affairs Chair Brian Mast said a hearing with Jensen Huang will take place before Thanksgiving.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-12T17:53:08+00:00",
@@ -2308,54 +2347,5 @@
     "pub_date": "2026-11-12T16:35:00+00:00",
     "image_url": "http://www.techmeme.com/261112/i41.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-    "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-    "description": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-12T16:32:33+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/brc/eney-the-mac-ai-assistant-that-actually-gets-things-done/",
-    "title": "Eney, the Mac AI Assistant That Actually Gets Things Done",
-    "description": "Most AI chatbots promise to save you time but end up handing you extra homework. MacPaw built Eney to fix that friction, running right inside macOS to tackle daily digital chores without the copy and paste routine. Here is what happened when I put its hands-on workflows to the test.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T16:31:10+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/1500x920-Eney.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://gizmodo.com/star-wars-50-anniversary-lego-movie-poster-set-2000838886",
-    "title": "Celebrate the 50th Anniversary of ‘Star Wars’ With Two Rad New Posters",
-    "description": "To mark half a century of 'Star Wars,' Lucasfilm unveiled a wave of limited-edition merch and events, including new 'A New Hope' posters you can admire and assemble with Lego.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T16:30:24+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/11/Star-Wars-A-New-Hope-Poster-Lego-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
-    "title": "Jensen Huang is out. What did China want from him?",
-    "description": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia as news of his affairs, including with an alleged Chinese spy, threatened to engulf",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Gadgets & Hardware",
-      "Government & Policy",
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-12T16:30:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_1112_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
