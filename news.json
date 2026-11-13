@@ -1,5 +1,52 @@
 [
   {
+    "link": "https://9to5mac.com/2026/11/13/security-bite-apple-details-secure-exclaves-a-glimpse-at-its-ambient-computing-future/",
+    "title": "Security Bite: Apple details Secure Exclaves, a glimpse at its ambient computing future",
+    "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening & Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\n\n\n\n\n\n\n\nApple published a new security research post this week detailing Secure Exclaves, a new architecture built to handle what the company calls “ambient sensing.” The latter isn’t anything new. “Hey, Siri” has been using a version of this always-on listening technology for years. The difference now (particularly on newer devices like Apple Watch Series 12 and HomeView) is new features need far more data from your surroundings, and Apple has changed where that data gets processed.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T15:42:20+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261113/p15#a261113p15",
+    "title": "OpenAI announces ChatGPT Wallet, which lets its dots AI agents make purchases on behalf of users, available to ChatGPT Pro subscribers in the US who are over 18 (Ashley Capoot/CNBC)",
+    "description": "Ashley Capoot / CNBC:\nOpenAI announces ChatGPT Wallet, which lets its dots AI agents make purchases on behalf of users, available to ChatGPT Pro subscribers in the US who are over 18  —  OpenAI on Friday announced ChatGPT Wallet, a new payment feature that enables its “dots” artificial intelligence agents to make purchases on behalf of users.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T15:35:05+00:00",
+    "image_url": "http://www.techmeme.com/261113/i15.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/home/how-to-choose-the-right-king-mattress-for-your-sleep-needs/",
+    "title": "How to choose the right king mattress for your sleep needs",
+    "description": "This post is brought to you in paid partnership with Sleep Number. A king mattress gives you plenty of room to stretch out, but there is more to finding the right mattress than size alone. The right mattress should match how you sleep, your preferred support level, and whether you tend to get warm at night.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T15:34:16+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/slaapwijsheid-nl-cpmodOdIdKc-unsplash-scaled.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/microsoft-outlook-outage-update-still-down-today-november-13",
+    "title": "Microsoft outage: Outlook still down Friday morning",
+    "description": "Microsoft's global outage, which is impacting Outlook, Teams, and other services, continued on Friday morning.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T15:30:07+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/010G4cGeH6ATrXFUq9Fh6RE/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
     "title": "Microsoft&#8217;s massive Outlook outage continues",
     "description": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state, some people (including Verge staffers) are reporting that access to their emails has been restored, though the flow of Outlook",
@@ -633,18 +680,6 @@
     "source_name": "DIGITALTRENDS.COM"
   },
   {
-    "link": "https://mashable.com/tech/microsoft-outlook-outage-update-still-down-today-november-13",
-    "title": "Microsoft outage: Outlook still down Friday morning",
-    "description": "Microsoft's global outage, which is impacting Outlook, Teams and other services, is still continuing as of Friday morning.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-13T12:37:01+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/010G4cGeH6ATrXFUq9Fh6RE/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
     "link": "https://mashable.com/tech/iphone-calculator-history",
     "title": "Did you know your iPhones calculator has a history feature?",
     "description": "Great, another trail of receipts proving I'm bad at math.",
@@ -852,8 +887,7 @@
     "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
     "description": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-13T11:45:00+00:00",
     "image_url": "https://media.wired.com/photos/6af65ba58bac4203b57b5ba0/master/pass/Startup-Betting-on-AI-Microdramas-Culture.jpg",
@@ -2256,40 +2290,5 @@
     "pub_date": "2026-11-12T22:25:45+00:00",
     "image_url": "https://gizmodo.com/app/uploads/2026/11/Nvidia-1280x853.jpg",
     "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/microsoft-outage-affecting-365-teams-outlook-copilot-nov-12-2026",
-    "title": "Microsoft outage: Microsoft 365, Teams, Outlook, Copilot all impacted",
-    "description": "Microsoft users reported problems accessing Microsoft 365, Azure, Outlook, Teams, and more services on Thursday, Nov. 12.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T22:25:18+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05qkwiF8yfP8medcx8It85V/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.cnet.com/roadshow/xpeng-aridge-land-aircraft-carrier-flying-car/",
-    "title": "You Could Learn to Pilot This ‘Flying Car’ in Just 5 Minutes",
-    "description": "Is it a bird? Is it a plane? Is it a… flying Cybertruck? Nope, it’s a modular flying machine that will take to the skies next year.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-12T22:23:22+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Beauty-Shot-10.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-    "title": "Muse can now place calls to US businesses — if you pay",
-    "description": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
-    "categories": [
-      "AI & Machine Learning",
-      "Social & Media",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-12T22:22:28+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
