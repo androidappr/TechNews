@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.techmeme.com/261112/p67#a261112p67",
+    "title": "Sources: President Trump's and Howard Lutnick's close relationship with Jensen Huang made officials wary of taking aggressive steps to rein in Nvidia chip sales (New York Times)",
+    "description": "New York Times:\nSources: President Trump's and Howard Lutnick's close relationship with Jensen Huang made officials wary of taking aggressive steps to rein in Nvidia chip sales  —  Howard Lutnick has frequently clashed with top officials over how to regulate sales of advanced technology to Asia …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-13T01:35:01+00:00",
+    "image_url": "http://www.techmeme.com/261112/i67.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/seagate-is-reviving-a-20-year-old-technology-to-turn-its-newest-20tb-hdd-into-a-pseudo-ssd-thats-but-it-wont-come-cheap",
     "title": "Seagate is reviving a 20-year-old technology to turn its newest 20TB HDD into a pseudo-SSD — but it won't come cheap",
     "description": "Seagate's FireCuda Forge uses Alkemi to prioritize frequently accessed files on separately purchased NVMe storage, combining mechanical capacity with faster data retrieval.",
@@ -659,7 +671,6 @@
     "title": "First RAM, now circuit boards: AI demand is stretching some PCB orders to 30 months",
     "description": "PC shipments just fell 20%, yet PC makers still can't get enough circuit boards.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-12T21:45:00+00:00",
@@ -695,7 +706,6 @@
     "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware",
       "Government & Policy"
     ],
@@ -1144,7 +1154,6 @@
     "title": "Several Microsoft services appear to be down – what we know",
     "description": "Reports of the outage are beginning to drop as Microsoft restarts affected servers.",
     "categories": [
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-11-12T19:45:52+00:00",
@@ -2312,19 +2321,5 @@
     "pub_date": "2026-11-12T16:56:33+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/258229_Aqara_U400_Smart_Lock_JTuohy_0005.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/databricks-genie-slack-app-generally-available",
-    "title": "Databricks’ Genie AI assistant can now answer data questions in Slack",
-    "description": "Databricks has made its Genie app for Slack generally available. Staff can ask it data questions in a channel or direct message, get charts and approve changes in tools such as Jira. Answers use each asker’s permissions, but are visible to the whole channel by default. Databricks has made its Genie app for Slack generally",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-12T16:55:37+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/databricks-data-ai-company-banner-cannes-lions-2026.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
