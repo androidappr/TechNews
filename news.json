@@ -1,8 +1,20 @@
 [
   {
+    "link": "https://mashable.com/tech/faa-nationwide-ground-stop-why",
+    "title": "FAA nationwide ground stop: Why it happened, according to Homeland Security Secretary Markwayne Mullin",
+    "description": "Communication outage cause by outdated systems and network updates, not the FAA's new SMART AI tool.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-14T02:01:42+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01dpUSn1m2TKtr0gN074erz/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261113/p38#a261113p38",
     "title": "AI's impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away (Dwarkesh Patel/Dwarkesh Podcast)",
-    "description": "Dwarkesh Patel / Dwarkesh Podcast:\nAI's impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away  —  Why I now expect superintelligence by 2030  —  Audio playback is not supported on your browser.  Please upgrade.",
+    "description": "Dwarkesh Patel / Dwarkesh Podcast:\nAI's impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away  —  Many thanks to Max Farrens, Gabe Fried, and Thomas Larsen for pairing with me through significant parts of writing and researching this essay.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -24,6 +36,18 @@
     "source_name": "THEVERGE.COM"
   },
   {
+    "link": "https://mashable.com/tech/faa-ground-stop-updates-what-we-know",
+    "title": "FAA ground stop updates: What we know so far",
+    "description": "Here's what we know about the unexpected nationwide ground stoppage ordered by the FAA on Friday.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-14T01:50:57+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/072YmkXajE7ooxfNBrYuKOA/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/",
     "title": "The FAA Nationwide Ground Stop Is Over",
     "description": "The five-hour ordeal ended Friday evening. Planes will be allowed to fly again, but the effects of the stoppage will be felt throughout the weekend.",
@@ -34,18 +58,6 @@
     "pub_date": "2026-11-14T01:46:40+00:00",
     "image_url": "https://media.wired.com/photos/6af796575e4ca9026ac50e15/master/pass/Air-Traffic-Outage-Wasnt-AI-Gear-2239205748.jpg",
     "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/faa-nationwide-ground-stop-why",
-    "title": "FAA ground stop: Here’s why sources say it happened, according to reports",
-    "description": "Multiple sources confirm a system reboot caused a communication outage, not the FAA's new SMART AI tool.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-14T01:32:07+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01dpUSn1m2TKtr0gN074erz/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techradar.com/pro/gigabyte-unveils-its-nvidia-spark-powered-ai-workstation-ai-top-aero-combines-blackwell-architecture-gpu-and-up-to-128-gb-memory-if-you-can-get-one",
@@ -106,18 +118,6 @@
     "pub_date": "2026-11-14T00:49:13+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/faa-ground-stop-updates-what-we-know",
-    "title": "FAA ground stop updates: What we know so far",
-    "description": "Here's what we know about the unexpected nationwide ground stoppage ordered by the FAA on Friday.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-14T00:04:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/072YmkXajE7ooxfNBrYuKOA/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-14-november-2026",
@@ -384,7 +384,6 @@
     "title": "Sources: Moonshot AI is deactivating its Cayman holding company and moving investors' stakes to its primary operating entity in China to pave the way for an IPO (Wall Street Journal)",
     "description": "Wall Street Journal:\nSources: Moonshot AI is deactivating its Cayman holding company and moving investors' stakes to its primary operating entity in China to pave the way for an IPO  —  Chinese artificial-intelligence startup Moonshot AI is wrapping up a corporate restructuring that would pave the way for an initial public offering.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-13T22:01:42+00:00",
