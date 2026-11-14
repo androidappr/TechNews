@@ -1,5 +1,18 @@
 [
   {
+    "link": "https://thenextweb.com/news/spacex-starship-flight-15-booster-catch-aborted",
+    "title": "SpaceX aborts Starship booster catch, but the ship is still in orbit",
+    "description": "SpaceX launched Starship on its 15th test flight on Friday, but called off its first attempt to catch both stages of the rocket. The Super Heavy booster aborted its return to the launch tower and came down in the Gulf of Mexico instead. The upper stage, Ship 42, reached orbit and released 26 Starlink satellites, Spaceflight",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-14T12:34:17+00:00",
+    "image_url": "https://media.thenextweb.com/2026/06/ftc-clears-musk-acquire-mesh-optical-spacex-data-centers.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/faa-ground-stop-fbi-software-update",
     "title": "FBI reportedly probes software update behind US flight ground stop",
     "description": "he FBI is looking at whether a software update caused Friday’s outage that grounded flights across the US, Bloomberg reported. The bureau does not believe a cyberattack or crime was behind it, Bloomberg said, citing one person familiar with the matter. The Federal Aviation Administration stopped all flights from taking off on Friday after a",
@@ -2237,16 +2250,5 @@
     "pub_date": "2026-11-13T17:32:35+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/ai-microchip-green-pastel-reflective-surface.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/vpn/vpn-privacy-security/russia-turns-to-ai-filters-to-hunt-down-vpns-in-2-2-billion-ruble-crackdown",
-    "title": "Russia turns to AI filters to hunt down VPNs in 2.2-billion-ruble crackdown",
-    "description": "Russia has deployed an AI-powered traffic filter worth 2.27 billion rubles to detect and choke VPN connections across the country. Here's all we know.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-13T17:31:04+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ZcRSDQuJZS7Ri3PRF8UExf-1920-80.png",
-    "source_name": "TECHRADAR.COM"
   }
 ]
