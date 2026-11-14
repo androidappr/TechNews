@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.engadget.com/2311608/sony-xperia-phones-what-happened/",
+    "title": "Whatever happened to Sony Xperia phones?",
+    "description": "Sony seems to have its hand in virtually every device offering, but true fans know that one product line in particular vanished from the American market.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-11-14T16:15:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/whatever-happened-to-sony-xperia-phones/l-intro-1794261302.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261114/p12#a261114p12",
     "title": "Tesla posts its Cybercab Autonomy Subscription Agreement, requiring personal buyers to pay a mandatory $299/month on top of the vehicle's $29,990 purchase price (Fred Lambert/Electrek)",
     "description": "Fred Lambert / Electrek:\nTesla posts its Cybercab Autonomy Subscription Agreement, requiring personal buyers to pay a mandatory $299/month on top of the vehicle's $29,990 purchase price  —  Tesla has posted the agreement that comes with its $29,990 Cybercab, and it's even worse than the order page suggested.",
@@ -21,6 +33,18 @@
     "pub_date": "2026-11-14T16:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/what-the-circled-z-on-google-maps-means/l-intro-1794255979.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/mobile/apple-watch-audio-intelligence-hands-on-privacy-tes/",
+    "title": "I Let My Apple Watch Eavesdrop on My Conversations for 2 Weeks",
+    "description": "I tested Apple’s new AI note-taking features in WatchOS 27.3, and now I’m more concerned about my sanity than my privacy.",
+    "categories": [
+      "Breaking News",
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-11-14T16:00:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/AudioIntelligence.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://www.engadget.com/2311394/sodium-vs-lithium-ion-batteries-differences-compared/",
@@ -2229,28 +2253,5 @@
     "pub_date": "2026-11-13T19:49:16+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/donald-trump-jr-1152x648.jpg",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://gizmodo.com/blame-game-unfolds-in-nvidias-alleged-spy-scandal-treasury-points-to-commerce-2000839643",
-    "title": "Blame Game Unfolds in Nvidia’s Alleged Spy Scandal: Treasury Points to Commerce",
-    "description": "The Treasury secretary says Howard Lutnick’s Commerce Department ignored months of warnings about Nvidia chip sales to China.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-13T19:45:30+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/11/lutnick-and-bessent-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-    "title": "AI agent startup LangChain hits $3B valuation",
-    "description": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-11-13T19:37:57+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
