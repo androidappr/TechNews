@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.engadget.com/2312464/why-some-usb-ports-yellow-less-common/",
+    "title": "Why some USB ports are yellow (and less common than others)",
+    "description": "Not every USB port color means what you think. Learn why yellow ports are so uncommon and what to check before you plug in anything important.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-14T21:15:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/why-some-usb-ports-are-yellow-and-less-common-than-others/l-intro-1794332281.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.engadget.com/2312222/how-to-clear-cache-samsung-tv/",
     "title": "How to clear the cache on your Samsung TV",
     "description": "Your TV's cache is a collection of temporary files, some of which you don't need anymore. Here's why you might want to clear those out – and how.",
@@ -297,17 +308,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.techradar.com/phones/iphone/the-iphone-duo-has-transformed-how-i-code-with-my-mac-and-this-game-changing-app-unlocked-its-productivity-potential",
-    "title": "This game-changing app has unlocked my iPhone Duo's coding potential",
-    "description": "Using the iPhone Duo with Cursor and Astropad Workbench has transformed my ability to code on the go.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-14T18:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/8LmwvCbDwZa7cM8SfVjoyA-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/entertainment/how-to-watch/how-to-watch-michael-mcintyres-the-wheel-season-7",
     "title": "How to watch Michael McIntyre's The Wheel season 7 for free — stream from anywhere",
     "description": "The game show returns with Kate Garraway, Jordan Banjo and Katherine Ryan joining the fun. Here's how to watch Michael McIntyre's The Wheel online from anywhere, and for free in the UK.",
@@ -316,6 +316,17 @@
     ],
     "pub_date": "2026-11-14T18:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/9qEj2pjy9ULkFp4uLBumLD-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/phones/iphone/the-iphone-duo-has-transformed-how-i-code-with-my-mac-and-this-game-changing-app-unlocked-its-productivity-potential",
+    "title": "This game-changing app has unlocked my iPhone Duo's coding potential",
+    "description": "Using the iPhone Duo with Cursor and Astropad Workbench has transformed my ability to code on the go.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-14T18:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/8LmwvCbDwZa7cM8SfVjoyA-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -371,8 +382,7 @@
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-14T17:30:00+00:00",
     "image_url": null,
@@ -2242,16 +2252,5 @@
     "pub_date": "2026-11-13T23:35:29+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Black-Friday-speaker-articles.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261113/p34#a261113p34",
-    "title": "ASI, developer of AI tool SMART, says the FAA outage \"is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC\" (Asi/@airspaceintel)",
-    "description": "Asi / @airspaceintel:\nASI, developer of AI tool SMART, says the FAA outage “is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC”  —  The current ground stop is not based on or a result of the SMART system, any product of ASI or our integration with FAA and ATC.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-13T23:35:00+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
-    "source_name": "TECHMEME.COM"
   }
 ]
