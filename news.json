@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.techradar.com/pro/small-nuclear-reactors-could-soon-power-the-next-generation-of-ai-data-centers",
+    "title": "Small nuclear reactors could soon power the next generation of AI data centers — modular reactors could soon power Dow Texas chemical plant",
+    "description": "X-energy secures approval for four nuclear reactors in Texas as developers pursue nuclear electricity for increasingly power-hungry AI infrastructure.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-14T22:35:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.engadget.com/2312834/how-to-get-better-results-google-gemini/",
     "title": "How to get better results from Google Gemini",
     "description": "These tips and tricks will help you prompt Gemini better.",
@@ -372,7 +384,6 @@
     "title": "Databento, which offers market data APIs and says it has contracts with five of the six largest frontier AI labs, raised a $100M Series C at a $1.1B valuation (FinTech Global)",
     "description": "FinTech Global:\nDatabento, which offers market data APIs and says it has contracts with five of the six largest frontier AI labs, raised a $100M Series C at a $1.1B valuation  —  Databento, a platform supplying market data to the modern financial industry, has secured $100m in a Series C round that values the business at $1.1bn.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-14T18:35:04+00:00",
@@ -669,7 +680,6 @@
     "description": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware",
       "Government & Policy"
@@ -2243,16 +2253,5 @@
     "pub_date": "2026-11-14T01:20:06+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-10167204.jpg",
     "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261113/p37#a261113p37",
-    "title": "Doc: Amazon, wary of AI agents favoring sites with better data, plans to gather data on nearly every product sold anywhere, including by crawling rivals' sites (Greg Bensinger/Reuters)",
-    "description": "Greg Bensinger / Reuters:\nDoc: Amazon, wary of AI agents favoring sites with better data, plans to gather data on nearly every product sold anywhere, including by crawling rivals' sites  —  Amazon (AMZN.O) has a secret plan to ensure shoppers never need to leave its site: own the world's product information.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-14T01:15:03+00:00",
-    "image_url": "http://www.techmeme.com/261113/i37.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
