@@ -1,5 +1,43 @@
 [
   {
+    "link": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+    "title": "Here are our favorite deals from REI’s giant Holiday Sale",
+    "description": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come across, but if you’re looking to save on outdoor gear or pick up something for an upcoming trip,",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-14T15:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/fenix8Pro3.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+    "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+    "description": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-14T15:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/ai-platforms-assistants/canva-claims-its-new-ai-image-generator-is-second-only-to-openai-so-i-put-canva-craft-and-chatgpt-head-to-head-in-5-image-tests-using-their-free-versions-to-see-which-one-really-comes-out-on-top",
+    "title": "Canva just launched its own AI image generator, so I tested it vs ChatGPT",
+    "description": "Canva Craft is a new, powerful AI image generator, but how does it compare to ChatGPT?",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-14T15:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/QAecwPhMXLEufJfQLGwpaP-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://mashable.com/tech/nov-13-nintendo-switch-2-deal",
     "title": "No need to wait until Black Friday — the Nintendo Switch 2 is on sale now",
     "description": "The Nintendo Switch 2 is on sale for $469 at Woot, slashing $30 off its $499 list price. A Mashable deal expert breaks down why it's worth grabbing now instead of waiting for Black Friday.",
@@ -463,6 +501,7 @@
     "title": "The 21 Best REI Holiday Sale Outdoor Deals (2026)",
     "description": "Stock up on outdoor gear and gifts for friends at REI's annual holiday sale.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-14T11:00:00+00:00",
@@ -475,7 +514,6 @@
     "description": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-11-14T11:00:00+00:00",
@@ -580,17 +618,6 @@
     ],
     "pub_date": "2026-11-14T10:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/tZZ8zMZLuQC2bMkUsDRqn6-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/home/smart-home/thinking-of-buying-the-apple-homeview-know-this-first-its-a-brilliant-smart-home-nerve-center-but-its-not-a-tablet-for-your-kitchen",
-    "title": "Don’t buy the Apple HomeView expecting a tablet — it’s a completely different beast",
-    "description": "The HomeView is a superb smart home controller, but if you're expecting full tablet functionality and an App Store, you'll be disappointed.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-14T10:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/bUbqGHB6PrLfFUCJVDNr6D-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -730,6 +757,17 @@
     "pub_date": "2026-11-14T10:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/076GXSje1UTaKpxrfqaWpXS/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/home/smart-home/thinking-of-buying-the-apple-homeview-know-this-first-its-a-brilliant-smart-home-nerve-center-but-its-not-a-tablet-for-your-kitchen",
+    "title": "Don’t buy the Apple HomeView expecting a tablet — it’s a completely different beast",
+    "description": "The HomeView is a superb smart home controller, but if you're expecting full tablet functionality and an App Store, you'll be disappointed.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-14T10:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/bUbqGHB6PrLfFUCJVDNr6D-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://mashable.com/entertainment/rugby-league-world-cup-2026-live-stream-for-free",
@@ -2222,38 +2260,5 @@
     "pub_date": "2026-11-13T19:01:04+00:00",
     "image_url": "https://media.thenextweb.com/2026/11/anthropic-safety-evaluations-grid-illustration.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2316342/meta-quest-3-disney-plus-3d-movies-hands-on/",
-    "title": "Disney's 3D movies shine on Meta's Quest 3, it's just a shame it took so long",
-    "description": "Finally, you can watch Avatar in 3D HFR at home.",
-    "categories": [
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-13T19:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/disneys-3d-movies-shine-on-metas-quest-3-its-just-a-shame-it-took-so-long/l-intro-1794595978.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.cnet.com/science/space/spacex-starship-flight-15-double-catch/",
-    "title": "SpaceX Attempts History Friday With the First-Ever Double Catch",
-    "description": "SpaceX is going to catch the Super Heavy rocket and the upper stage of the Starship booster, something never done before.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-13T18:58:24+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/SpaceX-Mechazilla-Catching-Booster.jpg",
-    "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/13/ios-27-3-adds-three-new-features-ive-used-almost-every-day/",
-    "title": "iOS 27.3 adds three new features I’ve used almost every day",
-    "description": "iOS 27.3 is coming next month, and during the beta so far there are three new features I’ve been using almost every day.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-13T18:56:41+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-3-iphone-fi.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
