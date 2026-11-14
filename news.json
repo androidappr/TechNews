@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://mashable.com/tech/faa-nationwide-ground-stop-why",
+    "title": "FAA ground stop: Here’s why sources say it happened, according to reports",
+    "description": "Multiple sources confirm a system reboot caused a communication outage, not the FAA's new SMART AI tool.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-14T01:32:07+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01dpUSn1m2TKtr0gN074erz/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/gigabyte-unveils-its-nvidia-spark-powered-ai-workstation-ai-top-aero-combines-blackwell-architecture-gpu-and-up-to-128-gb-memory-if-you-can-get-one",
     "title": "Gigabyte unveils its Nvidia Spark-powered AI workstation — AI TOP AERO combines Blackwell architecture GPU and up to 128 GB memory, if you can get one",
     "description": "Three days after its stated launch, the one-liter AI TOP AERO still has no price, no regional configurations and no product page.",
@@ -10,6 +22,18 @@
     "pub_date": "2026-11-14T01:25:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/oN5HTKWqSHhSGqUHoEHizi-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/innovation/ai-bug-reports-linux-windows/",
+    "title": "‘We need more reviewers’: Finding Linux bugs is easy now – fixing them is another story",
+    "description": "Some Linux maintainers are quitting under the crushing strain of AI bug reports, while others see signs for hope.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-14T01:20:06+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-10167204.jpg",
+    "source_name": "ZDNET.COM"
   },
   {
     "link": "https://www.techmeme.com/261113/p37#a261113p37",
@@ -105,8 +129,8 @@
   },
   {
     "link": "https://www.techmeme.com/261113/p35#a261113p35",
-    "title": "Sources: the FAA outage occurred after an update to the private communications network that connects the ATC system caused the system to reboot and crash (CBS News)",
-    "description": "CBS News:\nSources: the FAA outage occurred after an update to the private communications network that connects the ATC system caused the system to reboot and crash  —  Kierra Frazier is a news editor for CBS News & Stations.  —  Faris Tanyos is a news editor for CBSNews.com, where he writes and edits stories and tracks breaking news.",
+    "title": "Sources: the FAA outage occurred after an update to the private communications network that connects the ATC system caused the system to reboot and crash (Kierra Frazier/CBS News)",
+    "description": "Kierra Frazier / CBS News:\nSources: the FAA outage occurred after an update to the private communications network that connects the ATC system caused the system to reboot and crash  —  Kierra Frazier is a news editor for CBS News & Stations.  —  Faris Tanyos is a news editor for CBSNews.com, where he writes and edits stories and tracks breaking news.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -141,14 +165,14 @@
   },
   {
     "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
-    "title": "FAA ground stop shuts down flights nationwide",
-    "description": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage - out of",
+    "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+    "description": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage",
     "categories": [
       "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-13T23:47:27+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2284677563.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304493507.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
   },
   {
@@ -426,8 +450,8 @@
   },
   {
     "link": "https://www.techmeme.com/261113/p30#a261113p30",
-    "title": "The FAA issues a nationwide ground stop for all US airports following \"communication issues impacting multiple Air Route Traffic Control Centers\" (Alex Fitzpatrick/Axios)",
-    "description": "Alex Fitzpatrick / Axios:\nThe FAA issues a nationwide ground stop for all US airports following “communication issues impacting multiple Air Route Traffic Control Centers”  —  The FAA issued an extremely rare nationwide ground stop at all airports due to “extraordinary circumstances” and “reasons of safety.”",
+    "title": "The FAA lifts its nationwide ground stop for all US airports following \"communication issues impacting multiple Air Route Traffic Control Centers\" (Alex Fitzpatrick/Axios)",
+    "description": "Alex Fitzpatrick / Axios:\nThe FAA lifts its nationwide ground stop for all US airports following “communication issues impacting multiple Air Route Traffic Control Centers”  —  The FAA lifted its nationwide ground stop Friday night after hours of chaos and thousands of delays and cancellations.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -2263,28 +2287,5 @@
     "pub_date": "2026-11-13T14:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/the-motorola-signature-27-is-a-beast/l-intro-1794595562.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2315338/why-apples-homeview-relies-so-heavily-on-your-iphone/",
-    "title": "Why Apple's HomeView relies so heavily on your iPhone",
-    "description": "To make the HomeView both personal and communal, there was only one place to go.",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-13T14:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/why-apples-homeview-relies-so-heavily-on-your-iphone/l-intro-1794595214.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/home/smart-home/a-really-fun-hard-fought-journey-i-spoke-with-apple-about-the-engineering-behind-homeview-and-why-it-took-so-long",
-    "title": "‘The vault for which no one has a key’ — Apple reveals the engineering secrets behind HomeView",
-    "description": "I spoke with Apple's Matthew Costello, Vice President of Hardware Engineering, and Cecilia Dantas, Home Product Marketing, about the years of engineering behind HomeView, the challenges of creating Apple's first smart display, and the design decisions that brought it to life.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-13T14:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/49r5T2DLgQVPTmrXsDwyf9-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
