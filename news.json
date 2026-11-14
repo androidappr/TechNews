@@ -1,9 +1,33 @@
 [
   {
+    "link": "https://thenextweb.com/news/italy-fines-meta-805m-facebook-android-photos",
+    "title": "Italy fines Meta €805m over Facebook’s access to Android photos",
+    "description": "Italy’s data protection authority, the Garante, has fined Meta €805m, or about $887m. It says the Facebook app for Android accessed photos, videos and their metadata on Italian users’ phones without specific consent or proper notice. The decision, first reported in English by Reuters, targets a gallery suggestions feature available since 2023. While users scroll Facebook,",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-14T15:27:50+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/meta-stock-best-week-ai-cloud-compute.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2311266/smart-glasses-replace-monitor-why-not/",
+    "title": "Smart glasses could replace your monitor but they shouldn't — here's why",
+    "description": "Smart glasses could one day replace your desk setup with a screen that follows you anywhere. Before you make the switch, there are a few things to consider.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-14T15:15:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/smart-glasses-could-replace-your-monitor-but-they-shouldnt-heres-why/l-intro-1793991316.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261114/p11#a261114p11",
     "title": "Italy's data protection agency fines Meta €805M for allegedly accessing Android users' photos and videos without their consent or informing them (Reuters)",
     "description": "Reuters:\nItaly's data protection agency fines Meta €805M for allegedly accessing Android users' photos and videos without their consent or informing them  —  Italy's data protection agency said on Saturday it had fined Meta Platforms (META.O) €805 million ($887 million) …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-14T15:10:02+00:00",
@@ -476,7 +500,6 @@
     "title": "It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared",
     "description": "Those old links you shared with friends ages ago are still live, and they might be attracting unwelcome visitors.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-14T11:30:00+00:00",
@@ -500,8 +523,7 @@
     "title": "Someone used Claude and a $3 Arduino to reverse engineer their 1994 Jeep",
     "description": "The latest impressive piece of AI work comes from a developer who got Claude to fix an issue with a 32-year-old Jeep Cherokee.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-14T11:30:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/vn9GZ5pZap56dqBknPq5X3-1920-80.jpg",
@@ -2236,29 +2258,5 @@
     "pub_date": "2026-11-13T19:14:38+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-4.13.31-PM.png?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261113/p24#a261113p24",
-    "title": "Some investors and founders say they lost an ally in Jensen Huang; Nvidia held $48B in 229 private companies as of July and offered $165B in cloud backstops (New York Times)",
-    "description": "New York Times:\nSome investors and founders say they lost an ally in Jensen Huang; Nvidia held $48B in 229 private companies as of July and offered $165B in cloud backstops  —  Mr. Huang championed start-ups, with Nvidia holding $48 billion worth of stakes in 229 private companies, including OpenAI and Anthropic, at the end of July.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-13T19:10:01+00:00",
-    "image_url": "http://www.techmeme.com/261113/i24.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
-    "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
-    "description": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-13T19:08:57+00:00",
-    "image_url": "https://media.wired.com/photos/6af75c7bac6958eb8481a5e6/master/pass/Security_MicrosoftBackOnline_v1.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
