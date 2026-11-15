@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://thenextweb.com/news/applied-digital-power-guarantees-oracle-meta-grid-costs",
+    "title": "Applied Digital wants power guarantees from Oracle and Meta, Bloomberg says",
+    "description": "Data centre developer Applied Digital has asked tenants including Oracle and Meta for billions of dollars in guarantees before signing leases, Bloomberg reported. The money secures power for the sites, it said, citing a person familiar with the matter. Applied Digital is also asking chipmakers Nvidia and AMD for guarantees, the person said. These are set",
+    "categories": [
+      "AI & Machine Learning",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-15T15:29:17+00:00",
+    "image_url": "https://media.thenextweb.com/2026/07/Meta-el-paso-data-center.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/wearables/apples-first-smart-glasses-will-have-you-talking-with-apps-through-siri-in-2027/",
     "title": "Apple’s first smart glasses will have you talking with apps through Siri AI in 2027",
     "description": "Apple is apparently going full steam ahead with the development of its first smart glasses. And it appears the company is betting on a far more rewarding and well-knit software experience to set them apart from rivals. According to a report by Bloomberg, Apple’s first smart glasses, which are expected to be unveiled at WWDC",
@@ -22,6 +34,18 @@
     "pub_date": "2026-11-15T15:23:31+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/IMG_6662-e1794695776576.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/snl-weekend-update-faa-outage-jensen-huang",
+    "title": "SNLs Weekend Update skewers FAA ground stop, Jensen Huang affairs, and more",
+    "description": "This week's Weekend Update tackled news stories like the FAA's nationwide ground stop and former Nvidia CEO Jensen Huang's sex scandal.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-15T15:17:41+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/videos/04z5wrwGMiWmrEzoEXneedZ/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.engadget.com/2313696/how-much-electricity-sound-system-uses/",
@@ -551,7 +575,6 @@
     "title": "Need a vacuum for your home? I found the best early Black Friday deals on Amazon",
     "description": "Small flat, pet-filled house, or stairs everywhere: I matched five discounted vacuums to the homes that suit them.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-15T09:45:18+00:00",
@@ -2229,27 +2252,5 @@
     "pub_date": "2026-11-14T14:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_d836b8.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/14/apple-work-the-spiritual-successor-to-the-xserve-is-here-and-apple-never-had-to-ship-an-llm-to-get-there/",
-    "title": "Apple @ Work: The spiritual successor to the Xserve is here, thanks to Apple silicon and MLX",
-    "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\n\n\n\nI’ve spent the past few weeks thinking about how Apple built up the best deal in enterprise AI. Two things happened that make me think Apple knew that all along (or maybe they didn’t and got lucky). Meta released its most capable open-weight model yet and optimized it to run on a Mac Studio. I also spent time with Osaurus, an app that runs a usable local AI model on something as small as a 16 GB Apple silicon laptop without needing a network connection. They even have two models that will run on 8 GB.\n\n\n\nThe Xserve has been dead since 2011, but its spiritual successor sits on a desk rather than in a rack.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-14T14:00:00+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.cnet.com/tech/mobile/holiday-office-hours-labs-earbuds-voice-calling/",
-    "title": "Which Earbuds Are Best for Voice Calling? Check Out the Pair That Won My Latest Test",
-    "description": "As part of our Holiday Office Hours from the the Labs video series, I pitted four pairs of earbuds against each other on the noisy streets of New York.",
-    "categories": [
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-11-14T14:00:00+00:00",
-    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/anker-soundcore-liberty-5-pro-blue-2_8c4c35.jpg",
-    "source_name": "CNET.COM"
   }
 ]
