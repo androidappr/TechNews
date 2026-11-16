@@ -1,5 +1,88 @@
 [
   {
+    "link": "https://thenextweb.com/news/plural-1bn-fund-european-frontier-startups",
+    "title": "Plural raises €1bn for European start-ups in defence, energy and AI",
+    "description": "Plural, the London-based venture firm run by former founders, has raised €1bn ($1.1bn). It will back European start-ups in energy, AI infrastructure, defence and health. It is the firm’s largest raise yet, almost four times its €260m first fund in 2022. Its second fund, in 2024, was €500m. Plural announced the money on Monday on",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T13:43:51+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/plural-partners-six-london-street-portrait.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/16/microsoft-outage-saw-80-of-servers-fail-heres-what-happened/",
+    "title": "Microsoft outage saw 80% of servers fail – here’s what happened",
+    "description": "Last week saw a truly epic outage to Microsoft 365, with a huge number of users unable to send and receive emails. The company has now admitted that at the worst point, more than 80% of its servers were unresponsive.\n\n\n\nMicrosoft has now explained what went wrong, stating that the mistake that led to the failure was actually made all the way back in July without being detected …\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T13:43:06+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Microsoft-outage-saw-80-of-servers-fail-–-heres-what-happened.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261116/p25#a261116p25",
+    "title": "The Jensen Huang saga is driven by elite factional conflicts: China hawks vs. doves, open vs. closed AI models, and the founder class vs. managerial class (Max Read/Patreon)",
+    "description": "Max Read / Patreon:\nThe Jensen Huang saga is driven by elite factional conflicts: China hawks vs. doves, open vs. closed AI models, and the founder class vs. managerial class  —  Greetings from Read Max HQ!  In this edition, some quick thoughts about Jensen Huang, Nvidia, and the fallout in both Silicon Valley and Washington …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T13:40:00+00:00",
+    "image_url": "http://www.techmeme.com/img/pml.png",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/megaspeed-raid-indonesia-no-nvidia-chips-fbi",
+    "title": "Indonesian police reportedly found no Nvidia chips at Megaspeed’s unit",
+    "description": "Indonesian police searched the local office of Megaspeed, the Singapore cloud company at the centre of the Nvidia scandal, The Straits Times reported on Monday. They found server racks but no Nvidia chips. The FBI had asked for the search earlier this year to trace chips Megaspeed bought. The paper’s source is a senior Indonesian",
+    "categories": [
+      "AI & Machine Learning",
+      "Gadgets & Hardware",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-16T13:30:06+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/data-centre-server-racks-corridor-blue-purple-lights-render.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/best-early-black-friday-live-deals-2026",
+    "title": "We found 45 early Black Friday deals: $250 off MacBooks, live Lego discounts, and Kindles on sale",
+    "description": "The best early Black Friday deals are already here. We found $200 savings on MacBook Airs and 50% off Bose headphones, QLED TVs, and more.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T13:23:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00repySxW95dk3eaKl3UKKF/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/nov-16-delonghi-classic-signature-espresso-machine-early-black-friday-deal",
+    "title": "DeLonghis Classic Signature espresso machine just dropped to $149.95 at Amazon: Save $80 ahead of Black Friday",
+    "description": "As of Nov. 16, the De'Longhi Classic Signature espresso machine is on sale for $149.95 at Amazon, 35% off its list price of $229.95.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T13:22:04+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/02gXXfFTVXRkNB5Qidz4XGx/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/life/nov-16-magic-the-gathering-marvel-darkhold-destiny-booster-display-preorder",
+    "title": "Magic: The Gathering Marvel Darkhold Destiny Booster Display preorders hit a record low on Amazon",
+    "description": "Preorder MTG's Marvel: Darkhold Destiny Booster Display for $199.99 at Amazon, saving $9.71 on the upcoming 30-pack box.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T13:17:24+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/052Hh1naZeTCJ1BKhLLSTT9/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/computing/qwen-4-max-aliababas-latest-flagship-ai-model-announced/",
     "title": "Qwen4-Max is China’s newest flagship AI model, and it makes GPT and Claude look expensive",
     "description": "Alibaba's Qwen4-Max costs $1.50/$4.50 per million tokens, cuts task costs by 62%, and was trained to avoid offensive hacking skills.",
@@ -35,6 +118,18 @@
     "source_name": "ENGADGET.COM"
   },
   {
+    "link": "https://www.zdnet.com/innovation/ai-finds-zero-day-security-flaws-for-cheap-hackers/",
+    "title": "AI finds zero-day flaws for just $4 now – even mediocre hackers can cash in",
+    "description": "Rapidly advancing AI models are making it cheaper and easier to uncover critical vulnerabilities, but it’s a double-edged sword – and a gift to hackers.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-16T13:14:25+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1346600545.jpg",
+    "source_name": "ZDNET.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/cars/nissans-new-phev-suv-goes-over-1000-miles-for-under-20000-alas-this-one-skips-the-us-too/",
     "title": "Nissan’s new PHEV SUV goes over 1,000 miles for under $20,000. Alas, this one skips the US, too.",
     "description": "Nissan has opened pre-sales for the NX7 plug-in hybrid SUV in China, starting at about $19,475 and promising over 1,000 miles of combined range. Like other China-built Nissans, it won't be coming to the US.",
@@ -50,6 +145,7 @@
     "title": "Best Buy's Holiday sale has up to $300 off Shark and Ninja appliances – here are 5 deals I'd buy on vacuums, FlexStyle, CryoGlow, and more",
     "description": "Shark and Ninja make some of our favorite appliances here at TechRadar and you can get serious discounts at Best Buy this week.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T13:10:31+00:00",
@@ -395,6 +491,17 @@
     "pub_date": "2026-11-16T12:00:57+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2298538124-1152x648.jpg",
     "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://gizmodo.com/filming-on-the-batman-part-ii-extends-into-2027-2000840256",
+    "title": "Filming on ‘The Batman Part II’ Extends Into 2027",
+    "description": "Plus, Dan Trachtenberg is rumored to direct a Marvel Cinematic Universe movie.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T12:00:49+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/03/MS0304-the-batman-robert-pattinson-1280x853.jpg",
+    "source_name": "GIZMODO.COM"
   },
   {
     "link": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
@@ -894,6 +1001,17 @@
     "source_name": "TECHMEME.COM"
   },
   {
+    "link": "https://gizmodo.com/anthropic-says-its-recursive-self-improvement-alarm-has-been-triggered-2000840253",
+    "title": "Anthropic Says Its Recursive Self-Improvement Alarm Has Been Triggered",
+    "description": "RSI isn’t happening, but a \"threshold\" has been breached that affects company policy.",
+    "categories": [
+      "AI & Machine Learning"
+    ],
+    "pub_date": "2026-11-16T10:00:29+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/09/DarioAmodei-1280x853.jpg",
+    "source_name": "GIZMODO.COM"
+  },
+  {
     "link": "https://www.wired.com/gallery/best-apple-3-in-1-travel-chargers/",
     "title": "Best Apple 3-in-1 Travel Chargers (2026): Anker, ESR, Satechi",
     "description": "Keep your trio of Apple gadgets powered up wherever you go with these compact folding chargers.",
@@ -979,7 +1097,6 @@
     "title": "A philandering chief is not Nvidia’s worst problem. It’s the legal chip smuggling mess that comes next.",
     "description": "Nvidia faces scrutiny over suspected AI chip diversions to China, raising concerns about US export controls and restricted chip access.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-16T09:37:41+00:00",
@@ -2185,117 +2302,5 @@
     "pub_date": "2026-11-15T19:15:43+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/your-next-desktop-pc-for-the-price-of-a-ferrari-hp-zgx-fury-packs-in-748gb-ram-and-nvidia-gb300-but-starts-at-usd132-000",
-    "title": "Your next desktop PC for the price of a Ferrari? HP ZGX Fury packs in 748GB RAM and Nvidia GB300 — but prices start at $132,000",
-    "description": "HP's $132,000 ZGX Fury combines Nvidia's GB300 processor, 748GB memory, liquid cooling, and high-speed networking for demanding artificial intelligence workloads.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-15T19:15:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/PZgCJ7B7RendGrosbZtv5e-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2313821/what-is-fn-lock-icon-how-to-use/",
-    "title": "What is the Fn Lock icon used for and how do you turn it off and on?",
-    "description": "Confused by the Fn Lock icon on your keyboard? Discover its purpose, how it affects your keyboard, and the simple steps to enable or disable it on any PC.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-15T19:15:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/what-is-the-fn-lock-icon-used-for-and-how-do-you-turn-it-off-and-on/l-intro-1794006613.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261115/p13#a261115p13",
-    "title": "Sources: Nvidia appealed to Taiwanese officials after its manager was charged over chip smuggling, and sought advice from TSMC, which declined to get involved (Mackenzie Hawkins/Bloomberg)",
-    "description": "Mackenzie Hawkins / Bloomberg:\nSources: Nvidia appealed to Taiwanese officials after its manager was charged over chip smuggling, and sought advice from TSMC, which declined to get involved  —  Nvidia Corp. appealed to Taiwanese officials after prosecutors on the island accused an employee of helping to smuggle AI chips into China …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-15T19:10:00+00:00",
-    "image_url": "http://www.techmeme.com/261115/i13.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/entertainment/sport/watch-grey-cup-2026-free-elks-vs-alouettes",
-    "title": "How to watch Grey Cup 2026: FREE live streams, TV channels & kick-off time for Elks vs Alouettes",
-    "description": "All the ways to watch Grey Cup 2026 for free from anywhere, with Cody Fajardo and Davis Alexander headlining the Elks vs Alouettes game at McMahon Stadium.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-15T19:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/PX2hLMSWz4gigVmz4KfboY-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2313818/how-to-generate-edit-gifs-with-chatgpt/",
-    "title": "You can now generate and edit GIFs with ChatGPT - here's how",
-    "description": "If you feel like Homer Simpson backing into the hedges has been overdone, OpenAI offers a new option for creating the right GIF for the moment.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-11-15T19:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/you-can-now-generate-and-edit-gifs-with-chatgpt-heres-how/l-intro-1794264975.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261115/p12#a261115p12",
-    "title": "The US and Pax Silica allies, including Japan, the UK, and India, agree to create a joint list of AI technologies and supply chains to protect from China (Financial Times)",
-    "description": "Financial Times:\nThe US and Pax Silica allies, including Japan, the UK, and India, agree to create a joint list of AI technologies and supply chains to protect from China  —  Pact comes ahead of Donald Trump's meeting with Xi Jinping at the Asia-Pacific Economic Cooperation forum in Shenzhen",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-15T18:55:00+00:00",
-    "image_url": "http://www.techmeme.com/261115/i12.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2313815/facebook-instagram-meta-accounts-what-happens-when-owner-dies/",
-    "title": "What happens to Facebook and Instagram accounts when the owner dies?",
-    "description": "Unless you delete them yourself, your Facebook and Instagram accounts will outlive you. But you can plan and set up what happens to them after you pass on.",
-    "categories": [
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-15T18:45:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/what-happens-to-facebook-and-instagram-accounts-when-the-owner-dies/l-intro-1794308400.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2313770/camera-sensor-cleaning-mistake-to-avoid/",
-    "title": "The camera sensor cleaning mistake you don't want to make",
-    "description": "A speck of dust on your camera's sensor can negatively affect your photos, but it's important to avoid this cleaning mistake so you don't damage your camera.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-15T18:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/the-camera-sensor-cleaning-mistake-you-dont-want-to-make/l-intro-1794336026.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
-    "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
-    "description": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
-    "categories": [
-      "Business & Startups",
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-15T18:29:14+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2313768/when-to-use-sleep-vs-shutdown-mini-pc/",
-    "title": "Sleep vs. shutdown: When to use these modes on your mini PC",
-    "description": "Here's how to determine if you should choose the sleep or shutdown mode on your mini PC. We'll also discuss the meaning of hibernation mode.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-15T18:15:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/sleep-vs-shutdown-when-to-use-these-modes-on-your-mini-pc/l-intro-1794322204.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
