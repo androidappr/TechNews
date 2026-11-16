@@ -1,5 +1,76 @@
 [
   {
+    "link": "https://www.engadget.com/2314180/what-is-an-nfc-tag/",
+    "title": "What is an NFC tag and how does one work?",
+    "description": "NFC tags are cheap, lightweight and easy to use. Here's what NFC technology does, where it's used and how it differs from RFID.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T14:15:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/what-is-an-nfc-tag-and-how-does-one-work/l-intro-1794428645.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+    "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+    "description": "Huang is weighing a return just days after resigning amid a deepening scandal.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-16T14:06:16+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/huang_computex_2024-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/microsoft-is-hiking-cloud-prices-in-india-but-dropping-costs-in-china-and-other-markets",
+    "title": "Microsoft is hiking cloud prices in India — but dropping costs in China and other markets",
+    "description": "India and New Zealand customers set to pay at least 10% more, but three countries are seeing cost reductions.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T14:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/usYAYYVM6TwaqQfKykCGSV-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/zoox-robotaxis-uber-las-vegas-mgm-resorts",
+    "title": "Amazon’s Zoox robotaxis are now on Uber in Las Vegas, a first for both",
+    "description": "From Monday, anyone hailing an Uber in Las Vegas may be picked up by a Zoox robotaxi, the companies said. Zoox, which Amazon owns, builds its vehicles without a steering wheel or a driver’s seat. It is the first time Zoox has put its robotaxis on another company’s platform. It is also the first purpose-built",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-16T14:01:34+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/zoox-robotaxi-uber-app-phone-aria-las-vegas.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/dreamteam-ai-native-crm-53m-accel",
+    "title": "AI-native CRM Dreamteam raises $53M to challenge incumbents",
+    "description": "For over two decades, CRMs like Salesforce and HubSpot have depended on sales teams remembering to manually enter conversational data. Dreamteam is built around the opposite idea. In the era of AI, CRMs should extract signals from sales conversations automatically and actually do the work to move deals forward. Dreamteam announced on Monday it has",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T14:00:24+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/dreamteam-founders-three-men-studio-portrait.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://arstechnica.com/cars/2026/11/mercedes-clever-new-driving-assist-handles-complex-traffic-like-a-champ/",
+    "title": "Mercedes' clever new driving assist handles complex traffic like a champ",
+    "description": "The point-to-point driver assist is coming to the US and Germany in 2027.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T14:00:05+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MB-ADAS-day-1-of-5-1152x648-1794831237.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/",
     "title": "Mazama Energy has a solution for geothermal’s biggest drilling problem",
     "description": "Khosla-backed Mazama Energy has developed a new way to supercool its geothermal drill bits, letting it drill faster and deeper in a quest to bring down the cost of electricity.",
@@ -34,6 +105,42 @@
     "pub_date": "2026-11-16T14:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472454/STK270_GOOGLE_MAPS_D.png?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.cnet.com/roadshow/auto-tech/mercedes-point-to-point-driver-assist-test-hands-on/",
+    "title": "Mercedes’ New Point-to-Point Driver Assist Helped Me Overcome My Fear of Driving",
+    "description": "New hands-free highway and driving-assistance features are coming to select US models next year. I got an early look at the tech to see if it could make me feel more comfortable behind the wheel.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T14:00:00+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/26C0353_011.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/innovation/google-threat-intelligence-report-llmjacking-ai/",
+    "title": "Your enterprise AI access can be sold for pennies – beware ‘LLM Mixers’",
+    "description": "Underground brokers are selling access to hijacked enterprise AI accounts, with companies footing the usage bill, Google reports.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-16T14:00:00+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2233776792_2935e7.jpg",
+    "source_name": "ZDNET.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/loop-halo-kids-earmuffs-launch-where-to-buy",
+    "title": "Loop just launched Halo earmuffs to protect toddler ears — where to buy",
+    "description": "Loop Earplugs introduced Loop Halo, certified hearing-protection earmuffs for kids aged 1 to 4.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T14:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/04bFFKT9xmtnSnWedXa8eYy/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techmeme.com/261116/p27#a261116p27",
@@ -2201,108 +2308,5 @@
     "pub_date": "2026-11-15T20:43:49+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/exclusive-ktc-heads-to-ces-2027-with-a-31-5-inch-6k-mini-led-display-engineered-to-break-records-as-the-cheapest-ultra-high-resolution-monitor-ever-sold",
-    "title": "KTC heads to CES 2027 with a 31.5-inch 6K Mini-LED display engineered to break records",
-    "description": "KTC will showcase its 31.5-inch 6K Mini-LED monitor at CES 2027, featuring 2,304 dimming zones and professional color reproduction.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-15T20:35:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/JN3uP2FdbfCn926VD4EBmQ-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2313878/how-to-find-ip-address/",
-    "title": "How to find your IP address",
-    "description": "You may need to find your IP address for network troubleshooting reasons or to remotely access your computer.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-15T20:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/how-to-find-your-ip-address/l-intro-1793996600.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/jensen-huang-is-discussing-a-return-to-nvidia-ft-reports",
-    "title": "Jensen Huang is discussing a return to Nvidia, FT reports",
-    "description": "Jensen Huang has been discussing a possible comeback as Nvidia’s chief executive, days after the board pushed him out, the Financial Times reported. Bloomberg relayed the report on Sunday. Huang resigned on Thursday. He had admitted an affair with Alice Huang, whom US officials suspect of spying for China, and was reported to have had another with an Nvidia",
-    "categories": [
-      "Business & Startups",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-15T20:22:54+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/jensen-huang-on-stage-leather-jacket-startup-logos.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-    "description": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware",
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-15T20:20:57+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2317210/amazon-is-reportedly-working-on-a-database-for-virtually-every-item-for-sale-on-earth/",
-    "title": "Amazon is reportedly working on a database for 'virtually every item for sale on Earth'",
-    "description": "This would include products that the online commerce giant doesn't even sell.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-15T20:19:05+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/amazon-is-reportedly-working-on-a-database-for-virtually-every-item-for-sale-on-earth/l-intro-1794770193.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2313873/give-old-apple-tv-device-new-purpose/",
-    "title": "How you can give your old Apple TV new purpose",
-    "description": "There are a few other tasks your Apple TV can handle.",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-15T20:15:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/how-you-can-give-your-old-apple-tv-new-purpose/l-intro-1794166001.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261115/p15#a261115p15",
-    "title": "Megaspeed says Alice Huang left in August 2025 and has no current role, and that it runs a \"legitimate and lawful business\" as it opens an internal probe (Associated Press)",
-    "description": "Associated Press:\nMegaspeed says Alice Huang left in August 2025 and has no current role, and that it runs a “legitimate and lawful business” as it opens an internal probe  —  Singapore-based cloud computing company Megaspeed International said Sunday that Chinese businesswoman Alice Huang …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-15T20:02:17+00:00",
-    "image_url": "http://www.techmeme.com/261115/i15.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-im-a-celebrity-2026-free-streams-from-anywhere",
-    "title": "How to watch I'm a Celebrity 2026 — free streams from anywhere",
-    "description": "Ant and Dec torture 11 celebrities in the Aussie outback, including Wayne Rooney, Ade Adepitan and Joanna Page. Here's how to watch I'm a Celebrity 2026 online.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-15T20:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/KLuLGF4DJu2JBLWZXpiqKJ-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2313849/usb-port-letter-a-meaning/",
-    "title": "What's the meaning of the \"A\" on your USB-A ports?",
-    "description": "The truth is, there's no surprising meaning for the \"A\" in USB-A. Discover what this connector is used for and if it's becoming obsolete.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-15T20:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/whats-the-meaning-of-the-a-on-your-usb-a-ports/l-intro-1794255166.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
