@@ -1,9 +1,97 @@
 [
   {
+    "link": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+    "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+    "description": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Gadgets & Hardware",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-16T21:01:02+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2314891/every-xbox-console-generation-sorted-release-date/",
+    "title": "Every Xbox console generation sorted by release date",
+    "description": "Microsoft debuted the Xbox in 2001, and there's quite a lot to look back on from the quarter-century since the company got into gaming.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-11-16T21:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/every-xbox-console-generation-sorted-by-release-date/l-intro-1794499952.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2318431/customers-at-major-banks-report-difficulty-accessing-accounts-online/",
+    "title": "Customers at major banks report difficulty accessing accounts online",
+    "description": "Representatives from the companies say this is a technical problem and not a cyberattack.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T20:49:32+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/customers-at-major-banks-report-difficulty-accessing-accounts-online/l-intro-1794862115.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/home-theater/apos-rock-lobster-review/",
+    "title": "Apos x Community Rock Lobster IEMs review: I plugged them into my favorite playlist. Now I get the name.",
+    "description": "The $60 Apos x Community Rock Lobster is a lightweight, energetic IEM tuned specifically for rock, punk, metal, and indie, with enough personality to make its compromises easy to understand.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T20:48:43+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Apos-X-Comunity-Rock-Lobster-IEM-in-the-ears.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/apec-ceo-summit-shenzhen-catl-baidu-unitree-musk",
+    "title": "China’s tech bosses and Elon Musk head to Shenzhen for APEC CEO summit",
+    "description": "The bosses of some of China’s biggest technology companies are on the agenda of the Asia-Pacific Economic Cooperation (APEC) CEO Summit in Shenzhen, which starts on Tuesday. The organiser released the agenda on Monday, Bloomberg and Reuters reported. Robin Zeng, founder and chairman of battery maker CATL, and Baidu chairman and CEO Robin Li are",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-16T20:46:52+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/trump-walks-to-air-force-one-salina-kansas-night.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+    "title": "California sues OpenAI over rogue AI hacking incidents",
+    "description": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-16T20:46:01+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+    "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+    "description": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\"",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-16T20:41:28+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://mashable.com/tech/major-us-banks-experiencing-online-banking-outages-nov-16-2026",
     "title": "Major U.S. banks experience online banking outages",
     "description": "An online banking outage in the United States is impacting customers trying to access their accounts online.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T20:40:48+00:00",
@@ -748,7 +836,7 @@
   },
   {
     "link": "https://www.digitaltrends.com/cool-tech/you-shouldnt-trust-ai-with-climate-talk-theyll-lie-to-you-under-the-slightest-pressure-says-un-report/",
-    "title": "You shouldn’t trust AI with climate talk. They’ll lie to you under the slightest pressure, says UN report",
+    "title": "You shouldn’t trust AI with climate talk. It’ll lie to you under the slightest pressure, says UN report",
     "description": "A UNESCO and UCL report finds AI models get basic climate facts right but cave to user pushback, fail complex policy questions and lose accuracy in Hindi, Bengali, Urdu and Swahili.",
     "categories": [
       "AI & Machine Learning",
@@ -1508,8 +1596,7 @@
     "title": "Google adds 66 regional dialects to Gemini",
     "description": "From today, Gemini's making more of an effort to speak your language in a way that sounds more accurate.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-16T17:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/google-adds-66-regional-dialects-to-gemini/l-intro-1794828173.jpg",
@@ -1555,7 +1642,6 @@
     "title": "Noeri, which is developing AI software to review and suggest improvements for its clients' AI models and tools, raised $110M led by Menlo Ventures (Dina Bass/Bloomberg)",
     "description": "Dina Bass / Bloomberg:\nNoeri, which is developing AI software to review and suggest improvements for its clients' AI models and tools, raised $110M led by Menlo Ventures  —  A five-month-old startup co-founded by two prominent artificial intelligence experts at Stanford University has drawn funding …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T16:55:01+00:00",
@@ -2230,7 +2316,6 @@
     "title": "President Trump says he \"would not mind\" if Jensen Huang was reinstated as Nvidia's CEO and \"I don't know that she was a spy at all\" in reference to Alice Huang (Emily Goodin/New York Post)",
     "description": "Emily Goodin / New York Post:\nPresident Trump says he “would not mind” if Jensen Huang was reinstated as Nvidia's CEO and “I don't know that she was a spy at all” in reference to Alice Huang  —  WASHINGTON — President Donald Trump said Monday he “would not mind” if Jensen Huang was reinstated as Nvidia CEO …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T14:55:00+00:00",
@@ -2308,84 +2393,5 @@
     "pub_date": "2026-11-16T14:40:06+00:00",
     "image_url": "https://media.thenextweb.com/2026/11/starship-upper-stage-descending-between-launch-towers-starbase.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261116/p30#a261116p30",
-    "title": "Google's TIG reports the first observed instance of attackers using an autonomous AI framework with no human in the loop to turn security patches into exploits (Duncan Riley/SiliconANGLE)",
-    "description": "Duncan Riley / SiliconANGLE:\nGoogle's TIG reports the first observed instance of attackers using an autonomous AI framework with no human in the loop to turn security patches into exploits  —  A new report out today from Google LLC's Google Threat Intelligence Group finds that for the first time, attackers have used …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T14:40:01+00:00",
-    "image_url": "http://www.techmeme.com/261116/i30.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/apps-software/google-messages-could-be-about-to-get-a-major-upgrade-for-voice-note-lovers",
-    "title": "Google Messages could be about to get a major upgrade for voice note lovers",
-    "description": "Voice notes and audio files could be getting some handy upgrades, and the same goes for chat pins.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T14:35:17+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/XYbs8dm5PTw7EnAXFUxga9-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261116/p29#a261116p29",
-    "title": "Knit Health, which uses its AI world model to predict patient care needs, forecast treatment impacts, and optimize referrals, raised a $35M Series A led by NEA (Will Maddox/Axios)",
-    "description": "Will Maddox / Axios:\nKnit Health, which uses its AI world model to predict patient care needs, forecast treatment impacts, and optimize referrals, raised a $35M Series A led by NEA  —  Knit Health, a startup aiming to optimize patient referrals, raised a $35 million Series A round, CEO Jonathan Kolstad tells Axios Pro exclusively.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T14:35:05+00:00",
-    "image_url": "http://www.techmeme.com/261116/i29.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261116/p28#a261116p28",
-    "title": "Tel Aviv- and SF-based Corma, which builds AI agents custom-trained for cyber defense, raised a $125M Series A led by NEA, after raising a $60M seed in August (Angus Loten/Wall Street Journal)",
-    "description": "Angus Loten / Wall Street Journal:\nTel Aviv- and SF-based Corma, which builds AI agents custom-trained for cyber defense, raised a $125M Series A led by NEA, after raising a $60M seed in August  —  The year-old startup's agents are custom-trained for defensive cybersecurity  —  Cybersecurity startup Corma raised $125 million …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T14:30:01+00:00",
-    "image_url": "http://www.techmeme.com/261116/i28.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://gizmodo.com/this-mans-heart-kept-failing-for-11-years-he-was-secretly-taking-a-drug-made-for-cattle-2000840057",
-    "title": "This Man’s Heart Kept Failing for 11 Years. He Was Secretly Taking a Drug Made for Cattle",
-    "description": "A middle-aged man admitted to taking a synthetic hormone created to literally “beef up” cattle. A new case study has tracked over a decade of his medical woes.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T14:25:05+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/11/Angus-Beef-Cattle-in-Pasture-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/blackstone-bxdc-aws-data-centres-5bn",
-    "title": "Blackstone’s data centre trust buys 75% of 13 AWS buildings in $5bn deal",
-    "description": "Blackstone Digital Infrastructure Trust (BXDC) is buying 75% of two joint ventures with Amazon Web Services (AWS). The deal is valued at about $5bn. It is the first acquisition for the Blackstone-managed trust, which listed in May. The joint ventures will own 13 newly built powered shells on two AWS data centre campuses. BXDC announced",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-11-16T14:24:25+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/nick-pell-portrait-navy-jacket-grey-background.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/live/news/early-black-friday-sales-us-16-november",
-    "title": "Early Black Friday deals are live at Walmart, Best Buy, and others — I'm finding the best on LG OLED TVs, laptops, Sony headphones, and more",
-    "description": "Our Black Friday coverage is well underway today, with an overview of the best sales plus our favorite deals from leading retailers (so far...).",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T14:19:19+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/pEs5aSnDxMChqMjyDRwqL5-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
