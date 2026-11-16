@@ -1,5 +1,53 @@
 [
   {
+    "link": "https://thenextweb.com/news/ai-national-champions-nvidia-openai-anthropic-trump",
+    "title": "Nvidia, OpenAI and Anthropic to be named AI national champions, WSJ reports",
+    "description": "The Trump administration plans to name Nvidia, Amazon, Microsoft, OpenAI and Anthropic among more than two dozen AI “national champions”, The Wall Street Journal reported on Sunday. The aim is to help US AI firms win business overseas against Chinese rivals. People familiar with the plans told Yoko Kubota and Amrith Ramkumar that the announcement",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-16T09:43:00+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/jensen-huang-donald-trump-pointing-medal-us-flags.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/a-philandering-chief-is-not-nvidias-worst-problem-its-the-legal-chip-smuggling-mess-that-comes-next/",
+    "title": "A philandering chief is not Nvidia’s worst problem. It’s the legal chip smuggling mess that comes next.",
+    "description": "Nvidia faces scrutiny over suspected AI chip diversions to China, raising concerns about US export controls and restricted chip access.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-16T09:37:41+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Jensen-Huang-NVIDIA.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261116/p10#a261116p10",
+    "title": "A look at China's push for AI literacy by 2030, as schools adopt AI-focused curricula, classroom cameras, and AI-generated lessons to mitigate teacher shortages (Reuters)",
+    "description": "Reuters:\nA look at China's push for AI literacy by 2030, as schools adopt AI-focused curricula, classroom cameras, and AI-generated lessons to mitigate teacher shortages  —  At a top private school in Beijing, 13-year-old Peng Gaodi has used artificial intelligence to build more than 200 apps …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T09:35:02+00:00",
+    "image_url": "http://www.techmeme.com/261116/i10.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://mashable.com/life/blooms-by-play-doh-rose-bouquet-kit-where-to-buy",
+    "title": "Blooms by Play-Doh made a rose bouquet kit for adults — where to buy this romantic Christmas gift",
+    "description": "Play-Doh is launching the Blooms by Play-Doh Rose Bouquet Kit for adults on Nov. 13. Here is where to buy the $39.99 set and release details.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T09:32:53+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/03mrHZkJtUQ1T52YHZshc0l/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261116/p9#a261116p9",
     "title": "Analysis: global manufacturing, utility, and mining companies have shed $4.2T in market value since June as the AI \"picks and shovels\" trade swings into reverse (Clara Murray/Financial Times)",
     "description": "Clara Murray / Financial Times:\nAnalysis: global manufacturing, utility, and mining companies have shed $4.2T in market value since June as the AI “picks and shovels” trade swings into reverse  —  Shares in AI ‘picks and shovels’ companies hit hard by tech sell-off  —  Global manufacturing …",
@@ -333,6 +381,7 @@
     "title": "Sources: the Trump administration plans to name Nvidia, Amazon, Microsoft, OpenAI, and Anthropic among 24+ AI \"national champions\" to help win overseas business (Wall Street Journal)",
     "description": "Wall Street Journal:\nSources: the Trump administration plans to name Nvidia, Amazon, Microsoft, OpenAI, and Anthropic among 24+ AI “national champions” to help win overseas business  —  The new program is part of an effort to help U.S. AI companies compete for business overseas",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T04:40:00+00:00",
@@ -367,7 +416,6 @@
     "title": "Alibaba says Qwen4-Max, which isn't open weight, beats Fable 5.1 and Kimi K3.1 Pro in coding benchmarks, and plans to release weights for smaller Qwen4 models (Luz Ding/Bloomberg)",
     "description": "Luz Ding / Bloomberg:\nAlibaba says Qwen4-Max, which isn't open weight, beats Fable 5.1 and Kimi K3.1 Pro in coding benchmarks, and plans to release weights for smaller Qwen4 models  —  Alibaba Group Holding Ltd. launched a new flagship AI model, claiming performance that rivals Anthropic PBC and OpenAI in China's latest challenge to US leaders.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T03:45:00+00:00",
@@ -391,7 +439,6 @@
     "title": "I've been tracking Amazon's Black Friday early deals all month — these are the 30+ best discounts available now",
     "description": "There's thousands of Early Black Friday deals on Amazon right now and we've selected the top options on headphones, speakers, cameras, smartphones, vacuums, air fryers and more.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T03:31:59+00:00",
@@ -2206,50 +2253,5 @@
     "pub_date": "2026-11-15T11:30:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/UqPRjCxgv7pKaHoppyuvJN-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-    "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
-    "description": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-15T11:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/master/pass/Screenshot%202026-11-11%20at%2014.47.44.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/droughts-are-getting-too-extreme-even-for-cactuses/",
-    "title": "It’s Getting Too Dry for Even Cactuses to Survive",
-    "description": "As droughts worsen due to climate change, new research shows that hundreds of cactus species could lose the majority of their habitats by 2100.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-15T10:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6af6e9401b752946d00e4918/master/pass/extreme-heat-climate-change-cacti-cactus-extinction-biodiversity-risk-models.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/mac-mini-deal-11-13-2026/",
-    "title": "M6 Mac Mini Early Black Friday Sale (2026)",
-    "description": "The Mac Mini is the best mini computer you can buy, and it’s currently $120 off, starting at just $779.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-15T10:00:00+00:00",
-    "image_url": null,
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/",
-    "title": "New Species of Giant Fungus Discovered in China Grows up to 20 Inches Tall",
-    "description": "Dubbed Dianjunus rex, the huge fungus emerged shortly after the mass extinction that wiped out the dinosaurs.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-15T10:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6af5dd41ea249e5173fa2e83/master/pass/Weixin%20Image_2025-07-15_230629_400.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
