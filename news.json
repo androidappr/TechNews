@@ -1,5 +1,88 @@
 [
   {
+    "link": "https://www.techmeme.com/261116/p34#a261116p34",
+    "title": "Harvard study: just 403 US data centers operational between May 2024 and April 2025 consumed as much electricity annually as the state of Michigan (Molly Taft/Wired)",
+    "description": "Molly Taft / Wired:\nHarvard study: just 403 US data centers operational between May 2024 and April 2025 consumed as much electricity annually as the state of Michigan  —  New Harvard research shows that data-center power demand is outstripping states—and that doesn't even include facilities with off-grid gas plants.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T16:45:01+00:00",
+    "image_url": "http://www.techmeme.com/261116/i34.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/tensorwave-openai-457mw-amd-helios",
+    "title": "TensorWave will supply OpenAI with 457MW of AMD-powered AI capacity",
+    "description": "TensorWave, an AI cloud provider backed by AMD’s venture arm, will supply OpenAI with 457 megawatts of computing capacity. The deal runs for six years. The capacity will run on AMD’s Instinct MI455X GPUs across several US data centre sites, TensorWave said on Monday. The TensorWave OpenAI deal falls under OpenAI’s existing partnership with AMD.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-11-16T16:41:09+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/tensorwave-openai-logos-cyan-gradient.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/ao3-is-back-this-is-not-a-drill/",
+    "title": "AO3 Is Back. This Is Not a Drill",
+    "description": "Following a weeks-long shutdown, the home to over 18 million works of fan fiction is back online, with some limitations.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-16T16:40:33+00:00",
+    "image_url": "https://media.wired.com/photos/6afb1b61fd92a97bc81f1a8d/master/pass/111626-AO3%20Back%20Online.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/16/security-bite-the-worlds-biggest-apple-security-conference-kicks-off-this-week-in-hawaii/",
+    "title": "Security Bite: The world’s biggest Apple security conference kicks off this week in Hawaii",
+    "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening & Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\n\n\n\n\n\n\n\nWhile this rather exciting week gave us the next James Bond, and it’s also the start of Objective by the Sea, the largest (and, well, pretty much only) Apple security conference in the world, held in Hawaii.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T16:40:25+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
+    "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
+    "description": "International authorities will announce US lost its elimination status Tuesday.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T16:39:29+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233024483-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/gpu/if-you-thought-jensen-huangs-exit-meant-the-worst-for-nvidias-gaming-graphics-cards-think-again-geforce-evangelist-assures-us-it-isnt-the-end-for-these-gpus",
+    "title": "Are Nvidia's gaming GPUs dying? 'Nope' says the firm's GeForce Evangelist",
+    "description": "Are Nvidia's gaming GPUs dying? 'Nope' says the firm's GeForce Evangelist, despite the cloud of doubt cast over these cards.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T16:35:17+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/qSUFejGsZEmdG4wG43RTPC-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/nvidia-ibm-fermilab-quantum-codesign-platform-decoder",
+    "title": "Nvidia teams up with IBM and Fermilab on a quantum codesign platform",
+    "description": "Nvidia said on Monday that it plans to work with IBM and the US Department of Energy’s Fermi National Accelerator Laboratory on a quantum codesign platform. The three will use it to research modular quantum computers, error correction and scientific applications, Nvidia said in its announcement. At the core of the platform, Nvidia DGX B200",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-16T16:31:15+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/ibm-quantum-system-nvidia-dgx-cryogenic-hardware-panels.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/11/16/deals-apple-watch-series-12-airpods-pro-3-iphone-duo-charger/",
     "title": "Deals: Apple Watch Series 12 best price ever, AirPods Pro 3 now even lower, Apple’s iPhone Duo charger 25% off, more",
     "description": "Alongside the ongoing discount on M5 MacBook Air at up to $250 off and AirTag 2 from just $17.50 each, Amazon has now updated its giant early Black Friday sale with an even lower price on  AirPods Pro 3  at $70 off and the lowest prices ever on the entire Apple Watch Series 12 lineup starting from $329. These offers include the first chance to save on Apple’s gorgeous Pearl White Ceramic Series 12 and Apple Watch SE 3 starting from just $199 shipped. Check it all out below and go scoop up the 40W Dynamic Power iPhone Duo fast charger while it’s over 25% off. \n\n\n\n more…",
@@ -421,8 +504,8 @@
   },
   {
     "link": "https://www.techmeme.com/261116/p31#a261116p31",
-    "title": "President Trump says he \"would not mind\" the reinstatement of Jensen Huang as Nvidia CEO and \"I don't know that she was a spy at all\", referencing Alice Huang (Emily Goodin/New York Post)",
-    "description": "Emily Goodin / New York Post:\nPresident Trump says he “would not mind” the reinstatement of Jensen Huang as Nvidia CEO and “I don't know that she was a spy at all”, referencing Alice Huang  —  WASHINGTON — President Donald Trump said Monday he “would not mind” if Jensen Huang was reinstated as Nvidia CEO …",
+    "title": "President Trump says he \"would not mind\" if Jensen Huang was reinstated as Nvidia's CEO and \"I don't know that she was a spy at all\" in reference to Alice Huang (Emily Goodin/New York Post)",
+    "description": "Emily Goodin / New York Post:\nPresident Trump says he “would not mind” if Jensen Huang was reinstated as Nvidia's CEO and “I don't know that she was a spy at all” in reference to Alice Huang  —  WASHINGTON — President Donald Trump said Monday he “would not mind” if Jensen Huang was reinstated as Nvidia CEO …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -1083,7 +1166,6 @@
     "title": "The US-led Pax Silica faces local backlash in the Philippines over a planned AI hub, with concerns about displacement, resources, and threats to sovereignty (New York Times)",
     "description": "New York Times:\nThe US-led Pax Silica faces local backlash in the Philippines over a planned AI hub, with concerns about displacement, resources, and threats to sovereignty  —  A planned American-led artificial intelligence hub in the Philippines has sparked fierce opposition over concerns about displacement …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T12:35:00+00:00",
@@ -2273,82 +2355,5 @@
     "pub_date": "2026-11-16T03:20:01+00:00",
     "image_url": "http://www.techmeme.com/261115/i23.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/nyt-connections-hints-meanings-november-16-2026",
-    "title": "NYT Connections hints today: Meanings for each word for Nov. 16, 2026",
-    "description": "Why is NYT Connections trending today? Explaining the meanings behind the clues for NYT Connections #1254.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T03:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00xLTGy48gHzA3iWSOS1YuK/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-november-16-2026",
-    "title": "NYT Connections hints today: Clues, answers for November 16, 2026",
-    "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T03:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02miA6g7wrGIjJlze57Z54o/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/strands-nyt-hint-november-16-2026",
-    "title": "NYT Strands hints, answers for November 16, 2026",
-    "description": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T03:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/049GxFo1ZDenOfaq6voebbH/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/wordle-today-answer-november-16-2026",
-    "title": "Wordle today: Answer, hints for November 16, 2026",
-    "description": "Here's the answer for \"Wordle\" #1976 on November 16 as well as a few hints, tips, and clues to help you solve it yourself.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T03:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03PUkpsmbNbvi1abWaJgWQa/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261115/p22#a261115p22",
-    "title": "Toronto-based Blue J, which provides AI-powered tax research software, raised a $176M Series E round led by JMI Equity at a $700M+ valuation (Alex Riehl/BetaKit)",
-    "description": "Alex Riehl / BetaKit:\nToronto-based Blue J, which provides AI-powered tax research software, raised a $176M Series E round led by JMI Equity at a $700M+ valuation  —  Toronto-based Blue J has raised a $176-million USD ($249-million CAD) Series E round after more than doubling its annual recurring revenue in just over a year.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T02:40:01+00:00",
-    "image_url": "http://www.techmeme.com/261115/i22.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261115/p21#a261115p21",
-    "title": "SK Hynix and the Korean government plan to partner on building Trinity Fab, a new $654M chip testing facility letting suppliers test products on 12-inch wafers (Yoolim Lee/Bloomberg)",
-    "description": "Yoolim Lee / Bloomberg:\nSK Hynix and the Korean government plan to partner on building Trinity Fab, a new $654M chip testing facility letting suppliers test products on 12-inch wafers  —  SK Hynix Inc. plans to open a semiconductor testing facility next year in partnership with the Korean government …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T02:20:02+00:00",
-    "image_url": "http://www.techmeme.com/261115/i21.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/original-mass-effect-composer-looks-back-on-the-audition-process-for-the-mystery-rpg-codenamed-sfx-and-how-he-had-to-earn-the-job-through-a-blind-audition-they-gravitated-to-mine-and-were-very-happy-to-find-out-it-was-me",
-    "title": "Original Mass Effect composer looks back on the audition process for the ‘mystery’ RPG codenamed ‘SFX’ and how he had to ‘earn’ the job through a blind audition — ‘They gravitated to mine and were very happy to find out it was me!’",
-    "description": "Jack Wall, the composer for the original Mass Effect, has shared the story of how he landed the job on BioWare's now-iconic sci-fi role-playing game (RPG).",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-16T02:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/cCM9NYvJnfYZs9jzPLekAc-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
