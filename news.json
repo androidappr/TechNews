@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+    "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+    "description": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE sometime between August and November 2021, and starting in early November",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-11-16T23:35:58+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/a-new-aws-emulator-has-been-built-entirely-by-ai-agents-to-bring-its-cloud-straight-to-your-pc",
+    "title": "A new AWS emulator has been built entirely by AI agents to bring its cloud straight to your PC",
+    "description": "AWS Emulator enables local hosting of AWS via a GitHub download – and the project is 100% coded by AI agents.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T23:35:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ABdYnex3UvLSEgFZqq9eSZ-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "description": "Three months since introducing its product, AI cybersecurity startup Corba has raised an $125 million Series A at a $1 billion valuation led by NEA.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-16T23:32:32+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.cnet.com/roadshow/automobiles/uber-adds-zoox-robotaxis-to-app/",
+    "title": "Uber Adds Zoox’s Robotaxis to Its App. Everything To Know",
+    "description": "You could be paired with the boxy self-driving vehicles when hailing a ride in Las Vegas.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T23:31:07+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Image-1.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2315100/how-to-put-ipad-in-recovery-mode/",
+    "title": "How to put your iPad in recovery mode (with and without a home button)",
+    "description": "A failed update or too many wrong passcodes can leave your iPad unusable. Find out how recovery mode works and when it's worth trying as a last resort.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T23:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-to-put-your-ipad-in-recovery-mode-with-and-without-a-home-button/l-intro-1794505141.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/computing/openai-introduces-stricter-chatgpt-interventions-to-prevent-the-misuse-of-ai-for-child-exploitation/",
     "title": "OpenAI introduces stricter ChatGPT interventions to prevent the misuse of AI for child exploitation",
     "description": "OpenAI is introducing an AI-powered image classifier, stricter ChatGPT interventions and new tools for developers and investigators to help combat online child sexual exploitation.",
@@ -107,8 +167,8 @@
   },
   {
     "link": "https://www.techmeme.com/261116/p45#a261116p45",
-    "title": "United Airlines reports \"widespread system outage\" affecting departing flights but not flights in progress (Michele Luhn/CNBC)",
-    "description": "Michele Luhn / CNBC:\nUnited Airlines reports “widespread system outage” affecting departing flights but not flights in progress  —  United Airlines on Monday reported a “widespread system outage” was affecting departing flights.  —  “We are troubleshooting a technology issue affecting departing flights,” the airline said in a statement.",
+    "title": "United Airlines says it has \"resolved a technology issue that delayed flight departures\", adding that the outage did not impact flights already in progress (Michele Luhn/CNBC)",
+    "description": "Michele Luhn / CNBC:\nUnited Airlines says it has “resolved a technology issue that delayed flight departures”, adding that the outage did not impact flights already in progress  —  United Airlines on Monday said it had resolved a “widespread system outage” that briefly affected departing flights.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -144,14 +204,14 @@
   },
   {
     "link": "https://www.engadget.com/2318613/united-airlines-is-experiencing-a-widespread-system-outage/",
-    "title": "United Airlines is experiencing a 'widespread system outage'",
+    "title": "United Airlines has fixed issue that caused 'widespread system outage'",
     "description": "United is apparently experiencing a major outage just days after a nationwide ground stop halted thousands of flights.",
     "categories": [
       "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T22:38:43+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/united-airlines-is-experiencing-a-widespread-system-outage/l-intro-1794869694.jpg",
+    "image_url": "https://www.engadget.com/img/gallery/united-airlines-is-experiencing-a-widespread-system-outage/l-intro-1794871027.jpg",
     "source_name": "ENGADGET.COM"
   },
   {
@@ -249,8 +309,8 @@
   },
   {
     "link": "https://www.techmeme.com/261116/p44#a261116p44",
-    "title": "A US judge clears two brothers accused of stealing $25M in crypto, saying prosecutors failed to prove material misrepresentations in exploiting a software bug (Nate Raymond/Reuters)",
-    "description": "Nate Raymond / Reuters:\nA US judge clears two brothers accused of stealing $25M in crypto, saying prosecutors failed to prove material misrepresentations in exploiting a software bug  —  A federal judge on Monday ordered the acquittal of two Massachusetts Institute of Technology-educated brothers on US charges …",
+    "title": "A US judge clears two brothers accused of stealing $25M in crypto in 12 seconds, saying prosecutors failed to prove they committed fraud by exploiting Ethereum (Nate Raymond/Reuters)",
+    "description": "Nate Raymond / Reuters:\nA US judge clears two brothers accused of stealing $25M in crypto in 12 seconds, saying prosecutors failed to prove they committed fraud by exploiting Ethereum  —  A federal judge on Monday ordered the acquittal of two Massachusetts Institute of Technology-educated brothers on US charges …",
     "categories": [
       "Tech News"
     ],
@@ -864,11 +924,10 @@
   {
     "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
     "title": "California state AG sues OpenAI over rogue agent incidents",
-    "description": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+    "description": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups"
+      "Breaking News"
     ],
     "pub_date": "2026-11-16T20:07:13+00:00",
     "image_url": null,
@@ -1888,7 +1947,6 @@
     "title": "Source: Nvidia's board is not considering bringing Jensen Huang back as CEO and it is focused on a national security investigation into Huang (CNBC)",
     "description": "CNBC:\nSource: Nvidia's board is not considering bringing Jensen Huang back as CEO and it is focused on a national security investigation into Huang  —  Nvidia's board of directors is not considering bringing back Jensen Huang as CEO, a person familiar with the matter told CNBC.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T17:43:06+00:00",
@@ -1948,8 +2006,7 @@
     "title": "Your Samsung phone could soon get a personal AI agent – what we know about Galaxy Claw",
     "description": "Similar to Gemini Intelligence and Siri AI, Galaxy Claw could bring cross-app intelligence to your phone.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-16T17:35:43+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/dsc09895_4e2842.jpg",
@@ -2163,18 +2220,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
-    "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
-    "description": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
-    "categories": [
-      "Social & Media",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-16T17:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
     "link": "https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/",
     "title": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
     "description": "The Meta-owned social media platform now lets creators attach up to 30 affiliate links per Reel to make money from Amazon more easily.",
@@ -2198,17 +2243,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.engadget.com/2316714/instagram-will-let-creators-add-amazon-affiliate-links-directly-to-their-posts-and-reels/",
-    "title": "Instagram will let creators add Amazon affiliate links directly to their posts and Reels",
-    "description": "The app will become even more of a shopping mall, just in time for Black Friday.",
-    "categories": [
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-16T17:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/instagram-will-let-creators-add-amazon-affiliate-links-directly-to-their-posts-and-reels/l-intro-1794612310.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
     "link": "https://mashable.com/life/starbucks-free-red-cup-day-2026",
     "title": "Starbucks Red Cup Day 2026: First look at new design and how to claim yours",
     "description": "When is Starbucks Red Cup Day in 2026. Launch date, how to claim, new design.",
@@ -2218,6 +2252,29 @@
     "pub_date": "2026-11-16T17:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/03ZW25o6s9jZtZfJpyHZi4W/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
+    "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
+    "description": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
+    "categories": [
+      "Social & Media",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-16T17:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2316714/instagram-will-let-creators-add-amazon-affiliate-links-directly-to-their-posts-and-reels/",
+    "title": "Instagram will let creators add Amazon affiliate links directly to their posts and Reels",
+    "description": "The app will become even more of a shopping mall, just in time for Black Friday.",
+    "categories": [
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-16T17:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/instagram-will-let-creators-add-amazon-affiliate-links-directly-to-their-posts-and-reels/l-intro-1794612310.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.techradar.com/pro/the-neptune-4-max-launches-into-space-with-a-massive-black-friday-discount",
@@ -2313,63 +2370,5 @@
     "pub_date": "2026-11-16T16:46:56+00:00",
     "image_url": "https://media.thenextweb.com/2026/08/corma-60m-seed-sequoia-defensive-cybersecurity-ai.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261116/p34#a261116p34",
-    "title": "Harvard study: just 403 US data centers operational between May 2024 and April 2025 consumed as much electricity annually as the state of Michigan (Molly Taft/Wired)",
-    "description": "Molly Taft / Wired:\nHarvard study: just 403 US data centers operational between May 2024 and April 2025 consumed as much electricity annually as the state of Michigan  —  New Harvard research shows that data-center power demand is outstripping states—and that doesn't even include facilities with off-grid gas plants.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T16:45:01+00:00",
-    "image_url": "http://www.techmeme.com/261116/i34.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2314367/smart-home-hub-placement-importance/",
-    "title": "Your smart home hub placement is more important than you'd think",
-    "description": "Keeping your smart home network functioning properly starts with understanding where to place it in relation to your smart devices and Wi-Fi router.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T16:45:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/your-smart-home-hub-placement-is-more-important-than-youd-think/l-intro-1794438685.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-can-now-buy-things-for-you-with-your-credit-card-and-watching-it-complete-a-purchase-in-seconds-makes-the-future-of-online-shopping-feel-very-real",
-    "title": "ChatGPT can now buy things for you with your credit card",
-    "description": "OpenAI has added credit and debit card purchases to ChatGPT, but it's only for US-based Pro users over 18 right now.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-11-16T16:43:07+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/M7xFMm3tr9tis2U7nUuhkZ-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/tensorwave-openai-457mw-amd-helios",
-    "title": "TensorWave will supply OpenAI with 457MW of AMD-powered AI capacity",
-    "description": "TensorWave, an AI cloud provider backed by AMD’s venture arm, will supply OpenAI with 457 megawatts of computing capacity. The deal runs for six years. The capacity will run on AMD’s Instinct MI455X GPUs across several US data centre sites, TensorWave said on Monday. The TensorWave OpenAI deal falls under OpenAI’s existing partnership with AMD.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-11-16T16:41:09+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/tensorwave-openai-logos-cyan-gradient.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/ao3-is-back-this-is-not-a-drill/",
-    "title": "AO3 Is Back. This Is Not a Drill",
-    "description": "Following a weeks-long shutdown, the home to over 18 million works of fan fiction is back online, with some limitations.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-11-16T16:40:33+00:00",
-    "image_url": "https://media.wired.com/photos/6afb1b61fd92a97bc81f1a8d/master/pass/111626-AO3%20Back%20Online.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
