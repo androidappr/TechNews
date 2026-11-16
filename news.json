@@ -1,5 +1,76 @@
 [
   {
+    "link": "https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/",
+    "title": "Mazama Energy has a solution for geothermal’s biggest drilling problem",
+    "description": "Khosla-backed Mazama Energy has developed a new way to supercool its geothermal drill bits, letting it drill faster and deeper in a quest to bring down the cost of electricity.",
+    "categories": [
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-16T14:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+    "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+    "description": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more information before choosing their next story, in addition to recommended audiobook",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-16T14:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Audible-audio-discovery-hero-.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+    "title": "Google Maps can now create trip itineraries for you",
+    "description": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spanning several days. As",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-16T14:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472454/STK270_GOOGLE_MAPS_D.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261116/p27#a261116p27",
+    "title": "The US Commerce Department issues an interim rule to limit remote access to advanced AI chips and servers from select countries, such as Singapore and Malaysia (Magan Crane/Bloomberg)",
+    "description": "Magan Crane / Bloomberg:\nThe US Commerce Department issues an interim rule to limit remote access to advanced AI chips and servers from select countries, such as Singapore and Malaysia  —  The US Commerce Department issued an interim rule to limit remote access to advanced AI chips and servers from certain countries …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T13:55:01+00:00",
+    "image_url": "http://www.techmeme.com/261116/i27.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/cool-tech/ai-models-will-change-their-response-if-you-warn-that-its-being-monitored-but-not-necessarily-for-good/",
+    "title": "AI models will change their response if you warn that it’s being monitored, but not necessarily for good",
+    "description": "A new study involving 10 AI models suggests that their willingness to follow instructions can change depending on whether they believe their responses are being monitored. The findings raise questions about how reliably AI systems behave outside controlled testing environments.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-16T13:51:42+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/04/DT-2026-04-20T095535.942.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261116/p26#a261116p26",
+    "title": "Arion Kurtaj, a 21-year-old Lapsus$ member, pleads guilty in UK court to hacking Rockstar, Uber, BT, and others, after being released from a secure hospital (Joe Tidy/BBC)",
+    "description": "Joe Tidy / BBC:\nArion Kurtaj, a 21-year-old Lapsus$ member, pleads guilty in UK court to hacking Rockstar, Uber, BT, and others, after being released from a secure hospital  —  A hacker has pleaded guilty to a string of online crimes, including trying to extort the makers of Grand Theft Auto 6 after stealing dozens of unfinished clips of the game.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T13:50:03+00:00",
+    "image_url": "http://www.techmeme.com/261116/i26.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/plural-1bn-fund-european-frontier-startups",
     "title": "Plural raises €1bn for European start-ups in defence, energy and AI",
     "description": "Plural, the London-based venture firm run by former founders, has raised €1bn ($1.1bn). It will back European start-ups in energy, AI infrastructure, defence and health. It is the firm’s largest raise yet, almost four times its €260m first fund in 2022. Its second fund, in 2024, was €500m. Plural announced the money on Monday on",
@@ -32,7 +103,7 @@
       "Tech News"
     ],
     "pub_date": "2026-11-16T13:40:00+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
+    "image_url": "http://www.techmeme.com/261116/i25.jpg",
     "source_name": "TECHMEME.COM"
   },
   {
@@ -301,8 +372,8 @@
   },
   {
     "link": "https://www.techmeme.com/261116/p23#a261116p23",
-    "title": "A look at the Jensen Huang fallout: a threat to Nvidia's core moat and its circular financing of neocloud customers, a win for AI doomers and hawks, and more (Ben Thompson/Stratechery)",
-    "description": "Ben Thompson / Stratechery:\nA look at the Jensen Huang fallout: a threat to Nvidia's core moat and its circular financing of neocloud customers, a win for AI doomers and hawks, and more  —  Dearly beloved, we are gathered here today to get through this thing called life.  —  ― Prince",
+    "title": "A look at the Jensen Huang fallout: a threat to Nvidia's organizational moat and its financing of neocloud customers, a win for AI doomers and hawks, and more (Ben Thompson/Stratechery)",
+    "description": "Ben Thompson / Stratechery:\nA look at the Jensen Huang fallout: a threat to Nvidia's organizational moat and its financing of neocloud customers, a win for AI doomers and hawks, and more  —  Dearly beloved, we are gathered here today to get through this thing called life.  —  ― Prince",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -2233,74 +2304,5 @@
     "pub_date": "2026-11-15T20:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/whats-the-meaning-of-the-a-on-your-usb-a-ports/l-intro-1794255166.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://gizmodo.com/neuromancer-wants-to-be-more-than-the-books-legacy-2000840181",
-    "title": "‘Neuromancer’ Wants to Be More Than the Book’s Legacy",
-    "description": "Showrunners JD Dillard and Graham Roland talk about working with WIlliam GIbson and keeping 'Neuromancer distinct from what came in its wake.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-15T19:50:00+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/11/neuromancer-appletv-hed-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2313842/sony-ditching-cross-product-support-app-good-reason/",
-    "title": "Sony is ditching its cross-product support app for dedicated alternatives",
-    "description": "After over a decade of use, customers are going to need to switch to a less-efficient means of monitoring their favorite Sony products and gadgets.",
-    "categories": [
-      "Breaking News",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-11-15T19:45:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/sony-is-ditching-its-cross-product-support-app-for-dedicated-alternatives/l-intro-1794003797.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://gizmodo.com/theres-a-burgeoning-stand-with-jensen-movement-2000840178",
-    "title": "There’s a Burgeoning ‘Stand With Jensen’ Movement",
-    "description": "Some are expressing support in emotional terms. To others it's just a matter of dollars and cents.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-15T19:36:57+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2025/08/jensen-huang-july-23-2025-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2313837/change-customize-app-icons-samsung-galaxy/",
-    "title": "How to change and customize your app icons on Samsung Galaxy",
-    "description": "From choosing new app icons to changing the color palette, there are plenty of ways to customize the look of your Samsung Galaxy phone.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-15T19:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/how-to-change-and-customize-your-app-icons-on-samsung-galaxy/l-intro-1794412614.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261115/p14#a261115p14",
-    "title": "Sources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a \"war room\" to lobby for his return and seek White House support (Financial Times)",
-    "description": "Financial Times:\nSources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a “war room” to lobby for his return and seek White House support  —  Tech supporters lobby chipmaker's board to reinstate former CEO after he resigned following affair with alleged Chinese spy",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-15T19:20:00+00:00",
-    "image_url": "http://www.techmeme.com/261115/i14.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-    "description": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-15T19:15:43+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
