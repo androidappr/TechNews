@@ -1,5 +1,63 @@
 [
   {
+    "link": "https://gizmodo.com/good-news-fan-fiction-lovers-archive-of-our-own-is-back-online-2000840668",
+    "title": "Good News, Fan Fiction Lovers: Archive of Our Own Is Back Online",
+    "description": "A security incident took the archive offline for more than two weeks.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T23:00:55+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/10/archive-of-our-own-1280x853.jpg",
+    "source_name": "GIZMODO.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2314944/nintendo-switch-charging-mistakes-ruin-battery/",
+    "title": "The charging mistakes that could ruin your Nintendo Switch's battery",
+    "description": "To avoid turning your Nintendo Switch into just another stationary console, there are a few common and easy-to-overlook charging mistakes you'll want to avoid",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-11-16T23:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/the-charging-mistakes-that-could-ruin-your-nintendo-switchs-battery/l-intro-1794501086.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261116/p45#a261116p45",
+    "title": "United Airlines reports \"widespread system outage\" affecting departing flights but not flights in progress (Michele Luhn/CNBC)",
+    "description": "Michele Luhn / CNBC:\nUnited Airlines reports “widespread system outage” affecting departing flights but not flights in progress  —  United Airlines on Monday reported a “widespread system outage” was affecting departing flights.  —  “We are troubleshooting a technology issue affecting departing flights,” the airline said in a statement.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T22:58:46+00:00",
+    "image_url": "http://www.techmeme.com/261116/i45.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+    "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+    "description": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. The airline has said it is working to get things up and running again as quickly as possible, but without much detail about the",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T22:54:59+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304760092.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2318613/united-airlines-is-experiencing-a-widespread-system-outage/",
+    "title": "United Airlines is experiencing a 'widespread system outage'",
+    "description": "United is apparently experiencing a major outage just days after a nationwide ground stop halted thousands of flights.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T22:38:43+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/united-airlines-is-experiencing-a-widespread-system-outage/l-intro-1794869694.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/microsoft-365-outage-july-defect-post-incident-report",
     "title": "Microsoft blames its Microsoft 365 outage on a dormant July update defect",
     "description": "Microsoft has traced last week’s global Microsoft 365 outage to a July update for its network gateway servers. The bug lay dormant for more than three months before a surge in load and a drop in capacity set it off, according to the company’s preliminary post-incident report. Microsoft published the report to customers in the",
@@ -79,6 +137,18 @@
     "pub_date": "2026-11-16T22:08:40+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/satya-nadella-microsoft-build-2026-keynote-stage.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+    "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
+    "description": "Description This collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. These images were",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T22:05:23+00:00",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26804/PIA26804.jpg?w=1536&h=1536&fit=clip",
+    "source_name": "SCIENCE.NASA.GOV"
   },
   {
     "link": "https://www.techmeme.com/261116/p44#a261116p44",
@@ -1183,7 +1253,6 @@
     "title": "How to watch I Am Helen online for FREE — stream latest installment of powerful anthology series from anywhere",
     "description": "New installment in ground-breaking franchise stars Nicola McCoughlin as a woman trapped in a coercive and suffocating relationship. Here's how to watch I Am Helen online from anywhere.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T19:00:00+00:00",
@@ -1195,8 +1264,7 @@
     "title": "5 ways AI will change how you defend your business in 2027",
     "description": "Security leaders reveal the future consequences of AI outpacing human defenders.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-16T18:58:52+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/walldefenses-2026-11-16-130819.jpg",
@@ -1244,7 +1312,6 @@
     "title": "iOS 27.3 gives Apple’s Calendar app new design updates",
     "description": "iOS 27.3 beta 2 arrived today, most notably giving the iPhone Duo a face unlock feature. The update also includes some design updates for Apple’s Calendar app.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T18:52:18+00:00",
@@ -1419,8 +1486,8 @@
   },
   {
     "link": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
-    "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
-    "description": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin Gigafactory.",
+    "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion",
+    "description": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin gigafactory.",
     "categories": [
       "Tech News"
     ],
@@ -1553,7 +1620,6 @@
     "title": "OpenAI announces tools to combat CSAM, including an image classifier and new warning screens to prevent users from accessing material that sexualizes children (Ivan Mehta/TechCrunch)",
     "description": "Ivan Mehta / TechCrunch:\nOpenAI announces tools to combat CSAM, including an image classifier and new warning screens to prevent users from accessing material that sexualizes children  —  OpenAI today announced new tools to combat child sexual abuse material (CSAM) amid growing safety concerns around the use of AI tools.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T18:10:01+00:00",
@@ -1848,6 +1914,17 @@
     "source_name": "ZDNET.COM"
   },
   {
+    "link": "https://gizmodo.com/this-prehistoric-hunter-gatherer-witnessed-the-first-farmers-and-found-a-way-to-coexist-2000840476",
+    "title": "This Prehistoric Hunter-Gatherer Witnessed the First Farmers—and Found a Way to Coexist",
+    "description": "It’s a rare glimpse of the agricultural revolution as it unfolded, seen through one man’s life.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T17:20:03+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/11/rodhals-man-initial-newspaper-image-1280x853.jpg",
+    "source_name": "GIZMODO.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261116/p36#a261116p36",
     "title": "Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery (Anthropic)",
     "description": "Anthropic:\nAnthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery  —  We remain optimistic that this will help defenders find and fix vulnerabilities faster than ever before.",
@@ -1858,17 +1935,6 @@
     "pub_date": "2026-11-16T17:20:03+00:00",
     "image_url": "http://www.techmeme.com/261116/i36.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://gizmodo.com/this-prehistoric-hunter-gatherer-witnessed-the-first-farmers-and-found-a-way-to-coexist-2000840476",
-    "title": "This Prehistoric Hunter-Gatherer Witnessed the First Farmers—and Found a Way to Coexist",
-    "description": "It’s a rare glimpse of the agricultural revolution as it unfolded, seen through one man’s life.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T17:20:03+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/11/rodhals-man-initial-newspaper-image-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
   },
   {
     "link": "https://www.techradar.com/vpn/vpn-services/nordvpn-just-made-its-cheapest-plan-even-cheaper-usd2-99-per-month-for-the-best-vpn-for-streaming-ive-used-this-year",
@@ -2003,7 +2069,6 @@
     "description": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Software & Apps"
     ],
@@ -2016,7 +2081,6 @@
     "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
     "description": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
     "categories": [
-      "Breaking News",
       "Social & Media",
       "Software & Apps"
     ],
@@ -2029,7 +2093,6 @@
     "title": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
     "description": "The Meta-owned social media platform now lets creators attach up to 30 affiliate links per Reel to make money from Amazon more easily.",
     "categories": [
-      "Breaking News",
       "Social & Media",
       "Software & Apps"
     ],
@@ -2053,7 +2116,6 @@
     "title": "Instagram will let creators add Amazon affiliate links directly to their posts and Reels",
     "description": "The app will become even more of a shopping mall, just in time for Black Friday.",
     "categories": [
-      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-11-16T17:00:00+00:00",
@@ -2136,7 +2198,6 @@
     "title": "The best Black Friday AirPods deals save you $70 on the AirPods Pro and bring the AirPods 4 down to $89",
     "description": "Apple AirPods are inching closer to record low prices ahead of Black Friday sales' official starts.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T16:49:12+00:00",
@@ -2320,77 +2381,5 @@
     "pub_date": "2026-11-16T16:25:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/ThNyuwnA55tfcixfqWcEcA-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/aircall-offers-unlimited-ai-voice-agent-minutes-during-its-black-friday-promotion-with-multilingual-support-and-live-business-data",
-    "title": "Aircall's Black Friday deal includes unlimited AI voice minutes",
-    "description": "Aircall's unlimited AI Voice Agent minutes promotion could help retailers avoid long call queues during the holiday rush.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T16:23:19+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/3SYkjNgN7aAY9uJL6uKs3-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/china-ai-education-schools-2030-reuters",
-    "title": "China wants every pupil AI-literate by 2030, a Reuters investigation finds",
-    "description": "China wants every schoolchild to be literate in artificial intelligence by 2030. Nearly half of its provinces and municipalities now have binding plans to get there. That is one finding of a weeks-long investigation by Laurie Chen and Xiuyuan Ning for Reuters, published on Monday. Reuters visited schools and interviewed more than a dozen educators,",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-16T16:22:54+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/empty-classroom-sunlight-chalkboard-computer-desks.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/16/apple-has-15-new-products-coming-in-2027-per-report/",
-    "title": "Apple has 15+ new products coming in 2027, per report",
-    "description": "Apple just wrapped up a very busy product launch season, but a new report offers a sneak peek at the 15+ new products coming in 2027.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T16:16:39+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/john-ternus-macbook-pro-proled-xdr.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2314266/microsoft-ditching-365-companion-apps-2026/",
-    "title": "Why Microsoft is ditching a few of its 365 companion apps in 2026",
-    "description": "These apps are being shut down after just 14 months.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T16:15:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/why-microsoft-is-ditching-a-few-of-its-365-companion-apps-in-2026/l-intro-1794430263.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261116/p33#a261116p33",
-    "title": "OpenAI says it signed agreements with independent assessors Apollo Research, METR, Transluce, and Goodfire for its first phase of AI model embedded assessments (OpenAI)",
-    "description": "OpenAI:\nOpenAI says it signed agreements with independent assessors Apollo Research, METR, Transluce, and Goodfire for its first phase of AI model embedded assessments  —  We have signed agreements with four independent assessors—Apollo Research, METR, Transluce, and Goodfire—for our first phase of embedded assessments.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T16:15:00+00:00",
-    "image_url": "http://www.techmeme.com/261116/i33.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
-    "title": "Jensen Huang Is Gone. Now What?",
-    "description": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Gadgets & Hardware",
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-16T16:12:51+00:00",
-    "image_url": "https://media.wired.com/photos/6af78c75239676948e926fc2/master/pass/Big-Interview-UV-Solo-Katie-Lauren-Business.jpg",
-    "source_name": "WIRED.COM"
   }
 ]
