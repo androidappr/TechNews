@@ -1,5 +1,51 @@
 [
   {
+    "link": "https://thenextweb.com/news/microsoft-365-outage-july-defect-post-incident-report",
+    "title": "Microsoft blames its Microsoft 365 outage on a dormant July update defect",
+    "description": "Microsoft has traced last week’s global Microsoft 365 outage to a July update for its network gateway servers. The bug lay dormant for more than three months before a surge in load and a drop in capacity set it off, according to the company’s preliminary post-incident report. Microsoft published the report to customers in the",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T22:22:55+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/microsoft-365-apps-list-screen-outlook-teams.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/16/schmigadoon-and-widows-bay-land-apple-tv-two-grammy-nominations/",
+    "title": "‘Schmigadoon!’ and ‘Widow’s Bay’ land Apple TV two Grammy nominations",
+    "description": "Apple TV today celebrated two Grammy nominations, one of which further establishes a canceled show as an unlikely awards success story. Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T22:20:37+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-new-logo-large.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/tiny-corps-refurbished-mi300x-tinybox-packs-768gb-of-hbm-into-a-desktop-box-and-the-price-has-already-jumped-by-usd29-000",
+    "title": "Tiny Corp's refurbished MI300X tinybox packs 768GB of HBM into a desktop box, and the price has already jumped by $29,000",
+    "description": "Tiny Corp's $60,000 four-MI300X tinybox sold out in three days; batch two now costs an eye-watering $89,000.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T22:20:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/n9QrZ8mixWzcJKcRWrBeY4-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/a-new-study-finds-hyperscale-data-centers-emit-as-much-carbon-as-denmark/",
+    "title": "A New Study Finds Hyperscale Data Centers Emit as Much Carbon as Denmark",
+    "description": "Harvard researchers collected metrics on more than 400 data centers to determine their energy use and carbon emissions.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-16T22:15:16+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-1279322255.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
     "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
     "description": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
@@ -10,6 +56,18 @@
     "pub_date": "2026-11-16T22:12:31+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/satya-nadella-claude-code-ide-pragmatic-engineer",
+    "title": "Satya Nadella says Claude Code caught Microsoft off guard and the IDE faded",
+    "description": "Anthropic’s Claude Code caught Microsoft off guard by moving coding from the editor to the command line, Satya Nadella said. Within about six months, the IDE “kind of faded away,” he told Gergely Orosz on The Pragmatic Engineer podcast. Orosz, a former Microsoft engineer, recorded the hour-long interview in Redmond. It took place a few",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-16T22:08:40+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/satya-nadella-microsoft-build-2026-keynote-stage.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://www.techmeme.com/261116/p44#a261116p44",
@@ -59,6 +117,17 @@
     "pub_date": "2026-11-16T22:02:41+00:00",
     "image_url": "https://media.thenextweb.com/2026/11/chase-bank-branch-seattle-atm.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://gizmodo.com/m-night-shyamalan-has-some-viewing-tips-for-his-new-remain-trailer-2000840665",
+    "title": "M. Night Shyamalan Has Some Viewing Tips for His New ‘Remain’ Trailer",
+    "description": "The director's new horror mystery romance is based on an idea he wrote with author Nicholas Sparks and arrives February 5.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T22:00:05+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/11/Remain_Jake_Gyllenhaal-2-1280x853.jpg",
+    "source_name": "GIZMODO.COM"
   },
   {
     "link": "https://www.techradar.com/pro/acers-prodesigner-pe320qxt-6k-touchscreen-monitor-drops-to-usd999-99-for-black-friday-saving-you-usd500-on-a-professional-creative-display",
@@ -115,7 +184,7 @@
   {
     "link": "https://www.wired.com/story/jpmorganchase-bank-outage-oh-come-on/",
     "title": "The Bank Outage May Have Nothing to Do With Your Bank",
-    "description": "Amid hundreds of reports of US banks experiencing outages, JPMorganChase says a “technical issue” with its “on-premise hardware systems” may be causing “slowness” with transactions at outside banks.",
+    "description": "Amid hundreds of reports of US banks experiencing outages, JPMorganChase says a technical “issue” with its “on-premise hardware systems” may be causing “slowness” with transactions at outside banks.",
     "categories": [
       "Cybersecurity & Privacy"
     ],
@@ -204,6 +273,17 @@
     "pub_date": "2026-11-16T21:17:24+00:00",
     "image_url": "https://www.engadget.com/img/gallery/the-iphone-duo-gets-face-unlock-with-the-latest-ios-27-beta/l-intro-1794863293.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://gizmodo.com/joe-bob-briggs-is-the-perfect-choice-to-bring-back-cult-classic-basket-case-2000840579",
+    "title": "Joe Bob Briggs Is the Perfect Choice to Bring Back Cult Classic ‘Basket Case’",
+    "description": "'The Last Drive-In' may have wrapped its run on Shudder, but the horror host has big plans for the future.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T21:16:58+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/11/Basket_Case-1280x853.jpg",
+    "source_name": "GIZMODO.COM"
   },
   {
     "link": "https://mashable.com/tech/major-us-banks-experiencing-online-banking-outages-nov-16-2026",
@@ -316,6 +396,30 @@
     "source_name": "THENEXTWEB.COM"
   },
   {
+    "link": "https://gizmodo.com/hacker-behind-grand-theft-auto-vi-leak-pleads-guilty-to-multiple-charges-2000840562",
+    "title": "Hacker Behind ‘Grand Theft Auto VI’ Leak Pleads Guilty to Multiple Charges",
+    "description": "Anton Kurtaj famously hacked Rockstar Games with only an Amazon Firestick and a smart TV.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-16T20:55:41+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/11/arion-kurtaj-1280x853.jpg",
+    "source_name": "GIZMODO.COM"
+  },
+  {
+    "link": "https://gizmodo.com/the-fed-is-worried-ai-agents-could-trigger-a-bank-run-2000840566",
+    "title": "The Fed Is Worried AI Agents Could Trigger a Bank Run",
+    "description": "The Fed is worried AI agents could trigger bank runs in minutes. Meanwhile, the industry's mountain of debt is finding its way into life insurance.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-16T20:50:15+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/11/GettyImages-2235766892-1280x853.jpg",
+    "source_name": "GIZMODO.COM"
+  },
+  {
     "link": "https://www.engadget.com/2318431/customers-at-major-banks-report-difficulty-accessing-accounts-online/",
     "title": "Customers at major banks report difficulty accessing accounts online",
     "description": "Representatives from the companies say this is a technical problem and not a cyberattack.",
@@ -389,6 +493,18 @@
     "source_name": "THEVERGE.COM"
   },
   {
+    "link": "https://gizmodo.com/mars-atmosphere-does-something-strange-every-year-and-it-may-point-to-hidden-water-2000840471",
+    "title": "Mars’ Atmosphere Does Something Strange Every Year—and It May Point to Hidden Water",
+    "description": "Analyzing more than a decade of Curiosity's atmospheric data revealed evidence of liquid-like water films in the Gale crater.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T20:40:30+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/09/Curiosity-Rover-Pose-Mary-Anning-1280x853.jpg",
+    "source_name": "GIZMODO.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/kioxia-and-dell-have-managed-to-cram-in-a-huge-157-pb-of-raw-flash-storage-into-a-single-42u-server-rack",
     "title": "Kioxia and Dell have managed to cram in a huge 157 PB of raw flash storage into a single 42U server rack",
     "description": "Kioxia and Dell combine 640 high-capacity SSDs across 16 servers, delivering 157 PB of raw flash storage within one standard rack.",
@@ -438,6 +554,18 @@
     "source_name": "THEVERGE.COM"
   },
   {
+    "link": "https://gizmodo.com/lenovo-googlebook-duet-13-leak-2000840641",
+    "title": "Maybe Googlebooks Will Make More Sense if They’re Basically Tablets",
+    "description": "The leaked Lenovo Googlebook Duet 13 is like a Microsoft Surface Pro and Chromebook had a baby.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-16T20:30:51+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/11/Acer-Googlebook-14-review-19-1280x853.jpg",
+    "source_name": "GIZMODO.COM"
+  },
+  {
     "link": "https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/",
     "title": "NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion",
     "description": "For the 16th consecutive year, NASA has received an unmodified, or “clean,” opinion from an external auditor on its fiscal year 2026 financial statements. The rating is the best possible audit opinion, certifying that NASA’s financial statements conform with Generally Accepted Accounting Principles for federal agencies and accurately present the agency’s financial position. “Our responsibility",
@@ -448,6 +576,18 @@
     "pub_date": "2026-11-16T20:30:40+00:00",
     "image_url": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp?w=1920",
     "source_name": "NASA.GOV"
+  },
+  {
+    "link": "https://gizmodo.com/robert-pattinsons-james-bond-casting-is-obvious-yet-also-unexpected-2000840537",
+    "title": "Robert Pattinson’s James Bond Casting Is Obvious, Yet Also Unexpected",
+    "description": "The 'Batman,' 'Twilight,' and 'Odyssey' star brings some major acting chops, and uncertainty, to the role.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T20:30:11+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/11/Mickey-17-Robert-Pattinson-1280x853.jpg",
+    "source_name": "GIZMODO.COM"
   },
   {
     "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
@@ -486,6 +626,18 @@
     "pub_date": "2026-11-16T20:27:58+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg",
     "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://gizmodo.com/apple-finally-figured-out-where-people-watch-video-podcasts-2000840422",
+    "title": "Apple Finally Figured Out Where People Watch Video Podcasts",
+    "description": "You can soon watch Apple podcasts on Apple TV, even if you are not a subscriber.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T20:25:13+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/11/apple-vodcasts-1280x853.png",
+    "source_name": "GIZMODO.COM"
   },
   {
     "link": "https://www.techradar.com/entertainment/tv-shows/theres-a-sneaky-way-to-watch-im-a-celeb-2026-for-free",
@@ -875,6 +1027,7 @@
     "title": "iOS 27.3 brings vertical video and video podcasts to Apple TV app",
     "description": "iOS 27.3 beta 2 debuted today and includes two new types of video in the Apple TV app: vertical ‘clips’ and video podcasts.\n\n\n\n more…",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T19:21:04+00:00",
@@ -895,7 +1048,7 @@
   },
   {
     "link": "https://gizmodo.com/chase-bank-of-america-and-wells-fargo-are-experiencing-app-outages-2000840582",
-    "title": "Chase, Bank of America, and Wells Fargo Are Experiencing App Outages",
+    "title": "Chase, Bank of America, and Wells Fargo Are Experiencing Online Banking Outages",
     "description": "Some users can't log in or see balances, according to online reports.",
     "categories": [
       "Breaking News",
@@ -922,6 +1075,7 @@
     "title": "Q&A with Satya Nadella on code verification becoming more important as code generation gets cheap, Microsoft's voluntary exit offers, decision models, and more (Gergely Orosz/The Pragmatic Engineer)",
     "description": "Gergely Orosz / The Pragmatic Engineer:\nQ&A with Satya Nadella on code verification becoming more important as code generation gets cheap, Microsoft's voluntary exit offers, decision models, and more  —  Listen and watch now on YouTube, Apple, and Spotify.  See the episode transcript at the top of this page, and timestamps for the episode at the bottom.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T19:15:09+00:00",
@@ -1235,7 +1389,6 @@
     "title": "What is vibe manufacturing? AI projects are leaving the chat",
     "description": "Vibe manufacturing uses AI to help design physical products. Here's what people are making, how designs become objects, and where the limits are.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T18:25:20+00:00",
@@ -1503,6 +1656,7 @@
     "title": "GTA 6 hacker pleads guilty to stealing and leaking gameplay footage",
     "description": "Arion Kurtaj was deemed fit to stand trial earlier this year after breaching Rockstar's systems in 2022",
     "categories": [
+      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-11-16T17:50:38+00:00",
@@ -1686,6 +1840,17 @@
     "source_name": "ZDNET.COM"
   },
   {
+    "link": "https://gizmodo.com/this-prehistoric-hunter-gatherer-witnessed-the-first-farmers-and-found-a-way-to-coexist-2000840476",
+    "title": "This Prehistoric Hunter-Gatherer Witnessed the First Farmers—and Found a Way to Coexist",
+    "description": "It’s a rare glimpse of the agricultural revolution as it unfolded, seen through one man’s life.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T17:20:03+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/11/rodhals-man-initial-newspaper-image-1280x853.jpg",
+    "source_name": "GIZMODO.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261116/p36#a261116p36",
     "title": "Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery (Anthropic)",
     "description": "Anthropic:\nAnthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery  —  We remain optimistic that this will help defenders find and fix vulnerabilities faster than ever before.",
@@ -1696,17 +1861,6 @@
     "pub_date": "2026-11-16T17:20:03+00:00",
     "image_url": "http://www.techmeme.com/261116/i36.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://gizmodo.com/this-prehistoric-hunter-gatherer-witnessed-the-first-farmers-and-found-a-way-to-coexist-2000840476",
-    "title": "This Prehistoric Hunter-Gatherer Witnessed the First Farmers—and Found a Way to Coexist",
-    "description": "It’s a rare glimpse of the agricultural revolution as it unfolded, seen through one man’s life.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T17:20:03+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/11/rodhals-man-initial-newspaper-image-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
   },
   {
     "link": "https://www.techradar.com/vpn/vpn-services/nordvpn-just-made-its-cheapest-plan-even-cheaper-usd2-99-per-month-for-the-best-vpn-for-streaming-ive-used-this-year",
@@ -2242,153 +2396,5 @@
     "pub_date": "2026-11-16T16:08:03+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/windowslock-GettyImages-2239565222.jpg",
     "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
-    "title": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
-    "description": "Serena Williams and longtime business partner Beth Ferreira announced Monday the launch of an early-stage firm called Starfire Ventures.",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-11-16T16:06:30+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/16/chatgpt-health-feature-will-soon-work-with-mac-app-dots-more/",
-    "title": "ChatGPT Health feature will soon work with Mac app, Dots, more",
-    "description": "OpenAI relaunched its ChatGPT Health feature over the summer after piloting earlier in the year. Next, ChatGPT Health is set to expand to more platforms, including the Mac app and more.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T16:03:12+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-health-chatgpt.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/home-theater/19-best-buy-early-black-friday-tech-deals-worth-checking-out-before-november-17/",
-    "title": "19 Best Buy Early Black Friday Tech Deals Worth Checking Out Before November 17",
-    "description": "Shop 19 handpicked Early Black Friday tech deals at Best Buy and save up to $1,700 before November 17 ends.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T16:03:02+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Black-Friday-Deals-1.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://gizmodo.com/7-xbox-project-helix-features-2000840447",
-    "title": "7 Things We Just Learned About the Next-Gen Xbox",
-    "description": "Also, there are still three big things Xbox needs to tell us about “Project Helix.”",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-16T16:00:44+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/07/xbox25-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://gizmodo.com/scientists-finally-know-how-much-power-americas-biggest-data-centers-use-and-its-worse-than-we-thought-2000839941",
-    "title": "Scientists Finally Know How Much Power America’s Biggest Data Centers Use—and It’s Worse Than We Thought",
-    "description": "Researchers crunched the numbers, and now they're sounding the alarm on data centers' energy use and carbon emissions.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T16:00:28+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/11/data-center-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
-    "title": "The Verge’s guide to the best gifts under $100",
-    "description": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely to leave you with lingering guilt or lead to insurmountable debt. As reviewers,",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-16T16:00:14+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_UNDER-100.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/",
-    "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
-    "description": "New Harvard research shows that data-center power demand is outstripping states—and that doesn’t even include facilities with off-grid gas plants.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-16T16:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6af711ad797722e005ec2bb9/master/pass/111326-Michigan%20400%20Data%20Centers.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.theverge.com/podcast/1034141/nj-midterm-sherill-democrats-musk-x-ai",
-    "title": "Why NJ’s governor thinks Republicans are trapped in an X bubble",
-    "description": "Today I’m talking with Mikie Sherrill, who’s been New Jersey governor for just a little under a year, and you’ll hear her say her election was a preview of the huge Democratic victories in these recent midterms because she ran on the dual themes of affordability and accountability. So I wanted to ask the governor",
-    "categories": [
-      "Government & Policy",
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-16T16:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD_20261116_Sherrill.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
-    "title": "Audible turns to AI to help users discover audiobooks",
-    "description": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
-    "categories": [
-      "AI & Machine Learning",
-      "Social & Media",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-16T15:52:19+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://mashable.com/life/gta-6-soundtrack-artists-full-tracklist",
-    "title": "The full GTA 6 soundtrack reportedly leaked: See every artist and track",
-    "description": "From Justice's original score to radio stations hosted by Bad Bunny and Lana Del Rey, here's everything we know about the music of \"GTA 6.\"",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T15:47:54+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07c7p5HGDawwZLfBhaxQxmH/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://gizmodo.com/apple-smart-glasses-siri-ai-2000840416",
-    "title": "Apple’s Smart Glasses May Lean Heavily Into Using Siri as an AI Agent",
-    "description": "Apple reportedly thinks its relationship with developers can help its smart glasses order your coffee or book your movie tickets.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-16T15:45:55+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/07/siri-ai-hands-on-3-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://mashable.com/life/best-tech-gifts-for-2026",
-    "title": "Best tech gifts of 2026, picked by professional gadget nerds",
-    "description": "Mashable reporters curated a list of the year's best tech gifts for any budget. Shop gadgets from Apple, Nintendo, GoPro, and more.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T15:43:04+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/roundups/01fOJHtVhsDBOrOdQZhycbP/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2317689/apple-is-making-a-bigger-push-into-video-podcasts/",
-    "title": "Apple is making a bigger push into video podcasts",
-    "description": "You'll soon be able to watch video podcasts through the Apple TV app.",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-16T15:39:24+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/apple-is-making-a-bigger-push-into-video-podcasts/l-intro-1794843514.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
