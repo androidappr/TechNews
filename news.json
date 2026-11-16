@@ -1,9 +1,107 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning",
+    "title": "15 hotel guests were injured by chlorine poisoning due to Microsoft’s global email outage",
+    "description": "Microsoft's worldwide 365 and Outlook outage had real-world consequences after it cut off email alerts for a German hotel's pool safety system. The German outlet Westdeutscher Rundfunk (WDR) said several people were injured at a Phantasialand hotel on Friday after its email system failed to deliver a safety alert about elevated chlorine levels in the",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T18:29:55+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A_332561.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/iphone-duo-is-getting-a-limited-version-of-face-id/",
+    "title": "The iPhone Duo Is Getting a Limited Version of Face ID",
+    "description": "Originally launching only with Touch ID, Apple's folding phone now borrows a feature from the new HomeView and can recognize your mug, but it's likely not as secure as Face ID.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-16T18:26:26+00:00",
+    "image_url": "https://media.wired.com/photos/6ada893690bbef8397f3e8ae/master/pass/DSC_9451.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/apollo-research-openai-embedded-evaluations-pilot",
+    "title": "OpenAI lets Apollo embed six AI safety testers during training",
+    "description": "Apollo Research will place six evaluators inside OpenAI for four months to check whether its models try to undermine alignment and control measures during training, testing and internal use. OpenAI controls staff access and can redact some evidence, but cannot hide Apollo’s verdicts or withhold material just because it is unfavourable. AI safety group Apollo",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-16T18:24:18+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/openai-logo-on-monitor-blue-wall.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
+    "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
+    "description": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin Gigafactory.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T18:21:14+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/16/apple-website-now-available-in-spanish-for-us-users/",
+    "title": "Apple․com now available in Spanish for US users",
+    "description": "Apple is making a notable change to Apple․com. Starting today, users in the United States can now browse the Apple website in Spanish. \n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T18:21:12+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/CleanShot-2026-11-16-at-1.08.06-PM@2x.png?w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/noeri-110m-stanford-yejin-choi-carlos-guestrin-menlo-nvidia",
+    "title": "Stanford professors’ AI lab Noeri launches with $110m, backed by Nvidia",
+    "description": "Noeri, an AI lab founded this year by Stanford professors Yejin Choi and Carlos Guestrin, has raised $110m, the company announced on Monday. Menlo Ventures led the round, with Madrona Venture Group, Kindred Ventures, Wing Venture Capital and NEA. Cisco Investments, Nvidia and Snowflake joined as strategic investors. Bloomberg’s Dina Bass first reported the round",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-16T18:17:25+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/yejin-choi-carlos-guestrin-noeri-co-founders.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2314632/nothing-phones-not-available-us-carriers-how-still-buy/",
+    "title": "You won't find Nothing phones at US carriers, but here's how you can still buy them",
+    "description": "While you can't get one at an AT&T or Verizon store, Nothing has partnered with Best Buy.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T18:15:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/you-wont-find-nothing-phones-at-us-carriers-but-heres-how-you-can-still-buy-them/l-intro-1794493958.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/uber-data-breach-sees-hackers-steal-license-information-on-thousands-of-drivers",
+    "title": "Uber data breach sees hackers steal license information on thousands of drivers",
+    "description": "One of Uber's services was breached, and its data stolen.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-16T18:15:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/aFuqJoM5FFuvC5JASPq2TG-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/11/16/ios-27-3-adds-new-face-unlock-feature-for-iphone-duo/",
     "title": "iOS 27.3 adds new face unlock feature for iPhone Duo",
-    "description": "In today’s iOS 27.3 beta release, Apple is introducing two changes for iPhone Duo users. Most notably, there’s a new face recognition option to easily unlock your iPhone Duo by looking at it.\n\n\n\nApple is also adding an option to have your iPhone Duo lock when you close it.\n\n\n\n more…",
+    "description": "In today’s iOS 27.3 beta release, Apple is introducing two changes for iPhone Duo users. Most notably, it adds a new face recognition option that lets you unlock your iPhone Duo by looking at it.\n\n\n\nApple is also adding an option to have your iPhone Duo lock when you close it.\n\n\n\n more…",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T18:13:54+00:00",
@@ -553,18 +651,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.engadget.com/2316714/instagram-will-let-creators-add-amazon-affiliate-links-directly-to-their-posts-and-reels/",
-    "title": "Instagram will let creators add Amazon affiliate links directly to their posts and Reels",
-    "description": "The app will become even more of a shopping mall, just in time for Black Friday.",
-    "categories": [
-      "Breaking News",
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-16T17:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/instagram-will-let-creators-add-amazon-affiliate-links-directly-to-their-posts-and-reels/l-intro-1794612310.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
     "link": "https://www.engadget.com/2317417/google-adds-66-regional-dialects-to-gemini/",
     "title": "Google adds 66 regional dialects to Gemini",
     "description": "From today, Gemini's making more of an effort to speak your language in a way that sounds more accurate.",
@@ -574,6 +660,18 @@
     ],
     "pub_date": "2026-11-16T17:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/google-adds-66-regional-dialects-to-gemini/l-intro-1794828173.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2316714/instagram-will-let-creators-add-amazon-affiliate-links-directly-to-their-posts-and-reels/",
+    "title": "Instagram will let creators add Amazon affiliate links directly to their posts and Reels",
+    "description": "The app will become even more of a shopping mall, just in time for Black Friday.",
+    "categories": [
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-16T17:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/instagram-will-let-creators-add-amazon-affiliate-links-directly-to-their-posts-and-reels/l-intro-1794612310.jpg",
     "source_name": "ENGADGET.COM"
   },
   {
@@ -1409,7 +1507,6 @@
     "title": "Tel Aviv- and SF-based Corma, which builds AI agents custom-trained for cyber defense, raised a $125M Series A led by NEA, after raising a $60M seed in August (Angus Loten/Wall Street Journal)",
     "description": "Angus Loten / Wall Street Journal:\nTel Aviv- and SF-based Corma, which builds AI agents custom-trained for cyber defense, raised a $125M Series A led by NEA, after raising a $60M seed in August  —  The year-old startup's agents are custom-trained for defensive cybersecurity  —  Cybersecurity startup Corma raised $125 million …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T14:30:01+00:00",
@@ -1673,8 +1770,8 @@
   },
   {
     "link": "https://www.techmeme.com/261116/p25#a261116p25",
-    "title": "The Jensen Huang saga is driven by factional conflicts among elites: China hawks vs. doves, open vs. closed AI models, and the founder class vs. manager class (Max Read/Patreon)",
-    "description": "Max Read / Patreon:\nThe Jensen Huang saga is driven by factional conflicts among elites: China hawks vs. doves, open vs. closed AI models, and the founder class vs. manager class  —  Greetings from Read Max HQ!  In this edition, some quick thoughts about Jensen Huang, Nvidia, and the fallout in both Silicon Valley …",
+    "title": "The Jensen Huang saga is driven by factional conflicts among elites: China hawks vs. doves, open vs. closed AI models, and the founder class vs. manager class (Max Read/Read Max)",
+    "description": "Max Read / Read Max:\nThe Jensen Huang saga is driven by factional conflicts among elites: China hawks vs. doves, open vs. closed AI models, and the founder class vs. manager class  —  Greetings from Read Max HQ!  In this edition, some quick thoughts about Jensen Huang, Nvidia, and the fallout in both Silicon Valley …",
     "categories": [
       "Tech News"
     ],
@@ -1996,7 +2093,6 @@
     "description": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-11-16T12:30:00+00:00",
@@ -2280,99 +2376,5 @@
     "pub_date": "2026-11-16T11:30:05+00:00",
     "image_url": "http://www.techmeme.com/261116/i15.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/best-smart-bird-feeders/",
-    "title": "The Best Smart Bird Feeders for Backyard Birding (2026)",
-    "description": "These devices come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T11:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/69ebdf79c2561fc92a314957/master/pass/The-Best-Smart-Bird-Feeders-for-Backyard-Birding.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/epa-chemical-detecting-plane-isnt-doing-job/",
-    "title": "The EPA’s Chemical-Detecting Plane Isn’t Doing Its Job Anymore",
-    "description": "The Cessna is flying fewer missions and can no longer provide real-time data to disaster responders as toxic emergencies rise.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-16T11:30:00+00:00",
-    "image_url": "https://media.wired.com/photos/6af5c0853b3d498b480a78ca/master/pass/111226-EPA%20ASPECT%20Plane.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/nov-16-nothing-ear-3a-early-black-friday-deal",
-    "title": "Amazon drops an early Black Friday deal on Nothing Ear (3a) earbuds — shop for a new low of $70",
-    "description": "As of Nov. 16, the Nothing Ear (3a) have dropped to a new low price of $69 at Amazon, 30% off their list price of $99.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T11:27:26+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02OXE3wu2BDqy4dOlK2ILBS/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/snl-sister-sketch-reactions",
-    "title": "SNLs Sister sketch is provoking some serious reactions online",
-    "description": "A sketch called \"Sister\" from the recent \"SNL\" episode is being widely shared online after striking a nerve with people.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T11:25:14+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/006ZQK1t56CmqmKMLjVYvHI/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261116/p14#a261116p14",
-    "title": "London-based Plural raised a €1B fund to back European startups, one of only a handful of European VCs that raised €1B+ in one go, planning to back 30+ startups (Financial Times)",
-    "description": "Financial Times:\nLondon-based Plural raised a €1B fund to back European startups, one of only a handful of European VCs that raised €1B+ in one go, planning to back 30+ startups  —  London-headquartered group announces one of region's biggest-ever venture capital fundings",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T11:25:01+00:00",
-    "image_url": "http://www.techmeme.com/261116/i14.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-early-black-friday-apple-live-deals-2026",
-    "title": "We found 14 early Black Friday Apple deals: Score AirPods and MacBooks on sale",
-    "description": "Black Friday deals on Apple products are already live. The company raised prices this year, and this is your chance to cancel out those price hikes.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T11:24:09+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/046fF4BpjNOrkAYW0NccOHm/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/vulcan-rocket-failure-amazon-leo-satellites-ula",
-    "title": "Vulcan rocket failure destroys 40 Amazon Leo satellites in ULA’s first loss",
-    "description": "United Launch Alliance is investigating why its Vulcan rocket failed on Sunday. The loss took 40 Amazon Leo internet satellites with it. It was the first mission ULA has lost since Boeing and Lockheed Martin formed the company in 2006. Vulcan lifted off from Cape Canaveral Space Force Station in Florida at 12:40pm ET (17:40",
-    "categories": [
-      "Breaking News",
-      "Business & Startups",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-16T11:17:03+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/ariane-6-rocket-liftoff-kourou-launch-pad-smoke.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/stand-with-jensen-letter-nvidia-board-huang-return",
-    "title": "More than 175,000 names back a call to reinstate Jensen Huang at Nvidia",
-    "description": "An open letter asking Nvidia’s board to bring back Jensen Huang had more than 175,000 names on Monday, four days after he resigned as chief executive. The Stand with Jensen site counted 8,766 people who say they work at Nvidia. It puts that at about 21% of the company’s 42,000 staff. Every affiliation on the",
-    "categories": [
-      "Breaking News",
-      "Business & Startups",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-16T11:14:41+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/jensen-huang-nvidia-gtc-2026-close-up-eyebrows-raised.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
