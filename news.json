@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://mashable.com/tech/united-airlines-widespread-system-outage-nov-16-2026",
+    "title": "United Airlines experiencing widespread system outage just days after FAA grounds planes",
+    "description": "United Airlines flights cannot takeoff due to a \"widespread system outage.\"",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T23:03:50+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/04qbICqghce60bZ0WlM0SL5/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://gizmodo.com/good-news-fan-fiction-lovers-archive-of-our-own-is-back-online-2000840668",
     "title": "Good News, Fan Fiction Lovers: Archive of Our Own Is Back Online",
     "description": "A security incident took the archive offline for more than two weeks.",
@@ -22,6 +34,29 @@
     "source_name": "ENGADGET.COM"
   },
   {
+    "link": "https://www.techradar.com/gaming/007-first-light-composers-share-their-stance-on-ai-music-in-video-games-we-feel-art-is-only-interesting-if-it-is-made-by-real-people-informed-by-their-experiences-of-life",
+    "title": "007 First Light composers share their stance on AI music in video games — ‘We feel art is only interesting if it is made by real people, informed by their experiences of life’",
+    "description": "007 First Light composers Joe Henson and Alexis Smith have voiced their opinion on AI being used in video games.",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-11-16T23:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/yNKNdND3NVUTPhGhFP4324-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/quote-of-the-day-by-computer-scientist-judea-pearl-deep-learning-has-instead-given-us-machines-with-truly-impressive-abilities-but-no-intelligence-capturing-the-central-fault-line-in-modern-ai",
+    "title": "Quote of the day by computer scientist Judea Pearl: \"Deep learning has instead given us machines with truly impressive abilities but no intelligence\"",
+    "description": "Although LLMs and similar systems have impressed us, they haven't yet demonstrated real humanlike smarts",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T23:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/aFci9crB3A9mATCjJ3CWBf-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261116/p45#a261116p45",
     "title": "United Airlines reports \"widespread system outage\" affecting departing flights but not flights in progress (Michele Luhn/CNBC)",
     "description": "Michele Luhn / CNBC:\nUnited Airlines reports “widespread system outage” affecting departing flights but not flights in progress  —  United Airlines on Monday reported a “widespread system outage” was affecting departing flights.  —  “We are troubleshooting a technology issue affecting departing flights,” the airline said in a statement.",
@@ -32,6 +67,19 @@
     "pub_date": "2026-11-16T22:58:46+00:00",
     "image_url": "http://www.techmeme.com/261116/i45.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+    "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+    "description": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-16T22:58:27+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
   },
   {
     "link": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
@@ -539,7 +587,7 @@
   {
     "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
     "title": "California sues OpenAI over rogue AI hacking incidents",
-    "description": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the",
+    "description": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -733,8 +781,8 @@
   },
   {
     "link": "https://www.techmeme.com/261116/p42#a261116p42",
-    "title": "Customers of BofA, Chase, Wells Fargo, and other US banks report online service issues; Chase says a technical issue, not a cyber issue, is causing delays (Associated Press)",
-    "description": "Associated Press:\nCustomers of BofA, Chase, Wells Fargo, and other US banks report online service issues; Chase says a technical issue, not a cyber issue, is causing delays  —  Customers reported difficulty accessing the online accounts at some major banks Monday.  Bank of America, Chase, U.S. Bank …",
+    "title": "Bank of America, Chase, Wells Fargo, and other US bank customers report online service issues; Chase blames a technical issue, not a cyber issue, for the delays (Associated Press)",
+    "description": "Associated Press:\nBank of America, Chase, Wells Fargo, and other US bank customers report online service issues; Chase blames a technical issue, not a cyber issue, for the delays  —  Customers reported difficulty accessing the online accounts at some major banks Monday.  Bank of America, Chase, U.S. Bank …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -853,7 +901,7 @@
   {
     "link": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
     "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
-    "description": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+    "description": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
     "categories": [
       "Breaking News",
       "Cybersecurity & Privacy"
@@ -1168,7 +1216,6 @@
     "title": "macOS 27.3 beta 2 now available with vertical tabs in Safari, native Live Activities, more",
     "description": "Apple is rolling out the second developer beta of macOS 27.3 ahead of the official launch of the update, which includes several notable additions. Here’s what’s coming.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T19:14:31+00:00",
@@ -1272,8 +1319,8 @@
   },
   {
     "link": "https://www.techmeme.com/261116/p40#a261116p40",
-    "title": "California AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents resulting from OpenAI testing AI models without adequate safeguards (Politico)",
-    "description": "Politico:\nCalifornia AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents resulting from OpenAI testing AI models without adequate safeguards  —  California Attorney General Rob Bonta is suing OpenAI over the cyberattack its rogue AI agents launched this summer against the tech platform Hugging Face.",
+    "title": "California's AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents due to OpenAI testing its AI models without adequate safeguards (Politico)",
+    "description": "Politico:\nCalifornia's AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents due to OpenAI testing its AI models without adequate safeguards  —  California Attorney General Rob Bonta is suing OpenAI over the cyberattack its rogue AI agents launched this summer against the tech platform Hugging Face.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -1617,8 +1664,8 @@
   },
   {
     "link": "https://www.techmeme.com/261116/p39#a261116p39",
-    "title": "OpenAI announces tools to combat CSAM, including an image classifier and new warning screens to prevent users from accessing material that sexualizes children (Ivan Mehta/TechCrunch)",
-    "description": "Ivan Mehta / TechCrunch:\nOpenAI announces tools to combat CSAM, including an image classifier and new warning screens to prevent users from accessing material that sexualizes children  —  OpenAI today announced new tools to combat child sexual abuse material (CSAM) amid growing safety concerns around the use of AI tools.",
+    "title": "OpenAI announces new tools to combat CSAM, including an image classifier and warning screens to prevent users from accessing material that sexualizes children (Ivan Mehta/TechCrunch)",
+    "description": "Ivan Mehta / TechCrunch:\nOpenAI announces new tools to combat CSAM, including an image classifier and warning screens to prevent users from accessing material that sexualizes children  —  OpenAI today announced new tools to combat child sexual abuse material (CSAM) amid growing safety concerns around the use of AI tools.",
     "categories": [
       "Tech News"
     ],
@@ -1914,17 +1961,6 @@
     "source_name": "ZDNET.COM"
   },
   {
-    "link": "https://gizmodo.com/this-prehistoric-hunter-gatherer-witnessed-the-first-farmers-and-found-a-way-to-coexist-2000840476",
-    "title": "This Prehistoric Hunter-Gatherer Witnessed the First Farmers—and Found a Way to Coexist",
-    "description": "It’s a rare glimpse of the agricultural revolution as it unfolded, seen through one man’s life.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T17:20:03+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/11/rodhals-man-initial-newspaper-image-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
     "link": "https://www.techmeme.com/261116/p36#a261116p36",
     "title": "Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery (Anthropic)",
     "description": "Anthropic:\nAnthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery  —  We remain optimistic that this will help defenders find and fix vulnerabilities faster than ever before.",
@@ -1935,6 +1971,17 @@
     "pub_date": "2026-11-16T17:20:03+00:00",
     "image_url": "http://www.techmeme.com/261116/i36.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://gizmodo.com/this-prehistoric-hunter-gatherer-witnessed-the-first-farmers-and-found-a-way-to-coexist-2000840476",
+    "title": "This Prehistoric Hunter-Gatherer Witnessed the First Farmers—and Found a Way to Coexist",
+    "description": "It’s a rare glimpse of the agricultural revolution as it unfolded, seen through one man’s life.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T17:20:03+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/11/rodhals-man-initial-newspaper-image-1280x853.jpg",
+    "source_name": "GIZMODO.COM"
   },
   {
     "link": "https://www.techradar.com/vpn/vpn-services/nordvpn-just-made-its-cheapest-plan-even-cheaper-usd2-99-per-month-for-the-best-vpn-for-streaming-ive-used-this-year",
@@ -2045,8 +2092,7 @@
     "title": "OpenAI will embed safety researchers to investigate AI subversion",
     "description": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-16T17:02:43+00:00",
     "image_url": null,
@@ -2331,55 +2377,6 @@
     ],
     "pub_date": "2026-11-16T16:35:17+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/qSUFejGsZEmdG4wG43RTPC-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/nvidia-ibm-fermilab-quantum-codesign-platform-decoder",
-    "title": "Nvidia teams up with IBM and Fermilab on a quantum codesign platform",
-    "description": "Nvidia said on Monday that it plans to work with IBM and the US Department of Energy’s Fermi National Accelerator Laboratory on a quantum codesign platform. The three will use it to research modular quantum computers, error correction and scientific applications, Nvidia said in its announcement. At the core of the platform, Nvidia DGX B200",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-16T16:31:15+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/ibm-quantum-system-nvidia-dgx-cryogenic-hardware-panels.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://gizmodo.com/failed-ula-rocket-launch-destroys-40-amazon-satellites-in-setback-for-spacex-rivals-2000840457",
-    "title": "Failed ULA Rocket Launch Destroys 40 Amazon Satellites in Setback for SpaceX Rivals",
-    "description": "The failed launch marked United Launch Alliance's first total mission failure in its 20-year history.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T16:30:17+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/11/55654130727_0c949b2c3d_o-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/16/deals-apple-watch-series-12-airpods-pro-3-iphone-duo-charger/",
-    "title": "Deals: Apple Watch Series 12 best price ever, AirPods Pro 3 now even lower, Apple’s iPhone Duo charger 25% off, more",
-    "description": "Alongside the ongoing discount on M5 MacBook Air at up to $250 off and AirTag 2 from just $17.50 each, Amazon has now updated its giant early Black Friday sale with an even lower price on  AirPods Pro 3  at $70 off and the lowest prices ever on the entire Apple Watch Series 12 lineup starting from $329. These offers include the first chance to save on Apple’s gorgeous Pearl White Ceramic Series 12 and Apple Watch SE 3 starting from just $199 shipped. Check it all out below and go scoop up the 40W Dynamic Power iPhone Duo fast charger while it’s over 25% off. \n\n\n\nUpdate 11/16: Amazon’s Apple TV 4K discount is now live again for folks looking to scoop one now that it has officially released.\n\n\n\n more…",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T16:27:28+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-black-friday-deals-Apple-Watch-Series-12-AirPods-Pro-3.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/yet-another-massive-cyberattack-hits-japan-city-of-osaka-latest-to-be-hit-as-more-than-a-million-email-addresses-exposed",
-    "title": "Yet another massive cyberattack hits Japan — city of Osaka latest to be hit, as more than a million email addresses exposed",
-    "description": "Japanese City of Osaka warns citizens of incoming phishing emails following cyberattack.",
-    "categories": [
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-11-16T16:25:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ThNyuwnA55tfcixfqWcEcA-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   }
 ]
