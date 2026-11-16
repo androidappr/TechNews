@@ -1,5 +1,44 @@
 [
   {
+    "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+    "title": "Microsoft details how three problems combined for a global outage",
+    "description": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-16T21:56:39+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/ramaphosa-musk-starlink-south-africa-policy",
+    "title": "Ramaphosa says Musk’s ‘difficulty’ with policy keeps Starlink out",
+    "description": "Elon Musk’s difficulty with South Africa’s ownership policy is what keeps Starlink out of the country, President Cyril Ramaphosa said on Monday. He was speaking to ABC News’ Jonathan Karl at Semafor’s Silicon Valley & The World event in California. “All countries have policies in terms of how they admit companies to operate. The United",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Government & Policy",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-16T21:47:06+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/cyril-ramaphosa-cop28-dubai-2023.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/jpmorganchase-bank-outage-oh-come-on/",
+    "title": "The Bank Outage May Have Nothing to Do With Your Bank",
+    "description": "Amid hundreds of reports of US banks experiencing outages, JPMorganChase says a “technical issue” with its “on-premise hardware systems” may be causing “slowness” with transactions at outside banks.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-16T21:45:45+00:00",
+    "image_url": "https://media.wired.com/photos/6afb6caffd92a97bc81f1ed9/master/pass/Security_YesYourBankIsHavinganOutage_v1-ezgif.com-video-to-gif-converter.gif",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
     "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
     "description": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings with content focused on chemical biohacking. Were it not for steroid-obsessed influencers like Anthony \"Tony Huge\" Hughes launching YouTube channels over a decade",
@@ -1478,8 +1517,8 @@
   },
   {
     "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-    "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-    "description": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+    "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+    "description": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
     "categories": [
       "AI & Machine Learning",
       "Cybersecurity & Privacy"
@@ -2194,7 +2233,6 @@
     "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
     "description": "New Harvard research shows that data-center power demand is outstripping states—and that doesn’t even include facilities with off-grid gas plants.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-11-16T16:00:00+00:00",
@@ -2350,40 +2388,5 @@
     "pub_date": "2026-11-16T15:22:09+00:00",
     "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/s26-013-jim-mirandy.jpg?w=2048",
     "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1034192/robert-pattinson-james-bond",
-    "title": "Robert Pattinson is Amazon’s first James Bond",
-    "description": "Robert Pattinson will take on the role of James Bond in Amazon MGM's first film in the 007 franchise. The next James Bond film will be directed by Denis Villeneuve using a script written by Steven Knight, while Amy Pascal and David Heyman will produce. The upcoming James Bond film will be the first from",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T15:19:34+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/bond.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/making-a-typo-when-trying-to-access-ai-could-land-you-on-a-malware-site",
-    "title": "Making a typo when trying to access AI could land you on a malware site",
-    "description": "Popular AI brands abused in a new typosquatting campaign, researchers warn.",
-    "categories": [
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-11-16T15:18:45+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/8iN8JcsjaeEppccYgURuY9-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/16/apple-has-renewed-slow-horses-for-seasons-7-8-9-and-10/",
-    "title": "Apple has renewed Slow Horses for seasons 7, 8, 9, and 10",
-    "description": "Slow Horses isn’t going away anytime soon, as Apple TV confirmed today that the hit series has been renewed through season 10—meaning at least four more seasons are coming.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T15:18:31+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/Apple-Originals-score-nine-Golden-Globe-nominations.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
