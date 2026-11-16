@@ -1,7 +1,80 @@
 [
   {
+    "link": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+    "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+    "description": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+    "categories": [
+      "Business & Startups",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-16T22:12:31+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261116/p44#a261116p44",
+    "title": "A US judge clears two brothers accused of stealing $25M in crypto, saying prosecutors failed to prove material misrepresentations in exploiting a software bug (Nate Raymond/Reuters)",
+    "description": "Nate Raymond / Reuters:\nA US judge clears two brothers accused of stealing $25M in crypto, saying prosecutors failed to prove material misrepresentations in exploiting a software bug  —  A federal judge on Monday ordered the acquittal of two Massachusetts Institute of Technology-educated brothers on US charges …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T22:05:02+00:00",
+    "image_url": "http://www.techmeme.com/261116/i44.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://mashable.com/life/robert-pattinson-james-bond-fan-reactions",
+    "title": "Robert Pattinson is the new James Bond, and fans have thoughts",
+    "description": "Robert Pattinson is the new James Bond. Fans reacted with Batman jokes, Twilight references, and debate over whether he's already in too many movies.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T22:04:52+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/059bgM8B551t3uk5OneENXA/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+    "description": "Nvidia interim CEO and long-time CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-16T22:03:02+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/chase-software-bug-bank-outages-zelle",
+    "title": "Chase blames a software bug for online banking problems at US banks",
+    "description": "JPMorgan Chase blamed a software bug in its own on-premise hardware for Monday’s online banking problems at several big US banks. The bank said in a post on X that there was no evidence of a cyberattack. It aims to fix the issue by the end of the day. JPMorganChase has experienced a temporary issue",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-11-16T22:02:41+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/chase-bank-branch-seattle-atm.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/acers-prodesigner-pe320qxt-6k-touchscreen-monitor-drops-to-usd999-99-for-black-friday-saving-you-usd500-on-a-professional-creative-display",
+    "title": "Save $500 on Acer's ProDesigner PE320QXT 6K monitor for Black Friday",
+    "description": "Acer's ProDesigner PE320QXT monitor is $999.99 for Black Friday, combining 6K resolution with a touchscreen and USB-C charging.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T22:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/oUmLgUN23QmWfw7pRFBHzc-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
-    "title": "Microsoft details how three problems combined for a global outage",
+    "title": "Three small failures combined to take down Microsoft 365",
     "description": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
     "categories": [
       "Breaking News",
@@ -11,6 +84,18 @@
     "pub_date": "2026-11-16T21:56:39+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage.jpg",
     "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/openai-csam-child-sexual-abuse-detection-tool",
+    "title": "OpenAI launches tool for finding child sexual abuse material",
+    "description": "CSAM detection may get better with this new OpenAI tool.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-16T21:47:58+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01mAGU90K5EAcVnYoe01B1b/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://thenextweb.com/news/ramaphosa-musk-starlink-south-africa-policy",
@@ -329,7 +414,7 @@
   },
   {
     "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-    "title": "Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day",
+    "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
     "description": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
     "categories": [
       "Breaking News",
@@ -634,6 +719,7 @@
     "title": "Meet the new James Bond: Robert Pattinson",
     "description": "Producers cite \"his fearlessness as an actor, his self-deprecating wit\" and continual reinvention as factors.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T19:36:25+00:00",
@@ -1406,7 +1492,6 @@
     "title": "Microsoft outage cause revealed: It was a perfect storm of problems",
     "description": "Microsoft had some explaining to do, and the tech company has revealed the cause of the global Microsoft outage.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T17:52:04+00:00",
@@ -1674,8 +1759,7 @@
     "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
     "description": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
     "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-16T17:10:00+00:00",
     "image_url": null,
@@ -2140,7 +2224,6 @@
     "description": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware",
       "Social & Media"
@@ -2187,7 +2270,6 @@
     "title": "19 Best Buy Early Black Friday Tech Deals Worth Checking Out Before November 17",
     "description": "Shop 19 handpicked Early Black Friday tech deals at Best Buy and save up to $1,700 before November 17 ends.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T16:03:02+00:00",
@@ -2308,85 +2390,5 @@
     "pub_date": "2026-11-16T15:39:24+00:00",
     "image_url": "https://www.engadget.com/img/gallery/apple-is-making-a-bigger-push-into-video-podcasts/l-intro-1794843514.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/live/news/black-friday-deals-uk-2026-november-16",
-    "title": "50+ best Black Friday deals 2026 in the UK — Nintendo Switch 2, Ninja air fryers, Kindles, AirPods, Lego, and more",
-    "description": "TechRadar's guide to all of the best Black Friday deals available now as the big end-of-year shopping season gets underway at Amazon, Argos, Currys, Very, and more.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T15:37:22+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/8S4YHv6LjZ3T7X93i7X7sC-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://gizmodo.com/james-bond-robert-pattinson-cast-26-amazon-mgm-denis-villeneuve-2000840451",
-    "title": "Robert Pattinson Is Your Next James Bond",
-    "description": "Pattinson will star in the upcoming Bond film from director Denis Villeneuve.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T15:35:53+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/11/Pattinson-Bond-crop-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://www.techradar.com/audio/wireless-headphones/boses-newest-2026-quietcomfort-headphones-2nd-gen-just-dropped-to-an-even-lower-price-ahead-of-black-friday-now-just-usd199-or-45-percent-off",
-    "title": "Bose's newest 2026 QuietComfort Headphones 2nd Gen just dropped to an even lower price ahead of Black Friday —now just $199 or 45% off!",
-    "description": "Amazon isn't waiting around until Black Friday to discount the excellent Bose QuietComfort Headphones (2nd Gen) to a record-low price.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T15:34:26+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Lmvo8vTYeu84iQYBvBW8PM-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/home-theater/amazon-audible-new-discovery-tricks-you-can-talk-to-audiobooks/",
-    "title": "Amazon Audible gets new discovery tricks, and you can basically talk to audiobooks now",
-    "description": "Think of it as a “catch me up” feature that gets you up to speed on the plot up to the point where you stopped listening, so you can quickly resume where you left off.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T15:34:24+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Amazon-Audible-Audio-Discovery.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/16/homeview-missing-some-podcast-feeds-heres-why/",
-    "title": "HomeView missing some podcast feeds? Here’s why",
-    "description": "Apple’s new HomeView features the Podcasts app, but not all feeds appear to be supported for now. Instead, HomeView appears to have the same bug that tvOS 27 introduced to the Apple TV 4K’s Podcasts app.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T15:34:09+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-hand-touch.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://mashable.com/life/best-early-black-friday-outdoor-live-deals-2026",
-    "title": "The best early Black Friday outdoor deals: Early discounts on Yeti, Stanley, Coleman, and more",
-    "description": "Shop early Black Friday deals on outdoor gear. We found outdoor deals at Amazon on Yeti, Stanley, Anker Solix, and more.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T15:29:55+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02IgGbo6G2evtaq9fnYMa4Z/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
-    "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
-    "description": "The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life. Mirandy has grown up with NASA as a constant presence, and his path to becoming a civil servant at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, has been decades in the making. Hired under the agency’s workforce directive",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T15:22:09+00:00",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/s26-013-jim-mirandy.jpg?w=2048",
-    "source_name": "NASA.GOV"
   }
 ]
