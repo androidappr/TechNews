@@ -12,6 +12,17 @@
     "source_name": "TECHMEME.COM"
   },
   {
+    "link": "https://gizmodo.com/sprawling-malware-attack-reportedly-affects-zoom-cnn-fox-news-peacock-and-170-others-2000840831",
+    "title": "Sprawling Malware Attack Reportedly Affects Zoom, CNN, Fox News, Peacock, and 170+ Others",
+    "description": "Despite the scale of the exploit, not much money was stolen.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T02:20:31+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2025/09/hacker-virus-malware-1280x853.jpg",
+    "source_name": "GIZMODO.COM"
+  },
+  {
     "link": "https://www.techradar.com/gaming/ps5/black-friday-ps5-deals-australia",
     "title": "Black Friday PlayStation 5 accessory deals — get prepped for GTA VI with huge discounts on controllers, headsets, SSDs and more",
     "description": "Thought there wouldn't be any Black Friday PS5 deals in Australia? Think again. While savings on the console are scarce, there's never been a better time to upgrade your accessories in time for GTA 6.",
@@ -511,7 +522,6 @@
     "title": "007 First Light composers share their stance on AI music in video games — ‘We feel art is only interesting if it is made by real people, informed by their experiences of life’",
     "description": "007 First Light composers Joe Henson and Alexis Smith have voiced their opinion on AI being used in video games.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-11-16T23:00:00+00:00",
@@ -547,7 +557,6 @@
     "description": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-11-16T22:58:27+00:00",
@@ -879,7 +888,6 @@
     "title": "Chase Bank outage: Customers report problems at major U.S. financial institutions",
     "description": "Chase Bank confirmed a technical issue is causing problems, as customers report outages at major U.S. financial institutions.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T21:16:06+00:00",
@@ -973,7 +981,6 @@
     "description": "California has sued OpenAI over the rogue AI agents that hacked Hugging Face in July. Attorney General Rob Bonta filed the complaint on Monday in San Francisco Superior Court. The state says OpenAI endangered the public. It tested advanced AI models without the safeguards and monitoring needed to contain them, the complaint alleges. California accuses",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-11-16T20:59:58+00:00",
@@ -985,8 +992,7 @@
     "title": "Hacker Behind ‘Grand Theft Auto VI’ Leak Pleads Guilty to Multiple Charges",
     "description": "Anton Kurtaj famously hacked Rockstar Games with only an Amazon Firestick and a smart TV.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-16T20:55:41+00:00",
     "image_url": "https://gizmodo.com/app/uploads/2026/11/arion-kurtaj-1280x853.jpg",
@@ -1008,7 +1014,6 @@
     "title": "Customers at major banks report difficulty accessing accounts online",
     "description": "Representatives from the companies say this is a technical problem and not a cyberattack.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T20:49:32+00:00",
@@ -1044,7 +1049,6 @@
     "description": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-11-16T20:46:01+00:00",
@@ -1156,7 +1160,6 @@
     "title": "Robert Pattinson’s James Bond Casting Is Obvious, Yet Also Unexpected",
     "description": "The 'Batman,' 'Twilight,' and 'Odyssey' star brings some major acting chops, and uncertainty, to the role.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T20:30:11+00:00",
@@ -2291,18 +2294,5 @@
     "pub_date": "2026-11-16T17:36:43+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/ai-gigafactory-northern-nokia-nscale-telia-verda-skeleton",
-    "title": "Nokia, Telia, Verda, Nscale and Skeleton team up for EU AI gigafactory bid",
-    "description": "Nokia, Nscale, Skeleton, Telia and Verda have formed a group to bid for one of the EU’s planned AI gigafactories. Called AI Gigafactory Northern, it would spread one facility across several Nordic and Baltic sites, the partners said in a joint release on Monday. The sites named so far are in Oulu in Finland, Iru",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-11-16T17:36:07+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/mikko-hautala-nokia-portrait-dark-suit-outdoors.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
