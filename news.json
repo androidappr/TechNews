@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://9to5mac.com/2026/11/17/whatsapps-first-party-chat-history-backup-service-moves-ahead/",
+    "title": "WhatsApp’s first-party chat history backup service moves ahead",
+    "description": "Select WhatsApp beta testers on iOS are now seeing an option to use the app’s own backup service as an alternative to iCloud. Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T22:57:08+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-03.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261117/p60#a261117p60",
+    "title": "Sources detail how the Microsoft 365 outage began in Switzerland and spread as failover systems shifted traffic, leaving 80%+ of Exchange servers unresponsive (Tom Warren/The Verge)",
+    "description": "Tom Warren / The Verge:\nSources detail how the Microsoft 365 outage began in Switzerland and spread as failover systems shifted traffic, leaving 80%+ of Exchange servers unresponsive  —  A bug took down Microsoft's email services for millions around the world. … At 9AM last Thursday, everything seemed normal.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T22:50:01+00:00",
+    "image_url": "http://www.techmeme.com/261117/i60.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://gizmodo.com/north-koreas-favorite-bitcoin-mixer-criticized-for-not-blocking-stolen-funds-2000841351",
+    "title": "North Korea’s Favorite Bitcoin Mixer Criticized for Not Blocking Stolen Funds",
+    "description": "The operator of the largest coordinator of on-chain bitcoin mixes was celebrating its growth on X when a blockchain investigator pointed out North Korea is its biggest user.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T22:45:41+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2025/12/crypto_mixer-1280x853.jpg",
+    "source_name": "GIZMODO.COM"
+  },
+  {
+    "link": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
+    "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+    "description": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-17T22:44:46+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/VV28_Decollage_plan_large_ZLV-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
     "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
     "description": "The former CEO offered to return to his top role at the company after his resignation last week.",
@@ -50,7 +95,7 @@
   },
   {
     "link": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
-    "title": "Malicious code delivered through Optimizely hits visitors to hundreds of sites",
+    "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
     "description": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
     "categories": [
       "Cybersecurity & Privacy",
@@ -146,6 +191,18 @@
     "source_name": "WIRED.COM"
   },
   {
+    "link": "https://gizmodo.com/kalshi-is-forced-to-halt-bets-on-what-president-trump-might-say-2000841326",
+    "title": "Kalshi Is Forced to Halt Bets on What President Trump Might Say",
+    "description": "Federal regulators say these prediction markets may be susceptible to manipulation.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T22:15:05+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/08/Best-VPN-for-Kalshi-e1792616108753-1280x854.jpg",
+    "source_name": "GIZMODO.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261117/p59#a261117p59",
     "title": "On Q3 earnings call, Nvidia Chair Harvey Jones says the board does not intend to reinstate Jensen Huang as CEO (Hayden Field/The Verge)",
     "description": "Hayden Field / The Verge:\nOn Q3 earnings call, Nvidia Chair Harvey Jones says the board does not intend to reinstate Jensen Huang as CEO  —  The board said it would not take additional questions on the call about Huang's departure. … Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones …",
@@ -216,7 +273,7 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://www.cnet.com/tech/services-and-software/nvidias-earnings-call-is-the-ai-economys-next-stress-test/",
+    "link": "https://www.cnet.com/tech/services-and-software/nvidia-earnings-call-ai-economy-stress-test/",
     "title": "Nvidia’s Earnings Call Is the AI Economy’s Next Stress Test",
     "description": "Jensen Huang’s departure was only a symptom of a bigger problem.",
     "categories": [
@@ -226,6 +283,18 @@
     "pub_date": "2026-11-17T22:03:34+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2298607332.jpg",
     "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
+    "title": "NASA Launches Nuclear Power Systems Student Contest",
+    "description": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about space nuclear power systems and illustrate how these nuclear “batteries” could help power their lunar exploration vision. Students are also invited to write",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T22:02:48+00:00",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/planetary-science-division/radioisotope-power-systems/power-to-explore-contest/2027-power-to-explore/PTE_2026-2027_X%20-%201200x675-80.jpg?w=1201&h=676&fit=clip",
+    "source_name": "SCIENCE.NASA.GOV"
   },
   {
     "link": "https://www.techradar.com/entertainment/tv-shows/how-to-watch-the-circle-season-8",
@@ -286,6 +355,18 @@
     "source_name": "ENGADGET.COM"
   },
   {
+    "link": "https://gizmodo.com/waymos-banned-on-the-freeway-in-california-after-multiple-incidents-2000841324",
+    "title": "Waymos Banned on the Freeway in California After Multiple Incidents",
+    "description": "The California DMV called Waymo’s freeway operations \"an imminent hazard to public safety.\"",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T21:55:29+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/11/waymo-san-diego-1280x853.jpg",
+    "source_name": "GIZMODO.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/home-theater/hisense-ur8-review/",
     "title": "Hisense UR8 TV review: A convincing case for RGB Mini LED",
     "description": "Hisense's UR8 brings RGB Mini LED technology to a more accessible price point, with excellent brightness and impressive blooming control. However, its real-world color performance leaves room for improvement, while OLED remains a compelling alternative.",
@@ -295,6 +376,18 @@
     "pub_date": "2026-11-17T21:50:48+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/hisense-ur8-tv-6.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/",
+    "title": "NASA Space Apps Challenge Breaks Global Hackathon Records",
+    "description": "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites participants to use NASA’s open data to address one of 14 challenges focused on space exploration or Earth science. This year, the hackathon drew 59%",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T21:50:34+00:00",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/open-science/Space%20Apps%20Challenge%202026%20Brazil.jpeg?w=2048&h=1706&fit=clip",
+    "source_name": "SCIENCE.NASA.GOV"
   },
   {
     "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
@@ -321,6 +414,30 @@
     "pub_date": "2026-11-17T21:46:20+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0543.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://gizmodo.com/nvidias-ai-money-machine-keeps-churning-without-jensen-huang-2000841301",
+    "title": "Nvidia’s AI Money Machine Keeps Churning Without Jensen Huang",
+    "description": "The chipmaker reported a record $115.84 billion in revenue and expects even bigger numbers next quarter, despite the scandal surrounding its former CEO.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-17T21:46:11+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/11/former-ceo-huang-1280x853.jpg",
+    "source_name": "GIZMODO.COM"
+  },
+  {
+    "link": "https://gizmodo.com/the-nvidia-scandal-is-only-half-the-story-of-chinas-ai-workarounds-2000841288",
+    "title": "The Nvidia Scandal Is Only Half the Story of China’s AI Workarounds",
+    "description": "Necessity is the mother of invention—or of increasingly creative forms of theft, depending on your point of view.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T21:45:12+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/11/XiandTrump-1-1280x853.jpg",
+    "source_name": "GIZMODO.COM"
   },
   {
     "link": "https://www.techmeme.com/261117/p57#a261117p57",
@@ -371,6 +488,18 @@
     "pub_date": "2026-11-17T21:38:08+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nike1.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://gizmodo.com/spacex-just-caught-a-falling-starship-now-what-2000841179",
+    "title": "SpaceX Just Caught a Falling Starship. Now What?",
+    "description": "Over a decade of work led up to SpaceX's successful Starship catch. The road ahead remains long.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T21:35:14+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/11/starship-caught-by-mechazilla-1280x853.jpg",
+    "source_name": "GIZMODO.COM"
   },
   {
     "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
@@ -576,6 +705,7 @@
     "title": "Kalshi says the CFTC has ordered it to halt trading on \"mention markets\" tied to what President Trump will say during public events (Bobby Allyn/Bloomberg)",
     "description": "Bobby Allyn / Bloomberg:\nKalshi says the CFTC has ordered it to halt trading on “mention markets” tied to what President Trump will say during public events  —  Federal regulators ordered Kalshi Inc. to halt trading on markets tied to what President Donald Trump will say during public events …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-17T20:40:01+00:00",
@@ -648,7 +778,6 @@
     "title": "The surprisingly compact Bambu Labs A1 mini drops to $199 in the Black Friday sale",
     "description": "The surprisingly compact Bambu Labs A1 mini drops to $199 in the Black Friday sale.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-17T20:30:00+00:00",
@@ -743,7 +872,6 @@
     "title": "Goodbye, Gemini Gems: How to use Google’s new Skills – and share them",
     "description": "Google is retiring Gemini Gems. Here’s what to do to access the same tools as Skills.",
     "categories": [
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-11-17T19:54:04+00:00",
@@ -1046,7 +1174,6 @@
     "title": "Oura Has a Plan to Help You Deal With Jet Lag",
     "description": "Jet Lag Plan uses your Oura sleep history to come up with a plan to smoothly transition between time zones.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-17T19:00:29+00:00",
@@ -1153,7 +1280,6 @@
     "title": "Google wants your phone to do the GPS work so your smartwatch can last longer",
     "description": "Google Play Services v26.45 lets Wear OS watches use a paired phone's GPS during outdoor workouts, helping conserve smartwatch battery life.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-17T18:30:24+00:00",
@@ -1165,7 +1291,6 @@
     "title": "The Bedrock Beneath Antarctica Isn’t Behaving as It Should. Scientists Finally Know Why",
     "description": "Scientists mapped the hidden structure beneath West Antarctica to understand how the Earth reacts to the ice above.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-17T18:30:21+00:00",
@@ -1304,6 +1429,7 @@
     "description": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
     "categories": [
       "AI & Machine Learning",
+      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-11-17T18:13:34+00:00",
@@ -1362,6 +1488,7 @@
     "title": "The Nvidia Scandal Could Upend Chip Sales to China. Trump Wants to Keep Them Going",
     "description": "Commerce secretary Howard Lutnick has been under attack for not blacklisting a company caught up in the Jensen Huang scandal. But Trump is on board with the policy.",
     "categories": [
+      "Breaking News",
       "Gadgets & Hardware",
       "Government & Policy"
     ],
@@ -1374,8 +1501,7 @@
     "title": "Google is making it easier to opt out of Gemini AI model training – here’s how",
     "description": "You’ll soon be able to turn off Gemini model training but still retain access to your previous chats with Google’s AI.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-17T18:01:38+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Gemini-Keep-Activity-setting.jpg",
@@ -1856,7 +1982,6 @@
     "title": "VSCO Is Gunning for Adobe Lightroom With Its New Desktop App",
     "description": "The new Studio Pro Desktop app for macOS delivers fast batch editing, RAW support, and more than 200 presets, though a few pro tools are still missing.",
     "categories": [
-      "Breaking News",
       "Software & Apps"
     ],
     "pub_date": "2026-11-17T17:00:00+00:00",
@@ -1890,7 +2015,6 @@
     "title": "I’ve Used VSCO’s Lightroom Rival Desktop Editor and It’s Great for Creatives",
     "description": "VSCO might be popular for iPhone photography, but its Studio Pro has rival Adobe firmly in its sights.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-17T17:00:00+00:00",
@@ -1937,7 +2061,6 @@
     "title": "Pre-Black Friday deal: Get an 85-inch LG MiniLED 4K TV on sale for $749.99",
     "description": "The 85-inch LG QNED Mini LED 4K TV is on sale at Amazon for $749.99, down from the list price of $1,399.99. That's a 46% discount.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-17T16:58:25+00:00",
@@ -1994,7 +2117,6 @@
     "description": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-11-17T16:50:10+00:00",
@@ -2205,131 +2327,5 @@
     "pub_date": "2026-11-17T16:19:11+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/ouHmUcwuByoAgrHvqvXm3N-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
-    "title": "The DOJ says it’s investigating Megaspeed",
-    "description": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing investigations, it is in the public interest to provide the facts and address",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-17T16:19:03+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461724/STK432_Government__CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://gizmodo.com/twitch-has-a-plan-to-keep-advertisers-happy-when-gta-vi-streams-get-to-the-spicy-bits-2000841039",
-    "title": "Twitch Has a Plan to Keep Advertisers Happy When ‘GTA VI’ Streams Get to the Spicy Bits",
-    "description": "Advertisers can opt in to the views and opt out of the naughty stuff.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T16:15:11+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/08/HQwZD2YXgAAWLhY-e1787864905471-1280x852.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2315208/carplay-apps-listening-music-podcasts/",
-    "title": "5 CarPlay apps for listening to music and podcasts",
-    "description": "One of the best uses for CarPlay is enjoying music and other audio, and these apps are excellent tools for the job.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-17T16:15:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/5-carplay-apps-for-listening-to-music-and-podcasts/l-intro-1794509113.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/best-early-black-friday-docking-station-deals/",
-    "title": "The best early Black Friday docking station deals are already live, and it’s the perfect small upgrade for your desk",
-    "description": "Early Black Friday deals are bringing discounts on premium Thunderbolt docks and affordable USB-C hubs, including $150 off iVANKY's 26-port FusionDock Ultra with an exclusive Amazon coupon code.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T16:14:54+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/iVANKY-26-in-1-FusionDock-Ultra-Featured.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/jensen-huang-statement-return-nvidia-ceo-board-investigation",
-    "title": "Jensen Huang offers to return as Nvidia CEO if the board asks, CNBC reports",
-    "description": "Jensen Huang says he would return as Nvidia’s chief executive if the board decides it wants him back. He made the offer in a written statement obtained by David Faber of CNBC on Tuesday. It is his first public comment since he resigned as chief executive on 12 November. CNBC’s Kif Leswing published the statement",
-    "categories": [
-      "Business & Startups",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-17T16:13:57+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/jensen-huang-nvidia-gtc-2026-keynote-speaking-sap-center.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.theverge.com/policy/1035401/school-cell-phone-ban-study-meta-settlement",
-    "title": "Banning phones really does help kids learn, researchers say",
-    "description": "A new nationwide study found that in-school cellphone bans can lead to modest improvements in learning. Now, researchers want to understand whether kids' phone use outside the classroom might contribute to the rest of students' learning loss - using the conditions of Meta's multibillion-dollar settlement from earlier this year. Banning cellphones in schools has the",
-    "categories": [
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-17T16:13:18+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/17/jensen-huang-says-hes-ready-to-rejoin-nvidia-as-ceo-if-asked/",
-    "title": "Jensen Huang says he’s ready to rejoin Nvidia as CEO (if asked)",
-    "description": "Jensen Huang’s resignation as Nvidia CEO shook up the AI market and US economy last week, but now via The Wall Street Journal Huang has spoken out publicly for the first time since stepping down, and he signals he’s ready to return as CEO if asked.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T16:10:31+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/jensen-huang-nvidia.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/ai-models-flagged-civilians-as-military-targets-in-tests-bloomberg-reports",
-    "title": "AI models flagged civilians as military targets in tests, Bloomberg reports",
-    "description": "AI models from eight companies often marked civilians, ambulances, surrendering soldiers and a school in Iran as military targets in simulated tests, Bloomberg reported. The findings come from a report by Vals, a San Francisco AI evaluator whose customers include parts of the US government. Anthropic’s models did worst, while OpenAI’s were among the best",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-11-17T16:10:29+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/military-helicopter-over-misty-water.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/anthropic-ipo-price-top-of-range-amazon-google-stakes-coatue",
-    "title": "Anthropic steers its IPO to the top of its $70 to $78 range or higher",
-    "description": "Investors in Anthropic’s share sale are being told to expect a price at the top of the $70 to $78 range or above, people familiar with the matter told Bloomberg on Tuesday. The deal has drawn several orders of $10bn or more, Anthony Hughes and Bailey Lipschultz reported. Multiple sources told David Faber that the",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-11-17T16:08:51+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/dario-amodei-anthropic-logo-phone-screen.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/wearables/xiaomis-first-clip-on-earbuds-offer-open-ear-listening-and-a-few-interesting-extras/",
-    "title": "Xiaomi’s first clip-on earbuds offer open-ear listening and a few interesting extras",
-    "description": "Xiaomi has launched its first clip-on earbuds, called the Xiaomi Clip, alongside the global debut of its Xiaomi 18 Pro and Pro Max smartphones and the new S5 smartwatch. The new earbuds start at €149.90 and come in four colors, including Sand Gold, Pearl White, Graphite Black, and Frost Purple. Unlike traditional wireless earbuds that",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T16:08:48+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Xiaomi-Clip-2-1.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.zdnet.com/tech/oura-jet-lag-plan/",
-    "title": "Oura’s new feature could help you kick jet lag – how to enable it",
-    "description": "Oura just launched a Jet Lag Plan to help you stay alert when you switch time zones, whether you’re traveling for business or pleasure.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T16:05:30+00:00",
-    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/screenshot-2026-07-01-at-11-09-24am_c37829.png",
-    "source_name": "ZDNET.COM"
   }
 ]
