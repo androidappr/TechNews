@@ -1,5 +1,19 @@
 [
   {
+    "link": "https://www.digitaltrends.com/computing/apple-has-introduced-daily-usage-limits-for-siri-ai-in-the-latest-ios-macos-and-ipados-betas/",
+    "title": "Apple has introduced daily usage limits for Siri AI in the latest iOS, macOS, and iPadOS Betas",
+    "description": "Apple wants you to pay more for making heavy use of their take on AI, aptly named Apple Intelligence",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-17T06:31:32+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Siri-Ai-on-iPhone.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/computing/gemini-notebook-can-now-turn-your-notes-into-interactive-websites/",
     "title": "Gemini Notebook can now turn your notes into interactive websites",
     "description": "Gemini Notebook can now turn your uploaded sources into interactive websites, including study explainers, data dashboards, and project trackers. Type \"make me a site\" in the notebook chat to get started.",
@@ -10,6 +24,18 @@
     "pub_date": "2026-11-17T06:27:34+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Official-Gemini-Notebook-branding.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2318790/apple-adds-new-disk-controls-to-prevent-ai-agents-from-running-amok/",
+    "title": "Apple adds new disk controls to prevent AI agents from running amok",
+    "description": "After sounding an alarm about the issue, Apple is taking steps to limit Mac disk access to AI agents.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-17T06:22:11+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/apple-adds-new-disk-controls-to-prevent-ai-agents-from-running-amok/l-intro-1794896472.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.techmeme.com/261117/p3#a261117p3",
@@ -2239,27 +2265,5 @@
     "pub_date": "2026-11-16T18:24:18+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/openai-logo-on-monitor-blue-wall.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
-    "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion",
-    "description": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin gigafactory.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T18:21:14+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/16/apple-website-now-available-in-spanish-for-us-users/",
-    "title": "Apple․com now available in Spanish for US users",
-    "description": "Apple is making a notable change to Apple․com. Starting today, users in the United States can now browse the Apple website in Spanish. \n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T18:21:12+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/CleanShot-2026-11-16-at-1.08.06-PM@2x.png?w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
