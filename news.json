@@ -1,5 +1,100 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad",
+    "title": "Inside Microsoft’s giant Outlook outage",
+    "description": "At 9AM last Thursday, everything seemed normal. Microsoft employees were arriving on campus, ready for a regular day of emails and meetings. But barely an hour later, one of Microsoft's worst outages in history started to unfold, leaving employees, businesses, and many governments without access to Outlook emails for nearly 24 hours. It all started",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T17:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/17/vsco-launches-its-first-native-mac-photo-editor-with-raw-support-batch-editing-more/",
+    "title": "VSCO launches its first native Mac photo editor with RAW support, batch editing, more",
+    "description": "VSCO today released Studio Pro Desktop, its first native photo editor for Mac, bringing many of the company’s familiar editing tools to macOS, alongside new features aimed at photographers working with large numbers of images. Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T17:00:00+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/vsco-desktop.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techradar.com/entertainment/football/watch-ireland-vs-kosovo-nations-league-2026-27-fixture-free",
+    "title": "How to watch Ireland vs Kosovo: FREE live streams, TV channels & kick-off time for Nations League 2026/27 fixture",
+    "description": "How you can watch Ireland vs Kosovo in the Nations League for free online from anywhere in the world, with TV channels, kick-off time included.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T16:55:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Y6CxnqZpGJm2HkGLxebdah-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.nasa.gov/image-article/space-selfie-2/",
+    "title": "Space Selfie",
+    "description": "NASA astronaut Anil Menon took this selfie during a spacewalk on Oct. 29, 2026. He and CSA (Canadian Space Agency) astronaut Joshua Kutryk installed a new roll-out solar array on the International Space Station. Get daily updates from the space station. Image credit: NASA/Anil Menon",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T16:51:14+00:00",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253155orig.jpg?w=2048",
+    "source_name": "NASA.GOV"
+  },
+  {
+    "link": "https://thenextweb.com/news/google-labs-buys-howie-ai-scheduling-agent",
+    "title": "Google buys Howie, an AI assistant that books your meetings",
+    "description": "Google Labs has bought Howie, an AI scheduling tool that users copy into emails to arrange meetings, Bloomberg reported. Terms were not disclosed; PitchBook valued Howie at $14M in 2024. Google said it wants to build AI tools for small businesses with the team. Google has bought Howie, an AI tool that schedules meetings and",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-17T16:50:13+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/google-office-entrance-logo-glass-facade.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+    "title": "Google will let you opt out of AI training in Gemini without losing your history",
+    "description": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-17T16:50:10+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://www.techradar.com/phones/android/wear-os-smartwatches-just-got-a-big-free-battery-life-boost-software-update-lets-you-use-your-android-phones-gnss-to-track-workouts",
+    "title": "Wear OS watches can now use your phone's GPS to save battery during workouts",
+    "description": "Marathon tracking on Wear OS watches just got a lot easier — as long as you're willing to run with your phone too.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-17T16:47:23+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/HdLG8zZZj9uAuKbwt3y3dG-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2315220/think-twice-using-laptop-on-soft-surface/",
+    "title": "Think twice before using your laptop on any soft surface",
+    "description": "Working from the couch or bed? Soft surfaces can cause trouble for your laptop's performance and battery. Learn why and what to do about it.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T16:45:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/think-twice-before-using-your-laptop-on-any-soft-surface/l-intro-1794506827.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
     "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
     "description": "In the first public statement since his resignation, Nvidia founder Jensen Huang signalled his willingness to return as CEO.",
@@ -11,6 +106,17 @@
     "pub_date": "2026-11-17T16:44:15+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2319271/snapchat-has-finally-made-it-easy-to-check-an-accounts-mutual-friends/",
+    "title": "Snapchat has finally made it easy to check an account's mutual friends",
+    "description": "The new feature is available in the US, Australia, France and Sweden.",
+    "categories": [
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-17T16:38:10+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/snapchat-has-finally-made-it-easy-to-check-an-accounts-mutual-friends/l-intro-1794933425.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.techradar.com/vehicle-tech/self-driving-vehicles/tesla-makes-usd3-3-billion-cybercab-push-at-its-german-gigafactory-but-63-percent-of-people-feel-uncomfortable-about-self-driving-cars-according-to-new-poll",
@@ -633,6 +739,7 @@
     "title": "Starbucks Red Cup Day 2026: How to get free holiday cup today",
     "description": "When is Starbucks Red Cup Day in 2026. Launch date, how to claim, new design.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-17T15:31:00+00:00",
@@ -1150,18 +1257,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techradar.com/phones/xiaomi-phones/xiaomi-18-pro-max-review",
-    "title": "Xiaomi 18 Pro Max review: a content creator's dream phone",
-    "description": "The Xiaomi 18 Pro Max delivers powerful performance, top cameras, and a novel rear screen.",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-17T14:30:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/XnUuAfMpVyq7PfcvHrAcDh-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.digitaltrends.com/wearables/xiaomis-new-smartwatch-packs-a-3000-nit-display-while-its-fitness-band-offers-21-day-battery-life/",
     "title": "Xiaomi’s new smartwatch packs a 3,000-nit display, while its fitness band offers 21-day battery life",
     "description": "Xiaomi has launched two new wearable devices alongside the global debut of its Xiaomi 18 smartphone series, the Xiaomi Watch S5 41mm and Smart Band 11. Both gadgets offer plenty of features for people looking to keep track of their health and fitness, and they also come at relatively affordable prices. The new wearables run",
@@ -1172,6 +1267,18 @@
     "pub_date": "2026-11-17T14:30:00+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Xiaomi-Watch-S5.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techradar.com/phones/xiaomi-phones/xiaomi-18-pro-max-review",
+    "title": "Xiaomi 18 Pro Max review: a content creator's dream phone",
+    "description": "The Xiaomi 18 Pro Max delivers powerful performance, top cameras, and a novel rear screen.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-17T14:30:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/XnUuAfMpVyq7PfcvHrAcDh-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://www.theverge.com/tech/1035257/fema-fcc-emergency-alert-system-test-2026",
@@ -2267,110 +2374,5 @@
     "pub_date": "2026-11-17T11:42:57+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/videos/028i6JZIGVQCzI5LKN3WpDE/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/jensen-huang-war-room-nvidia-return-bessent",
-    "title": "Jensen Huang’s allies reportedly build a ‘war room’ as Bessent pushes back",
-    "description": "One of Jensen Huang’s allies is putting together a “war room” of Silicon Valley executives. Its aim is to lobby Nvidia’s board to bring him back as chief executive. The group will also try to win support from the White House, the ally told the Financial Times. The FT’s Michael Acton reported that the effort",
-    "categories": [
-      "Breaking News",
-      "Business & Startups",
-      "Gadgets & Hardware",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-17T11:41:33+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/jensen-huang-nvidia-gtc-2026-gesturing-stool-san-jose.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/home/coffee-machines/new-aeropress-organiser-stands-nov-2026",
-    "title": "The perfect gift for AeroPress fans — two sleek new stands to tame countertop coffee clutter",
-    "description": "AeroPress offers two organiser stands: one standard model in black, and a more premium stainless steel model.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T11:41:20+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ztfqPwouAkDkVMg4eW67JX-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/glassesusa-virtual-try-on-online-fitting-tools",
-    "title": "How GlassesUSA uses virtual try-on and online fitting tools",
-    "description": "Buying prescription glasses online means more than picking a frame you like. You need accurate measurements, the right lens type, and some way to know the frame will fit before it shows up at your door. At GlassesUSA, virtual previews and online fitting guides are part of that process. The tools address different parts of",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T11:37:27+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/eyeglasses-frames-display-rack-optical-shop.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/gta-6-weather-images",
-    "title": "Whats the weather forecast for GTA 6? The Weather Channel has a preview.",
-    "description": "The Weather Channel teamed up with Rockstar to show off some stills from \"GTA 6\" — all focused on the weather.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T11:36:07+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01XqySBnwYQAII2i1bEy2E4/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261117/p15#a261117p15",
-    "title": "Model ML, which builds AI agents integrated in Excel or PowerPoint to automate pitch deck, research, and due diligence tasks, raised $250M at a $1.5B valuation (Yazhou Sun/Bloomberg)",
-    "description": "Yazhou Sun / Bloomberg:\nModel ML, which builds AI agents integrated in Excel or PowerPoint to automate pitch deck, research, and due diligence tasks, raised $250M at a $1.5B valuation  —  Model ML, a startup that builds artificial intelligence agents to handle rote tasks for bankers, consultants and investors …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T11:30:00+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/tiberius-aerospace-85m-series-a-1bn-valuation-ramjet-artillery",
-    "title": "Tiberius raises $85M at a $1bn valuation for its ramjet artillery shell",
-    "description": "Tiberius Aerospace, a defence startup that designs long-range artillery shells, has raised $85m in a Series A round. It licenses its designs to allied countries. The round values it at more than $1bn after the investment. Lakestar, the Zurich-based investor, and Rochefort Asset Management, a US national security investor, co-led the round, the companies said",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T11:21:37+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/tiberius-series-a-1-billion-valuation-investors-graphic.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261117/p14#a261117p14",
-    "title": "An analysis of 350+ Amazon holiday deals: 29.1% were priced the same or higher than in the prior 30 days, and 57.3% had no savings compared to the prior 90 days (Groundwork Collaborative)",
-    "description": "Groundwork Collaborative:\nAn analysis of 350+ Amazon holiday deals: 29.1% were priced the same or higher than in the prior 30 days, and 57.3% had no savings compared to the prior 90 days  —  Overview … Executive Summary  —  We reviewed the prices of hundreds of products that Amazon advertised as “deals” …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T11:20:02+00:00",
-    "image_url": "http://www.techmeme.com/261117/i14.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/17/macbook-neo-gets-rare-50-price-drop-in-early-black-friday-deal/",
-    "title": "MacBook Neo gets rare $50 price drop in early Black Friday deal",
-    "description": "The most affordable current-generation MacBook you can get under the tree this year just dropped to its best prices in several months with today’s extremely rare early Black Friday deals. Apple’s MacBook Neo lineup is nearly $50 off to deliver one of, if not the most surprising discounts of the 2026 Black Friday season yet. \n\n\n\n\nMacBook Neo 256GB $650 (Reg. $700)\n\n\n\nMacBook Neo 512GB with Touch ID $750 (Reg. $800)\n\n\n\n\n more…",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T11:16:21+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo_eaaffa.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/apps-software/ai/hold-on-is-galaxy-claw-the-samsung-ai-update-weve-been-waiting-on-rumors-are-talking",
-    "title": "Hold on—is 'Galaxy Claw' the Samsung AI update we've been waiting on? Rumors are talking",
-    "description": "Another rumor suggests Samsung is working on \"Galaxy Claw,\" which could serve as your personal AI for \"scheduled tasks.\"",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-17T11:11:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Ekn2mwwza3B283LYzRd7n6-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
   }
 ]
