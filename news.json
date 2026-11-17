@@ -1,5 +1,50 @@
 [
   {
+    "link": "https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/",
+    "title": "Meta is testing Direct, a standalone messaging app for Instagram",
+    "description": "Meta's new DM app for Instagram is only available in Turkey and Thailand, for now.",
+    "categories": [
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-17T01:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/l-intro-1794862378.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/send-papa-johns-a-photo-of-your-pizza-and-you-could-get-a-free-one/",
+    "title": "Send Papa John’s a photo of your pizza, and you could get a free one",
+    "description": "Papa John's is offering free pizza to customers who submit photos and feedback, using AI to identify poorly cooked pizzas and improve quality across its restaurants.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-17T00:58:44+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/DT-2026-11-17T061235.195.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
+    "title": "The 8 Best Movies to Stream Right Now (November 2026)",
+    "description": "Arco, Backrooms, and Godzilla Minus One are among the films deserving of your eyeballs this month.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T00:58:05+00:00",
+    "image_url": "https://media.wired.com/photos/6afb5714b63f0d234f4b197b/master/pass/Movie-Guide-Arco-Culture-MCDARCO_EC008.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/googlebook/googlebook-gets-a-much-needed-desktop-polish-with-chrome-157",
+    "title": "Googlebook gets a much-needed desktop polish with Chrome 157",
+    "description": "Chrome 157 for Googlebooks is here with smarter tabs and a handful of useful improvements.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T00:47:08+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/QbsxerdPM7kNQr27wNxYeM-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/11/16/former-apple-chairman-arthur-levinson-files-to-sell-31-8-million-in-company-stock/",
     "title": "Former Apple chairman Arthur Levinson files to sell $31.8 million in company stock",
     "description": "Arthur Levinson, who currently serves as Apple’s lead independent director, informed the SEC today of his plans to sell 90,000 shares of Apple stock worth approximately $31.8 million. Here are the details.\n\n\n\n more…",
@@ -755,7 +800,6 @@
     "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
     "description": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy",
       "Gadgets & Hardware",
       "Software & Apps"
@@ -840,7 +884,6 @@
     "title": "China’s tech bosses and Elon Musk head to Shenzhen for APEC CEO summit",
     "description": "The bosses of some of China’s biggest technology companies are on the agenda of the Asia-Pacific Economic Cooperation (APEC) CEO Summit in Shenzhen, which starts on Tuesday. The organiser released the agenda on Monday, Bloomberg and Reuters reported. Robin Zeng, founder and chairman of battery maker CATL, and Baidu chairman and CEO Robin Li are",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Government & Policy"
     ],
@@ -1261,7 +1304,6 @@
     "title": "Amazons cute new Echo Time smart clock is 50% off for Prime members, but not for long",
     "description": "Prime members can save 50% on the new Echo Time through Nov. 17, a new smart alarm clock powered by Alexa+.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T19:36:18+00:00",
@@ -1566,7 +1608,6 @@
     "title": "California's AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents due to OpenAI testing its AI models without adequate safeguards (Politico)",
     "description": "Politico:\nCalifornia's AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents due to OpenAI testing its AI models without adequate safeguards  —  California Attorney General Rob Bonta is suing OpenAI over the cyberattack its rogue AI agents launched this summer against the tech platform Hugging Face.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T18:55:00+00:00",
@@ -1578,7 +1619,6 @@
     "title": "Island is a new screen-time app that turns staying off your phone into a game",
     "description": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Social & Media",
       "Software & Apps"
@@ -2295,50 +2335,5 @@
     "pub_date": "2026-11-16T17:08:30+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/ai-orange-neon-sign-dark-circuit-wall.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/tsmc-confirms-cyberattack-and-data-breach-chip-giant-says-personal-employee-data-has-been-leaked-online",
-    "title": "TSMC confirms cyberattack and data breach — chip giant says personal employee data has been leaked online",
-    "description": "A threat actor called SmithBianl offered a sample online as they threatened to release the whole batch.",
-    "categories": [
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-11-16T17:05:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/eeC4nkApykrupZM24rGDnR-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/entertainment/how-to-watch/how-to-watch-young-british-and-tradwife-from-anywhere-its-free",
-    "title": "How to watch Young, British and Tradwife from anywhere – it's *FREE*",
-    "description": "Here's how to watch Young, British and Tradwife online from anywhere in the world as filmmaker Poppy Jay steps inside the homes of British tradwives for a 59-minute BBC doc.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T17:03:16+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/Ct4Aq2yWemFdGovgDpyr7k-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-    "title": "OpenAI will embed safety researchers to investigate AI subversion",
-    "description": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-16T17:02:43+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://gizmodo.com/how-starlog-helped-fan-the-early-flames-of-star-wars-fever-exclusive-2000837366",
-    "title": "How Starlog Helped Fan the Early Flames of ‘Star Wars’ Fever [Exclusive]",
-    "description": "As the iconic sci-fi magazine relaunches with a focus on futurism, io9 talks with senior editor Meredith Borders about its place in pop culture history.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T17:00:30+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/11/Starlog_cover_badge-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
   }
 ]
