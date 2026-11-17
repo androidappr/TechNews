@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.techmeme.com/261116/p53#a261116p53",
+    "title": "Meta is testing Direct, a standalone messaging app for Instagram that doesn't require an existing Instagram account to use, in Thailand and Turkey (Karissa Bell/Engadget)",
+    "description": "Karissa Bell / Engadget:\nMeta is testing Direct, a standalone messaging app for Instagram that doesn't require an existing Instagram account to use, in Thailand and Turkey  —  It's only available in Turkey and Thailand for now.  —  Meta is working on a dedicated messaging app for Instagram that could also expand the reach of the app's DMs.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T04:40:01+00:00",
+    "image_url": "http://www.techmeme.com/261116/i53.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261116/p52#a261116p52",
     "title": "Anthropic tells investors Claude Mythos Preview got its AI running on AMD GPUs in ~3 days with \"basically no human intervention\", vs. the usual 6-12 months (Shane Downing/Tom's Hardware)",
     "description": "Shane Downing / Tom's Hardware:\nAnthropic tells investors Claude Mythos Preview got its AI running on AMD GPUs in ~3 days with “basically no human intervention”, vs. the usual 6-12 months  —  If AI can write the low-level code that ties models to Nvidia, CUDA matters less.",
@@ -247,6 +259,7 @@
     "title": "Meta is testing Direct, a standalone messaging app for Instagram",
     "description": "Meta's new DM app for Instagram is only available in Turkey and Thailand, for now.",
     "categories": [
+      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-11-17T01:00:00+00:00",
@@ -680,7 +693,6 @@
     "title": "United Airlines has fixed issue that caused 'widespread system outage'",
     "description": "United is apparently experiencing a major outage just days after a nationwide ground stop halted thousands of flights.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-16T22:38:43+00:00",
@@ -2279,16 +2291,5 @@
     "pub_date": "2026-11-16T17:52:04+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/005qjhcvpxhJiYqGSiGCncd/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2318001/gta-6-hacker-pleads-guilty-to-stealing-and-leaking-gameplay-footage/",
-    "title": "GTA 6 hacker pleads guilty to stealing and leaking gameplay footage",
-    "description": "Arion Kurtaj was deemed fit to stand trial earlier this year after breaching Rockstar's systems in 2022",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-16T17:50:38+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/gta-6-hacker-pleads-guilty-to-stealing-and-leaking-gameplay-footage/l-intro-1794851373.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
