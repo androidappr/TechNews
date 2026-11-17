@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+    "title": "Satya Nadella says he’s AGI-pilled now",
+    "description": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-17T23:41:18+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-17-at-3.00.15-PM.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+    "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+    "description": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-17T23:37:48+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/17/ifixit-tears-down-apple-homeview-finds-lots-of-glue-and-endless-frustration/",
+    "title": "iFixit tears down Apple HomeView, finds lots of glue and endless frustration",
+    "description": "iFixit’s teardown of the new Apple HomeView is now up, revealing a device that seems nearly impossible to take apart and repair. Watch it below.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T23:36:09+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-teardown.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261117/p62#a261117p62",
+    "title": "Nvidia interim CEO Colette Kress says the company will stay \"disciplined and selective\" in supporting neoclouds; CoreWeave and Nebius jump 9%+ after hours (Ina Fried/Axios)",
+    "description": "Ina Fried / Axios:\nNvidia interim CEO Colette Kress says the company will stay “disciplined and selective” in supporting neoclouds; CoreWeave and Nebius jump 9%+ after hours  —  Nvidia's interim CEO said Tuesday that the company will be “disciplined” as it decides how much to invest in neoclouds and other AI customers going forward.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T23:35:04+00:00",
+    "image_url": "http://www.techmeme.com/261117/i62.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2315473/old-school-charging-ports-phones-used-before-usb-c/",
+    "title": "5 old-school charging ports you probably forgot phones had before USB-C",
+    "description": "While USB-C is the standard today, we saw a lot of phone charging ports before the days of Micro-USB and Mini-USB.",
+    "categories": [
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-11-17T23:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/5-old-school-charging-ports-you-probably-forgot-phones-had-before-usb-c/l-intro-1794520920.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/oil-wells-that-never-run-dry-syntholenes-ceo-says-one-geothermal-borehole-can-make-unlimited-jet-fuel-but-the-companys-iceland-plant-has-only-made-hydrogen-so-far",
     "title": "'Oil wells that never run dry': Syntholene's CEO says one geothermal borehole can make unlimited jet fuel — but the company's Iceland plant has only made hydrogen so far",
     "description": "One geothermal well, 200 football fields of solar, \"unlimited fuel, forever\": Syntholene's CEO makes a bold pitch, and only part of it has been built.",
@@ -22,6 +82,18 @@
     "pub_date": "2026-11-17T23:15:01+00:00",
     "image_url": "http://www.techmeme.com/261117/i61.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.zdnet.com/innovation/microsoft-copilot-workspaces-ignite-2026/",
+    "title": "Microsoft unveiled Copilot Workspaces at Ignite 2026, plus more AI workplace updates",
+    "description": "The company also released new ROI tracking tools for companies monitoring their AI spend.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-17T23:14:05+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Screenshot-2026-11-17-at-1.21.10-PM.png",
+    "source_name": "ZDNET.COM"
   },
   {
     "link": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
@@ -60,8 +132,8 @@
   },
   {
     "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-    "title": "Nvidia says its open-source AI strategy remains intact after Jensen Huang’s exit",
-    "description": "Nvidia's interim CEO reaffirmed its open-source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+    "description": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -324,14 +396,14 @@
   {
     "link": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
     "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
-    "description": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
+    "description": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intent” to reinstate the company’s ousted CEO.",
     "categories": [
       "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-17T22:19:19+00:00",
-    "image_url": "https://media.wired.com/photos/6afccb299b8ae6ebe897d1d7/master/pass/2026-11-12T153402Z_941150596_RC2X6I9AZJQN_RTRMADP_3_NVIDIA-CEO-COLETTE-KRESS.JPG",
+    "image_url": "https://media.wired.com/photos/6afce5159891667de5f2b6bb/master/pass/Nvidia-Board-Has-No-Plans-to-Bring-Back-Jensen-Business-2299990450.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -906,6 +978,17 @@
     "source_name": "ARSTECHNICA.COM"
   },
   {
+    "link": "https://www.techradar.com/pro/the-surprisingly-compact-bambu-labs-a1-mini-drops-to-usd199-in-the-black-friday-sale",
+    "title": "The surprisingly compact Bambu Labs A1 mini drops to $199 in the Black Friday sale",
+    "description": "The surprisingly compact Bambu Labs A1 mini drops to $199 in the Black Friday sale.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T20:30:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/NzFj6hvNDjukxUmcr3Bvn6-1920-80.webp",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.theverge.com/policy/1035869/whats-next-majority-democrats-conference-denver-jeffries",
     "title": "Democrats try to figure out how not to get swept away by the blue wave",
     "description": "On a harried Saturday afternoon at Denver International Airport, I had the good fortune of sitting just a few feet from Minneapolis Mayor Jacob Frey. It shouldn't have come as a surprise. He, I, and 3,500 or so others had just left \"What's Next,\" a conference organized by Majority Democrats, a group dedicated to charting",
@@ -916,17 +999,6 @@
     "pub_date": "2026-11-17T20:30:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304463879.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/the-surprisingly-compact-bambu-labs-a1-mini-drops-to-usd199-in-the-black-friday-sale",
-    "title": "The surprisingly compact Bambu Labs A1 mini drops to $199 in the Black Friday sale",
-    "description": "The surprisingly compact Bambu Labs A1 mini drops to $199 in the Black Friday sale.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T20:30:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/NzFj6hvNDjukxUmcr3Bvn6-1920-80.webp",
-    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/",
@@ -1145,8 +1217,7 @@
     "title": "Model ML raises $250M to automate investment banking grunt work",
     "description": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-17T19:32:11+00:00",
     "image_url": null,
@@ -1606,7 +1677,6 @@
     "title": "9to5Mac Daily: November 17, 2026 – iOS 27.3 brings face unlock to iPhone Duo, more",
     "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\n\n\n\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.\n\n\n\n\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-17T18:09:11+00:00",
@@ -1838,7 +1908,6 @@
     "title": "iCloud, App Store, and other Apple services hit by ongoing outage [U]",
     "description": "Apple services are having a rough Tuesday. iCloud, the App Store, and other services are experiencing an apparent outage, with users reporting connection failures and trouble signing in.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-17T17:33:58+00:00",
@@ -1874,7 +1943,6 @@
     "title": "Jensen Huang Says He’s Open to Coming Back to Nvidia",
     "description": "Huang said in a statement that he “would be honored” to return as Nvidia CEO if the board of directors supported the decision.",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware"
     ],
@@ -2261,73 +2329,5 @@
     "pub_date": "2026-11-17T16:50:10+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.techradar.com/phones/android/wear-os-smartwatches-just-got-a-big-free-battery-life-boost-software-update-lets-you-use-your-android-phones-gnss-to-track-workouts",
-    "title": "Wear OS watches can now use your phone's GPS to save battery during workouts",
-    "description": "Marathon tracking on Wear OS watches just got a lot easier — as long as you're willing to run with your phone too.",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-17T16:47:23+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/HdLG8zZZj9uAuKbwt3y3dG-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2315220/think-twice-using-laptop-on-soft-surface/",
-    "title": "Think twice before using your laptop on any soft surface",
-    "description": "Working from the couch or bed? Soft surfaces can cause trouble for your laptop's performance and battery. Learn why and what to do about it.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T16:45:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/think-twice-before-using-your-laptop-on-any-soft-surface/l-intro-1794506827.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://gizmodo.com/archaeologists-just-found-a-polished-6000-year-old-greenstone-axe-in-the-weirdest-place-2000841050",
-    "title": "Archaeologists Just Found a Flawless 6,000-Year-Old Greenstone Axe in the Weirdest Place",
-    "description": "The pristine implement, dating to the Neolithic, shows no signs of prior use.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T16:40:08+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/11/Greenstone-axe-terme-di-sorano-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2319271/snapchat-has-finally-made-it-easy-to-check-an-accounts-mutual-friends/",
-    "title": "Snapchat has finally made it easy to check an account's mutual friends",
-    "description": "The new feature is available in the US, Australia, France and Sweden.",
-    "categories": [
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-17T16:38:10+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/snapchat-has-finally-made-it-easy-to-check-an-accounts-mutual-friends/l-intro-1794933425.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/vehicle-tech/self-driving-vehicles/tesla-makes-usd3-3-billion-cybercab-push-at-its-german-gigafactory-but-63-percent-of-people-feel-uncomfortable-about-self-driving-cars-according-to-new-poll",
-    "title": "Tesla reveals $3.3bn Cybercab push, but driverless cars face big headwinds",
-    "description": "Tesla is betting big on driverless cars in Germany, but new polling suggests the public isn't convinced.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T16:35:27+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/7schqikBnQoecRvsTwkmNT-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/jensen-huang-nvidia-ceo-return/",
-    "title": "Jensen Huang is open to returning as Nvidia chief after blockbuster resignation saga",
-    "description": "Former Nvidia CEO Jensen Huang has just shared his first public statement since resigning from the company, in the aftermath of a cheating saga reportedly involving two Nvidia employees and a data center company executive who is allegedly a Chinese spy. Huang wrote on X that ever since his resignation, he has seen a massive",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-17T16:34:38+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/12/Nvidia-CEO-Jensen-Huang.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
   }
 ]
