@@ -1,5 +1,27 @@
 [
   {
+    "link": "https://www.wired.com/story/oobah-butler-exclusive-interview-scams-for-a-better-tomorrow/",
+    "title": "Oobah Butler Can Sell You Anything—If You’re a Rich Idiot",
+    "description": "In an exclusive interview, the stunt journalist talks about his new HBO show, where he dreams up grifting schemes to lampoon some of the world’s most opulent—and gullible—industries.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T08:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6afb935d1f1fdc342dea42fe/master/pass/McCausland-00002986000613.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://mashable.com/life/nov-17-one-year-the-club-card-membership-with-bjs",
+    "title": "Shop smarter this holiday season with a $15 BJ’s membership",
+    "description": "Save money year-round with the 1-year BJ's Club Membership with BJ's Easy Renewal, now $15.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T08:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/02OOgZqSFAzyVciK6oDiYEB/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://mashable.com/tech/openai-california-lawsuit-public-nuisance",
     "title": "California sues OpenAI for being a public nuisance",
     "description": "California has sued OpenAI, it of misleading the public, developing AI models without proper safeguards, and being a public nuisance.",
@@ -292,7 +314,6 @@
     "title": "Anthropic tells investors Claude Mythos Preview got its AI running on AMD GPUs in ~3 days with \"basically no human intervention\", vs. the usual 6-12 months (Shane Downing/Tom's Hardware)",
     "description": "Shane Downing / Tom's Hardware:\nAnthropic tells investors Claude Mythos Preview got its AI running on AMD GPUs in ~3 days with “basically no human intervention”, vs. the usual 6-12 months  —  If AI can write the low-level code that ties models to Nvidia, CUDA matters less.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-17T04:02:44+00:00",
@@ -2239,28 +2260,5 @@
     "pub_date": "2026-11-16T18:35:21+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/sister-elder-care-system.png",
     "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://www.nasa.gov/image-article/thunderbirds-in-formation/",
-    "title": "Thunderbirds in Formation",
-    "description": "U.S. Air Force Thunderbirds fighter jets pass overhead during the agency’s MAX POWER expo and air show on Saturday, Nov. 7, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s inaugural MAX POWER was an aerospace festival celebrating the past, present, and future of flight and space exploration in honor of America’s 250th anniversary. Image",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T18:34:47+00:00",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/11072026-ksc-max-power-airdotshow-2orig.jpg?w=2048",
-    "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning",
-    "title": "15 hotel guests were injured by chlorine poisoning due to Microsoft’s global email outage",
-    "description": "Microsoft's worldwide 365 and Outlook outage had real-world consequences after it cut off email alerts for a German hotel's pool safety system. The German outlet Westdeutscher Rundfunk (WDR) said several people were injured at a Phantasialand hotel on Friday after its email system failed to deliver a safety alert about elevated chlorine levels in the",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T18:29:55+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A_332561.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
   }
 ]
