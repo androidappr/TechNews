@@ -1,5 +1,78 @@
 [
   {
+    "link": "https://www.techradar.com/gaming/gaming-accessories/steelseries-aeon-pro-review",
+    "title": "SteelSeries Aeon Pro review: this Xbox controller offers unlimited power — for a seriously premium price",
+    "description": "After testing this SteelSeries Xbox controller’s smart battery system and dual-platform 2.4GHz connectivity, I’m not sure I can ever go back to another pad.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-11-17T10:54:34+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/v7ccek5FgEbRBGz2VFawpT-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261117/p11#a261117p11",
+    "title": "A look at Anthropic's data center network plans, dubbed Anthropic Direct, committing $900B+ through 2045; docs show it will lease 875K TPUs for $7.2B per year (Financial Times)",
+    "description": "Financial Times:\nA look at Anthropic's data center network plans, dubbed Anthropic Direct, committing $900B+ through 2045; docs show it will lease 875K TPUs for $7.2B per year  —  Just inland from the Mississippi River, about 1,300 workers are racing to finish a 600,000 sq ft data centre rising from the Louisiana woods.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T10:50:00+00:00",
+    "image_url": "http://www.techmeme.com/261117/i11.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/godaddys-new-ai-builder-app-lets-smbs-turn-an-idea-into-a-website-faster-than-ever",
+    "title": "GoDaddy's new AI builder app lets SMBs turn an idea into a website faster than ever",
+    "description": "Airo AI Builder is GoDaddy's comprehensive AI platform designed for building and editing your ideal website.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T10:49:59+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/LcFmUSZ8zro2hdwA7MwsmR-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+    "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+    "description": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-17T10:47:45+00:00",
+    "image_url": "https://media.wired.com/photos/6afb9fde88d847b7d226d42b/master/pass/AI-Told-Ex-Google-Guys-How-to-Build-Billion-Dollar-Weapons-BusinessDAAS3.png",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/optimizely-hack-malware-zoom-bbc-cnn-hsbc-178-sites",
+    "title": "Hackers used Optimizely to plant malware on Zoom, BBC, CNN and HSBC sites",
+    "description": "Hackers used Optimizely, a website testing platform, to serve malware to visitors of at least 178 organisations on Monday. The affected sites included Zoom, the BBC, CNN, Fox News, Salesforce, GitLab, IKEA, HSBC, and Equifax, according to the researcher who found it. Optimizely confirmed the attack. An unauthorised party exploited a vulnerability in its Experimentation",
+    "categories": [
+      "Cybersecurity & Privacy",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-17T10:47:39+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/person-silhouette-screens-computer-code-dark.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/us-data-centres-emissions-denmark-harvard-study",
+    "title": "The largest US data centres emit as much CO2 as Denmark, Harvard finds",
+    "description": "The 403 largest data centres in the US used about 1.8% of the country’s electricity in a year. More than half of that power came from fossil fuels, a Harvard-led study published on Monday found. The study, published in Nature Sustainability, covers hyperscale data centres, the biggest class of facility. It runs from May 2024",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-17T10:41:09+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/electricity-substation-insulators-dusk.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://mashable.com/tech/nov-17-sony-wh-ch530-headphones-early-black-friday-deal",
     "title": "These new Sony wireless on-ears just hit a record-low $38 in all six colors",
     "description": "As of Nov. 17, the Sony WH-CH530 wireless on-ear headphones are down to a record low of $38 at Amazon across all six colorways ahead of Black Friday.",
@@ -2200,72 +2273,5 @@
     "pub_date": "2026-11-16T20:29:37+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2227026671.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-    "title": "US data centers now burn more electricity than a midsized country",
-    "description": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. The study homes in on hyperscale facilities - the",
-    "categories": [
-      "AI & Machine Learning",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-16T20:27:58+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
-    "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
-    "description": "AT&T demands Comcast give AT&T profits it made from advertising cable as fiber.",
-    "categories": [
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-16T20:27:58+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://gizmodo.com/apple-finally-figured-out-where-people-watch-video-podcasts-2000840422",
-    "title": "Apple Finally Figured Out Where People Watch Video Podcasts",
-    "description": "You can soon watch Apple podcasts on Apple TV, even if you are not a subscriber.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T20:25:13+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/11/apple-vodcasts-1280x853.png",
-    "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://www.techradar.com/entertainment/tv-shows/theres-a-sneaky-way-to-watch-im-a-celeb-2026-for-free",
-    "title": "There's a sneaky way to watch I'm A Celeb 2026 for free",
-    "description": "Here's how to watch I'm A Celebrity 2026 online for free from anywhere in the world. TV and free streaming guide.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T20:25:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/qNSCF4dp86Lg2SScB3zTym-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261116/p42#a261116p42",
-    "title": "Bank of America, Chase, Wells Fargo, and other US bank customers report online service issues; Chase blames a technical issue, not a cyber issue, for the delays (Associated Press)",
-    "description": "Associated Press:\nBank of America, Chase, Wells Fargo, and other US bank customers report online service issues; Chase blames a technical issue, not a cyber issue, for the delays  —  Customers reported difficulty accessing the online accounts at some major banks Monday.  Bank of America, Chase, U.S. Bank …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T20:20:02+00:00",
-    "image_url": "http://www.techmeme.com/261116/i42.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/16/iphone-duo-now-has-twice-as-many-optimized-apps-as-it-did-10-days-ago/",
-    "title": "iPhone Duo now has twice as many optimized apps as it did 10 days ago",
-    "description": "Apple marketing SVP Greg Joswiak said today that the number of iPhone Duo-ready apps on the App Store is twice what it was when Apple last reported the figure. Here are the details.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-16T20:18:40+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-15.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
   }
 ]
