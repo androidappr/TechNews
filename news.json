@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.digitaltrends.com/social-media/a-viral-app-lets-strangers-judge-your-purchases-and-i-wish-i-were-making-this-up/",
+    "title": "A trending app lets strangers judge your purchases, and I wish I were making this up",
+    "description": "A viral Chinese app lets strangers approve or reject your purchases, and while the idea sounds absurdly dystopian, its popularity reveals something unsettling about our relationship with money and technology.",
+    "categories": [
+      "Social & Media",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-17T07:10:36+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/fake-shopping-on-dopamine-sites.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/computing/apple-has-introduced-daily-usage-limits-for-siri-ai-in-the-latest-ios-macos-and-ipados-betas/",
     "title": "Apple has introduced daily usage limits for Siri AI in the latest iOS, macOS, and iPadOS Betas",
     "description": "Apple wants you to pay more for making heavy use of their take on AI, aptly named Apple Intelligence",
@@ -2250,18 +2262,5 @@
     "pub_date": "2026-11-16T18:25:20+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/04d6LsBpvSoKGJ52ZGsDiq5/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/apollo-research-openai-embedded-evaluations-pilot",
-    "title": "OpenAI lets Apollo embed six AI safety testers during training",
-    "description": "Apollo Research will place six evaluators inside OpenAI for four months to check whether its models try to undermine alignment and control measures during training, testing and internal use. OpenAI controls staff access and can redact some evidence, but cannot hide Apollo’s verdicts or withhold material just because it is unfavourable. AI safety group Apollo",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-11-16T18:24:18+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/openai-logo-on-monitor-blue-wall.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
