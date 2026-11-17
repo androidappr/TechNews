@@ -1,5 +1,101 @@
 [
   {
+    "link": "https://mashable.com/entertainment/gta-grand-theft-auto-6-should-i-buy-a-ps5-xbox",
+    "title": "Should I buy a gaming console just to play GTA 6? That depends on your FOMO.",
+    "description": "For those feeling intense 'GTA 6' FOMO, allow us to lay out the cases for and against buying a console just for this game.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T19:08:42+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/02A9vkEpZVGhaQs9UYqK6rY/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/dont-get-irrit-ai-ted-new-report-claims-a-third-of-us-chatbot-users-have-sworn-at-or-insulted-their-llms",
+    "title": "Don't get irrit-AI-ted — new report claims a third of US chatbot users have sworn at or insulted their LLMs",
+    "description": "Users appear to be growing more frustrated with AI chatbots failing to follow instructions – now Anthropic is taking steps to stop it.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T19:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/2yHEj7RR9QpUSvzcPym7Vf-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/anthropic-linked-billing-claude-api-customers-pay",
+    "title": "Anthropic lets apps bill Claude costs to their customers",
+    "description": "Anthropic has launched Linked billing in beta, letting apps built on Claude bill API usage to a customer’s own Claude organisation. Customers can set a spend cap or unlink the app, but only organisations that pay Anthropic directly qualify, and their own data protections do not carry over. Apps built on Claude can now charge",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-11-17T19:02:53+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/anthropic-sign-office-building-entrance.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+    "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+    "description": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-17T19:02:20+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/apple-outage-icloud-app-store-apple-pay-november-17",
+    "title": "Apple confirms iCloud sign-in issues, App Store and Apple Pay outages",
+    "description": "Apple confirms App Store and Apple Music outages and iCloud sign-in issues. Users also report Apple Pay problems following Monday’s banking disruption.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T19:01:13+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00sDQkWiYZ7fddSK6WSEdE0/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261117/p47#a261117p47",
+    "title": "Google updates Gemini Privacy Hub to extend its retention period for temporary chats and chats with history turned off from 72 hours to around two months (Jagmeet Singh/TechCrunch)",
+    "description": "Jagmeet Singh / TechCrunch:\nGoogle updates Gemini Privacy Hub to extend its retention period for temporary chats and chats with history turned off from 72 hours to around two months  —  Google is extending how long it keeps temporary Gemini chats and conversations made with chat history turned off to around two months …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T19:00:47+00:00",
+    "image_url": "http://www.techmeme.com/261117/i47.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2315371/what-are-flock-cameras-how-to-spot/",
+    "title": "What exactly are Flock cameras and how can you spot one?",
+    "description": "Flock cameras are showing up at intersections and neighborhood entrances. Learn what they are capable of and how to spot one before you drive past.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-17T19:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/what-exactly-are-flock-cameras-and-how-can-you-spot-one/l-intro-1794513671.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+    "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+    "description": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-17T18:58:01+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Tasks-in-Gemini.png?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/phones/school-phone-bans-academic-gains-study/",
     "title": "School phone bans work, but don’t expect straight-A students overnight",
     "description": "A Harvard-led study of 3.3 million students found strict school phone bans deliver modest academic gains, equivalent to one or two extra weeks of learning annually.",
@@ -13,7 +109,7 @@
   {
     "link": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
     "title": "Apple services, including iCloud, App Store, and Apple Music, hit by outage",
-    "description": "Apple's status page confirms its services are faces outages, but has not confirmed the cause.",
+    "description": "Apple's status page confirms its services are facing outages, but has not confirmed the cause.",
     "categories": [
       "Breaking News",
       "Gadgets & Hardware",
@@ -767,15 +863,15 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.techradar.com/entertainment/football/watch-denmark-vs-norway-free-nations-league-2026-27-fixture",
-    "title": "How to watch Denmark vs Norway: FREE live streams, TV channels & kick-off time for Nations League 2026/27 fixture",
-    "description": "How you can watch Denmark vs Norway in the Nations League for free online from anywhere in the world with TV channels, kick-off time included.",
+    "link": "https://www.techradar.com/entertainment/football/watch-wales-vs-portugal-nations-league-2026-27-fixture-free",
+    "title": "How to watch Wales vs Portugal: FREE live streams, TV channels & kick-off time for Nations League 2026/27 fixture",
+    "description": "How you can watch Wales vs Portugal in the Nations League for free online from anywhere in the world, with TV channels, kick-off time included.",
     "categories": [
       "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-17T17:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/kmMGBFTFszqFdAJUGPA39c-1920-80.jpg",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/hMP8TGgY4CBpDB6HjaiLn9-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -1748,7 +1844,6 @@
     "title": "How to hide the new macOS 27.3 menu bar indicator",
     "description": "macOS 27.3 beta 2 adds a blue menu bar indicator for apps using System & App Protection Override. Apple describes itas a transparency indicator that appears when one app is controlling another.\n\n\n\nIf you regularly use trusted automation tools and utilities, that can mean a persistent pill taking up space in your menu bar. Prefer to hide it? There’s a Terminal workaround.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-17T15:02:18+00:00",
@@ -2279,99 +2374,5 @@
     "pub_date": "2026-11-17T14:00:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Xreal.Aura_.1.jpg",
     "source_name": "CNET.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/the-hunger-games-sunrise-on-the-reaping-review",
-    "title": "Sunrise on the Reaping review: The biggest and boldest Hunger Games yet",
-    "description": "\"The Hunger Games: Sunrise on the Reaping\" is a brutal tragedy, a thrilling spectacle, and a call to action all in one.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T14:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01pam7hT5oxfCCX8dpH3rGB/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/oura-ring-jet-lag-plan",
-    "title": "Oura launches Jet Lag Plan, letting users hack their travel",
-    "description": "As of Nov. 17, Oura Ring launched Jet Lag Plan, a new feature to help users hack travel across time zones so they can stay on top of their game.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T14:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/062Zx5Nhe31Oawl4FTELJ3U/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
-    "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-    "description": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
-    "categories": [
-      "AI & Machine Learning",
-      "Social & Media",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-17T14:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
-    "title": "Genesis AI raises $500M to deploy glove-wearing robots",
-    "description": "Genesis AI's novel approach to training dexterous robots earned it $500 million in Series A funding.",
-    "categories": [
-      "Breaking News",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-17T14:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/17/kaseya-on-msps-cybersecurity-and-managing-apple-in-one-platform/",
-    "title": "Apple Work Podcast: Kaseya on MSPs, cybersecurity, and managing Apple in one platform",
-    "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\n\n\n\nIn this episode of Apple @ Work, Johnny Ghibril from Kaseya joins the show the changing role of MSPs in cybersecurity, managing Apple devices within unified RMM platforms, and how new tools are shaping the future of IT management for small and medium businesses.\n\n\n\n\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T14:00:00+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/17/upside-foods-can-now-make-one-million-pounds-of-chicken-each-year-without-killing-a-single-animal/",
-    "title": "Upside Foods can now make a million pounds of chicken a year without killing any animals",
-    "description": "The first ever lab-grown hamburger cost $300,000 to make in 2013. Upside Foods says its cultivated chicken can now match the price range of “really high-quality organic chicken.\"",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-17T14:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
-    "title": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
-    "description": "Alongside CEO Leslie Morgan, Hank Green set out to create the video platform he wished his kid had.",
-    "categories": [
-      "Business & Startups",
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-17T14:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/nearly-half-of-linkedin-users-would-like-to-start-their-own-business-with-younger-workers-particularly-keen",
-    "title": "Nearly half of LinkedIn users would like to start their own business — with younger workers particularly keen",
-    "description": "Younger generations are starting their own businesses for greater control, flexibility and earning potential, LinkedIn says.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T14:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/tVU8k3Apu3kqrTTGSzyYGd-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
