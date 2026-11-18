@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+    "title": "Stripe backer Atomico calls for Europe to own its success stories",
+    "description": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-11-18T00:01:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2320041/oregon-is-the-latest-state-to-sue-openai-over-child-safety/",
+    "title": "Oregon is the latest state to sue OpenAI over child safety",
+    "description": "Oregon's Attorney General filed a lawsuit against the maker of ChatGPT over alleged child safety issues.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-17T23:45:32+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/oregon-is-the-latest-state-to-sue-openai-over-child-safety/l-intro-1794959005.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
     "title": "Satya Nadella says he’s AGI-pilled now",
     "description": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked",
@@ -1193,7 +1217,6 @@
     "title": "Google Wallet is launching on iOS",
     "description": "In case you, for some reason, don't want to use the nearly identical Apple Wallet.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-17T19:33:27+00:00",
@@ -1269,10 +1292,9 @@
   },
   {
     "link": "https://www.techmeme.com/261117/p48#a261117p48",
-    "title": "Apple's System Status page shows an outage affecting some services; Apple says an \"internal update caused some outages\" (Sarah Perez/TechCrunch)",
-    "description": "Sarah Perez / TechCrunch:\nApple's System Status page shows an outage affecting some services; Apple says an “internal update caused some outages”  —  After a recent slew of tech outages, service disruptions, and flight chaos this week, now it's Apple customers who are facing technical issues.",
+    "title": "Apple's System Status page shows all outages have been resolved; Apple says an \"internal update caused some outages\" (Sarah Perez/TechCrunch)",
+    "description": "Sarah Perez / TechCrunch:\nApple's System Status page shows all outages have been resolved; Apple says an “internal update caused some outages”  —  After a recent slew of tech outages, service disruptions, and flight chaos this week, now it's Apple customers who are facing technical issues.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-17T19:25:01+00:00",
@@ -1780,7 +1802,6 @@
     "title": "When will GTA 6 be available on Xbox Game Pass and Cloud Gaming?",
     "description": "An Xbox Game Pass subscription gets you access to 'GTA 6' in a sense, but not the way you might think.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-17T17:55:25+00:00",
@@ -1803,7 +1824,6 @@
     "title": "OpenAI upgrades ChatGPT and Codex with new GPT-6.2 Astra and Sol models",
     "description": "OpenAI kicked off the GPT-6 generation with Astra in September, then upgraded Sol to GPT-6.1 a few weeks later at DevDay.\n\n\n\nToday, GPT-6.2 Astra and GPT-6.2 Sol are coming to ChatGPT Work and Codex together. OpenAI says both can finish demanding tasks with fewer output tokens, so you can get more done before hitting your usage limit.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-17T17:51:47+00:00",
@@ -1815,7 +1835,6 @@
     "title": "Apple services hit by widespread outage; users flag problems with iCloud, App Store and Apple Pay",
     "description": "Multiple Apple services, including iCloud, Apple Pay, App Store and Apple Music, are seeing a surge in outage reports across the US, according to reports.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-17T17:51:41+00:00",
@@ -1850,7 +1869,6 @@
     "title": "The Google Wallet app is now available on iOS",
     "description": "Google Wallet is now available on iOS to “organize purchases, tickets, boarding passes, and more in one easy place” in the US.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-17T17:49:25+00:00",
@@ -2306,28 +2324,5 @@
     "pub_date": "2026-11-17T16:50:56+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/01P3FNWOHKXHjhuZWCNYdcm/hero-image.png",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/google-labs-buys-howie-ai-scheduling-agent",
-    "title": "Google buys Howie, an AI assistant that books your meetings",
-    "description": "Google Labs has bought Howie, an AI scheduling tool that users copy into emails to arrange meetings, Bloomberg reported. Terms were not disclosed; PitchBook valued Howie at $14M in 2024. Google said it wants to build AI tools for small businesses with the team. Google has bought Howie, an AI tool that schedules meetings and",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-17T16:50:13+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/google-office-entrance-logo-glass-facade.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
-    "title": "Google makes it easier to use Gemini without training AI on your data",
-    "description": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-11-17T16:50:10+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
   }
 ]
