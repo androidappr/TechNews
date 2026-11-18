@@ -49,6 +49,17 @@
     "source_name": "TECHMEME.COM"
   },
   {
+    "link": "https://mashable.com/entertainment/gta-6-animals-wildlife-guide",
+    "title": "Alligators, pet snakes, a dog on a jet ski. Meet the animals of GTA 6.",
+    "description": "Explore the animals in GTA 6, from cats and dogs to alligators and manatees. Find out how to pet animals, use the wildlife logbook, fish, and hunt.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-18T20:02:57+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/04T0gfUB6284kbLyHZ2qeak/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.wired.com/story/australia-neil-the-seal-management-plan/",
     "title": "Australia’s Plan to Manage Neil the Unruly Seal Involves ‘Hazing’ and ‘Seal Enrichment’",
     "description": "The new 27-page document lays out how to keep the Tasmania’s viral marine mammal from wreaking havoc when he comes ashore.",
@@ -1330,8 +1341,7 @@
     "title": "Amid AI Industry Chaos, Microsoft and OpenAI Drop New Models for Coding and Work",
     "description": "While Nvidia and Anthropic are under the spotlight, OpenAI and Microsoft dropped several new models this week.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-18T16:28:38+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2294922440.jpg",
@@ -1366,7 +1376,6 @@
     "title": "Cybersecurity company Xint says it found RCE vulnerabilities in Nginx using GPT 6.1 Sol and GPT-6 Luna; Wiz says it had separately found the same flaws (Thomas Brewster/Forbes)",
     "description": "Thomas Brewster / Forbes:\nCybersecurity company Xint says it found RCE vulnerabilities in Nginx using GPT 6.1 Sol and GPT-6 Luna; Wiz says it had separately found the same flaws  —  Darpa-backed cyber company tells Forbes its AI is finding all kinds of vulnerabilities, including one in NGINX, a massively popular web server tool.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-18T16:25:01+00:00",
@@ -2363,19 +2372,6 @@
     ],
     "pub_date": "2026-11-18T14:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258010_Black_friday_cyber_monday_CVirginia_PRICE2.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
-    "title": "Will Wright’s next game uses AI to map your memories",
-    "description": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving players a new way to explore worlds they create on their own.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Gaming"
-    ],
-    "pub_date": "2026-11-18T14:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Grand-Canyon-Family-Portrait.png?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
   }
 ]
