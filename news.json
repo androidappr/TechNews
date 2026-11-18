@@ -1,5 +1,76 @@
 [
   {
+    "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+    "title": "Trump’s latest land grab is an AI hub in the Philippines",
+    "description": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump rallies, as more girls in traditional",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-18T19:40:36+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305507602.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/the-detail-focused-elegoo-saturn-4-ultra-16k-is-now-usd399-thats-a-usd251-discount-ahead-of-black-friday",
+    "title": "The detail-focused Elegoo Saturn 4 Ultra 16K is now $399 - that’s a $251 discount ahead of Black Friday",
+    "description": "The detail-focused Elegoo Saturn 4 Ultra 16K is now $399 - that’s a $251 discount",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-18T19:40:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/8kYowymuxaY3Yo3bJiKBWT-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/13-years-of-anticipation-deserves-a-day-off-the-gta-vi-work-blackout-is-here/",
+    "title": "The ‘GTA 6’ Work Blackout Is Here",
+    "description": "From taking sick days and vacation days to gaming at the office, many are going all out to embrace the franchise’s long-awaited release.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-11-18T19:34:55+00:00",
+    "image_url": "https://media.wired.com/photos/6afde131962f4b78357718b8/master/pass/GTA-Work-Blackout-Culture-2303488647.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/fubos-subscribers-disney-plus-hulu-bundle-free/",
+    "title": "Fubo’s Pro and Elite Subscribers Now Get the Disney Plus and Hulu Bundle Free",
+    "description": "The ad-supported Disney Plus and Hulu bundle is now available at no cost for eligible Fubo subscribers.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-18T19:31:33+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/93615edb-ab57-4f65-8752-794ba7cd6677.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
+    "title": "Best Buy sells Blu-rays online and in-store again",
+    "description": "Popular titles like The Odyssey are being “sold & shipped by Best Buy.\"",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-18T19:31:17+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/odyssey16-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/apps-software/a-digital-social-security-card-it-has-me-skeptical-but-google-wallet-might-do-it",
+    "title": "A digital Social Security card? It has me skeptical, but Google Wallet might do it",
+    "description": "Google Wallet may plan to digitize your Social Security card. As worrisome as this sounds, it might also include details about your Medicare benefits.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-18T19:30:43+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/yn9qGuZok7LNMr7ARZkrAS-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
     "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
     "description": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a series of",
@@ -75,7 +146,7 @@
   {
     "link": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
     "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
-    "description": "Erratic Muse outputs sharing random bank, Bitcoin balances aren’t real, Meta says.",
+    "description": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -136,6 +207,18 @@
     "pub_date": "2026-11-18T19:07:29+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.cnet.com/tech/services-and-software/nvidia-earnings-call-ai-economy-stress-test/",
+    "title": "Nvidia’s Earnings Calmed Markets, but AI’s Harsh Reckoning Marches On",
+    "description": "Jensen Huang’s departure was only a symptom of a bigger problem in the AI economy.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-18T19:06:14+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2298607332.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://www.techradar.com/pro/two-hpe-juniper-routers-were-reportedly-behind-the-faa-nationwide-ground-stop-which-grounded-all-us-flights",
@@ -437,20 +520,6 @@
     "source_name": "ZDNET.COM"
   },
   {
-    "link": "https://www.theverge.com/tech/1036796/google-android-app-games-developers-foldables-support",
-    "title": "Google is forcing Android app developers to properly support foldables",
-    "description": "Now that Apple's foldable is here, Google wants to make sure apps on Android foldables are a good experience. Starting in April 2027, Google is going to require Android developers to make sure their apps have a baseline level of support for foldables. If they don't, developers risk not being able to publish or update",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware",
-      "Gaming",
-      "Mobile & Telecom"
-    ],
-    "pub_date": "2026-11-18T18:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google-pixel-11-pro-fold-01.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.engadget.com/2320788/gta-vi-launch-day-live-blog/",
     "title": "GTA 6 launch day: Live updates on the biggest game of the year",
     "description": "We're playing, you're playing, everyone's playing. Come join us as we share everything we find out about Rockstar's biggest game.",
@@ -496,6 +565,20 @@
     "pub_date": "2026-11-18T18:00:00+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Sacrebleu-f4-living-room-scaled.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1036796/google-android-app-games-developers-foldables-support",
+    "title": "Google is forcing Android app developers to properly support foldables",
+    "description": "Now that Apple's foldable is here, Google wants to make sure apps on Android foldables are a good experience. Starting in April 2027, Google is going to require Android developers to make sure their apps have a baseline level of support for foldables. If they don't, developers risk not being able to publish or update",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Gaming",
+      "Mobile & Telecom"
+    ],
+    "pub_date": "2026-11-18T18:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google-pixel-11-pro-fold-01.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/uk-government-plan-to-cut-ev-targets-is-a-truly-terrible-decision-critics-say-as-networks-warn-public-charging-could-hit-gbp1-kwh-in-2027",
@@ -2290,87 +2373,5 @@
     "pub_date": "2026-11-18T13:30:06+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/microsoft-copilot.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/nov-17-uber-eats-amazon-prime-early-black-friday-sale",
-    "title": "Prime members can get $20 off dinner with this Uber Eats deal — last chance to claim",
-    "description": "Prime members can get $20 off their first two qualifying Uber Eats orders through Amazon, plus $0 delivery fees on orders of $25+.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-18T13:22:56+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04vgBBAi5iYI0SM08BDWEd4/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/nov-18-samsung-27-inch-odyssey-oled-g5-gaming-monitor-deal",
-    "title": "Play GTA 6 in OLED with $130 off this Samsung Odyssey monitor in Amazons early Black Friday sale",
-    "description": "Play 'GTA 6' on Samsung's 27-inch Odyssey OLED G5 monitor, now down to $319.99 at Amazon in an early Black Friday deal.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-18T13:20:22+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05S1ejMZCuYT6K4olkxeaux/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/eu-ai-budget-open-letter-elevenlabs-lovable-deepl-lecun",
-    "title": "ElevenLabs, Lovable and DeepL bosses urge EU to fund AI in its next budget",
-    "description": "The chief executives of ElevenLabs, Lovable, DeepL and Source want the EU to set aside dedicated money for AI in its 2028 to 2034 budget. They are among 59 signatories of an open letter released on Wednesday. The signatories come from science, technology and business, across all 27 member states. Others include Yann LeCun, Nobel",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-18T13:18:11+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/yann-lecun-ami-labs-open-arms-raise-summit-paris.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/life/nov-18-magic-the-gathering-marvel-super-heroes-jumpstart-booster-box-deal",
-    "title": "Amazon has cut the price of Magic: The Gatherings Marvel Super Heroes Jumpstart Booster Box to a record low",
-    "description": "Amazon drops the MTG Marvel Super Heroes Jumpstart Booster Box to a record-low $104.90 ahead of Black Friday, saving you $15.09.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-18T13:17:07+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00GRDDLO6laYcdPdNxNwUiY/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261118/p19#a261118p19",
-    "title": "A US court sentences Tyler Robert Buchanan, a 24-year-old British leader of Scattered Spider, to six years in prison for phishing and stealing $11.6M in crypto (Sergiu Gatlan/BleepingComputer)",
-    "description": "Sergiu Gatlan / BleepingComputer:\nA US court sentences Tyler Robert Buchanan, a 24-year-old British leader of Scattered Spider, to six years in prison for phishing and stealing $11.6M in crypto  —  A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-18T13:15:01+00:00",
-    "image_url": "http://www.techmeme.com/261118/i19.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/oura-founders-back-vire-healths-waist-worn-temperature-tracker-for-women",
-    "title": "Oura founders back Vire Health’s waist-worn temperature tracker for women",
-    "description": "Finnish startup Vire Health has launched a programme that gives 100 women early access to a wearable that tracks body temperature from the waist. The company announced Vire 100 at the Slush tech conference in Helsinki on Wednesday. Participants will buy the first-generation Vire Clip for €449 and help develop it. They will join weekly",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-18T13:10:26+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/vire-clip-worn-on-waistband.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://9to5google.com/2026/11/18/vwfndr-mbl-camera-app-color-grading-android-iphone-release/",
-    "title": "The Android camera app that doesn’t overprocess adds new color grading sets, expands to iPhone",
-    "description": "VWFNDR + MBL, an Android camera app that doesn’t overprocess and delivers high-quality DNG (RAW) files, is getting a 2.0 release with improved color grading and an expansion to the iPhone.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-18T13:10:02+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/vwfndr-android-camera-app.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5GOOGLE.COM"
   }
 ]
