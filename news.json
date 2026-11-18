@@ -1,5 +1,66 @@
 [
   {
+    "link": "https://thenextweb.com/news/microsoft-copilot-cheaper-than-claude-chatgpt-ignite",
+    "title": "Microsoft says Copilot beats Claude and ChatGPT on price",
+    "description": "Microsoft told its Ignite conference that businesses choose Copilot over Anthropic’s Claude and OpenAI’s ChatGPT because it is cheaper to run, citing a study it commissioned from GigaOm. Anthropic says non-coding Claude Enterprise users spend under $75 a month, well below the study’s $205 figure. Microsoft says companies are choosing its Copilot AI assistant over",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-18T20:10:01+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/microsoft-logo-office-building.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+    "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
+    "description": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-18T20:07:01+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/18/apple-among-the-companies-facing-pressure-from-us-senators-over-nudify-apps/",
+    "title": "Apple among the companies facing pressure from US senators over ‘nudify’ apps",
+    "description": "The Guardian reports that three US senators have sent letters to the CEOs of Apple, Google, and Meta, demanding answers about their failure to prevent access to AI-powered ‘nudify’ apps. Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-18T20:05:10+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/App-Store-fraud.webp?w=1500",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261118/p39#a261118p39",
+    "title": "Google rebrands its Gemini Spark AI agent as Tasks and makes it free in six countries; in the US it can call businesses and buy items with Google Pay (Emma Roth/The Verge)",
+    "description": "Emma Roth / The Verge:\nGoogle rebrands its Gemini Spark AI agent as Tasks and makes it free in six countries; in the US it can call businesses and buy items with Google Pay  —  Tasks in Gemini allows the AI agent to call businesses on your behalf, purchase items with Google Pay, and more.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-18T20:05:02+00:00",
+    "image_url": "http://www.techmeme.com/261118/i39.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/australia-neil-the-seal-management-plan/",
+    "title": "Australia’s Plan to Manage Neil the Unruly Seal Involves ‘Hazing’ and ‘Seal Enrichment’",
+    "description": "The new 27-page document lays out how to keep the Tasmania’s viral marine mammal from wreaking havoc when he comes ashore.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-18T19:59:15+00:00",
+    "image_url": "https://media.wired.com/photos/6afdf5886a27dda013bf5998/master/pass/2026-07-06T063630Z_730025260_MT1AAP000JVGO6Y_RTRMADP_3_NEIL-THE-SEAL.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
     "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
     "description": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
@@ -1448,8 +1509,7 @@
     "title": "Google Home’s latest update could make your house keys a thing of the past",
     "description": "Google is improving its smart home ecosystem with a handful of practical features that make home security, energy management, and everyday voice interactions more convenient.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-18T16:09:25+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-Home-Logo.jpg?resize=440%2C292&ssl=1",
@@ -1496,7 +1556,6 @@
     "title": "Ahead of Anthropic's IPO, CAIS and others sign the MisAnthropic Statement, challenging the company's \"safety\" branding and its \"reckless attempt\" to build RSI (Center for AI Safety)",
     "description": "Center for AI Safety:\nAhead of Anthropic's IPO, CAIS and others sign the MisAnthropic Statement, challenging the company's “safety” branding and its “reckless attempt” to build RSI  —  Ahead of Anthropic's upcoming initial public offering, the Center for AI Safety (CAIS) …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-18T16:01:45+00:00",
@@ -2318,63 +2377,5 @@
     "pub_date": "2026-11-18T14:00:00+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Grand-Canyon-Family-Portrait.png?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/science/robotics/our-most-advanced-audio-animatronics-in-the-world-disney-imagineering-reveals-how-aws-ai-brings-the-star-wars-anzellans-to-life",
-    "title": "'This is not about short-term playtests’ — Disney's AI-powered Star Wars Anzellans offer a glimpse at the future of its parks",
-    "description": "Disney Imagineering and AWS reveal how AI is bringing three Star Wars Anzellans to life, creating its most advanced Audio-Animatronics yet — and offering a glimpse at the future of character interactions across Disney Parks.",
-    "categories": [
-      "Breaking News",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-18T14:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/5YPomWidgvULepJVKQoD7T-1920-80.gif",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/televisions/soundbars/the-best-soundbars-for-gta-6",
-    "title": "The best soundbars for GTA 6: amazing options for all budgets",
-    "description": "Want to get the best out of GTA 6 on PS5 or XBox? These are the soundbars I’d recommend to experience the game’s “cinematic” audio at its finest.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-18T14:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/HKtjHfA9yh6mMsB8atXqjn-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/life/chipotle-hoodie-release-how-to-buy",
-    "title": "Chipotles new hoodie hides a warm burrito in your pocket — how to buy this much-needed drop",
-    "description": "Chipotle is dropping its limited-edition 'Sneak It In' hoodie on Nov. 18 at 12 p.m. EST for $53, complete with a hidden insulated burrito pocket and a free entrée card.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-18T13:56:33+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/049kZpG3IAFjHZUA4ivvETp/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.zdnet.com/tech/ubuntu-27-04-april-release-new-features-performance/",
-    "title": "I’ve tested Ubuntu 27.04 ahead of its April release – and it will wow you",
-    "description": "I’ve been using Ubuntu 27.04, and the speed boost is noticeable. Here’s what else is coming.",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-18T13:46:55+00:00",
-    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/tenacioushero.jpg",
-    "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/defiance-act-paris-hilton-aoc-house-deepfakes",
-    "title": "Paris Hilton and AOC press the House to pass the Defiance Act on deepfakes",
-    "description": "Paris Hilton and Representative Alexandria Ocasio-Cortez asked the House on Tuesday to vote on the Defiance Act. The bill would let victims of sexually explicit deepfakes sue the people who make and share them. The Senate passed it by unanimous consent in January. The House has never voted on it. Hilton spoke on the steps",
-    "categories": [
-      "AI & Machine Learning",
-      "Cybersecurity & Privacy",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-18T13:44:52+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/ocasio-cortez-hilton-lee-defiance-act-capitol-press-conference.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
