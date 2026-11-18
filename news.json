@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://thenextweb.com/news/citi-and-jpmorgan-reportedly-add-chip-curbs-clause-to-bain-data-centre-loan",
+    "title": "Citi and JPMorgan reportedly add chip-curbs clause to Bain data centre loan",
+    "description": "Citigroup and JPMorgan Chase have added terms to a potential loan for Bain Capital-owned Bridge Data Centres that make the borrower responsible for following US chip rules, Bloomberg reported. The loan could grow to $6.6bn. The wording covers US export controls and the Commerce Department’s Entity List, people familiar with the talks told Bloomberg. The",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-18T09:39:21+00:00",
+    "image_url": "https://media.thenextweb.com/2026/06/JPMorgan.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/nvidia-rejects-jensen-huang-ceo-comeback/",
+    "title": "Nvidia shuts down Jensen Huang’s comeback plans after his public offer to return",
+    "description": "Nvidia‘s board has just made it clear that its former CEO Jensen Huang is not coming back to run the company, despite the massive support he has received from some of the biggest names in Silicon Valley. Interim CEO Colette Kress confirmed the decision during an interview with CNBC’s Jim Cramer on Tuesday, just hours",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-18T09:34:53+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/01/nvidia-jensen-1.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/donald-trump-jr-tells-axios-investors-underestimated-the-ai-backlash",
     "title": "Donald Trump Jr tells Axios investors underestimated the AI backlash",
     "description": "Donald Trump Jr has signalled that investors underestimated the political backlash against AI, Axios reported on Tuesday. He spoke to Axios Pro Rata author Dan Primack at the outlet’s BFD summit in New York. Primack asked whether investors, or Trump Jr himself, had underestimated the populist pushback. Trump Jr said he thought they had seen",
@@ -2241,27 +2265,5 @@
     "pub_date": "2026-11-17T19:02:53+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/anthropic-sign-office-building-entrance.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/phones/the-possibility-of-a-bezel-free-samsung-galaxy-smartphone-might-be-closer-than-you-realize/",
-    "title": "A bezel-free Samsung Galaxy smartphone might be closer than you realize",
-    "description": "Samsung is reportedly working on an advanced bezel-less display for a future Galaxy device. While technical specifics remain under wraps, recent leak points to Samsung's mobile division pushing the envelope toward an immersive, all-screen design.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-17T19:02:42+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/01/Galaxy-TriFold-HandsOn-04-scaled.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-    "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-    "description": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-17T19:02:20+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
   }
 ]
