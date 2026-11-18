@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+    "title": "Remember the frontier AI pause? Chip companies don’t either",
+    "description": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models, warning that they could be used",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-18T15:44:02+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Vera-Rubin-NVL72.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/voyager-1-one-light-day-from-earth",
+    "title": "Voyager 1 is now one light-day from Earth, a first for any spacecraft",
+    "description": "NASA’s Voyager 1 is now one light-day from Earth, the first human-made object to get that far. The probe was due to cross the line at 5:16am Eastern time on Wednesday, 18 November, according to NASA. That puts it about 25.9bn km (16.1bn miles) away, the distance light travels in 24 hours. A radio signal",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-18T15:38:50+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/voyager-spacecraft-illustration-deep-space-nasa-jpl.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261118/p29#a261118p29",
     "title": "An interview with philosopher Thomas Nagel, who won a $1M prize for contributions to consciousness and says the notion of AI consciousness is \"just ridiculous\" (Steven Levy/Wired)",
     "description": "Steven Levy / Wired:\nAn interview with philosopher Thomas Nagel, who won a $1M prize for contributions to consciousness and says the notion of AI consciousness is “just ridiculous”  —  Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field.",
@@ -494,6 +518,29 @@
     "pub_date": "2026-11-18T14:01:06+00:00",
     "image_url": "http://www.techmeme.com/261118/i20.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://gizmodo.com/nvidia-rtx-spark-desktops-2000841341",
+    "title": "Nvidia’s RTX Spark Desktops Imagine They Can Actually Compete With the Mac Studio",
+    "description": "Nvidia seems to think you'd rather spend $20 on an electric bill than $1,200 on AI tokens. That doesn't mean these PCs are cheap.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-18T14:00:52+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/11/RTX-Spark-Desktops-1-1280x853.jpg",
+    "source_name": "GIZMODO.COM"
+  },
+  {
+    "link": "https://gizmodo.com/robert-downey-jr-s-marvel-return-was-apparently-in-the-works-longer-than-we-thought-2000841422",
+    "title": "Robert Downey Jr.’s Marvel Return Was Apparently in the Works Longer Than We Thought",
+    "description": "Kevin Feige says Doctor Doom was in the picture even before 'Avengers: The Kang Dynasty' was scrapped.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-18T14:00:28+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/08/Doomsday_SpecialLook-1280x853.jpg",
+    "source_name": "GIZMODO.COM"
   },
   {
     "link": "https://www.theverge.com/gadgets/1034715/how-the-verge-finds-deals",
@@ -1255,7 +1302,6 @@
     "title": "Scientists built a drone that spins like a top to see in every direction, and it’s pretty genius",
     "description": "Researchers at the University of Hong Kong have developed a single-propeller autonomous drone that spins its body to map surroundings in every direction, navigate obstacles without GPS, and survive controlled collisions.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-18T11:38:33+00:00",
@@ -1560,18 +1606,6 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
-    "link": "https://www.theverge.com/games/1035801/grand-theft-auto-6-review",
-    "title": "Grand Theft Auto VI does something impossible — it lives up to the hype",
-    "description": "How do you follow a game like Grand Theft Auto V? Thirteen years ago, Rockstar's crime-fueled epic went on to redefine what an open-world game could be and became an enormous success, selling more than 230 million copies across three generations of game consoles. It sits just behind Tetris and Minecraft on the list of",
-    "categories": [
-      "Breaking News",
-      "Gaming"
-    ],
-    "pub_date": "2026-11-18T11:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GTAVI-17-copy.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.wired.com/story/germ-dm-is-now-available-on-android/",
     "title": "Exclusive: Germ DM Is a Signal Alternative That’s Now on Android",
     "description": "Germ DM is an encrypted messaging platform that uses “burner cards” instead of phone numbers or usernames to compartmentalize your conversations.",
@@ -1593,6 +1627,18 @@
     "pub_date": "2026-11-18T11:00:00+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/GTA-6-lede.jpg",
     "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.theverge.com/games/1035801/grand-theft-auto-6-review",
+    "title": "Grand Theft Auto VI does something impossible — it lives up to the hype",
+    "description": "How do you follow a game like Grand Theft Auto V? Thirteen years ago, Rockstar's crime-fueled epic went on to redefine what an open-world game could be and became an enormous success, selling more than 230 million copies across three generations of game consoles. It sits just behind Tetris and Minecraft on the list of",
+    "categories": [
+      "Breaking News",
+      "Gaming"
+    ],
+    "pub_date": "2026-11-18T11:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GTAVI-17-copy.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.theverge.com/entertainment/1035806/grand-theft-auto-6-rob-nelson-interview",
@@ -2137,7 +2183,6 @@
     "description": "Nvidia‘s board has just made it clear that its former CEO Jensen Huang is not coming back to run the company, despite the massive support he has received from some of the biggest names in Silicon Valley. Interim CEO Colette Kress confirmed the decision during an interview with CNBC’s Jim Cramer on Tuesday, just hours",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-18T09:34:53+00:00",
@@ -2306,51 +2351,5 @@
     "pub_date": "2026-11-18T09:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/01X5kezr1rfwMyJhvMGytb5/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/gta-6-new-zealand-release-date-time-kiwis",
-    "title": "GTA 6 New Zealand release time: The internet goes completely Kiwi",
-    "description": "As GTA 6 players changed their console settings to try the New Zealand trick, the internet has noticed the sudden increase in Kiwis online.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-18T08:58:38+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00b80aEmGfmWYzXfSxI9Meh/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/cambridge-dictionary-names-human-its-word-of-the-year-as-ai-spreads",
-    "title": "Cambridge Dictionary names ‘human’ its word of the year as AI spreads",
-    "description": "Cambridge Dictionary has named human its word of the year for 2026. It said the rise of AI has given the word new weight, the Guardian reported. The dictionary defines human as “having the qualities, faults and feelings that people have, as opposed to gods, animals or machines.” “AI is changing how we talk about",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-11-18T08:56:38+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/silhouettes-watching-blue-light-installation.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/home/apples-299-homeview-is-a-nightmare-to-repair-and-ifixits-teardown-shows-why/",
-    "title": "Apple’s $299 HomeView is a nightmare to repair, and iFixit’s teardown shows why",
-    "description": "Excessive adhesive, a risky internal design, and questionable hardware differences between two equally priced models make Apple's HomeView a rather frustrating proposition.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-18T08:47:17+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/DT-2026-10-14T232557.258.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/elton-john-urges-australia-to-protect-artists-from-ai-at-the-aria-awards",
-    "title": "Elton John urges Australia to protect artists from AI at the Aria awards",
-    "description": "Elton John used a pre-recorded message at the Aria awards in Sydney on Wednesday to urge the Australian government to protect artists from AI firms, the Guardian reported. He backed Not AI’s To Take, a new campaign by the creative and media industries. “You have a duty to protect Australian artists and their work. Don’t",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-18T08:43:01+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/elton-john-red-piano-stage.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
