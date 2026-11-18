@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.techradar.com/computing/wi-fi-broadband/no-gta-6-didnt-break-the-australian-internet-but-it-sure-did-break-records",
+    "title": "No, GTA 6 didn't break the Australian internet, but it sure did break records",
+    "description": "Grand Theft Auto 6's large file size and immense popularity has contributed to a new record for internet traffic recorded on the NBN network.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-11-18T05:03:03+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/msqxKc2DdecnXznL2apwAA-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+    "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
+    "description": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-18T05:01:00+00:00",
+    "image_url": "https://media.wired.com/photos/6afcfa9cd76c36e8270ca841/master/pass/GenZ-AI-Friendship-Culture.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261117/p73#a261117p73",
     "title": "YouTube is rolling out an update to include \"co-views\", or the estimated number of people watching together on TV, in the public view counts for videos (Emma Roth/The Verge)",
     "description": "Emma Roth / The Verge:\nYouTube is rolling out an update to include “co-views”, or the estimated number of people watching together on TV, in the public view counts for videos  —  YouTube view counts will now include estimates of how many people are watching a video together on TV.",
@@ -215,7 +239,6 @@
     "title": "Hackers Are Using AI to Speed Through Cyberattacks, FBI Warns",
     "description": "The agency says Artex is helping attackers target organizations worldwide, including banks, government agencies and healthcare providers.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-18T01:15:09+00:00",
@@ -227,7 +250,6 @@
     "title": "Sources: Wall Street execs and the NSA told Congress this week's outages stemmed from systems overwhelmed by a rush to patch vulnerabilities found by AI models (Jeff Stein/The Washington Sun)",
     "description": "Jeff Stein / The Washington Sun:\nSources: Wall Street execs and the NSA told Congress this week's outages stemmed from systems overwhelmed by a rush to patch vulnerabilities found by AI models  —  Wall Street executives and the National Security Agency have told members of Congress that this week's widespread tech outages …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-18T01:15:01+00:00",
@@ -432,8 +454,7 @@
     "title": "You can now see and edit what Google Gemini remembers about you",
     "description": "Editing the AI's memory is one way you can shape its responses.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-18T00:00:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/you-can-now-see-and-edit-what-google-gemini-remembers-about-you/l-intro-1794427961.jpg",
@@ -515,7 +536,6 @@
     "title": "iFixit tears down Apple HomeView, finds lots of glue and endless frustration",
     "description": "iFixit’s teardown of the new Apple HomeView is now up, revealing a device that seems nearly impossible to take apart and repair. Watch it below.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-17T23:36:09+00:00",
@@ -562,7 +582,6 @@
     "title": "Apple HomeView teardown: a step backward in repairability compared to recent iPads and HomePods, with heavily glued display, speakers, and logic board (Carsten Frauenheim/iFixit News)",
     "description": "Carsten Frauenheim / iFixit News:\nApple HomeView teardown: a step backward in repairability compared to recent iPads and HomePods, with heavily glued display, speakers, and logic board  —  Apple's first iPad-stuck-to-a-HomePod smarthome hub landed on our teardown table this week, and we figured we knew what we were getting into.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-17T23:15:01+00:00",
@@ -607,7 +626,6 @@
     "title": "Google exec runs Windows 11 on a $1,999 iPhone Duo with Gemini 4 Carbon, but it might not be the easiest way to go about it",
     "description": "Windows 11 now runs on Apple's foldable iPhone Duo, built with Gemini 4 Carbon in two hours, atop open source work.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-17T23:05:00+00:00",
@@ -620,7 +638,6 @@
     "description": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware"
     ],
@@ -2256,27 +2273,5 @@
     "pub_date": "2026-11-17T17:50:22+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261117/p42#a261117p42",
-    "title": "An interview with OpenAI President Greg Brockman, who says he is in \"full management mode\", as he focuses on corporate customers and tools for cybersecurity (Jemima McEvoy/The Information)",
-    "description": "Jemima McEvoy / The Information:\nAn interview with OpenAI President Greg Brockman, who says he is in “full management mode”, as he focuses on corporate customers and tools for cybersecurity  —  In August, OpenAI President Greg Brockman called up Denise Dresser, then the company's chief revenue officer …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T17:50:02+00:00",
-    "image_url": "http://www.techmeme.com/261117/i42.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://9to5google.com/2026/11/17/google-wallet-ios-app/",
-    "title": "The Google Wallet app is now available on iOS",
-    "description": "Google Wallet is now available on iOS to “organize purchases, tickets, boarding passes, and more in one easy place” in the US.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T17:49:25+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Google-Wallet-iOS-1.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5GOOGLE.COM"
   }
 ]
