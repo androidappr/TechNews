@@ -1,5 +1,43 @@
 [
   {
+    "link": "https://thenextweb.com/news/nvidia-q3-earnings-board-rules-out-jensen-huang-return",
+    "title": "Nvidia rules out Jensen Huang’s return as revenue doubles to $115.8bn",
+    "description": "Nvidia’s board has ruled out bringing Jensen Huang back as chief executive. Board chair Harvey Jones said so at the start of Tuesday’s earnings call. That was hours after Huang offered to return in a public statement. “The Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO,” Jones said.",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-18T08:09:53+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/nvidia-voyager-headquarters-santa-clara-logo-sign.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/nvidias-latest-chip-scandal-has-an-alibaba-connection-new-report-claims/",
+    "title": "Nvidia’s latest chip scandal has an Alibaba connection, new report claims",
+    "description": "Nvidia's sales team reportedly connected Alibaba with Alice Huang in 2022, helping establish a chip-rental business relationship that later came under scrutiny amid US investigations into suspected semiconductor smuggling.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-18T08:04:54+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Jensen-Huang-NVIDIA.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/human-beat-agent-as-cambridge-dictionary-word-of-the-year-its-a-grim-reminder-of-our-current-reality/",
+    "title": "‘Human’ beat ‘agent’ as Cambridge dictionary word of the year. It’s a grim reminder of our current reality.",
+    "description": "Cambridge Dictionary has selected “human” as its word of the year for 2026, and it’s quite a grim reflection of the reality we’re currently living in. In its official announcement, the folks behind the dictionary noted that the rise of AI content across every domain of our lives has given us a newfound appreciation for",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-18T08:01:40+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Cambridge-Dictionary-Word-of-the-year-2026-hero-scaled.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/parallels-desktop-review",
     "title": "Parallels Desktop review",
     "description": "Improved graphics support with OpenGL 4.3 and AI functionality makes it the undisputed champion of VMs on MacOS",
@@ -345,6 +383,7 @@
     "title": "Sources: a faction of Nvidia board members is pushing for Jensen Huang's return despite Chair Harvey Jones stating the board has no plans to reinstate Huang (Semafor)",
     "description": "Semafor:\nSources: a faction of Nvidia board members is pushing for Jensen Huang's return despite Chair Harvey Jones stating the board has no plans to reinstate Huang  —  Despite Nvidia's proclamation Tuesday that it didn't plan to bring ousted CEO Jensen Huang back to the chipmaker …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-18T02:50:08+00:00",
@@ -2222,39 +2261,5 @@
     "pub_date": "2026-11-17T18:21:55+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC01222.jpeg",
     "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/massive-kik-data-breach-exposes-more-than-150-million-images-experts-say-popular-messaging-app-may-have-leaked-incredibly-sensitive-material",
-    "title": "Massive Kik data breach exposes more than 150 million images — experts say popular messaging app may have leaked incredibly sensitive material",
-    "description": "Some of the images could be described as containing child sexual abuse material and were reported to authorities.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-11-17T18:20:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/DyF5dEL5UeH88zBmpwo3EU-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.nasa.gov/missions/station/nicer-status-updates/",
-    "title": "NICER Status Updates",
-    "description": "November 17, 2026 NASA’s NICER Telescope Ends Science Operations After studying the universe for six and a half years beyond its initial mission, NASA’s NICER (Neutron star Interior Composition Explorer) telescope on the International Space Station has ended science operations.  The mission and space station teams are now focused on plans to finalize NICER’s 8-year",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T18:18:16+00:00",
-    "image_url": "https://www.nasa.gov/wp-content/uploads/2025/01/iss072e487911.jpg?w=2048",
-    "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://gizmodo.com/nsas-version-of-slack-reportedly-borked-as-americans-wonder-why-everything-is-breaking-2000841102",
-    "title": "NSA’s Version of Slack Reportedly Borked as Americans Wonder Why Everything Is Breaking",
-    "description": "Iran? China? Vide coding gone wrong? AI agents showing off?",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T18:16:47+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/11/nsa-headquarters-fort-meade-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
   }
 ]
