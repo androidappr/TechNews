@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.zdnet.com/tech/ubuntu-27-04-april-release-new-features-performance/",
+    "title": "I’ve tested Ubuntu 27.04 ahead of its April release – and it will wow you",
+    "description": "I’ve been using Ubuntu 27.04, and the speed boost is noticeable. Here’s what else is coming.",
+    "categories": [
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-18T13:46:55+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/tenacioushero.jpg",
+    "source_name": "ZDNET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/defiance-act-paris-hilton-aoc-house-deepfakes",
+    "title": "Paris Hilton and AOC press the House to pass the Defiance Act on deepfakes",
+    "description": "Paris Hilton and Representative Alexandria Ocasio-Cortez asked the House on Tuesday to vote on the Defiance Act. The bill would let victims of sexually explicit deepfakes sue the people who make and share them. The Senate passed it by unanimous consent in January. The House has never voted on it. Hilton spoke on the steps",
+    "categories": [
+      "AI & Machine Learning",
+      "Cybersecurity & Privacy",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-18T13:44:52+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/ocasio-cortez-hilton-lee-defiance-act-capitol-press-conference.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techradar.com/gaming/school-offers-students-prizes-to-avoid-gta-flu-outbreak-xbox-and-playstation-gift-card-draw-aims-to-avoid-attendance-drops",
     "title": "Schools are battling ‘GTA flu’ by offering pupils prizes to attend lessons",
     "description": "Some schools are offering pupils incentives to attend instead of playing GTA 6 when it launches tomorrow.",
@@ -32,6 +56,29 @@
     "pub_date": "2026-11-18T13:30:06+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/microsoft-copilot.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/nov-17-uber-eats-amazon-prime-early-black-friday-sale",
+    "title": "Prime members can get $20 off dinner with this Uber Eats deal — last chance to claim",
+    "description": "Prime members can get $20 off their first two qualifying Uber Eats orders through Amazon, plus $0 delivery fees on orders of $25+.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-18T13:22:56+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/04vgBBAi5iYI0SM08BDWEd4/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/nov-18-samsung-27-inch-odyssey-oled-g5-gaming-monitor-deal",
+    "title": "Play GTA 6 in OLED with $130 off this Samsung Odyssey monitor in Amazons early Black Friday sale",
+    "description": "Play 'GTA 6' on Samsung's 27-inch Odyssey OLED G5 monitor, now down to $319.99 at Amazon in an early Black Friday deal.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-18T13:20:22+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/05S1ejMZCuYT6K4olkxeaux/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://thenextweb.com/news/eu-ai-budget-open-letter-elevenlabs-lovable-deepl-lecun",
@@ -1053,7 +1100,7 @@
   {
     "link": "https://www.techmeme.com/261118/p7#a261118p7",
     "title": "Tencent reports Q3 revenue up 8% YoY to ~$31.1B, below est., and operating profit down 7% in its first earnings decline in years, as AI capex surges 5x to ~$12B (Bloomberg)",
-    "description": "Bloomberg:\nTencent reports Q3 revenue up 8% YoY to ~$31.1B, below est., and operating profit down 7% in its first earnings decline in years, as AI capex surges 5x to ~$12B  —  Tencent Holdings Ltd.'s aggressive spending on AI has begun to stall profit growth, heightening the pressure on China's …",
+    "description": "Bloomberg:\nTencent reports Q3 revenue up 8% YoY to ~$31.1B, below est., and operating profit down 7% in its first earnings decline in years, as AI capex surges 5x to ~$12B  —  Tencent Holdings Ltd.'s aggressive spending on AI has begun to stall profit growth, highlighting how China's tech leaders …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -1263,7 +1310,6 @@
     "description": "This Swedish startup dominated the vibe-coded app boom. Two years after launch, Lovable is shifting gears to help users run vibe-coded businesses.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-11-18T10:00:00+00:00",
@@ -1405,8 +1451,7 @@
     "title": "Spotify is giving every artist a bouncer to keep AI slop off their page",
     "description": "Spotify has opened Artist Profile Protection to every artist, letting them review or reject releases delivered under their name. In the default mode, a release you ignore still goes live.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-18T09:53:31+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/spotify-artist-profile-protection-hero.jpg?resize=440%2C292&ssl=1",
@@ -2271,49 +2316,5 @@
     "pub_date": "2026-11-18T00:55:03+00:00",
     "image_url": "http://www.techmeme.com/261117/i65.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261117/p64#a261117p64",
-    "title": "The FAA pauses installations of Juniper routers like the one officials believe contributed to Friday's US-wide ground stop; HPE says its device wasn't defective (Neil Vigdor/New York Times)",
-    "description": "Neil Vigdor / New York Times:\nThe FAA pauses installations of Juniper routers like the one officials believe contributed to Friday's US-wide ground stop; HPE says its device wasn't defective  —  Federal officials said they believed that a router made by Juniper Networks caused a data overload that disrupted communications.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-18T00:45:01+00:00",
-    "image_url": "http://www.techmeme.com/261117/i64.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/17/kings-of-leon-to-play-at-apple-music-hall-in-december-tickets-go-on-sale-november-18/",
-    "title": "Kings of Leon to play at Apple Music Hall in December, tickets go on sale November 18",
-    "description": "Apple Music Hall has added Kings of Leon to its lineup of upcoming gigs at the newly opened London venue. Here are the details.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-18T00:35:25+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-music-hall_5c7713.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/the-predators-are-real-senate-hearing-slams-roblox-over-child-sex-abuse/",
-    "title": "‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse",
-    "description": "US Senators Josh Hawley and Dick Durbin have introduced legislation to make it easier for families to sue if their child has been harmed through the massive gaming platform.",
-    "categories": [
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-18T00:32:39+00:00",
-    "image_url": "https://media.wired.com/photos/6afb4dfb95139a14a66d113d/master/pass/Roblox-Senate-Hearing-Culture-2260855878.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2319928/how-to-set-up-ev-routing-carplay-android-auto/",
-    "title": "How to set up EV routing on CarPlay and Android Auto",
-    "description": "Tired of hunting for chargers on road trips? See how EV routing works on CarPlay and Android Auto and what to check in your car before you go.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-18T00:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/how-to-set-up-ev-routing-on-carplay-and-android-auto/l-intro-1794943803.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
