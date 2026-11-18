@@ -1,5 +1,68 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+    "title": "Nvidia isn’t selling any more AI chips to China",
+    "description": "Nvidia has stopped sending its advanced AI chips to China, despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former CEO Jensen Huang,",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-18T13:01:05+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+    "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+    "description": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-18T13:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/18/macpaws-moonlock-comes-to-iphone-helping-users-detect-potential-scams/",
+    "title": "MacPaw’s Moonlock comes to iPhone, helping users detect potential scams",
+    "description": "After launching Moonlock for Mac last year, MacPaw is bringing its scam-detection app to iPhone today. Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-18T13:00:00+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/macpaw-moonlock.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techradar.com/ai-platforms-assistants/gemini/gemini-now-turns-your-notes-into-interactive-websites-with-a-single-prompt-after-trying-it-i-was-genuinely-impressed",
+    "title": "tried Gemini Notebook's new website builder",
+    "description": "I tested Gemini Notebook's new website creation feature by turning my research on Arthurian legends into a surprisingly sophisticated interactive site",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-18T12:55:44+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/oEaA8wL9nngfMT9nuXynwn-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/nvidia-alibaba-alice-huang-introductions-2022-the-information",
+    "title": "Nvidia introduced Alibaba to Alice Huang in 2022, The Information reports",
+    "description": "Nvidia’s sales team introduced Alibaba to Alice Huang twice in 2022, months before US export controls on advanced chips took effect, The Information reported. Three people with direct knowledge of the matter told Juro Osawa and Qianer Liu about the introductions. TNW has not independently verified the report. Alice Huang is the businesswoman at the",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-18T12:50:58+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/nvidia-logo-sign-taipei-neihu-office.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/business/amazons-crossed-out-prices-might-be-the-biggest-lie-in-your-cart-this-black-friday/",
     "title": "Amazon’s crossed-out prices might be the biggest lie in your Black Friday cart",
     "description": "A progressive think tank says nearly 1 in 3 featured holiday deals in 2024 and 2025 offered no real savings. Amazon calls the report deeply flawed.",
@@ -10,6 +73,18 @@
     "pub_date": "2026-11-18T12:43:00+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/amazon-black-friday-week-hero.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techradar.com/audio/shures-affordable-new-mv360-spatial-audio-mic-has-got-me-thinking-i-need-to-give-up-the-day-job-and-start-an-asmr-channel",
+    "title": "The Shure MV360 is an affordable mic for spatial audio capture",
+    "description": "In the age of AI, it's got to be a viable career choice…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-18T12:41:12+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/cZ3gCKLY9SSKi5HUq5TjQa-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://9to5mac.com/2026/11/18/banks-faa-microsoft-apple-no-systemic-attack-on-the-us-says-white-house/",
@@ -2239,73 +2314,5 @@
     "pub_date": "2026-11-17T23:14:05+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Screenshot-2026-11-17-at-1.21.10-PM.png",
     "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
-    "title": "San Diego dumps both Flock cameras and smart streetlights",
-    "description": "500+ cameras will go dark just 3 years after mayor urged approval.",
-    "categories": [
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-17T23:09:09+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.zdnet.com/innovation/microsoft-agent-365-business-analytics-ignite/",
-    "title": "Microsoft wants to put a dollar value on AI’s work – but can you trust the math?",
-    "description": "With Agent 365 Business Analytics, Microsoft could reshape enterprise spending, but there’s a critical difference between estimated value and money saved.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-17T23:05:48+00:00",
-    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/Satya.png",
-    "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/google-exec-runs-windows-11-on-a-usd1-999-iphone-duo-with-gemini-4-carbon-but-it-might-not-be-the-easiest-way-to-go-about-it",
-    "title": "Google exec runs Windows 11 on a $1,999 iPhone Duo with Gemini 4 Carbon, but it might not be the easiest way to go about it",
-    "description": "Windows 11 now runs on Apple's foldable iPhone Duo, built with Gemini 4 Carbon in two hours, atop open source work.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T23:05:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/8fSZ5osisap2bjsFpu5UkE-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-    "description": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-17T23:04:35+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2320023/kalshi-ordered-to-stop-letting-people-bet-on-trump-speeches/",
-    "title": "CFTC tells Kalshi to stop letting people bet on Trump's speeches",
-    "description": "The prediction market platform's CEO has complied but opposed the move.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T23:00:06+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/cftc-tells-kalshi-to-stop-letting-people-bet-on-trumps-speeches/l-intro-1794956305.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2315411/risks-using-old-damaged-charging-cables/",
-    "title": "The dangers of using your old, damaged charging cables",
-    "description": "Frayed charging cables carry huge risks, from electrical shock to starting a fire. It's not worth the risk of using them.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T23:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/the-dangers-of-using-your-old-damaged-charging-cables/l-intro-1794517530.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
