@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+    "title": "Amidst fears of AI-cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+    "description": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-18T23:45:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261118/p47#a261118p47",
     "title": "Palo Alto Networks reports Q1 revenue up 39% YoY to $3.45B, above $3.31B est., and raises its FY 2027 revenue forecast; PANW jumps 7%+ after hours (Reuters)",
     "description": "Reuters:\nPalo Alto Networks reports Q1 revenue up 39% YoY to $3.45B, above $3.31B est., and raises its FY 2027 revenue forecast; PANW jumps 7%+ after hours  —  Cybersecurity firm Palo Alto Networks (PANW.O) raised its annual revenue forecast and signed a deal to acquire AI startup Applied Compute …",
@@ -850,7 +862,6 @@
     "description": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump rallies, as more girls in traditional",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Government & Policy",
       "Science & Environment"
     ],
@@ -909,7 +920,6 @@
     "title": "Best Buy sells Blu-rays online and in-store again",
     "description": "Popular titles like The Odyssey are being “sold & shipped by Best Buy.\"",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-18T19:31:17+00:00",
@@ -1694,7 +1704,6 @@
     "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
     "description": "Interim CEO Colette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Gadgets & Hardware"
     ],
@@ -1817,8 +1826,8 @@
   },
   {
     "link": "https://www.techmeme.com/261118/p34#a261118p34",
-    "title": "Source: Anthropic priced its IPO at $83 per share, above the $70-$78 marketed range, which would put its valuation above the $1.4T it was previously targeting (CNBC)",
-    "description": "CNBC:\nSource: Anthropic priced its IPO at $83 per share, above the $70-$78 marketed range, which would put its valuation above the $1.4T it was previously targeting  —  Anthropic priced its IPO at $83 per share on Wednesday, a person familiar told CNBC, above the expected range …",
+    "title": "Anthropic priced its IPO at $83 per share, above the $70-$78 marketed range, which would put its valuation above the $1.4T it was previously targeting (CNBC)",
+    "description": "CNBC:\nAnthropic priced its IPO at $83 per share, above the $70-$78 marketed range, which would put its valuation above the $1.4T it was previously targeting  —  Anthropic priced its IPO at $83 per share on Wednesday, above the expected range, setting the stage for the Claude creator's eagerly awaited Nasdaq listing …",
     "categories": [
       "Tech News"
     ],
@@ -2323,18 +2332,5 @@
     "pub_date": "2026-11-18T16:09:25+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-Home-Logo.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/gpt-6-2-astra-sol-openai-launch-price-epoch-testers",
-    "title": "OpenAI launches GPT-6.2 Astra and Sol, and early testers push back",
-    "description": "OpenAI has released GPT-6.2 Astra and GPT-6.2 Sol, and cut the price of its top model by 20%. Astra is its frontier model for the hardest projects, according to the company’s announcement. Sol is the cheaper model for everyday work. Both went live on Tuesday in ChatGPT Work, Codex and the API. “We believe GPT-6.2",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-11-18T16:06:50+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/openai-gpt-6-2-astra-sol-launch-graphic.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
