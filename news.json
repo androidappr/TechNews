@@ -1,5 +1,40 @@
 [
   {
+    "link": "https://www.wired.com/gallery/best-smart-bed/",
+    "title": "Best Smart Bed of 2026: Bryte and Tempur-Pedic",
+    "description": "If you’re going to spend a third of your life in bed, it might as well be a smart one. Here are our favorites.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-18T10:07:00+00:00",
+    "image_url": "https://media.wired.com/photos/6afcea142a0f0cf673d2ff82/master/pass/The-Best-Smart-Bed-Doesn%E2%80%99t-Sleep-on-the-Job.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/house-democrats-are-officially-coming-for-trumps-orbit/",
+    "title": "House Democrats Are Officially Coming for Trump’s Orbit",
+    "description": "The incoming head of the House Oversight Committee sent record preservation requests to Donald Trump Jr., Eric Trump, JD Vance, Stephen Miller, and other administration officials.",
+    "categories": [
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-18T10:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6afcc37a4d856565ffa1dc3d/master/pass/House-Democrats-Officially-Coming-for-Trump-Family-Politics-2270265640.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/",
+    "title": "Lovable Wants You to Vibe Code Your Dream Job",
+    "description": "This Swedish startup dominated the vibe-coded app boom. Two years after launch, Lovable is shifting gears to help users run vibe-coded businesses.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-11-18T10:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/6afcd191c00d87e3fd8ba0d4/master/pass/GettyImages-2303907996.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/computing/gemini-will-now-let-you-share-your-custom-skills-and-add-files-from-various-google-apps/",
     "title": "Gemini will now let you share your custom Skills and add files from various Google apps",
     "description": "Google is upgrading the Gemini app with new skill-sharing capabilities and direct file support, letting users connect real-time documents from Google Drive, Notebook, and Photos straight to their custom AI instructions.",
@@ -2235,38 +2270,5 @@
     "pub_date": "2026-11-17T19:33:27+00:00",
     "image_url": "https://www.engadget.com/img/gallery/google-wallet-is-launching-on-ios/l-intro-1794943971.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://gizmodo.com/xbox-nano-controller-review-2000841149",
-    "title": "Xbox Nano Controller Review: Somehow the Most Comfortable Portable Gamepad",
-    "description": "You don’t need the Nano controller for cloud gaming, but it’s a great accessory for your gaming laptop.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-17T19:32:12+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/11/Xbox-Nano-Controller-review-7-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-    "title": "Model ML raises $250M to automate investment banking grunt work",
-    "description": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-17T19:32:11+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://gizmodo.com/why-denis-villeneuve-cast-robert-pattinson-as-james-bond-2000841193",
-    "title": "Why Denis Villeneuve Cast Robert Pattinson as James Bond",
-    "description": "The 'Dune' director explained what he was looking for while casting the iconic spy.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-17T19:30:48+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/11/Dune-3-Villeneuve-Chalamet-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
   }
 ]
