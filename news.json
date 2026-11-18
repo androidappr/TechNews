@@ -1,5 +1,39 @@
 [
   {
+    "link": "https://www.techradar.com/pro/voltage-glitch-unlocks-80gb-on-nvidias-cmp-170hx-but-faster-than-an-a100-rests-on-a-single-benchmark",
+    "title": "Voltage glitch unlocks 80GB on Nvidia's CMP 170HX, but 'faster than an A100' rests on a single benchmark",
+    "description": "Nvidia built the CMP 170HX to be a worse A100 - a power glitch on the GA100 fuse controller undid much of that, exposing a design that rewards blowing more fuses.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-18T21:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/QphU2iRAAXWSDt3nL5UNhg-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2321134/rockstar-just-settled-a-major-question-about-gta-6s-controversial-fps-decision/",
+    "title": "Rockstar just settled a major question about GTA 6's controversial FPS decision",
+    "description": "You can forget about a 60 fps mode on current-gen consoles, even in future patches.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-11-18T21:03:40+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/rockstar-just-settled-a-major-question-about-gta-6s-controversial-fps-decision/l-intro-1795035801.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261118/p40#a261118p40",
+    "title": "Sources: Bret Taylor's Sierra is in talks to raise ~$1.5B at a ~$30B valuation, up from $15.8B in May; it said in October it hit $400M+ in annualized revenue (The Information)",
+    "description": "The Information:\nSources: Bret Taylor's Sierra is in talks to raise ~$1.5B at a ~$30B valuation, up from $15.8B in May; it said in October it hit $400M+ in annualized revenue  —  Sierra, the AI customer support startup founded by former Salesforce co-CEO Bret Taylor, has been in talks to raise new funding …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-18T21:01:02+00:00",
+    "image_url": "http://www.techmeme.com/261118/i40.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/take-two-zelnick-gta-vi-1-5b-budget-doesnt-play-games",
     "title": "The CEO behind GTA VI doesn’t play games. Analysts say he bet up to $1.5B",
     "description": "Take-Two CEO Strauss Zelnick does not play the games his company sells, Fortune reported, as GTA VI launches with an estimated $1B to $1.5B budget. Take-Two has not confirmed the cost, but the game has tied Metacritic’s record score and pre-orders beat expectations. Strauss Zelnick has run Take-Two Interactive, which owns GTA studio Rockstar, since",
@@ -1047,7 +1081,6 @@
     "title": "YouTube will now guess how many people are co-viewing on TV",
     "description": "YouTube will now estimate how many viewers are watching videos together on TV.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-18T17:46:27+00:00",
@@ -1286,7 +1319,6 @@
     "description": "Wall Street executives and the NSA have told members of Congress that this week’s US tech outages came from rushed fixes for AI-found flaws. The flaws were found by AI models that banks and agencies now use on their own systems. Three people familiar with the private talks told The Washington Sun’s Jeff Stein. TNW",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-11-18T17:08:49+00:00",
@@ -2057,7 +2089,6 @@
     "title": "An interview with philosopher Thomas Nagel, who won a $1M prize for contributions to consciousness and says the notion of AI consciousness is \"just ridiculous\" (Steven Levy/Wired)",
     "description": "Steven Levy / Wired:\nAn interview with philosopher Thomas Nagel, who won a $1M prize for contributions to consciousness and says the notion of AI consciousness is “just ridiculous”  —  Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-18T15:30:01+00:00",
@@ -2160,7 +2191,6 @@
     "description": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-11-18T15:02:40+00:00",
@@ -2331,42 +2361,6 @@
     ],
     "pub_date": "2026-11-18T14:45:02+00:00",
     "image_url": "http://www.techmeme.com/261118/i24.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/jeff-bezos-james-bond-pattinson-nvidia-prometheus-semafor",
-    "title": "Jeff Bezos says he was ‘heavily involved’ in casting Pattinson as Bond",
-    "description": "Jeff Bezos said on Tuesday he was “heavily involved” in casting Robert Pattinson as the next James Bond. He told Semafor’s Liz Hoffman that five finalists did full screen tests. Once the team watched them, the choice was clear. “By the time we got to this list of five, they were all amazing. But there",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-18T14:40:19+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/jeff-bezos-blue-origin-blue-moon-lander-cape-canaveral.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/danila-shtan-nebius-cto-ai-cloud-tnw-podcast",
-    "title": "Nebius CTO Danila Shtan says ideas matter again now that execution is cheap",
-    "description": "Asked what breaks first when a company grows as fast as Nebius, Danila Shtan gave a one-word answer: everything. The scale and the pace of growth test everything his team builds, all the time, the Nebius CTO told TNW. “You start building, you have some expectations about the growth or the client’s needs or the",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-18T14:36:47+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/cristian-dina-danila-shtan-posing-rode-microphones-humanx-amsterdam.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261118/p23#a261118p23",
-    "title": "Sources: the Trump administration is considering requiring US companies to disclose on their websites if they use Chinese AI models, seeking to discourage usage (Alexandra Alper/Reuters)",
-    "description": "Alexandra Alper / Reuters:\nSources: the Trump administration is considering requiring US companies to disclose on their websites if they use Chinese AI models, seeking to discourage usage  —  The Trump administration is considering requiring US companies to publicly disclose their use of Chinese AI models …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-18T14:36:07+00:00",
-    "image_url": "http://www.techmeme.com/261118/i23.jpg",
     "source_name": "TECHMEME.COM"
   }
 ]
