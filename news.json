@@ -1,5 +1,68 @@
 [
   {
+    "link": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
+    "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
+    "description": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-18T21:29:24+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/squid1-1152x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
+    "title": "Absolute Batman can save DC Studios",
+    "description": "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building around movies like last year's Superman. Though Gunn's Man of Tomorrow feature might still come out, it seems like his larger vision for",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-18T21:20:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PowHeader.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/cool-tech/google-gemini-tasks-free/",
+    "title": "Gemini can now do more than chat, and Google is making it free",
+    "description": "Gemini's AI-powered Tasks feature is now free in six countries, including the US and India. Google is also expanding its ability to make calls, handle purchases, and manage tasks through text and email, although those features have regional restrictions.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-18T21:19:22+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-Gemini-Tasks-Banner.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261118/p41#a261118p41",
+    "title": "Palo Alto Networks agrees to buy Applied Compute, which helps companies customize open-weight AI models, for $4.5B in stock; it was valued at $3.25B this month (Kate Clark/Wall Street Journal)",
+    "description": "Kate Clark / Wall Street Journal:\nPalo Alto Networks agrees to buy Applied Compute, which helps companies customize open-weight AI models, for $4.5B in stock; it was valued at $3.25B this month  —  Startup was founded last year by former OpenAI researchers and specializes in customizing open-weight AI models",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-18T21:15:05+00:00",
+    "image_url": "http://www.techmeme.com/261118/i41.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
+    "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
+    "description": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Gadgets & Hardware",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-18T21:15:00+00:00",
+    "image_url": "https://media.wired.com/photos/6afcdd342972080ddb9f0499/master/pass/AI-Lab-US-Chip-War-Business.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/voltage-glitch-unlocks-80gb-on-nvidias-cmp-170hx-but-faster-than-an-a100-rests-on-a-single-benchmark",
     "title": "Voltage glitch unlocks 80GB on Nvidia's CMP 170HX, but 'faster than an A100' rests on a single benchmark",
     "description": "Nvidia built the CMP 170HX to be a worse A100 - a power glitch on the GA100 fuse controller undid much of that, exposing a design that rewards blowing more fuses.",
@@ -1201,7 +1264,6 @@
     "title": "A Muslim Author Is Suing xAI After People Used Grok to Strip Her Hijab",
     "description": "“The only way you get some change against Big Tech is to sue them,” says lawyer Hillary Nappi, who is representing Amani Al-Khatahtbeh in the lawsuit.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-18T17:30:54+00:00",
@@ -1225,7 +1287,6 @@
     "description": "Vero Security has raised an $11M seed round led by TLV Partners for software that discovers the AI tools and agents employees use and enforces security policies as they run. It cites research showing most large companies give AI security to someone who already has another job. Vero Security, a year-old startup that helps companies",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-11-18T17:25:28+00:00",
@@ -1281,7 +1342,7 @@
   {
     "link": "https://www.techmeme.com/261118/p34#a261118p34",
     "title": "Sources: Anthropic is weighing upsizing its IPO, setting the price well above $80, up from its price range of $70-$78 per share, as investor demand surges (CNBC)",
-    "description": "CNBC:\nSources: Anthropic is weighing upsizing its IPO, setting the price well above $80, up from its price range of $70-$78 per share, as investor demand surges  —  Anthropic is considering upsizing its initial public offering, people familiar with the details told CNBC, as the artificial intelligence …",
+    "description": "CNBC:\nSources: Anthropic is weighing upsizing its IPO, setting the price well above $80, up from its price range of $70-$78 per share, as investor demand surges  —  Anthropic priced its IPO at $83 per share on Wednesday, a person familiar told CNBC, above the expected range, setting the stage …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -1388,7 +1449,6 @@
     "title": "Meta’s ‘Project Gryffindor’ used schools to grow Instagram, NPR reports",
     "description": "Meta planned to use schools to sign up more teenagers for Instagram, internal documents show. It called the plan “Project Gryffindor”. NPR’s Katie McQue reported the documents on Wednesday. Lawyers obtained them in discovery in the US lawsuits that accuse social media companies of harming young users. Publicly, Meta presents its School Partnership Program as",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy",
       "Social & Media"
     ],
@@ -2111,7 +2171,6 @@
     "title": "Docs: Meta's \"Project Gryffindor\" initiative in 2024 to acquire new teen Instagram users included school directories, banners, and \"school blast\" notifications (Katie McQue/NPR)",
     "description": "Katie McQue / NPR:\nDocs: Meta's “Project Gryffindor” initiative in 2024 to acquire new teen Instagram users included school directories, banners, and “school blast” notifications  —  Internal Meta documents show the company planned to boost Instagram use among teens by targeting schools …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-18T15:20:01+00:00",
@@ -2301,66 +2360,6 @@
     ],
     "pub_date": "2026-11-18T14:55:01+00:00",
     "image_url": "http://www.techmeme.com/261118/i25.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/bytedance-microsoft-azure-500m-openai-models",
-    "title": "ByteDance nears $500m Azure deal for OpenAI models, The Information reports",
-    "description": "ByteDance is in advanced talks to spend about $500m more on Microsoft’s Azure cloud, mostly to use OpenAI’s models, The Information reported on Wednesday. Leo Schwartz, Qianer Liu and Aaron Holmes cited two people with knowledge of the talks. The deal would add to the TikTok owner’s already large Azure contract. It has also angered",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Gadgets & Hardware",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-18T14:53:15+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/bytedance-sign-office-building-facade.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/retail-buying-in-anthropics-ipo-could-double-spacexs-debut-cnbc-reports",
-    "title": "Retail buying in Anthropic’s IPO could double SpaceX’s debut, CNBC reports",
-    "description": "Small investors could buy about $250m more Anthropic shares than they sell on its first day of trading, Vanda Research estimates, CNBC reported. That would be twice the net retail buying seen in SpaceX’s debut. Anthropic expects to price its IPO on Wednesday evening and start trading on Nasdaq on Thursday under the ticker ANT.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-11-18T14:52:21+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/anthropic-wordmark-3d-render-purple-glass.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/phones/macpaw-brings-its-mac-security-app-to-iphone-and-it-can-spot-scam-texts-before-you-fall-for-them/",
-    "title": "MacPaw brings its security app to iPhone, and it can spot scam texts before you fall for them",
-    "description": "MacPaw’s Moonlock checks suspicious texts, screenshots, and QR codes on iPhone, then explains why they look like scams.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-18T14:51:37+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/MoonLock-by-MacPaw.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/trump-administration-says-the-wave-of-us-tech-outages-is-not-connected",
-    "title": "Trump administration says the wave of US tech outages is not connected",
-    "description": "A senior Trump official said on Wednesday there is no sign that a cyberattack caused the recent run of US tech outages. Nor is there any sign the outages were planned together, CNBC reported. They include last Friday’s nationwide flight halt by the US aviation agency, the FAA, and a long Microsoft Outlook outage. The",
-    "categories": [
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-11-18T14:49:13+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/donald-trump-american-flag-blue-sky.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261118/p24#a261118p24",
-    "title": "Sources: Apollo's $40B chip financing for SpaceX is structured via a special-purpose vehicle, letting SpaceX keep it off balance sheet and rent the GPUs (Ellen DiMauro/Semafor)",
-    "description": "Ellen DiMauro / Semafor:\nSources: Apollo's $40B chip financing for SpaceX is structured via a special-purpose vehicle, letting SpaceX keep it off balance sheet and rent the GPUs  —  The colossal $40 billion financing that Apollo is lining up for SpaceX could hit markets as early as this week, but it won't be hitting …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-18T14:45:02+00:00",
-    "image_url": "http://www.techmeme.com/261118/i24.jpg",
     "source_name": "TECHMEME.COM"
   }
 ]
