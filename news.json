@@ -1,5 +1,84 @@
 [
   {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+    "title": "A brief history of Nvidia’s recent stock fluctuations",
+    "description": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups"
+    ],
+    "pub_date": "2026-11-19T21:59:35+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+    "title": "Meta’s new Muse Charm device may cost $300",
+    "description": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-19T21:58:06+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+    "title": "What’s With All These Outages?",
+    "description": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Cybersecurity & Privacy",
+      "Gadgets & Hardware",
+      "Government & Policy",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-19T21:57:01+00:00",
+    "image_url": "https://media.wired.com/photos/6afe24032a6a9296f65dbfa1/master/pass/Uncanny-Valley-FAA-Outage-Business.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/19/apple-tv-launches-50-off-black-friday-deal-6-99-month-for-6-months/",
+    "title": "Apple TV launches 50% off Black Friday deal: $6.99/month for 6 months",
+    "description": "Apple TV has just launched a Black Friday deal that lets new and returning subscribers get the service for just $6.99/month for up to six months. Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-19T21:55:07+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-tv-logo-black.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/19/first-macos-sequoia-15-8-4-and-macos-tahoe-26-7-4-rcs-rolling-out/",
+    "title": "First macOS Sequoia 15.8.4 and macOS Tahoe 26.7.4 RCs rolling out [U: Public]",
+    "description": "Update, November 19, 4:46 p.m. ET: The release candidates are now available to public beta testers, with the same build numbers as the developer RCs.\n\n\n\nIn addition to macOS 27.3 beta 2, Apple is also rolling out the first Release Candidates for macOS Sequoia 15.8.4 and macOS Tahoe 26.7.4. Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-19T21:48:30+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-blue.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://mashable.com/life/youtube-new-creator-led-shows-2026",
+    "title": "YouTube bets on creator-led shows with a new slate",
+    "description": "See what's on YouTube’s new creator-led slate, from Emma Chamberlain waiting in line, Grace Reiter's Twilight parody, Aryna Sabalenka’s docuseries to a $100,000 murder mystery.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-19T21:45:32+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/03Z4ZUHVtXNjv6CF7lU9whx/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
     "title": "These tech outages are giving Y2K, AI agent style",
     "description": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
@@ -776,7 +855,7 @@
   },
   {
     "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-    "title": "Anthropic’s IPO could deliver $156 billion to charity",
+    "title": "Anthropic’s IPO could deliver $156B to charity",
     "description": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
     "categories": [
       "AI & Machine Learning",
@@ -1192,7 +1271,6 @@
     "title": "Google will launch Android app verification requirement globally in January 2027",
     "description": "Google says almost all developers have already gotten on board with verification.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy",
       "Gadgets & Hardware",
       "Software & Apps"
@@ -1243,8 +1321,7 @@
     "title": "Model ML raises $250m at a $1.5bn valuation for bankers’ AI agents",
     "description": "Model ML, a London startup that builds AI agents for bankers, consultants and investors, has raised $250m at a $1.5bn valuation. General Atlantic and QED Investors co-led the Series B round, the company said on Tuesday. Evolution Equity Partners, Airtree, Forestay Capital, Y Combinator, FT Partners, Latitude, Inception Fund and 13Books Capital also took part.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-19T17:52:33+00:00",
     "image_url": "https://media.thenextweb.com/2026/11/chaz-arnie-englander-model-ml-founders-london-rooftop.avif",
@@ -1337,6 +1414,7 @@
     "title": "Galaxy S26 FE has never looked better—a sweet 25% deal slides in before Black Friday",
     "description": "Samsung's Galaxy S26 FE just dropped by $200 on Amazon, and that means Black Friday is finally here.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-19T17:40:12+00:00",
@@ -2278,77 +2356,5 @@
     "pub_date": "2026-11-19T15:16:45+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chatgpt-live-dictation-promo-screenshot.jpeg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/boulies-ep600-ergonomic-office-chair-deal-drops-for-black-friday-and-its-one-of-the-best-mid-range-picks-weve-ever-tested",
-    "title": "Boulies EP600 ergonomic office chair deal drops for Black Friday — and it's one of the best mid-range picks we've ever tested",
-    "description": "The Boulies EP600 proved a strong mid-range office chair for remote and hybrid workers, impressing us for its all-day comfort, high adjustability, and footrest.",
-    "categories": [
-      "Breaking News",
-      "Gaming"
-    ],
-    "pub_date": "2026-11-19T15:11:14+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/yEEK2AshZAmuLzyaqd8Eyj-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/ai-platforms-assistants/what-interests-us-far-more-is-how-ai-can-fundamentally-change-gameplay-the-former-boss-behind-gta-iv-thinks-gamers-are-about-to-fall-in-love-with-generative-ai-but-im-not-fully-convinced",
-    "title": "Ex-GTA IV boss says gamers will embrace AI but I'm not convinced",
-    "description": "Former Take-Two Interactive CEO Ben Feder thinks gamers will fall in love with generative AI, but it will be a long time before they're convinced.",
-    "categories": [
-      "Breaking News",
-      "Gaming"
-    ],
-    "pub_date": "2026-11-19T15:07:23+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/WovLXykfmRLfDkKQLHxegJ-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/phones/openai-smartphone-foxconn-assembly-report/",
-    "title": "OpenAI is apparently serious about an AI phone, as report claims production order has been placed",
-    "description": "OpenAI is apparently moving ahead with its plans to launch a smartphone. Following months of speculation, a report from China’s Securities Times claims that Foxconn subsidiary FIH Mobile has received an order to help assemble a smartphone for the ChatGPT maker. If the name Foxconn rings a bell, well, that’s because it has been Apple’s",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-19T15:07:18+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/crunchyroll-black-friday-streaming-deal-2026",
-    "title": "Crunchyroll drops 6-month subscriptions by up to 60% for Black Friday, plus get free anime collectibles",
-    "description": "Crunchyroll launched its holiday streaming promotion on Nov. 19, dropping Fan, Mega Fan, and Ultimate Fan plans by up to 60% for six months.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-19T15:04:18+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01Kpgq7nvGFPwdwC9MuXTm0/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/19/uk-court-rules-apple-can-share-the-top-secret-order-everyone-already-knew/",
-    "title": "UK court rules Apple can share the top secret order everyone already knew",
-    "description": "The Investigatory Powers Tribunal – essentially a British court that deals with complaints about state surveillance – has ruled that Apple is allowed to reveal a secret order it received from the UK government.\n\n\n\nApple had already found a clever way to alert British customers to the classified order without breaking the law, but it can now confirm what we all already knew, and talk openly about the issue … \n\n\n\n more…",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-19T15:01:45+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/Apple-standing-up-for-Advanced-Data-Protection-is-way-more-important-than-it-seems.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/home/the-best-black-friday-coffee-maker-and-espresso-machine-deals-on-amazon-worth-waking-up-for/",
-    "title": "The best Black Friday coffee maker and espresso machine deals on Amazon worth waking up for",
-    "description": "Six coffee makers and espresso machines are marked down on Amazon, and I checked each price against its history.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-19T15:01:13+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/16.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
   }
 ]
