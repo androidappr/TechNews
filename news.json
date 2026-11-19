@@ -1,5 +1,57 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+    "title": "Meta’s Muse Charm might cost $300",
+    "description": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-19T20:22:17+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/hackers-try-to-plant-malware-into-ukraine-bound-drones-germanys-quantum-systems-says-theres-no-risk-after-cyberattack-failed",
+    "title": "Hackers try to plant malware into Ukraine-bound drones — Germany's Quantum Systems says there's 'no risk' after cyberattack failed",
+    "description": "A cyberattack compromised Quantum Systems' software infrastructure, with malicious Qbase updates reportedly reaching customer servers before detection prevented aircraft infection.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-19T20:20:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/dLck8sBiMSW9nxjeWDnDyC-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+    "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+    "description": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-19T20:19:28+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-19T20:18:49+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/home-theater/these-are-the-best-buy-black-friday-deals-on-phones-headphones-and-laptops-id-actually-buy/",
     "title": "These are the Best Buy Black Friday deals on phones, headphones, and laptops I’d actually buy",
     "description": "Six tech picks are marked down at Best Buy, and I checked each price against launch prices and past sales.",
@@ -10,6 +62,18 @@
     "pub_date": "2026-11-19T20:10:08+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Best-Buy-Black-Friday-Deals.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/servicemembers-gta-reenlist",
+    "title": "Service members offered time off to play GTA 6 — but theres a big catch",
+    "description": "GTA VI mania hits the military, with a Georgia battalion being offered time off to play the game in exchange for promises to reenlist.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-19T20:06:55+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/023L1SlUahsgb9dEOLCkOgE/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://thenextweb.com/news/google-quantum-ai-contextuality-science-105-qubits",
@@ -2053,6 +2117,7 @@
     "title": "The European Commission confirms a cyberattack that disrupted systems for 10+ days; CERT-EU says international hackers used AI penetration testing tool ARTEX (Gerardo Fortuna/Politico)",
     "description": "Gerardo Fortuna / Politico:\nThe European Commission confirms a cyberattack that disrupted systems for 10+ days; CERT-EU says international hackers used AI penetration testing tool ARTEX  —  Presented by European Commission's Directorate-General for Education, Youth, Sport and Culture  —  with MAX GRIERA  —  CIAO THERE.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-19T14:35:01+00:00",
@@ -2300,63 +2365,5 @@
     "pub_date": "2026-11-19T13:56:07+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/macbook-pro-proled-xdr-touch-10.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-    "title": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-    "description": "Google is teaming up with Jeff Bezos' Blue Origin to launch its AI server satellites. The companies announced on Thursday that Blue Origin's New Glenn rocket will shuttle satellites equipped with Google's Tensor Processing Units (TPUs) into space in the first quarter of 2029. The partnership is part of Google's Project Suncatcher, a moonshot plan",
-    "categories": [
-      "Breaking News",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-19T13:53:38+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/project-suncatcher-logo.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/home/air-quality/the-blueair-blue-signature-is-now-ridiculously-good-value-and-with-its-attractive-design-quick-purifying-and-low-volume-its-still-the-best-air-purifier-ive-reviewed-to-date",
-    "title": "The Blueair Blue Signature is now ridiculously good value — and with its attractive design, quick purifying, and low volume, it’s still the best air purifier I’ve reviewed to date",
-    "description": "Feature-packed and perfect for large rooms, this furniture-inspired air purifier is fantastic value.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-19T13:50:29+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/2eEFvkatSaTtuY2PC6tTvG-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261119/p29#a261119p29",
-    "title": "Anthropic-backed pro-AI safety nonprofit Public First Action's PACs spent $25M+ in 12 states to help elect eight of the 13 House and Senate candidates it backed (Clara Ence Morse/Washington Post)",
-    "description": "Clara Ence Morse / Washington Post:\nAnthropic-backed pro-AI safety nonprofit Public First Action's PACs spent $25M+ in 12 states to help elect eight of the 13 House and Senate candidates it backed  —  As discussions of AI regulations accelerate, Anthropic spent the past year pouring money into groups that spent big on the U.S. midterm elections.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-19T13:50:01+00:00",
-    "image_url": "http://www.techmeme.com/261119/i29.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/life/smosh-werewolf-interview",
-    "title": "The Smosh cast breaks down their biggest Werewolf yet",
-    "description": "Smosh's Spencer Agnew, Amanda Lehan-Canto, and Tommy Bowe go deep on Smosh Games' supersized \"Werewolf\" episodes.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-19T13:48:52+00:00",
-    "image_url": "https://cdn.ex.co/transformations-account/production/a0be6317-e085-43f9-8cb5-7b125d25af4b/aefcbfbc-50c5-4872-9c4a-eff1f831070e/master.m3u8",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/anthropic-ipo-nasdaq-debut-grey-market-27-percent-staff-232bn",
-    "title": "Grey markets point to a 27% pop as Anthropic heads into its Nasdaq debut",
-    "description": "Anthropic’s shares start trading on the Nasdaq on Thursday as ANT. Grey markets point to a strong start. Derivatives offered by the broker IG implied a gain of about 27% on the $83 Anthropic IPO price, Bloomberg reported. Perpetual futures tied to Anthropic on the Hyperliquid blockchain changed hands at around $105, a similar premium.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-11-19T13:47:28+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/anthropic-logo-screen-silhouettes-black-white.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
