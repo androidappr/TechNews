@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.techradar.com/pro/security/gta-vi-gamers-beware-experts-warn-of-a-1300-percent-rise-in-phishing-scams-ahead-of-official-launch-date",
+    "title": "GTA VI gamers beware — experts warn of a 1300% rise in phishing scams ahead of official launch date",
+    "description": "A massive surge in gaming related phishing emails has been detected, as scammers attempt to cash-in on the anticipation surrounding GTA VI’s release.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-19T02:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ka9uLZJ7UEJYS3pXPBuSvW-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261118/p54#a261118p54",
     "title": "OpenAI says agents now complete 46% of its researchers' 2-to-4-hour tasks on their own, vs. 23% in March, median researcher's agent use hit $2,400/day, and more (OpenAI)",
     "description": "OpenAI:\nOpenAI says agents now complete 46% of its researchers' 2-to-4-hour tasks on their own, vs. 23% in March, median researcher's agent use hit $2,400/day, and more  —  Over the course of this year, AI systems have become increasingly capable, potentially increasing their ability to contribute to AI research and development themselves.",
@@ -604,7 +615,6 @@
     "title": "OpenAI says its models improved power, performance, and area by up to 14% on AMD's flagship GPU IP; some changes are in a design AMD sent for manufacturing (OpenAI)",
     "description": "OpenAI:\nOpenAI says its models improved power, performance, and area by up to 14% on AMD's flagship GPU IP; some changes are in a design AMD sent for manufacturing  —  OpenAI's models are quickly improving the chips that power AI.  In August, we shared how OpenAI engineers used our frontier models …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-18T22:10:06+00:00",
@@ -814,8 +824,7 @@
     "title": "Gemini can now do more than chat, and Google is making it free",
     "description": "Gemini's AI-powered Tasks feature is now free in six countries, including the US and India. Google is also expanding its ability to make calls, handle purchases, and manage tasks through text and email, although those features have regional restrictions.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-18T21:19:22+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-Gemini-Tasks-Banner.jpg?resize=440%2C292&ssl=1",
@@ -2287,16 +2296,5 @@
     "pub_date": "2026-11-18T16:51:19+00:00",
     "image_url": "https://media.thenextweb.com/2026/11/gta-vi-the-album-cover-art-jason-lucia-vice-city.avif",
     "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261118/p33#a261118p33",
-    "title": "Ukraine is using a network of drones as airborne communication relays after repeated Starlink disruptions, including during a strike on Russia's Kerch Bridge (Financial Times)",
-    "description": "Financial Times:\nUkraine is using a network of drones as airborne communication relays after repeated Starlink disruptions, including during a strike on Russia's Kerch Bridge  —  Kyiv starts using its own communication system for drone strikes after repeated disruptions in the use of Starlink",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-18T16:50:02+00:00",
-    "image_url": "http://www.techmeme.com/261118/i33.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
