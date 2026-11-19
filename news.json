@@ -1,7 +1,31 @@
 [
   {
+    "link": "https://www.cnet.com/tech/ifixit-apple-homeview-breaks-easily/",
+    "title": "iFixit Says Apple’s HomeView Breaks Easily. Here’s Why I’m Not Worried",
+    "description": "iFixit found the HomeView nearly impossible to repair yourself, but smart displays don’t face the same daily risks as iPhones.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-19T09:22:05+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/IFixit-HomeView-Components.jpg",
+    "source_name": "CNET.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/google-chromes-new-screenshot-based-ai-scam-detection-feature-has-hit-me-with-deja-vu/",
+    "title": "Google Chrome’s new screenshot-based AI scam detection feature is hitting me with déjà vu",
+    "description": "Google Chrome is expanding its AI-powered scam detection by capturing webpage screenshots for visual classification and targeting dangerous websites for users who have enabled Enhanced Safe Browsing mode.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-19T09:16:36+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/07/Google-Chrome-safety-feature.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/cool-tech/nothing-ai-device-leak/",
-    "title": "Nothing’s first AI gadget shows up in a leaked photo, and it has a big Talk button",
+    "title": "Nothing’s first AI gadget appears in real ahead of its December launch, and it has a big Talk button",
     "description": "A leaked photo shows Nothing's first AI-native device with no screen, a Talk button, a record button and status lights, weeks before its December launch.",
     "categories": [
       "AI & Machine Learning",
@@ -46,6 +70,17 @@
     "pub_date": "2026-11-19T09:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/rzWqyyiSq879x9sWNoA94N-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://mashable.com/life/target-lego-holiday-event-2026-free-gifts",
+    "title": "Targets free Lego holiday event takes place on Nov. 21 — how to score free gift tags and totes",
+    "description": "Target is hosting a free Lego holiday event on Nov. 21 from 12-4 p.m., featuring a Lego Harry Potter demo, free gift tags, and make-and-take builds at select stores.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-19T09:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/03XckJuPA2f8G7slcGtPyGN/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://thenextweb.com/news/germany-and-austria-call-for-tiktoks-eu-business-to-go-to-european-owners",
@@ -2233,38 +2268,5 @@
     "pub_date": "2026-11-18T18:30:23+00:00",
     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2017/08/Medical_diagnosis_for_the_student_and_practitioner_1922_14761731976-e1708401738329-1152x648.jpg",
     "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/future-of-tech-not-inclusive-by-default",
-    "title": "The future of tech will not be inclusive by default",
-    "description": "The co-founder of Canada's Queer Tech Conference on what the industry owes its LGBTQ users and employees.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-18T18:27:22+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01NDvezqyS9hPFemZa4HUuc/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/18/chatgpt-app-gains-enhanced-live-dictation-streaming-without-10-minute-limit/",
-    "title": "ChatGPT app gains enhanced Live Dictation streaming without 10-minute limit",
-    "description": "ChatGPT dictation is getting a boost today. OpenAI has updated the speech-to-text feature with Live Dictation that improves both speed and reliability. The enhanced dictation update also removes the 10-minute limit.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-18T18:25:09+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/chatgpt-app-icon-dark-openai.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/hackers-target-big-brands-like-mcdonalds-bayer-carmax-in-new-phishing-scam",
-    "title": "Hackers target big brands like McDonald’s, Bayer, CarMax in new phishing scam",
-    "description": "Typosquatted attacks just became a lot more dangerous and difficult to spot.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-11-18T18:25:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/z7YMfH58e2jpmr6TUmi6GG-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
