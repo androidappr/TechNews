@@ -1,5 +1,31 @@
 [
   {
+    "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "description": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-20T00:56:01+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261119/p56#a261119p56",
+    "title": "Source: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday's close, a 430%+ return on investment (Richard Nieva/Forbes)",
+    "description": "Richard Nieva / Forbes:\nSource: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday's close, a 430%+ return on investment  —  As the AI giant goes public in a historic IPO, these venture firms are reaping massive windfalls. … In January 2023, months …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-20T00:50:59+00:00",
+    "image_url": "http://www.techmeme.com/261119/i56.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
     "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
     "description": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
@@ -33,6 +59,18 @@
     "pub_date": "2026-11-20T00:35:46+00:00",
     "image_url": "http://www.techmeme.com/261119/i55.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.cnet.com/roadshow/uber-testing-rides-for-kids/",
+    "title": "Uber Is Testing Rides for Kids With Qualified Drivers",
+    "description": "The company is testing a ride option for children ages 10 to 12 in select cities for a limited time.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-20T00:33:42+00:00",
+    "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/uber-app-GettyImages-2194086206.jpg",
+    "source_name": "CNET.COM"
   },
   {
     "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
@@ -620,6 +658,7 @@
     "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
     "description": "Uber is testing the new program in three U.S. cities.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-19T21:33:24+00:00",
@@ -848,7 +887,6 @@
     "title": "Latest leak showcases Motorola Razr Flex in two unique colorways",
     "description": "Newly surfaced leak highlights the Motorola Razr Flex in green and beige colorways, pointing to a wide book-style foldable form factor running Android 17 ahead of a 2027 launch.",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-19T20:53:10+00:00",
@@ -906,7 +944,6 @@
     "title": "Chase, Visa and Mastercard confirm vendor hacks as n0n leaks customer data",
     "description": "JPMorgan Chase says hackers got into data held by companies that work for the bank, and that it may include some customers’ names and email addresses. Visa and Mastercard have also confirmed incidents at outside providers. We have learned that third parties who provide services to the firm were the target of a cyber attack.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-11-19T20:39:31+00:00",
@@ -1342,7 +1379,6 @@
     "title": "Ugreen's NASync DXP4800GT four-bay NAS gets 28% off for Black Friday",
     "description": "Ugreen NASync DXP4800GT gets a 28% Black Friday discount, making high-speed network storage more affordable for small businesses.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-19T19:00:00+00:00",
@@ -1388,7 +1424,6 @@
     "title": "Google adds computer use to Gemini for macOS, letting it work across apps, files, and the web in the background, available to US AI Plus, Pro, and Ultra users (Sarah Perez/TechCrunch)",
     "description": "Sarah Perez / TechCrunch:\nGoogle adds computer use to Gemini for macOS, letting it work across apps, files, and the web in the background, available to US AI Plus, Pro, and Ultra users  —  Google on Thursday announced that it is bringing computer use to its Gemini desktop application on macOS, allowing its AI …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-19T18:50:09+00:00",
@@ -1400,7 +1435,6 @@
     "title": "Ransomware group reportedly leaks Chase, Visa, and Mastercard customer data, but not credit card numbers",
     "description": "The n0n ransomware group claimed responsibility for a leak affecting thousands of Visa, Mastercard, and Chase customers.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-19T18:49:11+00:00",
@@ -2275,41 +2309,5 @@
     "pub_date": "2026-11-19T16:50:34+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/KzVEENfW8FWnFYDeuWR573-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/google-blue-origin-new-glenn-project-suncatcher-2029",
-    "title": "Google books Blue Origin’s New Glenn to launch its AI satellites in 2029",
-    "description": "Google has signed Blue Origin to launch satellites for Project Suncatcher, its research into AI data centres in space, on a New Glenn rocket in the first quarter of 2029. Each satellite carries Google TPUs and roughly a data centre rack of computing power. Google has booked Blue Origin’s New Glenn rocket to launch satellites",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-19T16:48:53+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/google-london-office-entrance-pancras-square-sign.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-early-black-friday-apple-live-deals-2026",
-    "title": "We found 14 early Black Friday Apple deals: AirPods on sale and $50 off the MacBook Neo",
-    "description": "Black Friday deals on Apple products are already live. The company raised prices this year, and this is your chance to cancel out those price hikes.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-19T16:46:36+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/046fF4BpjNOrkAYW0NccOHm/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/nvidia-h200-china-exports-commerce-kessler-the-information",
-    "title": "US official rushed Nvidia H200 approvals for China, The Information reports",
-    "description": "A senior US export official has pushed staff to fast-track Nvidia’s H200 chip sales to China, The Information reported. Jeffrey Kessler, who oversees the Bureau of Industry and Security, has applied the pressure in recent months, according to three people with knowledge of the matter. In some cases, Kessler told bureau staff to approve exports",
-    "categories": [
-      "Gadgets & Hardware",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-19T16:41:24+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/nvidia-logo-sign-building-exterior-trees.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
