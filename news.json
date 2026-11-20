@@ -1,8 +1,20 @@
 [
   {
+    "link": "https://www.digitaltrends.com/cool-tech/meta-wants-300-for-a-keychain-that-talks-to-its-ai/",
+    "title": "Meta is betting you’ll pay $300 to carry Muse in your pocket",
+    "description": "As per The Information, Meta plans to sell its pocket Muse Charm for $300 and include up to 12 months of free Verizon 5G, in time for the holidays. Meta has not confirmed the price.",
+    "categories": [
+      "Breaking News",
+      "Social & Media"
+    ],
+    "pub_date": "2026-11-20T04:31:44+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/09/Meta-muse-charm-front.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261119/p61#a261119p61",
-    "title": "Anthropic shares fell ~5% in after-hours trading following their debut, after the AI company raised a record $107.3B in its IPO (Bloomberg)",
-    "description": "Bloomberg:\nAnthropic shares fell ~5% in after-hours trading following their debut, after the AI company raised a record $107.3B in its IPO  —  Anthropic PBC shares were down about 5% in post-market trading as the artificial intelligence developer wrapped up its first day as a public company after a record-setting $107.3 billion offering.",
+    "title": "Anthropic shares fell ~5% in after-hours trading following its debut, after raising a record $107.3B in its IPO (Bloomberg)",
+    "description": "Bloomberg:\nAnthropic shares fell ~5% in after-hours trading following its debut, after raising a record $107.3B in its IPO  —  Anthropic PBC shares were down about 5% in post-market trading as the artificial intelligence developer wrapped up its first day as a public company after a record-setting $107.3 billion offering.",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -595,6 +607,7 @@
     "title": "Meta's Muse Charm will reportedly cost $300 and come with free Verizon 5G",
     "description": "Meta's standalone AI gadget won't be cheap, but it might come with a free data plan.",
     "categories": [
+      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-11-19T22:56:42+00:00",
@@ -629,7 +642,6 @@
     "title": "Sources: the White House named DOD Chief Information Officer Kirsten A. Davies as its national cyber director, replacing Sean Cairncross who is stepping down (Axios)",
     "description": "Axios:\nSources: the White House named DOD Chief Information Officer Kirsten A. Davies as its national cyber director, replacing Sean Cairncross who is stepping down  —  The White House named Kirsten A. Davies to be its new national cyber director Thursday as President Trump overhauls his AI team, Axios has learned.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-19T22:45:01+00:00",
@@ -664,7 +676,6 @@
     "description": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-19T22:31:41+00:00",
@@ -2263,16 +2274,5 @@
     "pub_date": "2026-11-19T17:15:50+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/06/Netflix-on-TV-family-watching.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261119/p42#a261119p42",
-    "title": "Sources: Alphabet plans to raise at least CA$5B in a five-part Canadian bond sale, after raising CA$8.5B in its debut Canadian offering in May (Bloomberg)",
-    "description": "Bloomberg:\nSources: Alphabet plans to raise at least CA$5B in a five-part Canadian bond sale, after raising CA$8.5B in its debut Canadian offering in May  —  Alphabet Inc. is returning to the Canadian market with a five-part bond sale, just six months after issuing its first notes in the currency.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-19T17:15:02+00:00",
-    "image_url": "http://www.techmeme.com/261119/i42.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
