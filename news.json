@@ -1,5 +1,27 @@
 [
   {
+    "link": "https://www.techradar.com/computing/monitors/lenovo-project-hoverview-leak-reveals-aerial-display-concept-12-inch-floating-screen-tipped-to-debut-at-ces-2027",
+    "title": "Lenovo leak reveals floating touchscreen that could debut at CES 2027",
+    "description": "Lenovo is developing a 12-inch floating screen with touchscreen gestures, according to a new leak.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-20T01:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/fEYCkDcn4nLRL5EFzuusJ4-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/computing/peripherals-accessories/logitech-pebble-mouse-2-review",
+    "title": "Logitech Pebble Mouse 2 review: the perfect travel mouse but not a fit for gaming or productivity",
+    "description": "With its handy, compact form factor and ridiculously lengthy battery life, I now exclusively use the Logitech Pebble Mouse 2 when I’m on the go.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-20T01:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/JVkV3wWusfsWudF9g3aSM3-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
     "title": "Apple may be developing its own AI agent that runs your Mac",
     "description": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
@@ -75,7 +97,7 @@
   {
     "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
     "title": "Anthropic rival says companies can (mostly) skip the pricey models",
-    "description": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open-source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+    "description": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
     "categories": [
       "Breaking News",
       "Business & Startups"
@@ -751,7 +773,6 @@
     "description": "Magnific, the Spanish AI creative platform once called Freepik, has not raised a funding round since 2010. Its customers have paid for everything, including the move into AI, co-founder and chief executive Joaquín Cuenca told TNW. “On outside investment, we have no plans today, but nothing is set in stone. The investment this market requires",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Government & Policy"
     ],
     "pub_date": "2026-11-19T21:13:20+00:00",
@@ -763,7 +784,6 @@
     "title": "Meta now sells 3D movies on Quest VR headsets",
     "description": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic World Rebirth, Wicked: For Good, and a Billie",
     "categories": [
-      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-11-19T21:12:06+00:00",
@@ -2287,27 +2307,5 @@
     "pub_date": "2026-11-19T16:51:10+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/yQvkmnEWLTT5Ee55xDiVkQ-1920-80.jpg",
     "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/apple-imac-oled-could-be-canceled",
-    "title": "The rumored OLED iMac may be canceled or delayed",
-    "description": "Nothing is confirmed, but Apple is reportedly thinking about delaying or canceling the rumored OLED iMac.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-19T16:51:01+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05Ieoano8yjnMwd17j1uMKA/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/ai-platforms-assistants/google-gemini-can-now-see-where-your-money-goes-analyze-your-spending-and-even-find-your-tickets-so-i-connected-my-bank-account-to-see-how-useful-it-really-is",
-    "title": "Gemini can now analyze your spending through Google Wallet",
-    "description": "I tested Gemini's new Google Wallet integration to see how it handles explaining and managing finances.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-19T16:50:34+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/KzVEENfW8FWnFYDeuWR573-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
