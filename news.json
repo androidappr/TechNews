@@ -1,5 +1,29 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+    "title": "Amazon is complaining about NYC Council on shipping labels, too",
+    "description": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently",
+    "categories": [
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-21T21:59:31+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PXL_20261121_204528314.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2324179/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks/",
+    "title": "FBI and USDA were reportedly targeted in back-to-back cyberattacks",
+    "description": "It's still unclear who is responsible for the two incidents.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-21T21:51:29+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks/l-intro-1795297525.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
     "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
     "description": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
@@ -539,7 +563,6 @@
     "title": "Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week (Financial Times)",
     "description": "Financial Times:\nSources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week  —  Acquisition would help AWS compete with Nvidia in race for computing power  —  Amazon is nearing a $7.5bn deal to buy start-up Decart …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-21T17:55:01+00:00",
@@ -596,6 +619,7 @@
     "title": "The FBI and USDA were reportedly hacked",
     "description": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law",
     "categories": [
+      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-11-21T17:42:27+00:00",
@@ -908,7 +932,6 @@
     "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
     "description": "Amazon only announced its first digital photo frame less than a month ago, but it’s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting at $114 ($115 off), making it a great holiday gift for anyone who loves displaying family photos. If",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-21T16:00:00+00:00",
@@ -1632,17 +1655,6 @@
     "source_name": "WIRED.COM"
   },
   {
-    "link": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
-    "title": "Harbinger is building the unsexy EVs that keep the economy moving",
-    "description": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch that includes a $300 million order from FedEx and a new defense contract with the US military. Harbinger is stacking up",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-21T12:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gang-shot-7.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
     "link": "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/",
     "title": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems",
     "description": "Several years ago, NASA tested systems for deterring dangerous space rocks. Now, a probe from the European Space Agency is returning to the scene to investigate.",
@@ -1663,6 +1675,17 @@
     "pub_date": "2026-11-21T12:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/07tHFbP0rv62050WATg5tX2/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
+    "title": "Harbinger is building the unsexy EVs that keep the economy moving",
+    "description": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch that includes a $300 million order from FedEx and a new defense contract with the US military. Harbinger is stacking up",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-21T12:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gang-shot-7.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.techradar.com/audio/earbuds-airpods/apple-airpods-5-bose-qc-ultra-earbuds-gen-2-technics-eah-az100-nothing-ear-a-or-shokz-openfit-pro-ive-found-the-earbuds-you-should-buy-this-black-friday",
@@ -2280,28 +2303,6 @@
     ],
     "pub_date": "2026-11-21T06:00:00+00:00",
     "image_url": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/therabody-promo-code/",
-    "title": "Therabody Promo Codes: 15% Off November 2026",
-    "description": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-21T06:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/brooks-promo-code/",
-    "title": "20% Off Brooks Promo Code | November 2026",
-    "description": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-21T06:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg",
     "source_name": "WIRED.COM"
   }
 ]
