@@ -1,5 +1,51 @@
 [
   {
+    "link": "https://mashable.com/tech/youtube-google-russell-brand-prison-video",
+    "title": "Google declined to take down Russell Brands not guilty prison message. Now its investigating.",
+    "description": "Google declined a U.K. request to remove a YouTube video sharing Russell Brand’s prison message. The company says it’s still reviewing the upload.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-21T19:24:06+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/03AomCpT06oX0ZppS9dYmhL/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/hacker-cyberleek-releases-an-xbox-build-gta-6",
+    "title": "The anonymous hacker Cyberleek releases an Xbox build of GTA VI",
+    "description": "The leaked build could be used to create a PC port far in advance of Rockstar's own schedule.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-21T19:17:49+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/04qTzUvo91qF9PVuNwONY9P/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2318772/how-does-icloud-private-relay-security-compare-vpn-alternatives/",
+    "title": "How does iCloud Private Relay's security compare to VPN alternatives?",
+    "description": "iCloud+ subscribers get access to Private Relay, which protects some of their online privacy without being an outright replacement for a traditional VPN.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-21T19:15:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-does-icloud-private-relays-security-compare-to-vpn-alternatives/l-intro-1794890895.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/days-after-nvidia-ceo-resigned-journalists-unearth-covert-influence-operation-using-right-wing-outlets-to-promote-nvidia-ai-chip-export-to-china",
+    "title": "Days after Nvidia CEO Jensen Huang resigned, journalists unearth covert influence operation using right-wing outlets to promote Nvidia AI chip export to...China",
+    "description": "An investigation uncovered an alleged influence campaign involving over 80 influencers promoting Nvidia chip exports to China, reaching approximately 14 million followers.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-21T19:15:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Gj6FC8sbfFe3MUp4FZwMJ5-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.engadget.com/2318759/largest-car-infotainment-touchscreen/",
     "title": "Which car has the largest infotainment touchscreen?",
     "description": "Most modern cars will have some kind of infotainment touchscreen, though not all are created equal. One car, in particular, rules the roost for sheer size.",
@@ -30,6 +76,7 @@
     "title": "Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China (Financial Times)",
     "description": "Financial Times:\nInvestigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China  —  Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-21T18:55:01+00:00",
@@ -593,17 +640,6 @@
     "source_name": "THEVERGE.COM"
   },
   {
-    "link": "https://www.engadget.com/2315158/where-find-which-graphics-card-gpu-in-windows-pc/",
-    "title": "Where you can find which GPU you have in your Windows PC",
-    "description": "Your laptop may be running two graphics processors without you knowing it. Here are the built-in Windows tools that reveal what is powering your games.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-21T16:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/where-you-can-find-which-gpu-you-have-in-your-windows-pc/l-intro-1794503483.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
     "link": "https://www.techradar.com/audio/wireless-headphones/anker-soundcore-space-2-pro-review",
     "title": "Anker Soundcore Space 2 Pro review: a messy headphone sequel, but not without merit",
     "description": "Soundcore’s new headphones aren’t quite the upgrade I was hoping for, but their amazing ANC and call quality still help them to stand as a solid option.",
@@ -625,6 +661,17 @@
     "pub_date": "2026-11-21T16:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/fqSN3VXFm8GGvyZcQcPe2a-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2315158/where-find-which-graphics-card-gpu-in-windows-pc/",
+    "title": "Where you can find which GPU you have in your Windows PC",
+    "description": "Your laptop may be running two graphics processors without you knowing it. Here are the built-in Windows tools that reveal what is powering your games.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-11-21T16:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/where-you-can-find-which-gpu-you-have-in-your-windows-pc/l-intro-1794503483.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://mashable.com/entertainment/gta-6-xbox-series-s-how-it-looks-runs",
@@ -2044,17 +2091,6 @@
     "source_name": "DIGITALTRENDS.COM"
   },
   {
-    "link": "https://gizmodo.com/illinois-officials-investigating-cyberattack-at-algonquin-dam-2000843422",
-    "title": "Illinois Officials Investigating Cyberattack at Algonquin Dam",
-    "description": "The dam isn't very large, and state officials have said there's no indication of a link to other recent outages.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-21T05:15:00+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/11/dnr-1280x720.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
     "link": "https://www.techmeme.com/261121/p1#a261121p1",
     "title": "Ubisoft launches Motherbrain, a subsidiary focused on developing \"smart NPCs with memory and AI game masters that manage large-scale systemic worlds\" (Sophie McEvoy/GamesIndustry.biz)",
     "description": "Sophie McEvoy / GamesIndustry.biz:\nUbisoft launches Motherbrain, a subsidiary focused on developing “smart NPCs with memory and AI game masters that manage large-scale systemic worlds”  —  Studio is currently developing “smart NPCs with memory and AI game masters that manage large-scale systemic worlds”",
@@ -2064,6 +2100,17 @@
     "pub_date": "2026-11-21T05:15:00+00:00",
     "image_url": "http://www.techmeme.com/261121/i1.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://gizmodo.com/illinois-officials-investigating-cyberattack-at-algonquin-dam-2000843422",
+    "title": "Illinois Officials Investigating Cyberattack at Algonquin Dam",
+    "description": "The dam isn't very large, and state officials have said there's no indication of a link to other recent outages.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-21T05:15:00+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/11/dnr-1280x720.jpg",
+    "source_name": "GIZMODO.COM"
   },
   {
     "link": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
@@ -2252,49 +2299,5 @@
     "pub_date": "2026-11-21T02:29:54+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/USC-Stress-Ring.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/japanese-supercomputer-hit-by-suspected-cyberattack-fugaku-facility-was-apparently-lacking-in-some-essential-security-protection",
-    "title": "Japanese supercomputer hit by suspected cyberattack — Fugaku facility was apparently lacking in some essential security protection",
-    "description": "Hackers compromised systems supporting Japan's Fugaku supercomputer, exposing thousands of users' credentials and forcing RIKEN to suspend operations.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-11-21T02:05:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/QyR9Tt5idjnvN5dvzNvRL7-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/home/air-fryers/smeg-moc02-microwave-combi-oven-review",
-    "title": "Smeg MOC02 Combi Microwave review: chic, compact, and packed with cooking power",
-    "description": "The MOC02 packs a microwave, grill, oven and air fryer into a smart-looking countertop appliance, and it's better value than its price tag might suggest.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-21T02:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/eLThaXrw3rhUiTBLowfDX5-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/palmer-luckey-wants-to-build-a-floating-island-that-can-last-1-000-years-oculus-rift-founder-says-slab-will-work-outside-of-state-local-laws-that-cripple-critical-american-industries",
-    "title": "Palmer Luckey wants to build a floating island that can last 1,000 years — Oculus Rift founder says SLAB will work outside of 'state/local laws that cripple critical American industries'",
-    "description": "Palmer Luckey's SLAB project proposes a floating industrial platform lasting 1,000 years, accommodating American industries while avoiding certain regulatory restrictions.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-21T01:10:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/GYJQLYj6PGUV7QepsPgMFQ-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261120/p43#a261120p43",
-    "title": "Oracle says it has secured funding for its infrastructure contract with OpenAI and \"any further private discussions with vendors are just additional options\" (@oracle)",
-    "description": "@oracle:\nOracle says it has secured funding for its infrastructure contract with OpenAI and “any further private discussions with vendors are just additional options”  —  Oracle has secured all the funding we need to fulfill our contract with OpenAI. With our final capital raise earlier this month, we became the first hyperscaler fully funded for this investment cycle. The financing we outlined at Oracle Investor Day, including vendor financing, is in...",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-21T00:25:00+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
-    "source_name": "TECHMEME.COM"
   }
 ]
