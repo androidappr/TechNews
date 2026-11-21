@@ -1,5 +1,64 @@
 [
   {
+    "link": "https://www.techmeme.com/261121/p10#a261121p10",
+    "title": "Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under \"ZDR\" policies, and saw \"privacy\" often broken, keys stolen (Dan Goodin/Ars Technica)",
+    "description": "Dan Goodin / Ars Technica:\nResearchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under “ZDR” policies, and saw “privacy” often broken, keys stolen  —  Researchers planted 2 million digital tripwires in requests sent through a sprawling network of AI services …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-21T20:10:02+00:00",
+    "image_url": "http://www.techmeme.com/261121/i10.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/nearly-all-software-teams-admit-to-shipping-ai-generated-code-as-study-finds-verification-has-not-kept-pace-with-that-shift",
+    "title": "Nearly all software teams admit to shipping AI-generated code as study finds verification 'has not kept pace with that shift'",
+    "description": "Development teams are relying on AI so much that they’re merging code they don’t fully understand.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-21T20:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/QXcBRNeHkzXC6am5m3TXYf-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+    "title": "The UN fails to agree on rules regulating ‘killer robots’",
+    "description": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-21T20:03:37+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2318874/how-to-block-device-home-network/",
+    "title": "How to block a device from your home network",
+    "description": "Did a strange device just connect to your home Wi-Fi? Don't panic. Here is how to identify exactly what it is and securely block it from your network.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-21T20:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-to-block-a-device-from-your-home-network/l-intro-1794821930.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/as-we-mourn-bioware-its-the-perfect-time-to-revisit-baldurs-gate",
+    "title": "After all this time, the first Baldur’s Gate is still a whimsical masterpiece, and BioWare’s gift to the world",
+    "description": "Baldur’s Gate might be intimidating in 2026, but it still proves why BioWare is the grandfather of modern RPGs.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-11-21T20:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Zn2srFokSPuqmhe6XnHzqi-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://mashable.com/tech/janelle-james-gta-6-radio-show",
     "title": "How Janelle James talked her way into GTA 6",
     "description": "Abbott Elementary star Janelle James explains how she pitched, wrote, and voiced She Got Assets, her own radio show in 'GTA 6.'",
@@ -9,6 +68,17 @@
     "pub_date": "2026-11-21T19:51:32+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/05qKrviOXbdtQQCfzNq8WvC/hero-image.jpg",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://gizmodo.com/what-the-hell-are-you-about-to-do-absolute-batman-2000843279",
+    "title": "What the Hell Are You About to Do, ‘Absolute Batman’?",
+    "description": "Things are never boring for Absolute Batman, and a newly announced arc shows things may get even worse for him and his loved ones.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-21T19:50:34+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/11/absolute-batman-catwoman-hed-1280x853.jpg",
+    "source_name": "GIZMODO.COM"
   },
   {
     "link": "https://www.engadget.com/2324141/anthropic-employee-claims-to-have-proven-the-most-famous-math-problem-using-claude/",
@@ -359,8 +429,7 @@
     "title": "OpenAI says its agents now finish nearly half of 2 to 4-hour research tasks",
     "description": "OpenAI says its coding agents now complete 46% of research tasks that would take a person two to four hours, with no human help. In March the figure was 23%. For tasks of four to eight hours, success rose from 13% to 35%. The figures come from Research acceleration: The jagged frontier, a report OpenAI",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-21T17:49:20+00:00",
     "image_url": "https://media.thenextweb.com/2026/11/openai-logo-phone-on-laptop-keyboard.avif",
@@ -632,7 +701,6 @@
     "title": "The MSI Claw 8 EX AI+ is hands down the best handheld console I’ve ever tested — and while there’s usually a premium to pay for its staggering performance, this new price makes it much easier to recommend",
     "description": "The MSI Claw 8 EX AI+ is by far the most powerful portable console I’ve ever gotten my hands on — and now you can get yours on it too for a truly great value price.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-11-21T16:15:37+00:00",
@@ -2161,17 +2229,6 @@
     "source_name": "DIGITALTRENDS.COM"
   },
   {
-    "link": "https://www.techmeme.com/261121/p1#a261121p1",
-    "title": "Ubisoft launches Motherbrain, a subsidiary focused on developing \"smart NPCs with memory and AI game masters that manage large-scale systemic worlds\" (Sophie McEvoy/GamesIndustry.biz)",
-    "description": "Sophie McEvoy / GamesIndustry.biz:\nUbisoft launches Motherbrain, a subsidiary focused on developing “smart NPCs with memory and AI game masters that manage large-scale systemic worlds”  —  Studio is currently developing “smart NPCs with memory and AI game masters that manage large-scale systemic worlds”",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-21T05:15:00+00:00",
-    "image_url": "http://www.techmeme.com/261121/i1.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
     "link": "https://gizmodo.com/illinois-officials-investigating-cyberattack-at-algonquin-dam-2000843422",
     "title": "Illinois Officials Investigating Cyberattack at Algonquin Dam",
     "description": "The dam isn't very large, and state officials have said there's no indication of a link to other recent outages.",
@@ -2181,6 +2238,17 @@
     "pub_date": "2026-11-21T05:15:00+00:00",
     "image_url": "https://gizmodo.com/app/uploads/2026/11/dnr-1280x720.jpg",
     "source_name": "GIZMODO.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261121/p1#a261121p1",
+    "title": "Ubisoft launches Motherbrain, a subsidiary focused on developing \"smart NPCs with memory and AI game masters that manage large-scale systemic worlds\" (Sophie McEvoy/GamesIndustry.biz)",
+    "description": "Sophie McEvoy / GamesIndustry.biz:\nUbisoft launches Motherbrain, a subsidiary focused on developing “smart NPCs with memory and AI game masters that manage large-scale systemic worlds”  —  Studio is currently developing “smart NPCs with memory and AI game masters that manage large-scale systemic worlds”",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-21T05:15:00+00:00",
+    "image_url": "http://www.techmeme.com/261121/i1.jpg",
+    "source_name": "TECHMEME.COM"
   },
   {
     "link": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
@@ -2236,72 +2304,5 @@
     "pub_date": "2026-11-21T04:30:25+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/google-nest-app-assistant-hero.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://gizmodo.com/hegseth-had-staff-search-online-to-see-which-officers-were-pro-vaccine-or-attended-dei-events-as-basis-for-17-blocked-promotions-2000843397",
-    "title": "Hegseth Had Staff Search Online to See Which Officers Were Pro-Vaccine or Attended DEI Events as Basis for 17 Blocked Promotions: Report",
-    "description": "According to MS Now, the \"internet searches\" resulted in 17 officers, including all but one of the female or POC candidates, being denied promotion.",
-    "categories": [
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-21T04:19:19+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2025/04/pete-hegseth-april-20-2025-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-    "title": "Startup sues Apple in India over tap-to-share contacts feature",
-    "description": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
-    "categories": [
-      "Gadgets & Hardware",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-21T04:00:00+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techradar.com/entertainment/cricket/watch-australia-vs-england-t20i-series-2026",
-    "title": "How to watch Australia vs England T20i Series 2026: Live Streams, TV Channels, Schedule & Preview",
-    "description": "All the ways to watch the Australia vs England 2026 T20i series from anywhere as Aussies look to bounce back after ODI series defeat by old enemy.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-21T04:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/32YokTq26CSfAd4GAvzYMi-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/nyt-connections-hints-meanings-november-21-2026",
-    "title": "NYT Connections hints today: Meanings for each word for Nov. 21, 2026",
-    "description": "Why is NYT Connections trending today? Explaining the meanings behind the clues for NYT Connections #1259.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-21T03:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05pqnesBOe9MMaB70K6YgUi/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-november-21-2026",
-    "title": "NYT Connections hints today: Clues, answers for November 21, 2026",
-    "description": "Connections is a New York Times word game that's all about finding the \"common threads between words.\" How to solve the puzzle.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-21T03:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03peqRvu8ium3PanfTNZzXn/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/strands-nyt-hint-november-21-2026",
-    "title": "NYT Strands hints, answers for November 21, 2026",
-    "description": "The NYT Strands hints and answers you need to make the most of your puzzling experience.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-21T03:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/04t0KDbmFlSghX9Bsmmd5ql/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
