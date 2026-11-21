@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.techradar.com/pro/smuggling-ai-into-a-national-exam-room-a-south-korean-candidate-used-a-pinhole-camera-and-concealed-earpiece-to-score-159-160-before-turning-himself-in",
+    "title": "Smuggling AI into a national exam room: A South Korean candidate used a pinhole camera and concealed earpiece to score 159/160 before turning himself in",
+    "description": "A South Korean candidate allegedly used miniature cameras, smartphones, and artificial intelligence to cheat across professional examinations, scoring 159 out of 160.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-21T23:35:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/spjRpjUstaVLfZfNx2N5xX-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2319272/build-mini-pc-cost-harder-than-expected/",
+    "title": "Building your own mini PC is harder than you would think",
+    "description": "Mini PCs are appealing for their small footprint, but there are some things you should consider before you commit to building your own.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-21T23:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/building-your-own-mini-pc-is-harder-than-you-would-think/l-intro-1794933308.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.engadget.com/2319181/google-products-services-discontinued-2026/",
     "title": "Six products and services Google discontinued in 2026",
     "description": "Here's a rundown of some Google tools that ended up in the graveyard this year.",
@@ -107,7 +130,6 @@
     "title": "FBI and USDA were reportedly targeted in back-to-back cyberattacks",
     "description": "It's still unclear who is responsible for the two incidents.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-11-21T21:51:29+00:00",
@@ -356,8 +378,7 @@
     "title": "Anthropic employee claims to have proven the most famous math problem using Claude",
     "description": "Levent Alpöge says he worked with Claude to discover a proof of the Riemann Hypothesis.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-21T19:45:01+00:00",
     "image_url": "https://www.engadget.com/img/gallery/anthropic-employee-claims-to-have-proven-the-most-famous-math-problem-using-claude/l-intro-1795290107.jpg",
@@ -717,7 +738,6 @@
     "title": "The FBI and USDA were reportedly hacked",
     "description": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-11-21T17:42:27+00:00",
@@ -2277,27 +2297,5 @@
     "pub_date": "2026-11-21T07:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/06RZSHotujO3z3s9u5vsWgV/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261121/p4#a261121p4",
-    "title": "NYU's Tristan Buckmaster and Anthropic's Levent Alpöge publish an AI-aided proof of Navier-Stokes blowup, saying it closes a loophole in OpenAI's solution (Peter Hall/Scientific American)",
-    "description": "Peter Hall / Scientific American:\nNYU's Tristan Buckmaster and Anthropic's Levent Alpöge publish an AI-aided proof of Navier-Stokes blowup, saying it closes a loophole in OpenAI's solution  —  Two months after getting scooped by OpenAI, N.Y.U. professor Tristan Buckmaster and Anthropic employee Levent Alpöge …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-21T06:30:00+00:00",
-    "image_url": "http://www.techmeme.com/261121/i4.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/eu-ai-cyberattack-october/",
-    "title": "AI-powered cyberattacks are here, and the EU just admitted to being a target for weeks",
-    "description": "The European Union has confirmed that a cyberattack using artificial intelligence hit a key institution in October, and some of the bloc’s digital tools were still offline when an official spoke on Thursday. According to the Associated Press, it is the first time the 27-member bloc has reported a cyberattack that used an AI tool.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-21T06:19:47+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/02/European_Union_Flags_2.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
   }
 ]
