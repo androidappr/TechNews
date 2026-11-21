@@ -1,5 +1,52 @@
 [
   {
+    "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-21T17:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/ebikes/kingbull-is-slashing-e-bike-prices-before-black-friday/",
+    "title": "Kingbull is slashing e-bike prices ahead of Black Friday and Cyber Monday, and these deals are worth a look",
+    "description": "Kingbull's Black Friday and Cyber Monday sale brings up to $1,150 in savings on electric bikes, including the Ranger, Hunter 2.0S, Expedition, and a selection of clearance models.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-21T17:00:00+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Kingbull-Expedition-e-bike-BFCM-Featured.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/cognition-funding-75bn-valuation-bloomberg-devin",
+    "title": "Cognition in talks to raise at a $75bn valuation, Bloomberg reports",
+    "description": "Cognition, the startup behind the AI coding agent Devin, is in talks to raise money at a $75bn valuation, two months after its last round. Bloomberg’s Rebecca Torrence reported the talks on Friday, citing people familiar with the matter. The company is weighing a raise of $2bn or more, according to Bloomberg. The talks are",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-21T16:46:49+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/scott-wu-cognition-ceo-headshot.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2318404/apple-homeview-cooking-feature/",
+    "title": "One of Apple HomeView's best features will have you cooking like a pro",
+    "description": "Apple makes cooking a blast with this new tool on its smart display.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-21T16:45:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/one-of-apple-homeviews-best-features-will-have-you-cooking-like-a-pro/l-intro-1794860270.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/home-theater/i-sifted-through-best-buys-black-friday-sale-to-find-these-8-standout-deals/",
     "title": "I Sifted Through Best Buy’s Black Friday Sale to Find These 8 Standout Deals",
     "description": "From a Samsung OLED TV to Beats headphones, I found 8 Best Buy Black Friday deals worth grabbing now.",
@@ -144,17 +191,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.techradar.com/gaming/everything-from-industrial-to-scruffy-to-decadent-to-dangerous-we-get-to-design-all-of-that-gta-6-devs-share-the-process-of-crafting-every-individual-npc-and-the-world-they-inhabit",
-    "title": "‘Everything from industrial to scruffy to decadent to dangerous. We get to design all of that’ — GTA 6 devs share the process of crafting every individual NPC and the world they inhabit",
-    "description": "Rockstar Games has shared its process for designing Grand Theft Auto 6's impressive collection of NPCs and how it made them authentic to Leonida.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-21T16:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/fqSN3VXFm8GGvyZcQcPe2a-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/audio/wireless-headphones/anker-soundcore-space-2-pro-review",
     "title": "Anker Soundcore Space 2 Pro review: a messy headphone sequel, but not without merit",
     "description": "Soundcore’s new headphones aren’t quite the upgrade I was hoping for, but their amazing ANC and call quality still help them to stand as a solid option.",
@@ -164,6 +200,17 @@
     ],
     "pub_date": "2026-11-21T16:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/YCza38ys4nD6jstSckhs8R-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/everything-from-industrial-to-scruffy-to-decadent-to-dangerous-we-get-to-design-all-of-that-gta-6-devs-share-the-process-of-crafting-every-individual-npc-and-the-world-they-inhabit",
+    "title": "‘Everything from industrial to scruffy to decadent to dangerous. We get to design all of that’ — GTA 6 devs share the process of crafting every individual NPC and the world they inhabit",
+    "description": "Rockstar Games has shared its process for designing Grand Theft Auto 6's impressive collection of NPCs and how it made them authentic to Leonida.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-11-21T16:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/fqSN3VXFm8GGvyZcQcPe2a-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -637,17 +684,6 @@
     "source_name": "TECHRADAR.COM"
   },
   {
-    "link": "https://www.engadget.com/2321236/how-to-use-gemini-notebook-to-turn-your-research-into-an-interactive-site/",
-    "title": "How to use Gemini Notebook to turn your research into an interactive site",
-    "description": "Gemini Notebook's newest feature can create a website with visual aids and interactive elements (just double-check its work).",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-21T13:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/how-to-use-gemini-notebook-to-turn-your-research-into-an-interactive-site/l-intro-1795027769.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
     "link": "https://www.techradar.com/ai-platforms-assistants/the-latest-demonstration-of-neuralinks-implant-capabilities-is-a-patient-piloting-a-speedboat-in-gta-6-using-only-brain-signals",
     "title": "A Neuralink implant enables a patient to pilot a speedboat in GTA 6",
     "description": "A Neuralink chip implant is helping one GTA 6 gamer get through missions using their brain and a few taps.",
@@ -658,6 +694,17 @@
     "pub_date": "2026-11-21T13:30:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/heGWftyUySNpCfVyFz4SLm-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2321236/how-to-use-gemini-notebook-to-turn-your-research-into-an-interactive-site/",
+    "title": "How to use Gemini Notebook to turn your research into an interactive site",
+    "description": "Gemini Notebook's newest feature can create a website with visual aids and interactive elements (just double-check its work).",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-21T13:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/how-to-use-gemini-notebook-to-turn-your-research-into-an-interactive-site/l-intro-1795027769.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://thenextweb.com/news/navier-stokes-blow-up-without-force-buckmaster-alpoge",
@@ -713,7 +760,6 @@
     "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
     "description": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware",
       "Mobile & Telecom"
     ],
@@ -726,7 +772,6 @@
     "title": "The game of the year is finally here",
     "description": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about nuclear radiation",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-21T13:00:00+00:00",
@@ -739,7 +784,6 @@
     "description": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy",
       "Gadgets & Hardware",
       "Software & Apps"
@@ -753,7 +797,6 @@
     "title": "How Honkai: Star Rail rejuvenated turn-based RPGs with the feel of action games",
     "description": "With the launch of the free-to-play RPG's 4.7 update, lead designer Chengnan An discusses the game's past and present.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-11-21T13:00:00+00:00",
@@ -1019,7 +1062,6 @@
     "title": "The best Kindles of 2026: We tested Amazon’s new e-readers to find the winners",
     "description": "Need help choosing the best Kindle to buy in 2026? We tested and reviewed Amazon's e-reader family to bring you our expert picks.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-21T11:00:00+00:00",
@@ -1609,17 +1651,6 @@
     "source_name": "DIGITALTRENDS.COM"
   },
   {
-    "link": "https://gizmodo.com/illinois-officials-investigating-cyberattack-at-algonquin-dam-2000843422",
-    "title": "Illinois Officials Investigating Cyberattack at Algonquin Dam",
-    "description": "The dam isn't very large, and state officials have said there's no indication of a link to other recent outages.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-21T05:15:00+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/11/dnr-1280x720.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
     "link": "https://www.techmeme.com/261121/p1#a261121p1",
     "title": "Ubisoft launches Motherbrain, a subsidiary focused on developing \"smart NPCs with memory and AI game masters that manage large-scale systemic worlds\" (Sophie McEvoy/GamesIndustry.biz)",
     "description": "Sophie McEvoy / GamesIndustry.biz:\nUbisoft launches Motherbrain, a subsidiary focused on developing “smart NPCs with memory and AI game masters that manage large-scale systemic worlds”  —  Studio is currently developing “smart NPCs with memory and AI game masters that manage large-scale systemic worlds”",
@@ -1629,6 +1660,17 @@
     "pub_date": "2026-11-21T05:15:00+00:00",
     "image_url": "http://www.techmeme.com/261121/i1.jpg",
     "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://gizmodo.com/illinois-officials-investigating-cyberattack-at-algonquin-dam-2000843422",
+    "title": "Illinois Officials Investigating Cyberattack at Algonquin Dam",
+    "description": "The dam isn't very large, and state officials have said there's no indication of a link to other recent outages.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-21T05:15:00+00:00",
+    "image_url": "https://gizmodo.com/app/uploads/2026/11/dnr-1280x720.jpg",
+    "source_name": "GIZMODO.COM"
   },
   {
     "link": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
@@ -2239,49 +2281,5 @@
     "pub_date": "2026-11-20T21:50:12+00:00",
     "image_url": "https://www.engadget.com/img/gallery/how-to-stream-gta-6-on-your-iphone-ipad-or-mac/l-intro-1795210531.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261120/p36#a261120p36",
-    "title": "Sources: Cognition is considering raising $2B or more at a $75B valuation, after raising over $3B in 2026 so far, including $2B at a $48B valuation in September (Rebecca Torrence/Bloomberg)",
-    "description": "Rebecca Torrence / Bloomberg:\nSources: Cognition is considering raising $2B or more at a $75B valuation, after raising over $3B in 2026 so far, including $2B at a $48B valuation in September  —  Artificial intelligence coding startup Cognition AI Inc. is in funding talks at a $75 billion valuation, just two months …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-20T21:35:00+00:00",
-    "image_url": "http://www.techmeme.com/261120/i36.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/black-friday-gift-guide/",
-    "title": "Black Friday Gift Guide",
-    "description": "There’s a lot more to Black Friday than discounted TVs and laptops. This year, we’re looking at tech that’s a little more interesting, from electric bikes and portable entertainment to clever gadgets for around the house. Some are practical, some are purely for fun, and a few might surprise you.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-20T21:34:09+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/DT-Black-Friday-Gift-Guide-2026-Feature-Image.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261120/p35#a261120p35",
-    "title": "Many longtime Etsy sellers say they are leaving after Etsy updated its terms to say Etsy and its third-party partners can use sellers' content for AI training (Reggie Ugwu/New York Times)",
-    "description": "Reggie Ugwu / New York Times:\nMany longtime Etsy sellers say they are leaving after Etsy updated its terms to say Etsy and its third-party partners can use sellers' content for AI training  —  Numerous longtime users of the online marketplace have left the platform because they do not want their work training artificial intelligence.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-20T21:30:03+00:00",
-    "image_url": "http://www.techmeme.com/261120/i35.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://gizmodo.com/youtube-reportedly-nearing-multi-billion-settlement-with-school-districts-over-social-media-addiction-harms-2000843341",
-    "title": "YouTube Reportedly Nearing Multi-Billion Settlement With School Districts Over Social Media Addiction, Harms",
-    "description": "Bloomberg reported the settlement could hit $3 billion, and YouTube has offered additional safeguards—a familiar promise from Big Tech firms.",
-    "categories": [
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-20T21:29:54+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2025/11/youtube-office-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
   }
 ]
