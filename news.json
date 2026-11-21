@@ -1,5 +1,18 @@
 [
   {
+    "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+    "title": "A tale of two Nvidias",
+    "description": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-21T21:07:42+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/computing/intel-nova-lake-cpu-28-core-52ghz-leak/",
     "title": "Intel’s next-gen Nova Lake CPU hits 5.2GHz, and it could be seriously power-hungry",
     "description": "Intel's Nova Lake-S desktop CPU has appeared with 28 cores and a reported 5.2GHz clock, while Nova Lake-H laptop specifications also emerge.",
@@ -9,6 +22,29 @@
     "pub_date": "2026-11-21T21:00:50+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Intel-Core-Ultra-Featured.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2319050/whats-new-siri-remote-does-older-apple-tv-support/",
+    "title": "What's new with Apple's latest Siri Remote, and does your old Apple TV support it?",
+    "description": "The 4th-gen Apple TV 4K comes with a new remote. Here's what you need to know about it.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-21T21:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/whats-new-with-apples-latest-siri-remote-and-does-your-old-apple-tv-support-it/l-intro-1794593750.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2319042/trade-offs-using-apple-airpods-max-headphones/",
+    "title": "The trade-offs of using Apple's AirPods Max headphones",
+    "description": "Apple's AirPods Max sound great, but they come with a lot of compromises for $549 headphones.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-21T20:45:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/the-trade-offs-of-using-apples-airpods-max-headphones/l-intro-1794842835.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.digitaltrends.com/cool-tech/google-gemini-ai-gif-generation/",
@@ -581,7 +617,6 @@
     "title": "Samsung names new chip and phone bosses amid a reported China shipment halt",
     "description": "Samsung Electronics has named new heads for its memory chip and smartphone businesses. The changes came in a week when it reportedly paused some chip shipments to China under new US export rules. The company announced the changes on Friday in Korea. Sang Joon Hwang will run the memory business, and Won-Joon Choi takes over",
     "categories": [
-      "Breaking News",
       "Gadgets & Hardware",
       "Government & Policy",
       "Mobile & Telecom"
@@ -986,7 +1021,6 @@
     "title": "Rhodium: China's biggest tech companies are set to double capex to $139B in 2026 with AI lab revenue under 8% of it, a gap that may matter more than chip curbs (New York Times)",
     "description": "New York Times:\nRhodium: China's biggest tech companies are set to double capex to $139B in 2026 with AI lab revenue under 8% of it, a gap that may matter more than chip curbs  —  While Anthropic and other Silicon Valley A.I. giants are raising tens of billions in capital, Chinese rivals are struggling to keep pace financially.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-21T15:10:01+00:00",
@@ -2268,38 +2302,5 @@
     "pub_date": "2026-11-21T05:50:40+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/gta-vi-robbery-hero.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/valve-ends-waitlist-for-steam-machine-and-signals-imminent-price-hike-in-2027/",
-    "title": "Valve ends waitlist for Steam Machine and signals imminent price hike in 2027",
-    "description": "Valve has moved the 512GB Steam Machine to direct add-to-cart ordering after fulfilling all reservations, while closing new waitlist signups for the constrained 2TB model and flagging potential price hikes driven by surging memory and storage costs.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-21T05:38:20+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2025/11/Steam-Machine-Angled-Shot.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261121/p1#a261121p1",
-    "title": "Ubisoft launches Motherbrain, a subsidiary focused on developing \"smart NPCs with memory and AI game masters that manage large-scale systemic worlds\" (Sophie McEvoy/GamesIndustry.biz)",
-    "description": "Sophie McEvoy / GamesIndustry.biz:\nUbisoft launches Motherbrain, a subsidiary focused on developing “smart NPCs with memory and AI game masters that manage large-scale systemic worlds”  —  Studio is currently developing “smart NPCs with memory and AI game masters that manage large-scale systemic worlds”",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-21T05:15:00+00:00",
-    "image_url": "http://www.techmeme.com/261121/i1.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://gizmodo.com/illinois-officials-investigating-cyberattack-at-algonquin-dam-2000843422",
-    "title": "Illinois Officials Investigating Cyberattack at Algonquin Dam",
-    "description": "The dam isn't very large, and state officials have said there's no indication of a link to other recent outages.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-21T05:15:00+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/11/dnr-1280x720.jpg",
-    "source_name": "GIZMODO.COM"
   }
 ]
