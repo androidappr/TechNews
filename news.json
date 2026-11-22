@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.engadget.com/2319291/how-to-enable-usb-port-charging-pc-off/",
+    "title": "Your PC's USB port can charge your phone, even when it's turned off — Here's how",
+    "description": "Yes, a powered-off PC can still charge your phone, but only if the right feature is on. Here's what to check before you shut down and walk away.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-22T00:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/your-pcs-usb-port-can-charge-your-phone-even-when-its-turned-off-heres-how/l-intro-1794604560.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/nvidia-finally-reveals-new-rubin-gpu-with-almost-3x-more-cuda-cores-than-the-nvidia-rtx-5090-but-you-will-have-to-wait-till-2028-to-grab-it",
     "title": "Nvidia finally reveals new Rubin GPU with almost 3X more CUDA cores than the Nvidia RTX 5090 — but you will have to wait till 2028 to grab it",
     "description": "Nvidia's Rubin HPC GPU packs over 50,000 CUDA cores, targets scientific simulations, and is expected to reach systems in 2028.",
@@ -339,23 +350,11 @@
     "title": "Forget searching for GIFs, Gemini can now make its own",
     "description": "Gemini can now turn text prompts, photos, and videos into short looping GIFs using Google's Omni 1.2 Flash model.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-21T20:35:18+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Google-Gemini-Logo-Featured-Official.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2319034/discs-vs-disks-differences/",
-    "title": "Discs vs. disks: What's the difference?",
-    "description": "They're pronounced the same and only deviate by a single letter, but their mechanics and usage are quite different.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-21T20:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/discs-vs-disks-whats-the-difference/l-intro-1794926692.jpg",
-    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://9to5mac.com/2026/11/21/indie-app-spotlight-salon-is-an-apple-tv-app-that-turns-your-tv-into-a-picture-frame/",
@@ -367,6 +366,17 @@
     "pub_date": "2026-11-21T20:30:00+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/salon-in-a-living-room.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2319034/discs-vs-disks-differences/",
+    "title": "Discs vs. disks: What's the difference?",
+    "description": "They're pronounced the same and only deviate by a single letter, but their mechanics and usage are quite different.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-21T20:30:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/discs-vs-disks-whats-the-difference/l-intro-1794926692.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://www.engadget.com/2318875/why-apple-vision-pro-did-not-take-off-vs-meta-vr/",
@@ -2279,18 +2289,6 @@
     ],
     "pub_date": "2026-11-21T10:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/00DWcgfE762TKIamM8ajgo4/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/nov-21-1minai-advanced-business-plan-lifetime-subscription",
-    "title": "Get lifetime access to all your favorite AI models for a one-time payment of $65",
-    "description": "1min.AI gives you lifetime access to AI models like GPT, Gemini, Claude, and many more for $65",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-21T10:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/07GnXhTbF9IsXhf0fZO105J/hero-image.jpg",
     "source_name": "MASHABLE.COM"
   }
 ]
