@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.techradar.com/pro/security/while-attackers-use-ai-to-create-better-phishing-lures-todays-cybercrime-tools-do-much-more-experts-warn-themailer-ai-phishing-kit-runs-on-claude-and-chatgpt-and-constantly-evolves-until-it-gets-past-your-spam-filter",
+    "title": "'While attackers use AI to create better phishing lures, today's cybercrime tools do much more': Experts warn 'TheMailer' AI phishing kit runs on Claude and ChatGPT — and constantly evolves until it gets past your spam filter",
+    "description": "TheMailer uses Claude, ChatGPT, and other AI models to generate personalized phishing emails, repeatedly rewriting messages until they bypass spam filters.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-22T22:20:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/88Btws2w53ivfStaAhDZgR-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2319544/free-app-connects-android-phone-windows-pc-wirelessly-plainapp/",
+    "title": "This free app connects your Android phone to your Windows PC wirelessly",
+    "description": "Connecting your Android phone to your Windows PC wirelessly doesn't have to cost money or require a multi-step setup, as this free app proves.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-22T22:15:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/this-free-app-connects-your-android-phone-to-your-windows-pc-wirelessly/l-intro-1794633420.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/11/22/ios-27-has-a-clever-fix-for-unreliable-wi-fi-connections/",
     "title": "iOS 27 has a clever fix for unreliable Wi-Fi connections",
     "description": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a month, all on America’s largest 5G network. See all of the available plans at tello.com.\n\n\n\niOS 27 includes a really clever new feature that aims to solve the awkward middle ground between cellular and Wi-Fi connectivity. Here’s how it works and how you can turn it on.\n\n\n\n more…",
@@ -356,7 +379,6 @@
     "title": "OpenAI shares its models' perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains (Jakub Pachocki/OpenAI)",
     "description": "Jakub Pachocki / OpenAI:\nOpenAI shares its models' perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains  —  - Difficulty of comparison across labs. … - Detachment from actionable evaluations. … - Not accounting for advances outside of pretraining.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-22T18:25:01+00:00",
@@ -605,7 +627,6 @@
     "title": "Electrify your Black Friday shopping: Get a discount of more than $400 on this Bluetti Elite power station",
     "description": "The Bluetti Elite 100 Mini portable power station has been marked down to $379.99 in the Black Friday sale. That's a savings of $419.01 from the list price of $799.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-22T16:30:00+00:00",
@@ -628,7 +649,6 @@
     "title": "Black Friday iPad deals: save big on the iPad Air, iPad Pro, and new iPad mini",
     "description": "I've trawled the internet for the best Black Friday iPad deals, so you can simply pick your favorite.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-22T16:23:12+00:00",
@@ -2213,27 +2233,5 @@
     "pub_date": "2026-11-21T20:15:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/why-apple-vision-pro-never-took-off-like-metas-vr-headsets/l-intro-1794915957.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261121/p10#a261121p10",
-    "title": "Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under \"ZDR\" policies, and saw \"privacy\" often broken, keys stolen (Dan Goodin/Ars Technica)",
-    "description": "Dan Goodin / Ars Technica:\nResearchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under “ZDR” policies, and saw “privacy” often broken, keys stolen  —  Researchers planted 2 million digital tripwires in requests sent through a sprawling network of AI services …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-21T20:10:02+00:00",
-    "image_url": "http://www.techmeme.com/261121/i10.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/nearly-all-software-teams-admit-to-shipping-ai-generated-code-as-study-finds-verification-has-not-kept-pace-with-that-shift",
-    "title": "Nearly all software teams admit to shipping AI-generated code as study finds verification 'has not kept pace with that shift'",
-    "description": "Development teams are relying on AI so much that they’re merging code they don’t fully understand.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-21T20:05:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/QXcBRNeHkzXC6am5m3TXYf-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
