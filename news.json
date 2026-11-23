@@ -1,5 +1,74 @@
 [
   {
+    "link": "https://thenextweb.com/news/anthropic-enterprise-frontier-safeguards-zero-data-retention-beta",
+    "title": "Anthropic can now watch for Claude misuse without keeping firms’ data",
+    "description": "Anthropic has opened Enterprise Frontier Safeguards in public beta, letting it scan for misuse across many Claude requests while companies keep their data in their own cloud storage. It answers enterprise pushback over the 30-day retention Anthropic introduced with Fable 5. Anthropic has opened a new safety system for business users of Claude in a",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-23T21:07:38+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/anthropic-wordmark-3d-render-purple-glass.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/23/kodak-slidetag-e-ink-iphone-tracker-airtag/",
+    "title": "Kodak SlideTag is a $35 AirTag alternative with an E-Ink display for your photos",
+    "description": "Offering support for iPhone and Android’s tracking networks, the new Kodak SlideTag offers the neat added functionality over an AirTag of being able to show your photos and more on an E-Ink display.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-23T21:05:00+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/kodak-slidetag-1.jpg?quality=82&strip=all&w=1200",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/23/apple-announces-ted-lasso-season-5-is-coming/",
+    "title": "Apple announces Ted Lasso season 5 is coming",
+    "description": "Apple TV (now $6.99/month for limited time) has just announced that Ted Lasso will return for season 5. Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-23T21:01:24+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ted-lasso-s4-finale-team.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2320290/discontinued-airtags-still-serve-purpose/",
+    "title": "Your older, discontinued AirTags can still serve a purpose",
+    "description": "Apple has moved on from the original AirTag, but you don't have to. Find out how your old trackers can still earn their keep at home and on the go.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-23T21:00:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/your-older-discontinued-airtags-can-still-serve-a-purpose/l-intro-1794602506.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/this-black-friday-1tb-cloud-backup-storage-2-year-discount-deal-is-85-percent-off-making-it-just-usd3-29-per-month-and-it-also-includes-a-vpn-antivirus-secure-browser-and-5gb-esim-data-for-free",
+    "title": "This Black Friday 1TB Cloud Backup storage 2 year discount deal is 85% off making it just $3.29 per month — and it also includes a VPN, antivirus, secure browser, and 5GB eSIM data for free",
+    "description": "This two year deal is the cheapest software combo I've seen, and is an essential for any cyber pro looking for a Black Friday deal on cloud storage, antivirus, and a VPN.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-23T21:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/RNtQ7bgySQMxnR7BbmXWy3-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/",
+    "title": "New leaks reveal the iPhone 18e will have a redesigned camera plateau",
+    "description": "We've also got further confirmation the iPhone Air 2 will have a second camera lens.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-23T20:57:55+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/l-intro-1795466976.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/computing/anthropic-claude-ship-code-review/",
     "title": "Anthropic expands Claude Code’s review tools with automated fixes and approvals",
     "description": "Anthropic’s Claude Code already has a pretty useful Code Review feature that can examine pull requests and flag problems before the code gets merged. But finding issues is only one part of the process. Developers still have to go back, fix the problems, run the checks again, and find someone to approve the changes. Anthropic",
@@ -58,6 +127,18 @@
     "pub_date": "2026-11-23T20:37:35+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/03/Samsung-Galaxy-S26-Ultra-battery.jpg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/jensen-huang-nvidia-senate-testimony",
+    "title": "Jensen Huang is set to testify before the Senate, and he has some explaining to do",
+    "description": "Nvidia CEO Jensen Huang is set to testify publicly on Dec. 3 as lawmakers scrutinize AI chip exports to China and Trump’s role in his return.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-23T20:36:51+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/01qAIlL8ScMapvrfNLXTtYA/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
@@ -432,6 +513,7 @@
     "title": "Kodak's SlideTag combines a digital photo frame and an AirTag",
     "description": "The SlideTag will come in a blind box with nine fun designs.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-23T19:20:26+00:00",
@@ -1292,7 +1374,6 @@
     "description": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-11-23T17:14:23+00:00",
@@ -1327,7 +1408,6 @@
     "title": "Meta throws out its net-zero goal — its competitors should be furious",
     "description": "Meta walked back its 2030 net-zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
     "categories": [
-      "Breaking News",
       "Science & Environment",
       "Social & Media"
     ],
@@ -1340,7 +1420,6 @@
     "title": "Tower Records Japan restarts shipping after leak of 11 million records",
     "description": "Tower Records Japan will start shipping online orders again from Monday. A breach last week exposed about 11 million customer records, it said. The music retailer gave the update on Sunday evening in its notice on the incident. Its online store, Tower Records Online, stays shut for now. Its marketplace has no date to reopen.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-11-23T17:13:44+00:00",
@@ -1696,8 +1775,8 @@
   },
   {
     "link": "https://www.techmeme.com/261123/p27#a261123p27",
-    "title": "US lawmakers criticize Nvidia's decision to reinstate Jensen Huang and say Congress must pass legislation to crack down on US chip exports to China (Reuters)",
-    "description": "Reuters:\nUS lawmakers criticize Nvidia's decision to reinstate Jensen Huang and say Congress must pass legislation to crack down on US chip exports to China  —  US lawmakers from both parties sharply criticized Nvidia's (NVDA.O) decision to reinstate Jensen Huang as CEO, saying Congress …",
+    "title": "US lawmakers from both parties criticize Nvidia for reinstating Jensen Huang and say Congress must pass legislation to crack down on US chip exports to China (Reuters)",
+    "description": "Reuters:\nUS lawmakers from both parties criticize Nvidia for reinstating Jensen Huang and say Congress must pass legislation to crack down on US chip exports to China  —  US lawmakers from both parties sharply criticized Nvidia's (NVDA.O) decision to reinstate Jensen Huang as CEO …",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -2300,88 +2379,6 @@
     ],
     "pub_date": "2026-11-23T15:14:39+00:00",
     "image_url": "http://www.techmeme.com/261123/i25.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/major-hack-sees-attackers-steal-credit-card-numbers-cvvs-from-ecommerce-firm-cleverbridge",
-    "title": "Major hack sees attackers steal credit card numbers, CVVs from ecommerce firm Cleverbridge",
-    "description": "\"Notify your issuer and possibly replace your card,\" Cleverbridgey warns customers after it discovers a major breach and data theft.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-11-23T15:11:10+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/J3fmnuXg4EhfMfqppxXGod-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://gizmodo.com/macbook-neo-2-ipad-spring-update-2000843885",
-    "title": "No. 1 Apple Leaker Says MacBook Neo 2 and Complete iPad Refresh Coming in Spring",
-    "description": "The MacBook Neo 2 could come in all-new colors, just like the yearly iPhone refresh.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-23T15:10:02+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/03/Apple-Macbook-Neo-March-4th-15-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/home-theater/bose-quietcomfort-2nd-gen-black-friday-amazon-deal/",
-    "title": "Bose’s new QuietComfort (2nd Gen) just hit their lowest-ever price during the Amazon Black Friday sale",
-    "description": "The Bose QuietComfort Headphones (2nd Gen) are finally available at their lowest-ever price on Amazon.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-23T15:07:25+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Bose-QuietComfort-headphones-Gen-2-lowest-ever-price-Amazon.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/contributor-content/the-next-ai-opportunity-could-be-hiding-in-your-companys-work-apps/",
-    "title": "The Next AI Opportunity Could Be Hiding in Your Company’s Work Apps",
-    "description": "The support ticket is closed. The project is finished. The team has moved on. What remains inside the software can still explain something useful: how people diagnosed a problem, chose an action and reached a result. SourceX wants companies to consider whether approved records of that work could have another purpose. What does SourceX do?",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-23T15:04:34+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/1-3.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-    "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
-    "description": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Gadgets & Hardware",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-23T15:04:01+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/home-theater/airpods-pro-3-black-friday-deal-amazon/",
-    "title": "Amazon’s all-time-low price on AirPods Pro 3 is the best Black Friday deal you can’t afford to miss",
-    "description": "Apple accessories have seen some pretty tempting price cuts this Black Friday, and we’ve covered a fair share of them already. But the latest discount on the AirPods Pro 3 is in a different league. Amazon has dropped the price of Apple’s flagship earbuds to just $149, down from their usual $249 asking price. That’s",
-    "categories": [
-      "Breaking News",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-23T15:03:44+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/best-product-shopping-guide-1.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261123/p24#a261123p24",
-    "title": "Analysis: GTA VI has sold 44.9M copies, not including unsold retail inventory, with the PS5 accounting for 33.7M units, and generated $4B+ in gross revenue (Rhys Elliott/Alinea)",
-    "description": "Rhys Elliott / Alinea:\nAnalysis: GTA VI has sold 44.9M copies, not including unsold retail inventory, with the PS5 accounting for 33.7M units, and generated $4B+ in gross revenue  —  We dive into our sell-through estimates (no unsold retail copies) for the biggest game of the year, and the biggest entertainment launch of all time.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-23T15:01:24+00:00",
-    "image_url": "http://www.techmeme.com/261123/i24.jpg",
     "source_name": "TECHMEME.COM"
   }
 ]
