@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://thenextweb.com/news/openai-chief-scientist-shared-ai-limits",
+    "title": "OpenAI’s chief scientist calls for industry-wide limits on AI models",
+    "description": "OpenAI’s chief scientist Jakub Pachocki has asked rival AI labs to agree on limits they won’t cross with their most powerful models. He made the case in an essay published on Sunday, and CEO Sam Altman was quick to back him. The idea is built around perplexity, a score for how well a model guesses",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-23T07:46:32+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/openai-logo-smartphone-red-screen.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261123/p4#a261123p4",
     "title": "Chinese physical AI startup Simplexity Robotics raised a $100M pre-Series A led by Ant Group, with Alibaba, Tencent, and others joining, at a $1.6B valuation (Saritha Rai/Bloomberg)",
     "description": "Saritha Rai / Bloomberg:\nChinese physical AI startup Simplexity Robotics raised a $100M pre-Series A led by Ant Group, with Alibaba, Tencent, and others joining, at a $1.6B valuation  —  Chinese physical AI startup Simplexity Robotics received $100 million in a funding round led by Jack Ma-backed Ant Group Co. …",
@@ -164,7 +176,6 @@
     "title": "Alexandr Wang says the Riemann Hypothesis proof shows AI will surpass humans in every field, including AI research, and calls for AI safety and alignment (Alexandr Wang/@alexandr_wang)",
     "description": "Alexandr Wang / @alexandr_wang:\nAlexandr Wang says the Riemann Hypothesis proof shows AI will surpass humans in every field, including AI research, and calls for AI safety and alignment  —  Superintelligence is Arriving",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-23T04:00:14+00:00",
@@ -2212,16 +2223,5 @@
     "pub_date": "2026-11-22T06:40:16+00:00",
     "image_url": "http://www.techmeme.com/261122/i4.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/cars/tesla-fsd-v15-rollout/",
-    "title": "FSD v15 is rolling out, and Tesla says it handles risky moments 25 times better",
-    "description": "Tesla has started rolling out FSD v15 with Reality View, a claimed 25 times improvement in safety-critical cases, speed camera slowdown, and Bike Rack Mode.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-22T06:34:41+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Tesla-Reality-View-on-the-center-display.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
   }
 ]
