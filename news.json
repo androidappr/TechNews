@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://thenextweb.com/news/tesla-fsd-v15-reality-view-25x-safety",
+    "title": "Tesla’s FSD v15 adds Reality View, a live AI-generated view of the road",
+    "description": "Tesla has started rolling out version 15 of its Full Self-Driving (Supervised) software, which it says upgrades every part of its end-to-end driving network. The company announced the update in a post on X on Saturday. It says v15 handles safety-critical cases 25 times better. FSD v15 now starting to roll out – upgrading every",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-23T16:27:04+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/tesla-fsd-v15-reality-view-model-y-golden-gate-bridge.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261123/p27#a261123p27",
+    "title": "US lawmakers criticize Nvidia's decision to reinstate Jensen Huang and say Congress must pass legislation to crack down on US chip exports to China (David Shepardson/Reuters)",
+    "description": "David Shepardson / Reuters:\nUS lawmakers criticize Nvidia's decision to reinstate Jensen Huang and say Congress must pass legislation to crack down on US chip exports to China  —  US lawmakers from both parties offered sharp criticism on Monday of Nvidia's (NVDA.O) decision to reinstate Jensen Huang as CEO …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-23T16:25:02+00:00",
+    "image_url": "http://www.techmeme.com/261123/i27.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+    "title": "CrowdStrike to acquire Zscaler for $44 billion",
+    "description": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-23T16:20:11+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2321531/what-green-flasing-light-roku-remote-telling-you/",
+    "title": "What the green flashing light on your Roku remote is telling you",
+    "description": "Find out what your Roku remote's green light means, when it's harmless and when it signals a problem, plus what to do if your remote isn't working as it should.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-23T16:15:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/what-the-green-flashing-light-on-your-roku-remote-is-telling-you/l-intro-1795026720.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/marlowe-277m-seed-multi-silicon-ai-inference-factories",
+    "title": "Marlowe raises a $277M seed to run AI on chips that aren’t Nvidia’s",
+    "description": "Marlowe, a startup founded in May by former Convoy and Microsoft executives, has raised $277M in seed funding led by Accel at a $1.15B valuation. It builds AI data centres for inference using a mix of chips from companies such as Etched and AMD, rather than Nvidia alone. Marlowe, a startup that builds AI data",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-23T16:14:54+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/ai-chip-render-light-blue-background.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
     "title": "Tech leaders are celebrating Jensen Huang’s return",
     "description": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable company. (The stock price has recently taken",
@@ -60,6 +120,18 @@
     "pub_date": "2026-11-23T16:05:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/WgYZVv6ucLUnQDJXEGANqc-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/project-jupiter-report-legal-threat",
+    "title": "Project Jupiter report returns online after developers’ legal threat",
+    "description": "The New Mexico Environmental Law Centre and the Tech Initiative have put their investigative report on Project Jupiter back online. A legal threat from a law firm tied to the data centre’s developers had kept it offline for seven weeks. The two groups first published the report on September 24. A letter demanding its retraction",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-23T16:00:28+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/project-jupiter-data-centre-campus-rendering.avif",
+    "source_name": "THENEXTWEB.COM"
   },
   {
     "link": "https://www.theverge.com/gadgets/1039999/alienware-aw2726dm-qdoled-gaming-monitor-black-friday-2026-deal-sale",
@@ -356,6 +428,7 @@
     "description": "The Netherlands' data protection agency said smart wearables violate people's privacy, get information wrong, and can result in unsafe situations.",
     "categories": [
       "Cybersecurity & Privacy",
+      "Gadgets & Hardware",
       "Government & Policy",
       "Social & Media"
     ],
@@ -867,7 +940,7 @@
       "Tech News"
     ],
     "pub_date": "2026-11-23T14:16:53+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/l-intro-1795448108.jpg",
+    "image_url": "https://www.engadget.com/img/gallery/nvidia-reinstates-jensen-huang-as-ceo-and-president-effective-immediately/l-intro-1795450398.jpg",
     "source_name": "ENGADGET.COM"
   },
   {
@@ -1471,6 +1544,7 @@
     "title": "Marlowe, which develops cloud infrastructure and performance tools to optimize non-Nvidia AI chips, raised a $277M seed led by Accel at a $1.15B valuation (Dina Bass/Bloomberg)",
     "description": "Dina Bass / Bloomberg:\nMarlowe, which develops cloud infrastructure and performance tools to optimize non-Nvidia AI chips, raised a $277M seed led by Accel at a $1.15B valuation  —  Marlowe, a six-month-old startup co-founded by two Microsoft Corp. vice presidents, has raised $277 million to pursue ways …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-23T12:15:00+00:00",
@@ -2325,73 +2399,5 @@
     "pub_date": "2026-11-23T10:00:00+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/04skHorI9mo3jB3KrPXy76m/hero-image.png",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/article/is-adultfriendfinder-safe-to-use",
-    "title": "Is AdultFriendFinder safe to use? What a cybersecurity expert says.",
-    "description": "The risks of using AdultFriendFinder, according to a cybersecurity expert from Kaspersky.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-23T10:00:00+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/03wLob8o2AeYftjg8DPpNo0/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/lifelocks-black-friday-deal-offers-two-for-one-identity-protection-including-dark-web-monitoring-breach-alerts-and-restoration-assistance",
-    "title": "Protect two adults for the price of one in LifeLock's Black Friday sale",
-    "description": "LifeLock's Black Friday promotion offers two-for-one protection, with identity monitoring and dedicated specialists to help after identity theft.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-23T09:56:08+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/zWoJbGZC6TUEB5N43hEsj8-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261123/p9#a261123p9",
-    "title": "President Trump hosted a dinner on Sunday for the top $TRUMP collectors; an analysis finds the entry cost was as low as $518, down from its $55K peak in 2025 (Isaac Arnsdorf/Washington Post)",
-    "description": "Isaac Arnsdorf / Washington Post:\nPresident Trump hosted a dinner on Sunday for the top $TRUMP collectors; an analysis finds the entry cost was as low as $518, down from its $55K peak in 2025  —  The president presided over an upscale dinner for investors in his collapsing meme coin, celebrating the venture even as the price of admission has plummeted.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-23T09:55:01+00:00",
-    "image_url": "http://www.techmeme.com/261123/i9.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/canada-joins-nato-innovation-fund-25th-ally-bdc",
-    "title": "Canada becomes the 25th ally to back the NATO Innovation Fund, with €64.6m",
-    "description": "Canada is joining the NATO Innovation Fund, becoming the 25th NATO ally to back the venture capital fund. The government is committing €64.59m, about CA$100m, the fund said in an announcement on 21 November. The Business Development Bank of Canada (BDC) will hold and manage the stake. The new money takes total commitments to the",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-23T09:49:52+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/david-mcguinty-podium-canadian-flags-speech.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2324629/amazon-resorts-to-package-stickers-in-its-fight-against-nyc-proposed-delivery-law/",
-    "title": "Amazon resorts to package stickers in its fight against NYC's proposed delivery law",
-    "description": "In its latest salvo against New York City's Delivery Protection Act, Amazon is trying to win over residents with a new tactic.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-23T09:35:53+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/amazon-resorts-to-package-stickers-in-its-fight-against-nycs-proposed-delivery-law/l-intro-1795426294.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261123/p8#a261123p8",
-    "title": "Chinese civilian and military studies show a growing concern that US AI advances may cut nuclear decision-making to 90 seconds, undermining Beijing's deterrent (Chris Buckley/New York Times)",
-    "description": "Chris Buckley / New York Times:\nChinese civilian and military studies show a growing concern that US AI advances may cut nuclear decision-making to 90 seconds, undermining Beijing's deterrent  —  Chinese military researchers are studying how to harness A.I., but they worry the technology makes their country's nuclear forces more vulnerable to attack.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-23T09:30:00+00:00",
-    "image_url": "http://www.techmeme.com/261123/i8.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
