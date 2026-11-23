@@ -1,5 +1,94 @@
 [
   {
+    "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+    "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+    "description": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Business & Startups",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-23T21:30:44+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
+    "source_name": "ARSTECHNICA.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+    "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a U.S. blacklist",
+    "description": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-23T21:25:42+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261123/p41#a261123p41",
+    "title": "Anthropic unveils Claude Ship, letting Claude review, fix, and approve GitHub pull requests based on team policies, in beta for Claude Team and Enterprise tiers (Radhika Rajkumar/ZDNET)",
+    "description": "Radhika Rajkumar / ZDNET:\nAnthropic unveils Claude Ship, letting Claude review, fix, and approve GitHub pull requests based on team policies, in beta for Claude Team and Enterprise tiers  —  Would you let a few Claude agents review and ship your code for you?  —  ZDNET's key takeaways",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-23T21:25:00+00:00",
+    "image_url": "http://www.techmeme.com/261123/i41.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/the-path-forward-is-complex-meta-set-to-rethink-its-2030-goal-to-go-net-zero-as-ai-data-center-demands-continue-to-rise",
+    "title": "'The path forward is complex': Meta set to rethink its 2030 goal to go net zero as AI data center demands continue to rise",
+    "description": "Meta is reconsidering its 2030 net-zero commitment as expanding AI infrastructure increases emissions, electricity consumption, natural gas investments, and water usage.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-23T21:25:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/EXMLBYo5k7EwcuyYg9vmmM-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/televisions/black-friday-tv-deals-2026-november-23",
+    "title": "Black Friday TV deals: save now on LG and Samsung OLED, TCL and Hisense mini-LED, Sony TVs and more",
+    "description": "Black Friday TV deals are live, so we've compiled our top picks into one list to suit every budget.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-23T21:17:48+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/vQRVcP5MzJCpfekPYz4dvD-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/",
+    "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
+    "description": "NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has awarded a contract to Northrop Grumman Systems Corporation for the Sounder for Microwave-Based Applications (SMBA) instruments on NOAA’s Near Earth Orbit Network (NEON) satellites. The cost-plus-fixed-fee, firm-fixed-price, and time-and-materials hybrid contract has a value of $290.6 million. The period of performance runs from",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-23T21:10:03+00:00",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=1920",
+    "source_name": "NASA.GOV"
+  },
+  {
+    "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+    "title": "AI data centers throw another wrench into chaotic UN climate talks",
+    "description": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday. Each year, attendees",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Government & Policy",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-23T21:09:37+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306098413.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/anthropic-enterprise-frontier-safeguards-zero-data-retention-beta",
     "title": "Anthropic can now watch for Claude misuse without keeping firms’ data",
     "description": "Anthropic has opened Enterprise Frontier Safeguards in public beta, letting it scan for misuse across many Claude requests while companies keep their data in their own cloud storage. It answers enterprise pushback over the 30-day retention Anthropic introduced with Fable 5. Anthropic has opened a new safety system for business users of Claude in a",
@@ -28,6 +117,7 @@
     "title": "Apple announces Ted Lasso season 5 is coming",
     "description": "Apple TV (now $6.99/month for limited time) has just announced that Ted Lasso will return for season 5. Here are the details.\n\n\n\n more…",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-23T21:01:24+00:00",
@@ -67,6 +157,18 @@
     "pub_date": "2026-11-23T20:57:55+00:00",
     "image_url": "https://www.engadget.com/img/gallery/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/l-intro-1795466976.jpg",
     "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
+    "title": "Apple renews Ted Lasso for season 5",
+    "description": "One of Apple's biggest shows is sticking around for at least one more season. The streamer announced today that Ted Lasso has been renewed for a fifth season on Apple TV, after what the company calls a \"record-breaking season four debut.\" There are currently no details about the new season nor when it might debut.",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-23T20:56:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Ted_Lasso_Photo_041001.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.digitaltrends.com/computing/anthropic-claude-ship-code-review/",
@@ -309,7 +411,7 @@
   {
     "link": "https://www.theverge.com/tech/1040487/nvidia-ceo-jensen-huang-staff-applauds-return",
     "title": "Jensen Huang says he’ll be a ‘better CEO’ as staff applauds his return",
-    "description": "Jensen Huang returned to Nvidia's office as CEO today to a crowd of applauding employees who stood and filmed the co-founder's first moments back. \"Thank you all for the second chances. I'm gonna be a better CEO the second time around,\" Huang said, as shown in a video of his return. Huang resigned as CEO",
+    "description": "Jensen Huang returned to Nvidia's office as CEO today to a crowd of applauding employees who stood and filmed the cofounder's first moments back. \"Thank you all for the second chances. I'm gonna be a better CEO the second time around,\" Huang said, as shown in a video of his return. Huang resigned as CEO",
     "categories": [
       "Breaking News",
       "Gadgets & Hardware"
@@ -321,7 +423,7 @@
   {
     "link": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
     "title": "How Jensen Huang ended up as Nvidia CEO again",
-    "description": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago co-founded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been \"unfaithful\" to his wife",
+    "description": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been \"unfaithful\" to his wife",
     "categories": [
       "AI & Machine Learning",
       "Breaking News",
@@ -1222,7 +1324,6 @@
     "description": "Sierra, the AI agent company co-founded by OpenAI chair Bret Taylor, is raising $1.75B at a $30B valuation, led by Greenoaks and Lightspeed. That is almost double the $15.8B it was valued at in May, and it says annual recurring revenue has passed $400M. Sierra, the AI customer service company led by Bret Taylor, is",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-11-23T17:28:39+00:00",
@@ -1234,7 +1335,6 @@
     "title": "Studying Cancer Cells in Microgravity",
     "description": "This Nov. 19, 2026, image shows gastric microtumors grown within an Encapsulates biochip. The Encapsulate-1 investigation studies patient-derived tumor samples aboard the International Space Station to better understand how cancer cells move and interact in microgravity. The results could help researchers develop further testing to predict a patient’s risk of metastasis and support more personalized",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-23T17:28:37+00:00",
@@ -1258,7 +1358,6 @@
     "title": "You won’t see a Galaxy Watch 10 until 2028 – here’s why",
     "description": "In an effort to cut costs, Samsung is postponing the launch of the Galaxy Watch 10, according to reports. Here’s what to know.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-23T17:25:59+00:00",
@@ -1304,7 +1403,6 @@
     "title": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon",
     "description": "NASA is seeking industry partners to develop and test the first nuclear reactor designed to provide electricity on the Moon, a major step toward establishing a sustained human presence on the lunar surface.  Lunar Reactor-1 (LR-1) will be a small fission power system that will generate 20 kilowatts of electricity, enough to power approximately 16",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-23T17:23:50+00:00",
@@ -1408,6 +1506,7 @@
     "title": "Meta throws out its net-zero goal — its competitors should be furious",
     "description": "Meta walked back its 2030 net-zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
     "categories": [
+      "Breaking News",
       "Science & Environment",
       "Social & Media"
     ],
@@ -1642,7 +1741,6 @@
     "title": "Nvidia's board says it is starting a search to fill a new position, Chief Compliance Officer, reporting to the Nominating and Corporate Governance Committee (Anhata Rooprai/Reuters)",
     "description": "Anhata Rooprai / Reuters:\nNvidia's board says it is starting a search to fill a new position, Chief Compliance Officer, reporting to the Nominating and Corporate Governance Committee  —  Nvidia said on Monday it was reinstating Jensen Huang as CEO, effective immediately, an extraordinary reversal that followed calls …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-23T16:40:03+00:00",
@@ -2285,100 +2383,5 @@
     "pub_date": "2026-11-23T15:30:21+00:00",
     "image_url": "https://gizmodo.com/app/uploads/2026/11/tiny-fire-ant-invasive-auropunctatus-1280x853.jpg",
     "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
-    "title": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
-    "description": "The Netherlands' data protection agency said smart wearables violate people's privacy, get information wrong, and can result in unsafe situations.",
-    "categories": [
-      "Cybersecurity & Privacy",
-      "Gadgets & Hardware",
-      "Government & Policy",
-      "Social & Media"
-    ],
-    "pub_date": "2026-11-23T15:29:49+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techradar.com/vpn/vpn-privacy-security/signal-can-now-block-ai-agents-out-of-your-private-chats-but-not-on-your-mac",
-    "title": "Signal can now block AI agents out of your private chats — but not on your Mac",
-    "description": "Signal is blocking in-app screenshots on iOS 27 and flagging AI screen reads on Android to protect private messages, though macOS users remain exposed due to Apple's OS limits.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-23T15:28:11+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/mTkfstP2UnsXt7BdGA5vde-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/amzfasts-34-inch-curved-ultrawide-monitor-is-usd120-off-for-black-friday-offering-a-240hz-refresh-rate-freesync-and-picture-by-picture-support-for-just-usd249-99",
-    "title": "Amzfast's 34-inch ultrawide curved monitor is $120 off for Black Friday",
-    "description": "Get the Amzfast 34-inch curved ultrawide monitor for just $249.99 this Black Friday, saving $120 on a 240Hz display.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-23T15:23:28+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/s435t5ykbdfswu8M563CuQ-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
-    "title": "COP31 ends in failure as countries split over fossil fuels, climate finance",
-    "description": "COP31 ended without a consensus deal for the first time since 2009.",
-    "categories": [
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-23T15:23:26+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1024x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261123/p26#a261123p26",
-    "title": "President Trump says Jensen Huang \"did nothing wrong\", Nvidia's board \"did ask for assurance on the national security threat\", and he spoke to Xi about Huang (Dan Mangan/CNBC)",
-    "description": "Dan Mangan / CNBC:\nPresident Trump says Jensen Huang “did nothing wrong”, Nvidia's board “did ask for assurance on the national security threat”, and he spoke to Xi about Huang  —  President Donald Trump told CNBC on Monday morning that he spoke directly to Nvidia's board and urged them to reinstate CEO Jensen Huang.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-23T15:20:00+00:00",
-    "image_url": "http://www.techmeme.com/261123/i26.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/23/airpods-pro-3-were-worth-the-upgrade-for-one-standout-feature/",
-    "title": "AirPods Pro 3 were worth the upgrade for one standout feature",
-    "description": "AirPods Pro 3 (now only $149, down from $249) offer many advantages over AirPods Pro 2, but after a year of use, the improvements to Active Noise Cancellation alone have proven worth the upgrade.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-23T15:18:39+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/airpods-pro-3–three-months-2.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/ai-is-squeezing-entry-level-office-jobs-and-workers-without-degrees-are-most-exposed/",
-    "title": "AI is squeezing entry-level office jobs, and workers without degrees are most exposed",
-    "description": "Industries using AI most are posting fewer beginner jobs, white-collar sectors are 1.5 million jobs short of their old path, and workers without degrees hold 80% of automation-leaning roles.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-23T15:15:20+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/empty-office-space.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261123/p25#a261123p25",
-    "title": "Source: Trump dialed into Nvidia's board meeting to argue for Huang's return; a US official says he \"was totally involved\" and \"we have to protect our geniuses\" (Semafor)",
-    "description": "Semafor:\nSource: Trump dialed into Nvidia's board meeting to argue for Huang's return; a US official says he “was totally involved” and “we have to protect our geniuses”  —  US President Donald Trump had dialed into Nvidia's board meeting to argue for Jensen Huang's return …",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-23T15:14:39+00:00",
-    "image_url": "http://www.techmeme.com/261123/i25.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
