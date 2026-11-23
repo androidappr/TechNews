@@ -1,5 +1,67 @@
 [
   {
+    "link": "https://www.zdnet.com/innovation/ai-chatbots-terrorist-attack-plans-us-government-test/",
+    "title": "Can AI help plan terrorist attacks? The US tested ChatGPT, Claude, Gemini, and Grok",
+    "description": "Investigators tried to bypass AI safeguards to generate plans. The results exposed security gaps and raised questions about preventing misuse.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-23T13:29:04+00:00",
+    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2263696087.jpg",
+    "source_name": "ZDNET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/ai-transformation-change-management-people-impel",
+    "title": "Why AI transformation requires more than just the right technology",
+    "description": "Businesses are discovering a hard truth about AI: It’s not a surefire way to improve efficiency, productivity or sales. For instance, the findings from a 2025 study on corporate AI transformation concluded that only five percent of companies that incorporated AI into their processes saw any substantial return on investment (ROI). In other words, 95%",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-23T13:21:10+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/woman-code-projected-face-dark-room.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/tesla-drivers-hail-new-reality-mode-update-a-virtual-drone-style-view-of-your-car-that-looks-like-gta-6-in-real-life",
+    "title": "Tesla drivers hail new 'Reality Mode' that looks like a video game starring your car",
+    "description": "Tesla has rolled out a new Full Self Driving v15 update that includes a 'Reality Mode' update that's got everyone talking —here's how it works.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-23T13:20:45+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/nzqNVJrmkJkNhC8NSDUuN4-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/bepicolombo-mercury-orbit-software-glitch",
+    "title": "European Mercury probe BepiColombo enters orbit despite software glitch",
+    "description": "Eight years after leaving Earth, the BepiColombo spacecraft is finally circling Mercury. The European Space Agency confirmed on Saturday that the probe had entered orbit around the solar system’s smallest planet, only the second spacecraft ever to pull it off. The make-or-break engine burn began at 18:24 UTC on Saturday, slowing the spacecraft enough for",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-23T13:17:51+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/bepicolombo-orbiters-mercury-artist-impression.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+    "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+    "description": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-23T13:11:48+00:00",
+    "image_url": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/pass/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261123/p18#a261123p18",
     "title": "Q&A with Bret Taylor on his long career, co-founding Sierra, working with ex-Googlers, X's influence, AI call center agents, working as OpenAI chair, and more (Dom Cooke/Colossus)",
     "description": "Dom Cooke / Colossus:\nQ&A with Bret Taylor on his long career, co-founding Sierra, working with ex-Googlers, X's influence, AI call center agents, working as OpenAI chair, and more  —  A conversation with Bret Taylor, who has achieved nearly every feat in business except the one he says matters most  —  READ ON:",
@@ -22,6 +84,18 @@
     "pub_date": "2026-11-23T13:09:34+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/zTH6vPrB4yxX7dzdy29Xga-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1039903/motorola-moto-tag-3-tracker-amazon-leak",
+    "title": "Amazon is taking orders for the Moto Tag 3 before it’s even been announced",
+    "description": "Motorola's unannounced Moto Tag 3 has been listed for sale online, just five months after the Moto Tag 2 went on sale in the US, and before any official announcement of a follow-up. The listing on Amazon UK was spotted by X user @matteventu, and shows the tracker in a \"Pantone Lucent White\" color option,",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-23T13:09:32+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Motorola-Moto-Tag-3-.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
   },
   {
     "link": "https://www.techradar.com/gaming/final-piece-of-claimed-gta-6-leak-set-to-arrive-today-and-theres-hope-it-could-mean-rockstar-launches-the-pc-port-sooner",
@@ -146,7 +220,7 @@
   {
     "link": "https://www.techmeme.com/261123/p17#a261123p17",
     "title": "Arm CEO Rene Haas extends his contract through 2033 and will become SoftBank vice chair on December 1; a recruiting firm approached him over becoming Nvidia CEO (Bloomberg)",
-    "description": "Bloomberg:\nArm CEO Rene Haas extends his contract through 2033 and will become SoftBank vice chair on December 1; a recruiting firm approached him over becoming Nvidia CEO  —  Arm Holdings Plc Chief Executive Officer Rene Haas, approached as a potential successor to Nvidia Corp.'s Jensen Huang …",
+    "description": "Bloomberg:\nArm CEO Rene Haas extends his contract through 2033 and will become SoftBank vice chair on December 1; a recruiting firm approached him over becoming Nvidia CEO  —  Arm Holdings Plc Chief Executive Officer Rene Haas has pledged to stay in his current role through 2033, rebuffing approaches …",
     "categories": [
       "Tech News"
     ],
@@ -678,18 +752,6 @@
     "source_name": "MASHABLE.COM"
   },
   {
-    "link": "https://www.techradar.com/seasonal-sales/looking-for-a-new-board-game-i-have-the-early-black-friday-deals-for-you",
-    "title": "Run, don't walk, to grab these early Black Friday board game deals",
-    "description": "I'm a major board game geek, and these are the 8 best early Black Friday deals I've found at Amazon.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-23T11:00:34+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/cCBRMo3UuAfXEy745VLEt8-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://mashable.com/tech/nov-23-samsung-990-ssd-black-friday-deal",
     "title": "Amazons Black Friday sale has dropped the Samsung Internal SSD 990 to its best-ever price — save $50",
     "description": "Get the best SSD deal on Amazon. Save 22% on the Samsung Internal SSD 990 1TB at Amazon.",
@@ -700,6 +762,18 @@
     "pub_date": "2026-11-23T11:00:34+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/03ft9A6qlqZvwwkbcKGqPBN/hero-image.png",
     "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/seasonal-sales/looking-for-a-new-board-game-i-have-the-early-black-friday-deals-for-you",
+    "title": "Run, don't walk, to grab these early Black Friday board game deals",
+    "description": "I'm a major board game geek, and these are the 8 best early Black Friday deals I've found at Amazon.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-23T11:00:34+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/cCBRMo3UuAfXEy745VLEt8-1920-80.png",
+    "source_name": "TECHRADAR.COM"
   },
   {
     "link": "https://thenextweb.com/news/openrouter-drops-providers-dragos-ai-prompt-theft-canaries",
@@ -1167,7 +1241,6 @@
     "title": "Chinese civilian and military studies show a growing concern that US AI advances may cut nuclear decision-making to 90 seconds, undermining Beijing's deterrent (Chris Buckley/New York Times)",
     "description": "Chris Buckley / New York Times:\nChinese civilian and military studies show a growing concern that US AI advances may cut nuclear decision-making to 90 seconds, undermining Beijing's deterrent  —  Chinese military researchers are studying how to harness A.I., but they worry the technology makes their country's nuclear forces more vulnerable to attack.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-23T09:30:00+00:00",
@@ -2248,72 +2321,5 @@
     "pub_date": "2026-11-22T19:15:00+00:00",
     "image_url": "https://www.engadget.com/img/gallery/heres-when-a-raspberry-pi-5-could-be-considered-overkill/l-intro-1794642152.jpg",
     "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
-    "title": "65 Years of Human Spaceflight at NASA Johnson",
-    "description": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence for more than 26 years. Today, Johnson teams are preparing crews and",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-22T19:13:25+00:00",
-    "image_url": "https://www.youtube.com/embed/3Aas00le5M4",
-    "source_name": "NASA.GOV"
-  },
-  {
-    "link": "https://www.techradar.com/entertainment/how-to-watch/how-to-watch-the-witch-farm",
-    "title": "How to watch The Witch Farm for free — stream supernatural drama from anywhere",
-    "description": "Danny Robins tells the tale of the haunting of Liz and Bill Reich. Here's how to watch The Witch Farm online from anywhere, and for free in the UK.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-22T19:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/oGVGiupN9miGNjDuNm8vCV-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2319475/apple-watch-settings-help-save-battery-life/",
-    "title": "5 Apple Watch settings that can help you save its battery life",
-    "description": "By giving up some of the Apple Watch's slick features, you can use its core functions for much longer before needing a charge.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-22T19:00:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/5-apple-watch-settings-that-can-help-you-save-its-battery-life/l-intro-1794592644.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2319450/what-little-clock-icon-top-samsung-phone-means/",
-    "title": "What the little clock icon at the top of your Samsung phone means",
-    "description": "A mystery clock in your Galaxy status bar can be confusing. Find out what the symbol could mean and the simple steps to make it disappear for good.",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-22T18:45:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/what-the-little-clock-icon-at-the-top-of-your-samsung-phone-means/l-intro-1794937166.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2319431/adding-solar-panels-home-disadvantages/",
-    "title": "The drawbacks of adding solar panels to your home",
-    "description": "Installing solar panels at your home could be a bright idea, but there are some serious financial factors to consider before making the investment.",
-    "categories": [
-      "Breaking News",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-22T18:30:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/the-drawbacks-of-adding-solar-panels-to-your-home/l-intro-1794592127.jpg",
-    "source_name": "ENGADGET.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261122/p9#a261122p9",
-    "title": "OpenAI shares its models' perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains (Jakub Pachocki/OpenAI)",
-    "description": "Jakub Pachocki / OpenAI:\nOpenAI shares its models' perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains  —  - Difficulty of comparison across labs. … - Detachment from actionable evaluations. … - Not accounting for advances outside of pretraining.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-22T18:25:01+00:00",
-    "image_url": "http://www.techmeme.com/261122/i9.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
