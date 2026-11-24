@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
+    "title": "TikTok is down",
+    "description": "TikTok is experiencing some issues right now, with videos, search results, favorites, and other features not loading as they usually do. Videos sometimes won't load in the For You feed on my iPhone, and search results occasionally don't show up as expected in the app on iOS or Android, or on the web. Even trying",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-24T20:27:27+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/epochal-xai-cofounders-time-portal-forecasting",
     "title": "Three xAI co-founders launch Epochal to teach AI to predict the future",
     "description": "Guodong Zhang, Zihang Dai and Manuel Kroiss, three of xAI’s co-founders, have launched Epochal, a startup building AI that forecasts events. Zhang has put in $100M of his own money, Bloomberg reported. Its first product, Time Portal, lets agents browse the web as it was at past dates, so they can practise forecasting without seeing",
@@ -64,7 +76,7 @@
   },
   {
     "link": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
-    "title": "Measles death toll rises to 14 as national case tally nears 6,000",
+    "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
     "description": "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday.",
     "categories": [
       "Tech News"
@@ -2363,17 +2375,5 @@
     "pub_date": "2026-11-24T14:55:29+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/05FbtCJb0JOoN6zlpGkLITy/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/seasonal-sales/black-friday-google-pixel-deals-record-low-pixel-10-prices-plus-big-savings-on-pixel-11-pro-pixel-10a-and-more",
-    "title": "Black Friday Pixel deals: save big on Pixel 10, Pixel 10a, Pixel 11 Pro, and more",
-    "description": "I've searched the internet for the best Black Friday Google Pixel deals.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-24T14:53:45+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/zi7FWCRXEZMr5V29hh8v2a-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
