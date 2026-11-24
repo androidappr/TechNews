@@ -1,5 +1,87 @@
 [
   {
+    "link": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
+    "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
+    "description": "During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street Journal.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-24T13:29:53+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261124/p18#a261124p18",
+    "title": "The OpenClaw Foundation launches ShellBench to test 13 frontier AI models across five harnesses on 100 tasks; top AI models hit only a ~60% completion rate (Nat Rubio-Licht/The Deep View)",
+    "description": "Nat Rubio-Licht / The Deep View:\nThe OpenClaw Foundation launches ShellBench to test 13 frontier AI models across five harnesses on 100 tasks; top AI models hit only a ~60% completion rate  —  Though agents have become a massive part of the enterprise AI conversation, new research suggests that these systems aren't always dependable.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-24T13:25:01+00:00",
+    "image_url": "http://www.techmeme.com/261124/i18.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/24/cad-images-suggest-iphone-18e-will-have-an-odd-new-camera-design/",
+    "title": "CAD images suggest iPhone 18e will have an odd new camera design",
+    "description": "CAD images of the iPhone 18e, said to come from a previously reliable source, have shown a rather odd new design for the camera bump.\n\n\n\nIf accurate, it would represent a big change from its predecessor, which simply has a single lens protruding without a surrounding bump or plateau …\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-24T13:19:08+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/CAD-images-suggest-iPhone-18e-will-have-an-odd-new-camera-design.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/automation-anywhere-completes-boost-ai-acquisition-customer-service",
+    "title": "Automation Anywhere completes Boost.ai deal to give its AI agents a voice",
+    "description": "Automation Anywhere has completed its acquisition of Boost.ai, which makes conversational and voice AI for regulated industries. The deal gives the automation company a chat and voice front end for its software agents, it announced on Tuesday. It did not disclose a price. “Our agentic platform already runs nearly half a billion AI agent and",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-24T13:16:49+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/automation-anywhere-boost-ai-logos-acquisition.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261124/p17#a261124p17",
+    "title": "Uber, Nuro, and Lucid begin robotaxi testing without human safety operators across four South Bay cities ahead of a planned commercial debut in Q1 2027 (Andrew J. Hawkins/The Verge)",
+    "description": "Andrew J. Hawkins / The Verge:\nUber, Nuro, and Lucid begin robotaxi testing without human safety operators across four South Bay cities ahead of a planned commercial debut in Q1 2027  —  The partnership is pulling human safety drivers from its Lucid Gravity SUVs ahead of an early 2027 commercial debut.﻿",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-24T13:15:27+00:00",
+    "image_url": "http://www.techmeme.com/261124/i17.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2320276/smart-tv-wifi-disconnecting-5ghz-fixes/",
+    "title": "Why your smart TV keeps losing its Wi-Fi connection",
+    "description": "Is your smart TV constantly dropping its Wi-Fi connection? Learn how to troubleshoot your router, clear network settings and stop buffering for good.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-24T13:15:00+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/why-your-smart-tv-keeps-losing-its-wi-fi-connection/l-intro-1794912555.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.androidcentral.com/apps-software/ai/google-gemini-ai-gets-a-token-saving-update-that-anyone-can-appreciate-and-better-native-file-support",
+    "title": "Google Gemini AI gets a token saving update that anyone can appreciate — and better native file support",
+    "description": "‘File Slicing Controls’ focus the agents on just the important bits of your files",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-24T13:12:29+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/34byL8JAXeJsRF9D8KKuqk-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/avicena-100m-series-c-microled-optical-interconnects-ai",
     "title": "Avicena raises $100M to link AI chips with microLEDs instead of lasers",
     "description": "Avicena, a Sunnyvale startup that links AI chips with tiny LEDs instead of lasers, has raised more than $100M in Series C funding. It also has a new chief executive. Kevin Pope succeeds Marco Chisari and will lead the company as it brings its first product to market next year. InterVest led the round, Avicena",
@@ -1130,6 +1212,7 @@
     "title": "CAD images suggest a raised camera bump for the iPhone 18e and a second lens for the Air 2",
     "description": "CAD images apparently show the iPhone 18e with an almost square 28 mm by 35 mm camera plateau, a clear change from the iPhone 17e's flush single-camera design.",
     "categories": [
+      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-24T10:04:02+00:00",
@@ -1383,8 +1466,7 @@
     "title": "OpenAI employee who secretly recorded meetings allegedly affiliated with the Saudi government",
     "description": "The OpenAI employee who was charged for implanting a recording device uploaded files to Dropbox and took photos of confidential files, prosecutors say.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-24T09:24:09+00:00",
     "image_url": "https://www.engadget.com/img/gallery/openai-employee-who-secretly-recorded-meetings-allegedly-affiliated-with-the-saudi-government/l-intro-1795509730.jpg",
@@ -1569,17 +1651,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.wired.com/story/hoka-coupon-code/",
-    "title": "Hoka Coupon Codes: 30% Off in November 2026",
-    "description": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for November 2026.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-24T06:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
     "link": "https://www.wired.com/story/nomad-discount-code/",
     "title": "Nomad Goods Promo Codes: Get 25% Off in November 2026",
     "description": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in November 2026.",
@@ -1588,6 +1659,17 @@
     ],
     "pub_date": "2026-11-24T06:00:00+00:00",
     "image_url": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg",
+    "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://www.wired.com/story/hoka-coupon-code/",
+    "title": "Hoka Coupon Codes: 30% Off in November 2026",
+    "description": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for November 2026.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-24T06:00:00+00:00",
+    "image_url": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg",
     "source_name": "WIRED.COM"
   },
   {
@@ -2220,82 +2302,5 @@
     "pub_date": "2026-11-24T00:19:18+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-photos-app-icon-ios-27-colors.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
-    "title": "Google alternative Kagi launches an email service",
-    "description": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and no lock-in.\" With Kagi Mail, you",
-    "categories": [
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-24T00:02:52+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/mail-inbox-overview.RlzZ8Gtt.png?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/timekettle-livetalk-black-friday-deal-save-20-percent-on-the-closest-thing-yet-to-a-real-life-babel-fish",
-    "title": "Timekettle LiveTalk Black Friday deal: save 20% on the closest thing yet to a real-life Babel Fish",
-    "description": "Timekettle LiveTalk AI earbuds are as close to the Babel Fish of the Hitchhiker's Guide to the Galaxy as we've tested. Now, they're $103 for Black Friday.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-24T00:02:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ieZoKUfbBXkx9PTXNKa7q5-1920-80.png",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/designverse-ai-coding-drift-report-legacy-codebases",
-    "title": "AI coding agents used firms’ own code under 60% of the time, study finds",
-    "description": "AI coding agents without company context used an organisation’s own approved code in fewer than six tasks in ten. That is the main finding of new research from DesignVerse, a Bucharest-based enterprise AI startup. The rest of the time, the agents invented components or swapped in public ones. Engineers then had to find and fix",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-24T00:01:10+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/andrei-manolache-designverse-ceo-portrait-purple-studio.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-24-november-2026",
-    "title": "Quordle hints and answers for Tuesday, November 24 (game #1765)",
-    "description": "Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-24T00:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-24-november-2026",
-    "title": "NYT Connections hints and answers for Tuesday, November 24 (game #1262)",
-    "description": "Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-24T00:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/computing/websites-apps/nyt-strands-today-answers-hints-24-november-2026",
-    "title": "NYT Strands hints and answers for Tuesday, November 24 (game #996)",
-    "description": "Looking for NYT Strands answers and hints? Here's all you need to know to solve today's game, including the spangram.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-24T00:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/XrpFgcngWrtXQscKdLLAZB-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/google-says-first-autonomous-ai-cyberattack-has-happened",
-    "title": "Google says the first autonomous AI cyberattack has happened. Expect a lot more like it.",
-    "description": "Google Threat Intelligence has uncovered a fully autonomous AI cyberattack and detailed exactly how it went down.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-23T23:56:37+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/00neVqrqKTmIcHtIaUsL81c/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
