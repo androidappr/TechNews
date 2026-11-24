@@ -1,5 +1,54 @@
 [
   {
+    "link": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
+    "title": "The clock is running out for America’s most contentious spying law",
+    "description": "Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it to a must-pass military spending bill. Sen. Mike Rounds (R-SD) told Politico that Section 702 of the Foreign Intelligence Surveillance Act (FISA) could be attached to the National Defense Authorization",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-24T20:00:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/24/anthropic-just-gave-claude-users-a-new-way-to-make-mac-apps/",
+    "title": "Anthropic just gave Claude users a new way to make Mac apps",
+    "description": "Use Claude on Mac or Windows? Anthropic just released a new way to make personalized desktop apps using AI tools. \n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-24T19:56:34+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/claude-code-auto-mode.webp?w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/24/airtag-2-has-two-big-improvements-that-make-it-worth-the-upgrade/",
+    "title": "AirTag 2 has two big improvements that make it worth the upgrade",
+    "description": "AirTag 2 (now only $18, down from $29) launched earlier this year after a five-year wait, and in my experience there are two big improvements that make it worth the upgrade.\n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-24T19:53:22+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/airtag-2-jb-hand.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/get-a-serious-creative-upgrade-with-the-4-5-star-alienware-aurora-desktop-now-with-usd100-off-at-amazon-for-black-friday",
+    "title": "Get a serious creative upgrade with the 4.5-star Alienware Aurora desktop — now with $100 off at Amazon for Black Friday",
+    "description": "Here's your next creative PC upgrade: the 4.5-star Alienware Aurora desktop combines a 20-core Intel processor with RTX 5070 graphics, 32GB RAM and a 1TB SSD.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-24T19:43:49+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/zdkrvhFymferS5NZwC636F-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261124/p32#a261124p32",
     "title": "President Trump finds himself isolated in DC over his moves to reinstate Jensen Huang as even some of his staunchest allies vow to probe Huang and Nvidia (CNBC)",
     "description": "CNBC:\nPresident Trump finds himself isolated in DC over his moves to reinstate Jensen Huang as even some of his staunchest allies vow to probe Huang and Nvidia  —  President Donald Trump wanted Jensen Huang back at the helm of Nvidia.  Now that the chip mogul is reinstated, Trump is cheering alone in Washington.",
@@ -96,8 +145,7 @@
     "title": "Anthropic lets MCP servers ship skills and run background jobs in Claude",
     "description": "Anthropic has opened Skills over MCP in public beta, letting apps that connect to Claude ship playbooks alongside their tools. Tasks, for long background jobs, and Elicitation, which pauses for user input, are now generally available, with File Uploads coming soon. Apps that plug into Claude through MCP can now also tell it how to",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-24T19:22:11+00:00",
     "image_url": "https://media.thenextweb.com/2026/07/claude-cowork-sandbox-escape-mac-files-sharedroot.avif",
@@ -582,8 +630,8 @@
   },
   {
     "link": "https://www.techmeme.com/261124/p28#a261124p28",
-    "title": "In the first all-hands since his return, Jensen Huang apologized for violating Nvidia's code of conduct, saying he made some \"very serious personal mistakes\" (Paresh Dave/Wired)",
-    "description": "Paresh Dave / Wired:\nIn the first all-hands since his return, Jensen Huang apologized for violating Nvidia's code of conduct, saying he made some “very serious personal mistakes”  —  The reinstated Nvidia CEO acknowledged violating the company's code of conduct and said he had made some “very serious personal mistakes.”",
+    "title": "In an all-hands, Jensen Huang apologized for violating Nvidia's code of conduct, saying he is in therapy after making \"very serious personal mistakes\" (Paresh Dave/Wired)",
+    "description": "Paresh Dave / Wired:\nIn an all-hands, Jensen Huang apologized for violating Nvidia's code of conduct, saying he is in therapy after making “very serious personal mistakes”  —  The reinstated Nvidia CEO acknowledged violating the company's code of conduct and said he had made some “very serious personal mistakes.”",
     "categories": [
       "Breaking News",
       "Tech News"
@@ -724,7 +772,7 @@
   {
     "link": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
     "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
-    "description": "The reinstated Nvidia CEO acknowledged violating the company’s code of conduct and said he had made some “very serious personal mistakes.”",
+    "description": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.",
     "categories": [
       "Breaking News",
       "Business & Startups",
@@ -1647,7 +1695,6 @@
     "title": "Homo erectus lived in the rainforest alongside Denisovans",
     "description": "You can learn a surprising amount from a few loose teeth.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-11-24T16:01:19+00:00",
@@ -1671,7 +1718,6 @@
     "description": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups",
       "Cybersecurity & Privacy"
     ],
@@ -1684,7 +1730,6 @@
     "title": "Things 3.25 update brings new touch features to the MacBook Pro",
     "description": "Cultured Code is bringing swipe gestures to Things on Apple’s touchscreen MacBook Pro. Version 3.25 builds on the task manager’s basic touch support so you can schedule a to-do with a swipe or select several tasks with two fingers and drag them all at once.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-24T16:00:00+00:00",
@@ -1720,7 +1765,6 @@
     "title": "Save 20% on the Wearable Plaud NotePin S AI Note Taker Through November 30",
     "description": "Not everyone’s workday happens behind a desk. If you spend your hours walking job sites, touring properties, bouncing between hallway huddles, or brainstorming on the move, pulling out a laptop or fiddling with a phone app just isn’t realistic. That’s where the Plaud NotePin S shines. It’s a tiny, wearable AI note taker built to",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-24T15:56:06+00:00",
@@ -1732,8 +1776,7 @@
     "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
     "description": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-24T15:51:07+00:00",
     "image_url": null,
@@ -1745,7 +1788,6 @@
     "description": "US federal agencies have until Thursday to patch a flaw that hackers’ AI agents found and exploited on their own. The bug is in MONAI Label, a medical imaging tool. On Monday, the US Cybersecurity and Infrastructure Security Agency (CISA) added it to its catalog of exploited vulnerabilities, with a 26 November deadline. The listing",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Cybersecurity & Privacy",
       "Government & Policy"
     ],
@@ -2333,52 +2375,5 @@
     "pub_date": "2026-11-24T14:30:45+00:00",
     "image_url": "https://gizmodo.com/app/uploads/2026/11/AnthropicIPO-1280x853.jpeg",
     "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/alibaba-apex-us-entity-list-megaspeed",
-    "title": "US blacklists Alibaba’s Singapore unit in its Megaspeed crackdown",
-    "description": "The US has put Apex Enterprise Solutions, a Singapore subsidiary of Alibaba, on its trade blacklist. The move ties one of China’s biggest tech companies to the crackdown on Megaspeed, the firm at the centre of the Nvidia scandal. It may be the first time Washington has used that power against an Alibaba unit, Bloomberg",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Gadgets & Hardware",
-      "Government & Policy"
-    ],
-    "pub_date": "2026-11-24T14:23:16+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/alibaba-sign-rooftop-west-bund-sensetime-towers-blue-glass.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/audio/wireless-bluetooth-speakers/the-best-bluetooth-speakers",
-    "title": "The best Bluetooth speakers you can buy, all tested by our experts",
-    "description": "Looking for the best Bluetooth speaker money can buy? Here are the top portable speakers on the market right now, all TechRadar tested.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-24T14:21:58+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/HHV9gupB6mbvVDbvwquU98-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/home/air-fryers/best-air-fryers",
-    "title": "The best air fryers 2026: from cooking for one to feeding a crowd",
-    "description": "From crispy chips to roast chicken, we've cooked with every air fryer in this guide to help you find the right one for your kitchen.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-24T14:15:03+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/P4YgbivFyqNc7HCRk9KHD6-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2320467/never-ignore-cars-software-updates-reasons/",
-    "title": "The reasons why you should never ignore your car's software updates",
-    "description": "Cars are more digital than ever, and, yes, software updates are a hassle. Here's why you shouldn't skip or delay updating their software, though.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-24T14:15:00+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/the-reasons-why-you-should-never-ignore-your-cars-software-updates/l-intro-1794954030.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
