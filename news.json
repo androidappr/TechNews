@@ -1,5 +1,52 @@
 [
   {
+    "link": "https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt",
+    "title": "Tapo’s new indoor security camera includes a touchscreen for video calls",
+    "description": "TP-Link's Tapo smart home brand announced a new indoor security camera that can help keep an eye on your house while you're away or connect you to family and friends while you're at home. The C825 upgrades a 2K pan-and-tilt camera with a 4-inch touchscreen, so when it's not watching for intruders or misbehaving pets,",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-25T13:30:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/tapo1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/computing/firefox-161-is-here-with-smarter-vpn-rules-faster-history-wipes-and-a-stack-of-everyday-time-savers/",
+    "title": "Firefox 161 is here with smarter VPN rules, faster history wipes, and a stack of everyday time-savers",
+    "description": "Firefox 161 lets you set the built-in VPN on or off for individual sites, adds a Fire button to regular desktop windows, and ships a batch of quieter fixes and developer changes.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T13:27:30+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/firefox-logo-purple-bg.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261125/p21#a261125p21",
+    "title": "OpenAI publishes a preprint that claims to prove that the matrix multiplication exponent (ω) is exactly 9/4, addressing a major open problem in mathematics (alphaXiv)",
+    "description": "alphaXiv:\nOpenAI publishes a preprint that claims to prove that the matrix multiplication exponent (ω) is exactly 9/4, addressing a major open problem in mathematics  —  Multiplying two $n\\times n$ matrices produces $n^2$ output numbers, yet computing each one as a separate dot product costs on the order of $n^3$ operations.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T13:23:06+00:00",
+    "image_url": "http://www.techmeme.com/261125/i21.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/25/whatsapp-testing-stickers-with-audio-including-make-your-own-option/",
+    "title": "WhatsApp testing stickers with audio, including make-your-own option",
+    "description": "WhatsApp is currently testing a new sticker format that plays a sound when the recipient taps on it. You can choose from a range of standard stickers as well as create your own by converting a video … \n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T13:16:25+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/WhatsApp-testing-stickers-that-play-a-sound-when-you-tap-them.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
     "link": "https://thenextweb.com/news/ai-debt-fears-coreweave-bond-yield-oracle-nvidia-sell-off",
     "title": "AI debt fears return as CoreWeave’s bond yield tops 17% and futures slide",
     "description": "The sell-off in artificial intelligence stocks returned on Wednesday. It came two days after Nvidia’s rally on Jensen Huang’s return as CEO. Nasdaq 100 futures slid 3% and S&P 500 futures lost 2% before the open, CNBC reported. Dow Jones futures dropped 682 points, or 1.4%. Nvidia fell more than 5% in premarket trading. Anthropic",
@@ -12,6 +59,18 @@
     "pub_date": "2026-11-25T13:13:10+00:00",
     "image_url": "https://media.thenextweb.com/2026/11/stock-market-candlestick-chart-dark-screen.avif",
     "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/seth-meyers-trump-ai-meme-jensen-huang",
+    "title": "Seth Meyers responds to Trumps AI meme of Jensen Huang",
+    "description": "Seth Meyers has responded to Trump posting an AI meme of Jensen Huang, following the Nvidia CEO's return.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T13:10:57+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/videos/02meCSauPtt3WSVIi5Yy02t/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-6-2-makes-significant-historical-discovery-in-only-22-minutes-openai-model-names-anonymous-creator-of-1808-sketchbook-in-remarkable-find",
@@ -278,6 +337,7 @@
     "title": "WhatsApp is testing stickers with sound",
     "description": "WhatsApp's newest public beta includes the ability to create stickers with sounds.",
     "categories": [
+      "Breaking News",
       "Social & Media",
       "Software & Apps"
     ],
@@ -1535,17 +1595,6 @@
     "source_name": "TECHMEME.COM"
   },
   {
-    "link": "https://www.techmeme.com/261125/p5#a261125p5",
-    "title": "OpenAI publishes a preprint that claims to prove that the matrix multiplication exponent (ω) is exactly 9/4, addressing a major open problem in mathematics (Deedy/@deedydas)",
-    "description": "Deedy / @deedydas:\nOpenAI publishes a preprint that claims to prove that the matrix multiplication exponent (ω) is exactly 9/4, addressing a major open problem in mathematics  —  OpenAI just dropped a 111-page proof of a 57-year old math problem: the matrix multiplication exponent (ω) is exactly 9/4. This problem ranks #31 on ProofAtlas' top 500 open problems in math and is arguably 2nd only to P = NP in algorithms. The problem: How many steps does it take t...",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T06:55:01+00:00",
-    "image_url": "http://www.techmeme.com/img/pml.png",
-    "source_name": "TECHMEME.COM"
-  },
-  {
     "link": "https://www.techmeme.com/261125/p4#a261125p4",
     "title": "Amazon plans to start selling cars online in the UK in early 2027, expanding beyond the US, where it offers new and used cars from 35 brands in 150+ cities (Jamie Nimmo/Bloomberg)",
     "description": "Jamie Nimmo / Bloomberg:\nAmazon plans to start selling cars online in the UK in early 2027, expanding beyond the US, where it offers new and used cars from 35 brands in 150+ cities  —  Amazon.com Inc. will soon offer cars on its platform in the UK, joining an increasingly crowded British auto market where Chinese brands are winning over consumers.",
@@ -2256,50 +2305,5 @@
     "pub_date": "2026-11-24T23:29:35+00:00",
     "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/RTX-Spark-Marvel-Rivals-gaming-Featured.jpeg?resize=440%2C292&ssl=1",
     "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa",
-    "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
-    "description": "The US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out to experts on what to expect, and will keep this post updated. What material is the Army planning to detonate? There are",
-    "categories": [
-      "Government & Policy",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-24T23:25:46+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305973751.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261124/p43#a261124p43",
-    "title": "WiseTech says Australian police took no action against founder Richard White after probing allegations he exploited a woman's immigration status for sex (Angus Whitley/Bloomberg)",
-    "description": "Angus Whitley / Bloomberg:\nWiseTech says Australian police took no action against founder Richard White after probing allegations he exploited a woman's immigration status for sex  —  WiseTech Global Ltd. said Australian police ended an investigation and took no action against founder Richard White …",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-24T23:25:08+00:00",
-    "image_url": "http://www.techmeme.com/261124/i43.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/audio/earbuds-airpods/the-clock-is-ticking-on-these-apple-black-friday-deals-save-on-airpods-airtags-and-apple-pencils-before-midnight",
-    "title": "The clock is ticking on these Apple Black Friday deals — save on AirPods, AirTags and Apple Pencils before midnight",
-    "description": "We’ve seen a lot of discounts on a range of Apple products since Amazon kicked off its Black Friday sale, but some further reductions make them even more tempting — but be quick, these deals won’t last long.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-24T23:24:46+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/UcTZbw8RvdHjQTusMSoxKa-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2327499/australia-to-pass-safety-bill-that-could-result-in-massive-fines-for-tech-platforms/",
-    "title": "Australia to pass safety bill that could result in massive fines for tech platforms",
-    "description": "Australian lawmakers are close to passing the Digital Duty of Care Bill, an amendment to the country's Online Safety Act of 2021.",
-    "categories": [
-      "Business & Startups"
-    ],
-    "pub_date": "2026-11-24T23:21:40+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/australia-to-pass-safety-bill-that-could-result-in-massive-fines-for-tech-platforms/l-intro-1795562364.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
