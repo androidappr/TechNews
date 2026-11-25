@@ -1,5 +1,87 @@
 [
   {
+    "link": "https://www.digitaltrends.com/home-theater/xiaomis-clip-earbuds-are-so-pretty-my-social-circle-confused-it-for-new-piercings-2/",
+    "title": "Xiaomi’s clip earbuds are so pretty, my social circle confused them for new piercings",
+    "description": "Xiaomi's new Clip earbuds have an eye-catching Sand Gold finish that looks more like jewelry than audio gear, but their exceptional comfort and secure fit have impressed me even more.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T20:08:16+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Xiaomi-Clip-Jewelry-Featured.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/building-a-workstation-or-studio-pc-here-are-3-black-friday-high-airflow-case-deals-from-fractal-cooler-master-and-phanteks",
+    "title": "Building a workstation or studio PC? Here are 3 Black Friday high-airflow case deals from Fractal, Cooler Master, and Phanteks",
+    "description": "Need a cool, quiet PC case for your workstation or office build? Here's my top high-airflow Black Friday deals from Cooler Master, Phanteks, and Fractal Design.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T20:05:49+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/vibGseRBXtvdRYpMz75oxH-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261125/p32#a261125p32",
+    "title": "1Password says an attacker used an employee's GitHub account to push malicious code to its backend, taking some users' names and emails; vaults weren't accessed (Zack Whittaker/TechCrunch)",
+    "description": "Zack Whittaker / TechCrunch:\n1Password says an attacker used an employee's GitHub account to push malicious code to its backend, taking some users' names and emails; vaults weren't accessed  —  Password manager maker 1Password has confirmed that some customer information was taken in a recent intrusion into its internal systems …",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T20:05:01+00:00",
+    "image_url": "http://www.techmeme.com/261125/i32.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "description": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-25T20:03:27+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/elevenlabs-33bn-valuation-funding-talks-2027",
+    "title": "ElevenLabs is in early talks to raise at a $33B valuation, Bloomberg says",
+    "description": "ElevenLabs is in early talks for a funding round at a $33B valuation, planned for the first quarter of 2027, Bloomberg reported. That would be 50% above its $22B valuation in September, and its annual recurring revenue has reached $700M, one person said. ElevenLabs is in early talks to raise money at a $33B valuation,",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-25T20:03:04+00:00",
+    "image_url": "https://media.thenextweb.com/2026/09/elevenlabs-ashley-kramer-chief-revenue-officer-openai-ai-act-article-50.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2328617/nasas-dart-mission-left-a-stadium-sized-crater-in-an-asteroid-the-esa-finds/",
+    "title": "NASA's DART mission left a stadium-sized crater in an asteroid, the ESA finds",
+    "description": "The ESA's Hera mission has begun capturing images of the aftermath of DART's impact.",
+    "categories": [
+      "Breaking News",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-25T20:01:08+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/nasas-dart-mission-left-a-stadium-sized-crater-in-an-asteroid-the-esa-finds/l-intro-1795636789.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/ive-tested-7-headsets-over-130-hours-of-gta-6-heres-what-i-think-of-each-of-them-for-rockstars-open-world-action-adventure-behemoth",
+    "title": "I’ve tested 7 headsets over 130 hours of GTA 6 — here’s what I think of each of them for Rockstar’s open-world action-adventure behemoth",
+    "description": "If you’re looking to invest in one of the best gaming headsets for GTA 6, then one of the 7 that I’ve tested across 130 hours might be for you.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-11-25T20:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/RmKbDgpii3gtyxczNwRdsW-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
     "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
     "description": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
@@ -21,6 +103,18 @@
     "pub_date": "2026-11-25T19:54:32+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://mashable.com/entertainment/amc-premium-black-friday-streaming-deal-2026",
+    "title": "This 50% off AMC+ Premium subscription is sneakily one of the best Black Friday streaming deals",
+    "description": "One of the best ad-free Black Friday streaming deals is this AMC+ Premium Prime Video add-on for 50% off. Here's how to get it.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T19:53:10+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/02zrF8fXGhqc7qcgYGj7YZf/hero-image.png",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.androidcentral.com/phones/the-market-is-suffering-and-phone-makers-are-reportedly-cutting-back-drastically-in-2027",
@@ -71,6 +165,17 @@
     "source_name": "TECHCRUNCH.COM"
   },
   {
+    "link": "https://mashable.com/life/ahh-almost-almost-meaning-twitch-jynxzi-meme",
+    "title": "Why is everyone saying ahh almost almost? The viral Twitch meme, explained.",
+    "description": "What does \"ahh almost almost\" mean? Here's how a viral clip of Twitch streamer Jynxzi became TikTok's favorite meme about falling short.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T19:40:30+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/02ypUBtaKMhJD08Zb4QyNCW/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://9to5mac.com/2026/11/25/ios-27-3-release-date-heres-when-to-expect-new-iphone-features/",
     "title": "iOS 27.3 release date: Here’s when new iPhone features are coming",
     "description": "iOS 27.3 is coming soon, packed with new features for iPhone users. Here’s when to expect the next big iPhone software update.\n\n\n\n more…",
@@ -81,6 +186,30 @@
     "pub_date": "2026-11-25T19:38:33+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-3-iphone-fi.jpg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/best-early-black-friday-power-station-live-deals-2026",
+    "title": "The best Black Friday power station deals you can shop right now",
+    "description": "Shop the best Black Friday power station deals on Anker, Bluetti, and DJI, with picks for camping, creators, and backup power.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T19:36:18+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/05fQP6181LivZ0i0Yo7QP7S/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/black-friday-live-updates-2026",
+    "title": "Black Friday 2026 live: Top deals, store hours, and real-time updates",
+    "description": "Black Friday is underway, and our shopping reporters are working around the clock to find the latest deals.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T19:34:55+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/live_blogs/01aD8Avug66NzdCamSDaxDg/desktop_banner_image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.digitaltrends.com/computing/google-gemini-notebook-upgrades-flashcards-with-visual-learning-and-study-reminders/",
@@ -193,6 +322,7 @@
     "title": "Sources: ElevenLabs is in early talks for a 2027 funding round at a $33B target valuation, up from $22B in September; its annual recurring revenue is now $700M (Bloomberg)",
     "description": "Bloomberg:\nSources: ElevenLabs is in early talks for a 2027 funding round at a $33B target valuation, up from $22B in September; its annual recurring revenue is now $700M  —  ElevenLabs, an artificial intelligence company focused on realistic-sounding voices, is in early discussions for a funding round …",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-25T19:00:46+00:00",
@@ -775,17 +905,6 @@
     "source_name": "MASHABLE.COM"
   },
   {
-    "link": "https://www.techradar.com/entertainment/football/how-to-watch-sporting-lisbon-vs-man-utd-free-streams-tv-channels-and-kick-off-time-for-champions-league-2026-27-fixture",
-    "title": "How to watch Sporting Lisbon vs Man Utd: Free streams, TV channels, Team news & kick-off time for Champions League 2026/27 fixture",
-    "description": "How you can watch Sporting Lisbon vs Man Utd in the Champions League for free online from anywhere in the world with TV channels, kick-off time included.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T17:20:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/b6F45JAAEYMzVEfFSeM3i5-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/entertainment/football/how-to-watch-club-brugge-vs-liverpool-live-streams-tv-channels-and-kick-off-time-for-champions-league-2026-27-fixture",
     "title": "How to watch Club Brugge vs Liverpool: Live streams, TV channels, kick-off time & team news for Champions League 2026/27 fixture",
     "description": "How you can watch Club Brugge vs Liverpool in the Champions League for free online from anywhere in the world with TV channels, kick-off time included.",
@@ -795,6 +914,17 @@
     ],
     "pub_date": "2026-11-25T17:20:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/5j5XQBU6BWhUYYmrybvWFP-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/entertainment/football/how-to-watch-sporting-lisbon-vs-man-utd-free-streams-tv-channels-and-kick-off-time-for-champions-league-2026-27-fixture",
+    "title": "How to watch Sporting Lisbon vs Man Utd: Free streams, TV channels, Team news & kick-off time for Champions League 2026/27 fixture",
+    "description": "How you can watch Sporting Lisbon vs Man Utd in the Champions League for free online from anywhere in the world with TV channels, kick-off time included.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T17:20:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/b6F45JAAEYMzVEfFSeM3i5-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -1220,7 +1350,6 @@
     "description": "HP and Hewlett Packard Enterprise split from Hewlett-Packard in 2015. This week both told investors that memory costs are squeezing their profits. HPE’s shares had their worst day since the split. HP gave a cautious outlook for its new fiscal year. HP: AI PCs and costly memory HP’s revenue rose 9.3% to $16.0bn in its",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Business & Startups"
     ],
     "pub_date": "2026-11-25T16:06:43+00:00",
@@ -1379,18 +1508,6 @@
     "pub_date": "2026-11-25T15:55:01+00:00",
     "image_url": "http://www.techmeme.com/261125/i25.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/best-early-black-friday-power-station-live-deals-2026",
-    "title": "The best Black Friday power station deals you can shop right now",
-    "description": "Shop the best Black Friday power station deals on Anker, Bluetti, and DJI, with picks for camping, creators, and backup power.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T15:51:50+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/05fQP6181LivZ0i0Yo7QP7S/hero-image.png",
-    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://www.techradar.com/live/news/nintendo-switch-black-friday-2026-nov-25",
@@ -1934,7 +2051,6 @@
     "title": "Five solar generators going for deep discounts on Black Friday",
     "description": "Save 20 to 40 percent on models from Anker, EcoFlow and more.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-25T14:15:20+00:00",
@@ -1961,7 +2077,6 @@
     "description": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune,",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-11-25T14:12:33+00:00",
@@ -1974,7 +2089,6 @@
     "description": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Social & Media"
     ],
     "pub_date": "2026-11-25T14:10:18+00:00",
@@ -2244,120 +2358,5 @@
     "pub_date": "2026-11-25T13:30:04+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/JEvGM6PepCWU6n9ZbVkHEM-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt",
-    "title": "Tapo’s new indoor security camera includes a touchscreen for video calls",
-    "description": "TP-Link's Tapo smart home brand announced a new indoor security camera that can help keep an eye on your house while you're away or connect you to family and friends while you're at home. The C825 upgrades a 2K pan-and-tilt camera with a 4-inch touchscreen, so when it's not watching for intruders or misbehaving pets,",
-    "categories": [
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-25T13:30:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/tapo1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.androidcentral.com/wearables/wear-it-well-the-best-black-friday-smartwatch-and-fitness-tracker-deals-from-samsung-fitbit-and-more",
-    "title": "Wear it well: The best Black Friday smartwatch and fitness tracker deals from Samsung, Fitbit, and more",
-    "description": "Our top Black Friday picks for smart watches and wearables from Fitbit, Garmin, Samsung and more.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T13:29:33+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/mpW5yY8HNVWZF75zcW39TA-1920-80.jpg",
-    "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://www.digitaltrends.com/computing/firefox-161-is-here-with-smarter-vpn-rules-faster-history-wipes-and-a-stack-of-everyday-time-savers/",
-    "title": "Firefox 161 is here with smarter VPN rules, faster history wipes, and a stack of everyday time-savers",
-    "description": "Firefox 161 lets you set the built-in VPN on or off for individual sites, adds a Fire button to regular desktop windows, and ships a batch of quieter fixes and developer changes.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T13:27:30+00:00",
-    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/firefox-logo-purple-bg.jpg?resize=440%2C292&ssl=1",
-    "source_name": "DIGITALTRENDS.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261125/p21#a261125p21",
-    "title": "OpenAI publishes a preprint that claims to prove that the matrix multiplication exponent (ω) is exactly 9/4, addressing a major open problem in mathematics (alphaXiv)",
-    "description": "alphaXiv:\nOpenAI publishes a preprint that claims to prove that the matrix multiplication exponent (ω) is exactly 9/4, addressing a major open problem in mathematics  —  Multiplying two $n\\times n$ matrices produces $n^2$ output numbers, yet computing each one as a separate dot product costs on the order of $n^3$ operations.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T13:23:06+00:00",
-    "image_url": "http://www.techmeme.com/261125/i21.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/25/whatsapp-testing-stickers-with-audio-including-make-your-own-option/",
-    "title": "WhatsApp testing stickers with audio, including make-your-own option",
-    "description": "WhatsApp is currently testing a new sticker format that plays a sound when the recipient taps on it. You can choose from a range of standard stickers as well as create your own by converting a video … \n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T13:16:25+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/WhatsApp-testing-stickers-that-play-a-sound-when-you-tap-them.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/ai-debt-fears-coreweave-bond-yield-oracle-nvidia-sell-off",
-    "title": "AI debt fears return as CoreWeave’s bond yield tops 17% and futures slide",
-    "description": "The sell-off in artificial intelligence stocks returned on Wednesday. It came two days after Nvidia’s rally on Jensen Huang’s return as CEO. Nasdaq 100 futures slid 3% and S&P 500 futures lost 2% before the open, CNBC reported. Dow Jones futures dropped 682 points, or 1.4%. Nvidia fell more than 5% in premarket trading. Anthropic",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Business & Startups",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-25T13:13:10+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/stock-market-candlestick-chart-dark-screen.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/seth-meyers-trump-ai-meme-jensen-huang",
-    "title": "Seth Meyers responds to Trumps AI meme of Jensen Huang",
-    "description": "Seth Meyers has responded to Trump posting an AI meme of Jensen Huang, following the Nvidia CEO's return.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T13:10:57+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/videos/02meCSauPtt3WSVIi5Yy02t/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-6-2-makes-significant-historical-discovery-in-only-22-minutes-openai-model-names-anonymous-creator-of-1808-sketchbook-in-remarkable-find",
-    "title": "ChatGPT-6.2 makes a 'significant historical discovery' in only 22 minutes",
-    "description": "Finding the author of an anonymous 1808 sketchbook from Canada was no problem for ChatGPT.",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
-    ],
-    "pub_date": "2026-11-25T13:08:32+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/i8QB7hYg8JvTTDW9eYWiBF-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
-    "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
-    "description": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T13:08:19+00:00",
-    "image_url": null,
-    "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261125/p20#a261125p20",
-    "title": "Chinese vendors in Shenzhen's Huaqiangbei market still sell US-restricted Nvidia hardware, quoting $3M+ for Blackwell B300 servers, up from $2M two months ago (Joshua Yang/Washington Post)",
-    "description": "Joshua Yang / Washington Post:\nChinese vendors in Shenzhen's Huaqiangbei market still sell US-restricted Nvidia hardware, quoting $3M+ for Blackwell B300 servers, up from $2M two months ago  —  Though black-market prices have surged amid the turmoil around Nvidia CEO Jensen Huang, traders in Shenzhen persist in hawking the company's best chips.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T13:00:57+00:00",
-    "image_url": "http://www.techmeme.com/261125/i20.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
