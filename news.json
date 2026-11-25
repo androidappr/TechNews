@@ -1,5 +1,87 @@
 [
   {
+    "link": "https://www.digitaltrends.com/home-theater/id-buy-these-6-amazon-echo-and-kindle-deals-before-black-friday-ends/",
+    "title": "I’d buy these 6 Amazon Echo and Kindle deals before Black Friday ends",
+    "description": "I picked six Amazon Echo and Kindle deals I'd happily buy myself, with savings of up to $200 this Black Friday.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T19:12:32+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Amazon-Black-Friday-Best-Deals-On-Echo-Products.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/every-17-5m-series-a-ai-native-media",
+    "title": "AI media company Every raises $17.5M to help teams become AI-native",
+    "description": "Every, a 35-person media and software company focused on AI at work, has raised a $17.5M Series A at a $110M post-money valuation led by IA Ventures. It has about 10,000 paying subscribers and plans one subscription combining writing, software and team training. Every, a media company that teaches professionals and teams to work with",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-25T19:12:16+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/every-17-5m-series-a-graphic.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+    "title": "1Password breach leaked customer names and emails, but not passwords",
+    "description": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident. It's unclear how many users are affected. The password manager",
+    "categories": [
+      "Breaking News",
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-25T19:10:15+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKB339_1PASSWORD.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/no-starlink-no-problem-part-deux-ukrainian-student-invents-autopilot-system-for-uav-that-works-without-gps-receives-the-future-of-ukraine-presidential-award",
+    "title": "No Starlink, no problem, part deux: Ukrainian student invents autopilot system for UAV that works without GPS, receives \"The future of Ukraine\" presidential award",
+    "description": "Ukrainian teenager develops an artificial intelligence-powered drone autopilot that operates without GPS, earning presidential recognition for his engineering achievements.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T19:10:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/VPhAvjb2YiKGP8iFyFzFZm-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/ssd-prices-are-soaring-so-i-picked-4-black-friday-nvme-deals-actually-worth-buying-from-samsung-lexar-and-kingston",
+    "title": "SSD prices are soaring, so I picked 4 Black Friday NVMe deals actually worth buying from Samsung, Lexar, and Kingston",
+    "description": "With NAND and DRAM shortages sending the cost of SSDs skyrocketing, I went looking for the best internal drives I could find for Black Friday.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T19:07:29+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/5qtoueenzF8dYVJRMz8S75-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/",
+    "title": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
+    "description": "How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program. As part of the program, NASA announced its latest Mentor-Protégé Agreement, this one signed between The Boeing Company and GRACE",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T19:06:56+00:00",
+    "image_url": "https://www.nasa.gov/wp-content/uploads/2026/11/lrs00622.jpg?w=2048",
+    "source_name": "NASA.GOV"
+  },
+  {
+    "link": "https://www.techmeme.com/261125/p30#a261125p30",
+    "title": "Sources: ElevenLabs is in early talks for a 2027 funding round at a $33B target valuation, up from $22B in September; its annual recurring revenue is now $700M (Bloomberg)",
+    "description": "Bloomberg:\nSources: ElevenLabs is in early talks for a 2027 funding round at a $33B target valuation, up from $22B in September; its annual recurring revenue is now $700M  —  ElevenLabs, an artificial intelligence company focused on realistic-sounding voices, is in early discussions for a funding round …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T19:00:46+00:00",
+    "image_url": "http://www.techmeme.com/261125/i30.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techradar.com/vpn/vpn-services/urban-vpn-under-legal-scrutiny-over-claims-it-harvested-users-private-ai-prompts",
     "title": "Urban VPN under legal scrutiny over claims it harvested users' private AI prompts",
     "description": "Urban VPN is the subject of an attorney investigation into a potential class action privacy lawsuit over claims that its Chrome and Edge extensions secretly collected AI chatbot conversations without users’ knowledge or consent.",
@@ -16,6 +98,7 @@
     "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
     "description": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
     "categories": [
+      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-11-25T18:49:52+00:00",
@@ -68,6 +151,17 @@
     "pub_date": "2026-11-25T18:38:12+00:00",
     "image_url": "https://media.wired.com/photos/6b070bb9c3af37e5a5192585/master/pass/GettyImages-2306835116.jpg",
     "source_name": "WIRED.COM"
+  },
+  {
+    "link": "https://mashable.com/tech/nov-25-sony-mdr-3r-headphones-stock",
+    "title": "Sonys retro MDR-3R headphones are back in stock after selling out twice",
+    "description": "Sony's popular MDR-3R modernized '80s Walkman headphones have sold out twice. Mashable's shopping reporters keep track of when they're back in stock.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T18:34:38+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/07Fq7rPWKCO6f7qsf0RMwbS/hero-image.jpg",
+    "source_name": "MASHABLE.COM"
   },
   {
     "link": "https://9to5mac.com/2026/11/25/whatsapp-launches-highly-requested-new-feature-for-sending-messages-later/",
@@ -455,7 +549,7 @@
   },
   {
     "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-    "title": "State AGs fight Character AI’s plan to auction off users’ private chats",
+    "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
     "description": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
     "categories": [
       "AI & Machine Learning",
@@ -541,17 +635,6 @@
     "source_name": "MASHABLE.COM"
   },
   {
-    "link": "https://www.techradar.com/entertainment/football/how-to-watch-sporting-lisbon-vs-man-utd-free-streams-tv-channels-and-kick-off-time-for-champions-league-2026-27-fixture",
-    "title": "How to watch Sporting Lisbon vs Man Utd: Free streams, TV channels & kick-off time for Champions League 2026/27 fixture",
-    "description": "How you can watch Sporting Lisbon vs Man Utd in the Champions League for free online from anywhere in the world with TV channels, kick-off time included.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T17:20:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/b6F45JAAEYMzVEfFSeM3i5-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/entertainment/football/how-to-watch-club-brugge-vs-liverpool-live-streams-tv-channels-and-kick-off-time-for-champions-league-2026-27-fixture",
     "title": "How to watch Club Brugge vs Liverpool: Live streams, TV channels, kick-off time & team news for Champions League 2026/27 fixture",
     "description": "How you can watch Club Brugge vs Liverpool in the Champions League for free online from anywhere in the world with TV channels, kick-off time included.",
@@ -561,6 +644,17 @@
     ],
     "pub_date": "2026-11-25T17:20:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/5j5XQBU6BWhUYYmrybvWFP-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/entertainment/football/how-to-watch-sporting-lisbon-vs-man-utd-free-streams-tv-channels-and-kick-off-time-for-champions-league-2026-27-fixture",
+    "title": "How to watch Sporting Lisbon vs Man Utd: Free streams, TV channels, Team news & kick-off time for Champions League 2026/27 fixture",
+    "description": "How you can watch Sporting Lisbon vs Man Utd in the Champions League for free online from anywhere in the world with TV channels, kick-off time included.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T17:20:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/b6F45JAAEYMzVEfFSeM3i5-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -1387,7 +1481,6 @@
     "title": "US tech stocks fall, pushing the Nasdaq 100 down 4%+, as the AI trade continues to unwind; Nvidia and Anthropic fall 9%+, Broadcom drops 7%, and Micron 11% (Financial Times)",
     "description": "Financial Times:\nUS tech stocks fall, pushing the Nasdaq 100 down 4%+, as the AI trade continues to unwind; Nvidia and Anthropic fall 9%+, Broadcom drops 7%, and Micron 11%  —  Tech-heavy Nasdaq 100 falls more than 4% as weeks-long slide continues  —  A Wall Street sell-off intensified on Wednesday …",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-25T15:10:01+00:00",
@@ -1399,7 +1492,6 @@
     "title": "Allstate suffers multi-day tech outage ahead of Thanksgiving",
     "description": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
     "categories": [
-      "Breaking News",
       "Cybersecurity & Privacy"
     ],
     "pub_date": "2026-11-25T15:08:37+00:00",
@@ -1814,6 +1906,7 @@
     "title": "Amazon ends software support for 2018 and 2019 Kindle models",
     "description": "The Kindle (2019), Kindle Paperwhite (2018), and Kindle Kids (2019), are unlikely to be updated beyond this year, but you can still buy books.",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-25T14:00:10+00:00",
@@ -2272,99 +2365,5 @@
     "pub_date": "2026-11-25T12:48:27+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/LNEVAFFtAjSCcyPZ6BXPqB-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/audio/earbuds-airpods/its-back-apple-airpods-pro-3-just-crashed-to-their-lowest-ever-us-price-at-amazon-now-just-usd149-previous-low-usd169-and-im-livid-because-i-live-in-the-uk",
-    "title": "AirPods Pro 3 just dropped back to their all-time low of $149 — run!",
-    "description": "Amazon's Black Friday sale is nothing if not surprising, with a new all-time low price on the superb Apple AirPods Pro 3, which are $20 cheaper than they've ever been!",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T12:47:37+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/zzsGpSFoDmpiAXasBoTsUm-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/hardware-founders-first-factory-run-tomorrow-lab",
-    "title": "What hardware founders should know before their first factory run: from the partners at Tomorrow Lab®",
-    "description": "Tomorrow Lab® Partner Theodore Ullrich studied Inventive Design Engineering at Purdue University. He later earned a master’s in Industrial Design at Georgia Tech. Ullrich has also taught Smart Objects, a tangible design course, at the School of Visual Arts in New York. It is programs and experiences like this that shape the way the Tomorrow",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T12:43:36+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/3d-printers-printing-blue-plastic-parts-workbench.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.techradar.com/live/news/amazon-black-friday-deals-2026-november-25",
-    "title": "Amazon Black Friday deals live: save big on AirPods, Fire TV, iPad, PS5 & Xbox controllers, and more",
-    "description": "You don't want to miss the Amazon Black Friday deals — some might sell out before the day, they're that good, including record-low prices on AirPods Pro 3 and half-price Echo devices.",
-    "categories": [
-      "Breaking News",
-      "Gaming"
-    ],
-    "pub_date": "2026-11-25T12:42:11+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/JygEaL5iiwaYpjYgpVnV5R-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/televisions/i-tested-lgs-budget-oled-tv-against-tcl-and-hisenses-affordable-mini-led-tvs-side-by-side-this-is-the-one-id-pick-on-black-friday",
-    "title": "I tested TCL, Hisense and LG’s budget-friendly TVs side by side",
-    "description": "There are plenty of great-value TVs available, and I've tested three of the very best side-by-side to see which comes out on top.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T12:39:44+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/J2aKQRGUqAQZJLwksNVe6C-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/nov-25-amazon-ember-artline-black-friday-deal",
-    "title": "Amazons take on the Frame TV is at its best-ever price — save $200 on the Ember Artline",
-    "description": "Get the best TV deal. Save 29% on the Ember Artline at Amazon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T12:32:58+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/02TYYW0DpsizB74wgL0t3fY/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261125/p18#a261125p18",
-    "title": "EA says it used AI and archival recordings to add late soccer commentator John Motson to EA Sports FC 27, with permission from Motson's widow and son (Tom Gerken/BBC)",
-    "description": "Tom Gerken / BBC:\nEA says it used AI and archival recordings to add late soccer commentator John Motson to EA Sports FC 27, with permission from Motson's widow and son  —  Football game EA Sports FC will feature the digitally recreated voice of the late commentator John Motson, Electronic Arts has exclusively told the BBC.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T12:25:01+00:00",
-    "image_url": "http://www.techmeme.com/261125/i18.jpg",
-    "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/massive-data-breach-exposes-2-billion-credentials-email-addresses-login-names-passwords-and-more-all-leaked-online-in-major-database-breach",
-    "title": "Massive data breach exposes 2 billion credentials — email addresses, login names, passwords, and more all leaked online in major database breach",
-    "description": "One of the biggest archives ever was just discovered, hosting millions of Google, Facebook, and Roblox credentials.",
-    "categories": [
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-11-25T12:25:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/SEXM8ah9EKKpBKB22d7Ak3-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.engadget.com/2327763/whatsapp-is-testing-stickers-with-sound/",
-    "title": "WhatsApp is testing stickers with sound",
-    "description": "WhatsApp's newest public beta includes the ability to create stickers with sounds.",
-    "categories": [
-      "Social & Media",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-25T12:24:57+00:00",
-    "image_url": "https://www.engadget.com/img/gallery/whatsapp-is-testing-stickers-with-sound/l-intro-1795609389.jpg",
-    "source_name": "ENGADGET.COM"
   }
 ]
