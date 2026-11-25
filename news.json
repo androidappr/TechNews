@@ -1,5 +1,54 @@
 [
   {
+    "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+    "title": "Want to buy your kid an AI toy this Christmas? Not in New York.",
+    "description": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Gadgets & Hardware",
+      "Government & Policy"
+    ],
+    "pub_date": "2026-11-25T18:11:46+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/25/apple-touts-longest-battery-life-ever-in-an-iphone-in-playful-new-18-pro-max-ad/",
+    "title": "Apple touts ‘longest battery life ever in an iPhone’ in playful new 18 Pro Max ad",
+    "description": "Apple just dropped a playful new iPhone 18 Pro Max ad that touts the model’s “longest battery life ever in an iPhone.” \n\n\n\n more…",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T18:11:34+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-18pro.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://www.techradar.com/pro/security/hackers-breach-cia-system-in-possible-artex-cyberattack-and-leak-unclassified-data",
+    "title": "Hackers breach CIA system in possible ARTEX cyberattack and leak unclassified data",
+    "description": "Three US spy agencies were broken into but the stolen data is not classified or secret.",
+    "categories": [
+      "Cybersecurity & Privacy"
+    ],
+    "pub_date": "2026-11-25T18:05:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/w5HHBqWBbpqbkwJPBrYVBT-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/anthropic-claude-messages-api-rust-migration",
+    "title": "Claude rewrote the API that serves Claude. Checking its work was harder",
+    "description": "Anthropic has moved its Messages API from Python to Rust with Claude agents writing and fixing much of the code. Its tests could not be trusted, so it compared the two versions on live traffic, and says the new API uses about 70% less CPU per request. Anthropic has moved the main API behind Claude",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News"
+    ],
+    "pub_date": "2026-11-25T18:04:59+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/anthropic-sign-office-building-entrance.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://mashable.com/life/best-black-friday-cleaning-household-essential-deals-2026",
     "title": "The best Black Friday deals on cleaning supplies and household essentials",
     "description": "Shop the best boring but essential Black Friday deals on laundry detergent, trash bags, cleaning supplies, and household basics.",
@@ -35,6 +84,18 @@
     "source_name": "THEVERGE.COM"
   },
   {
+    "link": "https://www.techradar.com/computing/keyboards/ive-spent-years-testing-mechanical-analog-and-membrane-gaming-keyboards-these-are-my-top-picks-for-black-friday",
+    "title": "I’ve tested mechanical, analog, and membrane gaming keyboards — these are my top Black Friday picks",
+    "description": "Are mechanical switches still the undisputed champ for gaming? Here are all the options to consider in this year’s Black Friday sales.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T18:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/h4FVkpjSivRqxTrkWBEEcG-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
     "link": "https://www.techradar.com/pro/nvidias-rtx-5090-costs-usd7-000-on-its-own-so-corsairs-usd2-600-black-friday-discount-on-this-full-64gb-pc-is-wild-value",
     "title": "Nvidia's RTX 5090 costs $7,000 on its own — so Corsair's $2,600 Black Friday discount on this full 64GB PC is wild value",
     "description": "The Corsair Vengeance i7600 Air is the cheapest RTX 5090 PC out there. With the standalone GPU costing $7,000, this entire prebuild is a steal at $8,700.",
@@ -44,6 +105,18 @@
     "pub_date": "2026-11-25T17:55:40+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/rEu6vqKE7msm6Fp7uZh6WB-1920-80.png",
     "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2328361/this-dollar1900-alienware-aurora-is-one-of-the-best-early-black-friday-pc-deals/",
+    "title": "This $1,900 Alienware Aurora is one of the best early Black Friday PC deals",
+    "description": "If you purchased them separately, just the price of its CPU, GPU and RAM goes for around $1,750.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T17:54:07+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/this-1900-alienware-aurora-is-one-of-the-best-early-black-friday-pc-deals/l-intro-1795629186.jpg",
+    "source_name": "ENGADGET.COM"
   },
   {
     "link": "https://thenextweb.com/news/sap-employee-conduct-qorelo-espionage-complaint",
@@ -2289,75 +2362,5 @@
     "pub_date": "2026-11-25T11:50:24+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/RtEESWuApamXt3D9yR5WGh-1920-80.png",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/australia-duty-of-care-right-to-sue-fines-2",
-    "title": "Australia passes online safety law letting users sue big tech",
-    "description": "Australians have won the right to sue tech companies over online harm, after the country’s digital duty of care law passed parliament on Wednesday. The Senate approved the bill under a deal Communications Minister Anika Wells struck with the Greens a day earlier. Instead of regulators chasing harmful content after it spreads, the law makes",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T11:50:22+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/parliament-house-canberra-night.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/best-gifts-for-dads-2026/",
-    "title": "The 36 Best Gifts for Dads (2026)",
-    "description": "Dads are typically tough to shop for. Let me help with these WIRED-tested gift ideas.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T11:49:00+00:00",
-    "image_url": "https://media.wired.com/photos/6b064e68966159a4e56ddef8/master/pass/The-36-Very-Best-Gifts-for-Dads.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/deephealth-mammo-risk-fda-clearance-five-year-breast-cancer-risk",
-    "title": "FDA clears DeepHealth’s AI that predicts breast cancer risk 5 years ahead",
-    "description": "The US Food and Drug Administration has cleared DeepHealth’s Mammo Risk. The AI software estimates a woman’s chance of developing breast cancer within three, four or five years. It works from a routine 3D mammogram, with no extra scan. The FDA cleared it on 23 November, the RadNet subsidiary said in a press release on",
-    "categories": [
-      "AI & Machine Learning",
-      "Breaking News",
-      "Science & Environment"
-    ],
-    "pub_date": "2026-11-25T11:48:52+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/woman-holding-pink-breast-cancer-ribbon.avif",
-    "source_name": "THENEXTWEB.COM"
-  },
-  {
-    "link": "https://mashable.com/entertainment/amelia-dimoldenberg-jimmy-fallon-interview",
-    "title": "Amelia Dimoldenberg being interviewed by Jimmy Fallon is hilariously awkward",
-    "description": "\"Chicken Shop Date\" host Amelia Dimoldenberg appeared on \"The Tonight Show\" for a hilariously awkward interview with Jimmy Fallon.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T11:47:41+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/videos/01OkQg8mJR5UJFR5FPGtTmF/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/nov-25-ecovacs-deebot-x12s-omnicyclone-black-friday-deal",
-    "title": "The Ecovacs Deebot X12S OmniCyclone robot vacuum and mop drops to $899 at Amazon — save 31% for Black Friday",
-    "description": "Snag the Ecovacs Deebot X12S OmniCyclone robot vacuum and mop for $899 at Amazon — $400.99 (or 31%) off its $1,299.99 list price for Black Friday.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T11:45:36+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06GNL5ZUy8pYHTaRHhXr4D6/hero-image.png",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techmeme.com/261125/p17#a261125p17",
-    "title": "US court documents detail a Commerce Department pressure campaign on Intel to acquire a 10% equity stake in 2025, warning rejection would carry \"consequences\" (Noah Shachtman/Wired)",
-    "description": "Noah Shachtman / Wired:\nUS court documents detail a Commerce Department pressure campaign on Intel to acquire a 10% equity stake in 2025, warning rejection would carry “consequences”  —  Donald Trump's dealings with Intel reveal yet another a government-led pressure campaign involving a private company, court documents show.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T11:45:01+00:00",
-    "image_url": "http://www.techmeme.com/261125/i17.jpg",
-    "source_name": "TECHMEME.COM"
   }
 ]
