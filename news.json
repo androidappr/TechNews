@@ -1,5 +1,38 @@
 [
   {
+    "link": "https://www.techradar.com/pro/phision-shows-off-a-new-ssd-design-with-its-own-npu-and-64gb-of-memory-which-it-says-can-cut-data-transfers-by-10-to-100-times",
+    "title": "Phision shows off a new SSD design with its own NPU and 64GB of memory — which it says can cut data transfers by 10 to 100 times",
+    "description": "Phison's new SSD design packs an NPU and 64GB of 130GB/s memory to filter data before it leaves the drive, but it might be some time before you can buy one.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T22:15:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/uvUx7cKcA7cZivjNrQo6ZK-1920-80.png",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/phones/dropped-your-phone-one-ui-9-5-betas-new-feature-will-remind-you-to-sign-up-for-samsung-care/",
+    "title": "Dropped your phone? One UI 9.5 Beta’s new feature will remind you to sign up for Samsung Care+",
+    "description": "An APK teardown of One UI 9.5 Beta 1 shows Samsung's Warranty Care app may rely on detected drop events to pitch Samsung Care Plus coverage to Galaxy users.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-25T22:07:30+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Samsung-Galaxy-Z-Fold-8-DT.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261125/p38#a261125p38",
+    "title": "Sources: US chip curbs stall billions in data center loans tied to ByteDance, Alibaba, and Tencent, with some lenders delaying a $6.6B Bridge Data Centres loan (Bloomberg)",
+    "description": "Bloomberg:\nSources: US chip curbs stall billions in data center loans tied to ByteDance, Alibaba, and Tencent, with some lenders delaying a $6.6B Bridge Data Centres loan  —  Lenders have hit the brakes on billions of dollars in loans tied to Chinese firms ByteDance, Alibaba and Tencent …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T22:05:01+00:00",
+    "image_url": "http://www.techmeme.com/261125/i38.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techradar.com/gaming/no-path-of-exile-2-isnt-worried-about-diablo-v-because-whenever-blizzard-makes-a-game-it-attracts-more-people-to-the-genre",
     "title": "No, Path of Exile 2 isn't worried about Diablo V because 'whenever Blizzard makes a game, it attracts more people to the genre'",
     "description": "We spoke to Jonathan Rogers ahead of Path of Exile 2’s full 1.0 release, including the studio’s thoughts on Diablo",
@@ -23,6 +56,18 @@
     "source_name": "TECHRADAR.COM"
   },
   {
+    "link": "https://mashable.com/tech/nov-25-eufy-robot-vacuum-black-friday-deal",
+    "title": "The Eufy C28 robot vacuum is over $400 off in Amazons Black Friday sale",
+    "description": "Get the best robot vacuum deal. Save 53% on the eufy C28 at Amazon.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T22:00:00+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/02I4HYvEexIvLAv4YymovXe/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/phones/i-found-5-amazon-black-friday-charging-accessory-deals-that-wont-let-your-phone-die/",
     "title": "I found 5 Amazon Black Friday charging accessory deals that won’t let your phone die",
     "description": "Five chargers and power banks I'd buy from Amazon's Black Friday sale, sorted from the cheapest to the priciest.",
@@ -44,6 +89,18 @@
     ],
     "pub_date": "2026-11-25T21:51:26+00:00",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&crop=2.859375,3.7218027238494,93.788122558594,91.658221639303",
+    "source_name": "THEVERGE.COM"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
+    "title": "The Verge’s 2026 holiday gift guide for travelers",
+    "description": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they go. Whether they're your kindred spirit or the person you live vicariously through, one",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-25T21:48:00+00:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_TRAVEL.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source_name": "THEVERGE.COM"
   },
   {
@@ -935,8 +992,7 @@
     "title": "I Tried Using Meta Muse and ChatGPT Dots to Save on Groceries. They’re Not Quite There Yet",
     "description": "I tried using AI agents to build me the cheapest grocery order possible. They exhibited a startling lack of curiosity and autonomous thinking.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-25T18:14:33+00:00",
     "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/Dots-Hero-Image.png",
@@ -959,7 +1015,6 @@
     "description": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware",
       "Government & Policy"
     ],
@@ -972,7 +1027,6 @@
     "title": "Apple touts ‘longest battery life ever in an iPhone’ in playful new 18 Pro Max ad",
     "description": "Apple just dropped a playful new iPhone 18 Pro Max ad that touts the model’s “longest battery life ever in an iPhone.” \n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-25T18:11:34+00:00",
@@ -1007,8 +1061,7 @@
     "title": "Gen Z is the least interested in AI at work – and it’s not even close",
     "description": "Younger workers don’t find AI useful, according to a recent survey.",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-25T18:07:00+00:00",
     "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1183759564.jpg",
@@ -1030,8 +1083,7 @@
     "title": "Claude rewrote the API that serves Claude. Checking its work was harder",
     "description": "Anthropic has moved its Messages API from Python to Rust with Claude agents writing and fixing much of the code. Its tests could not be trusted, so it compared the two versions on live traffic, and says the new API uses about 70% less CPU per request. Anthropic has moved the main API behind Claude",
     "categories": [
-      "AI & Machine Learning",
-      "Breaking News"
+      "AI & Machine Learning"
     ],
     "pub_date": "2026-11-25T18:04:59+00:00",
     "image_url": "https://media.thenextweb.com/2026/10/anthropic-sign-office-building-entrance.avif",
@@ -2282,62 +2334,5 @@
     "pub_date": "2026-11-25T14:52:41+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/02QnSBUz1dHzOYzZuRDzrLl/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/gaming/the-very-unofficial-gta-6-pc-ports-are-speeding-ahead-with-chapter-1-seemingly-now-playable-but-rockstar-is-rumored-to-be-playing-whack-a-mole-with-these-projects",
-    "title": "Unofficial GTA 6 PC ports are speeding ahead, with Chapter 1 now playable",
-    "description": "Some believe we'll have 'GTA 6 on PC at 30fps maybe during or after this weekend' — but is it possible that these unofficial ports will move this fast?",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-25T14:51:40+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/WYE34Sh9dRBvosnkWpniRJ-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/25/apple-tv-just-added-new-movie-to-expanding-lineup-more-coming-soon/",
-    "title": "Apple TV just added new movie to expanding lineup, more coming soon",
-    "description": "Apple TV (now $6.99/month for Black Friday) just added a new original movie: Way of the Warrior Kid starring Chris Pratt. The streamer also has a new batch of beloved classic films coming next week.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T14:48:43+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-intro-vibrant.jpg?quality=82&strip=all&w=1600",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.techradar.com/health-fitness/fitness-trackers/black-friday-garmin-deals-2026",
-    "title": "The best early Black Friday Garmin deals, picked by a smartwatch tester",
-    "description": "I've been reviewing Garmins and tracking Garmin deals for years, and I'm in the best possible place to help you find your perfect Garmin watch.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T14:47:45+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/NzDDKyZ7Rk6CAkm2UC29KV-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/beat-rising-ram-and-ssd-prices-this-black-friday-one-simple-trick-knocks-usd348-off-this-four-piece-amd-pc-component-bundle-at-newegg",
-    "title": "Newegg knocks $348 off its AMD Ryzen 7 5800X3D PC bundle for Black Friday",
-    "description": "Building a PC this Black Friday? Newegg's AMD Ryzen 7 5800X3D component bundle gets a welcome $348 price cut.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T14:46:10+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/fG4yoQ2hLLUApJQuqDAE5k-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://gizmodo.com/one-of-the-worlds-rarest-wild-dogs-is-even-rarer-than-scientists-thought-2000845006",
-    "title": "One of the World’s Rarest Wild Dogs Is Even Rarer Than Scientists Thought",
-    "description": "Conservationists waded through over 2.1 million camera-trap images from sites across South America. They were 100 times more likely to see a jaguar than the ultra-rare bush dog.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T14:45:16+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/11/bush-dog-Speothos-venaticus-rare-1280x853.jpeg",
-    "source_name": "GIZMODO.COM"
   }
 ]
