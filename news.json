@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.techmeme.com/261125/p10#a261125p10",
+    "title": "VW's ID. Era 5S sedan, built in China for China with VW's most advanced automated-driving system, reflects China's rise as a source of cutting-edge auto tech (Bloomberg)",
+    "description": "Bloomberg:\nVW's ID. Era 5S sedan, built in China for China with VW's most advanced automated-driving system, reflects China's rise as a source of cutting-edge auto tech  —  Developers in the world's biggest auto market are building the software and cars VW needs to better compete globally.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-25T07:35:01+00:00",
+    "image_url": "http://www.techmeme.com/261125/i10.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261125/p9#a261125p9",
     "title": "Chinese EDA software provider Phlexing says it has been collaborating with Huawei since 2019 to develop a suite of EDA tools based on Huawei's Tau Scaling Law (Nikkei Asia)",
     "description": "Nikkei Asia:\nChinese EDA software provider Phlexing says it has been collaborating with Huawei since 2019 to develop a suite of EDA tools based on Huawei's Tau Scaling Law  —  TAIPEI — China's Huawei Technologies and a local partner say they have overcome a U.S. crackdown on its use of advanced chip design tools …",
@@ -307,7 +319,6 @@
     "title": "U.S. Spying Agencies Reportedly Hacked",
     "description": "Anonymous New York Times sources blame an AI hacking tool, and suggest China may have been the culprit.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-25T03:13:55+00:00",
@@ -648,17 +659,6 @@
     "source_name": "ENGADGET.COM"
   },
   {
-    "link": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-25-november-2026",
-    "title": "NYT Connections hints and answers for Wednesday, November 25 (game #1263)",
-    "description": "Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.",
-    "categories": [
-      "Gaming"
-    ],
-    "pub_date": "2026-11-25T00:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
     "link": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-25-november-2026",
     "title": "Quordle hints and answers for Wednesday, November 25 (game #1766)",
     "description": "Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.",
@@ -667,6 +667,17 @@
     ],
     "pub_date": "2026-11-25T00:00:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg",
+    "source_name": "TECHRADAR.COM"
+  },
+  {
+    "link": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-25-november-2026",
+    "title": "NYT Connections hints and answers for Wednesday, November 25 (game #1263)",
+    "description": "Looking for NYT Connections answers and hints? Here's all you need to know to solve today's game, plus my commentary on the puzzles.",
+    "categories": [
+      "Gaming"
+    ],
+    "pub_date": "2026-11-25T00:00:00+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
   },
   {
@@ -2241,16 +2252,5 @@
     "pub_date": "2026-11-24T18:26:43+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/3yyxfHcab8auk8Qy894DLC-1920-80.jpg",
     "source_name": "ANDROIDCENTRAL.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/google-workspace-ai-agents-mcp-servers-rules",
-    "title": "Google will make AI agents use new gateways to reach Gmail and Drive",
-    "description": "Google has made its Workspace MCP servers and CLI generally available and says AI agents must use them instead of existing REST APIs from February 1, 2027. Every call is checked against company policies, sensitive actions need user confirmation, and a new addendum bars AI tools from training on Workspace data. Google will require AI",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-24T18:24:54+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/google-logo-neon-sign-office-wall-sydney.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
