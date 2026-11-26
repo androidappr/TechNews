@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://www.androidcentral.com/apps-software/1password-confirms-backend-data-breach-heres-what-hackers-actually-stole",
+    "title": "1Password confirms backend data breach — here’s what hackers actually stole",
+    "description": "1Password confirms customer data stolen, but no vault contents touched.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-26T04:11:53+00:00",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/jUTessiAh4x7EyxQB4zHzL-1920-80.jpg",
+    "source_name": "ANDROIDCENTRAL.COM"
+  },
+  {
     "link": "https://www.techmeme.com/261125/p47#a261125p47",
     "title": "Sources: Trump's national security adviser, Secretary Marco Rubio, was not involved in efforts to reinstate Jensen Huang and expressed anger at his return (Jo Ling/CBS News)",
     "description": "Jo Ling / CBS News:\nSources: Trump's national security adviser, Secretary Marco Rubio, was not involved in efforts to reinstate Jensen Huang and expressed anger at his return  —  Jennifer Jacobs is a senior White House reporter at CBS News.  —  National correspondent, “CBS News Sunday Morning;” Chief Washington analyst",
@@ -353,7 +365,6 @@
     "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
     "description": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-In and $77 Onn Floodlight Camera Hardwired. However, a Google Home Premium subscription is still required",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-26T00:04:34+00:00",
@@ -469,6 +480,7 @@
     "title": "1Password confirms security incident, here’s what you need to know",
     "description": "Password management platform 1Password today disclosed a security incident in which an attacker gained access to internal systems and stole select customer account information. Here are the details.\n\n\n\n more…",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-25T23:30:05+00:00",
@@ -2261,17 +2273,5 @@
     "pub_date": "2026-11-25T16:57:51+00:00",
     "image_url": null,
     "source_name": "TECHCRUNCH.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/siemens-ai-unpacking-robot-production-planner-sps-2026",
-    "title": "Siemens is building an AI robot to unpack parts at its Erlangen plant",
-    "description": "Siemens is developing a robot that uses AI foundation models to unpack component deliveries at its Erlangen electronics plant, a job fixed robot programs cannot handle. At SPS 2026 it also showed an AI planner that it expects to cut manual planning work by 70% and costs by up to 20%. Siemens is developing an",
-    "categories": [
-      "AI & Machine Learning",
-      "Business & Startups"
-    ],
-    "pub_date": "2026-11-25T16:55:37+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/siemens-ai-robot-unpacking-erlangen.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
