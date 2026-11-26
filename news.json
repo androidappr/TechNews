@@ -1,5 +1,42 @@
 [
   {
+    "link": "https://www.techmeme.com/261126/p6#a261126p6",
+    "title": "Q&A with Signal's Moxie Marlinspike on AI and cryptography, his privacy-focused AI chat service Confer, surveilling AI models rather than users, and more (Tyler Cowen/Conversations with Tyler)",
+    "description": "Tyler Cowen / Conversations with Tyler:\nQ&A with Signal's Moxie Marlinspike on AI and cryptography, his privacy-focused AI chat service Confer, surveilling AI models rather than users, and more  —  Moxie Marlinspike built Signal and designed the encryption protocol underneath it — the same protocol that also secures WhatsApp, Facebook Messenger, and Skype.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-26T08:55:02+00:00",
+    "image_url": "http://www.techmeme.com/261126/i6.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/apple-removes-minimax-talkie-app-store-child-safety",
+    "title": "Apple removes MiniMax’s Talkie AI app from App Store over child safety",
+    "description": "Apple has removed Talkie, an AI companion app made by Chinese AI company MiniMax, from its App Store worldwide. The move came after reports that the app’s AI characters had sent sexualised messages to children. The removal followed a joint investigation by Australian broadcaster ABC News and the UK-based Bureau of Investigative Journalism, published on",
+    "categories": [
+      "Breaking News",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-26T08:54:43+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/apple-logo-store-window-silhouettes-black-white.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/fcc-approves-spacex-orbital-data-centre-satellites",
+    "title": "SpaceX wins FCC approval for Starmind orbital data centre network",
+    "description": "The US Federal Communications Commission has given SpaceX conditional approval to launch up to 1 million satellites that would work as data centres for AI in orbit, and it is the first time the FCC has approved an orbital data centre constellation. The FCC authorisation, granted on Wednesday, covers a network SpaceX calls Starmind, flying",
+    "categories": [
+      "Breaking News",
+      "Business & Startups",
+      "Science & Environment"
+    ],
+    "pub_date": "2026-11-26T08:44:40+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/spacex-falcon-heavy-launch-pad-39a-hangar.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/computing/google-adds-word-file-support-to-the-compare-documents-tool-in-docs/",
     "title": "Google adds Word file support to the Compare documents tool in Docs",
     "description": "Google Docs can now compare Microsoft Word files with Google Docs without converting the Word file first, and the originals stay unchanged.",
@@ -517,7 +554,6 @@
     "title": "Forget pricey iPads: Samsung’s Galaxy Tab A11+ just hit its all-time low price of AU$249 for Black Friday",
     "description": "After Apple hiked the prices of its iPads earlier this year, Samsung’s budget slate has become our go-to recommendation for a no-frills tablet, and this record-low price makes it a no-brainer pick.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-26T02:55:55+00:00",
@@ -2209,38 +2245,5 @@
     "pub_date": "2026-11-25T18:07:21+00:00",
     "image_url": "https://helios-i.mashable.com/imagery/articles/02YiZXMs4n6SUYrH0SvwR3k/hero-image.jpg",
     "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://gizmodo.com/the-lord-of-the-rings-the-hunt-for-gollum-has-officially-wrapped-production-2000845069",
-    "title": "‘The Lord of the Rings: The Hunt for Gollum’ Has Officially Wrapped Production",
-    "description": "Andy Serkis directs and stars with Elijah Wood and Ian McKellen in the film that takes place alongside Peter Jackson's 'Lord of the Rings' trilogy.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T18:07:04+00:00",
-    "image_url": "https://gizmodo.com/app/uploads/2026/11/hunt-for-gollum-crop-1280x853.jpg",
-    "source_name": "GIZMODO.COM"
-  },
-  {
-    "link": "https://www.zdnet.com/innovation/gen-z-employees-ai-survey/",
-    "title": "Gen Z is the least interested in AI at work – and it’s not even close",
-    "description": "Younger workers don’t find AI useful, according to a recent survey.",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-25T18:07:00+00:00",
-    "image_url": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1183759564.jpg",
-    "source_name": "ZDNET.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/hackers-breach-cia-system-in-possible-artex-cyberattack-and-leak-unclassified-data",
-    "title": "Hackers breach CIA system in possible ARTEX cyberattack and leak unclassified data",
-    "description": "Three US spy agencies were broken into but the stolen data is not classified or secret.",
-    "categories": [
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-11-25T18:05:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/w5HHBqWBbpqbkwJPBrYVBT-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
   }
 ]
