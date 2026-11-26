@@ -1,5 +1,28 @@
 [
   {
+    "link": "https://www.techmeme.com/261126/p1#a261126p1",
+    "title": "Sensor Tower: Shein's app averaged ~6M MAUs in India in October, flat since January, vs. market leader Myntra's 100M; Reliance oversees Shein's India operations (Bloomberg)",
+    "description": "Bloomberg:\nSensor Tower: Shein's app averaged ~6M MAUs in India in October, flat since January, vs. market leader Myntra's 100M; Reliance oversees Shein's India operations  —  Shein Global Holdings Ltd.'s return to India through a local partner is off to a slow start, due to supply chain snags …",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-26T05:15:03+00:00",
+    "image_url": "http://www.techmeme.com/261126/i1.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/phones/gemini-lives-guided-vision-now-works-on-iphone-but-google-left-out-a-few-details/",
+    "title": "Gemini Live’s Guided Vision now works on iPhone, but Google left out a few details",
+    "description": "Gemini Live Guided Vision iOS, Guided Vision iPhone, Gemini Live camera accessibility, Gemini Guided Vision blind low vision, Gemini Live visual assistance",
+    "categories": [
+      "Breaking News",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-26T05:13:38+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/Guided-Vision.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/computing/1password-discloses-a-backend-breach-says-vaults-remain-secure/",
     "title": "1Password discloses a backend breach, says vaults remain secure",
     "description": "1Password says an attacker copied names and email addresses for a subset of customers after a GitHub account was compromised, but that customer vaults and the keys that protect them were not accessed.",
@@ -293,7 +316,6 @@
     "title": "Fast Fashion Fiasco: Shein to Pay $100 Million in FTC Complaint",
     "description": "The company agrees to the fine after the FTC alleged it deceived US customers.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-26T01:23:54+00:00",
@@ -417,6 +439,7 @@
     "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
     "description": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-In and $77 Onn Floodlight Camera Hardwired. However, a Google Home Premium subscription is still required",
     "categories": [
+      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-26T00:04:34+00:00",
@@ -532,7 +555,6 @@
     "title": "1Password confirms security incident, here’s what you need to know",
     "description": "Password management platform 1Password today disclosed a security incident in which an attacker gained access to internal systems and stole select customer account information. Here are the details.\n\n\n\n more…",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-25T23:30:05+00:00",
@@ -2236,29 +2258,5 @@
     "pub_date": "2026-11-25T17:05:04+00:00",
     "image_url": "http://www.techmeme.com/261125/i26.jpg",
     "source_name": "TECHMEME.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/security/you-do-increase-the-risk-of-something-going-wrong-microsoft-president-brad-smith-says-we-should-be-prepared-for-mass-outages-to-become-the-new-normal",
-    "title": "'You do increase the risk of something going wrong': Microsoft President Brad Smith says we should be prepared for mass outages to become the new normal",
-    "description": "Microsoft's President has warned that tech outages and disruptions could become normal until major infrastructure improvements are made.",
-    "categories": [
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-11-25T17:05:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/f5rHgMjfhkWWcCmCmjKyUj-1920-80.jpg",
-    "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://mashable.com/tech/data-center-emissions-pollution-worse-than-we-knew-harvard-study",
-    "title": "Data center emissions are worse than we knew, Harvard study confirms",
-    "description": "Anti-data center protesters appear to have good reason to be against the AI industry's interest in building more.",
-    "categories": [
-      "Breaking News",
-      "Tech News"
-    ],
-    "pub_date": "2026-11-25T17:02:11+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/01NcIed3A8UqMSCBiGPHbd2/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
   }
 ]
