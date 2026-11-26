@@ -1,5 +1,16 @@
 [
   {
+    "link": "https://www.digitaltrends.com/phones/samsung-galaxy-z-trifold-2-2027/",
+    "title": "Samsung might be giving the TriFold another go in 2027, and I’m rooting for it",
+    "description": "After years of being a niche segment, foldable smartphones have finally started gaining momentum in the mainstream market. The hype surrounding Apple’s iPhone Duo, alongside the success of the Galaxy Z Fold 8, has certainly helped. Now, it appears that Samsung might be trying its hand again at the TriFold, which is by far the",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-26T02:34:08+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/01/Galaxy-TriFold-HandsOn-01-scaled.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/gaming/ea-sports-fc-27s-newest-commentator-is-a-legend-who-died-in-2023/",
     "title": "EA Sports FC 27’s surprise new commentator is a legend who died in 2023",
     "description": "Electronic Arts is bringing back late BBC commentator John Motson in EA Sports FC 27 using old recordings and generative AI, sparking praise from his family and pushback from anti-cloning advocates.",
@@ -483,7 +494,6 @@
     "title": "How Search Technology Is Changing Online Discovery",
     "description": "A technology company can build something genuinely useful and still spend months introducing itself. A prospective customer, partner, or investor may first encounter the business through a search engine, an industry publication, or another website rather than its homepage. As AI search changes how people discover information online, search technology gives companies more ways to",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-25T22:45:41+00:00",
@@ -508,7 +518,6 @@
     "description": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gadgets & Hardware"
     ],
     "pub_date": "2026-11-25T22:44:32+00:00",
@@ -543,7 +552,6 @@
     "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
     "description": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-11-25T22:36:45+00:00",
@@ -923,7 +931,6 @@
     "title": "FCC approves SpaceX plan to put AI data centers in space",
     "description": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
     "categories": [
-      "Breaking News",
       "Business & Startups",
       "Science & Environment"
     ],
@@ -970,7 +977,6 @@
     "title": "The FCC Approved a Million SpaceX Satellites for Data Centers in Space",
     "description": "“I think this is a mistake,” one astrophysicist tells CNET.",
     "categories": [
-      "Breaking News",
       "Science & Environment"
     ],
     "pub_date": "2026-11-25T20:44:27+00:00",
@@ -2272,17 +2278,5 @@
     "pub_date": "2026-11-25T16:37:01+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/KoQSiH9V6bPxbHnoMhKMPf-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/claude-install-as-app-artifacts-mac-windows-desktop",
-    "title": "Claude can now turn its artifacts into Mac and Windows desktop apps",
-    "description": "Claude can now turn the artifacts it builds into desktop apps for Mac and Windows. Anthropic began rolling out the “Install as app” feature in beta on Tuesday, on every plan, it said. After installation, an artifact gets its own icon and opens in its own window instead of inside Claude. It can still use",
-    "categories": [
-      "AI & Machine Learning",
-      "Software & Apps"
-    ],
-    "pub_date": "2026-11-25T16:36:13+00:00",
-    "image_url": "https://media.thenextweb.com/2026/11/claude-website-thinking-partner-screen.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
