@@ -1,5 +1,88 @@
 [
   {
+    "link": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+    "title": "Is Alice Huang a spy or not?",
+    "description": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+    "categories": [
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-26T20:00:00+00:00",
+    "image_url": null,
+    "source_name": "TECHCRUNCH.COM"
+  },
+  {
+    "link": "https://www.digitaltrends.com/phones/googles-new-play-store-rule-could-put-developers-home-addresses-on-display-for-everyone/",
+    "title": "Google’s new Play Store rule could put developers’ home addresses on display for everyone",
+    "description": "Google's upcoming Play Store rules could expose the home addresses and phone numbers of independent Android developers worldwide, even though the European regulations behind the change don't require global disclosure.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-26T19:59:59+00:00",
+    "image_url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/06/Google-Play-Store-Photo.jpg?resize=440%2C292&ssl=1",
+    "source_name": "DIGITALTRENDS.COM"
+  },
+  {
+    "link": "https://www.techmeme.com/261126/p24#a261126p24",
+    "title": "Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month (Rajveer Singh Pardesi/Reuters)",
+    "description": "Rajveer Singh Pardesi / Reuters:\nBinance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month  —  Binance said on Thursday its withdrawal recovery work is complete and it has lifted its withdrawal suspension after a record $6.3 billion was stolen in a hack last month.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-26T19:55:02+00:00",
+    "image_url": "http://www.techmeme.com/261126/i24.jpg",
+    "source_name": "TECHMEME.COM"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/26/judge-orders-apple-to-produce-3200-documents-in-epic-games-dispute/",
+    "title": "Judge orders Apple to produce 3,200 documents in Epic Games dispute",
+    "description": "A federal judge has ordered Apple to produce a random sample of 3,200 documents for Epic Games to review, following Epic’s allegations that Apple improperly withheld more than 122,000 documents related to its proposed App Store commissions. Here are the details.\n\n\n\n more…",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-26T19:52:24+00:00",
+    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?quality=82&strip=all&w=1600",
+    "source_name": "9TO5MAC.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/memory-shortage-war-rooms-musk-samsung-wsj",
+    "title": "Firms set up memory chip ‘war rooms’ as some prices jump 10x, WSJ reports",
+    "description": "Electronics makers have set up procurement “war rooms” to hunt for memory chips. Prices for some chips have risen tenfold in a year, Jiyoung Sohn and Sooyoung Rhee reported for The Wall Street Journal. Staff scour eBay, call hundreds of brokers and buy batches as small as five to 12 units, the newspaper found. Smaller",
+    "categories": [
+      "AI & Machine Learning",
+      "Business & Startups",
+      "Gadgets & Hardware"
+    ],
+    "pub_date": "2026-11-26T19:51:41+00:00",
+    "image_url": "https://media.thenextweb.com/2026/10/circuit-board-processor-chip-macro.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
+    "link": "https://www.engadget.com/2329231/amazon-workers-plan-protests-on-black-friday-and-cyber-monday/",
+    "title": "Amazon workers around the world plan strikes and protests on Black Friday and Cyber Monday",
+    "description": "A campaign demanding that Amazon recognize and bargain with unions will see workers in more than 20 countries mobilize.",
+    "categories": [
+      "Breaking News",
+      "Tech News"
+    ],
+    "pub_date": "2026-11-26T19:44:49+00:00",
+    "image_url": "https://www.engadget.com/img/gallery/amazon-workers-around-the-world-plan-strikes-and-protests-on-black-friday-and-cyber-monday/l-intro-1795722145.jpg",
+    "source_name": "ENGADGET.COM"
+  },
+  {
+    "link": "https://thenextweb.com/news/moxie-marlinspike-ai-surveillance-confer-encryption",
+    "title": "Signal’s Moxie Marlinspike says AI safety is building mass surveillance",
+    "description": "Moxie Marlinspike, who built Signal, says the way AI companies police misuse is turning into the biggest mass surveillance system ever built. He wants the watching pointed at the AI models instead of the people using them, he told Tyler Cowen on Conversations with Tyler. The episode was recorded live at the Progress Conference on",
+    "categories": [
+      "AI & Machine Learning",
+      "Breaking News",
+      "Cybersecurity & Privacy",
+      "Software & Apps"
+    ],
+    "pub_date": "2026-11-26T19:42:36+00:00",
+    "image_url": "https://media.thenextweb.com/2026/11/moxie-marlinspike-portrait-dark-jacket-outdoors.avif",
+    "source_name": "THENEXTWEB.COM"
+  },
+  {
     "link": "https://www.digitaltrends.com/wearables/meta-smart-glasses-dutch-privacy-lawsuit/",
     "title": "Meta is staring at a smart glasses ban in another country over privacy fears",
     "description": "Dutch consumer and digital rights groups want Meta's Ray-Ban smart glasses sales halted over covert recording and AI training concerns.",
@@ -1089,7 +1172,6 @@
     "description": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
     "categories": [
       "AI & Machine Learning",
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-11-26T16:00:00+00:00",
@@ -1149,7 +1231,6 @@
     "title": "Man sentenced to 47 months in prison after using AI to impersonate streamer N3on",
     "description": "David Anthony Sanchez, the man who impersonated N3on, scammed victims out of $260,000 worth of cryptocurrency.",
     "categories": [
-      "Breaking News",
       "Gaming"
     ],
     "pub_date": "2026-11-26T15:50:37+00:00",
@@ -1161,7 +1242,6 @@
     "title": "Avicena, which links AI chips with microLEDs instead of lasers, raised a $100M+ Series C led by Intervest, with participation from SK Hynix, Samsung, and AMD (Cristian Dina/The Next Web)",
     "description": "Cristian Dina / The Next Web:\nAvicena, which links AI chips with microLEDs instead of lasers, raised a $100M+ Series C led by Intervest, with participation from SK Hynix, Samsung, and AMD  —  SK hynix, Samsung and AMD's venture arms joined the Series C. New chief executive Kevin Pope plans to bring the first LightBundle product to market next year.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-26T15:50:27+00:00",
@@ -1696,7 +1776,6 @@
     "title": "The Screens app will let you turn your iPhone Duo into an itty bitty MacBook",
     "description": "Edovia has updated its Screens remote desktop app with a new Laptop Mode for the iPhone Duo.",
     "categories": [
-      "Breaking News",
       "Mobile & Telecom"
     ],
     "pub_date": "2026-11-26T13:59:06+00:00",
@@ -2274,84 +2353,5 @@
     "pub_date": "2026-11-26T12:03:10+00:00",
     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Wallpaper-for-Apple-Kukatpally.jpeg?quality=82&strip=all&w=1600",
     "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://mashable.com/life/lowes-black-friday-free-mystery-bucket-giveaway-2026",
-    "title": "Lowe’s is giving away $15 million in Black Friday prizes: How to claim free Mystery Buckets and $2,000 appliances",
-    "description": "Lowe's is giving away $15 million in Black Friday prizes starting at 6 a.m. on Nov. 27, rewarding the first 150 MyLowe's Rewards members per store.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-26T12:02:28+00:00",
-    "image_url": "https://helios-i.mashable.com/imagery/articles/06kY1S6vophBTKbc5k6y9Td/hero-image.jpg",
-    "source_name": "MASHABLE.COM"
-  },
-  {
-    "link": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
-    "title": "From minimalist to maximalist: Ars staffers show off their home offices",
-    "description": "Our home offices range from tasteful to \"please explain yourself.\"",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-26T12:00:14+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-office-collage-2026-1152x648.jpg",
-    "source_name": "ARSTECHNICA.COM"
-  },
-  {
-    "link": "https://www.wired.com/story/heres-everything-you-can-do-with-with-the-new-gemini-ai-on-android-auto/",
-    "title": "Here’s Everything You Can Do With With the New Gemini AI on Android Auto",
-    "description": "Android Auto is now smarter than before, thanks to the addition of Gemini. You can navigate more easily and even bounce ideas off of it along the way.",
-    "categories": [
-      "AI & Machine Learning",
-      "Gadgets & Hardware"
-    ],
-    "pub_date": "2026-11-26T12:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/6b0407a462601105f3183aca/master/pass/GettyImages-2171438731.jpg",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://www.wired.com/gallery/best-keyboards/",
-    "title": "8 Best Keyboards (2026): My Honest Picks After Testing Dozens",
-    "description": "As a professional keyboard nerd, I’ve tested dozens and dozens of models. One of these eight picks should suit your needs—no matter your budget.",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-26T12:00:00+00:00",
-    "image_url": "https://media.wired.com/photos/68a91b1c8930cbd96bd0da81/master/pass/The%20Best%20Keyboards%20for%20Work%20and%20Play.png",
-    "source_name": "WIRED.COM"
-  },
-  {
-    "link": "https://9to5mac.com/2026/11/26/proton-pass-is-up-to-60-off-for-black-friday-and-it-does-way-more-than-just-store-your-passwords-sponsored/",
-    "title": "Proton Pass is up to 60% off for Black Friday, and it does way more than just store your passwords",
-    "description": "There’s a familiar interruption that comes with shopping online: you’ve found what you want, you’re ready to check out, and the store asks you to sign in. Was this the account with your usual password? Did you change it last time? Is it easier to reset it again?\n\n\n\nProton Pass is designed to take that friction out of your day. It creates strong, unique passwords, remembers them for you, and fills them in when you log in. But it also handles something a password alone can’t: keeping your real email address out of another retailer’s database.\n\n\n\n more…",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-26T12:00:00+00:00",
-    "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/lifestyle-laptop-pass-2048x1365-1.webp?w=1500",
-    "source_name": "9TO5MAC.COM"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls",
-    "title": "Waymo conquered city streets — why does it keep stumbling on freeways?",
-    "description": "Most people know not to try to pass highway patrol cars while performing a traffic break on a freeway. But on November 6th, a driverless Waymo on Interstate 280 failed that test. Video shows the robotaxi attempting to overtake two California Highway Patrol cruisers during a traffic break, a moving violation that could get a",
-    "categories": [
-      "Tech News"
-    ],
-    "pub_date": "2026-11-26T12:00:00+00:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/LA_WAYMO-FREEWAY.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source_name": "THEVERGE.COM"
-  },
-  {
-    "link": "https://www.techradar.com/pro/keeper-knocks-50-percent-off-its-personal-and-family-password-manager-plans-for-black-friday-with-prices-starting-at-just-usd2-15-a-month",
-    "title": "Tell hackers to buzz off: Keeper password manager gets 50% off for Black Friday",
-    "description": "Secure your online accounts without having to remember dozens of logins — Keeper's password manager gets 50% off this Black Friday.",
-    "categories": [
-      "Breaking News",
-      "Cybersecurity & Privacy"
-    ],
-    "pub_date": "2026-11-26T12:00:00+00:00",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/ffrcvAN8LnSzgbjFrjQ8Zm-1920-80.png",
-    "source_name": "TECHRADAR.COM"
   }
 ]
