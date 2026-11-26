@@ -24,6 +24,17 @@
     "source_name": "THENEXTWEB.COM"
   },
   {
+    "link": "https://mashable.com/tech/nvidia-dennys-plaque-reinstated-statement",
+    "title": "Dennys reinstates Nvidia plaque: Jensen, your booth is waiting",
+    "description": "Denny's Nvidia plaque was briefly removed after Nvidia CEO Jensen Huang resigned. It has now been reinstated, with Denny's voicing support for Huang.",
+    "categories": [
+      "Tech News"
+    ],
+    "pub_date": "2026-11-26T08:08:27+00:00",
+    "image_url": "https://helios-i.mashable.com/imagery/articles/00lbVJhGDFlN6cCsHIpZdD9/hero-image.png",
+    "source_name": "MASHABLE.COM"
+  },
+  {
     "link": "https://mashable.com/tech/best-early-black-friday-samsung-live-deals-2026",
     "title": "Black Friday deals from Samsung are live: Shop gaming monitors, TVs, and unlocked phones",
     "description": "Early Black Friday Samsung deals on Odyssey gaming monitors, OLED TVs, and Galaxy phones are live.",
@@ -529,7 +540,6 @@
     "title": "New York is banning AI chatbot toys for kids. Heres what the law covers.",
     "description": "New York's five-year ban on children’s toys with AI companions starts Feb. 22, 2027. Here's which toys are covered and what safety tests found.",
     "categories": [
-      "Breaking News",
       "Tech News"
     ],
     "pub_date": "2026-11-26T02:41:25+00:00",
@@ -2232,16 +2242,5 @@
     "pub_date": "2026-11-25T18:05:00+00:00",
     "image_url": "https://cdn.mos.cms.futurecdn.net/w5HHBqWBbpqbkwJPBrYVBT-1920-80.jpg",
     "source_name": "TECHRADAR.COM"
-  },
-  {
-    "link": "https://thenextweb.com/news/anthropic-claude-messages-api-rust-migration",
-    "title": "Claude rewrote the API that serves Claude. Checking its work was harder",
-    "description": "Anthropic has moved its Messages API from Python to Rust with Claude agents writing and fixing much of the code. Its tests could not be trusted, so it compared the two versions on live traffic, and says the new API uses about 70% less CPU per request. Anthropic has moved the main API behind Claude",
-    "categories": [
-      "AI & Machine Learning"
-    ],
-    "pub_date": "2026-11-25T18:04:59+00:00",
-    "image_url": "https://media.thenextweb.com/2026/10/anthropic-sign-office-building-entrance.avif",
-    "source_name": "THENEXTWEB.COM"
   }
 ]
